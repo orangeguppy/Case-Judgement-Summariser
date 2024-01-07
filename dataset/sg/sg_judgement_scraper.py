@@ -1,7 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.webdriver.common.by import By
 
 # Scrape all pages
 def scrape_all_pages(num_pages):
@@ -37,6 +35,8 @@ def compile_judgements(urls):
         judgements.append(judgement)
     return judgements
 
-urls = scrape_all_pages(1)
+# Scrape a specified number of pages (includes pagination)
+num_pages_to_scrape = 2
+urls = scrape_all_pages(num_pages_to_scrape)
 judgements = compile_judgements(urls)
 print(judgements[2])
