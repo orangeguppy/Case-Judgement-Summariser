@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Scrape all pages (930), collect and combine all urls leading to individual judgement cases from all the pages
+# Link being scraped: https://www.elitigation.sg/gd (this code iterates through all pages in this link by changing the CurrentPage variable in the url)
 def scrape_all_pages(num_pages):
     urls = []
     for i in range(1, num_pages + 1):
@@ -12,6 +13,7 @@ def scrape_all_pages(num_pages):
     return urls
 
 # Get all links to judgement cases on a single page, this page contains a list of links linking to individual judgement cases
+# Example page being scraped: https://www.elitigation.sg/gd/Home/Index?Filter=SUPCT&YearOfDecision=All&SortBy=DateOfDecision&CurrentPage=2&SortAscending=False&PageSize=0&Verbose=False&SearchQueryTime=0&SearchTotalHits=0&SearchMode=True&SpanMultiplePages=False
 def extract_urls_from_page(url):
     # Store results
     urls = []
@@ -22,6 +24,7 @@ def extract_urls_from_page(url):
     return href_links
 
 # Scrape the judgement (text form) from a single page (containing one judgement only)
+# Example page being scraped: https://www.elitigation.sg/gd/s/2024_SGHCA_1
 def scrape_judgement(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
