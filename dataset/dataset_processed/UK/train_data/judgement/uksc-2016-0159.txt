@@ -1,0 +1,304 @@
+when an injunction is obtained against an innocent intermediary to prevent the use of his facilities by wrongdoers for unlawful purposes, who should pay the cost of complying with the order?
+the respondents are three swiss or german companies belonging to the richemont group.
+they design, manufacture and sell luxury branded goods such as jewellery, watches and pens under well known trade marks including cartier, montblanc and iwc.
+the internet has provided infringers with a powerful tool for selling counterfeit copies of branded luxury goods, generally of lower quality than the genuine article and at lower prices.
+it allows them access to a world wide market, as well as a simple way of concluding sales and collecting the price with practically complete anonymity.
+this illicit business is carried out on a large scale.
+the evidence is that at the outset of this litigation the respondents alone had identified some 46,000 websites offering infringing copies of their branded goods.
+the two appellants and three other defendants in the proceedings below (who did not participate in this appeal) are the five largest internet service providers (or isps) serving the united kingdom, with a combined market share exceeding 90%.
+they provide networks by which subscribers are able to access content on the internet.
+but they do not provide or store content.
+they are not even in a position to monitor it, for even if that was technically feasible given the volume of internet traffic, they are forbidden to do so by law.
+they have no contractual relationship with the operators of websites accessed through their networks, and are not necessarily in a position even to identify them.
+they do not therefore themselves use or infringe the marks or aid or abet others to do so.
+nonetheless, the facilities which they provide for their subscribers are a critical means by which the sellers of infringing goods are able to reach their customers.
+on 17 october and 26 november 2014 the respondents obtained injunctions from arnold j requiring the appellant isps to block or attempt to block access to specified target websites, their domains and sub domains and any other ip address or url notified to them whose purpose is to enable access to a target website.
+website blocking injunctions have become a familiar weapon in the continuing battle between the holders of intellectual property rights and infringers.
+there is an express statutory power to make such orders to protect copyrights under section 97a of the copyright, designs and patents act 1988.
+in twentieth century fox film corpn v british telecommunications plc [2012] 1 all er 806 and twentieth century fox film corpn v british telecommunications plc (no 2) [2012] 1 all er 869, arnold j dealt with a number of issues concerning website blocking injunctions in copyright cases.
+since then similar injunctions have been granted on 17 occasions against the appellant isps on the application of copyright owners, and they have achieved a high degree of standardisation.
+their use seems likely to increase.
+this is the first case in which a website blocking injunction has been granted to protect a trade mark.
+there is no specific statutory provision relating to trade marks corresponding to section 97a of the copyright, designs and patents act 1988.
+there was a major issue in the courts below about the jurisdiction of the court to make such an injunction under the general power conferred on the court by section 37(1) of the senior courts act 1981.
+there were also issues about some of the criteria for granting them.
+the court of appeal upheld the decision of arnold j on these points, and they are no longer in issue.
+this appeal is concerned with costs, and in particular with the costs to the isps of implementing website blocking orders.
+implementation costs vary according to the technology employed and the isps business model.
+but they fall, broadly speaking, under five heads: (i) the cost of acquiring and upgrading the hardware and software required to block the target sites; (ii) the cost of managing the blocking system, including customer service, and network and systems management; (iii) the marginal cost of the initial implementation of the order, which involves processing the application and configuring the isps blocking systems; (iv) the cost of updating the block over the lifetime of the orders in response to notifications from the rights holders, which involves reconfiguring the blocking system to accommodate the migration of websites from blocked internet locations; and (v) the costs and liabilities that may be incurred if blocking malfunctions through no fault of the isp, for example as a result of over blocking because of errors in notifications or malicious attacks provoked by the blocking.
+the isps do not complain about having to bear the costs under heads (i) and (ii).
+most if not all of those would be incurred in any event for other reasons, for example to block access to child abuse images or to provide facilities for parental controls.
+the main question at issue on the present appeal is whether the rights holders should have been required as a term of the order to indemnify the isps for implementation costs under heads (iii), (iv) and (v).
+the practice since twentieth century fox film corpn v british telecommunications plc (no 2) [2012] 1 all er 869 has been to order the rights holders to bear their costs of the unopposed proceedings to obtain website blocking orders but to leave the isps to bear the costs of implementing the orders.
+in his judgment in that case, at para 32, arnold j justified leaving the isps to pay the costs of implementation on two grounds.
+the first was essentially a consideration of commercial equity: the studios are enforcing their legal and proprietary rights as copyright owners and exclusive licensees bt is a commercial enterprise which makes a profit from the provision of the services which the operators and users of [the target website] use to infringe the studios copyright.
+as such, the costs of implementing the order can be regarded as a cost of carrying on that business.
+arnold js second ground was that it was implicit in the eu directives which require member states to make website blocking injunctions available.
+i shall return to this point when i come to deal with the directives.
+at any rate, the practice proposed by arnold j in 2011 has been followed ever since, and it was followed by arnold j himself in this case.
+the majority of the court of appeal (jackson and kitchin ljj, briggs lj dissenting) upheld him on this point also: [2017] bus lr 1.
+although the terms on which an injunction is granted are discretionary, the current practice has been adopted as a matter of principle and routinely applied.
+it is therefore necessary on this appeal for us to decide whether the principle is sound.
+that requires us to examine the legal basis on which website blocking injunctions are made.
+it is founded partly on domestic and partly on eu law.
+domestic law
+for much longer than there has been an internet or eu directives about it, the english courts have had jurisdiction in certain circumstances to order parties to assist those whose rights have been invaded by a wrongdoer.
+the historical origin of this jurisdiction is the bill of discovery in equity.
+the bill of discovery originated at a time when law and equity were separately administered.
+it was a proceeding in chancery ancillary to proceedings against the wrongdoer at law, in which the sole relief sought was an order for disclosure for use in the principal proceedings.
+in orr v diaper (1876) 4 ch d 92, the power to order disclosure was extended to a case where proceedings were not yet pending in another court, but the plaintiff wanted to know the names of those whom he might sue.
+hall v c ordered the innocent carrier of cotton thread bearing the plaintiffs counterfeit trade mark to disclose the name of the shipper which was as yet unknown to the rights holder.
+this was a limited departure from the original principle.
+a more significant departure occurred with the decision of lord romilly mr in upmann v elkan (1871) lr 12 eq 140.
+this decision marked the point at which the power to order a party to assist the plaintiff against a wrongdoer acquired a life of its own, independent of its origins in the bill of discovery.
+the facts were that the defendant freight forwarding agent was innocently in possession of consignments of counterfeit cigars in transit to germany through a london dock.
+the action was not for discovery, but for an order restraining the forwarder from releasing the goods and an account of damages, on the footing that he had himself infringed the mark.
+the forwarder volunteered the names of the consignors and agreed to submit to whatever order the court should make.
+that left only the question of the costs of the action.
+lord romilly mr accepted that the forwarder was not an infringer, but thought that he would have been if after being told of the infringement he had not performed his duty.
+his duty in lord romillys view (p 145) was at once to give all the information required, and to undertake that the goods shall not be removed or dealt with until the spurious brand has been removed, and to offer to give all facilities to the person injured for that purpose.
+the decision was affirmed on appeal by lord hatherley lc: (1871) lr 7 ch app 130.
+a century later, lord romillys judgment was the main basis in authority for the seminal decision of the house of lords in norwich pharmacal co v customs and excise comrs [1974] ac 133.
+norwich pharmacal was an action against the customs and excise for an order that they disclose the identity of those who, by importing drugs the subject of the plaintiffs patent, had infringed it.
+the customs and excise, although they were not themselves infringers or in any other way culpable, had control over the goods at the point of importation.
+they were therefore unwittingly involved in the infringement although not party to it.
+the house of lords held that disclosure should be ordered.
+the mere fact that the commissioners possessed the relevant information was not enough to justify this result.
+the decisive factor was that they had themselves facilitated the tort, albeit innocently.
+lord reid stated the principle as follows at p 175b c: if through no fault of his own a person gets mixed up in the tortious acts of others so as to facilitate their wrong doing he may incur no personal liability but he comes under a duty to assist the person who has been wronged by giving him full information and disclosing the identity of the wrongdoers.
+i do not think that it matters whether he became so mixed up by voluntary action on his part or because it was his duty to do what he did.
+it may be that if this causes him expense the person seeking the information ought to reimburse him.
+but justice requires that he should co operate in righting the wrong if he unwittingly facilitated its perpetration.
+the norwich pharmacal jurisdiction is commonly exercised for the purpose of assisting the claimant to bring or maintain proceedings against the wrongdoers, generally by providing information.
+but it is not limited to cases where proceedings against the wrongdoers are anticipated, or indeed to the provision of information.
+as lord fraser observed in british steel corpn v granada television ltd [1981] ac 1096, 1200c g, the injunction is sought for the vindication of bscs rights, and i do not think it matters whether separate proceedings are required for that purpose or not.
+this was confirmed by the house of lords in ashworth hospital authority v mgn ltd [2002] 1 wlr 2033, para 3, and by the supreme court in rugby football union v consolidated information services ltd (formerly viagogo ltd) [2012] 1 wlr 3333, para 15.
+the true basis of the courts intervention is that once the intermediary has been given notice of the infringement of the plaintiffs rights, his duty is to stop placing his facilities at the disposal of the wrongdoer.
+this is why it is critical that the intermediary should have been mixed up in the tortious acts of others.
+as it happened, the commissioners of customs and excise were mixed up in the importation pursuant to a statutory duty.
+they could not therefore be required to do more than provide information so as to allow direct proceedings against the infringers to stop the importation.
+but an intermediary who was free to terminate his involvement in the infringing trade, like the freight forwarder in upmann v elkan, could have been required to do so.
+i suggested in singularis holdings ltd v pricewaterhousecoopers [2015] ac 1675, para 22, that the duty to assist identified by lord reid was not a legal duty in the ordinary sense of the term.
+as lord reid himself put it in norwich pharmacal, the intermediary came under the duty without incurring personal liability.
+this is really only another way of saying that the court had an equitable jurisdiction to intervene.
+lord kilbrandon put the point very clearly in his own speech.
+citing the south african decision in colonial government v tatham (1902) 23 natal lr 153, 158, he said that the duty is said to lie rather on the court to make an order necessary to the administration of justice than on the respondent to satisfy some right existing in the plaintiff (p 205d e).
+it is not clear how the costs of compliance were dealt with in norwich pharmacal itself.
+the only member of the appellate committee to express a firm view in his speech was lord cross.
+the full costs of the respondent of the application and any expense incurred in providing the information, he observed at p 199g, would have to be borne by the applicant.
+lord reid, in the passage which i have quoted, tended to that view but more equivocally.
+the other members of the appellate committee agreed with the order proposed by lord reid, but without saying anything about compliance costs.
+subsequent practice has, however, been consistent.
+the ordinary rule, absent exceptional circumstances, is that the intermediary is entitled to the costs of compliance.
+the reason was explained by aldous lj, delivering the judgment of the court of appeal in totalise plc v the motley fool ltd [2002] 1 wlr 1233, para 29.
+the defendant operated an internet bulletin board for investors, on which account holders could post opinions and information.
+totalise complained that one account holder was posting defamatory messages under a pseudonym, and obtained a norwich pharmacal injunction requiring disclosure of his name.
+the court of appeal, overruling the judge, held that the defendant should have both the costs of the proceedings and the costs of implementation.
+aldous lj said: norwich pharmacal applications are not ordinary adversarial proceedings, where the general rule is that the unsuccessful party pays the costs of the successful party.
+they are akin to proceedings for pre action disclosure where costs are governed by cpr r 48.3.
+that rule, we believe, reflects the just outcome and is consistent with the views of lord reid and lord cross in the norwich pharmacal case [1974] ac 133, 176, 199.
+in general, the costs incurred should be recovered from the wrongdoer rather than from an innocent party each case will depend on its facts in a normal case the applicant should be ordered to pay the costs of the party making the disclosure including the costs of making the disclosure.
+a similar practice applies to the expense incurred by banks in complying with orders to disclose information for the purpose of enabling a party to trace the proceeds of fraud: bankers trust co v shapira [1980] 1 wlr 1274, 1281 1282 (ca).
+and to those incurred in complying with freezing orders: z ltd v a z and aa ll [1982] qb 558, 575 (lord denning mr) and 586 (kerr lj).
+the latter practice is now embodied in the model wording in pd 25a of the civil procedure rules.
+other innocent third parties, such as port authorities required by a freezing order to detain a vessel in port, are entitled to the same indemnity: clipper maritime co ltd of monrovia v mineralimportexport [1981] 1 wlr 1262, 1263 1264.
+in miller brewing co v mersey docks and harbour co [2004] fsr 5 an order for delivery up of goods bearing an infringing mark was made under sections 16 and 19 of the trade marks act 1994.
+the goods were in the physical custody of the dock authority, which had no responsibility for the infringement.
+it was conceded that the dock authority should be indemnified against its costs of compliance, but there was an issue as to the costs of the litigation.
+this was not, of course, a norwich pharmacal application.
+but neuberger j ordered that the trade mark proprietor should pay both, by analogy with the general rule on such applications.
+at para 30, he said: the logic behind that general rule is that, where an innocent third party has reasonably incurred legal costs to enable a claimant to obtain relief, then, as between the innocent third party and the innocent claimant, it is more unjust if the innocent third party has to bear his own legal cost than it is for the innocent claimant to pay them.
+after all, it is the claimant who is invoking the legal process to obtain a benefit, and the fact that the benefit is one to which he is legally entitled is not enough to justify an innocent third party having to be out of pocket.
+website blocking orders clearly require more than the mere disclosure of information.
+but i think that it is clear from the authorities and correct in principle that orders for the disclosure of information are only one, admittedly common, category of order which a court may make against a third party to prevent the use of his facilities to commit or facilitate a wrong.
+i therefore agree with the view expressed by briggs lj in his dissenting judgment in the court of appeal that the website blocking order made in this case could have been made quite apart from the power derived from european law, on ordinary principles of equity.
+the directives
+national laws concerning intellectual property rights, notably copyrights and trade marks, are partially harmonised by a series of eu directives.
+in particular, the protection of intellectual property rights infringed through the internet has important implications for the free movement of goods and services and is for that reason the subject of an elaborate scheme of european legislation.
+it is contained in a number of directives, of which three are relevant to the present issue.
+they are parliament and council directives 2000/31/ec (the e commerce directive), 2001/29/ec (the information society directive) and 2004/48/ec (the enforcement directive).
+the first two of these directives were conceived as a coherent whole and should be read together.
+the third extended and strengthened the provisions for their enforcement.
+the e commerce directive is primarily concerned with the regulation of information society services.
+the definition of these services is borrowed from article 1(2) of directive 98/34/ec as amended by article 1(2) of directive 98/48/ec, which regulates the provision of information relating to technical standards and regulation in member states.
+they are services of a kind that are normally remunerated, and provided at a distance by means of electronic equipment for the processing and storage of data at the individual request of a recipient of the service.
+the definition includes isps, which merely provide a communications network, as well as a variety of other services such as web hosting, internet search engines, portals and internet payment systems.
+the purpose of the directive is to enable the providers of information society services to operate across the european union on a common legal basis.
+one of the main challenges in this field is the prospect of diverse national laws dealing with the use of the internet for illegal activities.
+the scheme of the directive is that intellectual property rights continue to be governed by national law, as modified by the various harmonisation directives, but the e commerce directive (i) restricts the ability of member states to impose licensing requirements on internet intermediaries and (ii) requires them to provide immunity from liability under their national laws in respect of a wide range of normal internet operations.
+at the same time, the directive (iii) requires those who carry on certain operations to co operate in removing access to illegal material and provides, at this stage in very general terms, for ad hoc judicial intervention to stop illegal activity.
+the directive recites: (40) both existing and emerging disparities in member states legislation and case law concerning liability of service providers acting as intermediaries prevent the smooth functioning of the internal market, in particular by impairing the development of cross border services and producing distortions of competition; service providers have a duty to act, under certain circumstances, with a view to preventing or stopping illegal activities; this directive should constitute the appropriate basis for the development of rapid and reliable procedures for removing and disabling access to illegal information; such mechanisms could be developed on the basis of voluntary agreements between all parties concerned and should be encouraged by member states; it is in the interest of all parties involved in the provision of information society services to adopt and implement such procedures (42) the exemptions from liability established in this directive cover only cases where the activity of the information society service provider is limited to the technical process of operating and giving access to a communication network over which information made available by third parties is transmitted or temporarily stored, for the sole purpose of making the transmission more efficient; this activity is of a mere technical, automatic and passive nature, which implies that the information society service provider has neither knowledge of nor control over the information which is transmitted or stored. (43) a service provider can benefit from the exemptions for mere conduit and for caching when he is in no way involved with the information transmitted; this requires among other things that he does not modify the information that he transmits; this requirement does not cover manipulations of a technical nature which take place in the course of the transmission as they do not alter the integrity of the information contained in the transmission. (44) a service provider who deliberately collaborates with one of the recipients of his service in order to undertake illegal acts goes beyond the activities of mere conduit or caching and as a result cannot benefit from the liability exemptions established for these activities. (45) the limitations of the liability of intermediary service providers established in this directive do not affect the possibility of injunctions of different kinds; such injunctions can in particular consist of orders by courts or administrative authorities requiring the termination or prevention of any infringement, including the removal of illegal information or the disabling of access to it. (46) in order to benefit from a limitation of liability, the provider of an information society service, consisting of the storage of information, upon obtaining actual knowledge or awareness of illegal activities has to act expeditiously to remove or to disable access to the information concerned; the removal or disabling of access has to be undertaken in the observance of the principle of freedom of expression and of procedures established for this purpose at national level; this directive does not affect member states possibility of establishing specific requirements which must be fulfilled expeditiously prior to the removal or disabling of information. (47) member states are prevented from imposing a monitoring obligation on service providers only with respect to obligations of a general nature; this does not concern monitoring obligations in a specific case and, in particular, does not affect orders by national authorities in accordance with national legislation.
+articles 12 to 14 contain the limitations of liability referred to in recitals (46) and (47).
+these are the so called safe harbours.
+they provide that specified operations characteristic of the different kinds of information society service are not to give rise to liability.
+they are in the following terms: article 12 mere conduit 1.
+where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, or the provision of access to a communication network, member states shall ensure that the service provider is not liable for the information transmitted, on condition that the provider: (a) does not initiate the transmission; (b) does not select the receiver of the transmission; and (c) does not select or modify the information contained in the transmission. 2.
+the acts of transmission and of provision of access referred to in paragraph 1 include the automatic, intermediate and transient storage of the information transmitted in so far as this takes place for the sole purpose of carrying out the transmission in the communication network, and provided that the information is not stored for any period longer than is reasonably necessary for the transmission. 3.
+this article shall not affect the possibility for a court or administrative authority, in accordance with member states legal systems, of requiring the service provider to terminate or prevent an infringement.
+article 13 caching 1.
+where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, member states shall ensure that the service provider is not liable for the automatic, intermediate and temporary storage of that information, performed for the sole purpose of making more efficient the informations onward transmission to other recipients of the service upon their request, on condition that: the provider does not modify the information; the provider complies with conditions on access (a) (b) to the information; (c) the provider complies with rules regarding the updating of the information, specified in a manner widely recognised and used by industry; the provider does not interfere with the lawful (d) use of technology, widely recognised and used by industry, to obtain data on the use of the information; and (e) the provider acts expeditiously to remove or to disable access to the information it has stored upon obtaining actual knowledge of the fact that the information at the initial source of the transmission has been removed from the network, or access to it has been disabled, or that a court or an administrative authority has ordered such removal or disablement. 2.
+this article shall not affect the possibility for a court or administrative authority, in accordance with member states legal systems, of requiring the service provider to terminate or prevent an infringement.
+article 14 hosting 1.
+where an information society service is provided that consists of the storage of information provided by a recipient of the service, member states shall ensure that the service provider is not liable for the information stored at the request of a recipient of the service, on condition that: (a) the provider does not have actual knowledge of illegal activity or information and, as regards claims for damages, is not aware of facts or circumstances from which the illegal activity or information is apparent; or (b) the provider, upon obtaining such knowledge or awareness, acts expeditiously to remove or to disable access to the information.
+paragraph 1 shall not apply when the recipient of the 2. service is acting under the authority or the control of the provider. 3.
+this article shall not affect the possibility for a court or administrative authority, in accordance with member states legal systems, of requiring the service provider to terminate or prevent an infringement, nor does it affect the possibility for member states of establishing procedures governing the removal or disabling of access to information.
+article 15(1) seeks to close an alternative route by which liability for content might be imposed on information society services.
+it provides: 1.
+member states shall not impose a general obligation on providers, when providing the services covered by articles 12, 13 and 14, to monitor the information which they transmit or store, nor a general obligation actively to seek facts or circumstances indicating illegal activity.
+article 18(1) foreshadows the more detailed provisions for judicial intervention in the following directives.
+it provides: article 18 court actions 1.
+member states shall ensure that court actions available under national law concerning information society services activities allow for the rapid adoption of measures, including interim measures, designed to terminate any alleged infringement and to prevent any further impairment of the interests involved.
+articles 12 to 14 require member states to confer on information society services immunity from liability under their national laws for certain designated operations.
+articles 12(1), 13(1) and 14(1) require that immunity to be conditional.
+the differences between the conditions in the three provisions reflect the different degrees of responsibility on the part of the information society service for the content of what is transmitted.
+the mere provision of a communications network (article 12) and caching (article 13) are to be immune for the reasons explained in recitals (42) and (43).
+they are passive, technical services involving no editorial function.
+the restriction on monitoring in article 15 means that they are unlikely to know and have no duty to discover the content of what is transmitted.
+by comparison, the corresponding immunity for hosting in article 14 is more strictly conditional because there is an editorial function, however minimal.
+the provider of the service holds selected content for distribution and has a direct relationship with the content provider.
+it is not a mere passive actor.
+it should be noted that the duty to stop illegal activities which is referred to in recital (40) applies only to caching and hosting.
+the immunity for caching is conditional on the service provider expeditiously removing or disabling access to information temporarily stored in the course of transmission once it knows that the information has been removed from the network or that access to it there has been disabled or that a relevant authority has required these measures: article 13(1)(e).
+the immunity for hosting requires the service provider to take the same steps as soon as it becomes aware of any illegality or of facts from which it is apparent: article 14(1)(b).
+the assistance to rights holders which is required of information society services engaging in caching or hosting under articles 13(1)(e) and 14(1)(b) respectively are not free standing obligations.
+they are conditions of the relevant immunity.
+the consequence of breach of those requirements is that the immunity is lost, but whether that results in liability will depend on the provisions of national law: see google france sarl v centre national de recherche en relations humaines (cnrrh) sarl (joined cases c 236/08 to c 238/08) [2011] bus lr 1, para 107, and loral sa v ebay international ag (case c 324/09) [2012] bus lr 1369, para 107.
+for present purposes, the important point is that there is no corresponding condition attached to acting as a mere conduit, which is the operation characteristic of an isp.
+the immunity attached to that operation is not conditional on any active steps being taken other than compliance with court orders.
+i turn to the information society directive, which is concerned with the protection of intellectual property rights.
+the directive recites: (4) a harmonised legal framework on copyright and related rights, through increased legal certainty and while providing for a high level of protection of intellectual property, will foster substantial investment in creativity and innovation, including network infrastructure, and lead in turn to growth and increased competitiveness of european industry, both in the area of content provision and information technology and more generally across a wide range of industrial and cultural sectors.
+this will safeguard employment and encourage new job creation. (58) member states should provide for effective sanctions and remedies for infringements of rights and obligations as set out in this directive.
+they should take all the measures necessary to ensure that those sanctions and remedies are applied.
+the sanctions thus provided for should be effective, proportionate and dissuasive and should include the possibility of seeking damages and/or injunctive relief and, where appropriate, of applying for seizure of infringing material. (59) in the digital environment, in particular, the services of intermediaries may increasingly be used by third parties for infringing activities.
+in many cases such intermediaries are best placed to bring such infringing activities to an end.
+therefore, without prejudice to any other sanctions and remedies available, right holders should have the possibility of applying for an injunction against an intermediary who carries a third partys infringement of a protected work or other subject matter in a network.
+this possibility should be available even where the acts carried out by the intermediary are exempted under article 5.
+the conditions and modalities relating to such injunctions should be left to the national law of the member states.
+the relevant substantive provision for present purposes is article 8.
+article 8(1) requires member states to provide in their national law appropriate sanctions and remedies for infringements of intellectual property rights.
+article 8(2) deals in general terms with remedies by way of damages, injunctions and seizure of infringing articles.
+article 8(3) provides: member states shall ensure that right holders are in a position to apply for an injunction against intermediaries whose services are used by a third party to infringe a copyright or related right.
+this provision depends on the third party being an infringer.
+it is immaterial whether the intermediary against whom an injunction is sought is also an infringer.
+he may or may not be, depending on the nature of the right infringed and the character of the intermediarys operations.
+the same point may be made about the enforcement directive, which lays down more detailed standards for the availability of remedies to protect intellectual property rights.
+in particular, it extends the requirement that there should be power to grant injunctions against intermediaries from copyrights and related rights to all intellectual property rights.
+recitals (23) and (24) declare: (23) without prejudice to any other measures, procedures and remedies available, right holders should have the possibility of applying for an injunction against an intermediary whose services are being used by a third party to infringe the right holders industrial property right.
+the conditions and procedures relating to such injunctions should be left to the national law of the member states.
+as far as infringements of copyright and related rights are concerned, a comprehensive level of harmonisation is already provided for in [the information society] directive 2001/29/ec.
+article 8(3) of directive 2001/29/ec should therefore not be affected by this directive. (24) depending on the particular case, and if justified by the circumstances, the measures, procedures and remedies to be provided for should include prohibitory measures aimed at preventing further infringements of intellectual property rights.
+moreover there should be corrective measures, where appropriate at the expense of the infringer, such as the recall and definitive removal from the channels of commerce, or destruction, of the infringing goods and, in appropriate cases, of the materials and implements principally used in the creation or manufacture of these goods.
+these corrective measures should take account of the interests of third parties including, in particular, consumers and private parties acting in good faith.
+the relevant substantive provisions are articles 3, 8 and 11.
+they provide: article 3 general obligation 1.
+member states shall provide for the measures, procedures and remedies necessary to ensure the enforcement of the intellectual property rights covered by this directive.
+those measures, procedures and remedies shall be fair and equitable and shall not be unnecessarily complicated or costly, or entail unreasonable time limits or unwarranted delays. 2.
+those measures, procedures and remedies shall also be effective, proportionate and dissuasive and shall be applied in such a manner as to avoid the creation of barriers to legitimate trade and to provide for safeguards against their abuse.
+article 8 right of information 1.
+member states shall ensure that, in the context of proceedings concerning an infringement of an intellectual property right and in response to a justified and proportionate request of the claimant, the competent judicial authorities may order that information on the origin and distribution networks of the goods or services which infringe an intellectual property right be provided by the infringer and/or any other person who: (a) was found in possession of the infringing goods on a commercial scale; (b) was found to be using the infringing services on a commercial scale; (c) was found to be providing on a commercial scale services used in infringing activities; or (d) was indicated by the person referred to in point (a), (b) or (c) as being involved in the production, manufacture or distribution of the goods or the provision of the services.
+article 11 injunctions member states shall ensure that, where a judicial decision is taken finding an infringement of an intellectual property right, the judicial authorities may issue against the infringer an injunction aimed at prohibiting the continuation of the infringement.
+where provided for by national law, non compliance with an injunction shall, where appropriate, be subject to a recurring penalty payment, with a view to ensuring compliance.
+member states shall also ensure that right holders are in a position to apply for an injunction against intermediaries whose services are used by a third party to infringe an intellectual property right, without prejudice to article 8(3) of directive 2001/29/ec.
+the e commerce directive was transposed into the united kingdoms domestic law by the electronic commerce (ec directive) regulations (si 2002/2013) and the information society directive by the copyright and related rights regulations 2003 (si 2003/2498).
+the latter instrument provides for injunctions in support of copyrights and performers rights.
+there has been no legislative transposition of the enforcement directive into domestic law.
+it was presumably considered that the right to apply for injunctions covered by article 11 of the enforcement directive in cases concerning intellectual property rights other than copyright and performers rights was already sufficiently provided for by the english case law.
+if that was the thinking then, as i have observed (para 15), i think that it was correct.
+compliance costs
+of the three directives, only the enforcement directive makes any direct provision for the expense associated with the enforcement of judicial remedies, and even there the provision is limited.
+article 10(2) imposes an obligation on member states to provide for courts to direct the destruction or the recall or removal from commerce of infringing goods at the expense of the infringer, unless particular reasons are invoked for not doing so.
+article 15 provides for the publication of judicial decisions at the expense of the infringer.
+these provisions appear to reflect a general assumption that the infringer will be party to any litigation and will bear the costs of enforcing the rights holders rights against him.
+but although recital (59) of the information society directive contemplates that the most effective way of putting an end to a course of infringement may be an injunction against an intermediary, none of the directives deal in terms with the position on costs as between the rights holder and an information society service provider.
+the starting point for any analysis of that question is that the incidence of costs, whether of compliance or of the litigation, is a matter for national law.
+the general principle of eu law is that national courts apply eu law to issues before them in accordance with their own procedural rules.
+eu law may require particular remedies to be made available in national law, as the three directives do.
+otherwise it prescribes minimum standards which the available national law remedies must satisfy.
+these are embodied in the principle of effectiveness, which requires that remedies must be sufficient to ensure that a directive and any directly applicable rules of eu law are fully effective; and the principle of equivalence, which requires that remedies for infringements of eu law are at least equivalent to those which would be available for infringements of corresponding rules of national law.
+in addition, and partly overlapping with the principle of effectiveness, article 3 of the enforcement directive requires that remedies shall be fair and equitable and shall not be unnecessarily complicated or costly, and that they must be effective and proportionate.
+within these broad limits, the terms on which an injunction is available in the high court against an intermediary are a matter for english law and procedural practice.
+this is reflected in recital (59) of the information society directive that the conditions and modalities of injunctions against intermediaries should be left to the national law of the member states, and the corresponding statement in recital (23) of the enforcement directive about the conditions and procedures relating to such injunctions.
+as the court of justice observed in loral sa v ebay international ag (case c 324/09) [2012] bus lr 1369, paras 135 138, subject to the overriding requirement that the remedies ordered in the national court must be effective to achieve the objects of the directive and consistent with its specific provisions, the rules for the operation of the injunctions for which the member states must provide under the third sentence of article 11 of the directive, such as those relating to the conditions to be met and to the procedure to be followed, are a matter for national law.
+cf scarlet extended sa v socit belge des auteurs, compositeurs et editeurs scrl (sabam) (case c 70/10) (2011) ecr i 11959, paras 32 33; belgische vereniging van auteurs, componisten en uitgevers cvba (sabam) v netlog nv (case c 360/10) [2012] 2 cmlr 577, paras 30 31; tommy hilfiger licensing llc v delta center as (case c 494/15) [2016] bus lr 1008, para 32.
+in the court of appeal, kitchin lj considered that it was implicit in recital (59) of the information society directive and recital (23) of the enforcement directive that it would be entirely appropriate for a national court to order that the costs of implementation of any such injunction should be borne by the intermediary (para 144).
+he suggested that the scheme of the directives was that liability to bear the costs of compliance was the quid pro quo for the immunities in the safe harbour provisions and the exclusion of a general monitoring obligation in articles 12 to 15 of the e commerce directive.
+as jackson lj put it in his short concurring judgment, the compliance costs are part of the price which the isps must pay for the immunities which they enjoy under the directives (para 214).
+finally, kitchen lj found support for this analysis in the reasoning of the court of justice in loral and in upc telekabel wien gmbh v constantin film verleih gmbh (case c 314/12) [2014] bus lr 541.
+with respect, i cannot agree with any of this.
+my reasons are as follows: (1) the two recitals refer the terms of an injunction against an intermediary to national law without any indication one way or the other of what it would be appropriate for national law to say about them.
+the mere fact of referring them to national law indicates that a diversity of national solutions may be equally consistent with eu law. (2) the main problem about the quid pro quo argument is that it assumes what it seeks to prove.
+if the directives required intermediaries to bear the costs of complying with injunctions against them, that might at least arguably be regarded as the quid pro quo for the immunities in articles 12 to 15.
+but since the directives do not deal at all with the incidence of compliance costs when an injunction is obtained against an intermediary, there is nothing from which such an inference could be drawn. (3) the true rationale of the immunities is explained in the recitals.
+it is that disparities between national laws on liability are apt to distort the functioning of the single market, and that the intermediaries have little or no control over content.
+it has nothing to do with the incidence of compliance costs when an injunction is granted.
+even without the immunities, a mere conduit such as an isp, whose operations are limited to the provision of a communications network, would not have been liable for infringing a trade mark, although without the immunities caching might give rise to liability for breach of copyright.
+the only context in which it might make sense to speak of a quid pro quo is the condition relating to removing or disabling access to illegal content in the case of caching and hosting under articles 13 and 14.
+but the quid pro quo in those cases is the removal of the offending content, not the bearing of the associated cost. (4) the judgment in loral has nothing to do with this issue.
+the trade mark proprietor was claiming (among other things) that an injunction should issue against ebay under article 11 of the enforcement directive requiring it to stop people selling infringing goods on its website.
+all that the court of justice said about costs (at para 139) was that to impose a general monitoring obligation on an on line market place like ebay would be inconsistent with article 15(1) of the e commerce directive (which forbids member states to impose such an obligation) and with article 3(1) of the enforcement directive (which requires that national measures shall not be unnecessarily complicated or costly).
+this means that any injunction granted under article 11 could not impose such an obligation.
+but i am unable to deduce from this, as kitchin lj seems to have done, that costs of compliance are in principle for the intermediary to bear.
+the court said nothing about the incidence of compliance costs but only that so far as they are to be borne by the intermediary they must not be excessive. (5) the same point may be made about upc telekabel wien gmbh v constantin film verleih gmbh (case c 314/12) [2014] bus lr 541.
+the issue in that case was whether a website blocking injunction should have been granted against the intermediary to block the streaming of films which infringed the claimants copyrights.
+there was no issue about the costs of compliance.
+the court of justice observed (para 50) that in deciding whether to grant an injunction, the national court must bear in mind that it constrains its addressee in a manner which restricts the free use of the resources at his disposal because it obliges him to take measures which may represent a significant cost for him.
+this certainly assumed that the compliance costs would be for the intermediarys account.
+in the case of austria, from which the reference had come, that assumption was correct.
+it appears from the material placed before us that the austrian statute empowering the courts to grant website blocking injunctions is interpreted as requiring the intermediary the costs of compliance: see allegro filmverwertungsgesellschaft mbh v a1 telekom austria ag (austrian supreme court, 19 may 2015), para 3.2.
+the court of justice was not suggesting that the same incidence of compliance costs would necessarily be the appropriate rule in other national jurisdictions.
+it could hardly have done so consistently with the assignment of such questions to national law.
+the effect of the decision as far as compliance costs are concerned is not that they must be borne by the intermediaries, but that if they are, then they must not be excessive.
+to bear
+in my opinion the incidence of compliance costs is a matter for english law, within the broad limits set by the eu principles of effectiveness and equivalence, and the requirement that any remedy should be fair, proportionate and not unnecessarily costly.
+as a matter of english law, the ordinary principle is that unless there are good reasons for a different order an innocent intermediary is entitled to be indemnified by the rights holder against the costs of complying with a website blocking order.
+the position in relation to website blocking orders is no different in principle from the established position in domestic law in the case of norwich pharmacal orders, freezing orders and other injunctions granted to require an innocent party to assist the claimant in the assertion of its rights against a wrongdoer.
+like other common law systems (with the significant exception of the united states), english practice on the incidence of costs generally depends on the legal distribution of risk as found by the court.
+in this respect it differs from many civil law systems, in which losses arising from litigation lie where they fall, absent some specific legal entitlement.
+in jurisdictions where that is the basic principle, the question is whether there is anything in the directives to require an intermediary to be indemnified against compliance costs when nothing in domestic law requires them to do so.
+this was, for example, how the matter was approached by the cour de cassation of france in a recent decision on compliance costs associated with website blocking injunctions.
+having established that the provisions of the e commerce directive do not preclude the cost of the measures strictly necessary for preserving the rights in question from being borne by the technical intermediaries, they then inquired whether there was any specific provision of french law entitling the intermediaries to their costs.
+there being none, they left the isps to bear that burden: socit franaise du radiotlphone v union des producteurs de cinema, 1e civ, 6 july 2017.
+much depends on ones starting point.
+in english law, the starting point is the intermediarys legal innocence.
+an isp would not incur liability for trade mark infringement under english law, even in the absence of the safe harbour provisions of the e commerce directive.
+national law could not attach liability to the intermediarys involvement consistently with those provisions.
+an isp serving as a mere conduit has no means of knowing what use is being made of his network by third parties to distribute illegal content.
+even when it is informed of this, it does not have the limited duty to take proactive steps to stop access to illegal content which is implicit in the conditions governing the immunities for caching and hosting.
+its only duty is to comply with an order of the court.
+there is no legal basis for requiring a party to shoulder the burden of remedying an injustice if he has no legal responsibility for the infringement and is not a volunteer but is acting under the compulsion of an order of the court.
+it has sometimes been suggested that because isps benefit financially from the volume and appeal of the content available on the internet, including content which infringes intellectual property rights, it is fair to make them contribute to the cost of enforcement.
+this appears to have been the view of arnold j in twentieth century fox film corpn v british telecommunications plc (no 2) [2012] 1 all er 869, para 32.
+it was certainly a significant part of the reasoning of the irish court of appeal (endorsing the judgment of cregan j [2015] iehc 317) in sony music entertainment (ireland) ltd v universal music ireland [2016] ieca 231, paras 77 80.
+the difficulty that i have with it as a matter of english law is that it assumes a degree of responsibility on the part of the intermediary which does not correspond to any legal standard.
+the suggestion appears to be that there is a moral or commercial responsibility in the absence of a legal one.
+but the law is not generally concerned with moral or commercial responsibilities except as an arguable basis for legal ones.
+even if a moral or commercial responsibility were relevant, i would find it hard to discern one in a case like this.
+website blocking injunctions are sought by rights holders in their own commercial interest.
+they are wholly directed to the protection of the claimants legal rights, and the entire benefit of compliance with the order inures to the rights holder.
+the protection of intellectual property rights is ordinarily and naturally a cost of the business which owns those rights and has the relevant interest in asserting them.
+it is not ordinarily or naturally a cost of the business of an isp which has nothing to do with the rights in question but is merely providing a network which has been abused by others.
+there is therefore no reason why the rights holder should be entitled to look for contribution to the cost of defending his rights to any one other than the infringers.
+it is true that there is a public interest in the enforcement of intellectual property rights just as there is, in varying degrees, in the enforcement of any legal rights.
+intellectual property rights are created by law as a reward for innovation and enterprise which confer wider public benefits.
+but i cannot see that this makes any difference to the analysis.
+it supplies the reason why the rights exist, but the public interest in their enforcement is not wider or different from the private interest of the rights holders.
+it follows that in principle the rights holders should indemnify the isps against their compliance costs.
+that is subject to the bounds which eu law sets on the power to grant relief.
+but there is no reason to believe that these bounds would be exceeded by such an indemnity.
+the indemnity must be limited to reasonable compliance costs.
+the evidence is that the compliance costs resulting from any one order are in fact modest.
+it is not suggested, nor is there any basis for suggesting that they are excessive, disproportionate or such as to impair the respondents practical ability to enforce their trade marks.
+nor have any other grounds been proposed for withholding the indemnity on discretionary grounds.
+it is critical to these conclusions that the intermediary in question is legally innocent.
+the appellants in this case are legally innocent because they are mere conduits.
+different considerations may apply to intermediaries engaging in caching or hosting governed by articles 13 and 14 of the e commerce directive, because these operations involve a greater degree of participation in the infringement, which is more likely to infringe national laws protecting intellectual property rights if the conditions of immunity are not satisfied.
+that must, however, depend on the precise facts and on the relevant provisions of national law.
+for my part, i would not accept that the mere fact, without more, that the immunities of intermediaries under articles 13 or 14 of the e commerce directive are conditional on active steps being taken against the infringer in certain circumstances, is enough to require a court to make intermediaries covered by those articles pay the costs of compliance.
+costs of the litigation
+intermediaries very rarely resist website blocking orders, although they do insist that the claimant should obtain an order in order to protect themselves against regulatory restrictions on interfering in network communications, and complaints by third parties on various grounds.
+the practice in such cases should normally be to award them their costs of the action.
+in this case, arnold j awarded costs against the isps because they had made the litigation a test case for the jurisdiction to make the order at all and had strenuously resisted the application.
+in the circumstances, he was plainly entitled to exercise his discretion concerning the costs of the litigation in the way that he did.
+disposal
+i would allow the appeal so far as concerns the costs of complying with arnold js orders dated 11 november and 5 december 2014 and would vary para 12 of the orders so as to provide that the respondents shall indemnify the appellants in respect of the appellants reasonable costs of processing and implementing paras 1 10 of the orders in categories (iii), (iv) and (v) mentioned in para 5 above.
+the parties should endeavour to agree the exact form of order.

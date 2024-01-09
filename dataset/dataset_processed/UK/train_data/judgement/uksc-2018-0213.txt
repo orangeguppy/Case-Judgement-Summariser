@@ -1,0 +1,277 @@
+this appeal is primarily concerned with the circumstances in which an employer is vicariously liable for the conduct of its employees, and provides the court with an opportunity to address the misunderstandings which have arisen since its decision in the case of mohamud v wm morrison supermarkets plc [2016] uksc 11; [2016] ac 677.
+it also raises an important question about the data protection act 1998 (the dpa).
+the facts
+the appellant, morrisons, is a company which operates a chain of supermarkets.
+the respondents are 9,263 of its employees or former employees.
+i shall refer to them as the claimants.
+personal information about them was published on the internet by another of morrisons employees, mr andrew skelton.
+at the material time, skelton was a senior auditor in morrisons internal audit team.
+in july 2013 he was subject to disciplinary proceedings for minor misconduct and was given a verbal warning.
+following those proceedings, he harboured an irrational grudge against morrisons, which led him to make the disclosures in question.
+morrisons accounts are subject to an annual external audit.
+in preparation for the audit, on 1 november 2013 the auditors, kpmg, requested payroll data from morrisons in order to test their accuracy.
+the head of morrisons internal audit team delegated the task of collating and transmitting the data to skelton.
+he had also performed that task in 2012.
+to enable him to carry out the task, he was given access to the payroll data relating to the whole of morrisons workforce: around 126,000 employees.
+these consisted of the name, address, gender, date of birth, phone numbers, national insurance number, bank sorting code, bank account number and salary of each member of staff.
+on 9 october 2013 skelton had searched, using his work computer, for tor, a software which is capable of disguising the identity of a computer which has accessed the internet.
+on 7 november he made an internal request for the payroll data.
+on 14 november he obtained a pay as you go mobile phone, which could not be traced back to him.
+on 15 november 2013 the payroll data was provided to skelton so that he could carry out his task.
+on a date between then and 21 november, he transmitted the data to kpmg as he had been instructed to do.
+on 18 november, he surreptitiously copied the data from his work laptop on to a personal usb stick.
+on 8 december he used the username and date of birth of a fellow employee, mr andrew kenyon, to create a false email account, in a deliberate attempt to frame him.
+mr kenyon had been involved in the disciplinary proceedings earlier that year.
+the email account was linked to the pay as you go phone.
+he then deleted the data from his work laptop.
+on 12 january 2014 skelton uploaded a file containing the data of 98,998 of the employees to a publicly accessible file sharing website, with links to the data posted on other websites (the disclosure).
+the file was created from the personal copy of the data which he had made on his usb stick on 18 november.
+he made the disclosure when he was at home, using the mobile phone, the false email account and tor.
+having made the disclosure, he deactivated the email account, and on 12 march deleted the data and the file from the usb stick.
+on 13 march 2014, the day on which morrisons financial results were due to be announced, skelton sent cds containing the file anonymously to three uk newspapers.
+he purported to be a concerned member of the public who had found the file on the file sharing website.
+the newspapers did not publish the data.
+instead, one of them alerted morrisons.
+within a few hours, morrisons had taken steps to ensure that the data was removed from the internet, instigated internal investigations, and informed the police.
+it also informed its employees and undertook measures to protect their identities.
+skelton was arrested a few days later.
+he was subsequently convicted of a number of offences and sentenced to eight years imprisonment.
+it was noted that morrisons had spent more than 2.26m in dealing with the immediate aftermath of the disclosure.
+a significant element of that sum was spent on identity protection measures for its employees.
+the proceedings below
+the claimants brought proceedings against morrisons for its own alleged breach of the statutory duty created by section 4(4) of the dpa, misuse of private information, and breach of confidence.
+the claims are also brought on the basis that morrisons is vicariously liable for skeltons conduct.
+the particulars of claim do not specify the respects in which that conduct is alleged to have been wrongful on his part, but the claimants argument before the judge was that vicarious liability arose under the same three heads: breach of the dpa, misuse of private information and breach of confidence.
+the claims are for damages in respect of alleged distress, anxiety, upset and damage.
+the high court made a group litigation order in connection with the claims.
+ten lead claimants were selected, with the remainder of the claims being stayed pending judgment.
+the claimants solicitors have provided details of the circumstances of each of the lead claimants, so far as considered relevant to the quantification of damages.
+these describe how the disclosure caused the claimants to experience feelings of anxiety and anger.
+the trial of liability was separated from the trial of quantum, which has not yet taken place.
+the trial judge, langstaff j, rejected the contention that morrisons was under a primary liability in any of the respects alleged, but held that it was vicariously liable for skeltons breach of statutory duty under the dpa, his misuse of private information, and his breach of his duty of confidence: [2017] ewhc 3113 (qb); [2019] qb 772.
+he rejected morrisons argument that vicarious liability could not attach to a breach of the dpa by skelton as the data controller of the data copied on to his usb stick and subsequently disclosed by him, holding that the object of directive 95/46/ec of 24 october 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (the directive), transposed by the dpa, was the protection of data subjects, and that if vicarious liability did not apply, the purpose of the directive would be defeated.
+he also rejected morrisons argument that the dpa excluded vicarious liability for misuse of private information or breach of confidence, holding that since the purpose of the directive, and therefore of the dpa, was the protection of data subjects, it should be treated as providing additional protection rather than as replacing such protection as already existed under domestic law.
+finally, he rejected morrisons argument that skeltons wrongful conduct was not committed in the course of his employment, holding that morrisons had provided him with the data in order for him to carry out the task assigned to him, and that what had happened thereafter was a seamless and continuous sequence of events an unbroken chain (para 184).
+that language was taken from the judgment of lord toulson in mohamud ([2016] ac 677, para 47).
+he added that morrisons trusted skelton to deal with confidential information, and took the risk that it might be wrong in placing that trust in him.
+his role in respect of the payroll data was to receive and store it, and to disclose it to a third party.
+that in essence was his task: the fact that he disclosed it to others than kpmg was not authorised, but was nonetheless closely related to what he was tasked to do.
+the five factors listed by lord phillips in various claimants v catholic child welfare society [2012] uksc 56; [2013] 2 ac 1, para 35, were all present.
+the judge concluded ([2019] qb 772, para 195): adopting the broad and evaluative approach encouraged by lord toulson jsc in mohamuds case [2016] ac 677 i have therefore come to the conclusion that there is a sufficient connection between the position in which skelton was employed and his wrongful conduct, put into the position of handling and disclosing the data as he was by morrisons (albeit it was meant to be to kpmg alone), to make it right for morrisons to be held liable under the principle of social justice which goes back to holt cj.
+the latter quotation was taken from lord toulsons judgment in mohamud, para 45.
+morrisons appeal to the court of appeal (sir terence etherton mr, bean and flaux ljj) was dismissed: [2018] ewca civ 2339; [2019] qb 772.
+the court stated at para 37 that there was no pleaded claim against morrisons on the ground of vicarious liability for skeltons breach of the dpa.
+it was conceded that the causes of action for misuse of private information and for breach of confidence were not excluded by the dpa.
+the court considered that there was nothing in the dpa which excluded vicarious liability for such conduct.
+in relation to the question whether, on the facts, morrisons were vicariously liable for skeltons wrongdoing, the court found at para 72 that [t]he tortious acts of mr skelton in sending the claimants data to third parties were in our view within the field of activities assigned to him by morrisons.
+like the judge, the court also emphasised at para 74 that the relevant facts constituted a seamless and continuous sequence or unbroken chain of events.
+although it was an unusual feature of the case that skeltons motive in committing the wrongdoing was to harm his employer, lord toulson had said in mohamud that motive was irrelevant.
+the court therefore agreed with the judge that morrisons was vicariously liable for skeltons wrongdoing.
+notwithstanding the pleading point raised by the court of appeal, the issues in the present appeal are agreed to be the following: (1) whether morrisons is vicariously liable for skeltons conduct. (2) if the answer to (1) is in the affirmative: (a) whether the dpa excludes the imposition of vicarious liability for statutory torts committed by an employee data controller under the dpa. (b) whether the dpa excludes the imposition of vicarious liability for misuse of private information and breach of confidence.
+i shall consider the issues in that order. (1) whether morrisons is vicariously liable for skeltons conduct
+the mohamud decision
+the courts below applied what they understood to be the reasoning of lord toulson in mohamud [2016] ac 677.
+they treated as critical, in particular, his reference in para 45 of his judgment to the principle of social justice which goes back to holt cj, his references in para 47 to the connection between the employees conduct in that case and his employment (an unbroken sequence of events, or a seamless episode), which they appear to have regarded as referring to an unbroken temporal or causal chain of events, and his statement in para 48 that mr khans motive is irrelevant, mr khan being the employee whose conduct was in question in that case.
+the resultant approach, if correct, would constitute a major change in the law.
+lord toulsons judgment was not intended to effect a change in the law of vicarious liability: quite the contrary.
+that becomes clear if the judgment is read as a whole, as i shall explain.
+the judgments below focused on the final paragraphs, in which lord toulson summarised long established principles in the simplest terms and applied them to the facts of the case then before the court.
+a few phrases in those paragraphs, taken out of context, were treated as establishing legal principles: principles which would represent a departure from the precedents which lord toulson was expressly following.
+the question which arose on the facts of mohamud was whether the employer of a petrol station attendant was liable for an assault which the attendant had perpetrated on a motorist.
+the motorist went into the sales kiosk and asked if some documents could be printed.
+the attendant, mr khan, refused the request and ordered the motorist to leave, using racist and threatening language, then followed the motorist back to his car, opened the door and ordered him never to come back, again using threatening language.
+when the motorist told mr khan to close the door, mr khan assaulted him.
+the judge dismissed a claim against the employer on the ground that mr khans actions were beyond the scope of his employment.
+an appeal against that decision was dismissed by the court of appeal ([2014] ewca civ 116; [2014] 2 all er 990).
+the argument in the appeal to this court was that the test of vicarious liability should be broadened so as to turn, in the case of a tort committed by an employee, on whether a reasonable observer would have considered the employee to be acting in the capacity of a representative of the employer at the time of committing the tort.
+the court rejected that argument, holding that the established test remained good without need of further refinement.
+applying the established test, however, the court allowed the appeal on the facts of the case.
+in his judgment, with which the other members of the court agreed, lord toulson described the origins and development of vicarious liability, explaining, amongst other matters, the influential role which sir john holt cj had played during the late 17th and early 18th centuries, when the doctrine was broadened in response to the expansion of commerce and industry.
+the chief justice had explained the doctrine as resting on the principle that, where an employer employed the wrongdoer, and the employee committed a wrongful act against the claimant within the area of the authority given to him, it was fairer that the employer should suffer for the wrongdoing than the person who was wronged.
+lord toulson went on to refer to the familiar formula introduced by sir john salmond in the first edition of salmond on torts (1907), pp 83 84, and repeated in later editions, which defined a wrongful act by a servant in the course of his employment as either (a) a wrongful act authorised by the master or (b) a wrongful and unauthorised mode of doing some act authorised by the master, with the amplification that a master is liable for acts which he has not authorised if they are so connected with acts which he has authorised, that they may rightly be regarded as modes although improper modes of doing them (lord toulsons emphasis: [2016] ac 677, para 25).
+lord toulson explained that, although salmonds formula was applied in many cases over the course of the 20th century, it was not universally satisfactory, particularly in cases concerned with deliberate acts of misconduct.
+as lord toulson explained, the salmond formulation was stretched to breaking point in lister v hesley hall ltd [2001] ukhl 22; [2002] 1 ac 215, which concerned the sexual abuse of children by the warden of a school boarding house.
+even on its most elastic interpretation, the sexual abuse of children could not be described as a mode, albeit an improper mode, of caring for them.
+lord steyn (with whom lord hutton and lord hobhouse of woodborough agreed) said that it was not necessary to ask whether the acts of sexual abuse were modes of doing authorised acts.
+he posed the broader question whether the warden's torts were so closely connected with his employment that it would be just to hold his employers liable.
+he concluded that they were, stating at para 28 that the sexual abuse was inextricably interwoven with the carrying out by the warden of his duties.
+lord millett, in a passage in his speech which proved to be influential in later cases, suggested at para 69 that the salmond formulation could be adapted to impose vicarious liability where the unauthorised acts of the employee are so closely connected with acts which the employer has authorised that they may properly be regarded as being within the scope of his employment.
+the close connection approach to vicarious liability was considered again by the house of lords in dubai aluminium co ltd v salaam [2002] ukhl 48; [2003] 2 ac 366, a case of commercial fraud committed by one of the partners in a firm.
+in a passage which is of particular importance, and which lord toulson cited in mohamud, at para 41, lord nicholls of birkenhead (with whom lord slynn and lord hutton agreed) said: 22. it is a fact of life, and therefore to be expected by those who carry on businesses, that sometimes their agents may exceed the bounds of their authority or even defy express instructions.
+it is fair to allocate risk of losses thus arising to the businesses rather than leave those wronged with the sole remedy, of doubtful value, against the individual employee who committed the wrong.
+to this end, the law has given the concept of ordinary course of employment an extended scope.
+if, then, authority is not the touchstone, what is?
+perhaps the best general answer is that the wrongful conduct must be so closely connected with acts the partner or employee was authorised to do that, for the purpose of the liability of the firm or the employer to third parties, the wrongful conduct may fairly and properly be regarded as done by the partner while acting in the ordinary course of the firms business or the employees employment.
+lord millett said as much in lister v hesley hall ltd 25.
+this close connection test focuses attention in the right direction.
+but it affords no guidance on the type or degree of connection which will normally be regarded as sufficiently close to prompt the legal conclusion that the risk of the wrongful act occurring, and any loss flowing from the wrongful act, should fall on the firm or employer rather than the third party who was wronged 26.
+this lack of precision is inevitable, given the infinite range of circumstances where the issue arises.
+the crucial feature or features, either producing or negativing vicarious liability, vary widely from one case or type of case to the next.
+essentially the court makes an evaluative judgment in each case, having regard to all the circumstances and, importantly, having regard also to the assistance provided by previous court decisions.
+in this field the latter form of assistance is particularly valuable. (original emphasis) 23.
+in that passage, lord nicholls identified the general principle (the best general answer, as he said at para 23) applicable to vicarious liability arising out of a relationship of employment: the wrongful conduct must be so closely connected with acts the employee was authorised to do that, for the purposes of the liability of the employer to third parties, it may fairly and properly be regarded as done by the employee while acting in the ordinary course of his employment.
+that test was repeated in later cases such as bernard v attorney general of jamaica [2004] ukpc 47; [2005] irlr 398, brown v robinson [2004] ukpc 56, and majrowski v guys and st thomass nhs trust [2006] ukhl 34; [2007] 1 ac 224.
+as lord phillips noted in various claimants v catholic child welfare society [2013] 2 ac 1, paras 83 and 85, the close connection test has been applied differently in cases concerned with the sexual abuse of children, which cannot be regarded as something done by the employee while acting in the ordinary course of his employment.
+instead, the courts have emphasised the importance of criteria that are particularly relevant to that form of wrongdoing, such as the employers conferral of authority on the employee over the victims, which he has abused.
+the general principle set out by lord nicholls in dubai aluminium, like many other principles of the law of tort, has to be applied with regard to the circumstances of the case before the court and the assistance provided by previous court decisions.
+the words fairly and properly are not, therefore, intended as an invitation to judges to decide cases according to their personal sense of justice, but require them to consider how the guidance derived from decided cases furnishes a solution to the case before the court.
+judges should therefore identify from the decided cases the factors or principles which point towards or away from vicarious liability in the case before the court, and which explain why it should or should not be imposed.
+following that approach, cases can be decided on a basis which is principled and consistent.
+having explained how the close connection case was expressed in lister and elaborated in dubai aluminium, and having also explained that it had been applied in a number of subsequent cases at the highest level, lord toulson summarised the present law in paras 44 46 of his judgment ([2016] ac 677).
+in the simplest terms, he said, the court had to consider two matters.
+the first question was what functions or field of activities had been entrusted by the employer to the employee.
+in other words, as lord nicholls put it in dubai aluminium at para 23, it is necessary to identify the acts the employee was authorised to do.
+secondly, lord toulson said at para 45, the court must decide whether there was sufficient connection between the position in which he was employed and his wrongful conduct to make it right for the employer to be held liable under the principle of social justice which goes back to holt cj.
+that statement, expressly put in the simplest terms, was more fully stated by lord nicholls in dubai aluminium [2003] 2 ac 366, para 23: in a case concerned with vicarious liability arising out of a relationship of employment, the court generally has to decide whether the wrongful conduct was so closely connected with acts the employee was authorised to do that, for the purposes of the liability of his employer, it may fairly and properly be regarded as done by the employee while acting in the ordinary course of his employment.
+that statement of the law, endorsed in mohamud and in several other decisions at the highest level, is authoritative.
+lord toulson was not suggesting any departure from the approach adopted in lister and dubai aluminium.
+his position was the exact opposite.
+nor was he suggesting that all that was involved in determining whether an employer was vicariously liable was for the court to consider whether there was a temporal or causal connection between the employment and the wrongdoing, and whether it was right for the employer to be held liable as a matter of social justice.
+plainly, the close connection test is not merely a question of timing or causation, and the passage which lord toulson cited from dubai aluminium makes it clear that vicarious liability for wrongdoing by an employee is not determined according to individual judges sense of social justice.
+it is decided by orthodox common law reasoning, generally based on the application to the case before the court of the principle set out by lord nicholls at para 23 of dubai aluminium, in the light of the guidance to be derived from decided cases.
+in some cases, the answer may be clear.
+in others, inevitably, a finer judgment will be called for.
+finally, lord toulson considered how this approach applied to the facts of the case before the court.
+he began by identifying mr khans functions or field of activities ([2016] ac 677, para 47): in the present case it was mr khans job to attend to customers and to respond to their inquiries.
+his conduct in answering the claimants request in a foul mouthed way and ordering him to leave was inexcusable but within the field of activities assigned to him.
+lord toulson then rejected the argument that the assault on the customer was unconnected with mr khans field of activities; an argument which had emphasised in particular the fact that mr khan had left the sales kiosk and followed the customer to his vehicle.
+in that regard, he said (ibid): what happened thereafter was an unbroken sequence of events.
+it was argued by the respondent and accepted by the judge that there ceased to be any significant connection between mr khans employment and his behaviour towards the claimant when he came out from behind the counter and followed the claimant onto the forecourt.
+i disagree for two reasons.
+first, i do not consider that it is right to regard him as having metaphorically taken off his uniform the moment he stepped from behind the counter.
+he was following up on what he had said to the claimant.
+it was a seamless episode.
+secondly, when mr khan followed the claimant back to his car and opened the front passenger door, he again told the claimant in threatening words that he was never to come back to the petrol station.
+this was not something personal between them; it was an order to keep away from his employers premises, which he reinforced by violence.
+in giving such an order he was purporting to act about his employers business.
+it was a gross abuse of his position, but it was in connection with the business in which he was employed to serve customers.
+read in context, lord toulsons comments that there was an unbroken sequence of events, and that it was a seamless episode, were not directed towards the temporal or causal connection between the various events, but towards the capacity in which mr khan was acting when those events took place.
+lord toulson was explaining why, in his view, mr khan was acting throughout the entire episode in the course of his employment.
+when he followed the motorist out of the kiosk and on to the forecourt, he was following up on what he had said to the motorist in the kiosk.
+he ordered the motorist to keep away from his employers premises, and reinforced that order by committing the tort.
+in doing so, he was purporting to act about his employers business.
+as lord toulson said, this was not something personal.
+lord toulson concluded his analysis of the facts by stating, at para 48: mr khans motive is irrelevant.
+it looks obvious that he was motivated by personal racism rather than a desire to benefit his employers business, but that is neither here nor there.
+read in isolation, the statement that motive is irrelevant would be misleading.
+lord toulson had just said, in the preceding paragraph, that one of his reasons for finding that there was a close connection was that mr khan was purporting to act about his employers business, and that his conduct towards the customer was not, therefore, something personal.
+so the question whether mr khan was acting, albeit wrongly, on his employers business, or was acting for personal reasons, was plainly important.
+when lord toulson said that mr khans motive was irrelevant, he was addressing a point which the judge had mentioned, namely that the reasons why mr khan had become violent were unclear.
+as just mentioned, lord toulson had already concluded that mr khan was going, albeit wrongly, about his employers business, rather than pursuing his private ends, and had treated that fact as supporting the existence of a close connection between his field of activities and the commission of the tort.
+having reached that conclusion, the reason why mr khan had become so enraged as to assault the motorist could not make a material difference.
+that is all, i believe, that the remark that mr khans motive is irrelevant was intended to convey.
+vicarious liability in the present case
+it follows from the foregoing that the judge and the court of appeal misunderstood the principles governing vicarious liability in a number of relevant respects, of which the following were particularly important.
+first, the disclosure of the data on the internet did not form part of skeltons functions or field of activities, in the sense in which those words were used by lord toulson: it was not an act which he was authorised to do, as lord nicholls put it.
+secondly, the fact that the five factors listed by lord phillips in various claimants v catholic child welfare society [2013] 2 ac 1, para 35, were all present was nothing to the point.
+those factors were not concerned with the question whether the wrongdoing in question was so connected with the employment that vicarious liability ought to be imposed, but with the distinct question whether, in the case of wrongdoing committed by someone who was not an employee, the relationship between the wrongdoer and the defendant was sufficiently akin to employment as to be one to which the doctrine of vicarious liability should apply.
+thirdly, although there was a close temporal link and an unbroken chain of causation linking the provision of the data to skelton for the purpose of transmitting it to kpmg and his disclosing it on the internet, a temporal or causal connection does not in itself satisfy the close connection test.
+fourthly, the reason why skelton acted wrongfully was not irrelevant: on the contrary, whether he was acting on his employers business or for purely personal reasons was highly material.
+the question whether morrisons is vicariously liable for skeltons wrongdoing must therefore be considered afresh.
+applying the general test laid down by lord nicholls in para 23 of dubai aluminium [2003] 2 ac 366, the question is whether skeltons disclosure of the data was so closely connected with acts he was authorised to do that, for the purposes of the liability of his employer to third parties, his wrongful disclosure may fairly and properly be regarded as done by him while acting in the ordinary course of his employment.
+considering first the acts which skelton was authorised to do, so far as relevant, he was given the task of collating and transmitting payroll data to kpmg.
+he performed that task on a date between 15 and 21 november 2013.
+the remaining question is whether skeltons wrongful disclosure of the data was so closely connected with the collation and transmission of the data to kpmg that, for the purposes of the liability of his employer to third parties, the disclosure may fairly and properly be regarded as made by him while acting in the ordinary course of his employment.
+the connecting factor between what skelton was authorised to do and the disclosure is that he could not have made the disclosure if he had not been given the task of collating the data and transmitting it to kpmg.
+it was the provision of the data to him, so that he could perform that task, that enabled him to make a private copy of the data on 18 november 2013, which he subsequently used to make the disclosure on 12 january 2014.
+clearly, the mere fact that skeltons employment gave him the opportunity to commit the wrongful act would not be sufficient to warrant the imposition of vicarious liability: see, for example, morris v c w martin & sons ltd [1966] 1 qb 716, 737, and lister [2002] 1 ac 215, paras 25, 45, 50, 59, 65, 75, and 81 82.
+the courts below, however, treated it as important that skeltons disclosure of the data on the internet was, as the judge said closely related to what he was tasked to do ([2019] qb 772, para 186): a remark which the court of appeal described as plainly correct ([2019] qb 772, para 63).
+the fallacy in that approach was explained by lord wilberforce in kooragang investments pty ltd v richardson & wrench ltd [1982] ac 462, which concerned an employee who was authorised to carry out valuations, and negligently carried out a valuation without authority from his employers and not on their behalf.
+lord wilberforce rejected the argument that so long as the employee is doing acts of the same kind as those which it is within his authority to do, the employer is liable, and is not entitled to show that the employee had no authority to do them.
+he said at p 473: the underlying principle remains that a servant, even while performing acts of the class which he was authorised, or employed, to do, may so clearly depart from the scope of his employment that his master will not be liable for his wrongful acts.
+as already explained, in applying the close connection test it is necessary to have regard to the assistance provided by previous court decisions.
+perhaps unsurprisingly, there does not appear to be any previous case in which it has been argued that an employer might be vicariously liable for wrongdoing which was designed specifically to harm the employer.
+the decided cases which are most closely comparable to the present case are those which have concerned vicarious liability for deliberate wrongdoing intended to inflict harm on a third party for personal reasons of the employee (leaving aside sexual abuse cases, where, as explained in para 23 above, a more tailored version of the close connection test is applied).
+the basic principle normally applicable to cases where an employee is engaged in an independent personal venture was explained in joel v morison (1834) 6 c & p 501, which concerned a claim for personal injuries brought by a plaintiff who had been knocked down by a cart driven by the defendants employee.
+parke b said at p 503: the master is only liable where the servant is acting in the course of his employment.
+if he was going out of his way, against his masters implied commands, when driving on his masters business, he will make his master liable; but if he was going on a frolic of his own, without being at all on his masters business, the master will not be liable.
+more recently, the issue of liability for acts performed by an employee in the course of an independent venture of his own was considered by lord nicholls in dubai aluminium [2003] 2 ac 366, para 32: a distinction is to be drawn between cases such as hamlyn v john houston & co [1903] 1 kb 81, where the employee was engaged, however misguidedly, in furthering his employers business, and cases where the employee is engaged solely in pursuing his own interests: on a frolic of his own, in the language of the time honoured catch phrase the matter stands differently when the employee is engaged only in furthering his own interests, as distinct from those of his employer.
+then he acts as to be in effect a stranger in relation to his employer with respect to the act he has committed: see isaacs j in bugge v brown (1919) 26 clr i10, 118.
+there are a number of relevant cases which have been decided since lister and dubai aluminium.
+a particularly relevant example at the highest level is attorney general of the british virgin islands v hartwell [2004] ukpc 12; [2004] 1 wlr 1273, a decision of the judicial committee of the privy council.
+the case concerned a police officer who left his post and went into a bar where his partner worked as a waitress and, in a fit of jealous rage at finding her there with another man, fired a number of shots at one or other or both of them with a service revolver to which he had access in the course of his duties.
+a bystander was injured and claimed damages from the government.
+the contention that the government was vicariously liable was rejected on the ground that since, at the relevant time, the officer had abandoned his post and embarked on a vendetta of his own, his wrongful use of the gun was not something done in the course of his employment.
+lord nicholls, giving the judgment of the board, applied the close connection test laid down in dubai aluminium at para 23.
+the connecting factors relied upon as satisfying the test were that the officer was a police officer on duty at the time of the shooting, that the place where the shooting occurred was within his jurisdiction, and that he had used a police revolver to which he was given access at the police station where he was posted and which he was permitted to use for police purposes: factors that created a connection between the wrongdoing and the acts which the officer was authorised to do which might be thought to bear a close analogy to those relied on in the present case (where skelton committed the wrong using data to which he was given access at work and which he was permitted to use for an authorised purpose), and to be at least as strong.
+those factors were held to be insufficient.
+lord nicholls explained at para 17: from first to last, from deciding to leave the island of jost van dyke to his use of the firearm in the bar of the bath & turtle, laurents activities had nothing whatever to do with any police duties, either actually or ostensibly.
+laurent deliberately and consciously abandoned his post and his duties.
+he had no duties beyond the island of jost van dyke.
+he put aside his role as a police constable and, armed with the police revolver he had improperly taken, he embarked elsewhere on a personal vendetta of his own.
+that conduct falls wholly within the classical phrase of a frolic of his own.
+that case might be contrasted with bernard v attorney general of jamaica [2004] ukpc 47; [2005] irlr 398, where a shooting was carried out by a police officer with his service revolver while purportedly acting in the execution of his duties, and vicarious liability was held to be established.
+there are numerous other cases decided at a lower level.
+it is unnecessary to consider them all, but it may be worth mentioning the two cases on which the court of appeal principally focused.
+the first is the case of warren v henlys ltd [1948] 2 all er 935, a ruling by a trial judge which was cited with approval in mohamud [2016] ac 677, para 32.
+the case was one in which a customer at a petrol station had an angry confrontation with the petrol station attendant, who wrongly suspected him of trying to make off without payment.
+the customer became enraged at the manner in which he was spoken to by the attendant.
+after paying for the petrol, the customer saw a passing police car and drove off after it.
+he complained to the police officer about the attendants conduct and persuaded the officer to return with him to the petrol station.
+the officer listened to both men and indicated that he did not think that it was a police matter, whereupon the customer said that he would report the attendant to his employer.
+the officer was on the point of leaving, when the attendant punched the customer in the face, knocking him to the ground.
+hilbery j held that the assault was not committed in the course of the attendants employment, applying the salmond formula.
+he said at p 938: it seems to me that it was an act entirely of personal vengeance.
+he was personally inflicting punishment, and intentionally inflicting punishment, on the plaintiff because the plaintiff proposed to take a step which might affect beaumont in his own personal affairs.
+it had no connection whatever with the discharge of any duty for the defendants.
+the act of assault by beaumont was done by him in relation to a personal matter affecting his personal interests and there is no evidence that it was otherwise.
+it is unconvincing to say that the assault had no connection whatever with the discharge of the attendants duties.
+the attendants function was to deal with his employers customers.
+he committed the assault at his workplace, while at work, against a customer of his employer, as the culmination of a sequence of events which began when the attendant was acting for the benefit of his employer.
+the connection between the wrongdoing and the acts which the employee was authorised to do was appreciably stronger than in the present case.
+the judges reasoning is more convincing when he says that the assault was an act entirely of personal vengeance, and that the tort was committed by the attendant in relation to a personal matter affecting his personal interests.
+like the police officer in the case of hartwell, he was not acting on his employers business, but in pursuit of his own private ends.
+the other case which the court of appeal considered in detail was bellman v northampton recruitment ltd [2018] ewca civ 2214; [2019] 1 all er 1133.
+the claimant in that case was an employee of a company run by its managing director.
+the managing director arranged for the company to pay for a staff christmas party, and for accommodation and drinks for the staff at a hotel near the venue where the party was being held.
+at the hotel, the conversation turned to matters at work.
+the managing director became annoyed after being questioned about the appointment of a new employee.
+he summoned the employees who were at the hotel and began to lecture them on how he owned the company, that he was in charge and would do what he wanted to do, that the decisions were his to take and that he paid their wages.
+the claimant challenged a statement made by the managing director about the appointment.
+the managing director responded by telling him that he made the decisions in the company and assaulting him.
+the court of appeal held that there was a sufficiently close connection between the managing directors authorised activities and his commission of the assault to justify the imposition of vicarious liability.
+his remit included the maintenance of his authority over the staff.
+at the time when he committed the assault, he was purporting to act as managing director, and was asserting his authority in front of members of staff, over a subordinate employee who had challenged his managerial decision making.
+although in some respects the judgment in bellman adopted a similar approach to mohamud to that adopted by the court of appeal in the present case, the conclusion reached was correct.
+notwithstanding that the assault occurred outside working hours and away from the workplace, there was clearly a very close connection between the managing directors authorised activities as an employee and his commission of the assault: it was committed while he was purporting to act in the course of his employment as the managing director by asserting his authority over his subordinates in relation to a management decision which he had taken.
+unlike the cases of hartwell and warren, this was not a case in which the employee was pursuing a personal vendetta of his own or an act entirely of personal vengeance.
+all these examples illustrate the distinction drawn by lord nicholls at para 32 of dubai aluminium [2003] 2 ac 366 between cases where the employee was engaged, however misguidedly, in furthering his employers business, and cases where the employee is engaged solely in pursuing his own interests: on a frolic of his own, in the language of the time honoured catch phrase.
+in the present case, it is abundantly clear that skelton was not engaged in furthering his employers business when he committed the wrongdoing in question.
+on the contrary, he was pursuing a personal vendetta, seeking vengeance for the disciplinary proceedings some months earlier.
+in those circumstances, applying the test laid down by lord nicholls in dubai aluminium in the light of the circumstances of the case and the relevant precedents, skeltons wrongful conduct was not so closely connected with acts which he was authorised to do that, for the purposes of morrisons liability to third parties, it can fairly and properly be regarded as done by him while acting in the ordinary course of his employment. (2) whether the dpa excludes the imposition of vicarious liability for (a) statutory torts committed by an employee data controller under the dpa and (b)
+misuse of private information and breach of confidence
+the remaining issue in the appeal is whether the dpa excludes vicarious liability for breaches of its own provisions, committed by an employee as a data controller, or for misuse of private information and breach of confidence.
+having concluded that the necessary conditions for the imposition of vicarious liability do not exist in this case, it is not strictly necessary for the court to go on to consider those issues.
+they have however been fully argued, and it is therefore desirable that the court should express its view.
+as explained earlier, the judge considered that the dpa did not exclude vicarious liability either for a breach of the duties imposed by the dpa itself or for a breach of common law or equitable obligations, on the view that domestic principles of statutory interpretation did not lead to that conclusion, and the underlying eu legislation was intended to increase the protection of data subjects rather than to take away existing protections.
+the court of appeal did not decide the issue concerning breaches of the dpa but agreed with the judge in relation to vicarious liability for breaches of common law or equitable obligations.
+in their written case, morrisons relied upon the fact that the dpa, now repealed and replaced by the data protection act 2018, was intended to implement the directive, now replaced by the general data protection regulation, (eu) 2016/679.
+it argued that the directive was intended to achieve a harmonisation of national laws governing the processing of personal data, and that the existence of vicarious liability under english law, in circumstances falling within the scope of the directive, was therefore precluded.
+however, in their oral submissions to the court, counsel for morrisons departed from that argument in the light of the judgment of the court of justice in fashion id gmbh & co kg v verbraucherzentrale nrw ev (facebook ireland ltd intervening) (case c 40/17) [2020] 1 wlr 969.
+in the circumstances, it is unnecessary to consider the directive.
+instead, counsel for morrisons presented their submissions on the basis of domestic principles of statutory interpretation.
+the relevant principles were explained by lord nicholls in majrowski [2007] 1 ac 224, para 10: the rationale [of the principle of vicarious liability] also holds good for a wrong comprising a breach of a statutory duty or prohibition which gives rise to civil liability, provided always the statute does not expressly or impliedly indicate otherwise.
+a precondition of vicarious liability is that the wrong must be committed by an employee in the course of his employment.
+a wrong is committed in the course of employment only if the conduct is so closely connected with acts the employee is authorised to do that, for the purposes of the liability of the employer to third parties, the wrongful conduct may fairly and properly be regarded as done by the employee while acting in the course of his employment: see lister v hesley hall ltd [2002] 1 ac 215, 245, para 69, per lord millett, and dubai aluminium co ltd v salaam [2003] 2 ac 366, 377, para 23.
+if this prerequisite is satisfied the policy reasons underlying the common law principle are as much applicable to equitable wrongs and breaches of statutory obligations as they are to common law torts.
+lord nicholls summarised the resultant position at para 17: unless the statute expressly or impliedly indicates otherwise, the principle of vicarious liability is applicable where an employee commits a breach of a statutory obligation sounding in damages while acting in the course of his employment.
+counsel for morrisons argued that the dpa impliedly excluded the vicarious liability of an employer.
+in that regard, counsel referred in particular to section 13 of the dpa.
+subsection (1) provides that [an] individual who suffers damage by reason of any contravention by a data controller of any of the requirements of this act is entitled to compensation from the data controller for that damage.
+subsection (2) makes similar provision in relation to compensation for distress.
+subsection (3) provides that [i]n proceedings brought against a person by virtue of this section it is a defence to prove that he had taken such care as in all the circumstances was reasonably required to comply with the requirement concerned.
+the seventh data protection principle (schedule 1, paragraph 10) also provides: the data controller must take reasonable steps to ensure the reliability of any employees of his who have access to personal data.
+the dpa therefore made it clear, it was argued, that liability was to be imposed only on data controllers, and only where they had acted without reasonable care.
+that statutory scheme was inconsistent with the imposition of a strict liability on the employer of a data controller, whether for that persons breach of the dpa or for his breach of duties arising at common law or in equity.
+since it was common ground that morrisons performed the obligations incumbent upon them as data controllers, and that skelton was a data controller in his own right in relation to the data which he copied and disclosed, it followed that morrisons could not be under a vicarious liability for his breach of the duties incumbent upon him.
+attractively though this argument was presented, it is not persuasive.
+the imposition of a statutory liability upon a data controller is not inconsistent with the imposition of a common law vicarious liability upon his employer, either for the breach of duties imposed by the dpa, or for breaches of duties arising under the common law or in equity.
+since the dpa is silent about the position of a data controllers employer, there cannot be any inconsistency between the two regimes.
+that conclusion is not affected by the fact that the statutory liability of a data controller under the dpa, including his liability for the conduct of his employee, is based on a lack of reasonable care, whereas vicarious liability is not based on fault.
+there is nothing anomalous about the contrast between the fault based liability of the primary tortfeasor under the dpa and the strict vicarious liability of his employer.
+a similar contrast can often be drawn between the fault based liability of an employee under the common law (for example, for negligence) and the strict vicarious liability of his employer, and is no more anomalous where the employees liability arises under statute than where it arises at common law.
+it follows that, applying the orthodox principles of statutory interpretation explained by lord nicholls in majrowski, since the dpa neither expressly nor impliedly indicates otherwise, the principle of vicarious liability applies to the breach of the obligations which it imposes, and to the breach of obligations arising at common law or in equity, committed by an employee who is a data controller in the course of his employment, as explained in dubai aluminium.
+conclusion
+for the reasons explained above, the circumstances in which skelton committed wrongs against the claimants were not such as to result in the imposition of vicarious liability upon his employer.
+morrisons cannot therefore be held liable for skeltons conduct.
+it follows that the appeal must be allowed.

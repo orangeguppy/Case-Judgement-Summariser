@@ -1,0 +1,823 @@
+these appeals raise several matters which are important to the international market in telecommunications.
+the first (in all three appeals) is whether a court in the united kingdom (uk) has jurisdiction and may properly exercise a power, without the agreement of both parties, to (a) grant an injunction to restrain the infringement of a uk patent where the patented invention is an essential component in an international standard of telecommunications equipment, which is marketed, sold and used worldwide, unless the implementer of the patented invention enters into a global licence of a multinational patent portfolio, and (b) determine royalty rates and other disputed terms of such a global licence.
+secondly, there is a dispute (in the conversant appeals: para 17 below) whether england is the appropriate forum to determine those matters.
+thirdly, (in the unwired appeal: para 16 below) there is a question as to the nature of the requirement that the licence, which the owner of a standard essential patent (sep) must offer to an implementer, be non discriminatory.
+fourthly, (again in the unwired appeal) there is a question whether the court should refuse to grant the owner of such a sep an injunction on the ground that it has breached eu competition law because it has not complied with the guidance given in the judgment of the court of justice of the european union (cjeu) in huawei v zte (case c 170/13) eu:c:2015:477; [2015] 5 cmlr 14; [2016] rpc 4.
+fifthly, the appeals raise a more general question as to the circumstances in which it is appropriate for an english court to grant a prohibitory injunction or to award damages instead.
+each member of the panel has contributed to this judgment which addresses those matters.
+patents: the legal background
+the starting point is the patent bargain which promotes innovation and justifies the monopoly which a patent gives an inventor.
+the patent bargain is this: an inventor receives the reward of a time limited monopoly of the industrial use of its invention in return for disclosing the invention and dedicating it to the public for use after the monopoly has expired.
+see for example actavis group ptc ehf v icos corpn [2019] uksc 15; [2019] bus lr 1318, para 53.
+the patents conferring such monopoly rights are national in scope and are usually conferred by national governments.
+legal questions as to their validity and their infringement are determined by the national courts of the state which has conferred the patent right or, in the case of a european patent, in a designated state.
+an inventor has to protect its invention by applying for patents to the national authorities of each of those states in which it seeks to obtain a monopoly (unless it obtains a patent from the european patent office under the european patent convention which creates a nationally enforceable patent within each designated state).
+it is not unusual for a national patent for an invention to be upheld by the courts of one state and another national patent for what in substance is the same invention to be invalidated by the courts of another state.
+within europe, the same european patent can on occasion be upheld by the courts in one signatory state but be invalidated in another.
+much may depend on the differing evidence led and arguments advanced in national legal proceedings.
+in english law, once a patent owner has established that a patent is valid and has been infringed, it is prima facie entitled to prevent further infringement of its property rights by injunction.
+in scots law an interdict provides a similar remedy.
+we discuss this matter (the fifth issue) in more detail in paras 159 169 below.
+this prima facie entitlement and the patent owners entitlement in other jurisdictions to obtain similar prohibitory remedies form part of the backdrop to the contractual arrangements which lie at the centre of these appeals.
+to promote the development of global markets for telecommunications products, including mobile phones, the infrastructure equipment and devices produced by competing manufacturers need to communicate and inter operate with one another and the phones need to be available for use internationally by consumers who travel with their phones from one jurisdiction to another.
+two attributes of patent law have militated against this development.
+first, the prima facie entitlement of the owner of a patent to prohibit by injunction the use of its invention within a national jurisdiction has the potential to disrupt a global market for equipment using that invention.
+secondly, the national nature of patent monopolies, which forces the patent owner seeking to protect its monopoly to raise proceedings in individual national courts, makes it very difficult, if not wholly impracticable, for a patent owner to protect an invention which is used in equipment manufactured in another country, sold in many countries and used by consumers globally.
+the first attribute may give owners of patents included in an agreed standard excessive power to disrupt an otherwise global market to the prejudice of manufacturers of equipment using such inventions (implementers) and to exact excessive royalties for the use of their inventions.
+the second attribute may enable implementers to avoid paying an inventor a proper price for the use of its invention internationally.
+there was therefore potential for the alternative evils of the abuse by a patent owner of its monopoly rights and of the denial by implementers of the patent owners legitimate rights.
+organisations involved in the telecommunications industry have sought to address those evils by establishing standard setting organisations (ssos) to which they bring their most advanced technologies, promoting standards using those technologies, and putting in place contractual arrangements to which we now turn.
+ssos aim to promote both technological innovation, which is made available to the public, and competition between manufacturers, and thereby to benefit consumers through more convenient products and services, interoperability, lower product costs and increased price competition.
+standard setting organisations
+telecommunications ssos have been established in china, europe, india, japan (two), south korea and the united states.
+the first telecommunications sso was the european telecommunications standards institute (etsi), which is a french association formed in 1988 and which has adopted an intellectual property rights (ipr) policy and contractual framework governed by french law.
+etsi is recognised as the sso in the european union telecommunications sector.
+it has over 800 members from 66 countries across five continents.
+its purposes, as set out in article 2 of its statutes (5 april 2017), include the production of the technical standards which are necessary to achieve a large unified european market for telecommunications [etc] and to contribute to world wide standardization in that field.
+ssos bring together industry participants to evaluate technologies for inclusion in a new standard.
+etsi is the relevant sso as the patents which are the subject of these appeals are the uk designations of european patents (uk patents) which have been declared to etsi as essential.
+the relevant standards in these appeals are telecommunications standards for 2g (gsm), 3g (umts) and 4g (lte) telecommunications equipment and devices.
+the seven ssos have cooperated to form the 3rd generation platform partnership (3gpp) to develop and oversee those standards.
+etsi through its secretariat manages the process by which its members contribute to the development of international standards.
+participants in ssos have an incentive to put forward their technology as a component of a proposed standard as inclusion in the standard ensures a market for the technology.
+alternative technologies which are not included in a standard may well disappear from the market.
+participants also accept obligations to declare iprs which might potentially have an effect on the implementation of standards developed by the ssos.
+although it is necessary to examine the arrangements in more detail below, it may be useful to give an overview of how etsi deals with essential iprs, a term which we equate with seps, when it devises those standards.
+owners of patented inventions which might be used in a telecommunications industry standard, which is under preparation, declare their patents to etsi.
+when considering whether to include a technology in a standard, etsi requires the patent owner to enter into an irrevocable undertaking or contract with it to allow implementers of the standard to obtain a licence to use the relevant patented technology on fair, reasonable and non discriminatory (frand) terms.
+if the declared patented invention is included in a standard and it is not possible to make, sell, use or operate etc equipment or methods which comply with the standard without infringing that ipr, it is treated as an essential ipr.
+the irrevocable undertaking to give a licence on frand terms to implementers applies to any such essential iprs.
+but etsi is not under an obligation to check whether patents declared to be essential are in fact essential.
+nor does etsi make any binding judgment on the validity or status of any such patents: etsi guide on iprs (19 september 2013) (the guidance) para 3.2.1.
+those are matters for the relevant national courts.
+etsi leaves it to the relevant parties, if they so wish, to resolve those questions by court proceedings or alternative dispute resolution: the guidance para 4.3.
+the purpose of the etsi ipr policy is, first, to reduce the risk that technology used in a standard is not available to implementers through a patent owners assertion of its exclusive proprietary interest in the seps.
+it achieves this by requiring the sep owner to give the undertaking to license the technology on frand terms.
+secondly, its purpose is to enable sep owners to be fairly rewarded for the use of their seps in the implementation of the standards.
+achieving a fair balance between the interests of implementers and owners of seps is a central aim of the etsi contractual arrangements.
+the etsi ipr policy
+the etsi ipr policy (the ipr policy) is a contractual document, governed by french law.
+it binds the members of etsi and their affiliates.
+it speaks (clause 15(6)) of patents which are inevitably infringed by the sale, lease, use, operation etc of components which comply with a standard as essential ipr.
+by requiring an ipr holder whose invention appears to be an essential ipr to give an irrevocable undertaking to grant a licence of the ipr on frand terms, it creates a stipulation pour autrui, in other words an obligation which a third party implementer can enforce against the ipr holder.
+the ipr policy falls to be construed, like other contracts in french law, by reference to the language used in the relevant contractual clauses of the contract and also by having regard to the context.
+in this case, that context is both the external context and the internal context of the ipr policy document itself, such as the policy objectives declared in the document.
+the external context includes (i) the guidance (above) which etsi has produced on the operation of the ipr policy, (ii) etsis statutes (above), (iii) the globalised market which etsi and other ssos were and are seeking to promote, which we have discussed in para 4 above, and (iv) the fact that etsi is a body comprising experts and practitioners in the telecommunications industry who would be expected to have a good knowledge of the territorial nature of national patents, the remedies available to patent owners against infringement of their patents, the need to modify by contract the application of patent law to promote the development of a globalised market in telecommunications products, and the practice of the industry in negotiating patent licensing agreements voluntarily.
+the policy statements which provide the internal context include the objectives set out in clause 3 of the ipr policy.
+they include the statement in clause 3.1 that the ipr policy: seeks to reduce the risk to etsi, members, and others applying etsi standards and technical specifications, that investment in the preparation, adoption and application of standards could be wasted as a result of an essential ipr for a standard or technical specification being unavailable.
+that statement clearly reveals a policy of preventing the owner of an essential ipr from holding up the implementation of the standard.
+but that policy is to be balanced by the next sentence of clause 3.1 which speaks of seeking a balance, when achieving that objective, between the needs of standardization for public use in the field of telecommunications and the rights of the owners of iprs.
+the importance of protecting the rights of the owners of iprs is declared in the second policy objective (clause 3.2) in these terms: ipr holders whether members of etsi and their affiliates or third parties, should be adequately and fairly rewarded for the use of their iprs in the implementation of standards and technical specifications.
+this objective seeks to address the mischief of holding out by which implementers, in the period during which the ipr policy requires sep owners not to enforce their patent rights by seeking injunctive relief, in the expectation that licence terms will be negotiated and agreed, might knowingly infringe the owners essential iprs by using the inventions in products which meet the standard while failing to agree a licence for their use on frand terms, including fair, reasonable and non discriminatory royalties for their use.
+in circumstances where it may well be difficult for the sep owner to enforce its rights after the event, implementers might use their economic strength to avoid paying anything to the owner.
+they may unduly drag out the process of licence negotiation and thereby put the owner to additional cost and effectively force the owner to accept a lower royalty rate than is fair.
+having looked at context, we turn to the operative clauses of the ipr policy.
+a member of etsi is obliged to use its reasonable endeavours to inform etsi in a timely manner of essential iprs during the development of a standard or technical specification.
+if a member submits a technical proposal for a standard or technical specification it is obliged to inform etsi of its iprs which might be essential (clause 4.1).
+clause 4.3 confirms that this obligation of disclosure applies to all existing and future members of a patent family and deems the obligation in respect of them to be fulfilled if an etsi member has provided details of just one member of the patent family in a timely manner, while also allowing it voluntarily to provide information to etsi about other members of that family.
+a patent family is defined as all the documents having at least one priority in common, including the priority document(s) themselves and documents in this context means patents, utility models, and applications therefor (clause 15(13)).
+the patent family thus extends to patents relating to the same invention applied for and obtained in several jurisdictions.
+it shows an intention for the arrangement to apply internationally.
+this is important because the undertaking to grant a licence under clause 6, to which we now turn, extends to all present and future essential iprs in that patent family.
+the key to the ipr policy is clause 6, which provides the legal basis on which an owner of an essential ipr gives an irrevocable undertaking to grant a licence and thereby protects both etsi and implementers against holding up.
+clause 6.1 provides so far as relevant: when an essential ipr relating to a particular standard or technical specification is brought to the attention of etsi, the director general of etsi shall immediately request the owner to give within three months an irrevocable undertaking in writing that it is prepared to grant irrevocable licences on fair, reasonable and non discriminatory (frand) terms and conditions under such ipr it provides that the licences must at least cover the manufacture of equipment, the sale, lease or other disposal of equipment so manufactured, and the repair, use or operation of such equipment.
+frand licensing undertakings made pursuant to clause 6 are intended to bind all successors in interest in respect of a sep, and upon transfer of a sep the sep owner is required to take steps to ensure that this is achieved (clause 6.1bis).
+the undertaking made in respect of a specified member of a patent family is applied to all existing and future essential iprs of that patent family unless specified iprs are excluded in writing when the undertaking is made (clause 6.2).
+it is envisaged in the ipr policy that this process will usually take place while etsi is working to create a standard because clause 6.3 provides that, if the ipr owner does not grant the requested undertaking, relevant office bearers in etsi will decide whether to suspend work on the relevant parts of the standard or technical specification until the matter is resolved, or to submit any relevant standard or technical specification for adoption.
+similarly, if, before a standard or technical specification is published, an ipr owner is not prepared to license an ipr, clause 8.1 provides for the adoption of a viable alternative technology for the standard or technical specification if such a technology exists.
+if such technology does not exist, clause 8.1 provides an option for work on the standard or technical specification to cease.
+if the refusal to grant a licence occurs after etsi has published a standard or a technical specification, clause 8.2 provides the option of modifying the standard so that the relevant ipr is no longer essential.
+clause 6bis instructs members of etsi to use one of the declaration forms annexed to the policy.
+so far as relevant, the licensing declaration is an irrevocable declaration by the declarant and its affiliated legal entities that, to the extent that disclosed iprs are or become and remain essential iprs, they (a) are prepared to grant irrevocable licences in accordance with clause 6.1, and (b) will comply with clause 6.1bis.
+it appears from this brief review of the ipr policy in its context that the following conclusions may be reached.
+first, the contractual modifications to the general law of patents are designed to achieve a fair balance between the interests of sep owners and implementers, by giving implementers access to the technology protected by seps and by giving the sep owners fair rewards through the licence for the use of their monopoly rights.
+secondly, the sep owners undertaking, which the implementer can enforce, to grant a licence to an implementer on frand terms is a contractual derogation from a sep owners right under the general law to obtain an injunction to prevent infringement of its patent.
+thirdly, the obtaining of undertakings from sep owners will often occur at a time when the relevant standard is being devised and before anyone may know (a) whether the patent in question is in fact essential, or may become essential as the standard is developed, in the sense that it would be impossible to implement the standard without making use of the patent and (b) whether the patent itself is valid.
+fourthly, the only way in which an implementer can avoid infringing a sep when implementing a standard and thereby exposing itself to the legal remedies available to the sep owner under the general law of the jurisdiction governing the relevant patent rights is to request a licence from the sep owner, by enforcing that contractual obligation on the sep owner.
+fifthly, subject only to an express reservation entered pursuant to clause 6.2, the undertaking, which the sep owner gives on its own behalf and for its affiliates, extends to patents in the same patent family as the declared sep, giving the implementer the right to obtain a licence for the technology covering several jurisdictions.
+finally, the ipr policy envisages that the sep owner and the implementer will negotiate a licence on frand terms.
+it gives those parties the responsibility to resolve any disputes as to the validity of particular patents by agreement or by recourse to national courts for determination.
+industry practice in negotiating licensing agreements
+the parties do not dispute that sep owners, which have a large portfolio of patents covering many countries, and implementers, which market their products in many countries, would as a matter of practice voluntarily negotiate worldwide licences, or at least licences from which a given territory is carved out while the rest of the world is licensed.
+implementers in the telecommunications industry are often also owners of many seps and negotiate cross licences with other implementers.
+as birss j explained in his judgment at first instance ([2017] ewhc 2988 (pat); [2017] rpc 19, para 544), no rational business would seek to license products country by country if it could be avoided.
+this is, as birss j said, in part because of the effort required to negotiate and agree so many different licences and thereafter to keep track of so many different royalty calculations and payments.
+it is also, as he recognised, because businesses and consumers will move mobile handsets across borders and an implementer would want to be able to bind the sep owner into allowing the entry of otherwise unlicensed handsets into the jurisdictions in which the sep owner had a valid sep or valid seps.
+the court of appeal in its judgment in the unwired appeal ([2018] ewca civ 2344; [2018] rpc 20, paras 55 56) also referred to the prohibitive cost of litigating the validity and essentiality of patents territory by territory.
+these obvious considerations must have been part of the factual background of which the expert framers of the ipr policy were aware when they devised that policy.
+the parties to the appeals
+in this judgment the court addresses three appeals.
+in the first, the appellants are huawei technologies co ltd (huawei (china)), a chinese company which develops telecommunications technology and also implements the technology of others, and huawei technologies (uk) co ltd (huawei (uk)), a uk subsidiary of huawei (china) (collectively huawei).
+the respondents are unwired planet international ltd and unwired planet llc (collectively unwired) which are registered in ireland and the united states of america respectively.
+they are both intellectual property licensing companies (sometimes called patent assertion entities) which obtain income from the licensing of patents to companies which make and sell telecommunications equipment.
+in 2013 unwired acquired a portfolio of patents and patent applications from ericsson, which was a major developer of telecommunications technology and a participant in standard setting.
+at the time of trial, the portfolio covered 42 countries and comprised 276 patents and applications declared as essential, of which 29 were uk patents or applications.
+each of ericsson and unwired made an etsi ipr licensing declaration and a specific ipr licensing declaration in respect of patent families which encompass five of the uk patents on which unwired sued huawei in england.
+ericsson had licensed patents to huawei, including the uk patents which are the subject of these proceedings, but the licence expired in 2012.
+huaweis continued use of the technology covered by the patents in suit forms the backdrop to its appeal.
+in the second and third appeals the appellants are respectively (i) huawei and (ii) zte corporation (zte (china)), a chinese company, and its uk subsidiary zte (uk) ltd (zte (uk)), collectively zte and both part of the zte group, which is a global supplier of telecommunications and information technology equipment.
+the respondent in both appeals is conversant wireless licensing srl (conversant), a company registered in luxembourg and part of a canadian group of companies which is managed from the united states.
+it is an intellectual property licensing company or patent assertion entity, which licenses patents for royalty income.
+conversant acquired a portfolio of about 2,000 patents and patent applications, covering over 40 countries, from nokia in 2011.
+conversant pleads that the portfolio includes 28 patent families which are essential.
+it also pleads that it and/or nokia have given an etsi ipr licensing declaration and a specific ipr licensing declaration in respect of its portfolio, which include the uk patents in suit, and that conversant gave a general ipr licensing declaration on 22 july 2014.
+we also received short written interventions from apple inc, ericsson and qualcomm incorporated, in the in which telecommunications industry set out their views on industry practice and on the principal issues of these appeals, including the interpretation of the ipr policy.
+we are very grateful for their assistance.
+the legal proceedings important players three
+(i) unwired v huawei
+unwired commenced proceedings in england on 10 march 2014 against huawei, samsung and google, alleging infringement of the uk designation of six european patents (ep), and requesting, among other remedies, an injunction to prevent further infringement.
+unwired began parallel proceedings in germany at the same time.
+before the proceedings commenced, unwired and huawei had discussed the possibility of huawei buying some of unwireds patents but huawei did not do so.
+we discuss the further exchanges between unwired and huawei, both before the proceedings commenced and during the course of those proceedings, when we address the fourth issue (whether the court should refuse an injunction because of any failure to comply with the guidance of the cjeu in huawei v zte) in paras 128 158 below.
+in 2015 and 2016 three trials were held to determine whether the uk patents in suit were valid and infringed.
+after a seven day trial, birss j held that one patent (ep 744) was both valid and essential.
+his findings were upheld on appeal.
+in the second trial, after a hearing over eight days, two patents (ep 287 and ep 514) were held to be invalid, permission to appeal was granted, and the appeal was stayed in july 2017.
+in the third trial, after a five day hearing, a patent (ep 818) was held to be valid and essential.
+permission to appeal was granted and the appeal was stayed in july 2017.
+the equivalent technical trial on the remaining uk sep (ep 991) has been postponed indefinitely.
+at the same time unwired brought proceedings in germany, in which it had mixed success and from which appeals are pending.
+in particular, the german designation of ep 744 has been held to be valid but not infringed and an appeal on infringement is pending.
+the german designations of ep 287 and ep 514 have been held to be infringed but the opposition division of the european patent office has held those patents to be invalid and appeals from those decisions to the epo technical board of appeal are pending.
+the german designation of ep 818 has been held to be valid and infringed and those judgments have been upheld on appeal.
+the claims of ep 991 which were alleged to be infringed were revoked for the german designation and an appeal against that judgment is pending, as is a proceeding relating to the infringement of that patent.
+huawei (china) challenged several of unwireds patents in china.
+the patent re examination board (prb) has held that two chinese family members of unwireds european patents (ep 287 and 514) are invalid but those findings are under appeal.
+the prb has held the chinese family member of ep 744 to be valid and huawei (china) has appealed.
+huawei (china) has also challenged five other patents, which unwired declared to be seps; three have been upheld, one upheld in part and one invalidated.
+appeals from those decisions are pending.
+as matters currently stand, and subject to continuing appeal proceedings in germany and china, huawei has been held to be infringing one or more of unwireds seps through its use of patented technology in both the uk and germany and in china challenges to two patents have failed.
+unwired settled with google in 2015 and with samsung in july 2016, after the technical trials of the uk patents but before birss j held the trial to determine remedies for infringement of its uk patents, in an arrangement in which it granted samsung a global licence for its portfolio.
+unwired was sold to the panoptis group of companies in july 2016.
+it was in serious financial trouble and was close to insolvency.
+we address in more detail the samsung settlement when we discuss the third issue, namely what is required to make the licence offered by a sep owner non discriminatory, in paras 105 127 below.
+between october and december 2016 birss j held a trial to determine the remedies for the infringement of unwireds valid seps.
+in his judgment of 5 april 2017 ([2017] ewhc 711 (pat)), later reissued with revised redactions on 30 november 2017, [2017] ewhc 2988 (pat)) he concluded, among other things, that the frand undertaking was justiciable and enforceable in the english courts and that an implementer who refused to take a licence on terms which the court held to be frand exposed itself to an injunction for infringing a uk patent which the court held to be valid and infringed.
+he held that a willing licensor, with unwireds portfolio of patents, and a willing licensee, with almost global sales, acting reasonably and on a willing basis would agree a worldwide licence.
+he concluded that such parties would regard the negotiation of licences country by country as madness.
+having been presented with detailed expert evidence, birss j determined the rates of royalty and other terms of the licence, so far as they were in dispute, that he considered to be frand.
+he held that in the circumstances a uk portfolio licence, for which huawei had argued, would not be frand but that a frand licence between unwired and huawei had to be a worldwide licence.
+in case he was wrong in his conclusion that only a worldwide licence was frand, he also determined the rates and terms of a uk only licence covering unwireds uk portfolio.
+the judge also made findings which are relevant to the third and fourth issues which we discuss below.
+he held that the royalty rates which he settled for the global licence were frand notwithstanding that they were higher than those in the licence which unwired gave to samsung.
+he also held that unwired had not breached article 102 of the treaty on the functioning of the european union (tfeu) and that the huawei v zte case did not give huawei a defence if it decided not to enter into the global licence which he had settled.
+in a hearing on 7 june 2017 birss j granted an injunction to restrain infringement of the relevant uk patents with a proviso that the injunction would cease to have effect if the defendant entered into the frand global licence which he had settled.
+he stayed the injunction pending appeals: [2017] ewhc 1304 (pat); [2017] rpc 20.
+huawei has given certain undertakings to the court and has sought to conduct itself according to those undertakings pending the determination of all appeals in the english proceedings.
+huawei appealed against birss js orders.
+on 23 october 2018 the court of appeal (lord kitchin, and floyd and asplin ljj) handed down a judgment dismissing the appeal: [2018] ewca civ 2344; [2018] rpc 20.
+the court disagreed with the judges conclusion that in any particular case there could only be one set of frand terms.
+ifa circumstance were to arise in which either a local or a global licence would be frand, it would be for the sep owner to choose which it preferred because the sep owner performed its obligation by offering a licence on frand terms.
+but this aspect of the judges reasoning had no material effect on the conclusion which he had reached because he had not erred in deciding that, in the circumstances of this case, only a global licence would be frand.
+(ii) conversant v huawei and zte
+conversant commenced proceedings against huawei and zte in england in july 2017.
+it seeks among other things a declaration that the global licence which it offered the defendants is frand, alternatively, if that is not granted, a determination of frand terms.
+it also seeks, after amending its pleadings, injunctions in respect of uk patents found to be valid and infringed which will last until the defendants enter into a licence which the court determines is frand.
+huawei and zte challenged the jurisdiction of the english courts on the grounds of (a) a lack of jurisdiction to determine the validity of foreign patents and (b) forum non conveniens.
+conversant sought permission to serve the chinese defendants out of the jurisdiction.
+in a judgment handed down on 16 april 2018, henry carr j dismissed the jurisdiction challenges and granted conversants application to serve out of jurisdiction: [2018] ewhc 808 (pat); [2018] rpc 16.
+commenting on birss js judgment, he held that the english courts had jurisdiction to enforce the contract contained in the ipr policy and to determine such terms of a licence as were in dispute.
+enforcing the contract and determining the terms of a frand licence did not involve the english courts intruding on the jurisdiction of foreign courts in relation to the validity or infringement of foreign patents.
+the licences determined by the english courts could be adjusted to reflect the rulings of foreign courts on such matters.
+the effect of this jurisdiction was to put the onus on an implementer to challenge foreign patents once the court had found a uk sep to be valid and infringed.
+the royalty rates which the court could adopt would be based on evidence of comparable real life licences which could be expected to take into account the competition policies of foreign states.
+he concluded on the basis of expert legal evidence led before him that the chinese courts did not have jurisdiction to determine frand royalty rates in respect of non chinese patents without the agreement of the parties.
+he regarded it as no more than speculative whether the chinese courts would have such jurisdiction, even if the parties consented, and he rejected the plea of forum non conveniens.
+before the hearing in england on the jurisdiction challenges, huawei and zte raised proceedings in china to challenge the validity of conversants declared chinese patents.
+after henry carr j handed down his judgment on the jurisdiction challenge in england, conversant raised proceedings in germany against huawei (china) and zte (china) and their german subsidiaries claiming infringement of its german patents.
+in england, four uk patents were in suit but trials of two of them were stayed once they had expired.
+after a technical trial of ep (uk) 659 arnold j handed down a judgment on 4 july 2019 in which he held that the patent was infringed but that the patent was invalid for added matter.
+conversant was given permission to appeal and that appeal has now taken place.
+the technical trial of ep (uk) 177 and its divisional family members (ep (uk) 722 and ep (uk) 206) took place in the autumn of 2019.
+birss j handed down a judgment on 8 january 2020 in which he held that ep (uk) 177 and ep (uk) 722 were partially valid and infringed and that ep (uk) 206 was invalid.
+an appeal is scheduled to take place in november 2020.
+a frand trial was listed for april 2020 with a time estimate of 15 days but was adjourned due to the coronavirus pandemic and to await the outcome of these appeals.
+huawei and zte appealed the judgment of henry carr j on jurisdiction.
+on 30 january 2019, the court of appeal (patten, floyd and flaux ljj) handed down judgment, dismissing the appeal: [2019] ewca civ 38; [2019] rpc 6.
+in the conversant appeals to this court therefore, huaweis and ztes cases relate to the preliminary questions of jurisdiction and forum non conveniens.
+in the chinese proceedings huawei (china) and zte (china) challenged 11 chinese patents.
+as at the date of the chronology which the parties provided, the prb had ruled that of those 11, eight are invalid, two are valid and one is partially valid.
+those decisions are under appeal.
+none of the chinese patents held to be valid are of the same families as the uk patents in suit.
+huawei (china) and zte (china) have raised separate proceedings in china with the aim of obtaining a determination of frand royalty rates for conversants chinese patents if they are found to be valid and essential.
+huawei and zte have offered conversant to allow the chinese courts to address global frand terms and rates for conversants non chinese patents in its portfolio.
+conversant did not accept those offers and henry carr j held that it acted reasonably in so doing.
+in the german proceedings conversant has claimed infringement of the german designations of ep 177, ep 659 and ep 986.
+hearings on those claims took place on 18 june 2020 and conversant has given undertakings which seek to address the possibility of conflict between judgments of the english courts and the german courts.
+(iii) overview of the markets and the proceedings
+it is clear from the uk, german and chinese proceedings that ascertaining the validity, essentiality and infringement of national patents within a portfolio by legal proceedings in several different jurisdictions involves the expenditure of a prodigious amount of money and effort by both claimants and defendants, although the proceedings in china are significantly less costly than those in the west.
+it is not disputed that it would be impracticable for the parties to litigate these matters in each of the countries which the portfolio covers.
+it also appears to be clear and it is not disputed that within a substantial portfolio of patents there may be many patents, which (if subject to examination in proceedings) would be found to be invalid in whole or in part or not infringed by the technology used in the standard.
+these are in our view relevant facts when one addresses the fair balance between the interests of the sep owner and the implementer which the ipr policy seeks to achieve.
+at the same time, huawei and zte point out that only a very small proportion of their worldwide sales are made in the uk.
+huawei manufactures in china and its principal market is in china.
+it asserts that 64% of its relevant sales occur in china or in countries in which unwired has no patent protection and is dependent on the validity and infringement of chinese patents for its claim for royalties.
+in relation to the conversant claim, huawei asserts that the chinese market accounts for 56% of its groups worldwide sales on which conversant makes claims, and a further 19% of such sales occur in countries in which conversant has no patents, so that conversants claims in those countries depend on the chinese patents.
+the uk market comprises only 1% of huaweis sales of those products.
+similarly, zte manufactures in china and in the first six months of 2017 60% of the groups operating revenue was from china.
+at that time only 0.07% of its turnover was generated in the uk.
+thus, huawei and zte submit that questions as to the validity and infringement of chinese patents, which are within the jurisdiction of the chinese courts, are of central importance to the value of a global licence of declared seps.
+the force of this contention can be seen from the current state of play in litigation which huawei commenced in china, seeking declarations that conversants chinese patents were invalid or were not essential.
+of the 15 patents which conversant put forward for trial from its portfolio of chinese patents, 14 were held to be either invalid or not infringed and only one was found to be essential but the trial of its validity has yet to take place.
+in china, the nanjing intermediate peoples court of jiangsu province in a judgment dated 16 september 2019 in actions raised by huawei ((2018) su 01 min chu no 232, 233 and 234) criticised conversant for seeking to obtain a global rate for its patents from a foreign judge without obtaining the view of the chinese courts on the validity and infringement of its chinese patents.
+as we have said, many of the foreign judgments have been appealed, but they nonetheless show what is in fact common ground between the parties, that declared seps within a portfolio are often invalid or not essential.
+before turning to the challenges raised in these appeals we set out briefly the methodology which birss j adopted in determining what was a frand licence between unwired and huawei.
+an understanding of the nature of the exercise which he undertook is important to an analysis of the relationship between the determination of the terms of a frand licence on the one hand and, on the other, the exclusive right of foreign courts to adjudicate on the validity and infringement of their national patents.
+(iv) birss js methodology in the unwired case
+birss j did not purport to determine the validity of any non uk patent or to find that any such patent was or was not a sep.
+what he sought to do was to value the portfolio as a whole, recognising that it was likely to include patents which were not valid and patents which although valid were not infringed and so were not seps.
+one possible method, called the top down method, was to take a view on what the total aggregate royalty burden would be for all the intellectual property relating to the standardised telecommunications technology in a product such as a handset.
+we refer to that aggregate burden as t. various companies in the industry had made public statements as to the value of t.
+the task was then to share out the aggregate royalty t across all licensors in proportion to the value of each licensors patent portfolio as a share s of the total relevant patent portfolio essential to the standard.
+by this method the frand rate for a portfolio was the product of t and s (ie t x s).
+the second method was to use comparable licences.
+these are licences which parties engaged in the telecommunications industry had already agreed and operated.
+as the experts who gave evidence recognised and birss j accepted, many patent licences including cross licences may have different terms, including different ways of calculating royalties, which make comparison difficult.
+the experts had to adopt methods of unpacking the licences in order to make them comparable and this introduced uncertainty into the exercise of comparison.
+unwired had obtained most of the patents in its portfolio from ericsson.
+thus, ericssons licences in the past had included all the seps in issue.
+that made ericssons licences particularly relevant as comparables.
+as birss j explained (para 180), if the rate for ericssons portfolio was e and the relative value of unwireds portfolio to ericssons portfolio was r, the unwired rate is e x r.
+birss j accepted evidence that parties when agreeing licences of a substantial portfolio of declared seps did not evaluate the importance of individual patents but adopted methods involving patent counting.
+while it may be possible sometimes to identify a patent which is a keystone invention underpinning the technical approach on which a standard is based, none of unwireds patents were in that category.
+patent counting therefore involved identifying from among the declared seps those which were to be treated as essential, which he described as relevant seps.
+there is a problem that more patents are declared to be essential than in fact are essential.
+this problem of over declaration is in part the result of the ipr policy process which requires patent owners to declare seps in a timely manner when a standard is being prepared, as it encourages patent owners to err on the safe side by making a declaration.
+in part, there are difficulties in interpreting both the patents and the standards.
+in part also, patent claims are amended over time; different national patents within a patent family will vary in scope around the world; and standards themselves will vary over time.
+further, the process of negotiating rates by counting patents within a portfolio creates a perverse incentive to over declare.
+this phenomenon must be recognised and be taken into account when identifying relevant seps and calculating shares and ratios s and r above.
+significantly, birss j held, on the evidence led before him, that no one in counting relevant seps takes account of the validity of the patents.
+much of birss js impressive judgment involved an analysis of the competing methods by which the parties sought to carry out this exercise.
+he also analysed a number of licences which unwired and ericsson had agreed and identified those licences to which ericsson was a party on which he was prepared to place any weight (para 462) in determining a rate for e in relation to each of the standards for handsets and infrastructure.
+birss j also looked for guidance to decisions of courts in japan and china (paras 472 474).
+the intellectual property high court in japan used the top down method described above (ie looking to the total royalty burden) in apple japan v samsung electronics (case no 2013 [ne] 10043).
+in china, the guangdong high peoples court in huawei v interdigital (2013), guangdong high ct civ.
+third instance no 305, fixed a frand rate for interdigitals portfolio in china by unpacking other interdigital licences.
+the chinese courts judgment supported huaweis case that rates in china were low in comparison with rates elsewhere.
+but of more significance for present purposes is the fact that the japanese and chinese courts used methods similar to those presented to and adapted by birss j, who relied principally on the analysis of comparable licences and used the top down method as a cross check.
+birss j, having heard the evidence, including that of the parties experts, and having analysed comparable international licences, concluded that on a frand approach the royalty rates for china would be 50% lower than the rest of the world.
+he divided the rest of the world into major markets and other markets and held that the rate applicable in the latter markets would be the same as in china.
+he provided a mechanism for the adjustment of royalties payable in major markets if successful challenges to the validity or infringement of seps reduced the number of declared seps in any of those markets (paras 582 592).
+in deciding that a worldwide licence was frand birss j had regard to practice in the telecommunications industry to agree portfolio licences and observed that every patent licence which the parties had produced in the trial bundles was a worldwide portfolio contract, although some licences carved out a particular territory while licensing the rest of the world (paras 524 534).
+unwireds portfolio covered 42 countries and was large enough that it would not be practicable to fight over every patent.
+a willing licensor of such a portfolio and a willing licensee such as huawei with global sales would agree on a worldwide licence (paras 538 543).
+he recorded that it was common ground that the industry assessed patent families rather than individual patents within a family (para 546).
+he thus drew on industry practice in deciding that a frand licence would be a worldwide licence.
+against that background we turn to address the first issue.
+issue 1: whether the english courts have jurisdiction and may properly exercise a power without the agreement of both parties (a) to grant an injunction restraining the infringement of a uk sep unless the defendant enters into a global licence on frand terms of a multinational patent portfolio and (b) to determine royalty rates and other disputed items for a settled global licence and to declare that such terms are frand.
+the principal arguments which huawei advances against the finding that it must take a worldwide licence of the sep owners relevant patents on frand terms fixed by the english court in order to avoid an injunction restraining the infringement of a uk sep are as follows.
+first, the english courts are not entitled to grant an injunction for the infringement of a uk patent unless an implementer agrees to take a licence of disputed foreign patents because this involves the implementer having to compromise foreign rights, including the right to challenge (a) the validity of those foreign patents and (b) the assertion that they are seps in the use of the standards in the foreign jurisdictions.
+the validity or infringement of disputed foreign patents is not justiciable in the courts of england and wales.
+if the declared seps were foreign patents, the relevant national courts alone can determine validity and infringement.
+foreign patents should be exposed to proper scrutiny by the national courts which determine their validity and infringement.
+an english court cannot compel a company to take a licence in respect of rights which may not exist.
+thus, once an implementer disputes the validity or infringement of a foreign patent, the english courts have no jurisdiction to require the implementer to take a global licence to avoid an injunction.
+secondly, the english courts in so acting are fixing the terms and the royalty rates on which foreign patents are to be licensed without regard to what the foreign courts with jurisdiction over the foreign patents would decide.
+english judges were, in mr howard qcs words, setting up the english jurisdiction as a de facto international or worldwide licensing tribunal for the telecommunications industry.
+in so acting the english courts were out of step with the approach of other national courts.
+thirdly, a clear distinction falls to be drawn between what two global telecommunications companies might do voluntarily in a commercial negotiation to license patents to enable the conduct of a global business and what a national court may impose on such companies.
+companies may choose to compromise rights which otherwise might be enforced and challenges to validity and infringement which might otherwise be made; national courts cannot or should not impose such compromises.
+fourthly, the ipr policy, when properly construed, removes the sep owners right to obtain an injunction and limits its remedy to monetary compensation for infringement of such patents as the sep owner has established or the implementer has agreed are valid and infringed.
+once a sep owner has established that a national patent was valid and infringed, a national court can determine the terms of a licence of such a patent if the parties cannot agree on those terms.
+the ipr policy does not overturn the legal right of an implementer to challenge the validity of a patent or to seek to establish that the patent was not infringed.
+the ipr policy, it is submitted, is not focussing on an international portfolio of patents but addresses particular seps, the validity and infringement of which, if challenged, would have to be established in national courts.
+in construing the ipr policy it is important to note that etsi has not established an international tribunal or forum to determine the terms of global licences of portfolios of patents.
+this points against a construction which would allow a national court to determine a global licence.
+fifthly, huawei also submits that it is improper for an english court to exclude the products of implementers, both handsets and infrastructure, from the uk market as the result of an infringement of a sep.
+such a remedy is said to be disproportionate.
+it is also said to be anomalous that an implementer should be liable only for damages for infringing the established uk sep if it chose to withdraw from the uk market but that infringement of that patent should entitle the sep owner to receive global royalties if the implementer wished to market its products in the uk.
+huawei also argues that there is a fundamental difference between what commercial parties may choose to do in their own interests and what an intellectual property court can impose on them.
+it also expresses concern about the role of patent assertion entities in litigation to enforce seps.
+huawei also argues, based on general principles of english equity, that the only appropriate remedy which the english courts should consider is to address only the uk rights and to require an implementer to enter into a licence to pay in the future the same royalty as it has awarded as damages for past infringement.
+this is an argument which we address under issue 5 in paras 159 169 below.
+zte generally supports huaweis submissions but accepts that patent by patent licensing is unlikely to be frand.
+it focusses its case on jurisdiction on questions of comity and as a fall back argues forum non conveniens.
+it submits that the determination by one national court of a worldwide frand licence raises issues of comity as it amounts to interference with the patent regimes of other states which adopt different approaches to the licensing of their national patents and as to what terms would be frand.
+such a licence could also impair a partys ability to comply with foreign law such as the competition law of a country in which it was active.
+mr bloch qc submits that the english courts have placed themselves out on a limb through their willingness to determine the terms of a compulsory licence of foreign patents.
+we discuss in more detail his arguments on forum non conveniens under issue 2 below (paras 92 104).
+in addressing the submissions set out above, we recognise, as is undisputed, (a) that questions as to the validity and infringement of a national patent are within the exclusive jurisdiction of the courts of the state which has granted the patent and (b) that in the absence of the ipr policy an english court could not determine a frand licence of a portfolio of patents which included foreign patents.
+it is the contractual arrangement which etsi has created in its ipr policy which gives the court jurisdiction to determine a frand licence and which lies at the heart of these appeals.
+we therefore address first the fourth of huaweis submissions concerning the interpretation of the ipr policy.
+in our view, the submission attaches too much weight to the protection of implementers against holding up, which is the purpose stated in clause 3.1, and fails to give due weight to the counterbalancing purpose of clause 3.2, which seeks to secure fair and adequate rewards for sep holders and which requires protection against holding out.
+the suggestion that the ipr policy removes a sep owners right to exclude implementers from a national market while requiring the sep owner to establish the validity and infringement of each of its alleged seps, in the absence of a concession by the implementer, runs counter to the balance which the ipr policy seeks to achieve.
+the submission also fails adequately to take into account the external context which we have discussed.
+operators in the telecommunications industry or their assignees may hold portfolios of hundreds or thousands of patents which may be relevant to a standard.
+the parties accept that sep owners and implementers cannot feasibly test the validity and infringement of all of the patents involved in a standard which are in a sizeable portfolio.
+an implementer has an interest in taking its product to the market as soon as reasonably possible after a standard has been established and to do so needs authorisation to use all patented technology which is comprised in the standard.
+the implementer does not know which patents are valid and infringed by using the standard but needs authority from the outset to use the technology covered by such patents.
+similarly, the owner who declares a sep or seps does not know at this time which, if any, of its alleged seps are valid and are or will be infringed by use pursuant to the developing standard.
+the practical solution therefore is for the sep owner to offer to license its portfolio of declared seps.
+that is why it is common practice in the telecommunications industry for operators to agree global licences of a portfolio of patents, without knowing precisely how many of the licensed patents are valid or infringed.
+it is a sensible way of dealing with unavoidable uncertainty.
+it ought to be possible for operators in an industry to make allowance for the likelihood that any of the licensed patents are either invalid or not infringed, at least in calculating the total aggregate royalty burden in the top down method.
+by taking out a licence of an international portfolio of generally untested patents the implementer buys access to the new standard.
+it does so at a price which ought to reflect the untested nature of many patents in the portfolio; in so doing it purchases certainty.
+the ipr policy was agreed against that background and the undertaking required from the sep owner likewise needs to be interpreted against that background.
+we therefore do not construe the ipr policy as providing that the sep owner is entitled to be paid for the right to use technology only in patents which have been established as valid and infringed.
+nor do we construe the ipr policy as prohibiting the sep owner from seeking in appropriate circumstances an injunction from a national court where it establishes that an implementer is infringing its patent.
+on the contrary, the ipr policy encourages parties to reach agreement on the terms of a licence and avoid litigation which might involve injunctions that would exclude an implementer from a national market, thereby undermining the effect of what is intended to be an international standard.
+it recognises that if there are disputes about the validity or infringement of patents which require to be resolved, the parties must resolve them by invoking the jurisdiction of national courts or by arbitration.
+the possibility of the grant of an injunction by a national court is a necessary component of the balance which the ipr policy seeks to strike, in that it is this which ensures that an implementer has a strong incentive to negotiate and accept frand terms for use of the owners sep portfolio.
+the possibility of obtaining such relief if frand terms are not accepted and honoured by the implementer is not excluded either expressly or by necessary implication.
+the ipr policy imposes a limitation on a sep owners ability to seek an injunction, but that limitation is the irrevocable undertaking to offer a licence of the relevant technology on frand terms, which if accepted and honoured by the implementer would exclude an injunction.
+the ipr policy is intended to have international effect, as its context makes clear.
+this is underlined by the fact that the undertaking required of the owner of an alleged sep extends not only to the family of patents (subject only to reservations entered pursuant to clause 6.2 of the ipr policy) but also to associated undertakings, as stated in the declaration forms in the ipr policy.
+in imposing those requirements and more generally in its requirement that the sep owner makes an irrevocable undertaking to license its technology, etsi appears to be attempting to mirror commercial practice in the telecommunications industry.
+we do not accept the distinction which huawei draws (in its third submission above (para 53)) between voluntary agreements which operators in the telecommunications industry choose to enter into on the one hand and the limited powers of a court on the other, since the ipr policy envisages that courts may determine whether or not the terms of an offered licence are frand when they are asked to rule upon the contractual obligation of a sep owner which has made the irrevocable undertaking required under the ipr policy.
+it is to be expected that commercial practice in the relevant market is likely to be highly relevant to an assessment of what terms are fair and reasonable for these purposes.
+moreover, the ipr policy envisages that the parties will first seek to agree frand terms for themselves, without any need to go to court; and established commercial practice in the market is an obvious practical yardstick which they can use in their negotiation.
+in our view the courts below were correct to infer that in framing its ipr policy etsi intended that parties and courts should look to and draw on commercial practice in the real world.
+we now turn to the submission (para 51 above) that the english courts have no jurisdiction to determine the terms of a licence involving disputed or potentially disputed foreign patents.
+we disagree.
+if the judgments of the english courts had purported to rule on the validity or infringement of a foreign patent, that would indeed be beyond their jurisdiction.
+but that is not what birss j and the court of appeal have done.
+instead, they looked to the commercial practice in the industry of agreeing to take a licence of a portfolio of patents, regardless of whether or not each patent was valid or was infringed by use of the relevant technology in the standard, and construed the ipr policy as promoting that behaviour.
+we agree with the parties that the frand obligation in the ipr policy extends to the fairness of the process by which the parties negotiate a licence.
+if an implementer is concerned about the validity and infringement of particularly significant patents or a group of patents in a particular jurisdiction which might have a significant effect on the royalties which it would have to pay, it might in our view be fair and reasonable for the implementer to reserve the right to challenge those patents or a sample of those patents in the relevant foreign court and to require that the licence provide a mechanism to alter the royalty rates as a result.
+it might also be fair and reasonable for the implementer to seek to include in the licence an entitlement to recover sums paid as royalties attributable to those patents in the event that the relevant foreign court held them to be invalid or not infringed, although it appears that that has not been usual industry practice.
+huawei suggests that it would serve no purpose for a uk court to fix the terms of a global licence but to provide for the alteration of royalties in the event of successful challenges to declared seps overseas.
+this would, it suggests, reduce a licence to an interim licence.
+again, we disagree.
+under a frand process the implementer can identify patents which it wishes to challenge on reasonable grounds.
+for example, in the conversant case, it might well be argued by huawei or zte at trial that the obligation of fairness and reasonableness required any global licence granted by conversant to include provision to allow for huawei or zte to seek to test the validity and infringement of samples of conversants chinese patents, with the possibility of consequential adjustment of royalty rates, given the importance of china as a market and a place of manufacture.
+in other cases, such challenges may make little sense unless, at a cost proportionate to what was likely to be achieved in terms of eliminating relevant uncertainty, they were likely significantly to alter the royalty burden on the implementer.
+in the unwired case, huawei appears not to have sought any provision in the draft global licence to alter the royalties payable if unwireds chinese patents or a relevant sample of them were successfully challenged.
+as we have said (para 47 above) the only adjustment mechanism which the draft licence provided was to the royalties payable in relation to major markets.
+huawei has not appealed the detailed terms of that draft licence but has focussed its attack on the principle of a national court determining that a global licence was frand without the consent of the parties to such an exercise.
+that notwithstanding, it would be open to huawei in another case to seek to make such a reservation when negotiating or debating in court the terms of a licence and to seek to persuade the court at first instance that the reservation was appropriate in a frand process.
+we turn to the submission (para 52 above) that the english courts are out of step with foreign courts in requiring an implementer to enter into a global licence in order to avoid an injunction for infringement of a national patent and in being prepared to determine the disputed terms of a global frand licence.
+huawei suggests that the english courts are uniquely setting themselves up as a de facto global licensing tribunal.
+we are not persuaded by this submission.
+the court of appeal in the unwired case (paras 59 74) analysed the cases which the parties had presented to the court and concluded that they did not support the contention that birss js approach lost sight of the territorial nature of patents and did not accord with the approach taken in other jurisdictions.
+we agree.
+we recognise that birss j has gone further than other courts have done thus far in his willingness to determine the terms of a frand licence which the parties could not agree, but that does not involve any difference in principle from the approach of courts in other jurisdictions.
+otherwise his approach is consistent with several judgments in other jurisdictions, which, as this is a developing area of jurisprudence, we now examine briefly.
+the principles stated in those judgments contemplate that, in an appropriate case, the courts in the relevant jurisdictions would determine the terms of a global frand licence.
+the united states: the us court of appeals federal circuit has recognised that an injunction against infringement of a national patent may be an appropriate remedy if an implementer refuses to enter into a frand licence or unreasonably delays in negotiating such a licence: apple inc v motorola inc 757 f 3d 1286 (fed circuit 2014), judge reyna at para 49, p 1332, with whom chief judge rader agreed on this point.
+that case did not involve a proposed global frand licence.
+the court did not pronounce an injunction in that case because it considered on the facts of the case that the claimant had not suffered irreparable harm and that monetary compensation would suffice.
+but the judgment is clearly inconsistent with the submission that the standard setting regime which obliges a sep owner to offer frand licences confines the sep owner to monetary remedies.
+three judgments in a dispute between microsoft inc and motorola inc show the willingness of us courts to enforce the contractual obligation on a sep owner in a sso policy to offer an implementer a global frand licence (the specific obligations in the case were to offer a licence on reasonable and non discriminatory, ie rand, terms, but no relevant distinction arises from that).
+the case was concerned with obligations owed by a sep owner in relation to a sso, the international telecommunication union (itu), in relation to video coding technology and the institute of electrical and electronics engineers (ieee) in relation to wireless local area network (wlan).
+the relevant policies of the ieee and the itu expressly envisaged the grant of worldwide licences, but as we have construed the ipr policy as encompassing the grant of such licences, that is not a basis for distinguishing these cases.
+motorola offered microsoft a worldwide licence of its portfolio of patents which might be seps but microsoft disputed the offers, arguing that motorola had breached its obligation to offer a rand licence because its proposed royalty rates were unreasonable.
+microsoft commenced proceedings in the usa alleging breach of contract and motorola counterclaimed that it had offered a rand licence and that microsoft had rejected it and so had lost its entitlement to a rand licence.
+several months after microsoft initiated its lawsuit in the usa, motorola commenced proceedings in germany to enforce its german patents.
+microsoft sought an anti suit injunction to prevent the enforcement of any injunction which the german courts might grant to enforce the european patents.
+in microsoft corpn v motorola inc 871 f supp 1089 (w d wash 2012) judge robart granted microsoft a preliminary anti suit injunction.
+in his reasoning he recorded that a trial had been fixed in the usa to determine the rand terms and conditions of any licence which motorola was obliged to provide, including a rand royalty rate.
+he stated (p 9): thus, at the conclusion of this matter, the court will have determined (1) whether microsoft is entitled to a worldwide rand license for motorolas standard essential patents, including the european patents, (2) whether microsoft has repudiated its rights to such a license, (3) whether motorola may seek injunctive relief against microsoft with respect to its standard essential patents, and (4) in the event microsoft is entitled to such a license, what the rand terms are for such a license.
+he found that the us action was dispositive of whether a german court might issue an injunction against microsoft.
+he also observed that his injunction did not prohibit the pursuit of the german proceedings in so far as motorola sought rulings on the validity or infringement of the german patents and non injunctive relief.
+on appeal, the us court of appeals ninth circuit (microsoft corpn v motorola inc 696 f 3d 872 (9th cir 2012)) upheld judge robarts decision.
+in her judgment circuit judge berzon explained that the us courts had jurisdiction in a contract action ie an action to enforce the obligation on the sep owner to grant a rand licence and therefore not enforce its patents to grant an anti suit injunction against enforcement of foreign patents covered by the contractual obligation.
+she observed that the itu contract encompassed all of motorolas seps worldwide and stated (p10): when that contract is enforced by a us court, the us court is not enforcing german patent law but, rather, the private law of the contract between the parties.
+although patents themselves are not extraterritorial, there is no reason a party may not freely agree to reservations or limitations on rights that it would have under foreign patent law (or any other rights that it may have under foreign law) in a contract enforceable in us courts.
+she went on to observe (p 12) that an anti suit injunction was less likely to threaten comity in the context of a private contractual dispute than in a dispute involving public international law or government litigants.
+the dispute then returned to judge robart.
+the court of appeal discussed this decision (microsoft corpn v motorola inc. case c10 1823jlr, 2013 us dist lexis 60233) in para 69 of its judgment in the unwired case.
+as the parties remained in disagreement as to the meaning of rand, and that dispute needed to be resolved in order to ascertain whether motorola was in breach of its obligation to license its patents on rand terms, judge robart held a trial to determine a rand licensing rate and a rand royalty range for motorolas worldwide portfolio of patents.
+in his judgment he used evidence of real world negotiations in simulating the hypothetical negotiation to determine the rate and range.
+mr howard seeks to distinguish this case on the basis that microsoft had consented to the courts determination of the rand terms.
+we do not consider that to be a material distinction as huawei has sought the determination of a frand licence and because, in any event, the operation of the etsi regime requires the sep owner to offer a frand licence and the implementer to decline it as preconditions of the grant of an injunction.
+we were referred to apple inc v qualcomm inc, case no 3:17 cv 00108 gpc mdd, which is a judgment by district judge curiel in the us district court, southern district of california given on 7 september 2017, which the court of appeal discussed in paras 67 and 68 of its judgment.
+in this case apple was the implementer and qualcomm the sep owner.
+apple challenged qualcomms patents in eleven lawsuits in several jurisdictions on the grounds of invalidity, non infringement and breaches of foreign competition law.
+apples claim in the us proceedings included assertions of breach of contract and challenges to qualcomms us patents on the ground of invalidity or non infringement and also on grounds of anti trust/competition law.
+in a counterclaim qualcomm sought a declaration that it had complied with its irrevocable undertaking given pursuant to etsis ipr policy and asked the court to hold that particular offers were frand or in the alternative to determine worldwide frand royalty rates.
+judge curiel refused qualcomms application for an anti suit injunction on grounds which included that the determination of the global frand issue would not dispose of apples foreign claims, which challenged the foreign patents.
+the judge did not decide whether he had authority to adjudicate upon qualcomms claim for a worldwide frand determination.
+his decision therefore is not inconsistent with birss js judgment.
+we were referred to orders of the us international trade commission and the us federal trade commission which treated offers by a sep owner of global licences to prospective licensees as frand.
+we were also referred to a district court judgment in optis wireless technology llc v huawei case no 2:17 cv 00123 jrg rsp but it has no bearing on the matters before us.
+germany: in pioneer v acer 7 o 96/14, which the court of appeal discussed in para 63 of its judgment, the regional court of mannheim in a judgment dated 8 january 2016 considered the geographical scope of a frand licence in the light of the usual practices of the industry.
+pioneer sought to restrain infringement of its german patent.
+as it owned seps in many countries and as the defendant was active in many countries it offered to grant the defendants parent company a worldwide portfolio licence.
+the defendant implementer was prepared to take a licence only of pioneers german patent rights.
+the court held that the defendants offer was not frand and granted an injunction against infringement.
+in so concluding it drew on the jurisprudence of the cjeu in the application of competition law to the practices of sep owners and implementers, which emphasised the importance of complying with usual industry practices, and held that in the light of such practices the offer of a germany only licence was not frand.
+in accepting as frand the sep owners offer of a worldwide licence it stated (para 119): it does not matter that the offer calls for a worldwide portfolio license and was addressed to the parent company as contract partner and not to the defendant itself.
+the [cjeu] relies essentially on the customary practices current in the particular industry.
+in the view of the chamber, it is the aim of the behavior program set forth by the [cjeu] to lead the parties to license agreements which are otherwise also customary in the particular business area.
+evidently it was not the intent of the [cjeu] to artificially bring about licence contracts stipulated for individual countries or even separate licence contracts for each individual sep used when this does not comport with the business practices of the particular business area.
+such a market intervention ignoring the market realities was not the purpose of the [cjeu].
+in the experience of the chamber, it corresponds to the usual practices in the area of worldwide applicable standards to make license contracts for seps in the case of a patent user active in many affected countries with patent protection not individually for each country with the group company of the patent user there for each individual patent, but instead to stipulate worldwide portfolio licences with the group parent, which the individual national group companies can then also utilize.
+this judgment is clearly consistent with and supports birss js approach both of looking to industry practice when determining the geographical scope of a frand licence and of granting an injunction against infringement of a national patent if the implementer is not prepared to accept or delays in accepting the offer of a frand licence.
+the judgment of the district court of dsseldorf in st lawrence v vodafone 4a 073/14 dated 31 march 2016, which is discussed in para 64 of the court of appeals judgment, is consistent with and supports this approach.
+the sep owner offered a worldwide licence to the implementer, covering its affiliated companies, in accordance with standard industry practice, and received a counter offer from the implementer, which was active worldwide, to license only its german patents.
+the court held that the offer by the sep owner of a worldwide licence would normally be frand unless the circumstances of the case justified a different conclusion.
+the court treated the sep owners offer as frand appropriate and held that the failure of the implementer to make a prompt counter offer which was frand exposed it to an injunction.
+the court also held that the implementer could reserve the right to challenge the validity and infringement (standard essentiality) of the sep but could not delay concluding the contract of licence for that nor, because it was not consistent with industry practice in licensing contracts, could the implementer refuse to pay the licence royalties or claim repayment of earlier paid royalties.
+we accept mr speck qcs submission that these judgments suggest that the current approach of the german courts, in deciding whether to grant an injunction to a sep owner for the breach of a national patent, is, first, to look to see whether the sep owners offer of a licence is apparently frand.
+if it is not, they will not grant an injunction.
+secondly, the courts look at the implementers behaviour to see if its response is frand before deciding whether to grant the injunction.
+thirdly, as the quoted para 119 of pioneer v acer illustrates, the courts look to see if the parties behaviour conforms to industry practice, and if in the real world parties would voluntarily agree a global portfolio licence, but the implementer refuses to take such a licence, the way is open to the grant of an injunction.
+it is also relevant to observe that in germany, where the courts which determine infringement of a patent are separate from those which determine its validity, it is possible to obtain an injunction against infringement from one court before the validity of a patent has been established in the other.
+where there is an obvious challenge to validity, such as a challenge to novelty, the german court dealing with infringement may suspend an injunction pending determination of that challenge.
+but otherwise an injunction may be granted without the patent owner having established the validity of the relevant patent.
+in the uk, by contrast, it is necessary first to establish both validity and infringement of the national patent, as birss j did in this case, before the courts will grant an injunction against infringement.
+before leaving germany, we record that we were referred to the recent case of huawei technologies co ltd v unwired planet international ltd 4b 0 49/14 g, a judgment of the higher regional court of dsseldorf concerning the disclosure of information relevant to financial remedies.
+we are satisfied that the judgment has no bearing on the issue of jurisdiction which we are considering.
+china: in para 73 of the court of appeals judgment it considered the judgment of the guangdong high peoples court in huawei v interdigital (para 46 above).
+the court of appeal observed that the trial courts holding that interdigitals offers of a licence were not frand was not made on the basis that the offers were for a worldwide licence and that that court appeared to think that a worldwide licence of interdigitals seps would be both reasonable and feasible.
+the high peoples court upheld the trial courts judgment.
+before this court mr howard states correctly that the chinese court settled a frand royalty between huawei and interdigital in relation to interdigitals chinese sep portfolio but he does not suggest that the chinese court ruled out a worldwide frand licence.
+mr howard also referred this court to the judgment of the nanjing intermediate peoples court of jiangsu province in huawei technologies ltd v conversant wireless licensing sarl (para 39 above) as an example of the chinese courts fixing a frand licence rate for chinese patents only.
+in that case, as we have said, the court criticised conversant for having failed to test the chinese patents in its portfolio in the chinese courts and for adopting the device (as it saw it) of seeking a foreign court, ie the high court in london, to fix a global rate of royalties.
+having regard to conversants lack of success in selecting for testing chinese patents which were then held to be either invalid or not infringed (para 36 above) one can readily understand the importance of establishing the quality of conversants chinese patents.
+but the chinese court was responding to huaweis application for, among other things, the fixing of the chinese rates and did not criticise the idea of a court in an appropriate case having jurisdiction to fix royalty rates in a worldwide frand licence.
+japan: we were referred to the judgment of the intellectual property high court of japan in samsung electronics co ltd v apple japan godo kaisha (case no 2013 (ne) 10043) dated 16 may 2014, which is discussed in para 72 of the court of appeals judgment.
+as the court of appeal said, the japanese court was not asked to find and did not find that a global portfolio licence cannot be frand.
+samsung as a sep owner under the etsi regime had given an undertaking to enter into a frand licence which apple had not accepted.
+the case, in so far as relevant to the issue we are considering, concerned the nature of the damages which samsung could recover from the infringement by apple, the implementer, of samsungs japanese patent and in particular whether those damages could exceed the frand royalty.
+the court in that case declined samsungs application for an injunction and focussed on its claim for damages, but the judgment is not inconsistent with birss js approach.
+the european commission: in motorola (case at.39985), which was issued on 29 april 2014, the european commission (ec) held that motorola had infringed article 102 of the tfeu, which is concerned with the abuse of a dominant position, by seeking and enforcing an injunction against apple in the german federal court for apples infringement of one of its german seps.
+in the course of the proceedings apple had offered to take a licence of relevant seps for germany on terms to be settled by the german courts, if necessary.
+motorola argued that this offer was not frand for several reasons, including that the offered licence was not worldwide.
+the ec rejected motorolas argument, finding that apples offer was frand and that motorola did not need an injunction to protect its commercial interest.
+the court of appeal discussed this decision in paras 59 and 60 of its judgment, suggesting that this was the high water mark of huaweis case and that it was based on the view that a licence limited to germany was frand.
+but the court of appeal noted that the ec was not expressing a concluded view that in other circumstances a worldwide licence would not be frand.
+we agree.
+the court of appeal referred to the subsequent communication by the ec to the european parliament, the council and the european social and economic committee dated 29 november 2017 (com (2017) 712 final) (the communication) setting out a european approach to seps.
+the communication in so far as relevant for the question in hand endorsed portfolio licensing of products with a global circulation in the interests of efficiency and recognised that a country by country approach might not be efficient or conform to the established practice of the relevant industrial sector.
+it acknowledged that there was no one size fits all solution to identifying what is frand, as what can be considered fair and reasonable varies from sector to sector and over time.
+mr howard played down the communication, pointing out correctly that it did not purport to be a statement of the law and that it cited only birss js judgment as a legal authority in support of global licences.
+but in our view the communication represents the considered view of the ec regarding the proper working of the etsi regime and is consistent with judicial developments in germany and the united states which we have discussed above.
+conclusions about foreign jurisprudence on jurisdiction: in summary, the us case law shows (i) a recognition that the court in determining a frand licence in such cases is being asked to enforce a contractual obligation which limits the exercise of the patent owners ip rights including its ip rights under foreign law; (ii) a willingness in principle to grant an injunction against the infringement of a national patent which is a sep, if an implementer refuses a licence on frand terms; (iii) a willingness in principle to determine the frand terms of a worldwide licence; (iv) a practice of looking to examples of real life commercial negotiation of licences by parties engaged in the relevant industry when fixing the frand terms of a licence; and (v) a recognition that the determination of a frand licence by one national court does not prevent an implementer from challenging foreign patents on the grounds of invalidity or non infringement in other relevant national courts.
+similarly, in germany the developing case law shows (i) a recognition that a worldwide licence might be frand and an implementers counter offer of a national licence confined to germany might not be frand; (ii) a practice of having regard to the usual practices of parties in the relevant industry when the court determines the frand terms of a licence; and (iii) a willingness to grant an injunction against infringement of a national patent if the court holds that a sep owners offer of a licence is frand and the implementer refuses to enter into it.
+the courts in china have not rejected the proposition that a worldwide licence might be frand, nor have the courts ruled that they do not have jurisdiction to determine the frand terms of a worldwide licence with the consent of the parties, although it remains a matter of speculation whether they would or would not accept jurisdiction.
+we therefore reject the submission that birss j was out of line with the approach of courts in most significant jurisdictions.
+we can then deal briefly with the various arguments which huawei raises as to the propriety of the english courts grant of an injunction, which we have summarised in para 55 above.
+those arguments do not go to the existence of a jurisdiction to grant an injunction where an implementer refuses a frand worldwide licence but to the consequences of a courts decision to grant such an injunction in the exercise of a discretion.
+as such they overlap with our discussion of the remedy of injunction (issue 5) in paras 159 169 below.
+the first argument is that in the context of a global standard it is disproportionate to exclude an implementer from the uk market unless it enters into a worldwide licence of untested patents solely because it has infringed a uk patent.
+but this argument fails to acknowledge that what the implementer is purchasing in entering into such a licence with a sep owner, which has a sufficiently large international portfolio of patents, is not solely access to the uk market but certainty that it has the ability legally to manufacture and sell products which comply with the standard on a worldwide basis.
+the second argument is that it is anomalous that an implementer should be liable in damages only for the loss which a sep owner incurs through the infringement of one or more of its uk patents if the implementer chooses to withdraw from the uk market rather than enter into a worldwide licence but that, if the implementer wishes to market its products in the uk, it must pay global royalties.
+it is premised on the misplaced equation of the fixing of a licence which requires the payment of royalties for past and future use of patented technology and the separate or alternative award by the court of damages for past infringement of a uk patent.
+in our view this argument fails for two reasons.
+first, the award of damages is not to be equated with the royalties that are paid under a contractual licence.
+if an implementer agrees to enter into a frand licence which a sep owner offers, it is entering into a voluntary obligation.
+if the court awards damages it does so on proof of the loss which the sep owner has suffered through the infringement of its patent or patents.
+it may be that the measure of damages which a court would award for past infringement of patents would equate to the royalties that would have been due under a frand licence.
+that does not alter the different nature of the exercises which the court performs in (i) awarding damages and (ii) determining the terms of a licence, which will usually contain many important provisions in addition to the fixing of royalties.
+secondly and in any event, as mentioned above, what the implementer purchases in entering into a worldwide licence is the ability legally to manufacture and sell standard compliant products on a worldwide basis.
+thirdly, huawei argues that there is a fundamental difference between what parties may voluntarily do in reaching agreements with other participants in an industry to compromise their rights for commercial and other pragmatic reasons and what a court may properly compel them to do.
+in our view this argument is without substance precisely because, as the us courts in particular have recognised, ssos such as etsi have crafted a contractual arrangement which enables the courts to determine a frand licence which, if accepted by the implementer, may prevent a sep owner from obtaining a prohibitory injunction to exclude the implementers products from a particular jurisdiction.
+the implementer has the choice whether to exclude the risk of injunction by accepting a frand licence.
+fourthly, huawei points to the increasing involvement of patent assertion entities (paes) in the sep licensing market and in litigation.
+such entities accumulate portfolios of patents from patent owners which were or are globally active mobile phone companies, as unwired has done from ericsson and conversant from nokia, and derive income from licensing them to implementers, if necessary after pursuing expensive legal actions.
+huawei expresses concern that paes may abuse the power which ownership of seps gives.
+the ec in its communication which we mentioned in para 83 above noted the increased involvement of paes in european litigation and the potential for harmful effects from the behaviour of certain paes.
+in the us supreme court, justice kennedy in a concurring judgment in ebay inc v mercexchange 547 us 388 (2006) has also expressed concerns about the risk that paes which do not produce and sell goods may use injunctions as a bargaining tool to charge exorbitant royalties.
+we are alive to that risk.
+in our view, however, the rights which paes acquire through the transfer by assignment of patents are the same as those which the assignor patent owners had held: assignatus utitur iure auctoris that which is assigned possesses for its use the rights of the assignor or cedent.
+in some cases, the assignment of rights to a pae and the reservation of a share of the royalties which it negotiates or obtains through litigation may be the most straightforward means by which a sep owner can obtain value from its intellectual property which is the fruit of its research and innovation, and if the rights are treated as qualified in the hands of the pae the consequence will be that the sep owner will not receive the reward which its investment merits.
+in the exercise of those rights in pursuit of a frand licence the assignee pae, like the assignor patent owner, must act fairly and reasonably as frand is an obligation which governs the process of negotiation as well as the outcome of the determination of a frand licence.
+there is no legal basis under the general law for treating pae owners of seps differently from other sep owners unless they have different interests which merit different remedies.
+in so far as the risk of the grant of injunctions may be necessary to achieve the balance which the ipr policy promotes, it is not evident that a pae should necessarily be treated differently from a sep owner which manufactures and sells telecommunications equipment.
+sep owners have an interest in making sure that the etsi regime is enforced.
+in any event the point does not go to the question of jurisdiction.
+finally, huawei submits that if a national court were prepared to determine that a worldwide licence is frand and that entering into such a licence is a precondition of the refusal of an injunction to prohibit infringement of a national patent, there is a risk of forum shopping, conflicting judgments and applications for anti suit injunctions.
+in so far as that is so, it is the result of the policies of the ssos which various industries have established, which limit the national rights of a sep owner if an implementer agrees to take a frand licence.
+those policies, which either expressly or by implication provide for the possibility of frand worldwide licences when a sep owner has a sufficiently large and geographically diverse portfolio and the implementer is active globally, do not provide for any international tribunal or forum to determine the terms of such licences.
+absent such a tribunal it falls to national courts, before which the infringement of a national patent is asserted, to determine the terms of a frand licence.
+the participants in the relevant industry, which have pragmatically resolved many disputes over seps by the practice of agreeing worldwide or international licences, can devise methods by which the terms of a frand licence may be settled, either by amending the terms of the policies of the relevant ssos to provide for an international tribunal or by identifying respected national ip courts or tribunals to which they agree to refer such a determination.
+in the final analysis, the implementers and the sep owners in these appeals are inviting a national court under the current ipr policy to rule upon and enforce the contracts into which the sep owners have entered.
+if it is determined that the sep owners have not breached the frand obligation in the irrevocable undertakings they have given, they seek to enforce by obtaining the grant of injunctive relief in the usual way the patents which have been found to be valid and to be infringed.
+the english courts have jurisdiction to rule upon whether the uk patents in suit are valid and have been infringed, and also have jurisdiction to rule on the contractual defence relied upon by the implementers based upon the true meaning and effect of the irrevocable undertaking the sep owners have given pursuant to the etsi regime.
+in agreement with birss j (para 793), we observe that huawei is before this court without a licence in respect of infringed uk patents when it had the means of obtaining such a licence.
+subject to the plea of forum non conveniens, to which we now turn, this court has no basis for declining jurisdiction.
+similarly, ztes submission, that if a global licence is frand, a frand process would identify the courts of china as the appropriate courts to fix the terms of such a licence, is an argument which we address under issue 2 below.
+issue 2: forum non conveniens
+this issue arises only in the conversant appeals, where it has two limbs of unequal size.
+the first and larger limb, which may be said to be a forum conveniens issue strictly so called, is whether the high court should have set aside service out of the jurisdiction on the two chinese defendants (huawei (china) and zte (china)) and permanently stayed the proceedings as against the two english defendants (huawei (uk) and zte (uk)) on the ground that china rather than england was the appropriate forum.
+the second much smaller limb, which may better be labelled case management, is whether the claim for injunctive relief in the english proceedings should be temporarily stayed or otherwise case managed so as to enable relevant matters in dispute first to be litigated to a final conclusion in pending proceedings in the chinese courts.
+we will address them in turn.
+both these issues necessarily proceed upon the assumption, with which we agree, that, contrary to the appellants main case, the english court has jurisdiction to settle a global licence on frand terms for a multinational sep portfolio.
+this is mainly because issues as to a global licence need to be determined so as to enable the court to adjudicate upon a contractual defence to the enforcement of an english patent by injunction.
+nonetheless the main plank in the appellants case on forum conveniens is that, in substance, the real dispute between the parties is as to the terms of a frand licence, with the claim to enforce english patents by injunction being no more than a convenient peg upon which to hang the dispute so as to attract english jurisdiction, which it is said (by huawei and zte) that conversant would prefer to the less generous outcome likely to be obtained in the chinese courts.
+leaving aside questions as to the burden of proof, at common law the forum conveniens doctrine requires the english court to decide whether its jurisdiction or that of the suggested foreign court is the more suitable as a forum for the determination of the dispute between the parties.
+the traditional way in which this question has been framed speaks of the forum in which the case can be suitably tried for the interests of all the parties and for the ends of justice (per lord collins jsc in altimo holdings and investment ltd v kyrgyz mobil tel ltd [2011] ukpc 7; [2012] 1 wlr 1804, para 88, adopting the language of lord goff in spiliada maritime corpn v cansulex ltd (the spiliada) [1987] ac 460).
+the requirement in complex litigation to define, at the outset, what is the case to be tried runs the risk that the court will by choosing a particular definition prejudge the outcome of the forum conveniens analysis, as the court of appeal decided had occurred at first instance in in re harrods (buenos aires) ltd [1992] ch 72.
+harman j had characterised the case as a petition under the english companies act for relief for unfair prejudice in the conduct of the affairs of an english registered company, which made it blindingly obvious to him that england was the appropriate forum.
+but the company carried on business entirely in argentina.
+the matters complained of all occurred there, where there was a parallel jurisdiction to provide relief under argentinian legislation.
+so the court of appeal preferred argentina as the appropriate forum.
+like the court of appeal in the present case, we therefore prefer for present purposes to identify the dispute between the parties as the matter to be tried, lest reference to the case should introduce undue formalism into the analysis of a question of substance.
+the question how the dispute should be defined has been the main bone of contention between the parties, both in this court and in the courts below.
+is it, as the appellants say, in substance a dispute about the terms of a global frand licence, or is it, as the respondent maintains, both in form and in substance about the vindication of the rights inherent in english patents, and therefore about their validity and infringement, with frand issues arising only as an aspect of an alleged contractual defence? thus far the respondent has had the better of that argument, both before the judge and the court of appeal.
+at the heart of the analysis which has thus far prevailed is the recognition that the owner of a portfolio of patents granted by different countries is in principle entitled to decide which patents (and therefore in which country or countries) to seek to enforce, and cannot be compelled to enforce patents in the portfolio granted by other countries merely because a common frand defence to the enforcement of any of them raises issues which might more conveniently be determined in another jurisdiction than that which exclusively regulated the enforcement of the chosen patents.
+were it necessary to choose between the rival characterisations of the substance of the dispute, we would have agreed with the choice made by the courts below.
+but we think, like the judge, that there is a compelling reason why the appellants must fail on this issue which would apply even if the appellants characterisation had been correct, so that the dispute was in substance about the terms of a global frand licence.
+a challenge to jurisdiction on forum conveniens grounds requires the challenger to identify some other forum which does have jurisdiction to determine the dispute.
+even in a case where permission is required to serve out of the jurisdiction, so that the burden then shifts to the claimant to show that england is the more appropriate forum, that still requires there to be another candidate with the requisite jurisdiction.
+in the present case, china is the only candidate which the appellants have put forward.
+there may be others, but the court is not required to carry out its own independent search, and such other jurisdictions as might exist in theory may not be remotely convenient.
+after hearing extensive expert evidence, the judge found that the chinese courts do not, at present, have jurisdiction to determine the terms of a global frand licence, at least in the absence of agreement by all parties that they should do so.
+even in the event of such an agreement, he described the prospect that the chinese courts would embark on the exercise as no more than speculative.
+notwithstanding the admission of fresh evidence on this issue, the court of appeal reached the same conclusion.
+in sharp contrast, we have decided, for the reasons set out above, that the english court does have such a jurisdiction, even in the absence of consent by the parties, and it has of course exercised that jurisdiction in the unwired case.
+directions have been given in the conversant case (subject to the outcome of this appeal) for it to be done again.
+furthermore, against the speculative possibility that the chinese courts might accept jurisdiction to settle a global frand licence by consent, there is the judges finding that conversant had acted reasonably in refusing to give its consent, for reasons connected with the conditions which the appellants sought to impose, a conclusion which was not met with any persuasive challenge in this court.
+we therefore agree with the judge that the forum conveniens challenge falls at this first hurdle, notwithstanding the fresh evidence introduced in the court of appeal.
+had it not done, a number of further issues would have arisen, in particular arising from the application of the owusu principle (owusu v jackson and others ((case c 281/02) eu:c:2005:120; [2005] qb 801 (ecj)) to the english defendants, set against the possibility that there might be a reflective application of article 24 of the brussels i regulation (regulation (eu) 1215/2012 of 12 december 2012), and the recent decision of this court in lungowe v vedanta resources plc [2019] uksc 20; [2019] 2 wlr 1051.
+but we consider that those issues, which may well arise in future if and when other countries decide to exercise jurisdiction to settle global licences, would best be determined in a context when they might be decisive.
+we therefore turn to case management.
+the english courts have wide case management powers, and they include the power to impose a temporary stay on proceedings where to do so would serve the overriding objective: see cpr 1.2(a) and 3.1(2)(f).
+for example a temporary stay is frequently imposed (and even more frequently ordered by consent) in order to give the parties breathing space to attempt to settle the proceedings or narrow the issues by mediation or some other form of alternative dispute resolution.
+a temporary stay may be ordered where there are parallel proceedings in another jurisdiction, raising similar or related issues between the same or related parties, where the earlier resolution of those issues in the foreign proceedings would better serve the interests of justice than by allowing the english proceedings to continue without a temporary stay: see reichhold norway asa v goldman sachs international [2000] 1 wlr 173.
+but this would be justified only in rare or compelling circumstances: see per lord bingham mr at pp 185 186, and klckner holdings gmbh v klckner beteiligungs gmbh [2005] ewhc 1453 (comm).
+no such application has thus far been made in the conversant case.
+at first instance the defendants went all out to obtain the permanent termination of the proceedings, by having service on the chinese defendants set aside, and by having the proceedings against the english defendants permanently stayed.
+the whole basis of their application was that the chinese courts were the appropriate forum to decide the whole dispute, or that the dispute should be split into its chinese and english parts, leaving only (in england) the question what royalty or compensation for infringement they should pay in relation to the english patents.
+at the hearing of case management issues consequential upon henry carr js judgment, the appellants did suggest that the frand trial should be stayed to await the outcome of pending proceedings in china.
+the judge provided some accommodation by directing that the frand trial should not take place before november 2019, so that the outcome of the chinese proceedings, to the extent relevant, could be factored into the determination of a frand global licence.
+a case management alternative was put forward by huawei in the court of appeal, but still on the basis that the global frand issues could and therefore should first be determined in china, before any determination in england of the claim for infringement of uk patents.
+it was rejected by the court of appeal first because the pending proceedings in china sought only to determine the terms of a frand licence for conversants chinese patents, not a global licence which would extend to the use of its english patents, and secondly because the age of conversants portfolio militated against allowing further delay.
+in this court the case management solution was briefly resurrected during argument, although not as a distinct ground of appeal.
+meanwhile the frand trial had by then been fixed to start in april 2020 and was no doubt the subject of intensive preparation.
+it has since then been adjourned due to the coronavirus pandemic.
+we think it sufficient to confine ourselves to the issue whether the court of appeal was wrong to refuse any case management solution, for the reasons it gave, as summarised above.
+in our view the court of appeals reasons cannot be faulted.
+we have already concluded that the prospect that the chinese courts might determine a global frand licence, even if the parties consented, is no more than speculative.
+the current proceedings in china relate only to conversants chinese patents, and conversant has been held to have acted reasonably in refusing (even if it were possible) to confer a wider global jurisdiction on the chinese courts.
+further the adverse commercial effect of further delay in the enforcement of conversants elderly patents is a factor which, in a case management context, the court of appeal was plainly entitled to take into account, and to attribute such weight as it thought fit.
+issue 3: frand and non discrimination
+huawei submits that a further error in the judgment of birss j at first instance and in the judgment of the court of appeal in the unwired case relates to the non discrimination limb of unwireds frand undertaking.
+this was dealt with under ground 2 in the judgment of the court of appeal (paras 130 210).
+huawei relies on the samsung licence entered into by unwired on 28 july 2016 (the samsung licence) as a relevant comparator for the purpose of working out the frand licence terms which should have been offered to huawei by unwired.
+the worldwide royalty rate under the samsung licence was much lower, and hence much more favourable to the licensee, than the worldwide royalty rate which the judge found was required to be on offer to huawei pursuant to unwireds frand undertaking.
+huawei submits that the judge should have held that unwireds frand undertaking meant that unwired should have offered huawei a worldwide royalty rate which was as favourable as that agreed with samsung.
+huaweis case is that the non discrimination limb of the undertaking must be given its ordinary and unadorned meaning, which is that like situations must be treated alike and different situations differently.
+the non discrimination limb of the undertaking means that the sep owner must grant the same or similar terms to all similarly situated licensees, unless it can be shown that there are objective grounds for treating them differently.
+huawei says that this corresponds with the usual meaning given to obligations not to discriminate in other contexts.
+birss j used the term hard edged in relation to the non discrimination obligation to describe the interpretation contended for by huawei.
+the practical effect of huaweis submission is that the non discrimination obligation means that a sep owner is required to grant licence terms equivalent to the most favourable licence terms to all similarly situated licensees.
+before the judge, unwired deployed three lines of defence to this part of huaweis case.
+first, it argued that the samsung licence was not an equivalent or comparable transaction such as could engage the non discrimination obligation.
+secondly, if that was wrong, it said that the non discrimination element in the frand undertaking did not involve a distinct hard edged discrimination obligation as submitted by huawei.
+instead, unwired said that the non discrimination element is to be read as part of a single, unitary obligation to license on terms which are fair, reasonable and non discriminatory.
+to comply with that obligation, a licensor has to offer a royalty rate set by reference to the true value of the seps being licensed; that is, a standard fair market royalty rate available to market participants for use of the seps.
+a rate set in this way, which is available to all licensees without discriminating between them by reference to their individual characteristics, does not cease to be frand because the sep owner has previously granted a licence on more favourable terms.
+the judge referred to the obligation interpreted in this way as a general non discrimination obligation.
+thirdly, if the non discrimination obligation was engaged and if the general non discrimination interpretation were rejected, unwired argued that the mere existence of differential royalty rates is not sufficient to amount to a breach of the obligation.
+there is an additional element: huawei had to demonstrate that the difference is such as to cause a distortion of competition, which it had failed to do.
+for this submission, unwired said that the non discrimination part of the frand undertaking was to be construed by analogy with the obligation of non discrimination as found in eu competition law in article 102(c) of the tfeu.
+birss j rejected the first argument.
+on the facts, he found that there were specific economic circumstances applicable in relation to the negotiation of the samsung licence which meant that the royalty rates in it were not a good comparator or basis for assessment of the uniform market royalty rate required under the frand obligation.
+the samsung licence was granted by unwired after it had been acquired by panoptis.
+at that time, unwired was in a distressed financial position and samsung was able to take advantage of this in driving down the royalty rates under the licence.
+also, panoptis had a wider commercial interest in building trust with samsung to develop a strategic relationship with it so as to encourage it to enter into other transactions, and again this gave special bargaining power to samsung in the circumstances in which the samsung licence royalty rates were negotiated.
+this aspect of the judges findings was not challenged in the court of appeal (paras 137 146) and is not in issue on this appeal.
+however, birss j held that these features of the circumstances in which the samsung licence was negotiated did not support unwireds argument that the non discrimination obligation owed to huawei was not engaged in relation to the samsung licence.
+he held that huawei and samsung were similarly situated and that the licences available to each of them were equivalent or comparable for the purposes of engagement of the non discrimination element in the frand undertaking.
+huawei and samsung were in a similar position as market participants wishing to be able to make use of unwireds seps and the licences were directed to allowing similar forms of use of the relevant seps for the provision of products and services with operability around the world.
+that ruling was upheld by the court of appeal (paras 160 176).
+there is no appeal in relation to this aspect of the judgments below.
+birss j accepted unwireds second argument.
+he held that the non discrimination element in the frand undertaking was general in nature rather than hard edged.
+the undertaking did not require that royalty rates in the licence on offer to huawei should be fixed by reference to the royalty rates in the samsung licence.
+on this basis, the judge found that the worldwide licence on offer to huawei was on non discriminatory terms.
+the court of appeal agreed (paras 177 207).
+this part of the judgments below is under challenge on the appeal to this court.
+birss j also ruled in favour of unwired on the basis of its third argument, should it transpire that he was wrong to hold that the non discrimination obligation was general rather than hard edged.
+since the court of appeal upheld his judgment on unwireds second argument, it found it unnecessary to deal with this alternative part of his reasoning (paras 208 209).
+huawei submits in this court that birss j erred in this part of his reasoning as well.
+this court upholds the judgment of birss j and the court of appeal on the second of unwireds arguments.
+they were right to find that the non discrimination element in the frand undertaking is general and not hard edged and that there had been no breach of it.
+accordingly, the third argument does not arise.
+the choice between regarding the non discrimination obligation as general or hard edged is a matter of interpretation of the frand undertaking in clause 6.1 of the ipr policy.
+the obligation set out in that provision is that licences should be available on fair, reasonable and non discriminatory terms and conditions.
+in our view, the undertaking imports a single unitary obligation.
+licence terms should be made available which are fair, reasonable and non discriminatory, reading that phrase as a composite whole.
+there are not two distinct obligations, that the licence terms should be fair and reasonable and also, separately, that they should be non discriminatory.
+still less are there three distinct obligations, that the licence terms should be fair and, separately, reasonable and, separately, non discriminatory.
+the text of clause 6.1 lends itself naturally to being read in this unitary way.
+the non discriminatory part of the relevant phrase gives colour to the whole and provides significant guidance as to its meaning.
+it provides focus and narrows down the scope for argument about what might count as fair or reasonable for these purposes in a given context.
+it indicates that the terms and conditions on offer should be such as are generally available as a fair market price for any market participant, to reflect the true value of the seps to which the licence relates and without adjustment depending on the individual characteristics of a particular market participant.
+put another way, there is to be a single royalty price list available to all.
+this interpretation of the frand obligation promotes the purposes of the etsi regime in general and the ipr policy in particular, which we have discussed in paras 4 14 above.
+a powerful indication that the non discrimination obligation is general rather than hard edged is that etsi had previously considered and rejected the imposition of a most favourable licence clause in the undertaking.
+this was done in documents which were published and accessible to all market participants.
+to interpret the frand undertaking as incorporating the hard edged non discrimination obligation for which huawei contends would have the effect of re introducing a most favourable licence term by the back door.
+the fact that etsi made a public choice not to incorporate a most favourable licence term into the frand undertaking which it eventually decided to introduce means that any reasonable person participating in the relevant market, whether as a sep owner or as an implementer seeking to enforce the frand undertaking, would understand that the frand undertaking as eventually promulgated by etsi did not incorporate a hard edged non discrimination obligation.
+the background is as follows.
+in 1993, etsi published its original proposed licensing regime, appendix a of which set out the draft of the then proposed etsi ipr undertaking.
+the proposed undertaking to be given by a sep owner was to grant a licence which should be non exclusive, on fair, reasonable and non discriminatory terms and conditions (the third indented subparagraph of clause 3.1 in appendix a) and which, under the fourth indented subparagraph in clause 3.1, should: include a clause requiring the licensor to promptly notify a licensee of any licence granted by it to a third party for the same iprs under comparable circumstances giving rise to terms and conditions that are clearly more favourable, in their entirety, than those granted to the licensee and allowing the licensee to require replacement of the terms and conditions of its licence, in their entirety, either with those of the third party licence, or with such other terms and conditions as the parties may agree.
+the 1994 and subsequent versions of the ipr policy did not include this term.
+the inclusion of such a most favourable licence term in the 1993 draft ipr policy as an obligation distinct from the frand obligation in the previous subparagraph shows that the frand obligation (which was expressed in the same terms as in the later versions of the ipr policy) was not intended to include a most favourable licence term itself.
+further, the deletion of the relevant most favourable licence term from the undertaking in 1994 and in the later versions of the ipr policy shows that a deliberate choice was made not to subject a sep owner to an obligation of this kind.
+in tcl communication technology holdings ltd v telefonaktiebolaget lm ericsson case no 8:14 cv 00341 jvs dfm (cd cal, nov 8, 2017), the us district court for the central district of california noted the deletion and regarded it as providing guidance regarding the interpretation of the frand obligation (pp 13 14 and 91).
+the court of appeal, in the judgment below, took the same view: para 199.
+we agree.
+ms ford qc for unwired made further submissions to the court of appeal in support of unwireds proposed general non discrimination interpretation which were repeated to us (see the court of appeal judgment, para 192).
+they have considerable force.
+first, unwired submits that to interpret the non discrimination obligation in the general sense for which it contends gives full effect to the non discrimination limb of the frand undertaking.
+non discrimination between licensees is achieved, because the frand rate is objectively determined based on the value of the portfolio and it does not take into account the characteristics of individual licensees.
+it satisfies the obligation to treat like cases alike, because the same rate is made available to all licensees who are similarly situated in the sense that they seek the same kind of licence.
+we agree.
+this reflects our reasoning above.
+secondly, unwired submits that the non discrimination limb of the frand undertaking should not be read in isolation so as to trump all other considerations; that is to say, as a separate free standing obligation.
+birss j and the court of appeal correctly read it as working together with the fair and reasonable limb of frand as part of a unitary concept.
+the role of the non discrimination limb is to ensure that the fair and reasonable royalty is one which does not depend on any idiosyncratic characteristics of the licensee.
+huawei's approach, by contrast, would mean that the existence of a prior licence which the judge had expressly and legitimately held did not represent useful evidence of the value of the portfolio compelled unwired to license its seps at the same rate, and therefore receive remuneration which was less than a fair and reasonable return for its portfolio.
+this would be to give the non discrimination limb an unnecessarily extreme effect.
+again, we agree.
+the conclusion for which huawei contends cannot be justified with reference to the intended purposes of the etsi licensing regime and would conflict with those purposes.
+thirdly, it cannot be said that there is any general presumption that differential pricing for licensees is problematic in terms of the public or private interests at stake.
+the position has been summarised in this way: most important of the lessons that the economics literature has clearly established is that price discrimination is not always or necessarily harmful.
+on the contrary, in some cases, it can increase efficiency, raise incentives to innovate by easing the recoupment of necessary upfront investments, broaden the markets served, and improve consumer welfare.
+this is a welcome finding, because price discrimination is the norm within ip licensing.
+that is, a typical comparison of contracts for two or more firms with licenses to the same ip will generally reveal different royalty rates, terms, and conditions.
+as long as the patent holder negotiating these differential rates and terms has no market power, there is no need for any concern, because different prices are a natural consequence of the ip licensing process (anne layne farrar, nondiscriminatory pricing: is standard setting different? (2010) journal of competition law and economics 1, at p 3)
+since price discrimination is the norm as a matter of licensing practice and may promote objectives which the etsi regime is intended to promote (such as innovation and consumer welfare), it would have required far clearer language in the etsi frand undertaking to indicate an intention to impose the more strict, hard edged non discrimination obligation for which huawei contends.
+further, in view of the prevalence of competition laws in the major economies around the world, it is to be expected that any anti competitive effects from differential pricing would be most appropriately addressed by those laws.
+it is unnecessary and inappropriate (and could well be counterproductive) to adopt the hard edged non discrimination interpretation of the frand undertaking urged by huawei on the basis that this might promote competition and hence innovation and consumer welfare.
+any reasonable person who seeks to engage with the etsi regime, whether as a sep owner or as an implementer who is a potential licensee, would understand this.
+those engaging with the etsi regime are highly sophisticated and well informed about economics, practice in the market and competition laws across the world.
+fourthly, the approach of birss j and the court of appeal reflects commercial reality and sense, in that there may be circumstances in which the owner of a sep portfolio would choose to license its portfolio at a rate which does not actually reflect its true, frand royalty rate value.
+for example, the concept of so called first mover advantage in some market circumstances is well recognised.
+it may be economically rational and commercially important for the owner of a sep portfolio to offer a lower rate to the first implementer to take a licence, because it provides the owner with initial income on its portfolio and may serve to validate the portfolio in the eyes of the market and hence encourage others to seek licences as well.
+huaweis proposed interpretation of the frand undertaking would eliminate this as a viable approach.
+but since such an approach is well recognised and may have great commercial importance for a sep owner, it would have required far clearer language to be used in the etsi frand undertaking if the intention had been to eliminate it.
+similar points can be made in relation to the elimination of another important set of commercial options for the owner of a sep portfolio.
+if in commercial difficulties, the owner might seek to engage in a fire sale licensing deal at low royalty rates for a particular licensee in order to secure its (the owners) commercial survival.
+on the judges findings, there was an element of this in unwireds grant of the samsung licence.
+but if the fire sale royalty rate were to be taken to dictate the frand royalty rate for the portfolio for the rest of the participants in the market, there would be no incentive for implementers to take advantage of such an opportunity (as they would gain nothing by comparison with their competitors) and portfolio owners would be unable to utilise such means of raising funds without, in effect, permanently devaluing the portfolio.
+there is nothing in the etsi scheme or the language of the frand undertaking to indicate that it was intended that the undertaking should have these effects.
+for these reasons, we dismiss huaweis non discrimination ground of appeal.
+issue 4: competition law and the cjeus judgment in huawei v zte
+the fourth issue arises only in the unwired appeal.
+it requires consideration of the cjeus decision in huawei v zte.
+huawei argues that the cjeu there laid down a series of mandatory conditions which must be complied with if a sep owner is to obtain injunctive relief.
+if the sep owner fails to comply, its claim for an injunction will be regarded as an abuse of its dominant position, contrary to article 102 tfeu.
+in the court of appeal, huaweis argument was that the sep owner had to have complied before even issuing proceedings for injunctive relief (see para 231 of the court of appeal judgment).
+it is not entirely clear whether huawei continues to pursue its argument in quite such absolute terms.
+although our attention is invited to other respects in which unwired failed to comply with the cjeus conditions, huaweis central focus now is upon unwired not having made a frand offer at any stage, its offers being too high to be frand.
+it is not enough, huawei says, for a sep owner to be willing to enter into a licence agreement on terms determined by the court; it has to make a frand licence offer itself.
+in huaweis submission, birss j therefore erred in granting unwired an injunction when it had not complied with the cjeus conditions.
+it should have been limited to damages.
+unwired responds that birss j and the court of appeal interpreted huawei v zte correctly, and it presented no obstacle to the grant of an injunction.
+unwired accepts the conclusion of the lower courts that the cjeu did lay down one mandatory condition, namely the notice/consultation requirement in para 60, which must be observed by the sep owner, who will otherwise fall foul of article 102.
+but, in its submission, that is the sole mandatory condition that the cjeu laid down; the other steps set out by the court were intended only as a safe harbour.
+if they are followed, the sep owner can commence proceedings for injunctive relief without that amounting to an abuse of its dominant position, but failure to follow them does not necessarily mean that article 102 is infringed, because it all depends on the circumstances of the particular case.
+article 102 tfeu
+so far as material, article 102 provides: any abuse by one or more undertakings of a dominant position within the internal market or in a substantial part of it shall be prohibited as incompatible with the internal market in so far as it may affect trade between member states.
+the decision in huawei v zte
+huawei v zte arose in connection with a dispute in germany between huawei, which held a telecommunications sep and had given an undertaking to grant licences on frand terms, and zte which marketed products using the sep without paying a royalty or exhaustively rendering an account in respect of the use.
+discussions as to a licence did not bear fruit.
+huawei brought an action for infringement, seeking an injunction prohibiting infringement, accounts, recall of products and damages.
+it was not disputed that huawei was in a dominant position, for article 102 purposes, but the referring court requested assistance from the cjeu as to the circumstances in which a sep owner would abuse its dominant position as a result of bringing an action for a prohibitory injunction.
+the referring court identified two different approaches that might be taken to this question, which would produce different results on the facts of the case.
+on the one hand, the bundesgerichtshof had held, in 2009, in orange book (kzr 39/06) (referred to in paras 30 to 32 of the cjeu judgment) that the applicant will only breach article 102 if, in essence, the defendant has made an unconditional offer to conclude a licensing agreement, not limited exclusively to cases of infringement, and, where the defendant uses the teachings of the patent before the applicant accepts the offer, it complies with its obligations to account for use and to pay the sums resulting therefrom.
+on this approach, there would have been no abuse of huaweis dominant position.
+on the other hand, the european commission (in press releases no ip/12/1448 and memo/12/1021, referred to in para 34 of the cjeu judgment) appeared to take the view that it would be an abuse to bring an action for an injunction where the infringer is willing to negotiate a frand licence, even if terms cannot be agreed.
+as zte was willing to negotiate, this approach would have made huaweis action for an injunction unlawful under article 102.
+the referring courts central question was therefore whether it was an abuse to seek an injunction even though the infringer has declared that it is willing to negotiate concerning a licence or only where the infringer has submitted to the proprietor of the [sep] an acceptable, unconditional [frand] offerand the infringer fulfils its contractual obligations for acts of use already performed in anticipation of the licence to be granted (see para 39 of the cjeu judgment).
+the cjeu commenced its consideration of the referred questions with the following observation: 42.
+for the purpose of providing an answer to the referring court and in assessing the lawfulness of such an action for infringement brought by the proprietor of an sep against an infringer with which no licensing agreement has been concluded, the court must strike a balance between maintaining free competition in respect of which primary law and, in particular, article 102 tfeu prohibit abuses of a dominant position and the requirement to safeguard that proprietors intellectual property rights and its right to effective judicial protection, guaranteed by article 17(2) and article 47 of the charter respectively.
+it went on to note, at paras 48 to 52, the special features that distinguish seps from other patents, namely that the use of the patent is indispensable in manufacturing products which comply with the standard to which it is linked, and that sep status is obtained only in return for the sep owners irrevocable undertaking to grant licences on frand terms.
+it observed that, in those circumstances, a refusal by the proprietor of the sep to grant a licence on [frand] terms may, in principle, constitute an abuse within the meaning of article 102 (para 53), and the abusive nature of such a refusal may, in principle, be raised in defence to actions for a prohibitory injunction or for the recall of products (para 54).
+the court then went on to deal with the situation where the parties could not agree on what frand terms were, observing: 55.
+in such a situation, in order to prevent an action for a prohibitory injunction or for the recall of products from being regarded as abusive, the proprietor of an sep must comply with conditions which seek to ensure a fair balance between the interests concerned.
+it is of particular note that in the following paragraph, before embarking on its consideration of what conditions might ensure a fair balance, the court emphasised the need to take account of the specific circumstances of the case, saying: 56.
+in this connection, due account must be taken of the specific legal and factual circumstances in the case (see, to that effect, judgment in post danmark a/s v konkurrenceradet [(c 209/10)] eu:c:2012:172; [2012] 4 cmlr 23 at para 26 and the case law cited).
+the passage from post danmark a/s to which reference is made is as follows: 26.
+in order to determine whether a dominant undertaking has abused its dominant position by its pricing practices, it is necessary to consider all the circumstances and to examine whether those practices tend to remove or restrict the buyers freedom as regards choice of sources of supply, to bar competitors from access to the market, to apply dissimilar conditions to equivalent transactions with other trading parties, thereby placing them at a competitive disadvantage, or to strengthen the dominant position by distorting competition (see, to that effect, deutsche telekom v commission, para 175 and case law cited).
+the irrevocable undertaking to grant licences on frand terms could not, the court said, negate the entitlement of the sep owner to have recourse to legal proceedings to ensure effective enforcement of his exclusive intellectual property rights (paras 58 and 59), but: 59. it does, none the less, justify the imposition on that proprietor of an obligation to comply with specific requirements when bringing actions against alleged infringers for a prohibitory injunction or for the recall of products.
+paras 60 and 61 appear (from para 62) to be inspired by the possibility that the infringer of a sep may not be aware that it is using the teaching of a sep that is both valid and essential to a standard, and deal, in the following terms, with the need to alert the infringer: 60.
+accordingly, the proprietor of an sep which considers that that sep is the subject of an infringement cannot, without infringing article 102 tfeu, bring an action for a prohibitory injunction or for the recall of products against the alleged infringer without notice or prior consultation with the alleged infringer, even if the sep has already been used by the alleged infringer. 61.
+prior to such proceedings, it is thus for the proprietor of the sep in question, first, to alert the alleged infringer of the infringement complained about by designating that sep and specifying the way in which it has been infringed.
+in paras 63 to 69, the court went on to anticipate that, thereafter, there would be a number of further exchanges between the sep owner and the alleged infringer.
+para 63 deals with the position once the alleged infringer has expressed its willingness to conclude a licensing agreement on frand terms.
+at this point: it is for the proprietor of the sep to present to that alleged infringer a specific, written offer for a licence on frand terms, in accordance with the undertaking given to the standardisation body, specifying, in particular, the amount of the royalty and the way in which that royalty is to be calculated.
+then, it is for the alleged infringer diligently to respond to that offer, in accordance with recognised commercial practices in the field and in good faith, with no delaying tactics, and it may rely on the abusive nature of an action for a prohibitory injunction only if it has submitted promptly and in writing, a specific counter offer that corresponds to frand terms (paras 65 and 66).
+and finally, if the counter offer is rejected, and the alleged infringer is using the teachings of the sep already, from the point at which the counter offer is rejected, it is for that alleged infringer to provide appropriate security, in accordance with recognised commercial practices in the field, for example by providing a bank guarantee or by placing the amounts necessary on deposit (para 67).
+in paras 68 and 69, the court clarified that: i) in default of agreement on terms, the parties may, by common agreement, request that the amount of the royalty be determined by an independent third party without delay (para 68); and ii) the alleged infringer cannot be criticised for challenging, in parallel to the negotiations relating to the grant of licences, the validity and/or the essential nature of the patents, and/or their actual use, or for reserving the right to do so in the future (para 69).
+the court then went on, in paras 70 and 71 to address itself to the referring court, and to answer the questions it had referred: 70.
+it is for the referring court to determine whether the above mentioned criteria are satisfied in the present case, in so far as they are relevant, in the circumstances, for the purpose of resolving the dispute in the main proceedings. 71.
+it follows from all the foregoing considerations that the answer to [the questions referred] is that article 102 tfeu must be interpreted as meaning that the proprietor of an sep, which has given an irrevocable undertaking to a standardisation body to grant a licence to third parties on frand terms, does not abuse its dominant position, within the meaning of article 102 tfeu, by bringing an action for infringement seeking an injunction prohibiting the infringement of its patent or seeking the recall of products for the manufacture of which that patent has been used, as long as: prior to bringing that action, the proprietor has, first, alerted the alleged infringer of the infringement complained about by designating that patent and specifying the way in which it has been infringed, and, secondly, after the alleged infringer has expressed its willingness to conclude a licensing agreement on frand terms, presented to that infringer a specific, written offer for a licence on such terms, specifying, in particular, the royalty and the way in which it is to be calculated, and where the alleged infringer continues to use the patent in question, the alleged infringer has not diligently responded to that offer, in accordance with recognised commercial practices in the field and in good faith, this being a matter which must be established on the basis of objective factors and which implies, in particular, that there are no delaying tactics.
+the facts of the present case
+turning to the facts of the present case, between 2009 and 2012, huawei had a licence from ericsson which included the seps which were assigned to unwired in 2013.
+in 2013, there was brief discussion between unwired and huawei about the possibility of huawei buying some of the seps, but huawei did not do so.
+in september 2013, unwired wrote to huawei proposing discussion with a view to concluding a licence, but received no reply.
+unwired then wrote, in november 2013, to huaweis ip department which replied very promptly, and there was communication between the companies.
+before proceedings were begun against huawei in march 2014, on birss js findings (see particularly para 750 of his judgment), the position was as follows: huawei had sufficient notice that unwired planet held particular seps and they knew or ought to have known that if the declared seps held by unwired planet were indeed valid and essential, then a licence was required.
+they did not yet have claim charts.
+all the same, for huawei, the only realistic and foreseeable ways in which the existing contact with unwired planet was going to conclude would be by huawei persuading unwired planet that they had no good seps or proving it in court or by huawei taking a licence.
+huawei also knew that unwired planet wanted to license huawei.
+in these circumstances the information huawei had by march 2014 was quite sufficient for huawei to understand that issuing proceedings including an injunction claim did not represent a refusal to license.
+quite the reverse.
+in april 2014, unwired made the first of a number of offers of licensing terms.
+huawei responded, saying that no licence was needed, but also denying that the offered terms were frand.
+birss j found (para 706) that huawei never made an unqualified commitment to enter into a frand licence, its stance having always been that it was willing to enter into what it contended was a frand licence.
+until shortly before the trial in front of birss j, its contention was that only a patent by patent licence for any patent found valid and infringed would be frand, and from 11 october 2016, this was replaced by the contention that a frand licence meant a uk portfolio licence.
+birss j contrasted this with unwireds stance (para 709).
+whereas huawei had only been prepared to take a licence with a particular scope, unwireds case in the high court involved trying to insist on a worldwide licence, but its approach took account of the possibility that it might not be entitled to demand that.
+the position it took was that if the court decided that it was not entitled to insist on a global licence, it would accept that there be a uk portfolio licence at a rate and on terms set by the court (birss j, para 23(i)).
+the decisions of birss j and the court of appeal
+birss j did not accept huaweis argument that it had a defence to the injunction claim because the proceedings were commenced before frand terms were offered to it by unwired.
+he interpreted the cjeu as saying that it would necessarily be abusive for the sep owner to bring an action without some kind of prior notice to the alleged infringer, but otherwise he saw the cjeus scheme as setting out a standard of behaviour against which both parties behaviour can be measured to decide in all the circumstances if an abuse has taken place, rather than imposing mandatory requirements which had to be complied with in all cases (para 744 (iv) and (v)).
+measuring the parties behaviour against the standard, birss j was satisfied that the commencement of the action, including the claim for an injunction, was not an abuse of unwireds dominant position (para 755).
+it can be seen from the extract from para 750 which is quoted above that he considered that huawei had sufficient notice prior to the commencement of proceedings, that it was clear that issuing the proceedings did not represent a refusal to license, and that huawei knew that unwired wanted to license it.
+the issue of the proceedings did not prevent the parties from negotiating (para 752).
+unwired provided key terms of its offer to huawei a few weeks after commencing proceedings (para 753), but huawei never made an unqualified offer to accept whatever were frand terms (para 754).
+the court of appeal agreed with birss js interpretation of the cjeus judgment, which it considered entirely correct, and it saw no reason to interfere with his conclusion that unwired had not behaved abusively.
+discussion
+in our view, birss j and the court of appeal interpreted the cjeus decision in huawei v zte correctly.
+bringing an action for a prohibitory injunction without notice or prior consultation with the alleged infringer will amount to an infringement of article 102, as para 60 of the cjeus judgment sets out.
+in that paragraph, the language used is absolute: the sep owner cannot bring the action without infringing the article.
+we agree with birss j and the court of appeal, however, that the nature of the notice/consultation that is required must depend upon the circumstances of the case.
+that is built into the reference to notice or prior consultation, which conveys the message that there must be communication to alert the alleged infringer to the claim that there is an infringement, but does not prescribe precisely the form that the communication should take.
+this is to be expected, given that the cjeu had just introduced its discussion of the conditions which seek to ensure a fair balance between the various interests concerned in a sep case with a very clear statement, at para 56 (set out above), that account had to be taken of the specific legal and factual circumstances in the case.
+in so saying, the court was reflecting its well established approach in determining whether a dominant undertaking has abused its dominant position, as it demonstrated by its reference back to the post danmark case, and the case law there cited.
+it also makes obvious sense that the court should have built in a degree of flexibility, given the wide variety of factual situations in which the issue might arise, and the fact that different legal systems will provide very different procedural contexts for the sep owners injunction application.
+in germany, for example, as we observed earlier, validity and infringement are tried separately, so that the alleged infringer faces the risk that the sep owner could obtain a final injunction against it without validity first being determined, and in some member states, an injunction might be granted before a frand rate is determined.
+in contrast, in the united kingdom, it is not the practice to grant a final injunction unless the court is satisfied that the patent is valid and infringed, and it has determined a frand rate.
+the courts statement in para 56 also colours the interpretation of the scheme it set out between paras 63 and 69 of its judgment.
+as the court of appeal observed, para 56 does not sit comfortably with the notion that the cjeu was laying down a set of prescriptive rules, intending that failure to comply precisely with any of them would necessarily, and in all circumstances, render the commencement of proceedings for an injunction abusive.
+it is important, it seems to us, to take account of where para 56 is placed in the judgment.
+immediately preceding it, the court had identified the very real problem that occurs where, as in the case which had generated the reference to it, there is no agreement as to what terms would be frand, and then said (in para 55, quoted above) that in order to prevent an action being regarded as abusive, the sep owner must comply with conditions which seek to ensure a fair balance between the interests concerned.
+this identifies what the conditions need to seek to ensure, but is no more prescriptive than that, and it is of considerable significance that para 56 immediately follows, requiring that [i]n this connection, which must surely be a reference back to the conditions which seek to ensure a fair balance, due account must be taken of the specific legal and factual circumstances of the case.
+it would be surprising if the steps then set out by the cjeu were expected by it to apply in all cases, no matter what their legal and factual circumstances.
+unwired submits that the language used by the cjeu is language intended to signpost a safe harbour for the sep owner.
+we agree that this does lend a degree of support to unwireds argument.
+in particular, in contrast to the absolute language of para 60, in para 71, the court speaks of the sep owner not abusing its dominant position as long as it follows the steps laid out.
+this does not tell us that if the sep owner does not follow the steps, it will be abusing its dominant position.
+to answer that, due account has to be taken of the particular circumstances of the case, although, of course, it is likely to be valuable to compare what occurred with the pattern set out by the cjeu.
+by way of further reinforcement for its contention that the cjeu was providing guidance only, unwired points to the unfairness that would arise, in a case (such as the present one) which began before the cjeu gave judgment in huawei v zte, if the application for injunctive relief were to be condemned as abusive by virtue of a failure to comply with conditions which had not yet been spelled out when the proceedings were commenced, but which, once spelled out, operated ex tunc.
+the fact that any rigid and prescriptive rules laid down by the cjeu would necessarily operate in this way makes it unlikely, says unwired, that the cjeu was actually seeking to lay down a mandatory protocol.
+had the cjeus judgment been in terms clearly intended to lay down universal, immutable, conditions, this point would not have been sufficient to displace that interpretation of it, but, in our view, given that the judgment is not in such terms, the point does perhaps provide a degree of further confirmation that all the circumstances of the case must be taken into account before concluding that article 102 has been infringed.
+it is worth noting how the european commission has interpreted the cjeus decision.
+in its communication of 29 november 2017, setting out the eu approach to standard essential patents (see para 83 above), it encapsulated, at para 3, the conflicting considerations which operate in relation to injunctive relief in sep cases, saying that: [s]uch relief aims to protect sep holders against infringers unwilling to conclude a licence on frand terms.
+at the same time, safeguards are needed against the risk that good faith technology users threatened with an injunction accept licensing terms that are not frand, or in the worst case, are unable to market their products (hold ups).
+it then went on, at para 3.1 of the communication, to set out its understanding of the cjeus judgment: in its huawei judgment, the cjeu established obligations applying to both sides of a sep licensing agreement, when assessing whether the holder of a sep can seek an injunction against a potential licensee without being in breach of article 102 tfeu.
+sep holders may not seek injunctions against users willing to enter into a licence on frand terms, and the cjeu established behavioural criteria to assess when a potential licensee can be considered willing to enter into such a licence.
+the following paragraphs consider further the various elements in the negotiation, but make clear that what precisely is required is, in the commissions view, dependent on the facts of the individual case.
+this coincides with the interpretation that we would adopt of the cjeus decision.
+as the commission pointed out, the objective is to protect both the intellectual property rights of sep owners and the interests of what it calls good faith technology users.
+the scheme set up by the cjeu, as we would interpret it, does this.
+it prevents an organisation which is unwittingly using a sep without a licence from being ambushed by injunction proceedings without any prior notification of the problem, provides the sep owner with a route map which, if followed precisely, will ensure it can seek an injunction without risking infringing article 102, and otherwise provides a number of points of reference to assist in assessing the all important question of whether each of the parties is willing to enter into a licence on frand terms.
+interpreted in this way, it has sufficient flexibility built into it to cater for the inevitable variations that will occur from case to case, and from country to country.
+given that we share birss js interpretation of the cjeus judgment, we see no reason to interfere with his assessment that unwired had not behaved abusively.
+he found that sufficient notice was given to huawei before the injunction application was made.
+he properly evaluated the course of the negotiations between the parties in light of what the cjeu had said.
+there was no mandatory requirement that unwired itself make an offer of terms which coincided with those that were ultimately determined by the court to be frand.
+apart from the more general points that we have made earlier, in rejecting the argument that the cjeus scheme was mandatory, such an absolute requirement to hit the target precisely with an offer could not sit easily alongside para 68 of the cjeus judgment, which contemplates determination of the amount of the royalty by an independent third party.
+what mattered on the facts of this case was that unwired had shown itself willing to license huawei on whatever terms the court determined were frand, whereas huawei, in contrast, had only been prepared to take a licence with a scope determined by it.
+issue 5: the equitable jurisdiction to award a prohibitory injunction
+the fifth issue in the appeal raises a point which was not argued in the courts below.
+huawei contends that even if it is infringing the claimants uk seps, and even if the claimants are willing to offer a licence on terms which the court has found to be frand, nevertheless the court should not grant the claimants an injunction to prevent the continuing infringement of their patents, since such a remedy is neither appropriate nor proportionate.
+since the claimants only interest in the observance of the uk seps is in obtaining reasonable royalties, and that interest can be fully recognised by an award of damages in lieu of an injunction, it follows that such an award, based on the royalties which would reasonably be agreed for a licence of each of the uk patents infringed, is the appropriate and proportionate remedy.
+in support of that argument, huawei refers to the discussion of awards of damages in lieu of an injunction under section 50 of the senior courts act 1981 (formerly under lord cairnss act) in one step (support) ltd v morris garner [2018] uksc 20; [2019] ac 649, where lord reed explained at paras 43 44 and 95(3) that such damages can be awarded in respect of an injury which has not yet occurred, and that they are a monetary substitute for what is lost by the withholding of injunctive relief.
+reference is also made to co operative insurance society ltd v argyll stores (holdings) ltd [1998] ac 1, where the house of lords decided that damages were normally a more appropriate remedy than a mandatory injunction requiring the carrying on of a business, and lawrence v fen tigers ltd [2014] uksc 13; [2014] ac 822, where damages were considered to be a more appropriate remedy, in the circumstances of that case, than an injunction to prevent the continuation of a nuisance.
+huawei also refers to ebay inc v mercexchange llc 547 us 388 (2006), where the united states supreme court vacated a decision by the federal circuit reversing the district courts denial of permanent injunctive relief to a pae.
+the supreme court held that neither court had exercised its discretion in accordance with traditional principles of equity, as established in the law of the united states.
+the court of appeals was held to have erred in applying a rule that courts would issue infringement absent exceptional permanent circumstances.
+the district court was held to have erred in adopting a rule that injunctions against patent injunctive relief would not issue where the plaintiff was willing to licence its patents rather than bringing them to market itself.
+the supreme court took no position on whether permanent injunctive relief should or should not issue in that case.
+huawei relies in particular on the concern expressed by kennedy j, in a concurring opinion in which stevens, souter and breyer jj joined, that an injunction could be employed by a pae as a bargaining tool to charge exorbitant fees.
+kennedy j expressed the opinion that where the patented invention was only a small component of the product the defendant sought to produce, and the threat of an injunction was employed simply for undue leverage in negotiations, damages might well be sufficient to compensate for the infringement, and an injunction might not serve the public interest.
+as lord neuberger remarked in the case of lawrence at para 120, the court's power to award damages in lieu of an injunction involves a classic exercise of discretion.
+in most cases of patent infringement, judges have exercised their discretion in favour of granting an injunction.
+as roberts cj observed in the ebay case, in a concurring judgment in which scalia and ginsburg jj joined: from at least the early 19th century, courts have granted injunctive relief upon a finding of infringement in the vast majority of patent cases.
+this long tradition of equity practice [weinberger v romero barcelo, 456 us 305, 320 (1982)] is not surprising, given the difficulty of protecting a right to exclude through monetary remedies that allow an infringer to use an invention against the patentees wishes. (emphasis in original)
+in the present case, the courts below were not invited to consider the possibility of awarding damages in lieu of an injunction.
+we are not in any event persuaded that there is any basis on which this court could properly substitute an award of damages for the injunction granted by birss j and upheld by the court of appeal.
+there are, in the first place, no grounds in this case for a concern of the kind expressed by kennedy j in the ebay case.
+the threat of an injunction cannot be employed by the claimants as a means of charging exorbitant fees, or for undue leverage in negotiations, since they cannot enforce their rights unless they have offered to license their patents on terms which the court is satisfied are fair, reasonable and non discriminatory.
+this point was clearly in the mind of birss j.
+he stated at para 562: if a worldwide licence is not frand then a putative licensee should not be coerced into accepting it by the threat of an injunction in one state.
+however, if a worldwide licence is frand then the situation changes.
+the logic of the frand undertaking applied in the context of patent rights is that the remedy of an injunction to restrain infringement, granted in respect of a patent found valid and infringed/essential, should present the licensee with a simple choice either to take a frand licence or stop dealing in the products.
+he returned to this point at the end of his judgment, when explaining at para 793 why an injunction was appropriate: the relevant patents have been found valid and infringed.
+unwired planet wish to enter into a worldwide licence.
+huawei is willing to enter into a uk portfolio licence but refuses to enter into a worldwide licence.
+however a worldwide licence is frand and unwired planet are entitled to insist on it.
+in this case a uk only licence would not be frand.
+an injunction ought to be granted because huawei stand before the court without a licence but have the means to become licensed open to them.
+secondly, in a case of the present kind, an award of damages is unlikely to be an adequate substitute for what would be lost by the withholding of an injunction.
+the critical feature of a case of this kind is that the patent is a standard technology for products which are designed to operate on a global basis.
+that is why standard technology is essential, and why the patent holders whose patents are accepted as seps are required to give an undertaking that licences will be made available on frand terms.
+once the patents have been accepted as seps, it may well be impractical for the patent holder to bring proceedings to enforce its rights against an infringing implementer in every country where the patents have been infringed.
+that is because, as huaweis witness mr cheng accepted in evidence, the cost of bringing enforcement proceedings around the world, patent by patent, and country by country, would be impossibly high.
+in those circumstances, if the patent holder were confined to a monetary remedy, implementers who were infringing the patents would have an incentive to continue infringing until, patent by patent, and country by country, they were compelled to pay royalties.
+it would not make economic sense for them to enter voluntarily into frand licences.
+in practice, the enforcement of patent rights on that basis might well be impractical, as was accepted in the present case by huaweis witness, and by the courts below.
+an injunction is likely to be a more effective remedy, since it does not merely add a small increment to the cost of products which infringe the uk patents, but prohibits infringement altogether.
+in the face of such an order, the infringer may have little option, if it wishes to remain in the market, but to accept the frand licence which ex hypothesi is available from the patent holder.
+however, for the reasons explained in paras 164 165, that does not mean that the court is enabling the patent holder to abuse its rights.
+this point was understood by the courts below.
+in the court of appeal, lord kitchin observed at paras 55 56: it may be wholly impractical for a sep owner to seek to negotiate a licence of its patent rights country by country, just as it may be prohibitively expensive for it to seek to enforce those rights by litigating in each country in which they subsist.
+this latter point was accepted by mr cheng in the course of his evidence: he agreed that the costs of such litigation for [unwired] would be impossibly high [i]t seems to us, at least as a matter of principle, that there may be circumstances in which it would not be fair and reasonable to expect a sep owner to negotiate a licence or bring proceedings territory by territory and that in those circumstances only a global licence or at least a multi territorial licence would be frand.
+lord kitchin also noted at para 111 the implications of accepting huaweis contention that country by country licensing was appropriate: the patentee must then bring proceedings country by country to secure the payment of the royalties to which it is entitled.
+but unlike a normal patent action, where an unsuccessful defendant faces the prospect of an injunction, the reluctant licensee would know that, on the assumption it could only be required to take licences country by country, there would be no prospect of any effective injunctive relief being granted against it provided it agreed to pay the royalties in respect of its activities in any particular country once those activities had been found to infringe.
+so it would have an incentive to hold out country by country until it was compelled to pay.
+that reasoning was criticised by huawei, but far from being erroneous, it identifies the central reason why an injunction is necessary in order to do justice, and why damages in lieu would not be an adequate substitute.
+conclusion
+before concluding we would like to record our appreciation of the high quality of the judgments of the courts below and the help which we gained from the judgments of the court of appeal in each of these cases.
+it follows from what we have discussed above that the appeals must fail.
+we therefore dismiss the appeals.

@@ -1,0 +1,46 @@
+this appeal concerns the application of the anti deprivation rule, a principle of insolvency law that contractual terms purporting to dispose of property on bankruptcy may be invalid as being in fraud or an evasion of the bankruptcy law.
+this appeal arises out of the insolvency of the lehman brothers group, including the appellant group company, lehman brothers special financing inc (lbsf).
+the commercial context of the dispute is complicated.
+in october 2002 lehman brothers international (europe) (lbie) established a synthetic debt repackaged note issuance programme, called the dante programme.
+the purpose of the dante programme was to provide or mimic a form of credit insurance to lbsf against credit events (such as failure to pay, bankruptcy and restructuring) which occurred within the reference portfolio of obligations owed by specified reference entities (the reference portfolio).
+the commercial purpose of the transaction was achieved through the issue of the so called synthetic credit linked notes by special purpose vehicles (the issuer) set up in tax friendly jurisdictions.
+the investors in the notes (the noteholders), including the respondents, were australian local authorities, pension funds, private investment companies and private individuals.
+the subscription proceeds paid by the investors for the notes were used by the issuer to purchase secure investments (the collateral) which was then vested in a trust corporation (the trustee).
+in order to service the interest payments under the notes, the issuer entered into a swap agreement with lbsf under which lbsf received the income (or yield) on the collateral and, in return, paid the issuer the amount of interest due to the noteholders under the terms of the notes.
+the amount by which the sum payable under the swap agreement by lbsf exceeded the yield on the collateral represented the premium for the, in effect, credit insurance provided by the noteholders.
+it was further agreed that on maturity of the notes (or on early redemption or termination), lbsf would pay the issuer an amount equal to the initial principal amount subscribed by the investors less amounts calculated by reference to credit events occurring in the reference portfolio and in return would receive the sum equal to the proceeds of sale of the collateral, thereby giving effect to the insurance aspect of the programme.
+to ensure lbsfs recovery, the trustee was instructed to apply all proceeds from the collateral, first, in meeting the issuers obligations to lbsf and only then in meeting the issuers obligations to the noteholders.
+however, lbsf would loose its priority claim to the collateral if it was in default under the swap, triggering a change in priority in favour of the noteholders, the so called flip.
+the events of default under the swap were numerous and, for present purposes, included filing for chapter 11 protection by lehman brothers holdings inc (lbhi) on 15 september 2008 and by lbsf on 3 october 2008.
+in reliance on the latter event, and following a direction from the noteholders, the trustee caused the issuer to terminate the swap with lbsf.
+this early termination triggered the payment of unwind costs (the market assessment of the net amount either party to the swap would have received were it to run to maturity) to lbsf.
+at the same time, lbsfs event of default caused the priority of claims against the collateral to change in favour of the noteholders.
+given that the issuers obligations to the noteholders and to lbsf were limited to the value of the collateral and that the total claims by the noteholders and lbsf exceeded the value of the collateral, this change in priority effectively deprived lbsf of a chance to recover its unwind costs.
+as a result, lbsf sought to challenge the validity of the flip on the basis that it breached the anti deprivation principle.
+lbsfs position was that its rights to the unwind costs and the priority it enjoyed over the collateral formed part of lbsfs insolvent estate of which it was deprived on change of priority following lbsfs bankruptcy.
+both the high court and the court of appeal upheld the contractual arrangements.
+sir andrew morritt c found that the contractual provisions did not offend the anti deprivation rule; or, alternatively, that the rule was not engaged since the flip was triggered by an earlier lbhi chapter 11 filing and thus lbsfs chapter 11 filing did not deprive it of any property.
+in the court of appeal, lord neuberger mr (with whom longmore lj agreed) found the flip provisions valid in reliance, to a large extent, on the fact that the collateral was acquired with money provided by the noteholders.
+patten lj thought that the rule did not apply because a change of priority was always a feature of the security arrangements.
+the supreme court unanimously dismissed lbsfs appeal and upheld the validity of contractual provisions.
+the lead judgment was given by lord collins, with whom lord phillips, lord hope, lord walker, lady hale and lord clarke agreed.
+lord mance agreed with the majoritys conclusion but for different reasons.
+issue 1 the anti deprivation rule having examined the application of the anti deprivation rule over the last 200 years, lord collins held that the rule is too well established to be discarded despite the detailed provisions set out in insolvency legislation, all of which must be taken to have been enacted against the background of the anti deprivation rule: [102].
+lord collins identified the following limits of the rule.
+first, a deliberate intention to evade insolvency laws is required, although such intention need not be subjective.
+thus a commercially sensible transaction entered into in good faith should not be held to infringe the anti deprivation rule: [78] [79].
+secondly, the anti deprivation rule does not apply if the deprivation takes place for reasons other than bankruptcy: [80].
+thirdly, the distinction between an interest determinable on bankruptcy (the so called flawed asset), which is outside the anti deprivation rule, and an absolute interest defeasible on bankruptcy by a condition subsequent, which falls foul of the rule, is too well established to be dislodged otherwise than by legislation: [87] [88].
+however, not every proprietary right expressed to determine or change on bankruptcy is valid, still less a deprivation which has been provided for in the transaction from the outset: [89].
+fourthly, the source of the assets is an important element in determining whether there had been a fraud on the bankruptcy laws: [96].
+however, there is no general exception to the anti deprivation rule based simply on the source of the assets: [98].
+lord collins concluded that commercial sense and absence of intention to evade insolvency laws are highly relevant factors in the application of the anti deprivation rule and that the rule does not apply to bona fide commercial transactions which do not have as their predominant purpose, or one of their main purposes, the deprivation of the property of one of the parties on bankruptcy: [103] [104].
+since the contractual provisions challenged in the present appeal were part of a complex commercial transaction entered into in good faith, the collateral was in substance provided by the noteholders and there was no suggestion that the flip provisions were deliberately intended to evade insolvency law, they did not offend the anti deprivation rule: [108] [113].
+lord mance agreed that the insolvency legislation has not made redundant the common law anti deprivation principle: [150] [151].
+however, he would have dismissed this appeal on the basis that lbsf could not be regarded as having been deprived of any property.
+on his reading of the documentation, lbsf could not be said to enjoy the contractual priority until the occurrence of certain events.
+thus once an event of default under the swap occurred, lbsf was not deprived of the priority but simply prevented from acquiring it in the first place: [168].
+even if lbsf was deprived of its property, the flip simply amounted to a contractual termination of the future reciprocal obligations of the parties, the performance of each of which is the quid pro quo of the other, and thus did not constitute an illegitimate evasion of the bankruptcy laws: [178] [180].
+issue 2 the timing of the deprivation given the conclusion on issue 1, the question of whether lbhis earlier bankruptcy (as argued by the respondents) rather than lbsfs bankruptcy constituted the relevant event of default which triggered the operation of the flip did not arise.
+lord collins would have dismissed the appellants argument on this point: [118] [120].
+lord mance, although sceptical of the respondents argument, preferred not to express a view on this issue: [181] [183].

@@ -1,0 +1,662 @@
+this appeal raises important and difficult issues as to the meaning and effect of part 2 of the proceeds of crime act 2002 (poca), dealing with post conviction confiscation.
+it does not concern civil recovery under part 5 of poca, which was considered recently by the court in serious organised crime agency v perry [2012] uksc 35, [2012] 3 wlr 379 nor, although the argument ranged widely, did it address by any means all of the questions which are raised in a post conviction case.
+but because of the importance and difficulty of the issues which are raised, the appeal (originally heard by a court of seven justices in 2011) has been re argued before a court of nine.
+these issues relate chiefly to the calculation of benefit and the impact of the human rights act 1998 (hra).
+at the rehearing the court has had the benefit of argument not only on behalf of the original parties, but also from counsel instructed as advocates to the court and counsel on behalf of the secretary of state for the home department as an intervener.
+poca is concerned with the confiscation of the proceeds of crime.
+its legislative purpose, like that of earlier enactments in this field, is to ensure that criminals (and especially professional criminals engaged in serious organised crime) do not profit from their crimes, and it sends a strong deterrent message to that effect.
+in r v rezvi [2002] ukhl 1, [2003] 1 ac 1099, para 14, lord steyn stated: it is a notorious fact that professional and habitual criminals frequently take steps to conceal their profits from crime.
+effective but fair powers of confiscating the proceeds of crime are therefore essential.
+the provisions of the 1988 act are aimed at depriving such offenders of the proceeds of their criminal conduct.
+its purposes are to punish convicted offenders, to deter the commission of further offences and to reduce the profits available to fund further criminal enterprises.
+these objectives reflect not only national but also international policy.
+these observations have been cited and followed many times, although lord steyns reference to punishment needs some qualification.
+despite the use of the term confiscation, which is a misnomer, orders under part 2 of poca are made in sums of money (value based) rather than being directed, as are civil recovery orders under part 5 of poca, at the divestment of specific assets.
+nevertheless, a confiscation order is not an additional fine.
+the legislation under which value based criminal confiscation orders are made has changed significantly during the past thirty years.
+the main landmarks can be briefly summarised (there is a more detailed account, which also refers to the international conventions underlying some of the legislation, in the considered opinion of the appellate committee of the house of lords, delivered by lord bingham, in r v may [2008] ukhl 28, [2008] ac 1028, para 8).
+the first statute, the drug trafficking offences act 1986 (the 1986 act) provided for confiscation of sums related to the proceeds of unlawful drug trafficking.
+the 1986 act was repealed and replaced by the drug trafficking act 1994 (the 1994 act).
+in the meantime part vi of the criminal justice act 1988 (the 1988 act) had extended the range of offences in respect of which confiscation orders could be made.
+the 1988 act and the 1994 act were framed in similar but not identical terms and in some of the authorities the court of appeal had to consider whether relatively small variations in the scheme and language of the statutes reflected significant differences in legislative policy (see for instance r v rose [2008] ewca crim 239, [2008] 1 wlr 2113, para 78).
+poca has put an end to those difficulties, but they must be borne in mind when reading some of the older cases.
+the proceeds of crime act 1995 (the 1995 act) was an amending statute, but its effects were far reaching and, with hindsight after the enactment of hra a few years later, problematic.
+the 1995 act removed from the crown court almost all discretion as to the making or quantum of a confiscation order, if it was applied for by the prosecution and the statutory requirements were satisfied.
+that remains the position under poca.
+the crown court no longer has any power to use its discretion so as to mould the confiscation order to fit the facts and the justice of the case, even though a confiscation order may arise in every kind of crime from which the defendant has benefited, however briefly.
+the crown court has encountered many difficulties in applying pocas strict regime.
+many of the complexities and difficulties of confiscation cases, arising from the extremely involved statutory language, would undoubtedly be avoided if a measure of discretion were restored, but whether to restore it, and if so in which form, is a matter for parliament and not for the courts.
+on the introduction of the bill that was later enacted as poca it was certified in the usual way, under section 19 of hra, as compatible with rights under the european convention on human rights (convention rights).
+the question now raised for this court is whether the application of pocas rules for the calculation of benefit may, in some circumstances, give rise to a contravention of convention rights.
+this is not a question which has arisen in cases before the strasbourg court although other challenges to evidential aspects of confiscation legislation have been rejected, for example in phillips v uk [2001] echr 437, (2001) 11 bhrc 280 (statutory assumptions) and grayson and barnham v uk [2008] echr 871; (2009) 48 ehrr 30 (onus on defendant to demonstrate realisable assets smaller than the benefit figure).
+this very important issue is addressed at section iii below.
+the statutory provisions
+part 2 of poca has two general features of central importance to its structure.
+the first is the distinction between cases in which the defendant is, or is not, to be treated as having a criminal lifestyle (as prescribed by section 75 of poca).
+mr wayas is not a criminal lifestyle case, but many of the authorities are concerned with criminal lifestyle cases, and it must be noted that the statutory assumptions made in those cases (under section 10 of poca) are often determinative of the outcome.
+the other structural feature is that the making and quantum of a confiscation order involve three stages.
+the first stage is the identification of the benefit obtained by the defendant (sections 6(4), 8 and 76 of poca).
+the second stage is the valuation of that benefit.
+it may fall to be valued (sections 79 and 80) either at the time when it is obtained, or at the date of the confiscation order (the confiscation day).
+intermediate events may be relevant, especially for the tracing exercise that may be required under section 80(3), but the valuation date must be either at the beginning or at the end of the process.
+the third stage is the valuation as at the confiscation day of all the defendants realisable assets (designated in section 9 as the available assets).
+this value sets a cap on the amount (the recoverable amount) of the confiscation order (section 7).
+in r v may [2008] ac 1028, para 8, the house of lords emphasised that the crown court must proceed through these three stages in a systematic manner, and not elide them.
+because poca covers a wide range of offences, parliament has framed the statute in broad terms with a certain amount of what lord wilberforce (in a tax case) called overkill.
+examples of this are the apparently loose causal test in section 76(4) (as a result of or in connection with the conduct) and the rather puzzling definition (property is obtained by a person if he obtains an interest in it) in section 84(2)(b).
+although the statute has often been described as draconian that cannot be a warrant for abandoning the traditional rule that a penal statute should be construed with some strictness.
+but subject to this and to hra, the task of the crown court judge is to give effect to parliaments intention as expressed in the language of the statute.
+the statutory language must be given a fair and purposive construction in order to give effect to its legislative policy.
+much of the argument in the appeal has focussed on sections 76, 79, 80 and 84 of poca, and they must be set out in full. 76 conduct and benefit (1) criminal conduct is conduct which (a) constitutes an offence in england and wales, or (b) would constitute such an offence if it occurred in england and wales. (2) general criminal conduct of the defendant is all his criminal conduct, and it is immaterial (a) whether conduct occurred before or after the passing of this act; (b) whether property constituting a benefit from conduct was obtained before or after the passing of this act. (3) particular criminal conduct of the defendant is all his criminal conduct which falls within the following paragraphs (a) conduct which constitutes the offence or offences concerned; (b) conduct which constitutes offences of which he was convicted in the same proceedings as those in which he was convicted of the offence or offences concerned; (c) conduct which constitutes offences which the court will be taking into consideration in deciding his sentence for the offence or offences concerned. (4) a person benefits from conduct if he obtains property as a result of or in connection with the conduct. (5) if a person obtains a pecuniary advantage as a result of or in connection with conduct, he is to be taken to obtain as a result of or in connection with the conduct a sum of money equal to the value of the pecuniary advantage. (6) references to property or a pecuniary advantage obtained in connection with conduct include references to property or a pecuniary advantage obtained both in that connection and some other. (7) if a person benefits from conduct his benefit is the value of the property obtained. 79 value: the basic rule (1) this section applies for the purpose of deciding the value at any time of property then held by a person. (2) its value is the market value of the property at that time. (3) but if at that time another person holds an interest in the property its value, in relation to the person mentioned in subsection (1), is the market value of his interest at that time, ignoring any charging order under a provision listed in subsection (4). (4) the provisions are (a) section 9 of the drug trafficking offences act 1986 (c. 32); (b) section 78 of the criminal justice act 1988 (c. 33); (c) article 14 of the criminal justice (confiscation) (northern ireland) order 1990 (s.i. 1990/2588 (n.i. 17)); (d) section 27 of the drug trafficking act 1994 (c. 37); (e) article 32 of the proceeds of crime (northern ireland) order 1996 (s.i. 1996/1299 (n.i. 9)). (5) this section has effect subject to sections 80 and 81. 80 value of property obtained from conduct (1) this section applies for the purpose of deciding the value of property obtained by a person as a result of or in connection with his criminal conduct; and the material time is the time the court makes its decision. (2) the value of the property at the material time is the greater of the following (a) the value of the property (at the time the person obtained it) adjusted to take account of later changes in the value of money; (b) the value (at the material time) of the property found under subsection (3). (3) the property found under this subsection is as follows (a) if the person holds the property obtained, the property found under this subsection is that property; (b) if he holds no part of the property obtained, the property found under this subsection is any property which directly or indirectly represents it in his hands; (c) if he holds part of the property obtained, the property found under this subsection is that part and any property which directly or indirectly represents the other part in his hands. (4) the references in subsection (2)(a) and (b) to the value are to the value found in accordance with section 79. 84 property: general provisions (1) property is all property wherever situated and includes (a) money; (b) all forms of real or personal property; (c) things in action and other intangible or incorporeal property. (2) the following rules apply in relation to property (a) property is held by a person if he holds an interest in it; (b) property is obtained by a person if he obtains an interest in it; (c) property is transferred by one person to another if the first one transfers or grants an interest in it to the second; (d) references to property held by a person include references to property vested in his trustee in bankruptcy, permanent or interim trustee (within the meaning of the bankruptcy (scotland) act 1985 (c. 66)) or liquidator; (e) references to an interest held by a person beneficially in property include references to an interest which would be held by him beneficially if the property were not so vested; (f) references to an interest, in relation to land in england and wales or northern ireland, are to any legal estate or equitable interest or power; (g) references to an interest, in relation to land in scotland, are to any estate, interest, servitude or other heritable right in or over land, including a heritable security; (h) references to an interest, in relation to property other than land, include references to a right (including a right to possession).
+iii the effect of hra
+at the first hearing of this case in 2011 mr krolicks arguments on behalf of the defendant included the submission that the operation of the confiscation regime might in some circumstances give rise to an order which infringed article 1 of the first protocol to the european convention on human rights.
+when adjourning the case to a fresh hearing, this court invited further submissions on this topic, and more generally upon the questions: a. whether poca is capable of operating in a manner which is oppressive and/or an abuse of process; b. if so, whether the court ought to give any (and if so what) guidance on when that might occur; c. what ought to be the approach to property gained by the defendant but fully restored to the true owner; d. what ought to be the approach to a dishonestly obtained loan which had been fully repaid.
+further submissions on these and related topics were, in consequence, made by all parties at the re hearing of the appeal.
+article 1 of the first protocol to the european convention (a1p1) provides: every natural or legal person is entitled to the peaceful enjoyment of his possessions.
+no one shall be deprived of his possessions except in the public interest and subject to the conditions provided for by law and by the general principles of international law.
+the preceding provisions shall not, however, in any way impair the right of a state to enforce such laws as it deems necessary to control the use of property in accordance with the general interest or to
+secure the payment of taxes or other contributions or penalties
+it is clear law, and was common ground between the parties, that this imports, via the rule of fair balance, the requirement that there must be a reasonable relationship of proportionality between the means employed by the state in, inter alia the deprivation of property as a form of penalty, and the legitimate aim which is sought to be realised by the deprivation.
+that rule has consistently been stated by the european court of human rights: see for example its iteration in jahn v germany (2006) 42 ehrr 1084, para 93: 93.
+the court reiterates that an interference with the peaceful enjoyment of possessions must strike a fair balance between the demands of the general interest of the community and the requirements of the protection of the individual's fundamental rights [see, among other authorities, sporrong and lnnroth, cited above, p. 26, 69].
+the concern to achieve this balance is reflected in the structure of article 1 of protocol no. 1 as a whole, including therefore the second sentence, which is to be read in the light of the general principle enunciated in the first sentence.
+in particular, there must be a reasonable relationship of proportionality between the means employed and the aim sought to be realised by any measure depriving a person of his possessions [see pressos compania naviera sa and others v belgium, judgment of 20 november 1995, series a no. 332, p. 23, 38].
+in determining whether this requirement is met, the court recognises that the state enjoys a wide margin of appreciation with regard both to choosing the means of enforcement and to ascertaining whether the consequences of enforcement are justified in the general interest for the purpose of achieving the object of the law in question [see chassagnou v france [gc], nos. 25088/94, 28331/95 and 28443/95, 75, echr 1999 iii].
+although that case applied this principle to very particular facts, relating to the operation of post reunification german land re organisation, the principle itself is gathered from established strasbourg jurisprudence in terms often repeated and generally applied.
+a1p1 is one of the convention rights to which the hra applies: section 1(1)(b).
+that means that section 3(1) requires that so far as it is possible to do so, legislation must be: read and given effect in a way which is compatible. [with it].
+mr perry qc, for the crown, and lord pannick qc for the home secretary, both submitted that this means: (a) (b) (c) (d) that poca must be read and given effect in a manner which avoids a violation of a1p1; that a confiscation order which did not conform to the test of proportionality would constitute such a violation; that it is incumbent upon the domestic court to provide a remedy for any such violation; and that the appropriate remedy lies in the duty of the crown court judge not to make an order which involves such a violation.
+these submissions are plainly correct.
+any such violation can be avoided by applying to poca, and in particular to section 6, the rule of construction required by section 3 of hra.
+the extent of the courts obligation under section 3 was summarised by lord bingham in sheldrake v dpp [2004] ukhl 43, [2005] 1 ac 264, para 28: the interpretative obligation of the courts under section 3 of the 1998 act was the subject of illuminating discussion in ghaidan v godin mendoza [2004] 2 ac 557.
+the majority opinions of lord nicholls, lord steyn and lord rodger in that case (with which lady hale agreed) do not lend themselves easily to a brief summary.
+but they leave no room for doubt on four important points.
+first, the interpretative obligation under section 3 is a very strong and far reaching one, and may require the court to depart from the legislative intention of parliament.
+secondly, a convention compliant interpretation under section 3 is the primary remedial measure and a declaration of incompatibility under section 4 an exceptional course.
+thirdly, it is to be noted that during the passage of the bill through parliament the promoters of the bill told both houses that it was envisaged that the need for a declaration of incompatibility would rarely arise.
+fourthly, there is a limit beyond which a convention compliant interpretation is not possible, such limit being illustrated by r (anderson) v secretary of state for the home department [2003] 1 ac 837 and bellinger v bellinger [2003] 2 ac 467.
+in explaining why a convention compliant interpretation may not be possible, members of the committee used differing expressions: such an interpretation would be incompatible with the underlying thrust of the legislation, or would not go with the grain of it, or would call for legislative deliberation, or would change the substance of a provision completely, or would remove its pith and substance, or would violate a cardinal principle of the legislation (paras 33, 49, 110 113, 116).
+all of these expressions, as i respectfully think, yield valuable insights, but none of them should be allowed to supplant the simple test enacted in the act: so far as it is possible to do so .
+while the house declined to try to formulate precise rules (para 50), it was thought that cases in which section 3 could not be used would in practice be fairly easy to identify.
+section 6(5) of poca sets out the final stage of the process of assessment of a confiscation order: if the court decides under subsection 4(b) or (c) that the defendant has benefited from the conduct referred to it must (a) decide the recoverable amount, and (b) make an order (a confiscation order) requiring him to pay that amount.
+it is plainly possible to read paragraph (b) as subject to the qualification: except insofar as such an order would be disproportionate and thus a breach of article 1, protocol 1.
+it is necessary to do so in order to ensure that the statute remains convention compliant, as parliament must, by section 3 of hra, be taken to have intended that it should.
+thus read, poca can be given effect in a manner which is compliant with the convention right.
+the judge should, if confronted by an application for an order which would be disproportionate, refuse to make it but accede only to an application for such sum as would be proportionate.
+both mr perry and lord pannick accepted the correctness of two cases decided in the court of appeal, criminal division, in which it was held that a disproportionate confiscation order might in limited circumstances be prevented by the application of the courts jurisdiction to prevent an abuse of process.
+those cases were r v morgan and r v bygrave [2008] ewca crim 1323; [2009] 1 cr app r (s) 60 and r v shabir [2008] ewca crim 1809, [2009] 1 cr app r (s) 84.
+the first (where the point was substantially conceded by the crown) involved consideration of the case of a class of defendant (such as morgan) whose benefit was limited to loss occasioned to a single victim, who did not have a criminal lifestyle, and who either had repaid, or stood ready to repay, the victim in full.
+such a defendant would not be able to invoke section 6(6) of poca to ask the court to treat the statutory duty to make a confiscation order as a discretionary power, because the victim would have no occasion to bring or threaten legal proceedings to recover his loss.
+the second case involved a defendant whose defalcations were accepted to amount to 464 but from whom the crown sought a confiscation order of over 400,000 as a result of the manner in which he had obtained the money together with much larger sums to which he was agreed to be entitled and of the form of the charges of which he had been convicted.
+the situations described in both cases have (with others) subsequently been recognised in guidance issued by the dpp to prosecutors as ones in which a disproportionate confiscation order ought not to be sought by the crown.
+whilst the outcomes of those cases were, as is conceded, correct, the better analysis of such situations is that orders such as those there considered ought to be refused by the judge on the grounds that they would be wholly disproportionate and a breach of a1p1.
+there is no need to invoke the concept of abuse of process.
+that guidance should be issued to prosecutors is perfectly proper.
+the crowns power, under section 6(3)(a) of poca, to ask the court to make a confiscation order is one with far reaching consequences and care should be taken to exercise it on sound principles.
+section 6 of hra imposes on prosecutors the duty not to act in a manner incompatible with convention rights, so that the crown has an important preliminary function in ensuring that a disproportionate order is not sought.
+but the safeguard of the defendants convention right under a1p1 not to be the object of a disproportionate order does not, and must not, depend on prosecutorial discretion, nor on the very limited jurisdiction of the high court to review the exercise of such discretion by way of judicial review.
+the latter would moreover lead to undesirable satellite litigation.
+mr perry and lord pannick were correct to identify the repository of the control in the person of the crown court judge, subject to the reviewing jurisdiction of the court of appeal, criminal division, on appeal by either party.
+there is no occasion for any challenge to a confiscation order to involve an application for judicial review, which would founder on the objection that there is an adequate remedy in the hands of those two courts.
+the difficult question is when a confiscation order sought may be disproportionate.
+the clear rule as set out in the strasbourg jurisprudence requires examination of the relationship between the aim of the legislation and the means employed to achieve it.
+the first governs the second, but the second must be proportionate to the first.
+likewise, the clear limitation on the domestic courts power to read and give effect to the statute in a manner which keeps it convention compliant is that the interpretation must recognise and respect the essential purpose, or grain of the statute.
+both mr perry and lord pannick submitted that it would be very unusual for orders sought under the statute to be disproportionate.
+both drew attention to the severity of the regime and commended its deterrent effect.
+the purpose of the legislation is plainly, and has repeatedly been held to be, to impose upon convicted defendants a severe regime for removing from them their proceeds of crime.
+it is not to be doubted that this severe regime goes further than the schoolboy concept of confiscation, as lord bingham explained in r v may [2008] 1 ac 1028.
+nor is it to be doubted that the severity of the regime will have a deterrent effect on at least some would be criminals.
+it does not, however, follow that its deterrent qualities represent the essence (or the grain) of the legislation.
+they are, no doubt, an incident of it, but they are not its essence.
+its essence, and its frequently declared purpose, is to remove from criminals the pecuniary proceeds of their crime.
+just one example of such declarations is afforded by the explanatory notes to the statute (para 4): the purpose of confiscation proceedings is to recover the financial benefit that the offender has obtained from his criminal conduct.
+a confiscation order must therefore bear a proportionate relationship to this purpose.
+lord bingham recognised this in his seminal speech in r v may, in adding to his endnote or overview of the regime, at para 48, two balancing propositions: the legislation does not provide for confiscation in the sense understood by schoolchildren and others, but nor does it operate by way of fine.
+some general propositions may be offered in the light of the submissions of mr perry and lord pannick.
+for the reasons given above, it must clearly be understood that the judges responsibility to refuse to make a confiscation order which, because disproportionate, would result in an infringement of the convention right under a1p1 is not the same as the re creation by another route of the general discretion once available to judges but deliberately removed.
+an order which the judge would not have made as a matter of discretion does not thereby ipso facto become disproportionate.
+so to treat the jurisdiction would be to ignore the rule that the parliamentary objective must, so long as proportionately applied, be respected.
+a great many of the more serious cases in which confiscation orders are appropriate are criminal lifestyle cases.
+the statutory test for a lifestyle case is contained in section 75, read with schedule 2, of poca.
+in essence, a defendant who has in the past six years committed a number of offences from which he has benefited, or who has committed certain specified offences, will meet the statutory test.
+if he does, the calculation of his benefit will normally not depend on the known benefit obtained from identified offences, but will be made after applying the statutory assumptions set out in section 10 as to the criminal source of any assets passing through his hands in the six year period.
+although the starting point is that the assumptions must be made (section 10(1)), this duty is subject to two qualifications contained in section 10(6).
+the assumptions should not be made if they are shown to be incorrect: section 10(6)(a).
+nor should they be made if making them would give rise to a risk of serious injustice: section 10(6)(b).
+the combination of these provisions, and especially the latter, ought to mean that to the extent that a confiscation order in a lifestyle case is based on assumptions it ought not, except in very unusual circumstances, to court the danger of being disproportionate because those assumptions will only be applied if they can be made without risk of serious injustice.
+confiscation order may have one or more of three effects: it is apparent from the decision in may that a legitimate, and proportionate, (a) it may require the defendant to pay the whole of a sum which he has obtained jointly with others; (b) similarly it may require several defendants each to pay a sum which has been obtained, successively, by each of them, as where one defendant pays another for criminal property; (c) it may require a defendant to pay the whole of a sum which he has obtained by crime without enabling him to set off expenses of the crime.
+these propositions are not difficult to understand.
+to embark upon an accounting exercise in which the defendant is entitled to set off the cost of committing his crime would be to treat his criminal enterprise as if it were a legitimate business and confiscation a form of business taxation.
+to treat (for example) a bribe paid to an official to look the other way, whether at home or abroad, as reducing the proceeds of crime would be offensive, as well as frequently impossible of accurate determination.
+to attempt to enquire into the financial dealings of criminals as between themselves would usually be equally impracticable and would lay the process of confiscation wide open to simple avoidance.
+although these propositions involve the possibility of removing from the defendant by way of confiscation order a sum larger than may in fact represent his net proceeds of crime, they are consistent with the statutes objective and represent proportionate means of achieving it.
+nor, with great respect to the minority judgment, does the application of a1p1 amount to creating a new governing concept of real benefit.
+similarly, it can be accepted that the scheme of the act, and of previous confiscation legislation, is to focus on the value of the defendants obtained proceeds of crime, whether retained or not.
+it is an important part of the scheme that even if the proceeds have been spent, a confiscation order up to the value of the proceeds will follow against legitimately acquired assets to the extent that they are available for realisation.
+the case of a defendant such as was considered in morgan and bygrave is, however, a different one.
+to make a confiscation order in his case, when he has restored to the loser any proceeds of crime which he had ever had, is disproportionate.
+it would not achieve the statutory objective of removing his proceeds of crime but would simply be an additional financial penalty.
+that it is consistent with the statutory purpose so to hold is moreover demonstrated by the presence of section 6(6).
+this subsection removes the duty to make a confiscation order, and converts it into a discretionary power, wherever the loser whose property represents the defendants proceeds of crime either has brought, or proposes to bring, civil proceedings to recover his loss.
+it may be that the presence of section 6(6) is capable of explanation simply as a means of avoiding any obstacle to a civil action brought by the loser, which risk would not arise if repayment has already been made.
+but it would be unfair and capricious, and thus disproportionate, to distinguish between a defendant whose victim was about to sue him and a defendant who had already repaid.
+if anything, an order that the same sum be paid again by way of confiscation is more disproportionate in the second case than in the first.
+unlike the first defendant, the second has not forced his victim to resort to litigation.
+the principle considered above ought to apply equally to other cases where the benefit obtained by the defendant has been wholly restored to the loser.
+in such a case a confiscation order which requires him to pay the same sum again does not achieve the object of the legislation of removing from the defendant his proceeds of crime, but amounts simply to a further pecuniary penalty in any ordinary language a fine.
+it is for that reason disproportionate.
+if he obtained other benefit, then an order confiscating that is a different matter.
+the earlier case of nield [2007] ewca crim 993 voiced concern about the effect of a confiscation order in a full restoration case.
+that case, however, pre dated morgan and bygrave and did not consider a1p1.
+to the extent that it, and forte [2004] ewca crim 3188 (a non counsel application with minimal argument), rationalised a confiscation order in such a case on the basis that part of the purpose of the statute was to impose an additional punitive sanction, those observations need now to be read in the light of the observations of lord bingham at para 48 in may, cited above.
+the principal thrust of rose [2008] 1 wlr 2113 relates to the question whether the losers interest in stolen property prevents the thief from obtaining it, and to the proper basis for valuation of benefit obtained (see below).
+to the extent that rose held at para 88 that the recovery and restoration intact of the stolen property was always irrelevant to the making of a confiscation order, that part of the decision should not be followed; it too preceded both morgan and bygrave and may, and neither a1p1 nor any issue of disproportion was addressed in argument.
+several of these conclusions can conveniently be tested by considering the facts of r v wilkes [2003] ewca crim 848, [2003] 2 cr app r (s) 105.
+the defendant was convicted of burglary.
+he had a previous conviction, within the statutory assumption period of six years, for handling.
+both the property stolen in the burglary and the property handled had been recovered intact and restored, undamaged, to the true owners.
+the defendant had obtained no other benefit from those two offences.
+under the legislation then prevailing, the 1988 act (as amended), these two convictions triggered the statutory assumptions, providing that wilkes had benefited (to any extent) from each of the offences.
+the crown did not assert that the calculation of wilkes benefit ought to include the value of the goods either stolen in the burglary or handled on the previous occasion.
+it confined itself to relying on the statutory assumptions which cast upon him the onus of disproving the proposition that his expenditure on living over the previous six years and some money found buried in the garden were, in each case, attributable to crime.
+the court of appeal was invited to hold that the statutory assumptions did not apply because wilkes had not benefited, even briefly, from the two offences under consideration.
+that argument was rightly rejected; plainly he had benefited, although the benefit had been for the briefest of time.
+the court had no occasion to consider whether the order sought was disproportionate.
+if the crown had sought to recover from him the value of the goods which had been restored intact to their owners, that would have been disproportionate to the aim of the statute to deprive him of his proceeds of crime.
+but it did not.
+it sensibly abstained from attempting to do so and instead relied upon the contention that except so far as he could prove otherwise his assets and expenditure over the past six years should be treated as the proceeds of crime.
+that was no doubt severe, but he had the opportunity to disprove these things, and could do so, to the extent, for example, that he could show that he had received state benefits.
+if he had been able to demonstrate that the source of his assets or expenditure was honest earnings from employment, or genuine untainted gifts from others, or a loan honestly obtained from a third party (r v johnson (julie) [1991] 2 qb 249 and r v walls [2002] ewca crim 2456, [2003] 1 wlr 731), the same would have applied.
+if any assumption had carried the risk of serious injustice to him, it would not have been made.
+instead, the conclusion on the evidence was that he was a career criminal and all unaccounted for expenditure had been derived from the proceeds of crime.
+for the confiscation order to be made, there had to be available assets up to the sum ordered.
+the order as made in his case was not disproportionate to the statutory objectives.
+under the poca rules for lifestyle offences, the trigger for the assumptions would now be four, not two, offences of this kind from which the defendant had benefited, but otherwise the position is unchanged.
+if, however, an order were sought independently of the lifestyle provisions and the concomitant assumptions, and to the extent that it were based solely on the momentary benefit of obtaining goods which had been restored intact to the true owners, that order would be disproportionate and ought not to be made: it would not serve the aim, or go with the grain, of the legislation.
+such a defendants proceeds of crime would already have been restored to the loser in their entirety.
+an order in the same sum again would simply impose an additional financial penalty upon him.
+if such a defendant deserves an additional financial penalty, as in some cases he may, it ought to be imposed openly by way of fine, and whether or not he is also sent to prison, providing he has the means to pay.
+a confiscation order in such a case is not compelled by the house of lords decision in r v smith (david) [2001] ukhl 68, [2002] 1 wlr 54, although the contrary appears often to be asserted.
+in smith the defendant had evaded the payment of duty on imported cigarettes by smuggling them past the customs post.
+the decision in the case was that the pecuniary advantage thus (admittedly) obtained had not retrospectively been undone by the subsequent seizure of the cigarettes.
+that was plainly correct.
+lord rodger held, at para 23, that the subsequent seizure of the cigarettes was in like case to subsequent loss of or damage to goods obtained in the course of crime; such loss or damage would not affect the propriety of a confiscation order consider for example the case of a burglar who hides the householders goods in the open air so that they are ruined by the weather or stolen by someone else.
+the house was not, however, considering the case in which the criminal property obtained has been restored to its owner undamaged.
+on the contrary, smith was agreed to have obtained the pecuniary advantage of avoiding payment of the duty, at any rate temporarily.
+the true analysis of tax or excise avoidance cases did not arise in this appeal and ought to await full argument when it does.
+it is, however, to be observed that in such a case hm revenue and customs does not as a matter of practice seek double recovery by way of both the payment of the unpaid duty and a confiscation order in the same sum: see r v edwards [2004] ewca crim 2923, [2005] 2 cr app r (s) 29, paras 24 to 25, where the existence of this practice was the reason why no breach of a1p1 was argued.
+this practice is followed, it appears, because such double recovery is recognised to be disproportionate and wrong.
+on the principle explained in para 19 above, the argument may need in the future to be considered that a disproportionate result should not be left to be achieved by way of executive concession but rather should be the responsibility of the court to which an application for a confiscation order is made.
+there may be other cases of disproportion analogous to that of goods or money entirely restored to the loser.
+that will have to be resolved case by case as the need arises.
+such a case might include, for example, the defendant who, by deception, induces someone else to trade with him in a manner otherwise lawful, and who gives full value for goods or services obtained.
+he ought no doubt to be punished and, depending on the harm done and the culpability demonstrated, maybe severely, but whether a confiscation order is proportionate for any sum beyond profit made may need careful consideration.
+counsels submissions also touched very lightly on cases of employment obtained by deception, where it may well be that difficult questions of causation may arise, quite apart from any argument based upon disproportion.
+those issues were not the subject of argument in this case and must await an appeal in which they directly arise; moreover related issues are understood to be currently before the strasbourg court.
+the present case is one of money lent because of fraud, but subsequently repaid in full and always fully secured.
+if, in such a case, the fraud were discovered immediately any confiscation order which included the same sum as had been repaid in full would be disproportionate on the principles set out above.
+however, the present case, like many mortgage frauds, is one of substantial benefit gained from the fraud in the form of the large increase in value of the flat which the fraud enabled the offender to buy.
+this therefore is not a case in which no confiscation order ought to have been made because any order would be disproportionate.
+in general, where the mortgage loan has been repaid or is bound to be repaid because it is amply secured, and absent other property obtained, a proportionate confiscation order is likely to be the benefit that the defendant has derived from his use of the loan, namely the increase in value of the property attributable to the loan.
+iv the facts
+mr waya is a nigerian businessman resident in london.
+in 2003 he wished to buy a flat, 18a northgate mansions, albert road, london nw8.
+he contracted to purchase the flat for 775,000, of which 310,000 came from his own resources.
+the balance of 465,000 was provided by a mortgage lender, g e money home lending.
+in order to obtain this loan mr waya made false statements about his employment record and his earnings.
+the sentencing judges remarks (quoted by his honour judge rivlin qc, who made the confiscation order) suggest that mr wayas advisers may have encouraged him to make false statements.
+the purchase and mortgage were completed in the usual way, with the mortgage lender putting mr wayas solicitor in funds shortly before completion.
+the solicitor would have held the funds in his client account, in trust for and to the order of the mortgage lender, until they were paid direct to the vendors solicitor on completion. (there is a fuller description of the normal process of completion of a purchase and mortgage in the opinion of lord goff of chieveley in preddy [1996] ac 815, 828 829.)
+in april 2005 the mortgage in favour of g e money home lending was redeemed, on payment of the full sum secured together with a fee of 58,000 for early redemption, and the flat was remortgaged to birmingham midshires building society to secure the sum of 838,943.
+there is no clear evidence as to what happened to the balance (which must have been of the order of 360,000) in excess of the redemption money but it seems probable that mr waya spent some of it on improvements to the flat.
+the judge accepted that he spent up to 150,000 on the flat during his period of ownership.
+mr waya was arrested in november 2005 and was charged on two counts of obtaining a money transfer by deception, contrary to section 15a of the theft act 1968, one relating to each of the mortgages.
+on 10 july 2007 at southwark crown court he was convicted on the first count and acquitted on the second.
+he was sentenced to 80 hours community punishment.
+the application under poca was heard on 25 january 2008.
+the sum of 1.54m ordered by judge rivlin was arrived at by deducting from the then market value of the flat (1.85m) the sum of untainted money (0.31m) paid by mr waya out of his own resources on the original purchase.
+the judge disregarded the remortgage for reasons that he stated rather briefly.
+the court of appeal, in a careful reserved judgment delivered by blake j on 25 march 2010, reduced the amount of the order to 1,110,000: [2010] ewca crim 412.
+this figure was arrived at as 60% of the market value of the flat.
+this represented a rateable split of the value since 465,000 (the loan obtained) is 60%, and 310,000 is 40%, of the original purchase price of 775,000.
+the remortgage was again disregarded.
+the court of appeal certified a point of law of general public importance in these terms: where a person obtains a money transfer by deception contrary to section 15a theft act 1968 as amended, and thereby causes a lending institution to transfer funds to the persons solicitor for the purpose of a mortgage advance to enable purchase by that person of a residential property, does: i) that person obtain a benefit from his conduct in the form of property within the meaning of part 2 of the proceeds of crime act 2002? ii) if so is the property so obtained the value of the loan advanced to purchase the property or his interest in the property or some other property? iii) meaning of part 2 of the proceeds of crime act 2002? if not does the person obtain a pecuniary advantage within the the issues in the appeal have since become wider, partly as the result of directions given by this court when directing a rehearing (see para 10 above).
+mr wayas sentence of 80 hours community service reflected the judges view of the relatively low level of his culpability.
+he was not guilty of a serious mortgage fraud involving dishonest overvaluation of property.
+there was no loss to the mortgage lender.
+nevertheless he did, by dishonestly misrepresenting his own financial position, obtain credit on terms which might not otherwise have been available.
+it is well known that those with poor credit ratings must expect to pay higher rates of interest if they have to borrow on the secondary or sub prime mortgage markets.
+in economic terms, the benefit that mr waya obtained from the offence for which he was convicted was obtaining credit, on better terms than those that he could expect to get if he told the truth.
+with that credit came the prospect of obtaining a handsome capital gain if the market for high grade residential property in london continued to rise (as it did).
+if on the other hand the market had fallen substantially, the mortgage lenders security might have proved inadequate, and the mortgagors personal covenant to repay principal and interest might have been shown to be worthless.
+depriving him of that prospective capital gain, or a proportionate part of it, would therefore be the appropriate way of making the confiscation order fit the crime.
+moreover that is the way in which the provisions of poca apply in this case, on a fair and purposive construction that takes account of section 3 of hra and the need for proportionality under a1 p1.
+the property obtained v
+the first issue, and the only one squarely raised in the certified question, is the identification of the property that mr waya obtained (in the language of section 76(4) of poca) as a result of or in connection with the criminal conduct for which he was convicted of an offence under section 15a of the theft act 1968.
+this issue of identification is of critical importance since the value of the property obtained, at the time when it was obtained, fixes (subject to adjustment for inflation) one of the two alternative bases of valuation under section 80(2)(a).
+if what mr waya obtained was 465,000, then that sum (adjusted for inflation) is the minimum sum to be treated as the value of his benefit under section 76(7).
+the issue of identification is also important if the alternative (tracing) basis of valuation under section 80(2)(b) and (3)(b) or (c) falls to be considered, because the property originally obtained is no longer in the defendants hands.
+if this arises, the first necessary step is to identify the property originally obtained and then to progress by inquiring whether the defendant now holds other property which directly or indirectly represents it.
+this aspect is discussed in part vi below.
+all counsel rightly acknowledged that the issue of identification is a difficult one, and some offered alternative analyses.
+mr krolick (for the appellant) put forward a radical solution, contending that mr wayas benefit was nil and criticising as a fallacy what he called the snapshot approach exemplified by the decision of the house of lords in r v smith (david) [2001] [2002] 1 wlr 54.
+mr perry qc (instructed by the crown prosecution service) put forward as his primary submission (paras 86 and 108 of his printed case) that mr waya obtained 465,000.
+lord pannick qc supported this submission (para 39 of his printed case on behalf of the secretary of state as intervener).
+so did mr swift qc (para 17 of the printed case of the advocates to the court).
+these submissions were broadly in line with the reasoning of the court of appeal, although blake j put it rather more tentatively in para 25 of his judgment ([2010] ewca crim 412): in our judgment, at the latest at the time the conditions upon which the money was advanced were satisfied, the appellant had at the least an equitable interest in the money transfer order in his solicitors account, namely a right to ensure that the money was forwarded to the vendor to complete the purchase.
+whether the appellants interest was in property belonging to the lender institution at a time when his interest arose is irrelevant to our inquiry although it was central to the decision in preddy [r v preddy [1996] ac 815].
+in the words of section 15a theft act as amended he obtained the money transfer for himself, if only for the purpose of it being applied to discharge the obligation to pay the purchase price for the property through the solicitors account.
+no one contended that the property obtained was the entire flat, although that analysis had been adopted in two early unreported cases on the 1988 act, re k (6 july 1990, mccullough j) and r v layode (12 march 1993, court of appeal).
+in the latter case the court relied on the wide language of section 71(4) of the 1988 act, which (like section 76(4) of poca) refers to obtaining property as a result of or in connection with the commission of an offence.
+both were, however, cases where the judicial discretion was available to ensure that any eventual order did not exceed what was fair, and more recent cases have declined to stretch the causal link.
+in r v may [2008] ac 1028, para 26, a case on the 1988 act as amended by the 1995 act, lord bingham referred to re k and r v layode and observed: it must, however, be appreciated that section 71(4) called for an essentially factual inquiry: what is the value of the property the defendant obtained? if (say) a defendant applies 10,000 of tainted money as a down payment on a 250,000 house, legitimately borrowing the remainder, it cannot plausibly be said that he has obtained the house as a result of or in connection with the commission of his offence.
+similar reasoning can be found in the decision of the court of appeal, civil division, in olupitan v director of the assets recovery agency [2008] ewca civ 104, 22 february 2008 and in r v ahmad [2012] ewca crim 391; [2012] 1 wlr 2335, 2 march 2012.
+but it is unnecessary and probably inappropriate to refer to those cases in detail, since an appeal to this court is pending in ahmad, whilst olupitan was a civil recovery case on different wording in part 5 of poca, where as toulson lj observed at para 55, the rival arguments about the mechanics of the transaction by which one house had been acquired did not in the end make any difference, once it had been found that the source of all relevant purchase money was some relevant crime.
+it is sufficient to say that the contention that mr waya obtained the whole leasehold interest in the flat by his dishonest conduct would completely ignore his down payment, out of untainted funds, of 310,000.
+that would not be a fair or purposive application of section 76(4), and it is unnecessary to add that it would also be disproportionate for the purposes of hra.
+the submission that what mr waya obtained was 465,000 calls for close examination.
+in the case of an ordinary loan induced by fraud, there is no doubt that the defendant does obtain the loan sum advanced.
+the facts that he is under an obligation to repay it, and even intends to repay it, do not mean that he does not obtain it.
+indeed the obligation (and intention) to repay both assume an initial obtaining; if there had not been an initial obtaining, there would be nothing to repay.
+nor does the fact that repayment is secured mean that he does not obtain it.
+a loan may often be secured on property belonging to the borrower.
+the security means that the lender has a much better prospect of being repaid, but once again there can be no doubt that the borrower obtains the sum advanced.
+it is paid to him and he can use it either as he wishes, or maybe for the particular purposes for which it is advanced.
+in either case, it has come into his possession and control; he has obtained it.
+for the reasons set out in part iii above, if a borrower does in fact repay a fraudulently induced loan, secured or unsecured, a confiscation order which requires him to pay the same sum again is (lifestyle considerations apart) likely to be disproportionate and wrong.
+but that, likewise, does not mean that he did not obtain the loan sum advanced in the first place.
+the difference in the present case lies in the legal machinery by which the loan advance is made, as explained in para 36 above.
+the appeal has proceeded on the agreed or assumed factual basis that the same solicitor was acting for mr waya and the mortgage lender; that the mortgage advance was paid to the solicitor to be held in the solicitors client account, until completion, in trust for and to the order of the mortgage lender; and that on completion the jointly instructed solicitor transferred the advance to the vendors solicitor, receiving instead an executed transfer of the lease.
+mr waya would already have executed a charge of the lease in favour of the mortgage lender.
+in the eyes of the law all these events occurred simultaneously.
+that is established by the decision of the house of lords in abbey national building society v cann [1991] 1 ac 56.
+there is a full explanation in the speech of lord oliver at pp 92 93.
+after referring to the proposition that, at least where there is a prior agreement to grant the charge on the legal estate when obtained, the transactions of acquiring the legal estate and granting the charge are, in law as in reality, one indivisible transaction, lord oliver analysed the position in detail and concluded: the reality is that the purchaser of land who relies upon a building society or bank loan for the completion of his purchase never in fact acquires anything but an equity of redemption, for the land is, from the very inception, charged with the amount of the loan without which it could never have been transferred at all and it was never intended that it should be otherwise.
+the scintilla temporis is no more than a legal artifice.
+on this analysis even blake js cautious reference to at least an equitable interest seems open to debate.
+mr waya no doubt had a contractual right as against the mortgage lender, conditional on the vendor performing his contractual obligations to the purchaser, to have the mortgage advance applied towards payment of the purchase price on completion.
+lord oliver (in a part of his speech between the passages quoted above) referred to the purchaser having a specifically enforceable agreement once the advance was in his solicitors client account, and that might be described as an equitable interest of a sort.
+but that cannot detract from the well established principle that in this sort of case the mortgage advance remains in the beneficial ownership of the lender until completion, when it passes direct to the vendor.
+that principle was stated in target holdings ltd v redferns (a firm) [1996] ac 421, 436, reaffirmed in r v preddy [1996] ac 815, 838, and recently discussed by the court of appeal in lloyds tsb bank plc v markandan & uddin [2012] ewca civ 65, 9 february 2012, a case about a mortgage fraud the facts of which are, even by todays standards, fairly remarkable.
+in r v glatt [2006] ewca crim 605, 17 march 2006, a case under the 1988 act in its original form, in which a solicitor had been convicted of assisting in laundering the proceeds of large scale evasion of excise duty, the court of appeal stated in relation to section 71(4) of the 1988 act (para 141): but obtain does include the cases where a defendant retains control over property received by a third person as a result of steps taken by him, as well as cases where he obtains an interest in property received by a third person.
+in r v may [2008] ac 1028, para 16 lord bingham stated that the observations on section 71(4) made by buxton j in r v gokal (7 may 1997) should not . be understood as excluding . cases where payment is made to a third party at the behest of the defendant.
+true it is that in this case the mortgage advance was paid to the vendors solicitor at mr wayas behest.
+but he had no control over its disposal in the recipients hands; the sole and predetermined purpose of the payment was to form part of the purchase price of the flat, with the mortgage lender having security for its repayment from the moment of completion.
+mr waya never in fact acquired anything but an equity of redemption (as lord oliver put it in cann), the equity of redemption corresponding in value (at that point) to his untainted down payment of 310,000.
+to conclude (as was submitted by mr perry, lord pannick and mr swift) that mr waya obtained 465,000 is a legally inaccurate account of the transaction, because the loan sum never became his or came into his possession.
+under the tripartite contractual arrangements between vendor, purchaser and mortgage lender mr waya obtained property in the form of a thing in action which was an indivisible bundle of rights and liabilities, and it cannot be correct to fasten onto the rights and ignore the liabilities (the analysis would of course be different if the loan had ever been at the defendants free disposal: see paras 48 and 49 above).
+in short, what mr waya obtained was the right to have the mortgage advance applied in the acquisition of his flat, subject from the moment of completion to the mortgage lenders security, which ensured the repayment of the advance.
+this thing in action had no market value at or immediately after completion, as the equity of redemption (or in everyday speech, the equity) represented mr wayas down payment.
+there will no doubt be other mortgage fraud cases in which this thing in action does have a value.
+one example would be the common case where false representations as to income and status of the borrower are accompanied by a dishonestly inflated valuation of the property which is being purchased.
+in such a case the fraud may not only have induced a larger loan than would otherwise have been made, but may well have induced a loan which is not fully secured as the lender believes.
+another example might be the case where the property which the defendant is purporting to purchase does not exist, or is not really being purchased at all.
+in both these cases the thing in action has a real value to the defendant.
+it is unnecessary to consider the alternative view (canvassed by mr perry in para 43 of his printed case) that if the money transfer was not property it was a pecuniary advantage, except to express some doubt as to whether, as mr perry suggests, the analysis would be just the same.
+it is not clear that the tracing provisions in section 80(3) of poca could apply to a pecuniary advantage which is not property, but is merely deemed (by section 76(5)) to be a sum of money.
+but it is not necessary to decide that point.
+vi the operation of section 80(3)
+there are four general features of s 80(3) which should be recognised. a) once property has been obtained as a result of or in connection with crime, it remains the defendants benefit whether or not he retains it.
+this is inherent in the value based scheme for post conviction confiscation. b) if however the defendant does not retain all or any of the property originally obtained, but does have other property representing it in his hands, then section 80(3) operates.
+this is an important part of the statutory scheme in cases where, for example, the profits of crime such as drug trafficking, are laundered into other assets which are likely to rise in value. c) even in such a case, s 80(3) only bites if the value of the representing property is larger than the value of the property originally obtained; if it is not, the benefit remains the value of what was originally obtained, subject to index linking under section 80(2)(a). d) where s 80(3) applies, the value of the representing property is an alternative but not an additional or cumulative benefit; see the helpful explanation offered by toulson lj in pattison, considered below at paras 59 to 61.
+section 80(3) of poca does not give any guidance (beyond the general interpretative provisions in section 84) as to how the test of direct or indirect representation is to be applied.
+this is in contrast to the detailed provisions in part 5 of poca, which are to be applied by civil courts in cases where what is being considered is, unlike a post conviction part 2 case, an order for the surrender of identified property, rather than simply an order for payment of a sum of money.
+this suggests that parliament may have intended section 80(3)(b) and (c) to apply only when the established facts are relatively straightforward.
+that is what is likely to happen in practice.
+where bank statements and other documentary evidence are not available the crown court may well conclude that any elaborate tracing exercise is impossible.
+but the general notion that the court can trace one asset into another is very familiar in english law, not only under formally constituted trusts but also for the purposes of obtaining proprietary or other remedies against a variety of persons in fiduciary positions, such as company directors, and others who have, by dishonestly giving assistance, made themselves accountable as if they were fiduciaries (see generally lewin on trusts, 18th ed (2008) pp 1655 1732; lionel smith, the law of tracing (1997).
+this is not to suggest that section 80(3) of poca is intended to bring in the whole panoply of rules as to tracing in equity.
+but the language of the subsection plainly proceeds on the basis that there may be sufficient evidence that one item of property represents another, in the sense that one asset has been exchanged for another asset, or (as is in practice more likely) that money derived from the one asset (whether by sale, mortgage or otherwise) has been used to acquire another asset.
+that was recognised (in relation to a similar provision in section 74(8) of the 1988 act) in the speech of lord rodger (with which the rest of the house concurred) in r v smith (david) [2002] 1 wlr 54, para 23.
+it was explored in detail by toulson lj giving the judgment of the court of appeal in r v pattison [2007] ewca crim 1536, [2008] 1 cr app r (s) 51.
+it is worth setting out one passage of toulson ljs judgment in full, since it explains the position very clearly.
+in pattison the defendant was an estate agent who had been convicted of money laundering when he bought, at a gross undervalue, a house belonging to an associate who anticipated (correctly) that he would in the near future be the subject of a confiscation order for drug dealing.
+the estate agent bought the house for 43,000 in 2004 and it was worth 152,500 at the time of the confiscation order against him.
+but he had charged it to secure a loan of 112,500 which he intended to use to meet the drug dealers confiscation order.
+however the estate agent was arrested before he could do so, and only 60,000 of the loan was actually drawn down, and remained in his bank account.
+in these circumstances toulson lj said (para 21): it is the prosecutions argument that where a defendant acquires property through criminal conduct, and subsequently deals with that property, then any proceeds of that dealing must be benefits which result from the offending and are therefore to be added to the original value of the property.
+this overlooks the provisions of section 80 (to which the judge was not referred) but before coming to that section it is worth pausing to consider the implications of the argument.
+suppose that after the appellant received the property worth 150,000 he had sold it for that sum and put the money in the bank.
+on the prosecutions argument, the benefit that he would then have received and for which he would be amenable to a confiscation order would be 300,000, representing the value of the property (150,000) plus the sum for which he realised it (150,000).
+if he then used the 150,000 to buy a yacht worth 150,000, the benefit would rise to 450,000.
+if he then tired of sailing and sold the yacht for the same price, the benefit which he would have received and for which he would be liable to a confiscation order would become 600,000.
+all the while, his true financial position would have remained identical.
+that offends commonsense.
+every school child knows that you cannot have the penny and the sweet.
+if your mother gives you a penny and you buy a sweet with it, your benefit is a pennys worth and not two pennys worth.
+it is correct that the provisions of the legislation are draconian, but the effect of the prosecutions argument would not [make] any underlying sense.
+fortunately, s.80 addresses the situation where a person subsequently deals with property which has been acquired by him through criminal conduct.
+he then set out the terms of section 80, and concluded that quantifying the benefit at 150,000 accorded with the language of the statute as well as with justice and commonsense.
+it was represented, on the estate agents confiscation day, by an equity of redemption (presumably worth about 90,000, since the loan had not been drawn down in full) and 60,000 in his bank account.
+it is at this point convenient to advert to the discussion before us as to the
+although toulson ljs example takes complete substitutions, no doubt for the sake of simplicity, the actual decision in the case was on what restitution scholars, following roman law, call a mixed substitution (see for instance foskett v mckeown [2001] 1 ac 102, 115f (lord hoffmann), 126g (lord millett)).
+there is no reason to restrict the language of section 80(3) to complete substitutions, since section 80(3)(c) in terms covers the case of partial representation.
+to do so would greatly restrict its operation.
+provided that adequate evidence is available, the section is to be given its natural meaning, which is (especially with the interpretative provision in section 84(2)(a)) quite wide.
+in this case the established facts are reasonably straightforward.
+it is absolutely clear that mr waya no longer had the chose in action originally obtained, and equally clear that some interest in the flat now represented that chose in action in his hands.
+but there are competing arguments as to (1) what that interest was and (2) how it was to be valued.
+import of two sections of poca, section 84(2)(b) and section 79(3).
+section 84(2)(b) is a general statement concerning property.
+it has a bearing on the question of what representing property was held by mr waya when confiscation came to be calculated.
+one question briefly raised was whether the combination of section 84(2)(b) with section 79(3) carries the meaning that if a person obtains by his crime a limited interest in an item of property, he thereby is to be treated as obtaining the whole item.
+it is quite apparent that this is not what section 84(2)(b) means.
+such a construction would ignore well understood concepts of concurrent interests in property, which are recognised by, inter alia, section 79(3).
+the potential confusion arises from the sometimes indiscriminate use of the word property to mean both (1) an interest and (2) the item itself, such as a racehorse or 13 acacia avenue.
+both the racehorse and the house in acacia avenue are very commonly held by several people with concurrent partial interests.
+what section 84(2)(b) plainly means is that if a person obtains a limited interest in an item of property, that limited interest is itself property which may fall accordingly to be counted as benefit.
+in the same way, section 84(2)(a) means that a person who holds an interest in property holds property for the purposes of poca.
+it follows that the representing property held by mr waya can perfectly well be a limited interest in the flat and does not have to be the whole flat.
+section 79(3) contains a general provision for valuation.
+if the defendant and another person both hold interests in the same property, then it is the value of the defendants limited interest which is to be taken for the purposes of calculating his benefit.
+contrary to some submissions made to us, it clearly applies both at the benefit calculation and at the assessment of realisable property stages.
+that was the conclusion correctly reached in r v rose [2008] 1 wlr 2113.
+rose was a relatively straightforward case in which the defendant had been found guilty on three counts of possession of criminal property under section 329 of poca.
+some of the stolen property (principally a lorry trailer and its load of alcoholic drink) had been restored to the owner, a brewery.
+but the alcoholic drink was no longer marketable, and some of the stolen property had not been restored at all.
+the confiscation order made was for little more than 8,000, although the market value of the stolen goods was over 27,000.
+the crown appealed, challenging the proposition that the property obtained was valueless, since legal title remained in the brewery.
+the logic of that proposition, as richards lj pointed out at para 38, was that instead of a confiscation order for about 8,000, there should have been no order at all.
+the judgment delivered by richards lj sets out a careful analysis of the provisions of the earlier legislation in this area, and the authorities on it.
+the court of appeal rejected the crowns subsidiary submission that section 79(3) applied only to the valuation of realisable assets (the last stage in the three stage statutory process).
+but the court acceded to one limb of the crowns primary argument, that is (para 87): . that the market value, within section 79(2), of property obtained by a thief or a handler is the amount it would have cost the defendant to obtain the property legitimately, or the economic value to the loser, rather than what the defendant could get for the property if he sold it (or, therefore, what he could get for his interest in the property if he sold that interest).
+that was the approach of the courts when applying section 74(5) of the [criminal justice act 1988]: see, most obviously, r v ascroft [2004] 1 cr app r (s) 326: paras 56 and 60 above.
+on that basis there is no need to consider the nature of the defendants interest in the property obtained or the market value of that interest: the focus is on the incoming value of the property, not the value of the property in his hands.
+the court considered that parliament did not intend to alter the outcome of ascroft, and that the restoration of stolen property to the owner was irrelevant.
+it added that r v johnson [1991] 2 qb 249 and r v walls [2003] 1 wlr 731 did not tell against this conclusion.
+the argument thus confronted in rose and also ventilated in this court is that section 79(3) means that in every valuation of property which had been stolen or obtained by deception, the interest of the true owner must be taken into account as reducing the value to the defendant.
+the same argument can be presented on the basis that a thief obtains no title to the stolen property, but at most a possessory interest good against third parties, and thus of no significant value.
+if the argument is good, the effect will be in most cases to reduce the value to the defendant of property obtained by acquisitive crime to nil, or to next to nothing, since almost every loser has the right to the restoration of such property.
+it is quite clear that section 79(3) cannot carry this meaning without wholly emasculating poca; such a construction is contrary to the whole purpose of the act and would mean that some of the most obvious examples of the proceeds of crime would be almost entirely removed from the calculation of benefit.
+this possible construction of section 79(3) is not necessary.
+what that section means is that lawfully co existing interests in property are to be valued individually.
+it does not mean that the losers right to recover the property from the thief, which is a claim totally to defeat anything the thief has obtained, is to be treated as a co existing partial interest for the very purpose of valuing what he has obtained.
+rose and ascroft are correct in holding that the measure of the value of the interest in property stolen to the thief, for the purposes of confiscation, is what it would cost him to acquire it in the open market.
+in the present case mr perry and lord pannick advanced an extension of this rose proposition.
+they contended that because the lender was the loser in the crime, its partial interest in the flat would be irrelevant to any valuation of the flat which had to be performed.
+thus, they contended, any valuation of mr waya's interest in the flat ought to ignore the mortgage held by the lender.
+that does not follow.
+section 79(3) plainly does apply to co existing legitimate partial interests.
+a mortgagee has such an interest.
+the fact that he is also the victim of the crime, and so could no doubt claim rescission of the loan, does not affect the fact that if the value of the flat has to be determined, what mr waya has is not an unencumbered flat, but a flat subject to the interest of the lender mortgagee.
+the victims right to rescission is not within s 79(3), but his quite separately existing mortgage interest is.
+what, then, was the property held by mr waya, after the completion of the purchase, which represented in his hands the chose in action which he had originally obtained? mr perry and lord pannick submitted that it was a 60% interest in the flat.
+that submission can be accepted so far as it goes, but it does not address the incidence of the mortgage.
+the property representing the original chose in action was a fractional part of mr wayas total interest in the flat, the fraction corresponding to the part of the original purchase price financed by the dishonestly obtained mortgage (that is, 60%).
+but fairness requires that the mortgage liability (deductable under section 79(3)) should be matched to this 60% interest, so that the benefit obtained by mr waya was initially nil.
+otherwise 60% of his untainted contribution of 310,000 would, irrationally, be treated as proceeds of crime.
+the interest which fairly represented his original chose in action was 60% of the open market value of the flat from time to time, less the whole of the mortgage liability (465,000).
+in other words it was 60% of any increase in the flat's market value over its acquisition price.
+that represents the reality of what he obtained from his crime and is, moreover, a proportionate order to make by way of confiscation, subject only to the re mortgage, considered below.
+so for example, if the confiscation day had occurred before the remortgage and if the flat had then been worth 1.2m, the value of the property obtained by mr waya as a result of his dishonesty would have been computed under section 80(2) and (3) as follows: 1,200,000 market value 465,000 mortgage ________ equity 735,000 original equity 310,000 ________ appreciation 425,000 60% thereof
+255,000
+this analysis may seem, at first sight, to be inconsistent with r v moulden [2004] ewca crim 2715, [2005] 1 cr app r (s) 121, but it is not.
+that was a case under the 1994 act in which the proceeds of drug trafficking had provided down payments on several properties, otherwise funded by mortgage lenders.
+the properties had greatly increased in value.
+in the judgment of the court of appeal given by stanley burnton j the court rejected the argument that the increase in value should be apportioned between the equity of redemption and the mortgage (para 25): in our judgment it is neither unjust nor surprising that where a property is bought with a relatively low down payment and a high mortgage and it increases in value, the benefit to the defendant is a sum which may be a multiple of the original deposit.
+that is because, subject to any interest payments, any mortgage remains unchanged by increases in market values, whereas the defendant has acquired the equity in the property, that is to say he has the property subject only to the mortgage.
+that appears to us to be plain on the wording of section 4 and having regard to the draconian purposes of the act.
+so where the down payment was tainted money, and gearing was obtained by the use of a mortgage, the court of appeal had no reason to depart from the entirely uncontroversial view that subject to the fixed sum of principal secured by the mortgage, the equity in the property, including the whole of any capital appreciation, belongs to the owner.
+the difference between the two cases is a factual one.
+a mortgage is a fixed liability which does not rise as the market rises.
+what the defendant in moulden had converted his criminal money into was the whole equity in the house, ie its full value less the fixed sum of the mortgage.
+what mr waya converted his criminal chose in action into was the proportion of the equity attributable to the mortgage loan, less that loan.
+vii the remortgage
+by the remortgage mr waya realised additional liquid funds of about 360,000 (after payment off of the original mortgage and the fee for early repayment).
+up to 150,000 of the 360,000 is assumed to have been spent on the flat and was no doubt reflected, to some extent, in its market value at the confiscation day.
+there is no evidence of what happened to the balance of 210,000.
+it cannot therefore be caught by section 80(3), since there are only two possible valuation dates that can be relevant: the date when property is first obtained, and the confiscation day.
+that is spelled out in section 80(2), together with the definition of material time in section 80(1).
+if this 210,000 were known still to be in the bank, or to have been converted into some other identifiable asset, then section 80(3)(b) would catch it, but there are no findings that either has occurred, rather than the money simply being consumed in living expenses.
+the statute does not provide for any assumption adverse to the defendant to be made on that point.
+we must assume (in toulson ljs homely phrase) that mr waya decided to consume the sweet.
+mr perry (para 126) disputes this analysis (again mr swift, paras 51 to 59, takes a rather different line).
+mr perry would apply an extended principle derived from rose to the remortgage as well as to the original mortgage.
+they supplement this submission by pointing out that otherwise ill gotten gains could easily be laundered, and the effectiveness of the confiscation regime undermined.
+that cannot however be a good reason for disregarding the reasonably plain terms of the statute.
+it is inherent in the scheme of section 80(3)(b) that it can operate only where the defendant still possesses the representing property.
+if he previously created it, and then liquidated it and spent the money, section 80(3)(b) cannot apply.
+in most cases (though not here) section 80(2)(a) will provide a satisfactory alternative basis for an order, and in some cases (though not here) money raised by a remortgage will be traceable into more valuable assets held at the confiscation day.
+viii repayment of principal
+the last complication to be raised is of little practical importance on the facts of this case, but it calls for mention because it may make more of a difference in other cases.
+it arises from the fact that at some time between the remortgage in april 2005 and the confiscation day (25 january 2008) mr waya paid off a relatively small part (23,400) of the principal sum secured by the remortgage.
+this payment is agreed to have been made out of untainted funds.
+once the repayment of capital was made, the representing property in the hands of mr waya was no longer 60% of the market value less mortgage and untainted contribution but was the lesser percentage which 465,000 less 23,400 yields.
+thus the effect of repayment of principal out of untainted funds is not to have the paradoxical effect of diminishing the section 79(3) deduction and so increasing the severity of the confiscation order.
+in this case, where the repayment was relatively small and seems to have been made at a time when most of the capital appreciation had already taken place, justice can be done by the simple adjustment of adding the amount of the repayment to the amount of the original down payment.
+but in the case of a long term instalment mortgage under which principal was repaid throughout the term, it might be more accurate (and fairer) to adjust the percentages of the original down payment and the original mortgage advance so that a smaller proportion of the capital appreciation is treated as benefit.
+elaborate and precise calculations would not be called for; in many cases experienced counsel would be able to agree on the appropriate adjustment and invite the judge to adopt it.
+ix the order to be made
+pulling together and summarising the reasoning set out above, we consider that the benefit obtained by mr waya from his criminal behaviour was a thing in action with no immediate market value.
+it was an item of property but it had a very short life, since on completion it immediately came to be represented by a fractional 60 per cent share of the leasehold interest in the flat, subject to (the whole of) the mortgage, with the remaining 40% representing the untainted contribution.
+in economic terms, his benefit was so much of any appreciation in value as was attributable to the mortgage obtained by his dishonesty.
+immediately after completion this value was nil, but as the market value of the flat increased the benefit came to have a significant value, that is 60 per cent of the appreciation in the net value of the flat, subject to the mortgage.
+on the facts of this case the amount raised and secured by the remortgage had three elements.
+the first, 465,000 plus the early repayment fee of 58,000, had no significant economic effect since it merely substituted one mortgage lender for another (possibly at a different rate of interest).
+no new, untainted money of mr waya was used to redeem the original mortgage.
+the next element, not exceeding 150,000 at most, was recycled into the flat and probably produced some increase, but not a pound for pound increase, in its market value.
+the third element, the balance, must be supposed to have been consumed in expenditure of one sort or another so as to fall outside the ambit of section 80(3).
+a small adjustment needs to be made for the repayment of the principal sum of 23,400.
+a computation in similar format to that at para 71 above produces these figures: 1,850,000 market value mortgage 862,000 ________ equity 987,400 original equity and 333,400 repayment ________ appreciation 654,000 392,400
+60% thereof
+we would therefore allow the appeal and substitute a confiscation order in the sum of 392,400.
+that is a substantial sum, but the order is not disproportionate.
+lord phillips and lord reed
+introduction
+by far the most important part of the majority judgment is contained in paragraphs 1 to 34.
+these paragraphs recognise that the provisions of poca are capable of operating in a manner that violates article 1 of the first protocol to the european convention on human rights (a1p1).
+they provide a remedy in that they hold that the judge can and must substitute a confiscation order that is proportionate for the confiscation order that would be produced by applying strictly the relevant provisions of poca, where this is disproportionate.
+we shall call this remedy by way of shorthand a1p1.
+the identification of a1p1 is novel and imaginative.
+it has the important effect of rendering poca compatible with the european convention on human rights.
+we both admire and endorse the careful reasoning and the conclusion of the majority in paragraphs 1 to 34 of their judgment.
+there is thus unanimity as to the most important part of the judgment.
+the part of the majority judgment from which we dissent is of limited significance, albeit of some complexity.
+it relates to the manner in which poca applies to a mortgage transaction.
+a1p1 requires the judge hearing an application for a confiscation order to adopt the following approach.
+first he must decide on the amount of the benefit that the defendant is deemed to have obtained from his crime by the application of the express provisions of poca (the poca benefit).
+secondly he must decide on the real benefit that the defendant has obtained from his crime (the real benefit).
+thirdly, where the poca benefit exceeds the real benefit, he must decide whether it is proportionate to base the confiscation order on the poca benefit.
+if it is not, he must make an order that is proportionate in place of the order based on the poca benefit.
+the majority have decided that, on the facts of this case, the poca benefit obtained by mr waya was the same as the real benefit that he obtained by his criminal conduct.
+there is, in consequence, no scope for the application of a1p1.
+the confiscation order must be made in the amount of the benefit obtained by mr waya from his criminal conduct, calculated in accordance with the express provisions of poca.
+we regret that we are fundamentally at odds with the majority in respect of this analysis.
+we do not agree with the conclusion of the majority as to the poca benefit.
+nor do we agree with the conclusion of the majority as to the real benefit that mr waya obtained from his crime.
+to explain why we differ from the majority requires a more detailed explanation than would normally be appropriate for a dissent from such a powerful majority.
+as, however, the court will have to return to poca when considering the appeal that is pending in r v ahmad [2012] ewca crim 391, we have decided that we should give a full explanation for our dissent.
+the analysis of the majority
+the analysis of the majority follows the following steps: i) the property initially obtained by mr waya was the bundle of contractual rights and liabilities to which mr waya was subject prior to completion (see paragraph 53). ii) these constituted a single chose in action (see paragraph 53). iii) the chose in action had no value (see paragraph 53). iv) after completion (and before the remortgage) the property that represented the original chose in action was (a) 60% of the open market value of the flat from time to time, less the mortgagees security interest of 465,000, or (b) 60% of the increase in the flats market value over its acquisition price (see paragraph 70) or (c) 60% of the increase in mr wayas equity in the flat (see paragraph 71), these being different ways of describing the same property. v) after the remortgage (and ignoring the repayment of principal) the property that represented the original chose in action was 60% of the increase in mr wayas equity in the flat (see paragraphs 74, 75 and 80). vi) on the facts of this case the repayment of principal can be reflected by adding the amount of the repayment to the original down payment (see paragraph 77). vii) the effect of regular repayments of principal under a long term mortgage should be dealt with by a notional adjustment to the original down payment and the original mortgage advance (see paragraph 77). viii) the poca benefit arrived at in accordance with the preceding steps was the same as the real benefit that mr waya obtained by his criminal behaviour, so that it was proportionate to base the confiscation order on the poca benefit.
+we have problems with each of these steps.
+we propose to explain these problems before setting out our own approach to this case.
+step (i): the property that mr waya initially obtained was the bundle of rights and
+liabilities to which he was subject prior to completion
+this starting point is the foundation of all that follows in the reasoning of the majority.
+it is a novel starting point.
+with one exception, all other decisions applying poca in the context of a mortgage transaction have treated the property initially obtained as the physical property purchased with, or with the aid of, the mortgage loan, not the contractual rights and obligations prior to the completion of the mortgage transaction.
+the exception is the approach of toulson lj in olupitan v director of the assets recovery agency [2008] ewca civ 104, a part 5 case, referred to by the majority at paragraph 47.
+the majority do not explain why they have chosen this novel starting point.
+their choice raises an important issue as the approach that should be adopted when applying poca to a contract procured by fraud.
+where a defendant by a fraudulent misrepresentation induces a third party (the victim) to enter into a contract that is subsequently performed, there are two possible ways of identifying the property initially obtained by the defendant as a result of or in connection with his criminal conduct for the purposes of section 76(4) of poca: (i) the defendants rights under the contract prior to its performance; (ii) the property obtained by the defendant upon performance of the contract. (i) and (ii) are not normally the same, nor can it normally be said that (ii) represents (i).
+when valuing the defendants rights under the contract it is necessary to take into account the consideration that he has agreed to provide under the contract whereas the value of the property that he obtains after the contract has been performed will not normally reflect the consideration provided.
+thus if a defendant fraudulently induces a lender to agree to make him a loan, the value of his rights and obligations under that agreement will reflect the consideration that the defendant has agreed to provide for the loan normally the obligation to pay interest and to provide security for that obligation.
+on completion the property obtained by the defendant will simply be the sum advanced by the lender.
+at paragraph 48 of their judgment the majority consider the position of a loan that is secured on property already owned by the defendant.
+in that situation they conclude that the property initially obtained is the sum advanced under the loan, not the bundle of rights and obligations under the antecedent contract.
+we understand that they adopt a different approach in this case because, under the bundle of rights and liabilities, the loan made to mr waya had to be used to purchase the property that secured it.
+we readily appreciate why this affects the analysis of the property obtained by mr waya on completion of the transaction.
+we do not understand why it makes it appropriate to treat the property initially obtained as the antecedent bundle of rights and liabilities, rather than the property obtained on completion.
+the approach adopted by the majority to the property initially obtained by mr waya has its attractions.
+it produces a result that approximates to the real benefit initially obtained by mr waya.
+as we shall explain, however, it is not possible after completion to identify property that fairly represented the antecedent bundle of rights and liabilities.
+the approach of the majority injects a complication into the application of poca that is at odds with the simple scheme of the act.
+we shall suggest in due course that, on the natural reading of the provisions of poca, the property initially obtained by mr waya as a result of or in connection with his [criminal] conduct was the flat, subject as it was to the mortgage.
+step (ii): the bundle of rights and liabilities constituted a single chose in action.
+step (iii): the chose in action had no value
+it is an over simplification to say that the bundle of rights and liabilities constituted a single chose in action.
+the bundle of rights and liabilities arose under two interlinked contracts, the purchase contract and the loan agreement.
+mr waya had a chose in action in relation to each: (i) the right to purchase the flat for 775,000; (ii) the right to require the lender to pay 60% of the purchase price of the flat.
+assuming that 775,000 was the market value of the flat, the first chose in action had no value.
+the same is not true of the second chose in action.
+the majority assume that mr waya obtained the loan on better terms than he would have obtained had he told the truth about his sources of income (paragraphs 41 and 42 above).
+they accept that this was a benefit in economic terms.
+a mortgage broker could, no doubt, put a value on this benefit.
+as explained below we consider that this was the real benefit that mr waya obtained from his criminal conduct.
+the majority at paragraph 53 say that the chose in action had no market value.
+in doing so they focus on the first chose in action and ignore the second.
+they disregard their earlier finding that the loan agreement had an economic benefit for mr waya.
+yet in the latter part of paragraph 53 they set out examples of other situations in which a loan agreement, ie the second chose in action, would have a value.
+these demonstrate that the real benefit that a defendant obtains from a mortgage transaction will vary, depending upon the particular facts of the case and the nature of the deception that he has perpetrated.
+what they do not support is the thesis that it is possible to identify, after completion of the transaction, property that represents the bundle of rights and liabilities that existed before completion, or that represents the real benefit derived by the defendant from the transaction.
+we do not believe that it is possible to do so in the present case.
+step (iv): after completion and until the remortgage, the chose in action was represented by (i) 60% of the market value of the flat less the mortgagees security interest of 465.000, or (ii) 60% of the increase in market value of the flat over its acquisition price or (iii) 60% of the increase in mr wayas equity in the flat, all
+three being the same thing
+paragraph 70 of the majority judgment represents perhaps the most critical step in their reasoning.
+we can summarise that reasoning as follows.
+because the loan was fully secured, the benefit that mr waya derived from it was not the amount of the advance, but the benefit derived from the use of the advance.
+the advance had to be used to purchase 60% of the flat and mr wayas benefit from the transaction was 60% of any increase in value of the flat, or of his equity in the flat, the two being the same.
+that was what mr waya was entitled to under the bundle of rights and liabilities that constituted the property that he initially obtained. 60% of the increase in value of the flat, or of his equity in the flat, was the property that represented the property that he originally obtained.
+we have already explained the first problem that we have with this analysis it ignores the economic benefit that mr waya obtained by securing the mortgage facility on better terms.
+our second problem, as explained below, is that we do not accept that it is correct to treat 60% of the increase in value of the flat, or of mr wayas equity in the flat, as the benefit that mr waya obtained from his criminal conduct.
+our fundamental problem with the approach of the majority is, however, that we do not consider that 60% of the open market value of the flat less the mortgage liability of 465,000 or 60% of any increase in the flats market value over its acquisition price, or 60% of the increase of mr wayas equity in the flat is, or can properly be said to be property, as defined by section 84 of poca or at all.
+these formulae do not even describe the value of an interest in property.
+they describe the increase in the value of an interest in property.
+the approach of the majority cannot be reconciled with the provisions of sections 79, 80 and 84 of poca, which govern the identification and valuation of property obtained by or in connection with criminal conduct.
+step (v): after the remortgage (and ignoring the repayment of principal) the chose
+in action was represented by 60% of the increase in mr wayas equity in the flat
+the majority deal with the effect of the remortgage at paragraphs 74, 75, 79 and 80 of their judgment.
+in paragraph 74 they treat the additional funds raised on the remortgage as falling in principle within the scope of section 80(3)(b), as property representing the original chose in action, notwithstanding the fact that they consider that the flat, on the security of which the funds were raised, cannot itself be treated in its entirety as having been obtained from criminal conduct.
+paragraph 75 considers and dismisses an argument advanced by the crown that the additional funds constituted further property obtained by mr waya by or in connection with his criminal conduct so as to increase the amount of the confiscation order, even though the additional funds had been dissipated by confiscation day.
+on this point we agree with the majority.
+paragraphs 79 and 80 disregard the use of funds raised by the remortgage to repay the original loan and to meet the early repayment fee, on the basis that no new, untainted money of mr waya was used to redeem the original mortgage.
+the implicit assumption is again that any funds obtained on the security of the flat are tainted, although only a proportion of the value of the flat represents, in the view of the majority, the property obtained by mr waya as a result of or in connection with criminal conduct.
+the majority judgment does not expressly provide a formula for arriving at the property representing the original chose in action that takes account of the remortgage.
+the formula that we have set out as representing step (v) is derived from the computation at paragraph 80 of the judgment, which the majority describe as a computation in similar format to that at step (iv).
+the formula is, however, no longer the same as 60% of the increase in the market value of the flat.
+that formula has to be abandoned in face of the requirement imposed by section 79(3) to have regard to the increase in the amount secured by the mortgage when valuing mr wayas interest in the flat.
+our principal objection to the formula adopted at step (v) is the same as our objection to the formula adopted at step (iv).
+it does not describe property or a proprietary interest.
+it describes the increase in value of a proprietary interest.
+step (vi): on the facts of this case the repayment of principal can be reflected by
+adding the amount of the repayment to the original down payment
+this conclusion of the majority is set out in paragraph 77 of their judgment.
+it is tantamount to saying that because the repayment was made late in the day and was of a relatively small amount, 23,400, its effect can be reflected by making a pound for pound reduction from the confiscation order of 60% of the sum repaid.
+this robust approach sidesteps the problem of how to apply the formula that immediately precedes it: once repayment of capital was made, the representing property in the hands of mr waya was no longer 60% of the market value less the mortgage and untainted contribution but was the lesser percentage which 465,000 less 23,400 yields.
+on the face of it this formula would seem to have the result that mr waya could have reduced the value of the representing property held by him to nil by repaying the entire loan on the day before confiscation day.
+step (vii): the effect of regular repayments of principal under a long term mortgage should be dealt with by a notional adjustment to the original down
+payment and the original mortgage advance
+this proposition is set out in the latter part of paragraph 77 of the majority judgment.
+as we understand this, the notional adjustment would have to be made each time a repayment was made.
+an ever decreasing proportion of the increase in the value of the flat would be treated as benefit derived from mr wayas criminal conduct, to be added to the previous increases in value which qualified as benefit derived from the criminal conduct.
+the task of computing on confiscation day the value of the benefit derived by mr waya from his criminal conduct would be near impossible, which is no doubt why the majority state, somewhat optimistically, that elaborate and precise calculations would not be called for because experienced counsel would in many cases be able to agree upon an appropriate adjustment.
+whatever the final figure agreed upon in the way suggested, we do not see how it could be described as property held by mr waya on confiscation day that represented the chose in action that he initially obtained.
+step (viii): the poca benefit, calculated in accordance with the preceding steps, was the same as the real benefit obtained by mr wayas criminal conduct so that
+the confiscation order based upon it was proportionate
+we shall explain why we disagree with this proposition when we come to consider the real benefit obtained by mr waya as a result of his criminal conduct.
+first, however, we propose to set out our conclusions as to how the provisions of poca apply in the case of mr waya.
+our analysis
+once it is recognised that the judge has a1p1 at his disposal to deal with any disproportionate effect of poca, it is no longer necessary, or desirable, to depart from the natural meaning and effect of the provisions of poca in an attempt to avoid an unfair result.
+the earlier cases on mortgage transactions cease to provide a foundation upon which to build.
+this is as well, for those cases do not provide a consistent approach.
+the approach of the majority certainly does not purport to found on the previous cases that deal with mortgage transactions.
+the property initially obtained by mr waya
+we understand it to be the view of the majority that where a contract is induced by the fraud of a defendant the property obtained by the defendant under that contract will normally constitute the property obtained as a result of or in connection with the defendants criminal conduct, within the meaning of section 76(4) of poca.
+we agree with this analysis.
+it gives the words of section 76(4) their natural meaning.
+we can see no justification in the present case for treating as the property initially obtained the rights and liabilities under the two linked contracts, rather than the property held by mr waya after the simultaneous performance of those contracts.
+we agree with the majority, for the reasons set out at length in paragraphs 48 to 52 of their judgment, that the property initially obtained by mr waya was not the advance of 465,000.
+mr waya never obtained that sum.
+it was paid by the lender to the vendor as part of the simultaneous performance of the two contracts.
+there is no doubt as to the property held by mr waya after the performance of the two linked contracts.
+it was the flat, which was subject to the mortgage.
+we consider that on the natural meaning of section 76(4) the entire flat was obtained as a result of or in connection with mr wayas criminal conduct, or at least constituted property obtained in that connection and some other section 76(6).
+the flat was, of course, also obtained as a result of or in connection with mr wayas contribution of 40% of the purchase price, but that does not take the flat outside the wording of section 76(4) and 76(6).
+if poca treats the whole flat as property obtained as a result of or in connection with mr wayas criminal conduct, notwithstanding that he contributed 40% to the purchase price, the result is unfair and disproportionate.
+the temptation is to disregard the broad reach of the wording of section 76(4) and (6) and hold that only 60% of the flat was property obtained by mr waya as a result of or in connection with his criminal conduct.
+we were initially tempted to adopt this course.
+unfortunately it only mitigates but does not resolve the unfairness that results from the application of the provisions of poca, as the majority have identified in paragraph 70 of their judgment.
+attempting to avoid this unfairness has led the majority to adopt the complex series of steps that we believe, for the reasons that we have given, are not compatible with the provisions of poca.
+we have concluded that the better course is to recognise that poca will often produce a disproportionate result when applied to property obtained under a contract induced by fraud.
+the provisions of poca are simple to apply when accorded their natural meaning, and they should be applied in accordance with that meaning.
+where this produces a disproportionate result, the judge should tailor the confiscation order so as to produce a result which is proportionate.
+this is an easier task, and one that has greater flexibility, than the task of following the steps that the majority have held must be taken in order to comply with the requirements of poca.
+thus we would hold that the property initially obtained by mr waya as a result of his criminal conduct was the flat.
+as the majority have observed at paragraph 46, this accords with the analysis in the early cases of re k and r v layode, where the courts simply applied the natural meaning of property obtained as a result of or in connection with the commission of an offence language preserved in section 76(4) of poca.
+the value of the property initially obtained
+the flat was, when obtained by mr waya, subject to the mortgage.
+this situation is covered by section 79(3).
+the value of the flat in relation to mr waya was the market value of his interest, which some would describe by way of shorthand as his equity in the flat.
+this can be calculated by deducting the amount of the mortgage, 465,000, from the market value of the flat, 775,000, producing a value of 310,000.
+that value was wholly attributable to mr wayas contribution of 310,000 to the purchase price of the flat.
+the provisions of poca give him no credit for this.
+to base a confiscation order upon it would be disproportionate.
+a1p1 provides the judge with the necessary power to defeat any attempt by the prosecution to produce such a result.
+the effect of the remortage
+by the time of the remortgage the flat had increased in market value.
+the remortgage increased the amount secured on the flat.
+this diminished the value of mr wayas interest in the flat, and thus its value in relation to him, by reason of the application of section 79(3).
+the fact that this diminution was attributable to mr waya, in effect, drawing down part of his interest in the flat did not affect the process of valuing the flat held by him.
+it is arguable, however, that the additional funds drawn down represented in mr wayas hands part of the original property obtained by mr waya so that they fell within the provisions of section 80(3)(c) of poca.
+the additional funds were, however, no longer in the hands of mr waya on confiscation day, so they vanish from the picture.
+the majority correctly so hold at paragraph 75 of their judgment.
+the effect of the repayment of principal
+section 79(3) is of general application.
+it provides a simple and rational method of calculating the value to a defendant of property held by him that is subject to a charge.
+it pays no regard to the reason for the charge.
+the effect of paying off part of the principal secured by a mortgage is to reduce the amount secured by the mortgage and to increase the value of the property held in relation to the defendant.
+the more that the defendant repays the greater the confiscation order.
+this result is paradoxical, but underlines the fact that the provisions of poca are capable of producing an unfair result when applied to a mortgage transaction.
+a1p1 provides the answer to this.
+the confiscation order according to poca
+calculation of mr wayas benefit on confiscation day, and thus the amount of the confiscation order, poses no problem.
+the market value of the flat had more than doubled to 1,850,000.
+the amount of the mortgage was 862,600.
+applying section 79(3), mr wayas benefit was the difference between the two, namely 987,400.
+that is the amount of the confiscation order that follows from the application of the express provisions of poca.
+on any view this needs to be adjusted under a1p1 to reflect the fact that part of this benefit was attributable to the 40% contribution to the cost of the flat that was made by mr waya out of untainted funds.
+we turn to consider the real benefit obtained by mr waya from his criminal conduct.
+the real benefit obtained by mr waya
+while on our analysis the determination of the poca benefit is easily achieved, the more difficult problem for the confiscating judge is to determine the real benefit derived by a defendant from a mortgage fraud.
+it may be appropriate to apply a broad brush to this task.
+the majority consider that any increase in value of that portion of the property purchased with the mortgage loan will normally constitute benefit obtained by the defendant as a result of his criminal conduct and that it will be proportionate to base the confiscation order on this (see paragraph 35).
+we do not agree.
+the real benefit obtained by a mortgage fraud will depend on the nature of the fraud and may involve the application of principles of causation for a discussion of these in the context of the assessment of damages for misrepresentation in relation to a mortgage transaction see banque bruxelles lambert sa v eagle star insurance co ltd [1997] ac 191.
+in the second part of paragraph 53 the majority consider different types of mortgage fraud.
+the facts of the present case are so extreme that there is no need to embark on the task of attempting to define the value of the benefit obtained by the defendant in each of these examples.
+we will restrict ourselves to some general observations.
+a normal mortgage agreement is one under which the lender provides the borrower with the use of a sum of money to purchase realty.
+the primary consideration that the borrower provides for the use of the lenders money is the interest that he agrees to pay.
+the lender has decided to use his money to produce income rather than, for example, to speculate on the property market.
+a defendant who, by a misrepresentation, induces the lender to make a loan that he would not otherwise have made, or to make a larger loan than he would otherwise have made, is not in the same position, and does not obtain the same benefit, as a defendant who, by a misrepresentation, induces the lender to make a loan on more favourable terms than he would otherwise have demanded.
+and a defendant who uses tainted funds to pay the interest due under the mortgage agreement obtains a greater benefit from his criminal conduct than a defendant who pays for the use of the lenders money with clean funds.
+it cannot be right to proceed on the basis that in each of these cases the benefit obtained by the defendant is the same, namely the increase in value of the property that he purchases with the money he has borrowed.
+we turn to the facts relating to mr waya.
+the majority have referred to the remarks of the sentencing judge, his honour judge elwin.
+these recorded that, in filling out the application form for the mortgage mr waya misrepresented the source of his income.
+the judge continued: the lender suffered no loss, indeed as the loan was redeemed early it made a profit of 58,000.
+by their verdict the jury plainly and surely concluded that you knew that the employment details entered on the form were false; you nevertheless signed it.
+whether you were responsible for the collection and collation of the supporting documentation is far from clear.
+there was no false valuation, and the probability is that if you had been open and honest with the lender the loan would have been granted anyway.
+it may well also have been the case that you left almost everything to others (our emphasis).
+in the light of these remarks it cannot be right to proceed on the basis that if mr waya had not made a misrepresentation about his income he would not have obtained the finance that he needed.
+the majority are right at paragraph 41 to summarise the benefit he obtained from his dishonesty as obtaining credit on terms which might not otherwise have been available.
+mr waya provided 40% of the cost of the flat and thus took upon himself the risk that its value might fall to that extent.
+realistically the lenders money was never at risk.
+mr waya paid the interest due under the mortgage agreement out of clean funds.
+he then discharged the first mortgage out of funds raised by remortgaging the flat.
+he was guilty of no dishonesty in obtaining the second mortgage he was charged but acquitted of obtaining this by deception.
+in circumstances where the remortgage was honestly obtained, and in which the property over which it was secured was not the real benefit obtained by the initial mortgage fraud, we do not think it right to treat the funds raised on the remortgage as tainted monies.
+it seems to us that the only benefit that mr waya obtained by his dishonesty was that the terms of the loan advanced to him may have been somewhat more generous than they would have been had he told the truth about his income.
+a confiscation order in the value of that benefit would plainly be proportionate.
+that, in effect, would make him pay the price that he should have paid for the finance that he obtained.
+but having achieved this, it would, we suggest, plainly be unjust and disproportionate to deprive him of the benefit that he obtained by the use of the money for which he had paid.
+it would be even more unjust to disregard the fact that mr waya redeemed the mortgage with funds acquired without dishonesty.
+in these circumstances we cannot accept that the real benefit that mr waya obtained by his dishonesty was any part of the increase in value of the flat.
+the real benefit was no more than the money value of obtaining his financing on better terms than might otherwise have been available.
+to base the confiscation order on the increase in value of the flat would be disproportionate.
+for this reason we consider that the judge should have applied a1p1 and reduced the confiscation order to reflect the modest benefit that mr waya may have enjoyed of obtaining the mortgage on better terms.
+in theory the case could be remitted for determination of that benefit.
+but after the time that has elapsed and the stress that these proceedings must have involved for mr waya, we would not think it just to adopt that course.
+we would simply allow this appeal and quash the confiscation order.

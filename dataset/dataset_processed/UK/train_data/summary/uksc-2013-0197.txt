@@ -1,0 +1,41 @@
+normally, when a car distributor buys a demonstrator car from the manufacturer, it pays vat on the full wholesale price (input tax).
+then, when it eventually sells the car to a customer, it collects vat on the full retail price (output tax).
+it accounts to hmrc for the output tax it has collected less the input tax it has paid.
+the pendragon group, the largest car sales group in europe, used a scheme devised by kpmg to reduce its vat liability on two occasions in late 2000 and early 2001.
+the kpmg scheme exploited three exceptions to the normal incidence of vat so that pendragon would only have to account for vat in respect of the difference between the wholesale purchase price and the retail sale price of its demonstrator cars.
+the scheme worked as follows.
+step 1: pendragon bought cars from a wholesaler, then sold them to four captive leasing companies (clcs).
+pendragon paid input tax on the wholesale purchase price but recovered it by accounting for output tax received when the cars were sold to the clcs.
+step 2: the clcs immediately leased the cars to pendragon dealerships.
+the clcs paid input tax on the purchase of the cars from pendragon but recovered it by accounting for output tax paid by the pendragon dealerships on their rental payments under the leases.
+step 3: the clcs then assigned the leases and their title in the cars to the offshore bank soc gen jersey (sgj).
+they received approximately 20m (financed by sg london, which received a further assignment of the assets as security).
+the assignment to an offshore bank was not a supply for vat purposes and so no vat was payable.
+step 4: some 30 to 45 days later, sgj transferred as a going concern the lease agreements and title in the cars to captive co 5.
+it also sold as a business the hire of cars said to have been carried on by sgj.
+the total consideration exceeded 18m, with 100,000 in respect of goodwill.
+the sale of the business as a going concern was not a supply for vat purposes and so no vat was payable.
+step 5: the demonstrator cars were sold to customers by the dealerships, acting as agents for captive co 5.
+customers paid vat only on captive co 5s profit on the sale, rather than on the total sale price, under the profit margin scheme, which is available under domestic law where the goods were acquired as part of a business transferred as a going concern.
+it is common ground that the scheme technically worked, in that the transactions at steps 3 and 4 satisfied the conditions for exemption from vat, and the transaction at step 5 satisfied the conditions for the application of the margin scheme.
+however, vat is an eu tax (governed at the time by the sixth directive) and subject to the eu law principle of abuse of law.
+the first tier tribunal held that the scheme was not abusive.
+the upper tier tribunal held that it was.
+the court of appeal restored the decision of the first tier tribunal.
+hmrc now appeals to the supreme court.
+it argues that the scheme was abusive and that pendragon should have to pay to it the vat avoided under the scheme.
+the supreme court unanimously allows the appeal and holds that the scheme was abusive.
+lord sumption, with whom all members of the court agree, gives the leading judgment.
+lord carnwath adds further comments on the role of the upper tribunal.
+in halifax plc v customs and excise commissioners (case c 255/02) [2006] stc 919, the grand chamber said that, in the sphere of vat, an abusive practice can be found to exist only if two conditions are met. [7] the first condition is that it must be shown that the transactions concerned result in a tax advantage which would be contrary to the purpose of the conditions laid down in the relevant eu directive and implementing national legislation.
+one must assume that it is the purpose of the vat directives to accommodate normal commercial transactions. [11] this condition is satisfied.
+the purpose of vat is to tax consumption.
+the direct purpose of the margin scheme is to grant relief to traders who have acquired goods from a supplier who had no right to deduct input tax in respect of their own acquisition of them.
+the indirect purpose of the margin scheme is thereby to avoid double taxation, since second hand goods may already have been the subject of a net vat charge at some earlier stage in their history. [14 20] in this case, a system designed to prevent double taxation has been exploited so as to prevent any taxation at all. [30] the fact that the margin scheme will sometimes apply in cases where there was no earlier net vat charge is simply the consequence of designing a workable scheme. [22 23] even if the margin scheme is made available by domestic rather than eu law, the underlying purpose of the margin scheme remains the same, and general principles of eu law, including the abuse of law principle, still apply; in any event, it must have been intended that the abuse of law principle should apply even as a matter of english domestic law. [24 29] the second condition is that it must be objectively apparent that the essential aim of the transactions is to obtain a tax advantage.
+even if a transaction has a legitimate commercial purpose, it is open to challenge if the accrual of a tax advantage constitutes its principal aim. [12] the scheme should be assessed as a whole. [13] this condition is also satisfied.
+it is not in itself objectionable that pendragon chose to enter into a transaction with an offshore bank.
+however, it was essential to the scheme that captive co 5 acquire the cars as part of a business as a going concern, and for that to be possible, it was essential that the transferor of the business have acquired the cars by assignment.
+these steps were manifestly included for the sole purpose of reducing vat liability. [31 34] abusive transactions must be redefined so as to re establish the situation which would have prevailed absent the abusive practice. [8] this transaction should be redefined by stripping out the five captive companies, so that the dealerships will be accountable for vat on the full second hand price. [41 42] the court of appeal held that the upper tribunal exceeded its proper appellate role by substituting its own decision for a decision of the first tier tribunal based on an evaluation of competing factors.
+in lord sumptions opinion, the upper tribunal was entitled to intervene because the first tier tribunal erred in law. [35 40] lord carnwath adds that the tribunals, courts and enforcement act 2007 now provides that, where the upper tribunal finds that the first tier tribunal has erred in law, it may itself remake the decision, including by making further findings of fact.
+it was appropriate for the upper tribunal to do so in this case in order to give guidance on the abuse principle.
+it was their decision rather than that of the first tier tribunal which should have been the main focus of the court of appeals consideration. [44 51]

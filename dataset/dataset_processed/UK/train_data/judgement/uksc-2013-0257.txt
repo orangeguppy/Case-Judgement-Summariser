@@ -1,0 +1,193 @@
+the narrow question raised by this appeal is whether, during the period 1 october 2002 to 5 december 2005, the takings on a particular category of machines (the disputed machines) operated by the appellants (rank) were subject to vat.
+the answer depends on whether the takings resulted from the provision of a gaming machine as defined in note (3), more particularly whether for the purposes of that definition the element of chance in the game was provided by means of the machine.
+if not, the takings were exempt.
+the question comes to this court by a somewhat oblique route.
+on 21 december 2005 rank made a substantial claim for repayment of tax (a net figure of more than 25m) for that period.
+that was on the basis of differences between the treatment between takings from the disputed machines, assuming they were exempt, and those from other similar machines which were taxable, thereby infringing the eu law principle of fiscal neutrality.
+the long and complex procedural history by which that claim has been litigated in the domestic and european tribunals and courts was sufficiently summarised by rimer lj in the court of appeal (paras 5 8, 50 52), and need not be repeated.
+the court of appeal answered the present question in favour of hmrc.
+rank appeals with permission of this court.
+the disputed machines
+the disputed machines were all slot machines used for gaming.
+traditionally such machines are coin operated, with three or more mechanical or video reels which spin when a button is pressed or, in the case of older machines, when a handle is pulled.
+the machine typically pays out according to the patterns or symbols on the machine when it stops.
+the basic form of the machines is sufficiently described in the agreed statement of facts, based on the findings of the vat and duties tribunal: the hardware of a slot machine consists of a cabinet containing the electronic control board, power supply coin insert and pay out mechanisms, reels and/or video screens and cashboxes.
+the electronic control board is an embedded microprocessor control system that generates the winning and losing games and displays the results to the player via the reels, lamp displays or video screens.
+the machines software is a list of instructions that the processor executes in order to generate the winning or losing games.
+such software is controlled either by embedded software that is controlled or random or by a remote random number generator.
+rng (for random number generator) is used to describe the system for producing numbers for the machine's software, whether the system is embedded in that software or provided by means of another device.
+as is apparent from that description, and was explained in evidence, modern machines are entirely computerised: in modern slot machines, the reels and lever are present for historical and entertainment reasons only.
+the positions the reels will come to rest on are chosen by an embedded rng contained within the machines software.
+the rng is constantly generating random numbers, at a rate of hundreds or maybe thousands per second.
+as soon as the lever is pulled or the play button is pressed, the most recent random number is used to determine the result.
+this means that the result varies depending on exactly when the game is played.
+a fraction of a second earlier or later, and the result would be different. (quoted by rimer lj, para 26)
+much evidence was given about the development from the 1960s of different forms of gaming equipment, including for example bingo machines and fixed odds betting terminals, and in particular the development of different forms of rng.
+this evidence was illustrated by photographs of different types of system from commercial brochures of the time.
+the evidence was described at some length by rimer lj, and again it is unnecessary to repeat it.
+for present purposes the significant points are the development, and (from the late 1970s) the commercial use, of rngs in conjunction with different types of gaming equipment; and from about 2003 the development of multi machine products, with a single rng serving a number of playing terminals.
+as rimer lj noted (para 24) it has always been common ground that the definition of gaming machine in note (3) is satisfied by at least one form of slot machine: that is the type of machine in which the element of chance was provided by an electronic or mechanical component within, and forming an integral part of, the body of the machine.
+the debate before the tribunal turned on the treatment of different forms of system using rngs, either single terminal rngs or multi terminal rngs.
+as rimer lj explained (paras 31 35) the tribunal made findings on certain forms of single terminal rngs.
+they included rngs hanging by a wire from the terminal, or velcroed to the wall directly behind the machine or screwed to the wall (rimer ljs category 1); or contained in a separate plinth on which the terminal stood, and linked to the terminal by a wire passing through a hole in the bottom of the terminal cabinet (category 2).
+the tribunal concluded (paras 54 56; summary of conclusions para 2) that terminals constructed with dedicated rngs were gaming machines within note (3) where the rng was used with the machine whether or not the rng had been detached, although they observed that the position might have been different if the cable could be unplugged, the rng did have an independent power source and was ordered and supplied separately (para 55).
+the machines in issue in the present appeal are all multi terminal systems.
+as rimer lj explained (paras 36 39) the evidence referred to three different types of system (his categories 3(a) to (c)), but the differences are not material for present purposes.
+it seems that in each case the rng was connected by a wire to the playing terminals, but had its own power supply, and it might be housed in a separate box or hung on the wall.
+up to six terminals might be served by a single remote rng.
+further, according to evidence summarised in the agreed statement of facts (para 20), each terminal was designed to be used with the rng obtained from the manufacturer of the terminal, the terminals and rngs were sold together, and each rng was manufacturer specific so that a replacement if needed would have be obtained from the same manufacturer.
+though linked to a single rng, each terminal could be operated independently and could offer the same or different games as the operator wished.
+the legislation
+the finance act 1972, which introduced vat to the united kingdom, provided in schedule 5 for certain exemptions.
+they included group 4 betting, gaming and lotteries, defined in these terms: item no. 1.
+the provision of any facilities for the placing of bets or the playing of any games of chance. 2.
+the granting of a right to take part in a lottery.
+the general effect of this provision, which remained unamended until 1 november 1975, was to exempt from vat the takings of all machines used for gaming.
+note (1) to item 1 made three exclusions (a), (b) and (c) not relevant to the present dispute.
+note (2) provided that game of chance had the same meaning as in the gaming act 1968.
+with effect from 1 november 1975 the notes to item 1 were amended by the value added tax (betting, gaming and lotteries) order 1975 (the 1975 order), subsequently consolidated into the value added tax (consolidation) order 1976 (si 1976/128).
+by a new paragraph (d) to note (1), it was provided that item 1 would not apply to the provision of a gaming machine, that term being defined by note (4): (4) gaming machine means a machine in respect of which the following conditions are satisfied, namely it is constructed or adapted for playing a game of chance (a) by means of it; and (b) a player pays to play the machine (except where he has an opportunity to play payment free as the result of having previously played successfully), either by inserting a coin or token into the machine or in some other way; and (c) of the machine. the element of chance in the game is provided by means it is common ground that the disputed machines fall within (a) and (b) of the definition, the area of disagreement being confined to (c).
+subject to minor amendments, including that what had previously been note (4) became note (3), the exemption and the exclusions remained unchanged until 6 december 2005.
+with effect from that date, note (3) was amended by article 2 of the value added tax (betting, gaming and lotteries) order 2005 (si 2005/3328) in a way which left no doubt that takings from the disputed machines were thenceforth taxable.
+gaming act comparisons
+the concept of an element of chance provided by means of the machine can be traced back to part iii of the gaming act 1968, which applied to gaming by means of machines.
+for this purpose, section 52 defined machine as including any apparatus.
+section 26 provided, so far as material: 26 (1) this part of this act applies to any machine which (a) is constructed or adapted for playing a game of chance by means of the machine, and (b) has a slot or other aperture for the insertion of money or moneys worth in the form of cash or tokens. (2) in the preceding subsection the reference to playing a game of chance by means of a machine includes playing a game of chance partly by means of a machine and partly by other means if (but only if) the element of chance in the game is provided by means of the machine. (emphasis added) the significance of the definition in that context was in identifying the different forms of regulatory control to be applied.
+part ii of the 1968 act applied to gaming on licensed premises, other than gaming by means of a machine to which part iii applied.
+section 21 provided for the regulation of machines not falling within the part iii definition; hence the expression section 21 machines, used in the evidence and the judgments below.
+by contrast, the main regulatory provisions for part iii machines were in sections 31 to 34 of the act.
+the appellants place reliance in particular on section 31, which contained restrictions on the use of such part iii machines on premises licensed or registered for the purpose.
+section 31(2) and (3), as originally enacted, provided: (2) not more than two machines to which this part of this act applies shall be made available for gaming on those premises. (3) the charge for play for playing a game once by means of any such machine on the premises shall be a coin or coins inserted in the machine of an amount not exceeding (or, if more than one, not in the aggregate exceeding) one shilling or such other sum as may be specified in an order made by the secretary of state for the purposes of this subsection.
+reference has also been made to section 37(1) which gives the secretary of state a general power to impose such restrictions as he may consider necessary or expedient on the sale, supply ,maintenance or use of machines to which part iii applies.
+there was substantial evidence before the tribunal and the courts discussing the treatment (not always consistent) of various categories of machine by the regulatory authorities under the 1968 act at different times.
+there was evidence of guidance issued by hmrc which related the tax treatment of different forms of equipment to its treatment under the 1968 act.
+for example, guidance issued in january 2005 proceeded on the basis that section 21 gaming terminals were not gaming machines, as defined for either regulatory or tax purposes, because the element of chance is not provided by the terminals themselves but by a rng which is outside the machine.
+that stance is clearly inconsistent with the position taken by hmrc in the present appeal, but it is not suggested that this is in any way determinative.
+some help as to the meaning of the critical expression as understood in the mid 1970s, when the exclusion was drafted, can be taken from the well known description by lord denning mr of games of prize bingo in r v herrod, ex p leeds city district council [1976] 1 qb 540, p 558d h: i expect that everybody knows ordinary bingo.
+it is played at bazaars, sales of work, and so forth, for small prizes and is perfectly lawful.
+now prize bingo is like ordinary bingo, but played with sophisticated apparatus.
+instead of cards with numbers on them, there are dials facing the players.
+a player puts in a coin (5p for two cards).
+thereupon two dials light up showing numbers corresponding to two cards.
+when the game starts, instead of someone drawing a number out of a hat, a machine throws a ball into the air.
+a gaily dressed lady plucks one of them and calls out the number.
+if it is one of the numbers on the dial, the player crosses it out by pulling a cover over it.
+if he gets all his numbers crossed out correctly before the other players, he gets a prize.
+this is obviously a lottery or a game of chance, but it is not a gaming machine because the element of chance is not provided by means of the machine but by means of the gay lady: see section 26(2) of the gaming act 1968. 15.
+in some of these premises there are also some one armed bandits.
+these are gaming machines.
+the player puts in a coin.
+this enables him to pull a handle to forecast a result.
+cylinders revolve and give an answer.
+if he succeeds, he gets the winnings.
+if he fails, he loses his money.
+this is undoubtedly a gaming machine because the element of chance is provided by means of a machine: see section 26(1) of the act of 1968 the contrast there drawn is between an element of chance provided by machinery within the device itself, and one provided by an outside agency of some kind.
+that approach may have been readily applied to the relatively simple types of equipment then in use.
+however, it is of little assistance in applying the statutory words to the more sophisticated forms of gaming device later developed.
+the decisions below and the arguments on the appeal
+it is not in dispute that in respect of all the potential comparators, whether multi terminal or single terminal, the element of chance was provided by the rng.
+in the case of slot machines it is clear that the machine to which note (3)(b) refers was the terminal into which the coins or tokens were inserted.
+if the conditions in (b) and (c) were both to be satisfied both the terminal and the rng had to refer to the same machine.
+the use of the definite article before the word machine in (b) and (c) makes this clear.
+indeed condition (a) had to be satisfied also.
+where the rng was situated inside the terminal so as to be an integral part of it, we have no doubt that the rng and the terminal formed part of a single machine 53.
+where the rng was situated outside the terminal and served a number of terminals we conclude that the terminals were not gaming machines because the rng was not part of any terminal and the element of chance was not provided by means of the machine containing the slot.
+we do not consider that the language of note (3) was apt to cover a series of terminals linked to one rng.
+the result is that by reason of note (1)(d) to group 4 the provision of gaming facilities by multi terminal products was exempt as a matter of law.
+in the high court norris j agreed with their approach.
+he said: the argument proceeded on the footing that the element of chance had to be provided by the machine and the problem lay in identifying the machine.
+the element of chance is the determining event which governs the outcome of the game being played on the machine which has the slot in it and which the player is playing.
+where the determining event is a random number there is i think no difference in principle between a human being selecting a numbered ball, an electric ball shuffler (such as that used in the national lottery) producing a numbered ball or a microprocessor emitting a stream of numbers.
+it is a question of fact in each case whether that determining event is produced by the machine, and fine distinctions might have to be drawn.
+in my judgment the principle by reference to which those judgments have to be made is whether the outcome of the game may sensibly be regarded as determined by an external event which the machine records or is produced by the machine itself.
+like the tribunal i would hold that the random generation of a number in a separate unit which serves various player terminals (which may themselves be running different games) is properly regarded as an external event and not one produced by the machine that the player is playing.
+like the tribunal i do not think it is possible to elaborate further. (para 67) 16.
+he had earlier rejected the suggestion that the machine might include both terminals and the rng as conflicting with the statutory restriction on numbers: the regulatory context helps me to decide that the argument that the machine is the system of terminals linked to a common rng is wrong (because it would effectively mean that the restrictions on numbers of machines on any given premises for which part iii provides would be meaningless since the restriction would relate to the rng in each system, to which vast numbers of playing terminals could be linked). (para 63) 17.
+the court of appeal disagreed.
+rimer lj attached weight to considerations related to the scope of part iii of the gaming act 1968.
+it cannot, he thought, have been the purpose of part iii to confine its control to equipment comprised in a self contained single unit or terminal and to exclude from such control two separate, but linked, items of equipment that together perform an identical function (para 76).
+he had earlier (para 67) noted without comment the argument that a broader construction would cause difficulties for the purpose of the limits on numbers of machines under section 31(2), and the response (given by mr peretz for hmrc) that the problem could be met by use of the secretary of states general regulatory powers under section 37. 18.
+he concluded that such a narrow, literal construction would lead to absurdity: 77.
+that cannot be the correct construction of the word machine.
+the word must, if the language of part iii is to be given a sensible and practical effect that will enable it to achieve its obvious purpose, be interpreted as including equipment ancillary, and connected, to the playing terminal that automatically provides the element of chance that determines the outcome of the game played on the terminal if this is right, it follows in my view, and for like reasons, that 79. a purpose built system comprising a terminal with a separate, but connected, rng is also properly characterised as a machine.
+the terminal cannot be used for gaming purposes except by being linked to the rng; and the rng is designed to be linked to the terminal in order to enable the game to be played.
+again, no doubt they constitute two separate items of equipment; but to treat the terminal as a separate machine in considering the impact or otherwise of part iii is unrealistic.
+they are being used together for the purpose of playing a game on the terminal and the rng forms an essential element of the system.
+if right so far, i also do not understand why the multi terminal 80. systems should be treated any differently.
+the fact that there is only one rng serving several terminals cannot make a material difference.
+in substance, the systems are exactly the same as in both previous configurations.
+by like reasoning, i cannot see why each terminal and the single rng do not together constitute a machine within section 26.
+that is the substance of any such multi terminal system; and it is the substance of the matter that counts. 19.
+having reached that view in respect of the gaming act definition he saw no reason to take a different view in respect of note (3).
+there again he rejected a narrow, literal reading which would reduce vat on gaming machines to a voluntary tax, since tax could be avoided by a simple re design of the playing equipment, whilst leaving its essential function unchanged. (para 82) 20.
+in this court the appellants have supported the reasoning of the tribunal, which as a multifactorial assessment based on a number of primary facts should have been respected by the appellate courts (procter & gamble uk v revenue and customs comrs [2009] ewca civ 407, [2009] stc 1990 para 9ff).
+the court of appeal were wrong to think that the narrow construction deprived the definition of sensible meaning, for regulatory or tax purposes, a position never previously taken by the gaming board or hmrc.
+it is not possible to identify any specific regulatory purpose which would justify a departure from the ordinary meaning of the words.
+absent an abusive practice (as explained in halifax plc v customs & excise comrs (case c 255/02) [2006] ch 387, [2006] stc 919) the operators were entitled to design their machines in the most tax efficient way. 21.
+the respondents in turn support the reasoning of the court of appeal, relying on a purposive construction, and like them taking account of the gaming act regime.
+in particular they adopt the court of appeals conclusion that the word machine in the definition is apt to cover a configuration of separate, but connected, items that together enable the playing of a game of chance at a terminal .
+for good measure, they seek to turn on its head the appellants reliance on the principle of neutrality.
+so far as it applies, they argue, it favours an interpretation of note (3) which minimises any difference in treatment of similar items (marks & spencer plc v customs and excise comrs (case c 62/00) [2003] qb 866, [2002] ecr i 6325, para 24).
+discussion 22.
+it is necessary first to dispose of a possible argument suggested by the court during the hearing but not adopted by either party rightly in my view.
+this would treat the words by means of the machine as requiring no more than that the relevant information be communicated to the player by means of the machine on which he is playing, regardless of where or how that information is generated.
+thus when the player pulls a lever or presses a button on the terminal, which in turn triggers the operation of the rng, whether or not connected to other terminals, the terminal on which he is playing becomes the means by which the element of chance is communicated, and so provided, to the player for the purposes of his game.
+in my view, that is not the natural sense of the words used.
+the question is how the element of chance is provided in the game.
+the definition implies an active function in the game as it is played, rather than the mere passive transfer of information to the player. 23.
+secondly, with respect to the court of appeal, i do not consider that much help is to be gained from comparisons with the treatment of the various machines at different times under the gaming act.
+rimer lj observed (para 74) that much of the argument before the court of appeal had been directed to the question whether the disputed machines had been part iii machines for the purpose of the 1968 act, and thought it logical to start by considering that question.
+i find that difficult to accept.
+the sole issue in the appeal concerns the construction of the vat legislation at the relevant time.
+the draftsman has not simply applied the definition of gaming machine used in the gaming act, as he did when defining game of chance, but has merely adopted some of its elements.
+it cannot be assumed that he intended precisely the same results.
+furthermore, even if one assumes that the policy thinking of the vat draftsman was guided by that of the 1968 act, that assumption is of little assistance unless perhaps a proposed interpretation conflicts materially with some aspect of the comparable provisions in the latter legislation, or if it reveals a clear basis for distinguishing in that context between the categories now in issue.
+with one exception relied on by norris j (see para 16 above), no such conflict has been identified.
+on the other hand, it is of some relevance that no one has suggested any convincing policy reason for distinguishing, in either legislative context, between, on the one hand, embedded software or a single terminal rng, and on the other a multi terminal rng such as is in issue in this appeal.
+unless the language points clearly in a different direction, policy considerations favour treating them in the same way. 24.
+much of the argument in the tribunal and the lower courts turned on the meaning of the word machine.
+the tribunal did not refer to any dictionary definition of the term.
+however, they seem to have proceeded on the assumption that the word connoted a single item of equipment, which in the context of paragraph (b) of the definition, had to be that which was played by the player, and into which he inserted his coin or token.
+accordingly, for both (b) and (c) to be satisfied both the terminal and the rng had to refer to the same machine, that being made clear by the use of the definite article before the word machine in both.
+where the rng was situated outside the terminal and served a number of terminals, it was a separate item of equipment, so that the element of chance was not provided by means of the machine containing the slot.
+norris j took a similar view.
+he also treated the relevant machine as that which has the slot in it and which the player is playing.
+it was then a question of fact whether the outcome of the game is determined by an external event which the machine records or is produced by the machine itself.
+the court of appeal interpreted the word machine in a broader sense, as extending to a configuration of separate, but connected, items of equipment that together enable the playing of a game of chance at the terminal.
+again they made no reference to any dictionary definition, relying instead on what they deemed the absurdity of a more narrow interpretation, which they thought would deprive the provisions of sensible and practical effect. 25.
+i see some force in the appellants criticisms of the court of appeals reliance on arguments of absurdity, which seem difficult to reconcile with hmrcs own acceptance in the past of a narrow interpretation.
+however, their approach can arguably be supported by reference to the natural meaning of the word machine in its context.
+we have not been referred to any dictionary definitions of the word machine, but reference to the standard dictionaries does not indicate any linguistic reason to confine the word to a single item of equipment.
+it is in some ways a chameleon like word, and the dictionaries contain a variety of meanings.
+a typical and in my view accurate definition, taken from the concise oxford english dictionary, is: an apparatus using or applying mechanical power, having several parts, each with a definite function and together performing certain kinds of work. 26.
+this is of interest in the present context for two reasons.
+first the use of the word apparatus as a synonym suggests that no particular significance is to be attached to the absence in the vat legislation (as compared to the 1968 act) of a specific reference to apparatus as part of the definition.
+secondly, the emphasis is not so much on the physical nature of the equipment or its parts, as on the functions they are performing together for the purpose of a particular type of work.
+in the present context the overall purpose or task is the creation for a game of chance for the player, in which purpose both the terminal and the rng play, and are designed to play, essential and connected functions.
+it should not matter whether that task is being performed by a single item or a combination of linked items designed for the same task. 27.
+if that is the correct analysis, the tribunals approach is open to the criticism that it limits its attention to the physical identity of the equipment as viewed by the player, but ignores the necessary components of the task which it is performing.
+the terminal is useless for the task of playing the game without the rng.
+where the rng is linked to a single terminal, the tribunal apparently saw nothing unnatural in principle in viewing them as together constituting a single machine for playing the game.
+on that view, it does not matter that the coin or token is paid into one part, and the element of chance is provided by another; nor that the player may be unaware that the machine which he is playing has more than one component. 28.
+similarly, even where the rng is serving several terminals, it seems no less appropriate to treat the combined set of apparatus as a composite machine, at least where (as here) the combination has been designed and supplied for use together in the same premises, and the rng functions for all material purposes in exactly the same way as embedded software in each terminal.
+from the players point of view, it may be less natural to think of him playing, or inserting his coin into, the combined machine.
+but viewed objectively that is what he is doing, since without the rng his coin will not achieve its purpose, and the game will not be played. 29.
+the principal objection to that interpretation is that relied on by norris j by reference to the limits in section 31 of the gaming act 1968.
+read naturally and in context, the restriction of the numbers of machines on any premises seems directed at the terminals available to individual players.
+it can hardly have been intended that it could be satisfied by two multi terminal machines serving an unlimited number of players.
+as already noted, mr peretzs answer is that, even if the draftsman in 1968 may not have had in mind the possibility of multi terminal machines that cannot change the natural meaning of the words; section 37 was available to deal with changes in technology which might call for different or more sophisticated restrictions. 30.
+in my view, it is not necessary to resolve this debate, since one can arrive at the same practical answer as the court of appeal, without departing from the view that the word machine, where it matters, can refer to an individual terminal.
+the relevant phrase is the element of chance in the game is provided by means of the machine.
+in the words of norris j, it is the determining event which governs the outcome of the game being played on the machine which the player is playing.
+chance is the possibility of something happening, not in the abstract, but for a particular player in the context of a particular game; in other words, the possibility of that player getting the combination of numbers which wins a prize or conversely a combination which does not. 31.
+here what determines the outcome of the game is the pressing of a button (or pulling a lever) on the terminal.
+the pressing of the lever is a more sophisticated equivalent of a player rolling a dice.
+in that context, it can fairly be said, the winning number is produced by means of the players action in throwing the dice.
+so here the rng produces a pre programmed sequence of numbers which changes very rapidly.
+the element of chance in any game is provided by means of the action of the particular player in pressing the button and so interrupting that ever changing sequence at a particular moment.
+the terminal is not simply communicating information from the rng, but is the active means by which the winning or losing combination is generated.
+the rng is a necessary part of that process, but its response (wherever situated) is entirely automatic.
+in those circumstances, it is a fair use of language in my view, and consistent with the apparent policy of the legislation, to describe the element of chance as provided by means of the terminal. 32.
+accordingly, albeit for somewhat different reasons, i agree with the conclusion reached by the court of appeal and i would dismiss the appeal.
+the tribunal concluded that the disputed machines were not gaming machines as defined by note (3).
+they said:

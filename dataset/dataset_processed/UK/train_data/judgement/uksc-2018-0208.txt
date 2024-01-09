@@ -1,0 +1,506 @@
+in december 2006, mrs staveley died.
+shortly before her death, she had transferred funds from her existing pension scheme into a personal pension plan (ppp).
+she did not take any pension benefits at all during her life and, in those circumstances, a death benefit was payable under the ppp.
+mrs staveley nominated her two sons as beneficiaries of the death benefit, subject to the discretion of the pension scheme administrator and, after her death, the death benefit was paid to them.
+her majestys revenue and customs (hmrc) determined that inheritance tax (iht) was due, on the basis that both the transfer of funds into the ppp, and mrs staveleys omission to draw any benefits from the plan before her death, were lifetime transfers of value within section 3 of the inheritance tax act 1984 (ihta).
+the issue in this appeal is whether they were right to take that view.
+the appellants are the three executors of mrs staveleys estate (her two sons, and a solicitor, mr parry).
+they appealed to the first tier tribunal (tax chamber) (the ftt) against hmrcs determination.
+the appeal was partially successful in that the ftt held that the transfer of funds into the ppp (the transfer) was prevented from being a transfer of value by section 10(1) ihta because, putting it shortly, it was not intended to confer any gratuitous benefit on anyone.
+however, the ftt dismissed the appeal in relation to mrs staveleys omission to draw benefits from the ppp (the omission), holding that the sons estates had been increased by the omission, and section 3(3) required that mrs staveley be treated as having made a disposition at the latest time when she could have drawn those benefits.
+each side appealed to the upper tribunal (tax and chancery chamber) (the upper tribunal).
+the ftts decision that the transfer into the ppp fell within section 10(1) was affirmed.
+the ftts decision in relation to the omission to draw benefits was reversed, on the basis that section 3(3) did not apply because it was not the omission that had increased the sons estates, but the discretionary decision of the pension scheme administrator to pay the death benefits to them.
+accordingly, no tax was payable on either transaction.
+on hmrcs appeal to the court of appeal, the court held that both the transfer and the omission gave rise to a charge to tax.
+the executors now appeal against both of those decisions.
+the issues that require determination concern (1) (in relation to the transfer) the proper operation of section 10 of the ihta, and its application to the facts of this case and (2) (in relation to the omission) the proper construction of section 3(3) of the ihta, and whether, on the facts of this case, there was a material break in the chain of causation between mrs staveleys omission and the increase in value in her sons estates, by virtue of the fact that the payment to the sons resulted from the exercise of a discretion by the pension scheme administrator.
+the difficulty of the points at issue is underlined by the chequered fortunes of the parties arguments: the ftt found tax payable on the omission but not the transfer, the upper tribunal found no tax payable at all, and the court of appeal held that both the transfer and the omission gave rise to a charge to tax.
+legislative provisions
+(section 1 ihta).
+a chargeable transfer is a transfer of value made by an individual which is not an exempt transfer (section 2 ihta).
+it is not necessary to go into the concept of an exempt transfer, as it has no relevance to the present appeal.
+section 3 ihta deals with transfers of value.
+it provides:
+inheritance tax is charged on the value transferred by a chargeable transfer 3.
+transfers of value (1) subject to the following provisions of this part of this act, a transfer of value is a disposition made by a person (the transferor) as a result of which the value of his estate immediately after the disposition is less than it would be but for the disposition; and the amount by which it is less is the value transferred by the transfer. (2) for the purposes of subsection (1) above no account shall be taken of the value of excluded property which ceases to form part of a persons estate as a result of a disposition. (3) where the value of a persons estate is diminished, and the value (a) of another persons estate, or (b) of any settled property, other than settled property treated by section 49(1) below as property to which a person is beneficially entitled, is increased by the first mentioned persons omission to exercise a right, he shall be treated for the purposes of this section as having made a disposition at the time (or latest time) when he could have exercised the right, unless it is shown that the omission was not deliberate. (4) except as otherwise provided, references in this act to a transfer of value made, or made by any person, include references to events on the happening of which tax is chargeable as if a transfer of value had been made, or, as the case may be, had been made by that person; and transferor shall be construed accordingly.
+it can be seen that the core provision is contained in section 3(1), which fixes upon dispositions which result in a reduction in the value of the transferors estate.
+such a disposition constitutes a transfer of value and, by virtue of sections 1 and 2, potentially attracts inheritance tax on the value transferred, which is the amount of the reduction in value.
+section 3(1) focuses on a person making a disposition ie on an action rather than an omission.
+however, section 3(3) extends the reach of section 3(1) to include an omission to exercise a right in certain circumstances.
+unless it is shown that the omission was not deliberate, a person who omits to exercise a right is treated by section 3(3) as having made a disposition if (concentrating on the circumstance that is relevant for this case) the value of that persons estate is diminished and the value of another persons estate is increased by the omission.
+section 10 ihta provides that certain dispositions are not a transfer of value: 10.
+dispositions not intended to confer gratuitous benefit (1) a disposition is not a transfer of value if it is shown that it was not intended, and was not made in a transaction intended, to confer any gratuitous benefit on any person and either (a) that it was made in a transaction at arms length between persons not connected with each other, or certain sales of (b) that it was such as might be expected to be made in a transaction at arms length between persons not connected with each other. concerns [not (2) relevant; shares/debentures] in this section (3) disposition includes anything treated as a disposition by virtue of section 3(3) above; transaction includes a series of transactions and any associated operations.
+as appears, the approach of section 10(1) is to stipulate conditions which, if satisfied, result in a disposition not being a transfer of value.
+by way of shorthand, it is perhaps convenient to speak in terms of whether the subsection applies (that is to say its conditions are satisfied, the disposition is therefore not a transfer of value, and no tax arises) or does not apply (conditions not satisfied and tax is payable).
+the present appeal requires particular focus on the condition that the disposition was not intended, and was not made in a transaction intended, to confer any gratuitous benefit on any person.
+although section 10(1) is the principal subsection, section 10(3) is important too, because it provides an extended meaning for the concept of a transaction in section 10(1), so that it includes a series of transactions and any associated operations.
+section 268 ihta defines associated operations as follows: 268.
+associated operations (1) in this act associated operations means, subject to subsection (2) below, any two or more operations of any kind, being (a) operations which affect the same property, or one of which affects some property and the other or others of which affect property which represents, whether directly or indirectly, that property, or income arising from that property, or any property representing accumulations of any such income, or (b) any two operations of which one is effected with reference to the other, or with a view to enabling the other to be effected or facilitating its being effected, and any further operation having a like relation to any of those two, and so on. whether those operations are effected by the same person or different persons, and whether or not they are simultaneous; and operation includes an omission.
+hmrcs notice of determination
+the facts are set out below at para 21 and following.
+it is helpful to have in mind, when considering them, the terms in which hmrc identified the transfers of value which they said gave rise to charges to iht.
+the notice of determination, issued in april 2012, recorded that hmrc had determined that there were two transfers of value.
+the first was the transfer into the ppp.
+paragraph 1 of the notice identified this in the following terms: 1.
+a transfer in application form for the transfer of pension funds from an axa flexible transfer plan (a section 32 buyout policy) to an axa personal pension plan (the new pension scheme) signed by the deceased on 3 november 2006.
+referring back to this paragraph, the operative part of the determination then said: a.
+the transfer at (1) above is a disposition which is a transfer of value having regard to section 3(1) inheritance tax act 1984 (ihta).
+the second transfer of value was mrs staveleys omission to draw lifetime benefits, which was dealt with as follows in the notice: c.
+the deceased omitted to exercise her right to take any benefits from the new pension scheme between the date of commencement of the new pension scheme and the date of her death.
+the omission at c above is treated as a disposition by the deceased at the latest time when she could have exercised her rights and is a transfer of value having regard to section 3(3) and (1) ihta.
+broad outline of the parties arguments
+it is also helpful to approach the facts with the broad structure of the parties arguments in mind.
+it will be necessary to return to the detail of the arguments later, but the essentials are set out in the following four paragraphs.
+the starting point in relation to the transfer is that it is agreed to constitute a disposition which resulted in a reduction in the value of mrs staveleys estate, because she no longer had the right to determine the destination of the death benefits in relation to the pension.
+the question is whether the disposition is nevertheless not a transfer of value by virtue of section 10.
+this issue has to be broken down into two parts.
+first, does the transfer, as a disposition viewed on its own, amount to a transfer of value or does section 10(1) apply? this issue (transfer issue 1) turns on whether it has been shown by the appellants that the transfer was not intended to confer any gratuitous benefit on any person.
+the appellants say that this has been established, and hmrc say not.
+however, even if the appellants are right and the transfer into the ppp, viewed alone, would escape iht, it has to be looked at in a wider context, and consideration given to whether section 10(1) still applies (transfer issue 2).
+it is not enough that the disposition itself was not intended to confer any gratuitous benefit; it has to be shown also that it was not made in a transaction intended to confer any gratuitous benefit.
+in support of their argument that the disposition here was made in such a transaction, hmrc seek to draw in the omission, with its accompanying intention to confer gratuitous benefit on the sons in the form of the resulting death benefit.
+they point to the definition of transaction in section 10(3) (transaction includes a series of transactions and any associated operations), and the definition in section 268 of associated operations, arguing that the transfer and the omission amount to associated operations, linked by common intent.
+on this argument, the intention to confer benefit on the sons by not taking lifetime benefits colours the transaction, so that it is not possible to bring the disposition within section 10(1).
+the appellants resist hmrcs case on transfer issue 2 on the basis that there is no relevant series of transactions and any associated operations here, so if the transfer to the ppp is not itself intended to confer gratuitous benefit, section 10(1) applies.
+on their argument, bundling together the transfer to the ppp and the omission is contrary to the findings of fact made by the ftt, and also a wrong application of the law, including the reasoning of the house of lords in inland revenue comrs v macpherson [1989] ac 159 (macpherson).
+they rely particularly upon the ftts findings that the transfer to the ppp was not of itself intended to confer a gratuitous benefit, and that the transfer and the omission were not linked by motive.
+when it comes to the omission, the sole question is whether, as hmrc say, the terms of section 3(3) are satisfied.
+if the circumstances fall within the subsection, mrs staveley is treated as having made a disposition when she could last have exercised her right to take lifetime benefits under the ppp, and that disposition is conceded to be a transfer of value attracting iht, the ftt having found that part of mrs staveleys motivation in not drawing benefits herself was to confer a benefit on her sons, and there no longer being any argument that section 10(1) applies to the omission.
+but the appellants say that section 3(3) is not satisfied.
+their argument is that (putting it loosely) there is not the necessary connection between mrs staveleys omission and an increase in another persons estate, because the payment of the resulting death benefit to her sons depended upon the pension scheme administrator exercising its discretion in their favour, and did not follow the omission sufficiently closely in time.
+it cannot be said, in the appellants submission, that the value of another persons estate is increased by (my emphasis) the omission to draw lifetime benefits.
+the facts and the ftt judgment
+mrs staveley was divorced in 2000.
+the divorce was acrimonious, leaving her feeling bitter towards her ex husband.
+whilst together, they had set up a company called morayford ltd. she was a director of the company, and employed by it, and she had a large pension fund with its occupational pension scheme.
+on divorce, her involvement with the company ceased.
+putting it in the non technical terms used by the ftt, [t]he ancillary relief order ordered that her share of the company pension scheme be transferred to her.
+it was put into what was called a section 32 buyout policy (the terminology reflecting that it was a policy to which section 32 of the finance act 1981 applied).
+however, given the level of her salary with the company, the pension was over funded, and, as things stood then, any surplus in the fund on her death would be returned to the company, potentially benefitting her ex husband.
+this was not acceptable to her at the time of the transfer of her fund into the section 32 policy (ftt judgment, para 12), but she had no alternative option.
+thereafter, the ftt found (ibid, para 14), she remained very concerned that her pension fund could in whole or part revert to the benefit of her ex husband and/or his new family.
+it was a term of the section 32 policy that if mrs staveley died without taking lifetime benefits, the trustees of the scheme would pay a lump sum by way of death benefit to her estate.
+although she could have chosen to access her pension from its inception, she did not do so at any point during the currency of the policy.
+in 2004, mrs staveley was diagnosed with cancer, which was initially treated successfully.
+she made a will in 2005, appointing her two sons and mr parry as executors and trustees, and leaving her property to the trustees on trust to hold the assets for her sons in equal shares, the income to be paid to each son during his lifetime (and thereafter to his children), but with the trustees having power to advance capital.
+mrs staveleys pension fund was still, at that time, invested in the section 32 policy, and any death benefit payable under it would have gone into her estate and benefitted her sons by virtue of her will, subject to such iht as would have been chargeable with regard to the sum.
+in 2006, mrs staveleys illness returned and she was treated again, but it became evident that she would not recover.
+the ftt found that for much of 2006, she refused to accept that her death was inevitable (ftt judgment, para 32).
+however, by mid october 2006, she had accepted intellectually that she was dying (ibid, para 34).
+on 30 october 2006, she set in train the transfer of her section 32 policy to the ppp, the new policy commencing on 9 november 2006.
+a death benefit was payable, under the ppp, to, or for the benefit of, one or more beneficiaries selected, at the discretion of the pension scheme administrator, from a number of specific categories, within which were included persons nominated by the scheme member, and also grandchildren, and legal personal representatives.
+the scheme member could nominate people for consideration by the pension scheme administrator by completing the expression of wish form which formed part of the transfer in application form.
+mrs staveleys application form (dated 3 november 2006) nominated her two sons to be considered as equal recipients of the death benefit.
+in mid 2007, pursuant to the administrators exercise of discretion, the benefit was paid out in accordance with her wishes.
+the ftts critical findings about mrs staveleys motivation for the transfer are contained in paras 48 to 55 of the ftt judgment, but para 16 is also important.
+there, it rejected the view of one of the sons that, although mrs staveley wanted the sons to benefit from her pension fund, she would rather they got nothing than that her ex husband benefit from it in any way.
+it made the general finding that preventing morayford receiving benefit from her pension fund was very important to her; but it was also very important to her that her sons did benefit from her estate.
+at paras 48 to 55, the ftt was focusing expressly on whether the transfer from the section 32 policy into the ppp was intended to confer gratuitous benefit within the meaning of section 10(1).
+the appellants case was that mrs staveleys sole intention in transferring the funds was to eliminate any risk that any part of the fund might be returned to morayford.
+hmrc put forward a number of arguments against this.
+they argued that, in the light of changes in the law in april 2006, it should have been obvious that there was no such risk, but that even if she did not know this, mrs staveley had at least a dual motive, the second motive being to ensure the death benefits passed to her sons free of iht.
+the ftt found that mrs staveley was not motivated by iht considerations and, indeed, that it was more likely than not that she was under the mistaken impression that the transfer would not affect the amount of iht payable on her death (para 49).
+it found that her sole motive in making the transfer was to sever all ties with morayford (para 48).
+though the risk that funds would revert to morayford may by then have been more perceived than real, she had been advised that there was such a risk, and the perceived risk was the reason why she acted as she did.
+at para 50, the ftt set out a further argument which hmrc advanced as to mrs staveleys intention and began to deal with it: 50.
+hmrc say that, even ignoring the iht, she clearly had an intent that the death benefits would pass to her sons, and this was an intent to confer a gratuitous benefit.
+she signed the statement of wishes.
+however, we do not see how this could be properly described as an intention to confer a gratuitous benefit.
+her sons were her beneficiaries named in her will and therefore the persons who had stood to benefit from the death benefits of the section 32 policy (which after april 2006 would have been the whole fund).
+they were the persons named in her expression of wishes for the ppp.
+either way they were the intended beneficiaries so that the transfer did not confer a benefit that was new to them and cannot therefore have been part of the motivation for mrs staveley. (emphasis in the original)
+as heralded here, and developed in para 52, the ftts view was that the benefit contemplated by section 10 was a benefit which did not exist before, and was newly conferred.
+in this case, as the ftt saw it, the only difference between the sons being named in the expression of wish form in respect of the ppp, and being mrs staveleys residuary legatees in respect of the death benefit arising from the section 32 policy, was that the death benefit could be paid to them directly by the pension administrator under the ppp, rather than coming to them by way of mrs staveleys estate (para 53).
+this did, indeed, produce a very real advantage, in avoiding the iht which would have been payable had the section 32 policy remained in place, but the ftt recalled that we have already concluded that this iht advantage was not a benefit which mrs staveley intended to confer, even though that was the effect of what she did (para 54, emphasis in the original).
+it followed (para 55) that the transfer into the ppp was not intended to confer any gratuitous benefit on any person.
+turning to what the ftt had to say about transfer issue 2 (the transfer taken together with the omission to draw lifetime benefits), it is necessary to look first at the findings that it made about the circumstances of the omission.
+it examined what mrs staveleys thinking was, during 2006, about drawing pension benefits herself.
+whilst her funds were still invested in the section 32 policy, she had considered whether to take lifetime benefits.
+it was not possible to determine the precise date when she decided not to do so, but the tribunal found that she must have communicated that decision to her financial advisor in about october 2006 (ftt judgment, para 28), having taken it sometime between june and october that year (ibid, para 124).
+there was no evidence of any change of view up to the date of her death (also para 124).
+the ftt found (paras 146 to 149) that a number of factors influenced mrs staveley in this approach, including that she would confer on her sons a greater financial benefit by not drawing lifetime benefits.
+that was part of her motivation in june 2006.
+there being no evidence of any change of mind subsequently (para 143), it must be treated as the position at the moment of her death as well (para 149).
+it was a continuing decision (para 61), an ongoing choice (para 87).
+the ftt set out its legal analysis of transfer issue 2 between paras 56 and 72 of its judgment, rejecting hmrcs case that the transfer of the funds into the ppp should be taken together with the omission to draw lifetime benefits as a series of transactions and/or associated operations.
+as it saw it, the transfer and the omission were not linked as a scheme intended to confer gratuitous benefit.
+it found at para 64 that [w]hatever the intent behind the omission, it was not linked with the transfer to the ppp in mrs staveleys mind, her intent with respect to the transfer having been solely to break the connection with morayford.
+it reinforced this at para 69 where it said: the transfer to the ppp was not made with the intent of omitting to take lifetime benefits.
+in so far as mrs staveley made any positive decision not to take lifetime benefits, that decision had already been taken and taken independently of the decision to transfer the funds to the ppp. (emphasis in the original)
+in relation to the omission to take lifetime benefits, which it found fell within
+section 3(3) and gave rise to tax, the ftt commented that it would ordinarily regard the voluntary exercise of discretion as breaking the chain of causation from an omission to exercise a right before death to the receipt of the resulting monies, but not so where, as it considered to be the case here, it was virtually inevitable that [the scheme administrator] would honour the deceaseds wishes and pay the money directly to her sons (paras 113 and 114).
+section 10 could have no application to the omission because of the ftts finding that part of mrs staveleys motivation was to confer a greater benefit upon her sons.
+the upper tribunal decision
+the upper tribunal agreed with the ftt that the transfer (whether on its own or taken with the omission) was, by virtue of section 10, not a transfer of value for the purposes of section 3 ihta (para 60 upper tribunal judgment).
+aspects of its reasoning differed from that of the ftt.
+in particular, it did not endorse the ftts interpretation of section 10, agreeing with hmrc that as a matter of law, the mere fact of an existing putative benefit under a will of a person into whose estate certain assets will pass on death cannot prevent a disposition in lifetime from conferring a benefit, even if the benefit is to the same beneficiaries, and is substantially identical to that which would be conferred by the will (para 30 ibid).
+however, it considered the nature of any benefit and the surrounding circumstances relevant to the question of intention, so saw the fact that the sons would benefit under the will as a relevant factor in assessing mrs staveleys true motive in making the transfer (para 31).
+normally, by the time an appeal reaches the supreme court, the facts are no longer a matter of argument.
+however, in this case, certain of the facts (particularly concerning mrs staveleys intention) have continued to excite debate.
+it is therefore relevant to note here that hmrc sought to persuade the upper tribunal that it had not been open to the ftt, properly interpreting section 10, to find that mrs staveleys sole motive in making the transfer was to prevent funds reverting to morayford and her ex husband, and that it could only have found that mrs staveley made the disposition with the intention of doing several things, one of which was to confer a gratuitous benefit on her sons.
+the upper tribunal rejected that challenge.
+it said (para 32): to the extent that the ftt was in error in deciding that the replacement of the testamentary benefit to the sons by the benefit conferred as beneficial objects of the discretion of the scheme administrator of the axa ppp could not in law amount to the conferring of a benefit, that was not the basis for the ftts conclusion as to the sole motive of mrs staveley.
+that was a decision of the ftt on the facts, which properly included the nature of the benefit in question.
+the ftts finding that the transfer and the omission were unconnected and not part of any scheme to confer benefit on the sons was also endorsed by the upper tribunal (para 55).
+the upper tribunal differed from the ftt on whether the omission was a transfer of value, taking the view that the sons estates were increased not by mrs staveleys omission to take lifetime benefits but by the exercise of pension scheme administrators discretion, which, in its view (summarised at paras 86 and 87), broke the chain of causation between the omission and the payment out to the sons.
+it followed that the omission was not caught by section 3(3) ihta and did not attract tax.
+it is material to record that the ftts finding that it was virtually inevitable
+that mrs staveleys wishes would be honoured by the pension administrator (see para 33 above) came in for criticism.
+hmrc did not seek to support it and the upper tribunal considered (para 72 upper tribunal judgment) that the ftt had not been entitled to make it, there being nothing to contradict the evidence that there was a discretion conferred on the administrator.
+the only finding open to the ftt, the upper tribunal said (para 74), was that there was a genuine exercise of discretion and that the most mrs staveley could have expected from her completion of the expression of wish form was that a diligent administrator would take those wishes into account as a relevant factor in the exercise of its discretion.
+the court of appeal decision: transfer issues 1 and 2
+by a majority (newey lj and birss j), the court of appeal upheld the decision of the lower courts that, standing alone, the transfer from the section 32 policy to the ppp was not a transfer of value, because section 10 applied.
+in the view of the majority, to ascertain whether the transferor intended to confer a gratuitous benefit, one has to compare the position of the recipient of the benefit before the disposition with his position in light of it, asking whether the overall effect of the disposition was intended to be favourable to, or advantageous to, the recipient of the benefit (paras 86 and 88 of newey ljs judgment, with which birss j agreed at para 114).
+drawing assistance from the dictionary definitions of confer and benefit, newey lj said in para 88: confer is defined in the concise oxford dictionary as to grant or bestow, benefit as a favourable or helpful factor or circumstance; advantage, profit.
+in enacting section 10, parliament will, i think, have been concerned to exclude from the crucial exemption for which it provides a disposition which was itself intended to grant or bestow something advantageous gratuitously.
+parliament considered that an arms length transaction should not generally give rise to an iht charge even if it served to diminish the value of the transferors estate, but did not want the exemption to apply if to put matters broadly the disposition was being used to improve someones position on a gratuitous basis.
+as a matter of language, i do not think that it is appropriate to speak of a disposition having been intended to confer any gratuitous benefit if the recipient of the benefit was intended to receive no more than he would have had in any event.
+a disposition designed to give a person only what he was to receive anyway or its equivalent, let alone less, cannot fairly be described, in my view, as intended to confer a benefit.
+in contrast, lady arden considered (para 52) that the conferral of a benefit is to be ascertained by a legal analysis of the transaction whereby the beneficiary acquired his rights and without comparison with a prior gift (my emphasis).
+as hmrc rely upon her approach, i will need to deal with it in some detail in discussing the parties submissions, so will say no more about it at this stage.
+applying the majoritys interpretation of section 10 to the facts, newey lj acknowledged that, as a matter of fact, the transfer of the pension fund from one scheme to the other would have been advantageous to mrs staveleys sons if it enabled them to receive sums free of iht.
+however, as he said (para 83), the mere fact that a transaction confers a gratuitous benefit is not enough to remove the protection of section 10.
+that occurs only if the transferor intends such benefit to be conferred and, here, the ftts finding was that iht did not form part of her motivation (ftt, para 49).
+in contrast to lady arden (see below), he did not consider that it was open to the court of appeal to find that, iht saving apart, the interest of the sons under the nomination was a favourable change from their previous position under mrs staveleys will.
+he observed (para 91): it is not apparent to me that hmrc have ever advanced a case to that effect, let alone that the ftt made findings supporting it, and (aside, again, from iht) i do not regard it as in the least obvious that the sons were in practice any better placed as a result of the transfer.
+however, even if it were possible to conclude that there was a favourable change other than the saving of iht, in his view this still would not oust the protection of section 10, because, on the findings of the ftt, mrs staveley did not make the transaction intending to improve the sons position in that way (ibid, at paras 89 and 91 in particular).
+as newey lj put it, [s]he did not see the transfer as giving her sons anything better than they would otherwise have received.
+as lady arden analysed the facts, there was a gift of newly created rights, the sons interest under the ppp being very different in law from their position as residuary beneficiaries under mrs staveleys will, and therefore the gift was newly conferred (para 45).
+in her view (para 46), the interest of the sons under the nomination was undoubtedly a favourable change from their previous position under mrs staveleys will if regard is had to the legal analysis.
+the application of section 10 therefore turned on whether mrs staveley intended to confer this benefit.
+as lady arden put it at para 52, in order to obtain the benefit of the purchase exemption, the donor, or his personal representatives, has to show that, although the donor intended to make a gift, he did not intend to make a gift of what was in law a newly created right.
+lady ardens view about mrs staveleys intention built on her analysis of the factual findings made by the ftt.
+her interpretation of the ftt judgment was that, although the ftt had found that the transfer was not made with the intention to confer gratuitous benefit, the motivation being solely to sever all ties with morayford, there was no equivalent finding in relation to the expression of wish form, as to which, she considered, there was a finding, by implication, that by executing the statement of wishes on the occasion of the transfer of funds mrs staveley made a disposition with the intention of giving a gratuitous benefit to her sons (see particularly paras 32, 36 and 40 of lady ardens judgment).
+at para 47, she said: it may be said that there was an absence of intention to confer a new benefit.
+mrs staveley was, after all, (it may be said) only giving her sons what she had previously intended to give them under her will.
+she was (it may be said) just making the same gift in a new way.
+but what the ftt found was that there was a gratuitous intention in signing the nomination.
+so, in my judgment, on the facts of this case, the respondents had to show that, even though it was a gratuitous intention to confer what in law was a newly created right, it was not mrs staveleys intention to confer such a benefit: see the words if it is shown that it was not intended appearing in section 10(1).
+an absence of evidence as to whether she intended to make a newly conferred gift is not enough.
+the respondents needed to show that she mistakenly thought that she was not conferring a newly created right, and the findings of the ftt do not go that far.
+it followed that, even standing alone, lady arden would have found that the
+transfer to the ppp was a transfer of value.
+for the majority, however, that position was only reached by taking the transfer together with mrs staveleys omission to draw lifetime benefits under the ppp.
+it will be recalled that section 10 requires that it be shown not only that the disposition itself was not intended to confer gratuitous benefit, but also that it was not made in a transaction intended to confer gratuitous benefit, and a transaction for this purpose includes a series of transactions and any associated operations.
+the court held that the transfer was, in fact, made in a transaction intended to confer gratuitous benefit, essentially for the reasons set out by newey lj in para 103, which i summarise in the rest of this paragraph.
+the transfer and the omission were operations affecting the same property, so were associated operations as defined in section 268.
+attention therefore turned to the issue of whether this transaction was intended to confer gratuitous benefit.
+as found by the ftt, one of the factors in mrs staveleys decision not to access her pension fund was that it would confer a greater benefit on her sons, this being her intention both at the time of the transfer to the ppp and at the time of her death.
+the omission was therefore intended to confer any gratuitous benefit.
+on newey ljs reading of macpherson, it was immaterial that the transfer was not made with that intention, because a transaction could be intended to confer gratuitous benefit without each of the associated operations being itself made with that intention or actually conferring such benefit.
+if a scheme of which an operation forms part is intended to confer the benefit, that is enough.
+the ftt was mistaken in thinking there was no intent linking [the omission to take pension benefits and the transfer to the ppp].
+both were motivated by a desire on mrs staveleys part that her sons should have the death benefits that would be payable if she did not draw a lifetime pension.
+to that end, she named them in her expression of wish form.
+so, newey lj said at para 103(v): while, therefore, mrs staveley did not see the transfer to the ppp as improving her sons position and she made the transfer out of a desire to sever ties with morayford, the only reasonable conclusion, as it seems to me, is that she also intended the ppp to be a means by which the death benefits could be passed to her sons.
+thus the failure to take pension benefits and the transfer to the ppp were each properly seen as forming part of and contributing to a scheme intended to confer gratuitous benefits.
+it followed that the protection of section 10 was not available for the transfer to the ppp.
+court of appeal decision: section 3(3) and the omission
+the court held unanimously that the sons estates had been increased by mrs staveleys omission to draw lifetime benefits, notwithstanding the scheme administrators discretion.
+on this point, there was general agreement with the reasoning of newey lj, the core of which is perhaps best encapsulated in this passage from para 109: the sons estates would not, of course, have been increased but for the omission.
+moreover, the exercise of discretion in the sons favour by the scheme administrator did not involve any break in the chain of causation.
+the administrator was, after all, doing no more than it was obliged and could be expected to do in the period immediately following mrs staveleys death.
+it may be that the increase in the sons estates could also be said to have been brought about by the exercise of the administrators discretion, but that by no means makes it inappropriate to see the estates as having been increased by the omission.
+the one does not preclude the other.
+in so finding, the court also rejected the argument that the diminution in value of one persons estate and the increase in value of someone elses must occur at the same time for section 3(3) to apply.
+transfer issue 1 (transfer on its own): discussion
+the appellants support the conclusion of the majority of the court of appeal that, standing alone, the transfer of funds to the ppp did not constitute a transfer of value because section 10 applied, and they rely upon the court of appeals reasoning on this issue.
+hmrc, however, contend that lady arden correctly concluded, for the reasons she gave at paras 42 to 54, that section 10 was not applicable.
+they argue that mrs staveleys intention in making the disposition was to exclude her ex husband and to confer a benefit on her sons by way of death benefits.
+on this analysis, in their submission, her intention was to confer a gratuitous benefit.
+to make this good, they make submissions both as to what is meant in law by intending to confer [a] gratuitous benefit on any person, and as to the factual findings that were/should have been made by the ftt.
+miss wilson, for hmrc, makes the general point that section 10 only comes into play when there has been a disposition which would normally be a transfer of value.
+she characterises it as a relatively narrow provision, with the taxpayer bearing the burden of justifying why iht is not payable as it ordinarily would be.
+she emphasises that, whilst what someone intends is a question of fact, the treatment of that factual intention for the purposes of section 10 is a question of law.
+she submits that the proper approach, in a case such as this where there is a change in how a gift is made (or, as she also puts it, where rights have been substituted) is to ask three questions, always bearing in mind, of course, that it is the taxpayer who has to show that the disposition was not intended to confer gratuitous benefit.
+the three questions are: (1) what rights, if any, were created and extinguished? (2) on a detailed legal analysis, did the new rights confer a benefit within the statutory words? (3) was that situation something that the disponor intended? of these three questions, only the last is subjective.
+in hmrcs submission, the majority in the court of appeal was wrong to interpret section 10 as requiring an examination of whether the overall effect of the disposition was intended to be favourable to, or advantageous to, the recipient of the benefit (see paras 86 and 88 of newey ljs judgment, referred to/quoted at para 40 above).
+this would be uncertain and difficult to adjudicate upon, hmrc say, and would give rise to arbitrary results.
+lady ardens formulation of the law is correct, in hmrcs submission, and leads to a section 10 test which is readily justiciable.
+lady ardens para 46 deals with statutory interpretation.
+there she observed that, in the absence of a relevant statutory definition of the words in question, resort had to be had to their ordinary meaning, and said: on its ordinary meaning, a benefit involves a net gain or favourable change in a persons position, but the comparison to be made is with his position immediately before the putative benefit was conferred.
+this is the most natural time to determine the question of benefit and in my judgment there would need to be some mandate in the 1984 act to do what the ftt did, which was to look at the position in substance before the transfer took place and without reference to its legal analysis.
+i do not consider that there is any such mandate.
+the interest of the sons under the nomination was undoubtedly a favourable change from their previous position under mrs staveleys will if regard is had to the legal analysis.
+the interpretation of confers any gratuitous benefit which i prefer gives weight and appropriate meaning to the statutory words.
+at para 50, lady arden said that that the correct approach to section 10 was a technical approach, and not a substantive one.
+she considered it clear from the wording that the subsection is intended to be narrowly construed, and identified a number of features of the provision which she found influential, including that: there is no limitation on the type of benefit and there is no requirement for the gratuitous benefit to be conferred on the recipient of the property transferred by the disposition.
+it can be conferred on any person.
+it must be of some value, but that value need not be the same as the value of the property transferred.
+summarising her interpretation at para 52, she said that the conferral of a benefit is to be ascertained by a legal analysis of the transaction whereby the beneficiary acquired his rights and without comparison with a prior gift.
+even with the benefit of lady ardens analysis, i confess to some difficulty in understanding what, precisely, hmrc consider to be the correct interpretation of section 10.
+they accept that ordinarily an intent to confer benefit involves an element of intention to improve a persons position but, they say, the important question is improve the recipients position in comparison to what? in identifying this as the important question, hmrc can be seen to acknowledge that a comparison of some sort is required in order to determine whether relevant benefit has been conferred for section 10 purposes (or putting it more exactly, whether the disposition was intended to confer any gratuitous benefit).
+however, they seek to confine the exercise to a comparison with the recipients position (i) as it is in law, and (ii) immediately before the disposition.
+a more generalised consideration of whether the overall effect of the disposition was intended to be favourable to, or advantageous to, the recipient of the benefit is not permitted, on their case.
+they also assert that a comparison with a prior gift is not permissible.
+in applying this formulation to the present case, hmrc seem to be adopting what i might call a return to zero approach.
+it is integral to their argument that there is a moment when rights under the section 32 policy have ended, but rights under the ppp have not yet begun.
+on their argument, at this point, immediately before rights are acquired under the ppp, the sons have nothing, having lost even the hope of benefitting that they had in relation to the section 32/will arrangement, and are totally reliant on mrs staveley making new arrangements to enable them to benefit from her pension fund.
+they necessarily benefit, therefore, from mrs staveley taking out the ppp rather than, for instance, simply divesting herself of the section 32 fund completely in some way, so as to ensure that nothing would find its way to morayford/her ex husband.
+i am not sure whether hmrc would say that the return to zero approach applies in every case or whether it depends upon the particular facts of this case, for example upon the fact that, at the point of the transfer, the sons had no legally enforceable right to receive any death benefits via mrs staveleys will.
+there were features of miss wilsons submissions which suggested to me that the approach was a response to the particular facts of the case.
+the first of miss wilsons three generic questions draws in a consideration of pre existing rights in asking, what rights were created and extinguished? (my emphasis), and there were other elements in her submissions which also suggested that regard might be had to the prior position.
+for example she particularly noted that the sons were in no position to barter for their nomination in the expression of wish form, suggesting that the legal analysis might have been different if they had had pre existing rights, and that what was important was that they had no rights, only a hope of benefitting from the will.
+none of this is surprising, as it would surely be difficult to decide, in a complete vacuum, whether or not something is a benefit, and well nigh impossible to decide whether it is a gratuitous benefit.
+as some sort of comparison with a pre existing position is required in order to determine the gratuitous benefit question, even on hmrcs case, and given that hmrc accept that ordinarily an intent to confer benefit involves an element of intention to improve a persons position, the difference between the parties may not in fact be enormous.
+the most notable difference is that hmrc contend for a much narrower, and more technical, approach in carrying out the inevitable comparison than do the appellants, rejecting an examination of the position in substance.
+and of course their application of that approach to these facts produces a radically different result.
+in interpreting section 10, it is important to keep in mind that the question is
+not simply, was a gratuitous benefit conferred on any person? the search is for what the disponor intended, and in particular for whether the disponor intended to confer any gratuitous benefit on any person.
+if, by the three questions that they say must be asked (see para 51 above), hmrc assert that the relevant intention is merely an intention on the part of the disponor to engage in a transaction which, as a matter of legal analysis, creates new rights which confer a benefit on a person, i cannot accept that that would be correct.
+it would be surprising if it were, as it would potentially prevent the application of section 10 in the sort of commercial arms length transactions where it would normally have a role.
+for instance, in a bad commercial bargain where the purchaser quite unknowingly pays more than an item is worth, the purchaser intends to make the purchase and, as a matter of legal analysis, the transaction confers on the vendor the right to keep the overpayment, which is a gratuitous benefit, for which he has not given value.
+indeed, had this been all the intention required, it might have been argued by hmrc that there was no need to explore mrs staveleys thinking about the potential iht advantages of the ppp, because the mere fact that she intended to make a disposition which, as a matter of law, carried those advantages took matters outside section 10 without more.
+the disponors actual intention in making the disposition is, therefore, in point.
+that militates against an over technical interpretation of what is meant by confer any gratuitous benefit.
+to my mind, the approach taken by the majority in the court of appeal is essentially the correct one.
+the words confer and benefit have to be given their ordinary meaning, and the dictionary definitions (see newey ljs para 88, quoted at para 40 above) show that they import the idea of granting or bestowing some advantage on the recipient.
+like newey lj, i do not think it is appropriate to speak of a disposition having been intended to confer any gratuitous benefit if the recipient of the benefit was intended to receive no more than he would have had in any event.
+it is necessary, therefore, to ask whether the disponor was intending, by the overall effect of the disposition, to put the recipient in a better position, or, to borrow from what newey lj said at para 88, putting things broadly, to ask whether the disposition was being used to improve someones position on a gratuitous basis.
+the exercise is not, however, simply a matter of asking the disponor whether or not he or she intended to confer benefit, as miss wilson submits would be all that was required under the appellants test.
+i go so far with hmrc as to accept that it is not possible to consider whether a disposition was intended to improve someones position without taking into account what rights the recipient had, in law, before and after the disposition.
+this legal context will permit a more rigorous evaluation of whether the requisite absence of intention has been shown.
+but this legal analysis of the rights is a factor in the evaluation, not the be all and end all of the consideration.
+i do not accept, for example, that the mere fact that the rights are to be enjoyed in a different legal form after the disposition means that they are necessarily a gratuitous benefit.
+furthermore, i cannot accept the return to zero analysis, whereby the existing set of rights must necessarily be treated as ending immediately prior to the disposition, with a new set commencing which, in comparison to the void left by the ending of the pre existing rights, can then be described as beneficial.
+there must, as i see it, be more attention paid to the practical reality of the legal situation than that wholly artificial analysis permits.
+it would probably be unwise to attempt to define further what is meant by intended to confer any gratuitous benefit, particularly as it is unnecessary to do so to resolve the instant case.
+instead, i hope that by turning to the facts of the case, i can demonstrate the way in which it seems to me the section should be interpreted.
+true it is that as a matter of legal analysis, the position of the sons differed as between the section 32/will arrangement and the ppp but, on its own, that takes matters nowhere.
+newey lj did not regard it as in the least obvious that (iht apart) the sons were in practice any better placed as a result of the transfer than they had been under the section 32/will arrangement.
+i would endorse that view.
+i do not see their position as better under the ppp than previously.
+just as they had no right to benefits under the section 32/will arrangement, so they had no right to benefits under the ppp.
+they had a hope of benefitting under the will from any death benefits, but mrs staveley could have changed her will at any time and they would have had no remedy if she had decided to bequeath her estate elsewhere.
+similarly, if she had chosen to draw her pension during her lifetime with the result that death benefits ceased to be payable at all, they could have done nothing about it.
+under the ppp, they were within the class of those in whose favour the scheme administrator could exercise its discretion, but they could not rely upon the death benefits being paid to them.
+not only was there a genuine discretion (as the upper tribunal found), mrs staveley could have notified axa of a change to her wishes, or even drawn a lifetime pension herself.
+the most that the sons could have required, assuming that mrs staveleys nomination remained as it was in the original expression of wish, was that the scheme administrator give proper consideration to paying the benefits to them.
+as mr rees qc for the appellants said in argument, the only material change was in the identity of the person upon whose decision receipt of the benefits depended, from mrs staveley in the case of the will, to the scheme administrator under the ppp.
+as for hmrcs submission that the sons position was improved because they were better off with the funds in the ppp, which gave them a chance of receiving the death benefits, than if mrs staveley had disposed of the funds elsewhere, that ignores the reality of the transfer of the pension funds from one provider to another.
+mrs staveley did not have a free hand with regard to this.
+there was no moment when, having drawn the funds from the section 32 policy, she was free to do what she wished with them.
+as mr rees put it in oral argument, she never had the right to take the money out of the pension wrapper, at least as the law stood at that time.
+upon surrender of the section 32 policy, the policy monies were to be paid directly by the company to the receiving scheme.
+it is wholly artificial to introduce the return to zero approach in these circumstances.
+the disposition was, as the notice of determination identified, the transfer of funds from the section 32 policy to the ppp.
+what is crucial, of course, is what mrs staveley intended.
+given that, even factoring in a legal analysis of the sons position at each stage, the disposition cannot be said to have conferred a gratuitous benefit on them, it would be surprising if it could nonetheless be concluded that there had been a failure to show the requisite absence of intention.
+the finding of the ftt was that mrs staveley did not intend to improve the sons position by transferring the funds.
+i would not criticise the court of appeals conclusion that the ftt impliedly found that, when she signed the expression of wish form nominating her sons, mrs staveley intended to benefit in the light of the above, the transfer of the funds on its own is not a transfer them (see para 44 above, and also para 103(vi) of newey ljs judgment).
+however, this is not relevant to transfer issue 1, in my view.
+in the circumstances of this case, making the nomination does not amount to conferring a relevant benefit, and mrs staveleys benign intention in this regard cannot amount to an intention to confer gratuitous benefit.
+of value because section 10 applies.
+transfer issue 2 (transfer and omission as associated operations): discussion
+the parties rival arguments on this issue are summarised at paras 18 and 19 above.
+it is accepted that, as the ftt found (see para 31 above) in omitting to draw lifetime benefits under the ppp, part of mrs staveleys intention was to benefit her sons.
+the question is whether this intention colours the transfer with an intention to confer gratuitous benefit which it would not have on its own.
+the issue requires close consideration of the decision of the house of lords in macpherson, and an examination of the facts found by the ftt as to the lack of a relevant link between the transfer and the omission, the appellants arguing that the court of appeal went wrong in law and on the facts when holding that the benefit of section 10 was not available because the transfer and the omission formed a series of transactions and associated operations intended to confer a gratuitous benefit on the sons.
+in macpherson, the house of lords was concerned with section 20(4) of the finance act 1975 (fa 1975) which was in effectively identical terms to section 10, as was the fa 1975 definition, in section 44, of associated operations.
+macpherson concerned property held in a discretionary settlement, the primary objects of the settlement being mr robarts and his family.
+valuable pictures were included in the settled property.
+the trustees had an agreement with mr robarts, whereby he undertook the custody, care and insurance of the pictures and agreed to pay 100 a year for his enjoyment of them.
+the agreement was terminable on three months notice by either side.
+some years later, in 1977, the agreement was varied, including by the right of termination on notice being removed and replaced with a fixed date in 1991 for the expiry of the agreement (subject only to the trustees being able to terminate sooner in the event of a serious breach of the agreement by mr robarts).
+the next day the trustees executed a deed of appointment appointing the pictures, subject to and with the benefit of the varied agreement, on trusts under which mr robarts son took a protected life interest in possession.
+the issue was whether capital transfer tax was payable in respect of the 1977 variation which, by deferring the date on which the pictures could be delivered to an open market purchaser, had diminished their value.
+the transaction would attract capital transfer tax unless it was such that, were the trustees beneficially entitled to the settled property, it would not be a transfer of value.
+that depended on section 20(4).
+the evidence was that the trustees had concluded that they ought not to exercise the power of appointment in favour of the son unless the original agreement was first varied, since mr robarts was not willing to continue to house the pictures on the original terms after such an appointment.
+counsel for the trustees accepted that the variation and the appointment were associated operations but contended that the appointment was nevertheless not a relevant associated operation.
+counsel for the revenue contended that as a matter of law the transaction which had to be looked at in section 20(4) was one which included a series of transactions and associated operations and, as a matter of fact, based on the trustees reason for varying the original agreement, the 1977 agreement was made in such a transaction.
+lord jauncey of tullichettle noted that the definition of associated operations was capable of covering a multitude of events affecting the same property which might have little or no apparent connection between them, but that counsel for the revenue rightly accepted that some limitation must be imposed.
+as it is central to the argument before us, it is necessary to set out in full, the following passage in which lord jauncey considered the ambit of section 20(4) (p 175g): if the extended [section 44] meaning of transaction is read into the opening words of section 20(4) the wording becomes: a disposition is not a transfer of value if it is shown that it was not intended, and was not made in a transaction including a series of transactions and any associated operations intended, to confer any gratuitous benefit so read it is clear that the intention to confer gratuitous benefit qualifies both transactions and associated operations.
+if an associated operation is not intended to confer such a benefit it is not relevant for the purpose of the subsection.
+that is not to say that it must necessarily per se confer a benefit but it must form a part of and contribute to a scheme which does confer such a benefit.
+in this case it is common ground that the appointment conferred a gratuitous benefit on [the son].
+it is clear that the appointment would not have been made if the 1970 agreement had not been varied by that of 1977.
+it follows that the 1977 agreement was not only effected with reference to the appointment but was a contributory part of the scheme to confer a benefit on [the son].
+so viewed there can be no doubt that the 1977 agreement, being the disposition for the purposes of section 20(4), was made in a transaction, consisting of the agreement and the appointment, intended to confer a gratuitous benefit on [the son].
+the trustees had thus failed to satisfy the test in section 20(4) and tax was payable on the variation agreement.
+it is not suggested that we should do other than adopt lord jaunceys interpretation of section 20(4) in our construction of section 10.
+however, there is a significant difference of opinion between the parties as to what lord jaunceys interpretation actually was, and how it should be applied to the present case.
+for the appellants, mr rees accepts that the omission falls within the wide definition of associated operations, but says that it is, nonetheless, not relevant in identifying a transaction in the wider sense for section 10 purposes.
+to be relevant, in his submission, a step (to adopt an inexact but useful shorthand covering transactions in the narrow sense and associated operations) must not only form part of and contribute to a scheme that confers a gratuitous benefit, but must also, itself, have been intended to confer a gratuitous benefit.
+that, he submits, is what lord jauncey was saying.
+miss wilson, on the other hand, says that there is no need for each individual step to be intended to confer gratuitous benefit.
+all that is required for a step to be relevant is that it forms part of and contributes to a scheme which confers a gratuitous benefit.
+here, in her submission, the scheme is the gift of the death benefits to the sons, to which the investment in the ppp and the omission both contribute.
+without the investment of the funds in the ppp, there would have been no death benefit to give to the sons.
+there might initially appear to be support for the appellants interpretation of lord jaunceys speech in the following passage (see para 70 above for the full quotation): the intention to confer gratuitous benefit qualifies both transactions and associated operations.
+if an associated operation is not intended to confer such a benefit it is not relevant for the purpose of the subsection. (my emphasis) lord jauncey might be taken to be saying, here, that each step in any scheme must be intended to confer benefit, otherwise it is irrelevant.
+however, i do not think that can be what he meant.
+i agree with miss wilson, who submits that to understand macpherson correctly, one must appreciate that it was there conceded by the revenue that the variation agreement was not intended to confer gratuitous benefit and was such as might be expected in a commercial transaction (see p 173g).
+the variation agreement was, of course, the focus of the dispute in that case.
+unless it could be linked with the appointment in favour of the son the following day, it would have escaped tax by (putting it loosely) the application of section 20(4).
+the revenue, however, satisfied their lordships that the agreement could be bolted together with the next days appointment, notwithstanding that the variation agreement was not attended by an intention to confer gratuitous benefit.
+it was held to be part of a scheme which was intended to confer gratuitous benefit, and therefore to be a transfer of value and subject to capital transfer tax.
+that scheme was made up of one element which was not attended by gratuitous intent (the variation), and one element (the appointment) which was.
+if lord jauncey had intended to say that a scheme can only comprise elements which are, themselves, attended by a gratuitous intent, there would have been no scope for taking the variation and the appointment together in this way.
+accordingly, i would reject the argument that a step can only be relevant if it is, itself, taken with an intention to confer gratuitous benefit.
+nevertheless, it is clear that lord jauncey considered, in line with the revenues concession, that not everything which could be described as an associated operation would be material for section 20(4) purposes.
+the fact that the operation did not itself confer a benefit did not rule it out, but, to be relevant, it must form a part of and contribute to a scheme which does confer such a benefit.
+lord jauncey expressed himself here in terms of the scheme conferring a benefit, rather than it also being intended to confer a benefit.
+however, reading his speech as a whole, i would be inclined to say that he meant that the scheme had to be one actually conferring, and intended to confer, such a benefit.
+just before he said this, he had referred to the intention to confer gratuitous benefit qualifying both transactions and associated operations.
+and though referring here to a scheme which does confer such a benefit, in the next paragraph (quoted at para 70 above), he referred to the conceded fact that the appointment conferred a gratuitous benefit on the son and the fact that that appointment would not have been made without the variation, and then said that it followed that the agreement was not only effected with reference to the appointment but was a contributory part of the scheme to confer a benefit (my emphasis).
+in my view, this passage, and in particular the reference to a scheme to confer a benefit shows that lord jauncey saw it as a necessary feature that the scheme should be one intended to confer a gratuitous benefit.
+the alternative scenario with which lord jauncey dealt in the following paragraph (p 176d) perhaps provides a little further help as to what he had in mind as to the workings of the requirement that the step be a contributory part of the scheme.
+in the alternative scenario, the agreement took place after the appointment.
+on lord jaunceys analysis, whilst associated with the appointment in accordance with the definition in section 44, it would not have been a relevant associated operation.
+what he saw as important, in that situation, was that, as a matter of fact, the agreement would have contributed nothing to the conferment of the gratuitous benefit which had already been effected by the appointment.
+alternatively, he would have ruled it out on the basis that the transaction which was intended to confer gratuitous benefit had been completed before the agreement had been entered into, so that although it was an associated operation, it could not be said to have been made in that transaction.
+what remains is to consider how the requirement that associated operations form a part of and contribute to a scheme applies in the present case.
+it may help to commence that consideration by recalling that the scheme in the macpherson case involved the variation agreement, on commercial terms, (which might be likened to the transfer to the ppp in this case), and the appointment, which conferred, and was intended to confer, gratuitous benefit (which might be likened to the omission in this case).
+as in macpherson, so in the present case, the two steps are potentially relevant associated operations.
+in macpherson, they were linked as part of the scheme to benefit the son and therefore reliance could not be placed on the section 20(4) exemption.
+but do the two steps here form a part of and contribute to a scheme which is intended to confer gratuitous benefit?
+before moving to consider this, it might be helpful to look in a bit more detail at the circumstances of the macpherson case.
+paragraph 17 of the affidavit of the trust solicitor played an important part in the resolution of the dispute.
+lord jauncey quoted from it, at p 170h, as follows: it further appears from paragraph 17 of the affidavit of the trust solicitor that for reasons which it is not necessary to consider, the trustees: came to the conclusion that they ought not to exercise their power of appointment so as to give mr david robarts eldest son timothy an interest in possession in the settled pictures unless the terms of the 1970 custody agreement were first reviewed and varied, since mr david robarts was not willing to continue, after such an appointment, to house the pictures on the terms of the 1970 custody agreement in its original form.
+this evidence from the trust solicitor was an important part of the revenues case, as can be seen from what lord jauncey said at p 175c: counsel for the crown contended that as a matter of law the transaction which had to be looked at in section 20(4) was one which included a series of transactions and associated operations and that as matter of fact the disposition, being the 1977 agreement, was made in such a transaction.
+counsel accepted that the terms of paragraph 17 of the affidavit of the trust solicitor were essential to the factual part of this proposition.
+as i see it, the crux of paragraph 17 of the affidavit was that the power of appointment would not have been exercised unless the 1970 agreement was first varied.
+the revenues contention, as set out by lord jauncey, was that as [a] matter of fact, the 1977 agreement (by which that desired variation was achieved) was made in a transaction of the series of transactions and associated operations variety.
+and the terms of paragraph 17 of the affidavit were accepted to be essential to a conclusion that there was, indeed, in fact, a series comprising the 1977 agreement and the appointment.
+on the facts of the macpherson case, it can be seen that the two steps in the series were clearly linked by a common intention.
+the present case is not so straightforward.
+here, the ftt found that whatever the intent behind the omission, it was not linked with the transfer to the ppp in mrs staveleys mind (see para 32 above).
+in part this was because her intent in making the transfer was solely to break the connection with morayford, and in part it was because her decision not to take lifetime benefits predated, and was independent of, the decision to transfer.
+the court of appeal considered the ftt to be mistaken in so finding (see para 46 above).
+its conclusion was that, although mrs staveley made the transfer out of a desire to sever ties with morayford, the only reasonable conclusion was that she also intended it to be the means by which the death benefits could be passed to her sons.
+the appellants challenge to the court of appeals approach to transfer issue 2 is put, in significant part, upon the basis that it is necessary for each transaction/associated operation to be qualified by an intent to confer gratuitous benefit, a proposition which i would reject for the reasons i have given earlier.
+but it is also submitted that, in order to reach its conclusion, the court of appeal interfered impermissibly with the ftts findings of fact, failing to abide by the limitations imposed by edwards v bairstow [1956] ac 14.
+furthermore, the court of appeals reasoning is, the appellants say, impossible to reconcile with its acceptance that the ftt was entitled to conclude that the transfer to the ppp was not of itself intended to confer a gratuitous benefit.
+in the appellants submission, the ftts finding that the omission was not linked with the transfer should be restored, and it follows that the transfer was not part of a relevant scheme.
+hmrc respond with two alternative arguments concerning the ftts findings of fact.
+first, they say that the appellants miscast what the ftt found.
+they point to the ftts finding at para 16 (see para 26 above) about the importance mrs staveley attached to her sons benefitting from her estate.
+they also point out that the ftt found that the decision not to take lifetime benefits was a continuing decision, intended to benefit the sons, made in june 2006 and unchanged until her death.
+whilst mrs staveley chose a different mechanism for her gift of death benefit to the sons, moving the funds to the ppp, the ppp was nevertheless intended to be the mechanism for the intended gift and, in their submission, linked with the omission as part of a scheme intended to confer gratuitous benefit.
+secondly, and in the alternative, hmrc submit that in so far as the ftt ruled out any relevant link between the transfer and the omission, its finding was wrong, as the only rational conclusion was that in making the transfer into the ppp, as well as seeking to exclude her husband, mrs staveley intended to facilitate the gift to her sons of the death benefits.
+i have not found it at all easy to determine how the law should be applied to
+the facts in relation to transfer issue 2.
+in part this is because, quite exceptionally, the matter has reached this court with the factual matrix still the subject of significant debate.
+however, it is also because both sides arguments have force.
+the result seems to me to depend upon the degree to which one isolates mrs staveleys investment in the ppp from its context.
+let us suppose that mrs staveley was taking out the ppp as her first investment in a pension.
+the investment was made at a time when (as the ftt found) she held a settled intention that, in order to confer a greater financial benefit on her sons, she would not draw lifetime benefits.
+the nomination of her sons in the expression of wish form shows that this was actively in her mind at the time of the transfer to the ppp.
+the ppp was the vehicle which would generate death benefits to pass on.
+it could properly be described, in my view, as a means by which the death benefits could be passed to them (see newey lj para 103(v), quoted at para 46 above).
+the second element in achieving that objective was that mrs staveley would not draw lifetime benefits.
+so far, the analysis supports a finding that the investment in the ppp and the omission to draw lifetime benefits were part of a scheme to confer benefit.
+but the ppp was not a first investment in a pension scheme.
+the funds were already invested in the section 32 policy, and mrs staveleys essential scheme, of not drawing a lifetime pension in order to benefit her sons by leaving them her death benefits, could have been achieved without any change of pension policy.
+leaving to one side inheritance tax saving, upon which hmrc have not sought to rely at this stage of the analysis, and also the vexed question of morayford, there was no need to transfer the funds at all and no benefit in doing so.
+the circumstances differ materially, therefore, from those in macpherson.
+in macpherson, the two elements under consideration were linked in the scheme by a common intention the trustees would not have made the appointment if the variation had not taken place and the scheme was one intended to confer, and actually conferring, gratuitous benefit on the son by the appointment of the pictures.
+the variation agreement therefore satisfied lord jaunceys requirements that it form a part of and contribute to a scheme which does confer a [gratuitous] benefit (my emphasis) and is intended to confer a gratuitous benefit.
+in the present case, the transfer to the ppp and the omission to take lifetime benefits were not, in fact, relevantly linked in a scheme.
+the omission had already been decided upon whilst the funds were in the section 32 policy and the sons could have benefitted from it without any move to the ppp.
+moving the funds from one policy to the other (the transfer, focused upon by the notice) was not a contributory part of the scheme to confer gratuitous benefit on the sons; it was a step taken solely to ensure that morayford could not benefit, as the ftt were entitled to find on the very unusual evidence in this case.
+the omission and the transfer were not therefore, in my view, relevantly associated.
+i would therefore allow the appeal in relation to transfer issue 2.
+section 3(3) and the omission: discussion
+it is common ground that mrs staveleys estate was diminished by her omission to exercise her right to lifetime benefits under her pension and that her sons received the resulting death benefits some months after her death.
+the dispute is as to whether it can be said that the value of another persons estate is increased by her omission, within the meaning of section 3(3) (as amended by section 156 of, and paragraph 8 of schedule 20 to, the finance act 2006).
+the appellants say that it cannot because there is not a sufficient connection between the omission and the increase in value in the sons estates.
+they argue that for matters to come within section 3(3) the omission has to be the immediate cause of the increase in the value of anothers estate, with there being immediacy both in terms of timing and in terms of cause and effect.
+they point to various linguistic features of the section, notably the words increased by, and the use of the present tense (the value of a persons estate is diminished, and the value of another persons estate is increased).
+on their submission, the section will only apply where the omission directly causes the increase, not where it is purely something but for which the increase would not have taken place.
+they bolster their argument by referring to potential practical problems if section 3(3) applies in circumstances such as the present, given that it was not until six months after mrs staveleys death that the scheme administrator exercised the discretion in the sons favour.
+this shows, they say, that those who have to deliver an iht account will not know for an indefinite period whether or not the deceaseds omission is to be treated as a disposition for iht purposes.
+consideration of this issue must proceed upon the basis that there was a genuine discretion to be exercised by the scheme administrator here.
+it was, of course, a discretion which need not have been exercised in the sons favour, there being others included in the class provided by the scheme rules.
+notwithstanding this, i would conclude that the provisions of section 3(3) are satisfied and the omission is therefore a deemed disposition.
+i do not consider there is any mandate to import a temporal requirement into the subsection, requiring an immediate temporal link between the reduction in one estate and the increase in the other.
+there is a correlation of substance between the reduction and the increase, in that one results from the other, but they need not occur at precisely the same time.
+the use of the present tense upon which the appellants rely, does not dictate such a requirement.
+the present tense is used to identify two separate states of affairs which have to exist (is diminished and is increased by) but it does not follow that they have to exist at the same time or, putting it more exactly, one immediately following the other.
+that is not to say that questions of timing will be irrelevant to a determination of whether the subsection is satisfied.
+i agree with hmrcs submission that, as with all questions of causation, the evaluation of whether another persons estate is increased by the omission to exercise a right requires consideration of all the facts and circumstances.
+i turn therefore to look at the wider causation argument, bringing in the scheme administrators discretion.
+in this case, the omission yielded the death benefits that, in fact, increased the sons estates and i do not see the limited discretion of the scheme administrator as breaking the chain connecting the two events.
+to say that it did would be to adopt a narrow and legalistic approach to section 3(3) which does not seem to me to be appropriate.
+putting it another way, the omission was the operative cause of the increase.
+as newey lj observed (para 109, see para 47 above), it may be that the increase in the sons estates could also be said to be brought about by the exercise of the administrators discretion, but that does not preclude a finding that they were increased by the omission.
+my view is reinforced by the fact that section 3(3) requires only that another persons estate is increased.
+it is not concerned with the identity of the other person.
+the benefits that were generated by mrs staveleys omission to draw her lifetime pension were undoubtedly going to increase another persons estate, even if the scheme administrator had not exercised its discretion in favour of the sons, but i would therefore dismiss the appeal in relation to the omission. instead chosen others from the list within the scheme rules.
+to my mind, this adds weight to an interpretation of the subsection which results in the omission in this case being deemed to be a disposition, and it deals also with the practical problem which the appellants suggested arose.
+the persons liable for tax might not have been identifiable, but it would have been clear from the date of mrs staveleys death that a charge to tax would arise by virtue of the omission.
+overall conclusion
+it follows from the above that, in my view, the court of appeal properly found that mrs staveleys omission to draw lifetime benefits under the ppp should be treated as a disposition by virtue of section 3(3) ihta, but that the transfer of funds from the section 32 policy to the ppp, whether taken alone or in the context of the omission, was not a transfer of value because section 10 ihta applies.
+lord hodge: (dissenting in part) (with whom lord sales agrees)
+i am very grateful to lady black for her clear judgment.
+i agree with her on transfer issue 1 and on the question of section 3(3) of the inheritance tax act 1984 (ihta) and the omission.
+i have come to a different conclusion on transfer issue 2 and set out briefly the reasons for my view.
+the parties agreed and i accept that the law had been correctly stated by the house of lords in inland revenue comrs v macpherson [1989] ac 159 (macpherson).
+the case involved the interpretation and application of sections 20(4) and 44 of the finance act 1975 (fa 1975), which were substantially identical to sections 10 and 268 of the ihta.
+like lady black, i consider that the decision of the house of lords requires close consideration.
+macpherson was concerned with a discretionary settlement which had as its primary objects mr robarts and his family.
+the settled property came to include valuable pictures which were kept in houses owned by mr robarts and his wife.
+in 1970 the trustees of the settlement entered into an agreement with mr robarts (the 1970 agreement) whereby he undertook the custody, care and insurance of the pictures and to pay 100 per year for the enjoyment of them.
+either side could terminate the agreement on three months notice.
+on 29 march 1977 the trustees and mr robarts entered into a further agreement (the 1977 agreement) to vary the 1970 agreement by reducing his annual payment and limiting his liability in respect of the insurance and loss of the pictures.
+the right to terminate the agreement on three months notice was removed and replaced with a provision continuing the 1970 agreement (as so amended) in force until 1 april 1991, unless mr robarts committed a serious breach of the agreement.
+on the following day, the trustees executed a deed of appointment appointing the pictures, subject to the agreements, on trusts under which mr robarts son, timothy, took a protected life interest in possession.
+the trust solicitor gave evidence by affidavit that the trustees had concluded that they ought not to exercise their power of appointment to give mr robarts son an interest in possession in the pictures unless the 1970 agreement was first varied, because mr robarts was not willing to continue to house the pictures after such an appointment on the terms set out in the 1970 agreement.
+the 1977 agreement diminished the value of the pictures because it deferred the date at which they could be delivered to the open market.
+the inland revenue commissioners (irc) therefore sought to charge capital transfer tax in respect of the 1977 agreement.
+the disputed question was whether the 1977 agreement was not a transfer of value because it was a disposition which was not made in a transaction intended, to confer any gratuitous benefit on any person.
+section 20(4) of the fa 1975, now section 10(1) of the ihta, therefore occupied centre stage.
+counsel for the trustees accepted that the 1977 agreement and the appointment were associated operations within the wide definition in section 44 of the fa 1975 (section 268 of the ihta) but submitted that the only transaction was the 1977 agreement itself.
+the appointment was therefore not a relevant associated operation.
+counsel for the irc contended that a disposition could be made in a transaction which (under section 44 of the fa 1975) included a series of transactions and associated operations.
+the 1977 agreement was made in such a transaction because of the intention of the trustees recorded in the affidavit of the trust solicitor.
+the house of lords did not accept the trustees submission.
+lord jauncey of tullichettle, who gave the leading judgment, rejected the narrow interpretation of section 20(4).
+he held that the 1977 agreement was a disposition for the purposes of section 20(2) (now section 3(1) of the ihta 1984) and section 20(4).
+he stated (p 174d e) that section 20(4) envisaged: two types of situation in which a disposition may not be a transfer of value, namely: (1) where the disposition stood alone and was not intended to confer any gratuitous benefit, and (2) where the disposition was not made in a transaction intended to confer any gratuitous benefit.
+he continued (p 174f g): in the second case the disposition would form one of a number of events of which the sum constituted the transaction which was relevant to intent.
+there is nothing in section 20(4) to require that the event, to use a neutral word, which results in the devaluation of the settled property must be looked at in isolation from all other events for the purposes of the subsection.
+if an individual took steps which devalued his property on monday with a view to making a gift thereof on tuesday he would fail to satisfy the requirements of section 20(4) because the act of devaluation and the gift would be considered together.
+if trustees in the circumstances envisaged in paragraph 6(3) took steps which devalued the settled property with the object of making subsequent distributions thereof why should the two events be considered as independent of one another? neither law nor logic would suggest that they should.
+lord jauncey acknowledged that, in order to determine whether the 1977 agreement was made in a transaction, within the extended meaning of section 20(4) (ie a series of transactions and any associated operations), it was necessary to consider what were associated operations in section 44.
+he noted that the definition in that section was extremely wide and was capable of covering a multitude of events affecting the same property which might have little or no apparent connection between them (p 175d).
+he then set out how a limitation should be imposed on the concept of associated operations for the purpose of determining what constituted a transaction for the purposes of section 20(4).
+he stated (p 175g 176c): if the extended meaning of transaction is read into the opening words of section 20(4) the wording becomes: a disposition is not a transfer of value if it is shown that it was not intended, and was not made in a transaction including a series of transactions and any associated operations intended, to confer any gratuitous benefit so read it is clear that the intention to confer gratuitous benefit qualifies both transactions and associated operations.
+if an associated operation is not intended to confer such a benefit it is not relevant for the purpose of the subsection.
+that is not to say that it must necessarily per se confer a benefit but it must form a part of and contribute to a scheme which does confer such a benefit.
+in this case it is common ground that the appointment conferred a gratuitous benefit on timothy.
+it is clear that the appointment would not have been made if the 1970 agreement had not been varied by that of 1977.
+it follows that the 1977 agreement was not only effected with reference to the appointment but was a contributory part of the scheme to confer a benefit on timothy.
+so viewed there can be no doubt that the 1977 agreement, being the disposition for the purposes of section 20(4), was made in a transaction, consisting of the agreement and the appointment, intended to confer a gratuitous benefit on timothy. (emphasis added)
+lord jauncey then dealt with a submission by counsel for the trustees that it would be anomalous if the 1977 agreement were a relevant associated operation because double taxation would occur if the appointment had preceded the 1977 agreement.
+he rejected that submission for two reasons (p 176d e): first because the 1977 agreement would have contributed nothing to the conferment of the gratuitous benefit which had already been effected by the appointment, and alternatively, because the transaction intended to confer the gratuitous benefit had already been completed before the agreement was in place.
+in my view, lord jauncey limited the type of transaction or series of transactions and associated operations which were relevant for the purpose of section 20(4) (now section 10(1) of the ihta) by requiring that the disposition in question formed part of and contributed to the transaction (or in his words the scheme) which conferred a gratuitous benefit.
+in macpherson the transaction intended to confer a gratuitous benefit was put into effect when the appointment was made on the day following the execution of the 1977 agreement.
+on the facts of that case (viz the evidence of the trust solicitor which ircs counsel accepted was critical to their case and to which lady black refers in paras 80 and 81 above), that appointment would not have been made unless the 1970 agreement had been varied.
+in other words, the intended result of the scheme to benefit timothy (which i will call b) was achieved by the appointment itself but that appointment would not have happened without the prior step (which i will call a) which was the 1977 agreement.
+but lord jauncey did not set up a requirement that the disposition (a) had to be a necessary component of the scheme to achieve the result (b) but merely that a was effected with reference to the appointment and was a contributory part of the scheme to achieve the result b.
+in mrs staveleys case, she had formed an intention, some time before she decided to instruct the transfer, to use her pension pot in the section 32 policy to confer a gratuitous benefit on her sons by omitting to take lifetime benefits.
+if she did not take such benefits, the trustees on her death would have paid a lump sum to her estate by way of death benefit.
+the holding of the section 32 policy and the continued omission to take lifetime benefits were thus a transaction (or scheme) to confer gratuitous benefit on her sons.
+that transaction (or scheme) would not have been completed until she died: until then, her sons had no benefit.
+in this context the result of the scheme to confer benefit on her sons (b) would be achieved if she retained the section 32 policy and took no benefits (a).
+because she did not wish her ex husband to benefit from the return of any surplus in her pension fund to morayford ltd, she instructed the transfer of her pension fund to the ppp and nominated her two sons to be considered by the pension scheme administrator as equal recipients of the death benefit.
+before and after the transfer, the pension fund was earmarked to confer benefit on her sons.
+by so acting she created an alternative mechanism by which to give effect to her intention to confer that gratuitous benefit.
+mrs staveley could have prevented morayford ltd from benefitting from the surplus in her fund by other means.
+but she did not do so.
+the transfer and the nomination in favour of her sons were, on the ftts findings of fact, made when mrs staveley had a continuing intention to confer that benefit on her sons.
+in other words, by replacing step a (the combination of the holding of section 32 policy and the intention not to take life benefits) with step c (the combination of the transfer to the ppp, the nomination and the same intention) she created an alternative means of achieving the result b.
+these circumstances clearly differ from the factual circumstances in macpherson, as the transfer to the ppp was not a necessary step to achieve the result b because of the pre existence of the section 32 policy.
+where i find myself in respectful disagreement with lady black is that (in para 88 above) she sees as a critical distinction from macpherson the fact that in this case the sons could have benefitted from [the section 32 policy] without any move to the ppp.
+that distinction rests on mrs staveleys ability to achieve the result b before the transfer, with the result that the transfer was not necessary.
+it excludes the possibility of the transfer to the ppp being part of a scheme to achieve result b because it was not needed to achieve that result.
+that is to impose a test of necessity in relation to step c, which macpherson does not support.
+in my view, on the facts found by the ftt, the transfer itself was not motivated by the wish to give gratuitous benefit to her sons but it and the nomination were nonetheless referable to and a contributory part of a substituted scheme to enable them to receive the death benefit.
+that fails to meet the requirements of section 10(1) of the ihta.
+i therefore agree with the reasoning of newey lj in para 103 of his judgment.
+i conclude that the court of appeal were correct to find an error of law in the ftts determination on transfer issue 2.
+i would hold that the transfer and nomination taken with the omission were a transfer of value because they do not meet the requirements of section 10 of the ihta.
+i would have dismissed the appeal on the section 10 ground also.

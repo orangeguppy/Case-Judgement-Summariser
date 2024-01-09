@@ -1,0 +1,453 @@
+in our society, a great deal of intellectual effort is devoted to tax avoidance.
+the most sophisticated attempts of the houdini taxpayer to escape from the manacles of tax (to borrow a phrase from the judgment of templeman lj in w t ramsay ltd v inland revenue comrs [1979] 1 wlr 974, 979) generally take the form described in barclays mercantile business finance ltd v mawson [2004] ukhl 51; [2005] 1 ac 684, para 34: . structuring transactions in a form which will have the same or nearly the same economic effect as a taxable transaction but which it is hoped will fall outside the terms of the taxing statute.
+it is characteristic of these composite transactions that they will include elements which have been inserted without any business or commercial purpose but are intended to have the effect of removing the transaction from the scope of the charge.
+the present appeals are concerned with composite transactions of this nature, designed to avoid the payment of income tax on bankers bonuses.
+they are among a number of cases concerning broadly similar schemes.
+in each case, the scheme was intended to take advantage of chapter 2 of part 7 of the income tax (earnings and pensions) act 2003 (itepa), as amended by schedule 22 to the finance act 2003 (chapter 2).
+although the schemes were also designed to avoid the payment of national insurance contributions, it is unnecessary to discuss that aspect, as it is common ground that the position in that regard is the same as in relation to income tax.
+the background and context of chapter 2
+it may be helpful to begin by considering the relevant legislation.
+chapter 2 is best understood against the background of the previous law, and in its context within part 7 of itepa.
+under ordinary principles of tax law, where an employee receives shares as part of his remuneration, he is liable to income tax on the value of the shares, less any consideration which he may have given for them, in accordance with the decision of the house of lords in weight v salmon (1935) 19 tc 174.
+that case concerned a situation where the managing director of a company had been allowed to subscribe for shares at par as a reward for successful performance.
+the position where an employee is granted a conditional share option was considered by the house of lords in abbott v philbin [1961] ac 352.
+that was a case where a companys senior employees had been given an option to subscribe for its shares at the then current market price, the option being exercisable at any time within the next ten years.
+the employees were thus incentivised to increase the companys prosperity.
+the option was non transferable and would expire on the employees death or retirement.
+it was held that income tax was chargeable on the realisable monetary value of the option at the date of its acquisition, rather than on the value realised when it was subsequently exercised, as the revenue had argued.
+lord reid said at p 376: i can sum up my view by saying that conditions and restrictions attached to or inherent in an option may affect its value, but are only relevant on the question whether the option is a perquisite if they would in law or in practice effectively prevent the holder of the option from doing anything when he gets it which would turn it to pecuniary account.
+the decision in abbott v philbin was reversed by section 25 of the finance act 1966 (later consolidated as section 186 of the income and corporation taxes act 1970), which removed any charge to income tax on the grant of employees share options, and instead imposed a charge on the gain realised when the option was exercised, assigned or released.
+section 78 of the finance act 1972 subsequently conferred an exemption from the charge in relation to approved share option schemes, on the view that such schemes could perform valuable social and economic functions.
+those provisions applied only to share option schemes.
+they did not apply to share incentive schemes under which an employee subscribed for, or was awarded, shares to which restrictions might be attached for a prescribed period, and which might become more valuable on the lifting of the restrictions.
+an employee might, for example, be awarded shares subject to the condition that they would be forfeited if performance targets were not met.
+until 1998, the revenue took the view that no charge to income tax arose when shares of that type were acquired.
+nor, until the 1972 act, was there any specific charge to income tax when the restrictions attached to the shares were lifted.
+section 79 of the 1972 act, however, imposed a charge to income tax on the value of employment related shares (less any consideration given) when the restrictions were lifted, or the employee ceased to have a beneficial interest in the shares, or a period of seven years elapsed from their acquisition, whichever was the earliest.
+the timing of the charge reflected the fact that it was at the point when the risk of forfeiture was lifted that the value of the shares could most easily be determined and realised.
+approved share option schemes were excluded from the scope of the charge.
+another exception related to shares which were not subject to any restrictions other than those applicable to all shares of the same class, where the majority of the shares of that class were acquired otherwise than in pursuance of offers to employees.
+the latter exception has a counterpart in the modern legislation, in section 429 of itepa, to which it will be necessary to refer later.
+that remained the broad outline of the income tax regime applicable to share options and share incentive schemes until 1998.
+by then, the revenue had received legal advice, in relation to remuneration provided in the form of shares subject to forfeiture, that the abbott v philbin principle applied, so that a charge to tax arose at the time when the shares were first awarded, on a value reduced by the risk of forfeiture.
+it appears from contemporaneous documents (a budget news release issued on 17 march 1998, and the explanatory notes which accompanied the subsequent bill) that the advice gave rise to two problems.
+first, it was considered fairer to tax shares which were subject to the risk of forfeiture at the point when the risk was lifted or, if earlier, when the shares were sold, rather than when the shares were acquired.
+that was because it was at the point when the restriction was lifted that the value of the shares could most easily be determined, and that the employee was often able to realise their value.
+secondly, it was considered necessary to prevent tax avoidance schemes involving remuneration in shares subject to forfeiture from being set up in order to exploit the new understanding of the legal position.
+parliament addressed those problems by enacting section 50 of the finance act 1998, which inserted sections 140a to 140c into the income and corporation taxes act 1988.
+the general effect of those provisions was to remove the charge to income tax when an employee received shares on terms which meant that they might later be forfeited, unless the shares could still be subject to the risk of forfeiture more than five years later.
+instead, there was a charge to income tax on the market value of the shares when the risk of forfeiture was lifted or, if sooner, when the shares were sold.
+sections 140a to 140c of the 1988 act were re enacted as the original chapter 2 of itepa, but a few months later a new and more complex chapter 2 was substituted by the finance act 2003.
+the substituted chapter 2 formed part of an amended part 7 of itepa, introduced to close loopholes, prevent avoidance and deal with other anomalies, according to the explanatory notes.
+part 7, as amended, was considered by this court in grays timber products ltd v revenue and customs comrs [2010] uksc 4; [2010] 1 wlr 497.
+that case concerned chapter 3d of part 7, but, in a judgment with which the other members of the court agreed, lord walker discussed the wider context.
+as he explained, the provisions of part 7 reflect three different legislative purposes.
+those purposes have already become clear from the discussion of the historical background: .
+first there is parliaments recognition that it is good 4. for the economy, and for social cohesion, for employees to own shares in the company for which they work.
+various forms of incentive schemes are therefore encouraged by favourable tax treatment .
+second, if arrangements of this sort are to act as 5. effective long term incentives, the benefits which they confer have to be made contingent, in one way or another, on satisfactory performance.
+this creates a problem because it runs counter to the general principle that employee benefits are taxable as emoluments only if they can be converted into money, but that if convertible they should be taxed when first acquired.
+that principle was stated by lord radcliffe in abbott v philbin [1961] ac 352, 379 . 6.
+the principle of taxing an employee as soon as he received a right or opportunity which might or might not prove valuable to him, depending on future events, was an uncertain exercise which might turn out to be unfair either to the individual employee or to the public purse.
+at first the uncertainty was eased by extra statutory concessions.
+but parliament soon recognised that in many cases the only satisfactory solution was to wait and see, and to charge tax on some chargeable event (an expression which recurs throughout part 7) either instead of, or in addition to, a charge on the employees original acquisition of rights. 7.
+that inevitably led to opportunities for tax avoidance.
+the ingenuity of lawyers and accountants made full use of the wait and see principle embodied in these changes in order to find ways of avoiding or reducing the tax charge on a chargeable event, which might be the occasion on which an employees shares became freely disposable (chapter 2) or the occasion of the exercise of conversion rights (chapter 3).
+the third legislative purpose is to eliminate opportunities for unacceptable tax avoidance.
+much of the complication of the provisions in part 7 (and especially chapters 3a, 3b, 3c and 3d) is directed to counteracting artificial tax avoidance.
+in the only other judgment delivered in that case, lord hope commented at para 56 that if there is any theme in the act it is one of anti avoidance and the closing down of perceived tax loopholes.
+the provisions of chapter 2
+as section 417 of itepa states, part 7 contains special rules about cases where securities, interests in securities, or securities options are acquired in connection with an employment.
+in terms of section 420(1), the following (amongst other things) are securities: (a) shares in any body corporate (wherever incorporated) . (b) debentures, debenture stock, loan stock, bonds, certificates of deposit and other instruments creating or acknowledging indebtedness in terms of section 420(5), the following (amongst other things) are not securities: (b) money and statements showing balances on a current,
+deposit or savings account
+section 421b(8) defines the expression employment related securities as meaning securities or an interest in securities to which chapters 2 to 4 apply.
+in terms of section 421b(1), those chapters apply to securities, or an interest in securities, acquired by a person where the right or opportunity to acquire the securities or interest is available by reason of an employment of that person or any other person.
+in terms of section 421b(2), securities, or an interest in securities, are acquired at the time when the person acquiring the securities or interest becomes beneficially entitled to them.
+as was explained earlier, the award to an employee of shares in a company by reason of his employment gives rise under ordinary tax rules to a charge to income tax on the market value of the shares at that time, even where the shares are subject to a condition or restriction affecting their value.
+but chapter 2 creates a special regime for employment related securities if they are restricted securities or a restricted interest in securities at the time of their acquisition.
+those expressions are defined by section 423(1): (1) for the purposes of this chapter employment related securities are restricted securities or a restricted interest in securities if (a) there is any contract, agreement, arrangement or condition which makes provision to which any of subsections (2) to (4) applies; and (b) the market value of the employment related securities is less than it would be but for that provision.
+in relation to section 423(1)(a), it is argued on behalf of the banks in the present appeals that the shares in question are restricted securities by virtue of section 423(2).
+it provides: this subsection applies to provision under which (a) there will be a transfer, reversion or forfeiture of the employment related securities, or (if the employment related securities are an interest in securities) of the interest or the securities, if certain circumstances arise or do not arise; (b) as a result of the transfer, reversion or forfeiture the person by whom the employment related securities are held will cease to be beneficially entitled to the employment related securities, and that person will not be entitled on the transfer, (c) reversion or forfeiture to receive in respect of the employment related securities an amount of at least their market value (determined as if there were no provision for transfer, reversion or forfeiture) at the time of the transfer, reversion or forfeiture.
+section 424 sets out a number of exceptions.
+it is relevant to note subsections (b) and (c): employment related securities are not restricted securities or a restricted interest in securities by reason only that any one or more of the following is the case that person [ie, the person by whom they are (b) held] may be required to offer for sale or transfer the employment related securities on the employee ceasing, as a result of misconduct, to be employed by the employer or a person connected with the employer, or (c) the employment related securities (or the securities in which they are an interest) may be redeemed on payment of any amount.
+section 425(2) confers an exemption from income tax in respect of the acquisition of employment related securities where they are restricted securities by virtue of section 423(2) at the time of the acquisition, and will cease to be restricted securities by virtue of that provision within the next five years.
+the exemption from tax is optional: the employer and employee may elect that it is not to apply, in which case a charge to income tax will arise in accordance with abbott v philbin.
+section 426 imposes a tax charge in relation to the securities if a chargeable event occurs.
+for present purposes, the relevant chargeable event is the securities ceasing to be restricted securities.
+section 429, however, allows an exemption from the charge under section 426 where, put shortly, a whole class of shares in a company is affected by the same restriction, all the shares of the class are affected in the same way by the chargeable event, and either (a) the company is employee controlled by virtue of holdings of shares of the class, or (b) the majority of the companys shares of the class are held by persons unrelated to the company.
+it follows that where section 429 applies (as, for example, where the company is owned by its employees, or where most of the shares of the class awarded to the employees are held by members of the public, and the other requirements of the section are met), the recipient of the shares is given the same favourable income tax treatment as the recipient of shares under an approved share option scheme.
+subsequent to the date of the schemes with which these appeals are concerned, section 429 was amended by paragraph 6 of schedule 2 to the finance (no 2) act 2005 so as to exclude its application to tax avoidance schemes.
+other chapters
+it is also relevant to note chapter 3a, comprising sections 446a to 446j.
+as section 446a(1) explains, chapter 3a applies in certain cases where the market value of employment related securities (or other relevant securities or interests in securities) is reduced by things done otherwise than for genuine commercial purposes.
+things done otherwise than for genuine commercial purposes include anything done as part of a scheme or arrangement the main purpose, or one of the main purposes, of which is the avoidance of tax (section 446a(2)).
+section 446b applies where the market value of employment related securities at the time of their acquisition has been reduced by at least 10% as a result of things done otherwise than for genuine commercial purposes within the previous seven years.
+in such circumstances, it imposes a tax charge on the difference between the securities actual market value and the market value which they would have had if it had not been artificially depressed.
+section 446b does not apply, however, where section 425(2) applies: section 446b(3).
+section 446e has the effect of adjusting the charge under section 426, if such a charge arises, where the market value of the securities is artificially low immediately after the chargeable event, or on 5 april in any year (there being, in those circumstances, a deemed chargeable event on that date).
+artificially low is defined as meaning reduced by at least 10% as a result of things done otherwise than for genuine commercial purposes within the seven years preceding the chargeable event (or, if section 425(2) applies, the seven years preceding the acquisition of the securities).
+chapter 3b deals in a broadly similar manner with cases where the market value is artificially enhanced; chapter 3c with securities acquired for less than market value; and chapter 3d with securities disposed of for more than market value.
+the schemes in outline
+before considering in detail the facts of the individual appeals, it may be helpful to explain briefly how, in broad terms, schemes of the kind in issue were designed to work.
+the modus operandi can be summarised as follows.
+the bank decided to award discretionary bonuses to certain of its employees, but to pay the amount of the bonuses into a scheme designed to take advantage of the provisions of chapter 2, so that the employees would avoid liability to income tax.
+rather than paying the bonuses directly to the employees, the bank instead used the amount of the bonuses to pay for redeemable shares in a special purpose offshore company set up solely for the purpose of the scheme.
+the shares were then awarded to the employees in place of the bonuses.
+conditions were attached to the shares which were intended to enable them to benefit from the exemptions from income tax conferred by sections 425(2) and 429.
+once the exemptions had accrued, the shares were redeemable by the employees for cash.
+employees resident and domiciled in the united kingdom, who were liable to capital gains tax, could however defer the redemption of their shares until they had held them for two years, by which time the rate of tax chargeable, with the benefit of business taper relief, was only 10%.
+a typical scheme therefore involved carrying out the following pre ordained steps: (1) the bank decided which of its employees would receive discretionary bonuses, and the amount of those bonuses. (2) company z was created in an offshore jurisdiction.
+care was taken that company z was not an associated company of the bank for the purposes of section 429. (3) a special class of redeemable shares in company z was created.
+as shares, these were securities as defined in section 420(1)(a).
+the shares were subject to a short term restriction designed to satisfy the requirements of section 423(2). (4) the restriction involved a contingency which was unlikely to occur but might conceivably do so.
+in cases where the occurrence of the contingency lay beyond the control of those involved in the scheme, hedging arrangements were entered into so that the employees were compensated in the event of the restriction being activated. (5) directly or indirectly, the bank paid the aggregate amount of the bonuses to company z as the price of the shares. (6) the purchaser received the shares and allocated beneficial interests to the employees identified at step (1) in amounts equal to the amounts that the bank had decided to award them as bonuses.
+exemption from a charge to income tax on the employees acquisition of the shares was asserted under section 425(2), on the basis that the shares were restricted securities by virtue of section 423(2). (7) a short time later, the restriction was removed from the shares.
+exemption from a charge to tax on this event was asserted under section 429. (8) a short time after that, the employees became entitled to redeem their shares, and many did so.
+no liability to income tax arose by reason of the redemption. (9) some employees who were resident and domiciled in the uk continued to hold their shares for the two years necessary to mitigate a charge to capital gains tax using taper relief.
+they then redeemed their shares. (10) in due course company z was wound up.
+it is necessary next to consider in greater detail the facts of each of the present appeals, and the reasoning of the tribunals and courts below on the issues which remain in dispute.
+in the following summary, some immaterial details have been simplified.
+the ubs case
+during the tax year 2003/2004 ubs ag, a well known bank, devised an employee bonus scheme which was designed to take advantage of the provisions of chapter 2 as explained above.
+it had no purpose other than tax avoidance, and such consequential advantages as would flow from tax avoidance.
+the scheme involved the carrying out of a number of pre ordained steps according to a detailed timetable.
+once the structure of the scheme had been finalised, a brochure was sent to the employees explaining it in detail and inviting their participation. 426 employees agreed to participate.
+some of the documentation required under the scheme, such as board minutes of the vehicle company, was pre drafted.
+the scheme was then implemented as planned.
+on 23 january 2004 ubs agreed which of its employees were to be awarded a discretionary bonus for the tax year 2003/2004, and the amount of their bonuses.
+on 28 january, ubs subscribed 91,880,000 (1,000 per share) for 91,880 non voting shares in a company called esip ltd, incorporated in jersey a few days earlier for the purposes of the scheme.
+that sum was the equivalent of the cash payments which the employees would otherwise have received as cash bonuses.
+the following day ubs awarded 91,856 shares to the employees who had agreed to participate, in amounts corresponding to the amounts of their bonuses, and the remaining shares to trustees of a ubs employee benefit trust.
+the employees were notified of the face value of their awards.
+esip was required, as a condition of ubss subscription for the shares, to deposit the subscription price in an interest bearing account until 20 february 2004.
+article 2(7) of esips articles of association, as adopted on 26 january 2004, set out the rights of holders of the shares to participate in dividends and surplus assets on a winding up, and also to redeem all or any of their shares on 22 march 2004, 22 march 2006 or 22 june 2006 for the same amount as they would have received if there had been a winding up on the relevant redemption date.
+article 2(14) provided for an immediate and automatic sale of the shares to the ubs employee benefit trust if on any date during the three week period from 29 january to 19 february 2004 the closing value of the ftse 100 index exceeded a trigger level, defined as 6.5% above its closing value on 28 january.
+in that event, the shares were to be sold for a price equal to 90% of their market value on the date of the sale if no restrictions (including for the avoidance of doubt under [article 2(14)]) applied to those shares.
+it was not likely that the ftse 100 would exceed the trigger level during the relevant period, but there was a genuine possibility that it might: the trigger level was set so as to create a probability of between 6 and 12%.
+it is a matter of agreement that the forced sale provision had the effect of reducing the market value of the shares when they were acquired by the employees by an amount which was more than de minimis.
+the forced sale provision had no rationale other than tax avoidance: its only purpose was to make the shares restricted securities by virtue of section 423(2) of itepa.
+the first tier tribunal (dr david williams and mr david earle) found that the risk taken as the trigger event had been deliberately chosen as one that a counterparty was prepared to offset entirely, as will shortly be explained.
+as a condition of ubss subscription for the shares, esip applied about 3% of the 91,880,000 in purchasing call options from ubs relating to the ftse 100 with an expiry date of 20 february 2004.
+the effect of the call options was that, if the ftse 100 exceeded the trigger level, esip would make a gain, resulting in an increase of about 10% in its net assets.
+it followed that, if the forced sale provision were triggered, although the employees would be required to sell their shares for 90% of their unrestricted market value, they would not be materially worse off as a result, since the unrestricted market value of the shares would be equal to approximately 110% of the value they would have had if the trigger event had not occurred.
+the amount they would receive would thus be approximately equivalent to the original subscription price, which in turn was equal to the cash bonuses which the employees would otherwise have received.
+the words not be materially worse off are taken from the agreed statement of facts and issues.
+more precisely, the first tier tribunal found that the effect of the hedging was that, if the trigger event occurred, the employees would receive 99.2% of the value which their shares would otherwise have had.
+there was a remote possibility that the employees might even receive slightly more than 100%.
+the first tier tribunal noted that there had been a deliberate decision that the call option arrangements should not completely neutralise the effect of any trigger event: the aim was at first that there should be a complete offset between the loss to an employee if the trigger event occurred with the result communicated to senior management that there would be no reduction in value in the payout to the employee.
+he or she would receive the same whether or not the trigger event occurred.
+at some point someone thought a deliberate near miss was better than an exact hit in terms of offsetting the loss.
+as the trigger event did not occur, this was not tested . [t]he reality was that the scheme as a whole was carefully designed so that employees could not suffer any significant loss if the trigger event was realised.
+the reality of the risk was that an employee stood about a 10% chance of losing 0.8% of the bonus amount to be weighed against the opportunity to remove a 41% tax charge. (para 105)
+the first tier tribunal summarised the effect of the scheme as follows, at para 135: the effect was that, at the close of the relevant period, esip ltd would either have shares unaffected by the trigger event, or shares affected by the trigger event plus the benefits from the options.
+the scheme was originally so constructed that the values of the beneficial interests of individuals in the shares would have been the same under either of those two outcomes.
+this was then altered to create a small loss.
+the effect of the trigger event was the reduction in the value of the [shares] by a predetermined amount.
+the options purchased were of such a value that the sums received under the options if the trigger event occurred totalled slightly less than the loss in the value of the shares, again by a predetermined amount.
+both figures were artificial in the sense that neither was determined by, or could be influenced by, any event outside the control of those establishing the scheme, or could alter once the shares and options were purchased.
+ubs as employer and the individual recipients as employees knew from the start of the scheme that the employees, as shareholders, would receive the money paid in by ubs from one or both of the parallel elements a few weeks later save, in the unlikely occurrence of the trigger event, to a deliberately determined and insignificant extent.
+in the event, the ftse 100 did not exceed the trigger level during the relevant period, and so the shares ceased to be subject to the forced sale provision on 19 february 2004, and the call options did not pay out.
+once the relevant period had expired without a forced sale taking place, esip was required, as a further condition of ubss subscription for the shares, to buy shares in ubs during the last five days of february 2004, so that the value of each esip share was then linked to the performance of the ubs share price.
+on 26 february 2004 ubs reminded the employees of their entitlement to redeem the shares during the following month, and explained how to do so.
+on 22 march 2004, about 50% of the shares were redeemed for 977.50 per share.
+almost all the remaining shares continued to be held by employees.
+dividends were paid on the shares in november 2004 (13 per share) and december 2005 (20 per share).
+on 22 march 2006 and 22 june 2006, further shares were redeemed, for about 1,519 per share and 1,429 per share respectively, reflecting a large increase in the value of ubs shares.
+the remaining 44 shares were redeemed in november 2006 when a resolution was passed to wind up esip.
+the case came before the first tier tribunal as an appeal from a determination made by the revenue that the sums allocated to the employees as bonuses at the start of the scheme were liable to income tax and national insurance contributions as earnings from their employment.
+the first tier tribunal dismissed the appeal.
+the first tier tribunal accepted that the shares were securities as defined in the legislation.
+they were real shares.
+it was possible for employees to hold them for over two years, and some did so.
+if they did so, they received dividends.
+the shares were also employment related securities: the employees acquired the shares by reason of their employment.
+the arrangements were not a sham in the sense explained by diplock lj in snook v london and west riding investments ltd [1967] 2 qb 786, 802: they were not intended to deceive.
+in considering whether the shares were restricted securities within the meaning of section 423, the first tier tribunal initially left to one side what has been described in these proceedings as the revenues broad ramsay argument (by reference to the case of w t ramsay ltd v inland revenue comrs [1982] ac 300), to the effect that the scheme should be ignored and the employees held liable to income tax as if they had received cash payments directly.
+on that basis, it accepted that the scheme was an arrangement for the purposes of section 423(1)(a).
+it accepted that the forced sale provision was not a sham.
+it also accepted that the effect of that provision was to reduce the market value of the shares at the time of their acquisition by the employees by a small amount, so as to satisfy the requirements of section 423(1)(b).
+it did not, however, accept that it was an arrangement which made provision to which section 423(2) applied.
+in forming that view, the first tier tribunal focused on the requirement in section 423(2)(c) that the employee will not be entitled on the transfer, reversion or forfeiture to receive in respect of the employment related securities an amount of at least their market value (determined as if there were no provision for transfer, reversion or forfeiture) at the time of the transfer, reversion or forfeiture.
+it considered that that requirement was not satisfied, since the effect of the call options was that the employees were entitled on a forced sale to virtually the same amount as they would have received if there were no forced sale provision.
+this reasoning assumed that, if there were no provision for transfer, reversion or forfeiture, then there would be no call options: the first tier tribunal compared the amount which the employees were entitled to receive in respect of their securities on a forced sale, taking account of the triggering of the call options, with the market value of the securities on the hypothesis that neither the forced sale provisions nor the call options existed.
+on that basis, the first tier tribunal found that the shares were not restricted securities.
+the upper tribunal (henderson j and mr charles hellier) took a different view.
+it considered that section 423(2)(c) required the market value of the shares on the date of the forced sale to be determined as if there were no provision for transfer, reversion or forfeiture, but did not require the call options to be disregarded.
+in other words, whereas the first tier tribunal had compared the employees entitlements with a market value determined as if there were neither a forced sale provision nor the call options designed to neutralise its effect, the upper tribunal construed section 423(2)(c) as requiring only the first of these to be ignored.
+the statutory hypothesis, in its view, was a situation in which the shares were not subject to the forced sale provision, but in all other respects including the existence and triggering of the call options was the same as it actually was.
+on that basis, the upper tribunal found that the employees were entitled on a forced sale to receive only 90% of the market value of their shares on that date, determined as if there were no forced sale provision.
+the requirement laid down in section 423(2)(c) was therefore met.
+the court of appeal (rimer, kitchin and christopher clarke ljj) agreed, stating that it was plain that the ordinary and natural sense of the words in question was that they required no more than that the forced sale provision be ignored.
+this question of statutory construction is no longer in issue.
+it illustrates, however, the artificial consequences which result if the legislation is applied to a scheme of this nature.
+although it is inconceivable that there would in fact have been call options in the absence of the forced sale provision (since their sole rationale was to neutralise the effect of that provision), it is only if section 423(2)(c) is construed as requiring the market value to be assessed on that unreal basis that its requirements can be satisfied.
+returning to the decision of the first tier tribunal, it next considered whether, applying the ramsay approach and on a realistic appraisal of the facts, the scheme fell outside the intended scope of chapter 2 altogether.
+it concluded that it did.
+it observed that chapter 2 was intended to deal with a real, practical problem, and that in examining whether the scheme was within chapter 2 it was necessary, following the speech of lord nicholls of birkenhead in inland revenue comrs v scottish provident institution [2004] ukhl 52; 2005 1 sc (hl) 33; [2004] 1 wlr 3172, to look at the commercial reality of what was happening, and to be alert to a situation where the arrangements, viewed realistically and as a whole, did not create restricted securities.
+in the view of the first tier tribunal, the reality was that, had the scheme not been in place, the employees would have received a bonus as part of their pay in february 2004.
+that bonus would have been earnings, and therefore subject to deduction of income tax and national insurance contributions, leaving in most cases a net sum of 59% of the original entitlement.
+under the scheme, the employees instead received beneficial interests in shares with a right to encash those interests.
+if the rights were encashed without the forced sale provision being triggered, the employees received the same sums as would have been received as earnings, but without any deduction of income tax or national insurance contributions.
+alternatively, in the less probable event of a forced sale, the employees might receive slightly less (or, possibly, slightly more) than that sum, but again with no deduction of income tax or national insurance contributions.
+in short, but for the scheme, an employee would have received 59 from ubs if paid earnings, but under the scheme would probably receive 100, and in any event over 99.
+the scheme therefore delivered a significant gain in the bonus receivable by employees as compared with the receipt of earnings, whatever the outturn of the scheme arrangements, although there was the possibility of an insignificant difference as between the outturns under the probable and improbable alternatives.
+further, if employees so chose, the timetable of the arrangements was much the same as applied to the receipt of earnings.
+the scheme had no purpose other than tax avoidance.
+in those circumstances, the scheme could not be regarded as one providing restricted securities within the scope of chapter 2.
+it was in reality a mechanism for the payment of cash bonuses, and the employees should therefore be taxed as if they had received cash rather than securities.
+the upper tribunal disagreed with the first tier tribunals conclusion.
+it observed that it was incorrect to say that the employees received the same sums when their shares were redeemed as they would have received as earnings: by that time, esip had invested its assets in ubs shares, with the result that the sums received reflected the performance of those investments.
+this had only a limited effect on those who redeemed their shares at the earliest opportunity, because of the short period of time during which the assets had been invested, but it had a greater effect on those who held their shares for longer: see para 36 above.
+the upper tribunal concluded that there was no intellectually coherent way of equating the payment in by the employer with the ultimate payment out to the employee.
+the scheme could not be treated as merely an artificially contrived method of paying money to employees.
+the upper tribunal therefore allowed ubss appeal.
+the court of appeal agreed that the argument that the scheme should be treated as merely a mechanism for the payment of cash should be rejected.
+it also heard argument on a narrower ramsay argument in respect of which the revenue sought permission to appeal.
+that argument, which had been raised before the first tier tribunal but was not argued before the upper tribunal, proceeded on the basis that the esip shares were securities, but not restricted securities within the meaning of section 423, with the consequence that a charge to tax arose in respect of the market value of the shares at the time when they were acquired by the employees.
+the argument centred on ubss admission that the forfeiture condition had no commercial purpose and had been inserted purely for the purpose of tax avoidance, and on the contention that the hedging provisions rendered the forfeiture condition unreal from a commercial perspective.
+the argument was rejected, and permission to appeal on that ground was refused.
+rimer lj, with whose judgment the other members of the court agreed, considered that there was no scope for arguing that the shares were other than securities . acquired in connection with an employment within the meaning of sections 417(1) and 420.
+they were therefore securities for the purposes of chapter 2; and, provided that they satisfied the conditions of section 423, they were also restricted securities.
+in relation to section 423, rimer lj commented that he did not understand the argument that because the forfeiture provision had no commercial rationale, the shares could not be restricted securities.
+he did not follow on what basis it could be said that the certain circumstances referred to in section 423(2)(a) could only be circumstances included other than for tax avoidance purposes.
+there appeared to him to be no justification for any such distinction.
+the circumstances in which the securities in question might be forfeited were real, even though their inclusion in the scheme was tax motivated.
+if the shares were restricted securities within the meaning of section 423, from where in chapter 2, he asked rhetorically, did one derive the conclusion that chapter 2 could not apply simply because the scheme was driven by considerations of tax avoidance? in forming that view, rimer lj was influenced by the inability of all counsel to explain the rationale of the tax exemption conferred by section 429, which he described as the section at the heart of the appeals.
+the db case
+during the tax year 2003/2004 db group services (uk) ltd (db), the main employer in the group headed by deutsche bank ag, another well known bank, decided to pay discretionary bonuses to employees by means of a scheme designed to take advantage of the provisions of chapter 2.
+this was an off the shelf scheme devised by deloitte and touche llp and marketed by them to db.
+deloitte also played a central role in coordinating its implementation by all involved in accordance with a detailed timetable.
+the scheme was generically similar to the ubs scheme, but differed from it in some respects.
+prior to the implementation of the scheme, db decided which of its employees were to be awarded a discretionary bonus for the tax year 2003/2004, and the amount of their bonuses.
+the scheme was explained to the relevant employees in advance of its implementation, and they were offered the opportunity to participate.
+they were informed that the scheme allowed for their bonus to be delivered to them in the form of shares in a vehicle company.
+some 300 employees agreed to take part.
+on 6 february 2004 db paid 91,300,000 (1,000 per share) in respect of 91,300 redeemable shares in a company, incorporated in the cayman islands for the purposes of the scheme, called dark blue investments ltd (dark blue).
+that company invested its assets in low risk investments.
+the shares were allocated to the employees the same day, in amounts corresponding to the bonuses which they would otherwise have received.
+the shares carried voting rights and a right to participate in dividends.
+they could be redeemed for a price intended to reflect their market value on various dates between 8 july 2004 and 8 december 2006.
+in order for the shares to qualify as restricted securities by virtue of section 423(2), the memorandum and articles of dark blue contained a provision under which the shares were to be forfeited if, before 2 april 2004, the person who held or was beneficially entitled to them ceased to be employed by db, or notice was given to or by that individual of termination of employment, for any reason other than redundancy, death or disability, or without cause.
+the shares could not be transferred during that period.
+for practical purposes, therefore, an employee would forfeit his shares if he voluntarily resigned or was dismissed for misconduct during a period of about eight weeks.
+neither contingency was likely to occur, not least because its occurrence lay largely within the control of the employee, for whom it would have significant financial consequences.
+furthermore, by virtue of section 424(b) of itepa, shares are not restricted securities by reason only of a provision for forfeiture in the event of dismissal for misconduct: see para 17 above.
+in the event, there was no employee to whom the provision applied.
+the first tier tribunal found that the forfeiture provision resulted in a reduction in the market value of the shares on 6 february 2004 which was not negligible.
+at the highest estimate, the reduction might be of the order of 2 3%.
+42% of the dark blue shares were redeemed at the first opportunity in july 2004, at a price of 1,003.73 per share.
+the rest were redeemed between then and december 2006 at prices reflecting the value of the underlying investments at the date of redemption.
+the case came before the first tier tribunal as an appeal from a determination that the sums allocated to the employees as bonuses at the start of the scheme were liable to income tax and national insurance contributions as earnings from their employment.
+the first tier tribunal heard the appeal immediately before that of ubs, and dismissed it.
+the first tier tribunal again considered the case initially by leaving the revenues broad ramsay argument out of account.
+on that basis, it accepted that the shares were securities, on the same grounds as in the ubs case.
+it accepted that the forfeiture provision satisfied the requirements of section 423(1)(a), being one to which section 423(2) applied.
+the market value of the securities was less than it would be but for that provision, as required by section 423(1)(b).
+it followed that, leaving aside the wider challenge to the scheme, the shares met the definition of restricted securities by virtue of section 423(2).
+looking at the scheme as a whole, however, the first tier tribunal described it as a contrived and closely coordinated series of events so that the various individual requirements of chapter 2 were met but without regard to any other aim or purpose than that of triggering the various exemptions in the chapter: para 102.
+db and the other entities involved merely carried out a predetermined sequence of events, funded entirely by db, so that its funds were transferred to its employees.
+the funding of the scheme was derived entirely from the sums which db had allocated to providing employees with bonuses for the financial year in question.
+the only purpose of the scheme was to utilise the exemptions in sections 425 and 429 so that the employees paid no income tax or national insurance contributions on the sums transferred to them.
+all those involved in the scheme played assigned roles undertaken either to achieve the desired reduction in taxation or to receive a fee for facilitating that aim.
+dark blue was purely a vehicle for the scheme.
+the shares were created solely so that they could be treated as restricted securities within chapter 2.
+in the view of the first tier tribunal, parliament had not intended to provide the double exemption from income tax under sections 425 and 429 for artificial arrangements with no commercial purpose.
+it therefore concluded that the scheme was not within chapter 2.
+as in the ubs case, it passed directly from that conclusion to a decision that the employees should be taxed as if they had received cash.
+the upper tribunal heard the appeal together with that in the ubs case.
+it agreed that, leaving the ramsay argument to one side, the shares were restricted securities qualifying for exemption under section 425.
+for similar reasons to those which it had given in the ubs case, however, it considered that the first tier tribunal had pushed the ramsay principle well beyond permissible bounds.
+there was in its view no permissible construction of chapter 2 which could lead to the conclusion that it was inapplicable to the facts of the case.
+it concluded, however, that notwithstanding the great pains which had been taken to ensure that dark blue was not formally controlled by db, nevertheless actual control existed on the facts.
+db was therefore an associated company of dark blue, with the consequence that the scheme did not qualify under section 429 for exemption from the charge imposed under section 426 on the lifting of the restrictive condition.
+the court of appeal also heard the appeal together with that in the ubs case.
+it reversed the upper tribunals decision on the question of control, but agreed with it that the revenues broad ramsay argument should be rejected.
+as in the ubs case, it permitted the revenue to present a narrower ramsay argument to the effect that the shares were not restricted securities within the meaning of chapter 2, so that the employees should be taxed on their receipt of the shares.
+that argument was however rejected for the same reasons as in the ubs case, and permission to appeal on that ground was refused.
+the ramsay approach
+as the house of lords explained in barclays mercantile business finance ltd v mawson, in a single opinion of the appellate committee delivered by lord nicholls, the modern approach to statutory construction is to have regard to the purpose of a particular provision and interpret its language, so far as possible, in the way which best gives effect to that purpose.
+until the case of w t ramsay ltd v inland revenue comrs [1982] ac 300, however, the interpretation of fiscal legislation was based predominantly on a linguistic analysis.
+furthermore, the courts treated every element of a composite transaction which had an individual legal identity (such as a payment of money, transfer of property, or creation of a debt) as having its own separate tax consequences, whatever might be the terms of the statute.
+as lord steyn said in inland revenue comrs v mcguckian [1997] 1 wlr 991, p 999, in combination those two features a literal interpretation of tax statutes, and an insistence on applying the legislation separately to the individual steps in composite schemes allowed tax avoidance schemes to flourish to the detriment of the general body of taxpayers.
+the significance of the ramsay case was to do away with both those features.
+first, it extended to tax cases the purposive approach to statutory construction which was orthodox in other areas of the law.
+secondly, and equally significantly, it established that the analysis of the facts depended on that purposive construction of the statute.
+thus, in ramsay itself, the terms loss and gain, as used in capital gains tax legislation, were purposively construed as referring to losses and gains having a commercial reality.
+since the facts concerned a composite transaction forming a commercial unity, with the consequence that the commercial significance of what had occurred could only be determined by considering the transaction as a whole, the statute was construed as referring to the effect of that composite transaction.
+as lord wilberforce said: the capital gains tax was created to operate in the real world, not that of make belief.
+as i said in aberdeen construction group ltd v inland revenue comrs [1978] ac 885, it is a tax on gains (or i might have added gains less losses), it is not a tax on arithmetical differences.
+to say that a loss (or gain) which appears to arise at one stage in an indivisible process, and which is intended to be and is cancelled out by a later stage, so that at the end of what was bought as, and planned as, a single continuous operation, there is not such a loss (or gain) as the legislation is dealing with, is in my opinion well and indeed essentially within the judicial function. (p 326)
+unfortunately, the committee commented in barclays mercantile at para 34, the novelty for tax lawyers of this exposure to ordinary principles of statutory construction produced a tendency to regard ramsay as establishing a new jurisprudence governed by special rules of its own.
+in the barclays mercantile case the committee sought to achieve some clarity about basic principles (para 27).
+it summarised the position at para 32: the essence of the new approach was to give the statutory provision a purposive construction in order to determine the nature of the transaction to which it was intended to apply and then to decide whether the actual transaction (which might involve considering the overall effect of a number of elements intended to operate together) answered to the statutory description.
+as lord nicholls of birkenhead said in macniven v westmoreland investments ltd [2003] 1 ac 311, 320, para 8: the paramount question always is one of interpretation of the particular statutory provision and its application to the facts of the case.
+as the committee commented, this is a simple question, however difficult it may be to answer on the facts of a particular case.
+this approach has proved to be particularly important in relation to tax avoidance schemes as a result of two factors identified in barclays mercantile at para 34.
+first, tax is generally imposed by reference to economic activities or transactions which exist, as lord wilberforce said, in the real world.
+secondly, tax avoidance schemes commonly include elements which have been inserted without any business or commercial purpose but are intended to have the effect of removing the transaction from the scope of the charge.
+in other words, as carnwath lj said in the court of appeal in barclays mercantile, [2002] ewca civ 1853; [2003] stc 66, para 66, taxing statutes generally draw their life blood from real world transactions with real world economic effects.
+where an enactment is of that character, and a transaction, or an element of a composite transaction, has no purpose other than tax avoidance, it can usually be said, as carnwath lj stated, that to allow tax treatment to be governed by transactions which have no real world purpose of any kind is inconsistent with that fundamental characteristic.
+accordingly, as ribeiro pj said in collector of stamp revenue v arrowtown assets ltd [2003] hkcfa 46; (2003) 6 itlr 454, para 35, where schemes involve intermediate transactions inserted for the sole purpose of tax avoidance, it is quite likely that a purposive interpretation will result in such steps being disregarded for fiscal purposes.
+but not always.
+as was noted in barclays mercantile at para 35, there have been a number of cases since ramsay in which it was decided that elements inserted into a transaction without any business or commercial purpose did not prevent the composite transaction from falling within a charge to tax, or bring it within an exemption from tax, as the case might be.
+examples include inland revenue comrs v burmah oil co ltd 1982 sc (hl) 114, furniss v dawson [1984] ac 474, carreras group ltd v stamp comr [2004] ukpc 16; [2004] stc 1377, inland revenue comrs v scottish provident institution and tower m cashback llp 1 v revenue and customs comrs [2011] uksc 19; [2011] 2 ac 457.
+in each case the court considered the overall effect of the composite transaction, and concluded that, on the true construction of the relevant statute, the elements which had been inserted without any purpose other than tax avoidance were of no significance.
+but it all depends on the construction of the provision in question.
+some enactments, properly construed, confer relief from taxation even where the transaction in question forms part of a wider arrangement undertaken solely for the purpose of obtaining the relief.
+the point is illustrated by the decisions in macniven v westmoreland investments ltd [2001] ukhl 6; [2003] 1 ac 311 and barclays mercantile itself.
+the position was summarised by ribeiro pj in arrowtown assets, para 35, in a passage cited in barclays mercantile: the ultimate question is whether the relevant statutory provisions, construed purposively, were intended to apply to the transaction, viewed realistically.
+references to reality should not, however, be misunderstood.
+in the first place, the approach described in barclays mercantile and the earlier cases in this line of authority has nothing to do with the concept of a sham, as explained in snook.
+on the contrary, as lord steyn observed in mcguckian at p 1001, tax avoidance is the spur to executing genuine documents and entering into genuine arrangements.
+secondly, it might be said that transactions must always be viewed realistically, if the alternative is to view them unrealistically.
+the point is that the facts must be analysed in the light of the statutory provision being applied.
+if a fact is of no relevance to the application of the statute, then it can be disregarded for that purpose.
+if, as in ramsay, the relevant fact is the overall economic outcome of a series of commercially linked transactions, then that is the fact upon which it is necessary to focus.
+if, on the other hand, the legislation requires the court to focus on a specific transaction, as in macniven and barclays mercantile, then other transactions, although related, are unlikely to have any bearing on its application.
+scottish provident
+on the same date as barclays mercantile, lord nicholls also delivered the opinion of the committee, similarly constituted, in the scottish provident case.
+the case concerned a scheme designed to take advantage of a change in the law governing the taxation of gains and losses made by mutual life offices on the grant or disposal of options to buy or sell gilts.
+under the scheme, the life office, spi, granted citibank the option to buy a quantity of gilts from it at a strike price of 70, well below their anticipated market value at the time the option was exercised, in return for a premium.
+under the law then in force, the premium was exempt from tax.
+after the law had changed, citibank exercised the option, requiring spi to sell the gilts to it at a loss.
+under the law then in force, the loss was allowable for tax purposes.
+in order to ensure that no real loss could be suffered by either party, the scheme also provided for citibank to grant an option to spi, entitling it to buy a matching quantity of gilts from the bank at a strike price of 90, calculated so that the overall movements of money between the parties were equivalent.
+it was anticipated that both options would be exercised, but there was a possibility that they might not be.
+in the event, both options were exercised, and neither gilts nor money changed hands.
+the question which arose under the relevant statutory provision was whether the option which spi granted gave citibank an entitlement to gilts.
+if the option was considered in isolation, then plainly it did.
+if, however, the option was viewed as part of a larger scheme by which citibanks right to buy the gilts from spi was cancelled by spis right to buy the same gilts from citibank, then in a commercial sense citibank had no real entitlement to gilts.
+the special commissioners found in favour of spi, on the basis that there was a genuine possibility that both options would not be exercised.
+that was held by the committee to be an error of law.
+it stated: 22. the uncertainty arises from the fact that the parties have carefully chosen to fix the strike price for the spi option at a level which gives rise to an outside chance that the option will not be exercised.
+there was no commercial reason for choosing a strike price of 90.
+from the point of view of the money passing (or rather, not passing), the scheme could just as well have fixed it at 80 and achieved the same tax saving by reducing the citibank strike price to 60.
+it would all have come out in the wash.
+thus the contingency upon which spi rely for saying that there was no composite transaction was a part of that composite transaction; chosen not for any commercial reason but solely to enable spi to claim that there was no composite transaction.
+it is true that it created a real commercial risk, but the odds were favourable enough to make it a risk which the parties were willing to accept in the interests of the scheme. 23.
+we think that it would destroy the value of the ramsay principle of construing provisions such as [the provision in question] as referring to the effect of composite transactions if their composite effect had to be disregarded simply because the parties had deliberately included a commercially irrelevant contingency, creating an acceptable risk that the scheme might not work as planned.
+we would be back in the world of artificial tax schemes, now equipped with anti ramsay devices.
+the composite effect of such a scheme should be considered as it was intended to operate and without regard to the possibility that, contrary to the intention and expectations of the parties, it might not work as planned.
+thus, on the basis that the statutory provision was properly construed as being concerned with a real and practical entitlement to gilts, it did not apply to a legal entitlement which was intended and expected to be cancelled by an equal and opposite obligation, even if there was a risk that the arrangement might not work as intended.
+the present appeals
+it is necessary now to return to the statutory provisions in issue in the present appeals.
+rather than dealing with the arguments in the way in which they were presented, in terms of broader and narrower versions of a ramsay approach, it seems to me to be preferable to begin with the interpretation of the legislation, and the fundamental question whether it can be given a purposive interpretation going beyond its literal terms: that is to say, whether a ramsay approach is possible at all, and if so, the purposive construction on which it is to be based.
+if those issues are determined in the revenues favour, the question next arises how, on its proper interpretation, the legislation is to be applied to the facts.
+it is at that stage that what have been described as the broad and the narrow approaches require to be considered.
+purposive construction
+as counsel for ubs and db emphasised, itepa contains no explanation of the purpose of chapter 2 upon which a purposive interpretation might be based.
+nor do its provisions anywhere indicate that restrictive conditions attached to securities purely for tax avoidance purposes fall outside the scope of chapter 2.
+furthermore, parliament dealt with certain kinds of tax avoidance in chapters 3a to 3d, but made no provision in respect of schemes of the kind with which these appeals are concerned.
+in the light of these considerations, and bearing in mind that part 7 generally, and chapter 2 in particular, are extensive and highly detailed, counsel argued that it was impossible to attribute to parliament an unexpressed intention to exclude schemes of the present kind from the ambit of chapter 2.
+it cannot be denied that these are forceful arguments, and the court of appeal found them persuasive.
+nevertheless, the context of chapter 2 provides some indication of what parliament intended.
+part 7 is clearly concerned with particular taxation issues which arise when employees are remunerated in shares and other securities.
+as was noted in para 12 above, the purposes of part 7 were identified in broad terms in grays timber products as being threefold: to promote employee share ownership, particularly by encouraging (1) share incentive schemes; (2) since such schemes require benefits to be contingent on future performance, creating a problem if tax is charged on the acquisition of the shares in accordance with abbott v philbin, to wait and see in such cases until the contingency has fallen away; and (3) to counteract consequent opportunities for tax avoidance.
+the background to chapter 2, explained more fully in paras 3 11 above, supports that view.
+fiscal legislation concerning employment related securities had its origins in anomalies which arose where shares awarded to employees as a form of remuneration, for business or commercial reasons, were subject to restrictions designed to incentivise future performance.
+the taxation of the shares in accordance with general principles of the law of taxation, as established in weight v salmon and more particularly in abbott v philbin, had the effect that the sum charged to tax failed to reflect the economic gain realised by the employee in the event that the shares increased in value as intended.
+parliaments response was to impose a charge to tax when the restrictions were lifted (subject to the exemption of favoured arrangements), rather than when the shares were acquired.
+chapter 2, as originally enacted, re enacted provisions introduced in 1988 in order to prevent the application of abbott v philbin, and forestall consequent opportunities for tax avoidance.
+the amended version of chapter 2 with which these appeals are concerned was enacted shortly afterwards to address aspects of the previous provisions which were considered to leave them vulnerable to avoidance or to create anomalies.
+the structure of the legislation continued to be based on the exemption of restricted securities from income tax when the shares were acquired, and the imposition of a charge to tax when the restrictive conditions were lifted, subject to a widely drawn exemption from the latter charge.
+it is in the context explained in para 74, and against the background described in para 75, that it is necessary to consider the scope of the exemption on acquisition conferred by section 425(2), and more specifically the question whether, in section 423(1), the words any contract, agreement, arrangement or condition which makes provision to which any of subsections (2) to (4) applies should be construed as referring to provision with a genuine business or commercial purpose.
+approaching the matter initially at a general level, the fact that chapter 2 was introduced partly for the purpose of forestalling tax avoidance schemes self evidently makes it difficult to attribute to parliament an intention that it should apply to schemes which were carefully crafted to fall within its scope, purely for the purpose of tax avoidance.
+furthermore, it is difficult to accept that parliament can have intended to encourage by exemption from taxation the award of shares to employees, where the award of the shares has no purpose whatsoever other than the obtaining of the exemption itself: a matter which is reflected in the fact that the shares are in a company which was brought into existence merely for the purposes of the tax avoidance scheme, undertakes no activity beyond its participation in the scheme, and is liquidated upon the termination of the scheme.
+the encouragement of such schemes, unlike the encouragement of employee share ownership generally, or share incentive schemes in particular, would have no rational purpose, and would indeed be positively contrary to rationality, bearing in mind the general aims of income tax statutes.
+more specifically, it appears from the background to the legislation that the exemption conferred by section 425(2), in respect of the acquisition of securities which are restricted securities by virtue of section 423(2), was designed to address the practical problem which had arisen of valuing a benefit which was, for business or commercial reasons, subject to a restrictive condition involving a contingency.
+the context was one of real world transactions having a business or commercial purpose.
+there is nothing in the background to suggest that parliament intended that section 423(2) should also apply to transactions having no connection to the real world of business, where a restrictive condition was deliberately contrived with no business or commercial purpose but solely in order to take advantage of the exemption.
+on the contrary, the general considerations discussed in para 77 above, and the approach to construction explained in paras 64 and 68 above, point towards the opposite conclusion.
+one answer which counsel for ubs and db give to that argument is based on the supposed absence of any rationale for the exemption conferred by section 429.
+this point impressed the court of appeal: understandably so, since although these appeals are not directly concerned with section 429, the absence of any rationale for the exemption conferred by that provision would undermine an analysis based on the premise that parliament possessed some rational intention in enacting sections 423 and 425.
+as was explained in para 19 above, however, the exemption conferred by section 429 is confined to two specific situations falling within the broader class of cases qualifying for exemption under section 425: namely cases where a class of shares in a company is affected by the same restriction, which is lifted on the occurrence of a similar event, and either (a) the company is employee controlled by virtue of holdings of shares of the class, or (b) the majority of the companys shares of the class are held by persons unrelated to the company.
+in relation to the first of these situations, it is understandable that parliament should have intended to encourage employee share ownership in companies which were employee controlled by virtue of such shareholdings.
+such an intention would be consistent with the general approach described in paras 74 and 75 above.
+the second situation is one which has long received special treatment, as was explained in para 7 above.
+the distinctive feature of that situation, as counsel for the revenue explained, is that there is only a tenuous link between the increase in the value of the shares, consequent upon the lifting of the restrictive condition, and the employment relationship: a similar increase in value will be enjoyed by all holders of shares of the relevant class in similar circumstances, and most of those shareholders are not employees of the company, or otherwise related to it.
+the counter argument based on chapter 3a
+as explained earlier, in arguing against a construction of chapter 2 which would exclude tax avoidance schemes of the present kind, counsel for ubs and db emphasised that parliament had dealt expressly and in detail with tax avoidance in chapters 3a to 3d, the first of those chapters being the most directly relevant to the present case.
+in those circumstances, it was argued, parliament could not be taken to have had any wider, unexpressed, intention to counter tax avoidance.
+that argument was accepted by the court of appeal.
+chapter 3a contains detailed anti avoidance provisions directed at securities with an artificially depressed market value.
+in some circumstances, the existence of such provisions might support an inference that parliaments intentions in relation to anti avoidance had been exhaustively expressed.
+that is not however the position in relation to chapters 2 and 3a.
+as explained earlier at para 21, the provision in chapter 3a concerned with taxation on the acquisition of employment related securities is section 446b.
+that provision applies where the market value of employment related securities at the time of their acquisition has been reduced by at least 10% as a result of things done otherwise than for genuine commercial purposes (including anything done as part of a tax avoidance scheme) within the period of seven years ending with the acquisition.
+section 446b does not apply where section 425(2) applies, that is to say where the securities are restricted securities by virtue of section 423(2): section 446b(3).
+as was pointed out on behalf of ubs and db, section 446b(3) presupposes that securities can be restricted securities for the purposes of section 425 even though their value has been reduced by measures taken as part of a tax avoidance scheme.
+that is indeed obvious.
+a share incentive scheme with performance related conditions, for example, could fall within section 425, on the basis that the shares were restricted securities, even though the share price on the date of acquisition had been artificially depressed.
+whether a condition attached to the shares renders them restricted securities, and whether the share price has been artificially depressed, are two separate questions.
+in other words, section 446b is concerned with the artificial manipulation of the market value of shares at the time of their acquisition by measures taken during the preceding seven years.
+it does not entail that all securities whose value has been reduced by tax avoidance measures are necessarily restricted securities.
+it has nothing to say about the circumstances in which the exemption conferred by section 425(2) should be granted, or specifically about the circumstances in which securities are to be treated as restricted securities as defined in section 423.
+that question depends on the proper interpretation and application of section 423.
+mutatis mutandis, the same applies to the similar argument advanced by ubs and db on the basis of section 446e, discussed at para 22 above.
+conclusion on purposive construction
+in summary, therefore, the reference in section 423(1) to any contract, agreement, arrangement or condition which makes provision to which any of subsections (2) to (4) applies is to be construed as being limited to provision having a business or commercial purpose, and not to commercially irrelevant conditions whose only purpose is the obtaining of the exemption.
+application to the facts
+in the ubs case, the condition whether the ftse 100 rose by a specified amount during a three week period was completely arbitrary.
+it had no business or commercial rationale beyond tax avoidance.
+such a condition is simply not relevant to the application of section 423, if, for the reasons already explained, that section is concerned with provision having a genuine business or commercial purpose.
+applying section 423 to the facts, viewed from a commercially realistic perspective, it follows that the condition to which the ubs shares were subject should be disregarded, with the consequence that the shares are not restricted securities within the meaning of that section.
+that conclusion is fortified by another aspect of the facts of the ubs case.
+the economic effect of the restrictive condition was in any event nullified by the hedging arrangements, except to an insignificant and pre determined extent (namely 0.8% at most see para 32 above).
+the fact that what the first tier tribunal described as a deliberate near miss was designed into the scheme, rather than a complete offsetting of the risk, is immaterial.
+paras 22 and 23 of the opinion in scottish provident, cited at para 70 above, are in point.
+as the committee stated, the effect of the scheme should be considered as it was intended to operate.
+so considered, the benefit to the employee was not truly dependent on the contingency set out in the condition.
+the restrictive condition in the db case was simpler but equally artificial.
+leaver provisions in employee benefit arrangements often serve a genuine business or commercial purpose.
+but that cannot be said of the condition attached to the dark blue shares.
+the forfeiture provision operated for only a very short period, during which the possibility that it might be triggered lay largely within the control of the employee who would be adversely affected.
+it had no business or commercial purpose, and existed solely to bring the securities within the scope of section 423(2).
+paras 22 and 23 of the opinion in scottish provident are again in point.
+db deliberately included a contingency which created a minor risk, but one which the parties were willing to accept in the interests of the scheme.
+the scheme should therefore be considered as it was intended to operate, without regard to the possibility that it might not work as planned.
+the appeals thus belong to the line of cases mentioned in barclays mercantile, where it was decided that elements which have been inserted into a transaction without any business or commercial purpose did not, as the case might be, prevent the composite transaction from falling within a charge to tax or bring it within an exemption from tax (para 35).
+that was the approach adopted, for example, in inland revenue comrs v burmah oil co ltd in relation to what lord diplock described as a pre ordained series of transactions . into which there are inserted steps that have no commercial purpose apart from the avoidance of a liability to tax which in the absence of those particular steps would have been payable (p 124).
+where a purposive construction so requires, one can proceed in such a case in the manner described by lord brightman in furniss v dawson at p 527: . the inserted steps are to be disregarded for fiscal purposes.
+the court must then look at the end result.
+precisely how the end result will be taxed will depend on the terms of the taxing statute sought to be applied.
+the proper basis of taxation: shares or cash?
+since the restrictive conditions attached to the shares do not make provision to which section 423 applies, it follows that the shares are not restricted securities within the meaning of that section.
+is that the end result, in lord brightmans phrase, or is it appropriate to go further and disregard other steps: namely, the use of the bonus funds to buy shares in the vehicle companies, the award of the shares to the employees, and the subsequent redemption of the shares for cash? those steps were disregarded by the first tier tribunal, so that the end result was that the employees were treated as though they had been paid in cash.
+in the broad version of its ramsay argument, the revenue invited this court to adopt the same approach.
+the schemes, it argued, were simply vehicles for passing cash bonuses to employees without paying income tax and national insurance contributions.
+the shares, although genuine, functioned merely as a cash delivery mechanism.
+they were not designed or intended to have any other function.
+in agreement with the upper tribunal and the court of appeal, i find this argument unpersuasive.
+in the first place, the employees actually received shares, not cash.
+subject to one qualification, the vehicle companies did not hold cash.
+the qualification is that esip held cash during the period prior to 27 february 2004; but the cash was not at the disposal of the employees, since they could not redeem their shares until almost four weeks later.
+throughout the intervening period, esips funds were invested in ubs shares.
+dark blues assets were invested in low risk investments.
+in both cases, therefore, the realisable value of the shares depended on the performance of the assets in which the companies funds were invested, as shares normally do.
+the amount of cash for which the shares might be redeemed was neither fixed nor ascertainable when the shares were acquired, and was unlikely to be the same as the bonus which had initially been allocated to the employees.
+in the event, the difference turned out to be modest in the case of the employees who redeemed their shares at the earliest opportunity, but matters could have turned out differently.
+i would not, however, attach the significance which the upper tribunal did to the fact that, in the case of the ubs employees who held their shares for longer, the redemption price diverged more widely from their initial bonus allocation.
+if the shares were properly treated as equivalent to cash on the first redemption date, that cash was then at the disposal of the employees, and their choice to leave it invested in shares could not affect that position.
+if the shares were not restricted securities, their recipients therefore fall to be taxed in respect of their receipt of the shares in accordance with ordinary taxation principles.
+that is broadly as the revenue contended in the narrower version of their argument, subject to one qualification.
+the revenue argued that the shares should be valued for income tax purposes without regard to the restrictive conditions, since those conditions were not intended to be commercially relevant.
+i am unable to agree.
+the shares were subject to conditions which, as the first tier tribunal found, had the effect of reducing their value on the date of acquisition by a small amount (below the 10% threshold which would bring section 446b into play).
+applying ordinary taxation principles, as laid down in abbott v philbin, the value of the shares has to be assessed as at the date of their acquisition, taking account of those conditions.
+to disregard the conditions would be to treat the employees as having received a more valuable perquisite than they actually received.
+it is however also necessary to take account of the call options purchased by esip out of the sum paid by ubs for its subscription for the shares.
+since the options offset the risk to shareholders arising from the conditions, they presumably enhanced the value of the shares and are therefore relevant to the valuation of the perquisite received by the employees.
+this point illustrates the need to apply the ramsay approach with sensitivity to the particular fiscal context which is relevant: the conditions have to be disregarded for the purpose of deciding whether the shares were restricted securities, since that is necessary in order to apply chapter 2 as parliament intended; but they do not have to be disregarded for the purpose of assessing the value of the perquisite, since ordinary taxation principles require the tax to be based on its true value.
+money?
+a further argument advanced by the revenue was that the shares could not be regarded as restricted securities because they were money, and therefore excluded from the definition of securities, for the purposes of chapter 2, by section 420(5)(b).
+the shares were said to be money on the basis that the commercial reality of the scheme was the payment of cash: in particular, the shares were always intended to be redeemable for cash.
+it may well be that, in an appropriate case, the statutory term money, construed purposively, might apply to arrangements which, viewed realistically, were no more than disguised or artificially contrived methods of paying cash to employees.
+for the reasons explained in para 92, however, that approach cannot be applied on the facts of the present appeals.
+it is also apparent from some of the examples of securities given in section 420(1)(b), such as debentures, certificates of deposit, and other instruments creating or acknowledging indebtedness, that the ability to redeem an instrument for cash does not render it money.
+indeed, the implication of section 424(c) is that redeemable shares are included within the scope of chapter 2.
+conclusion
+the error of the court of appeal in these cases lies, in my opinion, in adopting a literal construction of chapter 2, and applying it to a correspondingly formal analysis of the facts.
+adopting a purposive construction of chapter 2, the conditions relied upon in order to bring the shares in question within the scope of the exemption conferred by section 425(2) failed to make provision of the kind required by section 423(1)(a): that is to say, provision having a business or commercial purpose, as distinct from provision whose only purpose was the obtaining of the exemption.
+that does not however mean that the conditions are to be disregarded for all fiscal purposes.
+income tax is payable on the value of the shares as at the date of their acquisition in accordance with abbott v philbin, account being taken of any effect which the conditions may have had.
+i would allow the appeals on that basis, subject to such adjustments to the assessments as may be necessary to reflect any effect which the conditions may have had on the value of the shares as at the date of their acquisition.

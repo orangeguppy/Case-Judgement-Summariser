@@ -1,0 +1,97 @@
+this appeal concerns the correct approach in law to a request for environmental information when the public authority holding the information relies upon more than one of the exceptions to the duty to disclose such information.
+is each exception to be addressed separately, by considering whether the interest served by it is outweighed by the public interest in disclosure? or can the interests served by different exceptions be combined and then weighed against the public interest in disclosure?
+domestically, the presently relevant exceptions are those provided by regulations 12(5)(a) (public safety) and 12(5)(c) (intellectual property) in the environmental information regulations 2004 (s.i. 2004 no. 3391).
+however, the regulations were made under the european communities act 1972 to implement the united kingdoms obligation to give effect to directive 2003/4/ec of 28 january 2003 on public access to environmental information.
+in the directive, the relevant exceptions are found, in only slightly different terms, in article 4(2)(b) and (e).
+the directive was intended to be consistent with the aarhus convention of 25 june 1998, in which equivalent exceptions appear as article 4(4)(b) and (e).
+the directive merely permits exceptions of the nature indicated, and it was open therefore to the united kingdom to introduce exceptions of a more limited nature (as mr lewis qc for the appellant, the information commissioner, submits).
+however, the supreme court sees no indication that the regulations intended to do more than introduce into domestic law exceptions matching in their terms and effect those permitted by the directive.
+accordingly, the answer to the question in this appeal appears to the court to depend upon the interpretation of the directive.
+in the courts view, the answer is not obvious and is necessary for the courts decision.
+on this basis, the courts duty is to refer the question to the court of justice under article 267 treaty on the functioning of the european union (prior to 1 december 2009, article 234 ec).
+the context
+the information requested relates to the precise location of mobile phone base stations in the united kingdom.
+in 2000, the report of the independent expert group on mobile phones, mobile phones and health (the stewart report) concluded that radiation from mobile phones did not constitute a health risk, but that, until much more detailed and robust information was available, a precautionary approach was called for.
+the stewart report identified, as matters of public concern, the location of base stations and the authorisation processes for their erection, and recommended a national database.
+the sitefinder website was duly set up by the government and has been operated since the end of 2003 by the respondent, the office of communications (ofcom).
+the site is constructed from information voluntarily provided by mobile network operators from their databases.
+it has enabled individuals, by inputting a postcode, town or street name, to search a map square for information about the base stations within it.
+the sitefinder website shows the approximate location in each square of each base station, but does not show either its precise location to within a metre or whether it has been mounted at street level or concealed within or on top of a structure or building.
+an information manager for health protection scotland (a branch of the national health service) requested from ofcom grid references for each base station, as it appears for epidemiological purposes.
+the information managers request was refused by ofcom, both initially and on review.
+on application to the appellant, the information commissioner, disclosure was ordered.
+on an appeal by ofcom, the information tribunal upheld the order for disclosure, on different grounds which turned on the two presently relevant exceptions.
+the tribunal examined the application of each exception in turn.
+as to the first exception (public safety), t mobile (a mobile phone operator joined as a party before the tribunal) submitted that the release of the precise locations of base stations would assist criminal activities.
+the tribunal found that the release of the whole database would provide some assistance to criminals (para. 40).
+criminals were more likely to use the sitefinder website itself for the purpose of trawling valuable sites or disrupting public or police communications.
+but it was conceivable that data manipulation would enable sophisticated criminals to detect patterns of development in base station construction, which could assist their activities and greater risks might result from the release of the five figure grid reference numbers which would enable criminals to establish the precise location of, and (in an urban environment) the resulting ease of access to, base stations.
+the disclosure of the requested information would in some degree increase the risk of attacks and in that way may adversely affect public safety (para. 40).
+however, although the matter fell therefore within the scope of the exception, the tribunal did not accept that the public interest in maintaining it outweighed the public interest in disclosure (para. 41).
+the public interest in disclosure arose from the recommendations of the stewart report, from the general importance attaching to the dissemination of environmental information and from the particular importance of the particular information for epidemiological purposes to the public, either as individuals or as members of interested groups.
+as to the second exception (intellectual property rights), ofcom and t mobile relied upon database rights under the copyright and rights in database regulations 1997 (s.i. 1997 no. 3032) implementing directive 96/9/ec of 11 march 1996 and, if and as necessary, copyright under section 3 of the copyright designs and patents act 1988.
+it was, in the tribunals view, clear that mobile network operators had database rights in respect of the dataset information which they provided to ofcom from which the sitefinder website was constructed.
+it was also conceded by the information commissioner, although the tribunal expressed reservations about the correctness of the concession, that the datasets contributed by mobile network operators also enjoyed copyright protection, and that the sitefinder website itself enjoyed both dataset right and copyright protection.
+ofcom and t mobile asserted that disclosure of the information requested would affect these intellectual property rights adversely in several respects.
+the information had commercial value, and they might lose licensing opportunities (para. 50).
+although the public would still be bound to respect their intellectual property rights in the information, its public disclosure would make infringement more likely and less easy to detect (para. 51).
+it could enable competitors to map their network and ascertain their network design a factor which, however, the tribunal considerably discounted, having regard to the existing feasibility of undertaking such an exercise using the sitefinder website, and the absence of any sign of any competitor as yet undertaking it (para. 52 54).
+landowners might be able to identify land where a mobile network operator would require to place a base station, and to demand a higher rent (para. 55).
+the tribunal thought the harm likely to be suffered under this last head minimal.
+but it thought that the various factors considered together involved sufficient adverse effect to trigger the exception (para. 55).
+each represented some degree of interference with a property right, although none had any direct impact on the public (para. 62).
+the tribunal also thought it right to take into account, as a potential adverse consequence of disclosure, the possibility (now it appears in many cases a reality) that it might lead mobile network operators to refuse to continue to provide information to update the sitefinder website.
+its conclusion was however that the consequences of the interference with intellectual property rights involved in disclosure were outweighed by the same public interest in disclosure as it had identified when considering the first exception.
+ofcom submitted to the tribunal that it should go further and consider the potential adverse effects identified in respect of public safety and intellectual property rights together and weigh them on that basis against the public interest in disclosure.
+the tribunal, in rejecting such an approach as incorrect, said (para 58): we do not accept that the language or structure of eir regulation 12 permits the public interest factors to be transferred and aggregated in this way.
+it seems to us that for a factor to carry weight in favour of the maintenance of an exception it must be one that arises naturally from the nature of the exception . not any matter that may generally be said to justify withholding information from release to the public, regardless of content. if that were not the case then we believe that the application of the exceptions would become unworkable.
+it could certainly produce a strange result on the facts of this case.
+we have already found that the public interest in withholding information that might be of value to criminals does not justify maintaining the public safety exception.
+on [ofcoms] argument it could be supplemented by the public interest in not undermining intellectual property rights, in order to try to tip the scales in favour of maintaining the exception.
+we think that this would produce a nonsensical outcome and it is not a procedure we propose to adopt.
+ofcom appealed to the administrative court, which took the same approach as the tribunal on this last point: [2008] ewhc 1445 (admin).
+however, on a further appeal, the court of appeal reached the opposite conclusion: [2009] ewca civ 90.
+it started with the domestic principle of statutory construction, according to which the singular includes the plural unless the contrary intention appears.
+in its view, therefore, references to an exception in e.g. regulation 12(1)(a) were to be read as being to one or more exceptions.
+it also considered that the language of other regulations and of the directive supported its conclusion.
+and it did not agree with the tribunals view that an aggregate approach to the exceptions would be unworkable or nonsensical.
+on the contrary, it said that it would consider it surprising if the directive or eir required disclosure in a case where the overall public interest favoured non disclosure (para. 42).
+the proceedings before the supreme court
+the appeal before the supreme court concerns the single point described in the previous two paragraphs.
+in the light of the written and oral submissions on the point, the court is at present divided in its views about the correct legal answer to this question, by a majority of three to two presently favouring the court of appeals approach.
+but all the courts members are agreed that, in order to ascertain the answer under domestic law, it is, as stated at the outset of this judgment, necessary to know the answer to the equivalent question posed under directive 2003/4/ec of 28 january 2003, and accordingly, since this is also not obvious, to refer the matter to the court.
+it is unclear whether the information tribunal would have arrived at any different conclusion had it thought it feasible and appropriate to combine all the adverse factors under the two relevant exceptions and to weigh them against the public interest in disclosure.
+the adverse factors identified by the tribunal were on their face scattered and limited, in comparison with the general presumption and other specific factors favouring disclosure of the relevant environmental information.
+but the point arises as one of general principle, and has been treated as relevant by the tribunal and in the courts below.
+in case it would assist the court of justice, the supreme court will explain in a little greater detail some of the considerations which have impressed its members thinking.
+all members take as their approach the general guidance given in recital (16) of the directive.
+the restrictive interpretation of exceptions is a general community law principle, evidenced elsewhere in the field of disclosure of information by sweden and turco v council of the european union cases c 39 and 52/05 p and sweden v commission case c 64/05p. exceptions are set out under individual heads in two parts (article 4(1) and article 4(2)) followed by a general paragraph, which reads: the grounds for refusal mentioned in paragraphs 1 and 2 shall be interpreted in a restrictive way, taking into account for the particular case the public interest served by disclosure.
+in every particular case, the public interest served by disclosure shall be weighed against the interest served by the refusal.
+member states may not, by virtue of paragraph 2(a), (d), (f), (g) and (h), provide for a request to be refused where the request relates to information on emissions into the environment.
+the majority of the court point to the references to the particular case (in german im einzelfall and in jedem einzelfall or in french dans le cas despce and dans chaque cas particulire) as emphasising the need, in each case when disclosure is requested and refused, to consider the factors relevant to that case, but not as calling for treatment of each exception separately.
+they also point to the reference to weighing the public interest served by disclosure against the interest served by the refusal and consider that, since the refusal may be on a number of grounds, the whole of the interest or interests giving rise to adverse effects under any and all grounds must be put into the scales at once when the weighing exercise is undertaken.
+the majority view is that, since all the facets of the public interest in disclosure go into one side of the scales, it makes sense to put all the aspects of the interests served by refusal to go into the other side.
+these latter interests may be highly diverse and without any common factor (as in the present case, where the arguments against disclosure under the public safety and intellectual property rights exceptions are separate, one being concerned with public, the other with private protection).
+but that, in the majority view, can be seen as a positive reason why it is permissible to accumulate them.
+if, in some future case, it was possible to identify some overlap, then some allowance might perhaps be appropriate to eliminate double counting.
+the majority further point out that some of the heads of article 4(2), particularly (b), already involve different interests under which different factors could arise which could, they consider, presumably be cumulated.
+the minority view is that each exception appears as a separate head, serving separate interests and requiring separate consideration.
+first, the minority observes that this must be the case as regards article 4(1) and 4(2).
+factors relevant to an exception in article 4(1) could hardly have been intended to be cumulated with factors relevant to an exception in article 4(2).
+that would not make sense.
+secondly, looking at article 4(1) and article 4(2) separately, the word or in the aarhus convention makes clear that the provisions in that convention equivalent to article 4(1) and 4(2) constitute alternative exceptions; and the directive was intended to be consistent with the aarhus convention.
+third, there is no common factor behind the exceptions in article 4(2) which enables any sensible cumulation.
+the court of appeal over looked this factor when it spoke of some overall public interest favour[ing] non disclosure (see para. 9 above).
+the exceptions serve disparate interests, which can and must each be weighed separately against the public interest in disclosure.
+a public interest in limiting criminal activities which is itself insufficient to outweigh the public interest in disclosure cannot sensibly be cumulated with a private intellectual property right which is itself again also insufficient to outweigh the public interest in disclosure, in order to thereby arrive at some combined interest in non disclosure which would outweigh the public interest in disclosure.
+the information tribunal was right to consider that cumulation of factors would lead to incongruities, and it is far from clear how it could or would work in practice.
+fourth, the minority considers that the natural interpretation of the language of the directive views each exception as a separate potential reason for refusal.
+if the interest served by it is outweighed by the public interest in disclosure, it ceases to be relevant.
+if the interest it serves outweighs the public interest in disclosure, the refusal can and will identify that exception as the reason.
+on ofcoms case, however, the reason for refusal could however be that, although no particular exception applies, viewed collectively two (or more) exceptions apply.
+reasons for reference
+the question referred is one of general principle, on which the courts below have expressed, and different members of the supreme court hold, different views.
+if it is answered in the negative, that will resolve this litigation.
+if it is answered in the affirmative, the matter is likely to have to be referred back to the information tribunal for further consideration.
+the question referred
+the supreme court therefore refers to the court of justice this question: under council directive 2003/4/ec, where a public authority holds environmental information, disclosure of which would have some adverse effects on the separate interests served by more than one exception (in casu, the interests of public security served by article 4(2(b) and those of intellectual property rights served by article 4(2)(e)), but it would not do so, in the case of either exception viewed separately, to any extent sufficient to outweigh the public interest in disclosure, does the directive require a further exercise involving the cumulation of the separate interests served by the two exceptions and their weighing together against the public interest in disclosure?

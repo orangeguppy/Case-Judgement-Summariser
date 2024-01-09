@@ -1,0 +1,857 @@
+this appeal raises an important question in relation to the law of damages: in what circumstances can damages for breach of contract be assessed by reference to the sum that the claimant could hypothetically have received in return for releasing the defendant from the obligation which he failed to perform? damages assessed on this basis, sometimes described as wrotham park damages, after the case of wrotham park estate co ltd v parkside homes ltd [1974] 1 wlr 798, have attracted considerable debate, both judicial and academic.
+that debate, and the confused state of the authorities, have reflected a lack of clarity as to the theoretical underpinning of such awards, and consequent uncertainty as to when they are available.
+this is the first occasion on which the issue has come before the highest court for decision, although there was some discussion of wrotham park in attorney general v blake [2001] 1 ac 268.
+in engaging with this issue, the court has had the assistance of strongly argued submissions by counsel, supported by extensive citation of case law and academic scholarship.
+it is necessary to recognise at the outset that the term wrotham park damages has been used rather loosely in the authorities, as lord walker of gestingthorpe observed in pell frischmann ltd v bow valley iran ltd [2009] ukpc 45; [2011] 1 wlr 2370, para 46.
+he referred in particular to the failure to distinguish clearly between its use, on the one hand, to describe every type of compensatory damages which exceed the actual financial loss to the claimant, and, on the other hand, damages awarded in lieu of specific performance or an injunction under the jurisdiction created by section 2 of the chancery amendment act 1858 (lord cairns act); and, in the latter context, between non proprietary breaches of contract, and those involving the invasion of a property right.
+this judgment will abjure the use of the term wrotham park damages.
+although it will be necessary to consider the case of wrotham park, it is a source of potential confusion because of the opacity of its reasoning, and it can now be regarded as being of little more than historical interest.
+instead, this judgment will use the expression negotiating damages, introduced by neuberger lj in lunn poly ltd v liverpool & lancashire properties ltd [2006] ewca civ 430; [2006] 2 eglr 29, para 22.
+in pell frischmann, lord walker listed what he regarded as the most illuminating of the judgments on this subject since wrotham park itself.
+he extracted from them the following general principles, at para 48: (1) damages (often termed user damage) are readily awarded at common law for the invasion of rights to tangible moveable or immoveable property (by detinue, conversion or trespass) (2) damages are also available on a similar basis for patent infringement and breaches of other intellectual property rights of a proprietary character (3) damages under lord cairnss act are intended to provide compensation for the courts decision not to grant equitable relief in the form of an order for specific performance or an injunction in cases where the court has jurisdiction to entertain an application for such relief (4) damages under this head (termed negotiating damages by neuberger lj in lunn poly at para 22) represent such a sum of money as might reasonably have been demanded by [the claimant] from [the defendant] as a quid pro quo for [permitting the continuation of the breach of covenant or other invasion of right]: lunn poly at para 25. (5) although damages under lord cairnss act are awarded in lieu of an injunction it is not necessary that an injunction should actually have been claimed in the proceedings, or that there should have been any prospect, on the facts, of it being granted in pell frischmann it was unnecessary to consider the wider issues raised by the present appeal.
+for reasons which will be explained, it will be necessary to qualify principles (4) and (5) to some extent, and to add a number of others.
+it is convenient to preface the discussion with an explanation of the context in which the question arises in the present case, by summarising the facts of the case and the history of the proceedings.
+the facts
+the relevant events can be summarised as follows.
+in 1999 the first defendant established a business providing support for young people leaving care.
+in 2002 she agreed to sell a 50% interest to a mr and mrs costelloe.
+the claimant company, one step (support) ltd (one step), was incorporated as a vehicle for the transaction.
+the first defendant and mrs costelloe each subscribed for 50% of its issued share capital and were appointed as its directors.
+they entered into a shareholders agreement which included provision for dealing with a deadlock between the directors by enabling each of them to serve a notice requiring the other director either to buy the shares of the director serving the notice at a specified price, or to sell her own shares to that director at the same price.
+the first defendant and mr costelloe then ran the business, and the second defendant performed a managerial role.
+the business comprised the provision of rented accommodation and support services to enable vulnerable individuals referred by local authorities, such as children and young people leaving care, and adults with mental health and learning disabilities, to live as independent lives as possible in the community.
+the services were provided to local authorities in west london and the thames valley.
+the business prospered for some years, but over time the working relationship between the first defendant and mr costelloe deteriorated.
+in april 2006, the first defendant emailed to her personal email account confidential market research information held by the claimant.
+in may 2006, mrs costelloe gave notice of her intention to serve a deadlock notice.
+in july 2006, the first defendant incorporated another company, positive living ltd. she and the second defendant were its sole shareholders.
+in august 2006 mrs costelloe served a deadlock notice, offering either to sell her shareholding to the first defendant, or to buy the first defendants shareholding, for 3.15m.
+the first defendant elected to require mrs costelloe to buy her shares.
+in december 2006 a buy out agreement was entered into.
+the first defendant sold her shares to community support project ltd (cspl), a vehicle company incorporated and owned by mr costelloe, for 3.15m, and agreed to resign as a director of the claimant.
+she also agreed with the claimant to be bound for a period of three years by covenants requiring her to keep information concerning its business transactions confidential, and prohibiting her from engaging in a business that was in competition with it or soliciting its clients, without its consent, such consent not to be unreasonably withheld.
+as part of the same transaction, the second defendant terminated her employment with the claimant and agreed to be bound by similar covenants against competition and solicitation.
+in august 2007, positive living began trading in west london and the thames valley in competition with the claimant.
+by early 2008, the claimants business had experienced a significant downturn.
+in february 2008, solicitors acting on its behalf wrote to the first defendant, threatening to bring proceedings for an injunction.
+following an exchange of correspondence, the matter was not pursued further at that time.
+in december 2009, the three year period of restraint specified in the covenants expired.
+in september 2010, after further correspondence had passed between the defendants solicitors and solicitors acting for the claimant, the defendants sold their shares in positive living for 12.8m.
+in july 2012, the claimant issued the present proceedings, alleging that the defendants had acted in breach of the covenants and in breach of an equitable duty of confidence, had induced each other to breach the covenants, and had conspired with each other to injure it by unlawful means.
+in relation to remedies, in respect of the breach of the non compete and non solicit covenants it sought an account of profits, or alternatively what were described as restitutionary damages, in such sum as it might reasonably have demanded as a quid pro quo for releasing the defendants from those covenants, or, in a further alternative, what were described as compensatory damages for the loss it had suffered by reason of the defendants breach of those covenants.
+in respect of the breach of confidence, it sought an account of profits, or alternatively damages.
+for the purposes of the proceedings, the claimant produced reports by forensic accountants quantifying the loss which it had allegedly suffered in consequence of the defendants alleged breach of the covenants, the benefits obtained by the defendants, and the hypothetical release fee.
+mr christopher hine estimated the loss that the claimant had suffered at between 3.4m and 4.6m, depending on the gross profit margin on sales which was assumed.
+put shortly, he estimated the sales which the claimant would have made in the absence of competition from positive living during the period when the defendants were in breach of contract, compared those with the sales actually made, and applied a profit margin to the shortfall.
+he based his estimate of the sales which would have been made in the absence of competition from positive living on the trend of sales during the period after the defendants departure from the business and before the breach of contract commenced, on a forecast of profits which had been independently prepared for the claimant in september 2006, and on a market analysis establishing the extent to which positive livings sales were achieved at the expense of the claimant.
+he added a further sum in respect of an additional loss of profits after the restrictive covenants expired, again based on a comparison between projected sales in the absence of competition from positive living and actual sales.
+he added that loss of goodwill was not within his expertise.
+mr andrew grantham estimated the hypothetical licence fee at between 5.6m and 6.3m.
+he did so by estimating what a reasonable person in the position of the claimant would have agreed to accept in return for releasing the defendants from the covenants, and what a reasonable person in the position of the defendants would have agreed to pay for that release, and then identifying the area of overlap.
+the hypothetical negotiation which he envisaged was highly complex and cannot be easily summarised.
+in simplified terms, the reasonable person in the position of the claimant was envisaged as seeking the payment of an initial release fee and the grant of an option entitling it to acquire the defendants competing business at a discount to its market value, while the reasonable person in the position of the defendants was envisaged as being unwilling to pay more than the discounted value of an accelerated sale of positive livings business, plus the amount obtained on the first defendants sale of her shares in the claimant, to the extent that it was invested in activities on the part of positive living which were not in competition with the claimant.
+one notable feature is that the starting point, on the claimants side of the hypothetical negotiation, was an estimate of the claimants cash flows and profits in the absence of competition from positive living, the equivalent figures in the presence of such competition, and an assumed profit margin.
+these estimates were taken from mr hines report.
+since damages have not yet been assessed, it is appropriate for this court to be circumspect in its comments on the reports.
+one observation can however be made.
+much has been made in the judgments below, and in the submissions on behalf of the claimant, of the difficulty of estimating the loss which it suffered, and the comparative simplicity of estimating the hypothetical release fee.
+so far as appears from the reports, the proposition that estimating the hypothetical release fee is simpler in this case than estimating the loss suffered does not hold water.
+the proceedings below
+the trial judge, phillips j, ordered that the issues of liability, and the claimants entitlement to the remedies sought, should be tried first.
+following trial, he found ([2014] ewhc 2213 (qb)) that the defendants had acted in breach of contract by breaching the non compete covenants (although less extensively than had been assumed in the expert reports) between august 2007 and 20 december 2009, that they had also breached the non solicit covenants between 20 december 2006 and 20 december 2009 by soliciting business from seven local authorities, and that the first defendant had also acted in breach of the contractual confidentiality clause and an equitable duty of confidence by appropriating the market research information in april 2006 and subsequently using it to set up positive living.
+he did not find it necessary to determine the claims in tort.
+in relation to remedies, the judge did not make any separate order in respect of the first defendants breach of her contractual and equitable duties of confidence.
+he also declined to order an account of profits in respect of any of the breaches of duty.
+implicitly, he appears to have proceeded on the basis that no separate award for the breach of confidence was necessary, since the harm which it caused would be reflected in an award in respect of the breach of the non compete and non solicit covenants.
+no appeal has been taken against these aspects of his decision.
+he concluded that this was a prime example of a case in which wrotham park damages (as he described them) should be and were available.
+it would, he said, be difficult for the claimant to identify the financial loss it had suffered by reason of the defendants wrongful competition, not least because there was a degree of secrecy in the establishment of positive livings business which had not been fully reversed by the disclosure process.
+in his judgment it would be just for the claimant to have the option of recovering damages in the amount which might reasonably have been demanded in 2007 for releasing the defendants from their covenants, not least because the covenants provided that the restraint was subject to consent, not to be unreasonably withheld.
+he accordingly granted a declaration that the claimant was entitled to judgment for damages to be assessed on a wrotham park basis (for such amount as would notionally have been agreed between the parties, acting reasonably, as the price for releasing the defendants from their obligations) or alternatively ordinary compensatory damages.
+the claimant then elected for damages on the so called wrotham park basis, and a hearing on quantum was fixed.
+it has not yet been held.
+an appeal was dismissed.
+christopher clarke lj, with whom king lj agreed ([2017] qb 1), considered that the test was whether an award of damages on the wrotham park basis was the just response in the particular case.
+that was a matter for the judge to decide on a broad brush basis.
+he was entitled to take into account the difficulties which the claimant would have in establishing damages on the ordinary basis.
+there would be very real problems in showing what placements the claimant lost because of the appearance of positive living on the scene, and in addition any loss of goodwill was inherently difficult to measure.
+christopher clarke lj observed that the amount taken as the reasonable sum for the relaxation of restrictive covenants might represent more, perhaps far more, than the loss realistically to be regarded as, in the event, suffered by their breach.
+so a wrotham park award could bear no relationship to the practical effect of any competition from positive living.
+further, the assessment of a reasonable price might involve consideration of several imponderables, such as the likely effect of future competition, which would also arise in any assessment of general damages.
+nevertheless, christopher clarke lj did not regard these considerations as justifying a denial of wrotham park damages.
+first, the price that might reasonably be demanded for the relaxation of a covenant might necessarily exceed the loss that would have been suffered by the actual breach, since the price reflected the risk that breach of the covenant might result in a greater risk than had in fact occurred (something which, it might be thought, was a reason for declining to award damages on the wrotham park basis, rather than the reverse).
+secondly, in deciding on the appropriate price the court must exercise a robust judgment (para 131) which took account of the likely extent and effect of any competition.
+further, justice might require the court to take into account facts and events after the date of the hypothetical negotiation, or to take a post breach valuation date.
+longmore lj gave a concurring judgment, in which he confessed to having found the question more difficult.
+as he put it, judges like to act in accordance with accepted principle and it is not easy to set out the principles by which it is possible to decide that wrotham park damages should be awarded (para 143).
+he treated an award of wrotham park damages as being justified where three factors, identified by peter gibson lj in experience hendrix llc v ppx enterprises inc [2003] ewca civ 323; [2003] 1 all er (comm) 830, para 58, were present: (1) there was a deliberate breach by the defendant of its contractual obligations for its own reward; (2) the claimant would have difficulty in establishing financial loss therefrom; and (3) the claimant had a legitimate interest in preventing the defendants profit making activity in breach of contract.
+on the facts, all three factors were considered to be present.
+the issues in the present appeal are agreed by the parties to be, first, where a party is in breach of contract, in what if any circumstances is the other party to the contract entitled to seek negotiating damages, ie damages assessed by reference to a hypothetical negotiation between the parties, for such amount as might reasonably have been demanded by the claimant for releasing the defendants from their obligations; and secondly, whether the court of appeal was correct to uphold the judges finding that such damages are available in this case.
+first principles
+the award of negotiating damages under lord cairns act, and also at common law, has been influenced by the award of user damages at common law for the tortious invasion of rights to tangible property, and the award of damages on a similar basis for infringements of intellectual property rights.
+before considering the circumstances in which negotiating damages may be available at common law for breach of contract, it is necessary to consider (i) the award of user damages in tort, and also to remind oneself of some general principles governing (ii) common law damages for breach of contract, and (iii) the jurisdiction to award damages under lord cairns act.
+(i) user damages in tort
+in tort, although damages may in some circumstances be awarded for punitive purposes, the general principle is that damages are compensatory.
+as lord blackburn said in livingstone v rawyards coal co (1880) 5 app cas 25, 39; (1880) 7r (hl) 1, 7: i do not think there is any difference of opinion as to its being a general rule that, where any injury is to be compensated by damages, in settling the sum of money to be given for reparation of damages you should as nearly as possible get at that sum of money which will put the party who has been injured, or who has suffered, in the same position as he would have been in if he had not sustained the wrong for which he is now getting his compensation or reparation.
+lord blackburns principle can readily be applied in situations where some tangible loss has been sustained: for example, where real property has been damaged or taken by a trespasser (as in the livingstone case itself), or where goods have been converted.
+its application is less obvious in situations where there has been an invasion of rights to tangible moveable or immoveable property, but there has been no pecuniary loss or physical damage to the property in question.
+nevertheless, where a trespasser has made valuable use of someone elses land, without causing any diminution in its value, the landowner has been held to be entitled to damages measured as what a reasonable person would have paid for the right of user: see, for example, whitwham v westminster brymbo coal and coke co [1896] 2 ch 538.
+a similar approach has been adopted in cases of detinue, such as strand electric and engineering co ltd v brisford entertainments ltd [1952] 2 qb 246.
+damages are also available on a similar basis for patent infringement and breaches of other intellectual property rights.
+the basis of the award of damages in cases of this kind was considered by lord shaw of dunfermline in watson, laidlaw & co ltd v pott, cassels & williamson 1914 sc (hl) 18; (1914) 31 rpc 104.
+the case concerned the sale of machines which infringed the pursuers patent.
+the issue in dispute was whether the pursuers were entitled to recover damages for sales which had been made by the defenders in a territory where the pursuers could not themselves have traded, and which, moreover, the defenders would have made even if the machines had not incorporated the infringing part.
+it was held that they were so entitled.
+lord shaw contrasted the principle underlying the assessment of damages in general, whether in contract or in tort, which he described as the principle of restoration as he defined it, with a second principle of price or hire, applicable not only to patent cases but whenever an abstraction or invasion of property has occurred (pp 29 31).
+as he explained, this distinction was relevant to the case before him, since the restoration principle could not support a claim by a patentee relating to a section of trade in which, it was argued, he can have sustained no damage, because he would never have sold his patented articles within that section (p 30).
+lord shaw described the second principle as follows, in a passage at p 31 subsequently quoted by brightman j in wrotham park: it is at this stage of the case, however, that a second principle comes into play.
+it is not exactly the principle of restoration, either directly or expressed through compensation, but it is the principle underlying price or hire.
+it plainly extends and i am inclined to think not infrequently extends to patent cases.
+but, indeed, it is not confined to them.
+for wherever an abstraction or invasion of property has occurred, then, unless such abstraction or invasion were to be sanctioned by law, the law ought to yield a recompense under the category or principle, as i say, either of price or of hire.
+he illustrated this by the example of the liverymans horse, also at p 31: if a, being a liveryman, keeps his horse standing idle in the stable, and b, against his wish or without his knowledge, rides or drives it out, it is no answer to a for b to say: against what loss do you want to be restored? i restore the horse.
+there is no loss.
+the horse is none the worse; it is the better for the exercise.
+lord shaw also endorsed the view expressed by fletcher moulton lj in meters ltd v metropolitan gas meters ltd (1911) 28 rpc 157, 165 that, even if it was not the claimants practice to grant licences, it would be right for the court to consider what would have been the price at which although no price was actually quoted could have reasonably been charged for that permission, and estimate the damage in that way.
+the approach adopted in these cases was described by nicholls lj in stoke on trent city council v w & j wass ltd [1988] 1 wlr 1406 as the user principle.
+he summarised it as follows, at p 1416: it is an established principle concerning the assessment of damages that a person who has wrongfully used anothers property without causing the latter any pecuniary loss may still be liable to that other for more than nominal damages.
+in general, he is liable to pay, as damages, a reasonable sum for the wrongful use he has made of the others property.
+the law has reached this conclusion by giving to the concept of loss or damage in such a case a wider meaning than merely financial loss calculated by comparing the property owners financial position after the wrongdoing with what it would have been had the wrongdoing never occurred.
+furthermore, in such a case it is no answer for the wrongdoer to show that the property owner would probably not have used the property himself had the wrongdoer not done so.
+in the mediana [1900] ac 113, 117, earl of halsbury lc made the famous observation that a defendant who had deprived the plaintiff of one of the chairs in his room for 12 months could not diminish the damages by showing that the plaintiff did not usually sit upon that chair or that there were plenty of other chairs in the room.
+in these cases, the courts have treated user damages as providing compensation for loss, albeit not loss of a conventional kind.
+where property is damaged, the loss suffered can be measured in terms of the cost of repair or the diminution in value, and damages can be assessed accordingly.
+where on the other hand an unlawful use is made of property, and the right to control such use is a valuable asset, the owner suffers a loss of a different kind, which calls for a different method of assessing damages.
+in such circumstances, the person who makes wrongful use of the property prevents the owner from exercising his right to obtain the economic value of the use in question, and should therefore compensate him for the consequent loss.
+put shortly, he takes something for nothing, for which the owner was entitled to require payment.
+(ii) common law damages for breach of contract
+it is necessary next to consider some basic principles of the law relating to damages for breach of contract: principles which it will be necessary to bear in mind at a later stage of this judgment, when considering the case of attorney general v blake and its aftermath.
+damages in contract serve a different remedial purpose from damages in tort, reflecting the different nature of the obligation breached by the wrongdoer in each case.
+the law of tort is concerned with civil wrongs, that is to say with breaches of duties imposed by the law, sometimes generally and sometimes on those who are party to particular relationships or have assumed particular responsibilities, which protect the interests of others in respect of such matters as their bodily integrity, their liberty, their property, their privacy and their reputation.
+damages in tort are generally intended to place the claimant as nearly as possible in the same position as he would have been in if the tort had not been committed.
+the law of contract, on the other hand, gives effect to consensual agreements entered into by particular individuals in their own interests.
+remedies granted by the courts are designed to give effect to what was voluntarily undertaken by the parties.
+damages in contract are therefore intended to place the claimant in the same position as he would have been in if the contract had been performed.
+in robinson v harman (1848) 1 exch 850, parke b said: the rule of the common law is, that where a party sustains a loss by reason of a breach of contract, he is, so far as money can do it, to be placed in the same situation, with respect to damages, as if the contract had been performed.
+that statement has been endorsed on many occasions at the highest level, most recently in bunge sa v nidera nv (formerly nidera handelscompagnie bv) [2015] uksc 43; [2015] bus lr 987, para 14, where it was described as the fundamental principle of the common law of damages.
+it has also been described as the ruling principle (wertheim v chicoutimi pulp co [1911] ac 301, 307), the fundamental basis for assessing damages (british westinghouse electric and manufacturing co ltd v underground electric railways co of london ltd (no 2) [1912] ac 673, 689), and the lodestar (golden strait corpn v nippon yusen kubishika kaisha (the golden victory) [2007] ukhl 12; [2007] 2 ac 353, para 36).
+that is not to say that damages in contract will always be different from damages in tort.
+for example, the damages awarded in cases of medical negligence do not normally depend on whether the claimant was a private patient: the substance of the obligation breached, and the recoverable harm caused, are normally the same whether the cause of action is framed in contract or in tort.
+equally, the user principle derived from the property cases discussed earlier is of potential relevance whether the wrongful use of property arises in a contractual or tortious context.
+the compensatory nature of damages for breach of contract, and the nature of the loss for which they are designed to compensate, were explained by lord diplock in photo production ltd v securicor transport ltd [1980] ac 827, 848 849.
+as his lordship stated, a contract is the source of primary legal obligations upon each party to it to procure that whatever he has promised will be done is done.
+leaving aside the comparatively rare cases in which the court is able to enforce a primary obligation by decreeing specific performance of it, breaches of primary obligations give rise to substituted or secondary obligations on the part of the party in default.
+those secondary obligations of the contract breaker arise by implication of law: the contract, however, is just as much the source of secondary obligations as it is of primary obligations .
+every failure to perform a primary obligation is a breach of contract.
+the secondary obligation on the part of the contract breaker to which it gives rise by implication of the common law is to pay monetary compensation to the other party for the loss sustained by him in consequence of the breach . (p 849)
+damages for breach of contract are in that sense a substitute for performance.
+that is why they are generally regarded as an adequate remedy.
+the courts will not prevent self interested breaches of contract where the interests of the innocent party can be adequately protected by an award of damages.
+nor will the courts award damages designed to deprive the contract breaker of any profit he may have made as a consequence of his failure in performance.
+their function is confined to enforcing either the primary obligation to perform, or the contract breakers secondary obligation to pay damages as a substitute for performance (subject, according to the decision in attorney general v blake, to a discretion to order an account of profits in exceptional circumstances where the other remedies are inadequate).
+the damages awarded cannot therefore be affected by whether the breach was deliberate or self interested.
+it follows from the principle in robinson v harman that the language of election is not appropriate in a discussion of the quantification of damages for breach of contract.
+the objective of compensating the claimant for the loss sustained as a result of non performance (an expression used here in a broad sense, so as to encompass delayed performance and defective performance) makes it necessary to quantify the loss which he sustained as accurately as the circumstances permit.
+what is crucial is first to identify the loss: the difference between the claimants actual situation and the situation in which he would have been if the primary contractual obligation had been performed.
+once the loss has been identified, the court then has to quantify it in monetary terms.
+the quantification of economic loss is often relatively straightforward.
+there are, however, cases in which its precise measurement is inherently impossible.
+as toulson lj observed in parabola investments ltd v browallia cal ltd (formerly union cal ltd) [2010] ewca civ 486; [2011] qb 477, para 22: some claims for consequential loss are capable of being established with precision (for example, expenses incurred prior to the date of trial).
+other forms of consequential loss are not capable of similarly precise calculation because they involve the attempted measurement of things which would or might have happened (or might not have happened) but for the defendants wrongful conduct, as distinct from things which have happened.
+in such a situation the law does not require a claimant to perform the impossible, nor does it apply the balance of probability test to the measurement of the loss.
+an example relevant to the present case is the situation where a breach of contract affects the operation of a business.
+the court will have to select the method of measuring the loss which is the most apt in the circumstances to secure that the claimant is compensated for the loss which it has sustained.
+it may, for example, estimate the effect of the breach on the value of the business, or the effect on its profits, or the resultant management costs, or the loss of goodwill: see chitty on contracts, 32nd ed (2015), paras 26 172 26 174.
+the assessment of damages in such circumstances often involves what lord shaw described in watson, laidlaw at pp 29 30 as the exercise of a sound imagination and the practice of the broad axe.
+evidential difficulties in establishing the measure of loss are reflected in the degree of certainty with which the law requires damages to be proved.
+as is stated in chitty, para 26 015, [w]here it is clear that the claimant has suffered substantial loss, but the evidence does not enable it to be precisely quantified, the court will assess damages as best it can on the available evidence.
+in so far as the defendant may have destroyed or wrongfully prevented or impeded the claimant from adducing relevant evidence, the court can make presumptions in favour of the claimant.
+the point is illustrated by the case of armory v delamirie (1721) 1 str 505, where a chimney sweeps boy found a jewel and took it to the defendants shop to find out what it was.
+the defendant returned only the empty socket, and was held liable to pay damages to the boy.
+experts gave evidence about the value of the jewel which the socket could have accommodated, and pratt cj directed the jury that, unless the defendant did produce the jewel, and shew it not to be of the finest water, they should presume the strongest against him, and make the value of the best jewels the measure of their damages: which they accordingly did.
+there are also many breaches of contract where the loss suffered by the claimant is not economic.
+at one time, this was thought to present a problem for the award of damages, unless it was possible to identify some form of physical detriment, on the view that placing a person in the same situation, so far as money can do it, as if the contract had been performed meant placing him in as good a situation financially.
+a wider view was however taken by the court of appeal in jarvis v swan tours ltd [1973] qb 233, and was confirmed by the house of lords in ruxley electronics and construction ltd v forsyth [1996] ac 344, where the defendants loss was the difference to him, in terms of satisfaction and pleasure, between the swimming pool for which he had contracted and the one which he received, and it was therefore necessary to place a reasonable monetary value on that difference.
+lord mustill stated at pp 360 361: the law must cater for those occasions where the value of the promise to the promisee exceeds the financial enhancement of his position which full performance will secure.
+this excess is usually incapable of precise valuation in terms of money, exactly because it represents a personal, subjective and non monetary gain.
+nevertheless where it exists the law should recognise if the misperformance takes it away [i]n several fields the judges are well accustomed to putting figures to intangibles, and i see no reason why the imprecision of the exercise should be a barrier, if that is what fairness demands. it and compensate
+the promisee
+that approach is consistent with the logic of damages for breach of contract: they are a substitute for the end result of performance, not for the economic end result of performance.
+it is therefore necessary in cases of non economic loss, as in cases of economic loss, to identify the difference in the claimants situation resulting from the non performance of the obligation in question, and then to place a reasonable monetary value on that difference, provided that the loss or damage in question is of a kind for which the law provides monetary compensation.
+(iii) damages in equity under lord cairns act
+historically, the court of chancery could provide remedies in aid of equitable rights, including restitution if the right was violated.
+it could also provide remedies which were not available at common law, such as an injunction or specific performance, in aid of common law rights.
+its jurisdiction was wider than that of the common law courts, for it could give relief where there was no cause of action at common law, for example by granting an injunction to prevent a threatened wrong.
+however, one form of relief which it could not grant (except, according to some authorities, where it was granted in addition to specific performance) was damages, ie monetary relief for the breach of a common law obligation.
+if the plaintiff wished to claim damages in addition to equitable relief, it was normally necessary to apply to the common law courts.
+the damages which could then be claimed were restricted to compensation for loss in respect of which there was a cause of action at common law.
+that inconvenience was addressed by section 2 of the chancery amendment act 1858, commonly known as lord cairns act.
+the section provided: in all cases in which the court of chancery has jurisdiction to entertain an application for an injunction against a breach of any covenant, contract, or agreement, or against the commission or continuance of any wrongful act, or for the specific performance of any covenant, contract, or agreement, it shall be lawful for the same court, if it shall think fit, to award damages to the party injured, either in addition to or in substitution for such injunction or specific performance, and such damages may be assessed in such manner as the court shall direct.
+equivalent provision is now contained in section 50 of the senior courts act 1981.
+lord cairns act enabled the court of chancery to award damages in the circumstances specified in addition to an injunction.
+that power enabled the court of chancery to award damages which could otherwise have been awarded by the common law courts, and has lost its significance since the fusion of the administration of law and equity.
+the act also enabled the court of chancery to award damages in substitution for an injunction: a statutory power to award damages in circumstances in which they could not be awarded at common law.
+as millett lj explained in jaggard v sawyer [1995] 1 wlr 269, 284: damages at common law are recoverable only in respect of causes of action which are complete at the date of the writ; damages for future or repeated wrongs must be made the subject of fresh proceedings.
+damages in substitution for an injunction, however, relate to the future, not the past.
+they inevitably extend beyond the damages to which the plaintiff may be entitled at law.
+in leeds industrial co operative society ltd v slack [1924] ac 851 the house of lords confirmed the jurisdiction of the courts to award damages under the act in respect of an injury which was threatened but had not yet occurred.
+no such damages could have been awarded at common law.
+damages awarded in substitution for an injunction are, as one might expect, a monetary substitute for an injunction.
+as viscount finlay stated in leeds industrial co operative society ltd v slack [1924] ac 851, p 859, the power to give damages in lieu of an injunction must in all reason import the power to give an equivalent for what is lost by the refusal of the injunction.
+where it is likely that the refusal of an injunction will result in the claimants sustaining loss and damage as a consequence of the tort, breach of contract or other wrongful act which the court has declined to prevent, the damages should provide compensation for that loss and damage, as sir thomas bingham mr and millett lj explained in jaggard v sawyer at pp 276 277 and 286 respectively.
+the power to award damages in substitution for an injunction is dependent on the courts having jurisdiction to grant an injunction, determined as at the commencement of the proceedings.
+the provision that damages can be awarded in substitution for such injunction might be thought to imply that the court must also have before it an application for an injunction, which it has decided to withhold.
+the point does not arise for decision in these proceedings, but i would be inclined for that reason to hesitate before endorsing the first part of lord walkers principle (5), set out in para 4 above.
+like the jurisdiction to grant an injunction, the jurisdiction to grant damages in lieu is equitable in nature, as millett lj explained in jaggard v sawyer at p 287: when the plaintiff claims an injunction and the defendant asks the court to award damages instead, the proper approach for the court to adopt cannot be in doubt.
+clearly the plaintiff must first establish a case for equitable relief, not only by proving his legal right and an actual or threatened infringement by the defendant, but also by overcoming all equitable defences such as laches, acquiescence or estoppel.
+it follows that it is necessary to treat with care lord wilberforces remark in johnson v agnew [1980] ac 367, 400 that he found in lord cairns act no warrant for the court awarding damages differently from common law damages.
+as millett lj explained in jaggard v sawyer at pp 290 291, all that johnson v agnew decided was that damages, whether at common law or under the act, are not invariably to be measured by reference to the value of the land ascertained at the date of the breach of contract.
+lord wilberforces words should not be read out of context and taken to imply that damages awarded in substitution for an injunction must necessarily be measured in the same way as damages recoverable at common law.
+that is hardly to be expected, given that the damages are available on a different basis, in different circumstances, and in respect of different types of wrong (past, on the one hand, and future or continuing, on the other).
+negotiating damages
+it is necessary to turn next to the most important of the wrotham park line of cases.
+these can be divided into two phases: an initial period in which awards based on a hypothetical release fee were made in the exercise of the jurisdiction under lord cairns act in substitution for injunctions to prevent interferences with property rights and breaches of restrictive covenants over land, and a later period in which awards calculated in a similar way were made at common law on a wider and less certain basis.
+the two phases are divided by the case of attorney general v blake, in which the wider availability of such awards was signalled, but the seeds of uncertainty were sown.
+(i) the first phase
+the first phase began with the case of wrotham park estate co ltd v parkside homes ltd. it concerned land originally forming part of an estate, which had been conveyed by its owners to developers, subject to a restrictive covenant that the land would not be developed except in accordance with plans approved by the estate owners.
+the land was then developed as housing, the plans being approved by the estate owners on the basis that a central area would remain free of buildings.
+the undeveloped area was later offered for sale as building land for houses, and acquired by developers at a price which reflected its development value.
+the plaintiffs, who were the current owners of the estate, were aware of the basis on which the land was being sold, but did not inform either the sellers or the developers that they objected to its development.
+the developers then began to develop it as housing without seeking the plaintiffs approval.
+the plaintiffs brought proceedings against the developers for an injunction before any substantial construction took place, but did not apply for interim relief.
+the houses were built, and purchasers moved in.
+they were made additional defendants.
+brightman j decided that the plaintiffs had a prima facie entitlement to a mandatory injunction requiring the removal of the houses, but that such relief should be refused as a matter of discretion.
+the question which then arose was what damages ought to be awarded in substitution for such an injunction.
+brightman js starting point was to consider the effect of the breach of covenant on the value of the estate.
+that measure would however result in nil or purely nominal damages, as the breach caused the plaintiffs no financial damage, nor any other form of loss.
+that would be a result of questionable fairness on the facts of this case (p 812).
+in that regard, he emphasised that it was only because the breach of covenant took the form of a housing development that an injunction was being refused: had it been the erection of an advertising hoarding, for example, an injunction would been granted.
+if, for social and economic reasons, the court did not see fit in the exercise of its discretion to order the demolition of the houses, was it just, he asked, that the plaintiffs should receive no compensation and that the defendants should be left in undisturbed possession of the fruits of their wrongdoing?
+in addressing that question, brightman j referred to the trespass and detinue cases discussed earlier, where damages were assessed according to the value of the use which the defendants had unlawfully obtained, and to lord shaws statement of the principle of price or hire in watson, laidlaw.
+citing lord sumners observation in the leeds industrial co operative society case at p 870 that damages awarded under lord cairns act in substitution for an injunction should be designed to be a preferable equivalent for an injunction and therefore an adequate substitute for it, he noted that the defendants could have carried out the development lawfully if they had obtained a relaxation of the covenant.
+he concluded that a just substitute for an injunction would be such a sum of money as might reasonably have been demanded by the plaintiffs from [the developers] as a quid pro quo for relaxing the covenant (wrotham park, p 815).
+that measure was appropriate notwithstanding that the plaintiffs would not have been willing to bargain for the relaxation of the covenant.
+there was evidence that landowners whose property stood in the way of a development commonly demanded a half or a third of development value.
+the judge did not however agree with that approach.
+he noted that the plaintiffs had made no protest when the land was sold as housing land, and the developers had paid for it on that basis.
+observing that damages must be assessed in such a case on a basis which is fair (p 816), he concluded that 5% of the anticipated profits from the development (which were taken to be the same as the actual profits) was the most that is fair.
+this case is unlikely to have been regarded at the time as having the significance which was later ascribed to it.
+the reasoning is less elaborate than the subsequent exegesis, and is not altogether clear.
+in particular, the relevance of the discussion of user damages to the award actually made was not clearly explained.
+a restrictive covenant over land is enforceable in contract only as between the original parties, but it is enforceable in equity as between their successors in title to the land in question.
+its effect is to create an equitable obligation whose benefit and burden run indefinitely with the ownership of each parcel of land, rather like a negative easement.
+it is for that reason that the benefit of a restrictive covenant is recognised as a new kind of property right created by equity: megarry & wade, the law of real property, 8th ed (2012), para 5 026.
+wrotham park resembled the earlier cases in which user damages were awarded, in that the use to which the defendants wrongfully put their property infringed a valuable right held by the plaintiffs to control such use.
+that justified an award of damages under lord cairns act based on the value of the right infringed, since the refusal of an injunction effectively deprived the plaintiffs of the benefit of their right, and therefore of its value.
+an appropriate sum could be determined by considering what the plaintiffs could fairly and reasonably have charged for relinquishing the right voluntarily.
+thus, as mance lj noted in experience hendrix at para 45, the right was treated as an asset with a commercial value.
+another notable aspect of brightman js reasoning is that he took account of other circumstances besides the economic value of the plaintiffs covenant: in particular, the fact that an injunction had been refused only because of the particular form of the defendants infringement (ie a housing development), and the plaintiffs failure to inform the defendants in advance that consent would not be forthcoming.
+much ink has been spilled on attempts to reconcile the latter aspect of the judgment with orthodox reasoning in relation to common law damages.
+unrealistic suggestions have been made that the judge was taking account of the plaintiffs failure to mitigate their loss, or of contributory negligence.
+it was also suggested by millett lj in jaggard v sawyer at p 291 that delay in seeking an injunction diminished the prospects of obtaining one, and therefore also diminished the value of the covenant.
+if the delay was such that it was no longer possible for the plaintiff to obtain an injunction, then the plaintiffs bargaining position was destroyed.
+one difficulty with that suggestion is that the assessment of damages in wrotham park was concerned with the value of the covenant at the time of the breach, rather than at the time of the trial.
+as anthony mann qc (sitting as a deputy high court judge) said in amec developments ltd v jurys hotel management (uk) ltd (2001) 82 p & cr 286, para 31, the non availability of an injunction when the trial takes place is the reason for awarding damages, not a bar on awarding them.
+a more convincing explanation is that the judge was influenced by considerations of fairness, as his language repeatedly indicated, underlining the fact that the award was made in the exercise of an equitable jurisdiction.
+a further issue which arises from wrotham park concerns the date, and hence the knowledge and other circumstances, by reference to which the hypothetical price is to be assessed.
+this issue has been discussed in the authorities (such as lunn poly and pell frischmann), but does not arise for decision in the present appeal, and has not been the subject of argument.
+in those circumstances, although i am inclined to agree with para 159 of lord carnwaths judgment, i prefer not to express a concluded view.
+all that need be said is that, since the damages are awarded in the exercise of an equitable jurisdiction, and the courts objective is, in viscount finlays words, to give an equivalent for what is lost by the refusal of an injunction, it follows that the approach adopted should reflect those characteristics.
+it also follows that the approach which is appropriate when assessing common law damages is not necessarily the same.
+wrotham park was followed in bracewell v appleby [1975] ch 408, where a house was built that could only be accessed by trespassing on land belonging to the plaintiffs.
+proceedings for an injunction were brought after building operations began.
+graham j decided to award damages in substitution for an injunction under lord cairns act.
+he awarded an amount of damages which in so far as it can be estimated is equivalent to a proper and fair price which would be payable for the acquisition of the right of way in question (p 419).
+the amount awarded took account of the fact that the plaintiffs had delayed before bringing proceedings.
+the court of appeal considered wrotham park in surrey county council v bredero homes ltd [1993] 1 wlr 1361.
+the case was one in which the court had no jurisdiction to award damages under lord cairns act (as millett lj explained in jaggard v sawyer at p 290), and damages were not sought on that basis.
+it is necessary to refer to the case in the present context only because of steyn ljs comment that wrotham park was only defensible on the basis of restitutionary principles: the object of the award was to deprive the defendants of an unjustly acquired gain.
+that analysis was rejected in jaggard v sawyer.
+sir thomas bingham mr, with whose judgment kennedy lj agreed, stated at [1995] 1 wlr 269, 281 282: i cannot, however, accept that brightman js assessment of damages in the wrotham park case was based on other than compensatory principles.
+the defendants had committed a breach of covenant, the effects of which continued.
+the judge was not willing to order the defendants to undo the continuing effects of that breach.
+he had therefore to assess the damages necessary to compensate the plaintiffs for this continuing invasion of their right.
+he paid attention to the profits earned by the defendants, as it seems to me, not in order to strip the defendants of their unjust gains, but because of the obvious relationship between the profits earned by the defendants and the sum which the defendants would reasonably have been willing to pay to secure release from the covenant.
+he continued, in a passage of wider significance to the issues in the present case, by citing with approval a passage in the judgment of sir robert megarry v c in tito v waddell (no 2) [1977] ch 106, 335, when he said, in relation to wrotham park: if the plaintiff has the right to prevent some act being done without his consent, and the defendant does the act without seeking that consent, the plaintiff has suffered a loss in that c the defendant has taken without paying for it something for which the plaintiff could have required payment, namely, the right to do the act.
+the court therefore makes the defendant pay what he ought to have paid the plaintiff, for that is what the plaintiff has lost.
+millett lj commented at p 291: it is plain from his judgment in the wrotham park case that brightman js approach was compensatory, not restitutionary.
+he sought to measure the damages by reference to what the plaintiff had lost, not by reference to what the defendant had gained.
+he did not award the plaintiff the profit which the defendant had made by the breach, but the amount which he judged the plaintiff might have obtained as the price of giving its consent.
+the amount of the profit which the defendant expected to make was a relevant factor in that assessment, but that was all.
+jaggard v sawyer itself concerned trespass and breach of covenant, on similar facts to bracewell v appleby.
+the plaintiff brought proceedings for an injunction to prevent the continuing wrongs.
+the judge refused to grant an injunction, but awarded damages in lieu under lord cairns act, based on the amount which the defendants might reasonably have paid for a right of way and the release of the covenant.
+that award was upheld.
+the case is notable for the analysis of damages under lord cairns act generally, and of the wrotham park line of cases in particular, in the judgments of sir thomas bingham mr and millett lj, from which extensive citation has already been made.
+the awards made in wrotham park itself, and in the cases in which it was followed during the next quarter century, were made in the exercise of a unique statutory jurisdiction: the award of damages in lieu of an injunction.
+the purpose of the awards was to provide the claimant with an appropriate monetary substitute for an injunction in the circumstances of the particular case.
+every reported case appears to have concerned either a tortious interference with property rights, or the breach of a restrictive covenant over land.
+damages were assessed according to the amount which might fairly have been charged for the voluntary relinquishment of the right which the court had declined to enforce, subject to downward adjustment for reasons of fairness.
+that measure reflected the fact that the refusal of an injunction had the effect of depriving the claimant of an asset which had an economic value.
+but the cases did not purport to lay down a general rule as to how damages under lord cairns act should be quantified, regardless of the circumstances.
+it is for the court to judge what method of quantification, in the particular circumstances of the case before it, will give an equivalent for what is lost by the refusal of the injunction.
+lord walkers principle (4), set out in para 4 above, should not therefore be understood as laying down a general rule.
+(ii) attorney general v blake
+attorney general v blake concerned a different issue.
+the question was whether the notorious traitor george blake, living in exile in moscow following his escape from wormwood scrubs, could be deprived of the profits earned from a book which he had published about his life and work as a spy.
+since, as lord nicholls of birkenhead stated at p 275, the information in the book was no longer confidential, nor was its disclosure damaging to the public interest, the only peg on which to hang such a deprivation was breach of contract: the book was written in breach of a contractual undertaking, given at the beginning of his service with the intelligence services, that he would not divulge official information gained as a result of his employment.
+the house of lords, by a majority, granted a declaration that the crown was entitled to be paid a sum equal to whatever amount was due and owing to blake from his publisher.
+lord nicholls, with whose speech the rest of the majority agreed, emphasised that such an order was available as a remedy for breach of contract only in exceptional cases, where other remedies were inadequate, and at the discretion of the court.
+a useful guide was said to be whether the plaintiff had a legitimate interest in depriving the defendant of his profit.
+it was accepted by the majority of the house of lords that the crown had such an interest in relation to the profits made by blake from the book.
+the case is relevant in the present context only because lord nicholls discussed the wrotham park line of cases in the course of his reasoning.
+put briefly, the difficulty which he saw in the way of an award of damages was that the crown had suffered no financial loss as a result of blakes publication of the book.
+it was not suggested that it had suffered any other loss or damage.
+in particular, by the time of publication, the information in the book had ceased to be confidential.
+in those circumstances, he sought to establish that what were described as damages measured by the benefit gained by the wrongdoer were an available alternative to compensation for financial loss, and that to treat an account of profits as an available remedy for breach of contract was therefore a coherent development of the law.
+lord nicholls first stepping stone towards his conclusion was that the user damages awarded for interferences with rights of property in the cases considered earlier cannot be regarded as conforming to the strictly compensatory measure of damage unless loss is given a strained and artificial meaning, since the injured persons rights were invaded but, in financial terms, he suffered no loss (p 279).
+however, as explained at para 30 above, a compensatory analysis need not be regarded as strained or artificial.
+the person who makes wrongful use of property, in breach of another persons valuable right to control its use, prevents that person from exercising his right to obtain the economic value of the use in question, and should therefore compensate him for the consequent loss.
+the second stepping stone was a consideration of remedies for breach of fiduciary duty, which established the availability in equity of an order for an account of profits.
+that is in a context where the fiduciary owes his principal a duty of unqualified loyalty, and a consequent duty to account for all profits made from his position.
+the nature of the remedy reflects the nature of the obligation which has been infringed.
+the third stepping stone was a consideration of cases under lord cairns act, such as bracewell v appleby and jaggard v sawyer, and pre 1858 cases which could now be brought under the act, such as the case of a continuing wrong, such as maintaining overhanging eaves and gutters, as in battishill v reed (1856) 18 cb 696.
+these were said to show that in the same way as damages at common law for violations of a property right may be measured by reference to the benefits wrongfully obtained by a defendant, so under lord cairns act damages may include damages measured by reference to the benefits likely to be obtained in future by the defendant ([2001] 1 ac 268, 281).
+a gains based analysis of awards under lord cairns act was rejected in jaggard v sawyer, as explained at para 58 above.
+the damages awarded in that case, and in bracewell v appleby, were measured according to the amount which the claimant could fairly and reasonably have charged for the voluntary relinquishment of a valuable right of which he had effectively been deprived by the refusal of an injunction.
+in the absence of any reasons of fairness requiring its modification, the award was based on the economic value of the right: a value which was necessarily equivalent to that of the wrongful use which the claimant had to tolerate, since they were two sides of the same coin.
+that is consistent with lord nicholls approval of the analysis of the measure of damages awarded in this type of case as the price payable for the compulsory acquisition of a right (ibid).
+the claimant does not literally lose the right in question, but, as lord nicholls stated, the courts refusal to grant an injunction means that in practice the defendant is thereby permitted to perpetuate the wrongful state of affairs he has brought about (ibid).
+in the case of the overhanging eaves and gutters, on the other hand, the best measure of damages in the event of an injunction being refused might be found to be the consequent reduction in the value of the claimants property.
+it was only because that measure would have produced nil or purely nominal damages that brightman j adopted a different measure in wrotham park (p 812).
+under lord cairns act, as under the common law, the situations in which damages are awarded are so various on their facts that the courts cannot adopt a uniform approach.
+those three disparate types of award (damages for interferences with property, an account of profits made through a breach of fiduciary duty, and damages in substitution for an injunction), each reflecting the characteristics of the obligation which had been breached or the jurisdiction being exercised, formed the stepping stones to the fourth, namely damages for breach of contract.
+lord nicholls began by stating that such damages are compensatory: that, he said, is axiomatic (p 282).
+but a party to a contract may have an interest in performance which is not readily measurable in terms of money (ibid).
+in such cases, a financially assessed measure of damages is inadequate (ibid).
+the primary response of the law to this type of case was to provide specific relief, such as an injunction, so as to ensure that the contractual obligation was performed.
+these specific remedies, it was said, go a long way towards providing suitable protection for innocent parties who will suffer loss from breaches of contract which are not adequately remediable by an award of damages (p 282).
+but they were not always available.
+lord nicholls then cited wrotham park as an example of a case in which specific relief had been refused.
+the judge had been right to apply by analogy the cases concerning interferences with property rights, since it is not easy to see why, as between the parties to a contract, a violation of a partys contractual rights should attract a lesser degree of remedy than a violation of his property rights (p 283).
+wrotham park was said at pp 283 284 to shine as a solitary beacon, showing: . that in contract as well as tort damages are not always narrowly confined to recoupment of financial loss.
+in a suitable case damages for breach of contract may be measured by the benefit gained by the wrongdoer from the breach.
+the defendant must make a reasonable payment in respect of the benefit he has gained.
+this part of lord nicholls speech is not altogether easy to interpret.
+a few observations can however be made.
+first, the fact that a party to a contract may have an interest in performance which is not readily measurable in terms of money (p 282) has long been recognised by the law of damages.
+the law normally responds to inherent difficulties of measurement, and to difficulties arising from a paucity of evidence in a particular case, in the ways discussed at paras 37 38 above.
+such difficulties do not justify the abandonment of any attempt to measure loss, and the use of the benefit gained by the wrongdoer as an alternative basis for an award of contractual damages, since that alternative is inconsistent with the logic of contractual damages, as explained at paras 31 35 above.
+it is also necessary to recognise that the assessment of a hypothetical release fee is itself a difficult and uncertain exercise.
+in cases such as wrotham park, bracewell v appleby and jaggard v sawyer, judges estimated in a rough and ready way the amount which the claimant might fairly and reasonably have demanded as a quid pro quo for the relaxation of the obligation in question.
+more recently, the practice has developed of instructing forensic accountants to give expert evidence about a hypothetical negotiation between a reasonable person in the position of the claimant and a reasonable person in the position of the defendant.
+such imaginary negotiations have become increasingly elaborate, and a host of questions can emerge as to the basis on which they should be hypothesised.
+this is well illustrated by mr granthams report in the present case.
+the artificiality of the exercise can be a further problem.
+since the aim is to arrive at an objective valuation, the fact that the claimant might in reality have been unwilling to release the defendant from the obligation is not necessarily a problem, as brightman j recognised in wrotham park.
+but the premise of the hypothetical negotiation that a reasonable person in the claimants position would have been willing to release the defendant from the obligation in return for a fee breaks down in a situation where any reasonable person in the claimants position would have been unwilling to grant a release, as was found to be the position in marathon asset management llp v seddon [2017] ewhc 300 (comm); [2017] icr 791.
+the result of the exercise may be an appearance of precision, but as hildyard j commented in cf partners (uk) llp v barclays bank plc [2014] ewhc 3049 (ch), para 1199, the exercise is artificial; and, despite the apparent precision of the figures and calculations deployed typically (and necessarily) on each side, it necessarily involves a question of impression it is to some considerable extent a broad brush.
+secondly, although it is not clear what lord nicholls meant by a lesser degree of remedy (p 283), it is not surprising that damages for breach of contract are generally assessed differently from damages for the invasion of a proprietary right, since the rights and obligations in question are generally of a different character.
+it is only in circumstances where they are analogous that it would be reasonable to expect some consistency of approach.
+as has been explained, damages for breach of contract are based on the difference to the claimant between the outcome of performance and non performance.
+that is not generally the same as the economic value of the right to performance, considered as an asset (which is not to deny that they may be the same, or similar, in some circumstances).
+this point was made in a different context by lord sumption, with whom lord neuberger, lord mance and lord clarke agreed, in bunge sa v nidera bv, para 21: sections 50 and 51 of the sale of goods act [1979], like the corresponding principles of the common law, are concerned with the price of the goods or services which would have been delivered under the contract.
+they are not concerned with the value of the contract as an article of commerce in itself.
+thirdly, as lord walker remarked in pell frischmann at para 48, it is a little surprising that lord nicholls should have described wrotham park as a beacon in relation to common law damages for breach of contract.
+in the first place, the proceedings were not based on a contractual right: there was no contract between the parties.
+they were concerned with the invasion of a property right, as lord walker observed.
+furthermore, wrotham park was not concerned with common law damages, but with damages awarded in substitution for an injunction.
+in the circumstances of the case, these were not merely arbitrary matters of legal categorisation, but bore directly on the damages awarded, as has been explained.
+that is not to say that common law damages for a particular breach of contract are necessarily different from damages for analogous breaches of other types of obligation.
+as was said earlier, in circumstances where the rights and obligations are analogous, it would be reasonable to expect some consistency of approach.
+fourthly, it is plainly true that in contract as well as tort damages are not always narrowly confined to recoupment of financial loss.
+however, that proposition does not depend on the wrotham park line of cases.
+it is illustrated, in relation to breach of contract, by cases concerned with the award of damages at common law for breaches causing non economic loss, such as ruxley electronics and milner v carnival plc (trading as cunard) [2010] ewca civ 389; [2010] 3 all er 701.
+fifthly, since the assessment of damages in the property cases was based on the value of the right to control the use of the property as it had been wrongfully used, there is a sense in which it can be said that the damages in those cases may be measured by reference to the benefit gained by the wrongdoer from the breach, provided the benefit is taken to be the objective value of the wrongful use.
+the same can be said of the wrotham park line of cases, subject to the same proviso, and subject also to the role of equitable considerations in the making of awards under lord cairns act.
+the courts did not, however, adopt a benefits based approach, but conceived of the awards as compensating for loss.
+for the avoidance of doubt, the award of damages for skimped performance, based on the difference between the value of the goods or services contracted for and those actually provided, is not excluded by the principle in robinson v harman, but is an example of its application.
+that was recognised by lord nicholls in blake at p 286.
+this is worth mentioning, as it was submitted on behalf of the defendants in the present case, under reference to the canadian case of smith v landstar properties inc [2011] bcca 44, that such awards amounted to wrotham park damages.
+finally, in relation to lord nicholls speech, the connection which he drew between wrotham park and an account of profits has had consequences in the later case law which are unlikely to have been intended.
+one has been a view that damages assessed on the basis of a hypothetical release fee, and an account of profits, are similar remedies (partial and total disgorgement of profits, respectively), at different points along a sliding scale, calibrated according to the degree of disapproval with which the court regards the defendants conduct: see, for example, experience hendrix, paras 36 37 and 44.
+related to this has been a view, illustrated by the present case, that damages assessed on the basis of a hypothetical release fee, like an account of profits in some circumstances, are available at the election of the claimant, and can be awarded by the court at its discretion whenever they might appear to be a just response.
+neither view can be justified on an orthodox analysis of damages for breach of contract.
+the meaning and effect of lord nicholls discussion of damages for breach of contract have been much debated.
+it is unnecessary to pursue the matter further for the purposes of the present case.
+negotiating damages were not sought in blake and were not before the court.
+as the earl of halsbury lc observed in quinn v leatham [1901] ac 495, 506, a case is only an authority for what it actually decides.
+what blake decided was that in exceptional circumstances an account of profits can be ordered as a remedy for breach of contract.
+the soundness of that decision is not an issue in this appeal.
+(iii) the second phase
+the citation of wrotham park in judgments has been more common in the period since attorney general v blake than in the period before it.
+there have continued to be cases in which damages in lieu of an injunction, for interferences with property rights, have been assessed on the basis of the amount payable for a royalty or licence.
+there have also been awards of damages for breach of contract, in substitution for an injunction, assessed on the wrotham park basis.
+an example is pell frischmann, which concerned the breach of a partys right to participate in a business opportunity under a joint venture agreement.
+an injunction was never sought, but the availability of damages in lieu of an injunction was nevertheless agreed.
+the award of damages based on the commercial value of the right infringed treated that right as a commercially valuable asset, of which the claimant had been effectively deprived.
+there have also been cases in which negotiating damages have been treated as available at common law in cases of breach of contract.
+an example is the case of vercoe v rutland fund management ltd [2010] ewhc 424 (ch); [2010] bus lr d 141, which also concerned the breach of a joint venture agreement, where the defendants used the information provided by the claimants about a commercial opportunity without including them in the transaction.
+there were breaches both of a confidentiality agreement and of an equitable duty of confidentiality.
+it was agreed that damages should be assessed on the basis of a hypothetical release fee.
+in effect, the court awarded damages based on the commercial value of the information which the defendants misused, as in a number of earlier cases concerned with breach of confidence.
+these cases can be understood as proceeding on the footing that the result of the breach of contract was that the claimants lost a valuable opportunity to exercise their right to control the use of the information.
+the decision of the court of appeal in experience hendrix llc v ppx enterprises inc is less straightforward, and has given rise to difficulties of interpretation, if for example one compares wwf world wide fund for nature v world wrestling federation entertainment inc [2007] ewca civ 286; [2008] 1 wlr 445, devenish nutrition ltd v sanofi aventis sa [2008] ewca civ 1086; [2009] ch 390, and the present case.
+the case concerned an agreement between jimi hendrixs estate and ppx, relating to recordings on which mr hendrix had played at an early stage of his career, before he was an established artist.
+the copyright in the recordings was owned by ppx.
+the agreement limited ppxs right to use its copyright, by requiring it to pay the estate royalties for the licensing of certain recordings, and prohibiting it from licensing others.
+in the event, ppx granted licences in respect of recordings whose licensing was prohibited.
+the claimant brought proceedings as the estates assignee for an injunction and damages.
+at the opening of the trial, counsel for the claimant made it clear (para 14): . that he had no evidence, and he said that he did not imagine that he could ever possibly get any evidence, to show or quantify any financial loss suffered by the [claimant] as a result of ppxs breaches.
+the judge granted injunctions to restrain further breaches of the agreement, but declined to award damages in respect of the past breaches.
+the claimant appealed.
+the court of appeal decided that damages should be awarded, assessed by reference to the royalties which might hypothetically have been demanded by the claimant in return for its agreement to the grant of the licences in question.
+mance lj, with whom the other members of the court agreed, described blake as marking a new start in this area of law (para 16).
+wrotham park was said to illustrate that the law gives effect to the instinctive reaction that, whether or not the [claimant] would have been better off if the wrong had not been committed, the wrongdoer ought not to gain an advantage for free, and should make some reasonable recompense (para 26).
+ppx had done the very thing which it had contracted not to do (as in any case where there is a breach of a negative obligation).
+its breach of contract was deliberate.
+further, it can be said that the restriction against use of ppxs property of which ppx was in breach, was imposed to protect the [claimants] property (para 36): presumably a reference to the copyright in mr hendrixs later recordings, although the judgments do not state whether the copyright was held by the claimant.
+finally, the grant of an injunction showed that the claimant had a legitimate interest in depriving ppx of its profits.
+as a matter of practical justice, ppx should make (at the least) reasonable payment for its use of the recordings in breach of the agreement.
+however, the case was not exceptional to the point where the court should order an account of profits.
+the financial remedy should be confined to an order that ppx pay a reasonable sum for its use of material in breach of the agreement.
+peter gibson lj added a separate judgment, which has been influential (as in the present case) as a summary of the factors justifying the award made.
+he said at para 58: in my judgment, because (1) there has been a deliberate breach by ppx of its contractual obligations for its own reward, (2) the claimant would have difficulty in establishing financial loss therefrom, and (3) the claimant has a legitimate interest in preventing ppxs profit making activity carried out in breach of ppxs contractual obligations, the present case is a suitable one . in which damages for breach of contract may be measured by the benefits gained by the wrongdoer from the breach.
+to avoid injustice i would require ppx to make a reasonable payment in respect of the benefit it has gained.
+notwithstanding some of the reasoning, the decision in the case can be supported on an orthodox basis.
+the agreement gave the claimant a valuable right to control the use made of ppxs copyright.
+when the copyright was wrongfully used, the claimant was prevented from exercising that right, and consequently suffered a loss equivalent to the amount which could have been obtained by exercising it.
+that analysis can be reconciled with some of the reasoning in the judgment of mance lj, but there are other aspects of the reasoning in the case with which it is more difficult to agree.
+in particular, in so far as the reasoning might convey the impression that the fact that loss or damage may be difficult to measure renders it unnecessary to identify such loss or damage, or that it is relevant to an award of damages that the breach of contract was deliberate or the party in breach benefited from his conduct, or that it is relevant to an award of damages that the claimant has a legitimate interest in preventing an activity carried out in breach of contract, or that damages for breach of contract and an account of profits are similar remedies at different points along a continuum, that impression would be mistaken.
+conclusions
+the use of an imaginary negotiation can give the impression that negotiation damages are fundamentally incompatible with the compensatory purpose of an award of contractual damages.
+damages for breach of contract depend on considering the outcome if the contract had been performed, whereas an award based on a hypothetical release fee depends on considering the outcome if the contract had not been performed but had been replaced by a different contract.
+that impression of fundamental incompatibility is, however, potentially misleading.
+there are certain circumstances in which the loss for which compensation is due is the economic value of the right which has been breached, considered as an asset.
+the imaginary negotiation is merely a tool for arriving at that value.
+the real question is as to the circumstances in which that value constitutes the measure of the claimants loss.
+as the foregoing discussion has demonstrated, such circumstances can exist in cases where the breach of contract results in the loss of a valuable asset created or protected by the right which was infringed, as for example in cases concerned with the breach of a restrictive covenant over land, an intellectual property agreement or a confidentiality agreement.
+such cases share an important characteristic with the cases in which lord shaws second principle and nicholls ljs user principle were applied.
+the claimant has in substance been deprived of a valuable asset, and his loss can therefore be measured by determining the economic value of the asset in question.
+the defendant has taken something for nothing, for which the claimant was entitled to require payment.
+it might be objected that there is a sense in which any contractual right can be described as an asset, or indeed as property.
+in the present context, however, what is important is that the contractual right is of such a kind that its breach can result in an identifiable loss equivalent to the economic value of the right, considered as an asset, even in the absence of any pecuniary losses which are measurable in the ordinary way.
+that is something which is true of some contractual rights, such as a right to control the use of land, intellectual property or confidential information, but by no means of all.
+for example, the breach of a non compete obligation may cause the claimant to suffer pecuniary loss resulting from the wrongful competition, such as a loss of profits and goodwill, which is measurable by conventional means, but in the absence of such loss, it is difficult to see how there could be any other loss.
+it is not easy to see how, in circumstances other than those of the kind described in paras 91 93, a hypothetical release fee might be the measure of the claimants loss.
+it would be going too far, however, to say that it is only in those circumstances that evidence of a hypothetical release fee can be relevant to the assessment of damages.
+if, for example, in other circumstances, the parties had been negotiating the release of an obligation prior to its breach, the valuations which the parties had placed on the release fee, adjusted if need be to reflect any changes in circumstances, might be relevant to support, or to undermine, a subsequent quantification of the losses claimed to have resulted from the breach.
+it would be a matter for the judge to decide whether, in the particular circumstances, evidence of a hypothetical release fee was relevant and, if so, what weight to place upon it.
+however, the hypothetical release fee would not itself be a quantification of the loss caused by a breach of contract, other than in circumstances of the kind described in paras 91 93 above.
+the foregoing discussion leads to the following conclusions: (1) damages assessed by reference to the value of the use wrongfully made of property (sometimes termed user damages) are readily awarded at common law for the invasion of rights to tangible moveable or immoveable property (by detinue, conversion or trespass).
+the rationale of such awards is that the person who makes wrongful use of property, where its use is commercially valuable, prevents the owner from exercising a valuable right to control its use, and should therefore compensate him for the loss of the value of the exercise of that right.
+he takes something for nothing, for which the owner was entitled to require payment. (2) damages are also available on a similar basis for patent infringement and breaches of other intellectual property rights. (3) damages can be awarded under lord cairns act in substitution for specific performance or an injunction, where the court had jurisdiction to entertain an application for such relief at the time when the proceedings were commenced.
+such damages are a monetary substitute for what is lost by the withholding of such relief. (4) one possible method of quantifying damages under this head is on the basis of the economic value of the right which the court has declined to enforce, and which it has consequently rendered worthless.
+such a valuation can be arrived at by reference to the amount which the claimant might reasonably have demanded as a quid pro quo for the relaxation of the obligation in question.
+the rationale is that, since the withholding of specific relief has the same practical effect as requiring the claimant to permit the infringement of his rights, his loss can be measured by reference to the economic value of such permission. (5) that is not, however, the only approach to assessing damages under lord cairns act.
+it is for the court to judge what method of quantification, in the circumstances of the case before it, will give a fair equivalent for what is lost by the refusal of the injunction. (6) common law damages for breach of contract are intended to compensate the claimant for loss or damage resulting from the non performance of the obligation in question.
+they are therefore normally based on the difference between the effect of performance and non performance upon the claimants situation. (7) where damages are sought at common law for breach of contract, it is for the claimant to establish that a loss has been incurred, in the sense that he is in a less favourable situation, either economically or in some other respect, than he would have been in if the contract had been performed. (8) where the breach of a contractual obligation has caused the claimant to suffer economic loss, that loss should be measured or estimated as accurately and reliably as the nature of the case permits.
+the law is tolerant of imprecision where the loss is incapable of precise measurement, and there are also a variety of legal principles which can assist the claimant in cases where there is a paucity of evidence. (9) where the claimants interest in the performance of a contract is purely economic, and he cannot establish that any economic loss has resulted from its breach, the normal inference is that he has not suffered any loss.
+in that event, he cannot be awarded more than nominal damages. (10) negotiating damages can be awarded for breach of contract where the loss suffered by the claimant is appropriately measured by reference to the economic value of the right which has been breached, considered as an asset.
+that may be the position where the breach of contract results in the loss of a valuable asset created or protected by the right which was infringed.
+the rationale is that the claimant has in substance been deprived of a valuable asset, and his loss can therefore be measured by determining the economic value of the right in question, considered as an asset.
+the defendant has taken something for nothing, for which the claimant was entitled to require payment. (11) common law damages for breach of contract cannot be awarded merely for the purpose of depriving the defendant of profits made as a result of the breach, other than in exceptional circumstances, following attorney general v blake. (12) common law damages for breach of contract are not a matter of discretion.
+they are claimed as of right, and they are awarded or refused on the basis of legal principle.
+the present case
+applying these conclusions to the present case, it is apparent that neither the judge nor the court of appeal applied an approach which can now be regarded as correct.
+the judge was mistaken in considering that the claimant had a right to elect how its damages should be assessed.
+he was mistaken in supposing that the difficulty of quantifying its financial loss, such as it was, justified the abandonment of any attempt to quantify it, and the award instead of a remedy which could not be regarded as compensatory in any meaningful sense.
+the court of appeal was mistaken in treating the deliberate nature of the breach, or the difficulty of establishing precisely the consequent financial loss, or the claimants interest in preventing the defendants profit making activities, as justifying the award of a monetary remedy which was not compensatory.
+the idea that damages based on a hypothetical release fee are available whenever that is a just response, that being a matter to be decided by the judge on a broad brush basis, is also mistaken.
+the basis on which damages are awarded cannot be a matter for the discretion of the primary judge.
+this is a case brought by a commercial entity whose only interest in the defendants performance of their obligations under the covenants was commercial.
+indeed, a restrictive covenant which went beyond what was necessary for the reasonable protection of the claimants commercial interests would have been unenforceable.
+the substance of the claimants case is that it suffered financial loss as a result of the defendants breach of contract.
+the effect of the breach of contract was to expose the claimants business to competition which would otherwise have been avoided.
+the natural result of that competition was a loss of profits and possibly of goodwill.
+the loss is difficult to quantify, and some elements of it may be inherently incapable of precise measurement.
+nevertheless, it is a familiar type of loss, for which damages are frequently awarded.
+it is possible to quantify it in a conventional manner, as is demonstrated by mr hines report.
+the case is not one where the breach of contract has resulted in the loss of a valuable asset created or protected by the right which was infringed.
+considered in isolation, the first defendants breach of the confidentiality covenant might have been considered to be of that character, but in reality the claimants loss is the cumulative result of breaches of a number of obligations, of which the non compete and non solicitation covenants have been treated as the most significant, as explained in para 17 above.
+the judge has ordered a hearing on quantum.
+that hearing should now proceed, but it should not be, as he ordered, an assessment of the amount which would notionally have been agreed between the parties, acting reasonably, as the price for releasing the defendants from their obligations.
+the object of the exercise is that the judge should measure, as accurately as he can on the available evidence, the financial loss which the claimant has actually sustained.
+how that assessment is best carried out is, in the first instance, a matter for the judge to consider, proceeding in accordance with this judgment.
+if evidence is led in relation to a hypothetical release fee, it is for the judge to determine its relevance and weight, if any.
+it is important to understand, however, that such a fee is not itself the measure of the claimants loss in a case of the present kind, for the reasons which have been explained.
+the other judgments
+lord carnwath discusses differences between my reasoning and that of lord sumption.
+it is unnecessary for me to undertake a comparison.
+ultimately, our judgments speak for themselves.
+provided it is clear which judgment represents the view of a majority of the court, and therefore contains the ratio of the decision, any differences between them should not cause difficulty.
+disposal
+the appeal should therefore be allowed to the extent of allowing a hearing on quantum of the nature which i have indicated.
+lord sumption:
+oliver wendell holmes once wrote: i look forward to a time when the part played by history in the explanation of dogma will be small, and instead of ingenious research we shall spend our energy on a study of the ends sought to be attained and the reasons for desiring them.
+as a step towards that ideal it seems to me that every lawyer ought to see an understanding of economics: the path of law, (1897) 10 harvard lr 457, 474, quoted in edelman, the meaning of loss and enrichment, philosophical foundations of the law of unjust enrichment, ed chambers, mitchell and penner (2009) 211, 221.
+this appeal raises in an acute form the problem posed by the historic categorisation of legal rules.
+the claimant, one step (support) ltd, bought a business providing support for young people leaving care, which had previously been run by karen and andrea morris garner.
+in connection with the acquisition, it shortly afterwards entered into a valid agreement with the morris garners by which the latter agreed for a limited period not to engage in specified modes of competition with the business which they had just sold.
+the morris garners did compete with them in ways which contravened the agreement.
+the present appeal concerns the assessment of damages for those breaches.
+the ordinary measure of damages for breach of a non compete covenant is the value of the business profits which the claimant would otherwise have made but which it has lost as a result of the defendants unlawful competition, discounted in the case of future profits for accelerated receipt.
+as with many problems in the law of damages, difficulty arises in identifying the counterfactual by reference to which their loss falls to be measured.
+how many customers who contracted with the morris garners would have contracted with one step if the morris garners had complied with their contract? when and for how long? for what volume of business? on what terms, especially as to price? and how profitable would the additional business have been for one step? the economic effect of the breaches is inherently incapable of being precisely estimated, and may be incapable of even imprecise measurement.
+nonetheless it is practically inconceivable that one step has not suffered significant losses in this relatively small field of business.
+the law would be failing in its economic purpose if it confined one step to the fraction of the business lost which was capable of being demonstrated with the necessary degree of confidence, or if it resorted to guesswork as an alternative to evidence.
+because of the inherent uncertainties of the exercise, the claimant is normally awarded the value of the lost chance of doing more business: sanders v parry [1967] 1 wlr 753, sbj stephenson ltd v mandy [2000] fsr 286, cms dolphin ltd v simonet [2001] 2 bclc 704, para 141, merlin financial consultants ltd v cooper [2014] ewhc 1196 (qb), paras 74 83.
+but even a chance must be valued by something better than guesswork.
+wrotham park damages
+phillips j ([2014] ewhc 2213 (qb)) declared that one step was entitled to damages to be assessed on a wrotham park basis (for such amount as would notionally have been agreed between the parties, acting reasonably, as the price for releasing the defendants from their obligations) or alternatively ordinary compensatory damages.
+the court of appeal ([2017] qb 1) upheld him.
+in my opinion, the courts below were wrong in a case like this to regard the wrotham park basis as an alternative measure of damages, differing from ordinary compensatory damages.
+but i consider that the notional price of a release may nonetheless be relevant, not as an alternative measure of damages but as an evidential technique for estimating what the claimant can reasonably be supposed to have lost.
+the characteristic features of an award of damages based on a notional release fee were described by lord walker, delivering the advice of the privy council in pell frischmann engineering ltd v bow valley iran ltd [2011] 1 wlr 2370, para 49: it is a negotiation between a willing buyer (the contract breaker) and a willing seller (the party claiming damages) in which the subject matter of the negotiation is the release of the relevant contractual obligation.
+both parties are to be assumed to act reasonably.
+the fact that one or both parties would in practice have refused to make a deal is therefore to be ignored.
+it is to be noted that the assumption of a willing buyer and a willing seller, acting reasonably, means that one is not trying to reconstruct what the particular parties would hypothetically have done.
+lord walker, at para 53, expanded on this point in reference to the facts before the board: a willing seller, acting reasonably, would have recognised that an excessively dog in the manger attitude would be counterproductive.
+at the same time be and bakrie [two of the defendants], as willing buyers acting reasonably, would have accepted that even negative rights must be bought out at a proper price, and that unless they were bought out, the project could not proceed at all.
+it is implicit in this approach that the hypothetical release fee is normally to be assessed as at the time of the breach, by reference to the facts existing at that time.
+in the same judgment, lord walker (at para 50) adopted the statement of neuberger lj on this point in lunn poly ltd v liverpool and lancashire properties ltd [2006] 2 eglr 29, para 29: given that negotiating damages under [lord cairns act] are meant to be compensatory, and are normally to be assessed or valued at the date of breach, principle and consistency indicate that post valuation events are normally irrelevant.
+however, given the quasi equitable nature of such damages, the judge may, where there are good reasons, direct a departure from the norm, either by selecting a different valuation date or by directing that a specific post valuation date event be taken into account.
+for this reason, the object of the exercise is to arrive at a money sum such as would hypothetically have been agreed between reasonable parties at the relevant time.
+it is not (as, unfortunately, the claimants expert appears to have thought in the present case) to arrive at a formula dependent on future events.
+the more difficult question is in what circumstances damages may be assessed in this basis.
+on this question, i take broadly the same view as lord reed, although for reasons which i would express more simply.
+the decision of brightman j in wrotham park estate co ltd v parkside homes ltd [1974] 1 wlr 798, has unfortunately given its name to the entire range of cases in which a notional release fee has been awarded by way of damages.
+this is unfortunate, because it has impeded analysis of a very disparate group of cases governed by different principles and not always consistent among themselves.
+the case law can be conveniently be categorised under three heads: (i) cases in which damages are not limited to pecuniary loss, because the claimant has an interest in the observance of his rights which extends beyond financial reparation; (ii) cases in which the claimant would be entitled to the specific enforcement of his right, and the notional release fee is the price of non enforcement; and (iii) cases in which the claimant has suffered (or may be assumed to have suffered) pecuniary loss, and the notional release fee is treated as evidence of that loss.
+clear analysis requires a distinction to be made between these cases.
+but it does not require principles to be formulated for one category without regard to those which apply to another.
+the law should develop coherently across different categories.
+it should not be allowed to fragment into self contained sectors governed by arbitrary rules which have little relationship to the task in hand or to the principles applied in cognate areas.
+category (i): interest extending beyond financial reparation
+the invasion of property rights is the classic case in this category.
+the owner of the property is entitled to receive by way of damages a user rent equal to the amount that he would have had to pay for the right to do lawfully what he has in fact done unlawfully.
+the release fee is notional.
+it is awardable even if in fact the owner would not have consented in any circumstances.
+the leading case is whitwham v westminster brymbo coal and coke co [1896] 2 ch 538.
+the defendant had tipped spoil onto the plaintiffs land.
+the plaintiff was held entitled to (i) the resulting diminution in the value of the land, and (ii) the reasonable rent that the defendant would have to pay for the right to do this.
+in owners of steamship mediana v owners, master and crew of the lightship comet (the mediana) [1900] ac 113, the defendants negligently damaged a lightship belonging to a harbour authority.
+the authority was held to be entitled by way of damages to (i) the cost of repairing the lightship, and (ii) a user rent for the period when she was out of service, although the authority had suffered no pecuniary loss by its unavailability because they were not in the business of renting out lightships and had a spare lightship for just such an event.
+lord halsbury lc asked (p 117): supposing a person took away a chair out of my room and kept it for 12 months, could anybody say you had a right to diminish the damages by shewing that i did not usually sit in that chair, or that there were plenty of other chairs in the room? in watson, laidlaw & co ltd v pott, cassels & williamson (1914) 31 rpc 104, 119, lord shaw gave it as a general principle that wherever an abstraction or invasion of property has occurred, then, unless such abstraction or invasion were to be sanctioned by law, the law ought to yield a recompense under the category or principle either of price or of hire.
+the effect of these decisions was summarised by nicholls lj in stoke on trent city council v w & j wass ltd [1988] 1 wlr 1406, 1416: it is an established principle concerning the assessment of damages that a person who has wrongfully used anothers property without causing the latter any pecuniary loss may still be liable to that other for more than nominal damages.
+in general, he is liable to pay, as damages, a reasonable sum for the wrongful use he has made of the others property.
+the law has reached this conclusion by giving to the concept of loss or damage in such a case a wider meaning than merely financial loss calculated by comparing the property owners financial position after the wrongdoing with what it would have been had the wrongdoing never occurred.
+this is exceptional because in general the law is concerned only with the specific enforcement of obligations or the money equivalent of their due performance.
+the exceptions in the case of trespass to or appropriation of property are justified by the nature of the right which the wrongdoer has infringed.
+property rights confer an exclusive dominion over the asset in question.
+the law treats that exclusivity as having a pecuniary value independent of any pecuniary detriment that he might have suffered by the breach of duty.
+the user rent is simply the measure of that value.
+although the concept of user rent as a measure of damages originates in the field of wrongful injury to or appropriation of property, in attorney general v blake [2001] 1 ac 268, the principle was applied by analogy in order to justify an order for an account of profits in a case of breach of contract with no proprietary element.
+the facts are well known.
+in breach of his contract of employment the convicted traitor george blake had published a book disclosing information acquired in the course of his duties as an intelligence officer.
+the government had suffered no pecuniary loss, but was held to be entitled to a restitutionary remedy, namely an account of blakes profits.
+this was because, as in the property cases, a party to a contract may be recognised by the law as having an interest in its performance extending beyond financial reparation for a breach.
+in blake, damages were incapable of putting the government in the same position as it would have been but for the wrong.
+this was because the nature of the obligation was such that the governments only interest in the performance of an intelligence agents duties of confidentiality was a non pecuniary governmental interest.
+in a case where it was too late to get an injunction, its rights against blake would have been inherently worthless if the only remedy had been the recovery of pecuniary loss.
+after stating the ordinary rule of damages, lord nicholls, with whom lord goff, lord browne wilkinson and lord steyn agreed, expressed the principle in this way at p 282: it is equally well established that an award of damages, assessed by reference to financial loss, is not always adequate as a remedy for a breach of contract.
+the law recognises that a party to a contract may have an interest in performance which is not readily measurable in terms of money.
+on breach the innocent party suffers a loss.
+he fails to obtain the benefit promised by the other party to the contract.
+to him the loss may be as important as financially measurable loss, or more so.
+an award of damages, assessed by reference to financial loss, will not recompense him properly.
+for him a financially assessed measure of damages is inadequate.
+in reasoning in this way, lord nicholls (pp 278 279) drew a direct analogy with the award of user damages for invasion of a property right.
+it was, he observed (p 283) not easy to see why, as between the parties to a contract, a violation of a partys contractual rights should attract a lesser degree of remedy than a violation of his proprietary rights.
+the governments legal interest as against blake was a purely contractual right.
+it was not a property right.
+yet lord nicholls was prepared to cross the boundary in pursuit of an analogy which justified a similar treatment.
+the analogy justified a similar treatment because in both cases the claimant was entitled to recover more than his pecuniary loss when his interest in performance extended beyond pecuniary loss.
+category (ii): damages in lieu of an injunction
+i turn now to the second category, comprising cases where the relevant obligation was in principle specifically enforceable, and the release fee was the price of non enforcement.
+wrotham park estate co ltd v parkside homes ltd [1974] 1 wlr 798, was a case of this kind.
+the plaintiff had conveyed part of his land to a developer subject to a restrictive covenant against developing it otherwise than in accordance with a lay out plan to be approved by the vendor or its surveyor.
+a successor in title to the developer built houses on part of the land without submitting the vendors consent to a lay out plan.
+no question of user rent arose, for the plaintiff had parted with his interest in the land, subject only to the covenant.
+it was, moreover, common ground that the value of the wrotham park estate had not been diminished by the offending development.
+an injunction was in principle available, but brightman j declined to order the demolition of the houses.
+instead, he awarded damages in lieu of an injunction under the statutory jurisdiction originating with the chancery amendment act 1858 (now the senior courts act 1981, section 50).
+his reasoning is summed up in the following passage, at p 815: as i have said, the general rule would be to measure damages by reference to that sum which would place the plaintiffs in the same position as if the covenant had not been broken.
+parkside [the first defendant] and the individual purchasers could have avoided breaking the covenant in two ways.
+one course would have been not to develop the allotment site.
+the other course would have been for parkside to have sought from the plaintiffs a relaxation of the covenant.
+on the facts of this particular case the plaintiffs, rightly conscious of their obligations towards existing residents, would clearly not have granted any relaxation, but for present purposes i must assume that it could have been induced to do so.
+in my judgment a just substitute for a mandatory injunction would be such a sum of money as might reasonably have been demanded by the plaintiffs from parkside as a quid pro quo for relaxing the covenant.
+he went on to assess the damages as a proportion (5%) of the profit that the developer had made.
+in subsequent cases, the courts have had some difficulty in identifying the principle on which brightman j arrived at this assessment, but it is clear that he was seeking to determine the value to the claimant of a hypothetical injunction to the claimant.
+whether he necessarily chose the best method of doing so does not matter for present purposes.
+in surrey county council v bredero homes ltd [1993] 1 wlr 1361 the facts were similar but wrotham park was distinguished on the ground that no injunction was sought.
+the correctness of this distinction has more than once been doubted, notably by millett lj in jaggard v sawyer [1995] 1 wlr 269, 289 290 and by lord nicholls in attorney general v blake, p 283.
+millett ljs analysis (pp 290 291) repays study.
+as he pointed out, the award of a notional release fee by way of damages was in fact compensation for pecuniary loss.
+it was not restitutionary, albeit that the amount of the developers gain was a relevant factor in assessing what the notional release fee would have been.
+he considered that the critical factor was that an injunction was in principle available, whether or not it was actually sought.
+the measure of the claimants loss was the diminution in the value of property resulting from the defendants breach of the restrictive covenant.
+the notional price that could have been charged for releasing the covenant was recoverable in lieu of an injunction, because the availability of an injunction increased the value of the claimants land by an amount equal to what he could have exacted in return for releasing it.
+that sum therefore represented the diminution in the value of the claimants land resulting from the courts discretionary refusal specifically to enforce the covenant.
+it was the proper measure of compensation.
+the same measure would have been awarded at common law if an injunction was still available.
+but if an injunction was not available, for example because the covenant was not specifically enforceable or the claimants delay had made it impossible, the buy out value did not contribute to the value of the land because there was none.
+in that case, damages could not be awarded on that basis either at common law or in lieu of an injunction.
+this seems to me to be sound in principle, sounder perhaps than the suggestion made, obiter, by lord walker in pell frischmann, at para 48, that it is not necessary that there should have been any prospect on the facts, of it being granted.
+this observation, if taken literally, would expand the concept so far as to lose almost any connection with the courts jurisdiction to grant injunctive relief.
+difficulty has been caused by lord nicholls observations about wrotham park in attorney general v blake [2001] 1 ac 268.
+lord nicholls was not directly concerned with damages in lieu of an injunction.
+but he fortified his reasoning with an analogy between an account of profits and an award of damages in lieu of an injunction.
+he offered an analysis (p 281) of the basis on which a notional release fee might be awarded as damages, which was similar to that of millett lj in jaggard v sawyer.
+citing that case as an example, he considered that such damages may include damages measured by reference to the benefits likely to be obtained in future by the defendant (p 281).
+he went on to hold that damages measured on that basis were available for the infringement of contractual as well as property rights.
+turning to wrotham park, he described it (pp 283 284) as a solitary beacon, showing that in contract as well as tort damages are not always narrowly confined to recoupment of financial loss.
+in a suitable case damages for breach of contract may be measured by the benefit gained by the wrongdoer from the breach.
+the defendant must make a reasonable payment in respect of the benefit he has gained.
+this passage is apt to cause confusion.
+two points should, i think, be made about it.
+the first is that wrotham park was for practical purposes a contract case.
+the restrictive covenant was binding on the defendant because the covenant ran with the land and there was privity of estate.
+lord nicholls was well aware that brightman j had been awarding damages as the financial equivalent of the injunction to which claimant was in principle entitled, and not as the financial equivalent of performance of the covenant.
+his point was that the two things, although conceptually different, were for practical purposes the same, because the value to the claimant of an order specifically enforcing the covenant would have been substantially the same as the value of performance.
+secondly, when lord nicholls referred to damages measured by the benefit gained by the wrongdoer, he cannot have meant to say that the juridical basis of the award in cases like wrotham park was restitution of the defendants gain.
+restitution of an unjustly retained gain serves to reverse the financial effect of the transaction.
+it is not the same as damages for breach of it.
+i do not believe that lord nicholls overlooked this basic difference.
+he was simply pointing out that in some circumstances, including those which obtained in wrotham park, damages may be awarded according to a measure which has substantially the same financial effect as a disgorgement or partial disgorgement of profits.
+this was one reason why he felt able to order an account of profits.
+as he observed later in his speech (p 284), the label is not always a sufficient description of what is in the bottle.
+category (iii): notional release fee as the measure of pecuniary loss
+this category comprises cases in which there is no question of injunctive relief and no legally recognised interest of the claimant in performance beyond the recovery of pecuniary loss for a breach.
+the amount that reasonable people in the position of the parties would agree should be paid for the right to do the acts complained of is treated as evidence of what that pecuniary loss is.
+this is not because the claimant is entitled to restitution or to some other remedy involving the disgorgement of the defendants gains.
+it is because it represents the value that reasonable people in the position of the parties would place on the performance of the relevant obligation.
+there is of course a conceptual difference between the value of performance and the cost of being released from performance, just as there is a conceptual difference between the value of performance and the value of an injunction enforcing performance.
+but there is commonly no practical difference between them.
+the notional release fee is in many cases a useful surrogate for the loss of profits arising from the breach, for straightforward economic reasons.
+the claimants right to performance is an asset.
+it may not be marketable generally, but as between the parties it has a financial value which is measured by the buy out price that would be agreed between them.
+the claimants recoverable loss is the additional profit that he would have made if the contract had been performed.
+if he is hypothetically to assess a reasonable charge for releasing the defendant from the relevant obligation (in this case the non compete obligation) he will do it by estimating what that obligation is worth to him.
+it is worth the additional profit that he would have made if it were to be performed.
+it is true that the value of a release may not be same for both parties.
+but the claimant, acting reasonably, has no reason to demand more than he anticipates he will lose by non performance, and the defendant, acting reasonably, has no reason to share with the claimant any benefit which the latter may expect to derive from some especially profitable use attributable to his own skill or effort.
+of course, the parties, lacking perfect foresight, may get this wrong.
+but that is because what they are valuing is not the actual performance as it turns out to be, but the prospects as seen at the time of the breach.
+in other words, they are valuing the chance, as the court itself does in cases of this kind.
+the paradigm case in which damages are assessed on this basis, and the context in which this question was first considered by the courts, is the award of damages for patent infringement.
+a patentee may exploit his legal monopoly in either or both of two ways, (i) by manufacturing and selling the patented article or (ii) by licensing others to do so.
+in case (i), the measure of damages is the profits which he has lost by the diversion of sales to the infringer: united horse shoe and nail co ltd v john stewart & co (1888) 13 app cas 401.
+this is the same as the ordinary measure of damages for breach of a non compete agreement.
+in case (ii), the measure of damages is the royalty which the infringer would have had to pay if he had obtained the licence which would have been available: penn v jack (1867) lr 5 eq 81; english and american machinery co v union boot and shoe machine co (1896) 13 rpc 64; pneumatic tyre co ltd v puncture proof pneumatic tyre co ltd (1899) 16 rpc 209; aktiengesellschaft fur autogene aluminium schweissung v london aluminium co ltd (no 2) (1923) 40 rpc 107.
+in his classic statement in meters ltd v metropolitan gas meters ltd (1911) 28 rpc 157, fletcher moulton lj suggested that even where there is no pattern of granting licences and no going royalty rate, damages could properly be measured by the notional royalty that would have been agreed as between willing patentee and licensee.
+the reason was that that was evidence of the value to the parties of performance of the defendants obligation.
+at pp 164 165, he observed: there is one case in which i think the manner of assessing damages in the case of sales of infringing articles has almost become a rule of law, and that is where the patentee grants permission to make the infringing article at a fixed price in other words, where he grants licences at a certain figure.
+every one of the infringing articles might then have been rendered a non infringing article by applying for and getting that permission.
+the court then takes the number of infringing articles, and multiplies that by the sum that would have had to be paid in order to make the manufacture of that article lawful, and that is the measure of the damage that has been done by the infringement.
+the existence of such a rule shows that the courts consider that every single one of the infringements was a wrong, and that it is fair where the facts of the case allow the court to get at the damages in that way to allow pecuniary damages in respect of every one of them.
+i am inclined to think that the court might in some cases, where there did not exist a quoted figure for a licence, estimate the damages in a way closely analogous to this.
+it is the duty of the defendant to respect the monopoly rights of the plaintiff.
+the reward to a patentee for his invention is that he shall have the exclusive right to use the invention, and if you want to use it your duty is to obtain his permission.
+i am inclined to think that it would be right for the court to consider what would have been the price which although no price was actually quoted could have reasonably been charged for that permission, and estimate the damage in that way.
+indeed, i think that in many cases that would be the safest and best way to arrive at a sound conclusion as to the proper figure.
+but i am not going to say a word which will tie down future judges and prevent them from exercising their judgment, as best they can in all the circumstances of the case, so as to arrive at that which the plaintiff has lost by reason of the defendant doing certain acts wrongfully instead of either abstaining from doing them, or getting permission to do them rightfully.
+in general tire & rubber co v firestone tyre & rubber co ltd [1975] 1 wlr 819, 825, lord wilberforce (with whom viscount dilhorne, lord diplock and lord kilbrandon agreed) restated these principles and made it clear that a notional royalty was relevant evidence of the patentees loss, whether it arose from diverted sales (his category 1) or from lost royalties (his category 2), simply on the ground that it may in practice be difficult to estimate the loss in any other way, at p 826: in some cases it is not possible to prove either (as in 1) that there is a normal rate of profit, or (as in 2) that there is a normal, or established, licence royalty.
+yet clearly damages must be assessed.
+in such cases it is for the plaintiff to adduce evidence which will guide the court.
+this evidence may consist of the practice, as regards royalty, in the relevant trade or in analogous trades; perhaps of expert opinion expressed in publications or in the witness box; possibly of the profitability of the invention; and of any other factor on which the judge can decide the measure of loss.
+since evidence of this kind is in its nature general and also probably hypothetical, it is unlikely to be of relevance, or if relevant of weight, in the face of the more concrete and direct type of evidence referred to under 2.
+but there is no rule of law which prevents the court, even when it has evidence of licensing practice, from taking these more general considerations into account.
+the ultimate process is one of judicial estimation of the available indications.
+the true principle, which covers both cases when there have been licences and those where there have not, remains that stated by fletcher moulton lj in meters ltd v metropolitan gas meters ltd (1911) 28 rpc 157, 164 165 he then set out the passage from fletcher moulton ljs judgment which i have quoted above.
+it is right to say that a patent is a species of property, albeit incorporeal.
+it can be assigned like any other item of property, or the benefit transferred by license.
+but that is entirely irrelevant to the present issue, because the concept of awarding a notional royalty as damages for infringement does not depend on the characterisation of a patent as a species of property.
+the infringer has not appropriated or used the patent like the man who trespasses on the claimants land or takes or damages his chattels.
+the patentee does not have an interest in the observance of his patent exceeding its financial value, in the way that a landowner may.
+he is not entitled to any more than his actual pecuniary loss.
+what he has is a personal claim against the infringer for competing with him unlawfully.
+in cases of diverted sales (lord wilberforces category 1) the measure of damages for the infringement is precisely the same as it is in this case, namely the profit lost by the diverted sales.
+and the value of those diverted sales may be measured by the amount that the patentee could reasonably charge the infringer for not enforcing his monopoly against him.
+the same principle has been applied in other cases of tortious competition, which involve no invasion of property rights unless property is so broadly defined as to encompass any right whatever.
+for example, confidential information is not property in the proper sense of the word, for there is no title against the world but only a personal right against the person owing the duty of confidence.
+however, a notional royalty (or its capitalised value) is commonly awarded as damages for breach of a duty not to misuse confidential information, whether that duty arises from contract or from equitable doctrines: seager v copydex ltd (no 2) [1969] 1 wlr 809, 813; force india formula one team ltd v 1 malaysia racing team sdn bhd [2012] rpc 29, paras 383 387, 424, approved without consideration of this point, [2013] ewca civ 780; [2013] rpc 38.
+this is not because of some principle peculiar to equitable relief.
+nor is it because the claims were in reality for restitution.
+these were expressed to be, and in fact were awards of compensatory damages.
+irvine v talksport ltd [2003] 1 wlr 1576 was a passing off action.
+the defendant had published a photograph of the claimant, a racing driver, thereby falsely suggesting that he had endorsed their radio station.
+the court of appeal awarded a notional endorsement fee.
+in a loose sense, passing off can be described as an appropriation of the claimants property in his goodwill, which is how the judge had characterised it at first instance in that case.
+the same could probably be said of the breach of confidence cases.
+but i doubt whether this characterisation contributes anything to the argument.
+in one sense almost any legal right can be described as a right of property, including the business and goodwill which the morris garners may be said to have appropriated by their breach of the non compete covenant.
+hence the use of the same technique of assessment in straightforward cases of breach of contract, where no question arose of the invasion of proprietary rights.
+in pell frischmann engineering ltd v bow valley iran ltd [2011] 1 wlr 2370, the privy council extended the concept of awarding damages in lieu of an injunction to a case where there was no prospect of an injunction.
+i have already pointed out that the effect is to sever any real connection between the financial award and the hypothetical alternative of an injunction, because the alternative of an injunction did not exist.
+but in reality what the board was doing was awarding damages for breach of contract on the same measure as damages in lieu of an injunction, ie in an amount equal to the notional value of not having to perform.
+similarly, in vercoe v rutland fund management ltd [2010] ewhc 424 (ch), a notional release fee was awarded by way of damages for breach of a joint venture agreement.
+this explains why, in pell frischmann (paras 47 48), lord walker, delivering the advice of the board, regarded experience hendrix llc v ppx enterprises inc [2003] 1 all er (comm) 830 as instructive.
+in experience hendrix, the defendant owned the copyrights in certain master recordings of the singer jimi hendrix, but in an agreement to settle earlier litigation it had undertaken not to license them.
+the claimant, which had succeeded to the rights of jimi hendrix, complained that recordings had been licensed in breach of the settlement agreement.
+the claimant asserted that the breach had damaged the market reputation of its own jimi hendrix recordings, but told the trial judge (para 14) that it had no evidence and did not imagine that he could ever possibly get any evidence to show or quantify any financial loss.
+this was not an admission that there were no losses.
+it is clear that what the claimant was saying was that there were, but that it was impossible to establish how much it had lost.
+the court of appeal (para 45) awarded damages equal to the amount which would reasonably have been paid for permission to license the recordings.
+in the absence of any possibility of assessing the difference that the breach had made to the claimants sales, the notional release fee in that case was simply the value which the reasonable people in the position of the parties would have placed on the prospect of performance of the relevant obligation.
+in refusing to be deterred by the fact that experience hendrix was neither a property case nor a case in which damages were being awarded in lieu of an injunction, mance lj was doing no more than follow the call of lord nicholls in blake for a more coherent approach to the law of damages, and in particular for an assimilation in appropriate cases of the principles for awarding a notional release fee as damages in property and contract cases.
+lord nicholls analysis has had the valuable effect of freeing the law of damages from artificial categorisations which had turned the principles with which we are presently concerned into an incoherent mass of sub rules for different categories which exhibit no real differences in fact.
+these authorities, drawn from a diverse range of cases on the law of obligations over a considerable period, suggest that the concept of treating a notional release fee as an evidential tool for assessing a partys true loss in appropriate cases has been found valuable and is certainly not impractical.
+it is frequently employed.
+conclusion
+as a result of the order which phillips j made in the second week of the trial, his judgment was confined to liability and to the question whether in principle the claimant was entitled to what he compendiously called wrotham park damages.
+he did not seek to quantify those damages, and although he had substantial expert reports before him he made no finding about them.
+this makes it necessary to proceed at the same level of abstraction in determining the present appeal.
+for the reasons which i have given, i would modify the declaration of the judge so as neither to require nor to exclude the use of a notional release fee as evidence of the claimants loss.
+i put in it that way because the use of a notional release fee is not to be regarded as a rule of law.
+as fletcher moulton lj explained in the meters case and lord wilberforce in general tire, the award of a notional release fee is not a measure of damages but an evidential technique for estimating the claimants loss.
+its use is appropriate only if there is material on which the notional release fee can be assessed and then only so far as the trial judge finds it helpful, in the light of such other evidence as may be before him.
+i doubt whether it matters, on the facts of this case, whether the right which one step asserts is analogous to a right of property.
+they are not claiming, nor are they entitled to more than their pecuniary loss.
+but i would tentatively suggest that the analogy is in fact close.
+the restrictive covenants were given by the morris garners to procure the sale of their shares in a business.
+the value of the business included its goodwill.
+the effect of their proceeding to compete unlawfully with the business, was to appropriate to themselves part of the goodwill of the business which they had sold.
+for these reasons, i would allow the appeal to the extent that i have indicated.
+my reasons are not in all respects the same as lord reeds, but our conclusions appear to me to be closely aligned.
+lord carnwath:
+i agree that the appeal should be allowed for the reasons given by lord reed.
+in view of the importance of the case in the development of the law of damages, i shall add some comments of my own, in particular with regard to some important issues raised by lord sumptions judgment, in view of what appear to my mind to be significant differences between the two approaches.
+lord reeds analysis, as i understand it, follows an entirely orthodox approach.
+he starts from the distinction identified and explained by lord shaw more than a century ago (watson, laidlaw & co ltd v pott, cassels and williamson 1914 sc (hl) 18; (1914) 31 rpc 104): that is, between cases governed by the traditional compensatory principle (restoration of loss), and those covered by his second principle (referred to in later cases as the user principle), applicable to cases involving the abstraction or invasion of property or analogous rights.
+that in turn is compared by lord reed with a third group of cases involving damages in lieu of an injunction under lord cairns act, of which the wrotham park case itself is taken as a prime example.
+it is only in the second and third groups that an award based on a user fee or negotiating damages can be supported.
+lord sumptions approach is more radical.
+he starts with an open challenge to the historic categorisation of legal rules (para 103), which he regards as problematic and economically unsound.
+this leads him to propose a new, avowedly simpler, division into three inter related categories, not to be fragment(ed) into self contained sectors governed by arbitrary rules (para 109).
+as is apparent from the judgment as a whole, this reformulation is in part a response to lord nicholls speech in attorney general v blake [2001] 1 ac 268, 283, and what lord sumption sees as (at para 122) the call for a more coherent approach to the law of damages, and in particular for an assimilation in appropriate cases of the principles for awarding a notional release fee as damages in property and contract cases.
+he adds that lord nicholls analysis has had the valuable effect of freeing the law of damages from artificial categorisations which had turned the principles with which we are presently concerned into an incoherent mass of sub rules for different categories which exhibit no real differences in fact. (at para 122) it is symptomatic of their differences of approach that lord reed regards the same passage in lord nicholls judgment as not altogether easy to interpret, for reasons he explains but finds unnecessary to pursue further for the purposes of the present case (paras 72 82).
+lord sumptions second category (damages in lieu of an injunction: para 112ff) covers much of the same ground as lord reeds discussion of the same topic (paras 41ff), although there are significant differences of emphasis.
+the other two categories are more innovative.
+the first category, headed interest extending beyond financial reparation (para 110ff), is in part based on the user principle group of cases, starting from the classic case of invasion of property rights.
+that is expanded into a new group not limited to such rights, but defined by the non pecuniary nature of the claimants interest.
+the scope of the expansion is typified by blake itself, where the governments only interest in protecting itself against disclosure of information by an agent was a non pecuniary governmental interest (para 111).
+conversely, cases of patent infringement, traditionally associated with the user principle, are carved out of the first category, and treated as the paradigm example of lord sumptions third category notional release fee as the measure of pecuniary loss (paras 115ff).
+although it is accepted that a patent is a species of property, its status as such is said to be irrelevant to the issue of damages: [t]he infringer has not appropriated or used the patent like the man who trespasses on the claimants land or takes or damages his chattels (para 119).
+this category is exemplified by meters ltd v metropolitan gas meters ltd (1911) 28 rpc 157, as applied by lord wilberforce in general tire & rubber co v firestone tyre & rubber co ltd [1975] 1 wlr 819, 825).
+those cases are treated as supporting the use of a notional release fee as not a measure of damages but an evidential technique for estimating the claimants loss (para 124); a technique which in his view should be available to the judge, if there is material on which the notional release fee can be assessed, so far as the trial judge finds it helpful, in the light of such other evidence as may be before him (para 124).
+discussion
+lord sumptions analysis provides some valuable insights, in particular in relation to the special treatment of the governments non pecuniary interest in blake itself.
+however, i am unable with respect to accept his reformulation as a helpful guide in the general run of cases.
+in the first place it conflicts with the previous development of the law, up to and including the description of the user principle by nicholls lj in stoke on trent city council v w & j wass ltd [1988] 1 wlr 1406, 1416.
+that is cited by both lord reed (para 29) and lord sumption (para 110), and as i understand them treated as an authoritative statement of the principle.
+nicholls lj cited, as examples of the principle, the cases of meters, general tire, and watson, laidlaw noting that they were patent infringement cases (pp 1416 17).
+nothing in that judgment or the previous cases justifies treating them as part of a separate category.
+nor in my view does anything in lord nicholls speech in attorney general v blake [2001] 1 ac 268.
+he made no mention of the stoke on trent city council case (which does not appear to have been mentioned in argument).
+he did, however, cite lord shaws statement of the equivalent principle in watson, laidlaw, noting that it was a patent infringement case, and describing the principle as established and not controversial (p 279a d).
+secondly, the two cases on which lord sumption principally relies meters and general tire do not to my mind support the use of a negotiated fee as an evidential technique in other contexts.
+the observations of fletcher moulton lj in the former case (quoted by lord sumption at para 117) were directed specifically to cases of patent infringement.
+in that context, it was said to be almost a rule of law that where permission is granted to make the infringing article at a fixed price, that price, multiplied by the number of offending articles, is taken as the basis for assessing damages.
+an equivalent approach was then applied by the lord justice to cases where there was no such fixed price, by looking for the price which although no price was actually quoted could have reasonably been charged for that permission it was in the same context that lord wilberforce in general tire (again in a passage quoted by lord sumption: para 118) spoke of the broad categories of evidence which may be relevant to the ultimate process of judicial estimation.
+there is nothing in either passage which supports the use of a negotiated fee, actual or hypothetical, as an evidential technique for assessing loss more generally.
+i accept that, if one were to turn the clock back 100 years one might question the analogy drawn by lord shaw between borrowing a horse and infringement of a patent.
+as lord sumption fairly says, patent infringement, although involving a property right, is not the same as the appropriation or use of anothers land or chattels.
+however, that has not hitherto been seen as a reason for separation.
+nicholls lj himself, in the stoke on trent city council case (at p 1416h), observed that the principle was not confined to the physical use of anothers property, but had been applied in relation to incorporeal property, in particular patents.
+he did not see that anomaly, if anomaly it be, as requiring qualification of the principle.
+lord sumption also observes that the principle has been applied to cases which involve no invasion of any property right, as properly understood, for example misuse of confidential information.
+there again, however, the principle has been justified by analogy with the taking of property.
+in the first case he cites (seager v copydex ltd (no 2) [1969] 1 wlr 809, 813), the award was in terms justified by lord denning mr (with the agreement of his colleagues) by analogy with damages for conversion.
+thirdly, lord sumption appears to give no clear indication of the circumstances which are expected to come within the third category.
+as i understand it, the suggested criteria for use of this technique are twofold: whether there is material on which a negotiated release fee can be assessed, and, if so, whether the trial judge finds it helpful in the light of the other evidence before him (para 124).
+i cannot with respect regard that as providing adequate guidance to parties or to the courts, on an issue which may have a substantial impact on the level of damages, and accordingly on decisions about disclosure and about the evidence to be called.
+this cannot be left as a matter depending simply on what, at the end of the day, the judge may find helpful.
+more generally, i am unpersuaded that it is necessary or helpful to redefine, or break down the barriers between, the established categories; nor that to do so offers any improvement in the coherence of the law.
+the concept of loss suffered, or value diminished, is well understood in the law.
+so is the concept of a negotiated fee, actual or hypothetical, for use of anothers property or for release from an obligation.
+but they are different concepts, and the differences should not be blurred.
+if in a particular context a negotiated fee basis of claim cannot be justified in its own terms, the case is not improved by treating it as an evidential technique for assessing something conceptually different.
+statutory compensation
+a further concern, which needs to be taken into account before redefining the traditional categories, is the possible impact of our reasoning on other related areas of the law, for example compensation for statutory interference with property rights.
+arguments based on wrotham park have been deployed with mixed results in support of claims for enhanced, negotiated fee compensation in two important contexts: for injurious affection caused by statutory works on land subject to restrictive covenants (compulsory purchase act 1965 section 10); and for discharge or modification of restrictive covenants by the upper tribunal (law of property act 1925 section 84).
+injurious affection
+the compulsory purchase act 1965 section 10 (like its predecessor: land clauses act 1845 section 68) has been interpreted as permitting statutory works on land subject to restrictive covenants, subject only to payment of compensation for any diminution in value of the dominant tenement.
+in a case relating to land on the same wrotham park estate (wrotham park settled estates v hertsmere borough council [1993] 2 eglr 15 the hertsmere case) the court of appeal rejected an argument that the compensation should include a sum reflecting the price which that the landowner could have exacted for allowing the development or a ransom price (p 16h).
+in the leading judgment sir thomas bingham mr expressed reservations about the correctness of brightman js judgment in the earlier wrotham park case (p 18j), but held that it had no application to compensation under section 10.
+he cited a comment by professor gareth jones (the recovery of benefits gained from a breach of contract (1983) 99 lqr 443, 450; referring to tito v waddell (no 2) [1977] ch 106, 335 336): in wrotham park estate, the defendants had taken something for nothing for which the plaintiffs could have required payment, namely the release of the restrictive covenant; this was not the case in tito v waddell (no 2) for the defendants had done nothing which the plaintiffs had the right to prevent sir thomas bingham thought the same reasoning could be applied to the instant case: the authority had done nothing wrong nor taken anything to which it was not entitled, but was simply performing its statutory duty to supply housing (p 18h).
+he had earlier accepted that this might result in less than perfect compensation, but that was acceptable in the wider communal interests represented by the local authority (pp 17m 18a).
+this case was considered by the law commission in its review of the law of compensation for compulsory purchase of land (towards a compulsory code: (1) compensation final report (2003) law com no 286 para 9.6ff).
+it was suggested that it seemed somewhat anomalous to treat the owner of the dominant tenement in such a case as a person from who no land is taken.
+however, it was decided, in line with the majority of responses (para 9.10), not to recommend a change to the law in this respect.
+more recently the issue has been revisited by a leading textbook (michael barnes qc the law of compulsory purchase and compensation (2014) para 10.60 61).
+it is there argued that the hertsmere case should be reconsidered, following the imprimatur said to have been given by the house of lords in attorney general v blake [2001] 1 ac 268 to a voluntary agreement basis for awards in private law.
+comment under this statutory provision the law must in my view be taken as settled for the time being by the court of appeal decision in the hertsmere case.
+as far as i am aware, there has been no suggestion, then or since, that a negotiated fee might be brought in by a different route, as an evidential technique for assessing loss under the section.
+there are, as the law commission recognised, arguments for a more generous basis of compensation.
+however, that is a matter properly left to parliament taking account of all the interests involved, including the public interest considerations mentioned by the master of the rolls in hertsmere.
+restrictive covenants
+a more confused picture emerges from the history of the wrotham park analogy, in claims relating to statutory modification of restrictive covenants.
+the authorities were reviewed by the court of appeal in winter v traditional & contemporary contracts ltd [2007] ewca civ 1088; [2008] 1 eglr 80 (in which i gave the judgment of the court).
+the statutory framework for the power to discharge or modify restrictive covenants is found in section 84 of the law of property act 1925.
+under section 84(1)(aa), the lands tribunal (now upper tribunal) was given power to discharge or modify a restrictive covenant in order to allow some reasonable user of land, where the restriction either (a) did not secure to the person entitled to the benefit any practical benefits of substantial value or advantage; or (b) was contrary to the public interest; and where, in either case, money would be an adequate compensation for any loss or disadvantage suffered.
+the tribunal was empowered to direct the payment of a sum by way of consideration to make up for any loss or disadvantage suffered by that person in consequence of the discharge or modification.
+a few months after the judgment in wrotham park, such a claim came before the lands tribunal in in re sjc construction co ltds application (1974) 28 p & cr 200.
+it concerned a development of six flats on land subject to a restrictive covenant in favour of the local borough council.
+the development had been begun without seeking a modification.
+the tribunal (president sir douglas frank qc) refused to modify the covenant under ground (a) (no substantial benefit), but did so under ground (b) (public interest).
+in relation to compensation, the president mentioned the free negotiation approach adopted in wrotham park.
+this was seen by him as equivalent to the familiar stokes v cambridge principle (stokes v cambridge corp (1962) 13 p & cr 77, 91).
+stokes v cambridge is commonly relied on by valuers in assessing the market value of land subject to compulsory acquisition (under the land compensation act 1961 section 5), where adjoining land holds the key to its development.
+the value is treated typically as reduced by between one third and one half, to reflect the likely cost of securing the necessary interest from the adjoining landowner.
+this precedent was probably in the mind of the witness mentioned by brightman j (wrotham park, p 815e), who spoke of one a half or a third of the development value being commonly demanded by an adjoining landowner, although brightman j adopted the much lower percentage of 5% for reasons he explained.
+in sjc construction the president favoured the free negotiation approach over an approach limited to loss or disadvantage affecting the dominant land as such (p 206).
+he did so in part because he saw statutory modification of the covenant as in effect a compulsory expropriation of a right which together with the servient land has a market value (p 206).
+assessing the development value at 19,000, he fixed compensation at 9,500, on the basis that the likely outcome of friendly negotiations would have been to split the development value equally (p 207).
+in the court of appeal ((1975) 29 p & cr 322) the presidents award was upheld, but on what seems a quite different conceptual basis.
+lord denning mr (with whom the other members of the court agreed) noted the purpose of compensation as being to make up for the loss or disadvantage suffered by the person entitled, adding, at p 326: it is however, to be assessed for loss of amenities, loss of view and so forth, which are things which it is hard to assess in terms of money.
+it is similar to compensation for pain and suffering he approved the presidents reliance on wrotham park, as a method by which he was getting at the loss or disadvantage, that being an intangible matter which is incapable of exact calculation (pp 326 327)
+this reasoning is not easy to follow, given the presidents express refusal to limit the award to loss or damage to the dominant land, and the lack of any hint in his judgment of an attempt to assess loss of amenities, loss of view and so forth.
+lord dennings explanation of wrotham park is also difficult to reconcile with brightman js finding that in that case the plaintiff had suffered no loss.
+lip service at least was paid to his approach in the next case in the court of appeal (stockport metropolitan borough council v alwiyah developments (1983) 52 p & cr 278), but with a markedly less generous outcome in financial terms.
+dillon lj saw ground (a) as concerned with practical benefits on the land in the nature of amenities and not with the merely financial bargaining position (p 284).
+however, he accepted that on the tribunals findings there was a loss of amenity to be valued and that a possible method of assessment might have been by reference to some share, probably small, of the development value (p 285).
+in the winter case (para 28) those cases were treated as establishing, at least up to court of appeal level, that compensation under section 84 was based on the impact of the development on the objectors land, not on the loss of the opportunity to extract a share of the released development value (para 28); that the negotiated share approach was a permissible tool (para 33), but that the percentage must bear a reasonable relationship to the actual loss suffered by the objector; and that the 50% percentage used in sjc established no precedent.
+sjc was described as undoubtedly a difficult decision, because the court of appeal seemed to have re interpreted the tribunals award to fit its own different view of the law, but the stockport case should have dispelled any idea that objectors in cases of this kind have any expectation of a windfall stokes percentage of the released development value, or anything like it (para 37).
+that more modest view seems thereafter to have been reflected in the pattern of awards by the tribunal, as documented for example in preston and newson: restrictive covenants affecting freehold land 10th ed (2013) cap 14.
+comment here again a case can be made for a more generous basis of award, at least in some circumstances.
+where as in sjc itself modification is made on public interest grounds, it is easy to see the force of the presidents analogy with the refusal of an injunction on similar grounds in wrotham park itself.
+it is less easy to see on what principled basis one is to fix the appropriate percentage of development value, within the range offered by those two cases (between 5% to 50%).
+the current law may fairly be criticised as a somewhat uneasy compromise between two competing concepts.
+however, as was pointed out by the court of appeal in winter (para 34 5) those conceptual problems seem to have been negotiated by experienced members of the tribunal so, in subsequent cases, as to produce a reasonably consistent practice.
+again, in my view, if change is to be made it is for parliament rather than the courts to determine the appropriate balance.
+date of assessment
+finally, i would add a comment on an issue mentioned by lord reed (para 56), but not treated by him as needing to be resolved in this appeal.
+lord sumption touches on the same issue, noting that the hypothetical release fee is normally to be assessed at the time of the breach (para 108).
+he cites the statement by neuberger lj in lunn poly ltd v liverpool and lancashire properties ltd [2006] 2 eglr 29, para 29: given that negotiating damages under the act are meant to be compensatory, and are normally to be assessed or valued at the date of breach, principle and consistency indicate that post valuation events are normally irrelevant.
+however, given the quasi equitable nature of such damages, the judge may, where there are good reasons, direct a departure from the norm, either by selecting a different valuation date or by directing that a specific post valuation date event be taken into account.
+as lord sumption notes, this passage was cited with approval by lord walker in pell frischmann.
+however, neither he nor neuberger lj found it necessary on the facts of their cases to look at events later than the date of breach, nor to examine the flexibility allowed by the quasi equitable nature of the remedy.
+although this is not an issue in the appeal, i note that at least one of the expert reports in this case treats that passage as allowing the negotiated fee to be assessed taking account of the the eventual outcome.
+some comment may therefore be appropriate.
+in lunn poly itself the issue arose somewhat obliquely, and on unusual facts relating to the breach of a covenant for quiet enjoyment in the lease of a unit in a shopping centre.
+the breach in question involved works for the stopping up and replacement of a fire door.
+an injunction to restrain the breach having been refused, damages in lieu were assessed on the basis of a hypothetical negotiations for sale of the tenants right to prevent the works.
+an issue then arose as to whether account could be taken of the risk of subsequent forfeiture of the lease for a separate breach of covenant by the tenant shortly before the landlords works.
+as neuberger lj observed it was a very weak point in practice (para 15), in view of the strong likelihood of relief being granted to the tenant.
+however, the court thought it right to consider the point as a matter of principle, having regard to discussion in recent cases.
+neuberger lj referred in particular to amec development v jurys hotel management (uk) ltd (2001) 82 p & cr 22.
+the judge (anthony mann qc, sitting as a deputy high court judge) noted that brightman j in wrotham park (p 815h) had taken as his starting point for the hypothetical negotiation the profit which the developer with the benefit of foresight would have assumed.
+as the deputy judge commented, brightman j seems to have imagined a negotiation before the infringement, but using actual profits as evidence of what the parties would have contemplated before they actually accrued.
+he took this as showing that the negotiation analysis need not be pursued rigorously to its logical end, and that he was not required to guess at something which events have in fact made certain (para 13).
+while declining to lay down any firm general guidance, neuberger lj did not accept the deputy judges approach as generally applicable.
+once the court had decided on a particular date of valuation, consistency, fairness and principle pointed against ignoring factors existing at that date or taking account of factors which occurred afterwards (para 29).
+he then set out what he regarded as the proper analysis in the passage cited above.
+as can be seen, he saw the quasi equitable nature of the jurisdiction as permitting a relatively flexible approach, guided only (it seems) by whether the judge sees good reasons to direct a departure from the norm.
+in my view, the more detailed examination by this court of the subject of negotiating damages allows for more precise and principled guidance.
+here again there are useful statutory parallels.
+the bwllfa case (bwllfa and merthyr dare steam collieries ltd (1891) v pontypridd waterworks co [1903] ac 426) established that, in assessing compensation for loss caused by limits to mine working imposed under a statutory notice, the arbitrator was entitled to take account of evidence of increase of prices since the date of the notice; he was not required to conjecture on a matter which has become an accomplished fact (p 431 per lord macnaghten).
+that was in a case where, as lord robertson observed (p 432) the statutory compensation was not for an assumed sale of the coal at the date of the notice, but for a continuing embargo on working.
+in the same way, in the present context account must be taken of the nature of the claim.
+under the user principle, whether as applied to the taking of a horse or infringement of a patent, the inquiry is as to the price or fee that the defendant would have been expected to pay at the time of the taking or the infringement.
+logically the assumed knowledge should be limited to that which was available to the parties at the time.
+the position is different where the award is by way of compensation for the refusal of an injunction.
+this is a reflection not simply of the more flexible (quasi equitable) nature of the jurisdiction, but (as lord reed explains: para 47) the different bases of the awards: past, on the one hand, and future or continuing, on the other.
+where the causes of the claimants loss are not limited to past breaches, but include the judges refusal of an injunction to restrain future breaches, there is no reason in principle to exclude information available to the parties up to the time of the judges decision.

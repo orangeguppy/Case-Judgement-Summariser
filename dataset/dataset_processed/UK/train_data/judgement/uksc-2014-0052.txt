@@ -1,0 +1,409 @@
+until 2006, pension schemes could be approved by the inland revenue (subsequently hm revenue and customs).
+approved status carried with it advantages in the tax treatment of contributions to the scheme and investments within it, but it also imported restrictions on the form in which benefits were taken.
+in particular, until recently, benefits had to be taken as income, for example by applying the capital to the purchase of an annuity.
+the finance act 1991 amended the income and corporation taxes act 1988 so as to provide for the cessation of approval if a scheme ceased to qualify.
+a practice grew up by which small schemes (typically for the controlling directors of private companies) would contrive a loss of approval with a view to allowing the accumulated fund to be applied free of the restrictions on the form of benefits.
+to deal with this practice, section 61 of the finance act 1995 introduced a tax charge of 40% of the value of the assets of the scheme immediately before the cessation of approval.
+the question at issue on this appeal is whether, when approval is withdrawn by a decision of revenue, the tax charge falls to be assessed in the tax year with effect from which the approval ceased or in the tax year when the revenues decision to withdraw approval was notified to the administrator of the scheme.
+the john mander ltd directors pension scheme was approved by the revenue on 24 september 1987.
+its beneficiaries were mr mander and his wife.
+on 5 november 1996 the funds of the scheme were transferred to a new scheme, whose rules were subsequently changed so as to provide for the trustees to make advances to beneficiaries which were not permitted for an approved scheme.
+on 19 april 2000 the revenue notified the administrator of the scheme that approval was withdrawn under section 591b(1) of the income and corporation taxes act 1988 with effect from 5 november 1996.
+on 27 july 2000, the then administrator was assessed under section 591c of the act for the current tax year, 2000 2001.
+following a change of administrator, a fresh assessment in the same terms was raised against the new administrator on 22 january 2007.
+the taxpayer appealed against both assessments on the ground that the tax should have been assessed for the tax year 1996 1997 when the scheme ceased to be eligible and when the withdrawal of approval took effect under the terms of the revenues notice.
+this contention was rejected by the first tier tribunal (tax chamber).
+their decision was upheld by the upper tribunal (vos j) [2013] ukut 51 (tcc); [2013] stc 1453 and subsequently by the court of appeal (moses, patten and beatson ljj) [2013] ewca civ 1683; [2014] 1 wlr 2209.
+they all considered that the tax charge fell to be assessed for the year 2000 2001 when the withdrawal was notified.
+the point is of greater significance than this rather technical statement of the issue might suggest.
+if the taxpayer is right, it may now be too late for the revenue to raise a fresh assessment for 1996 1997.
+in some cases, although not this one, it will already have been too late by the time that the revenue learn of the facts leading to the withdrawal of approval.
+a substantial number of other schemes is affected.
+this is the lead case of a number of appeals awaiting decision in the first tier tribunal.
+the statutory framework
+section 590 of the income and corporation taxes act 1988 laid down a number of conditions for the approval of a pension scheme.
+section 591 conferred a discretion on the revenue to approve schemes satisfying certain criteria even if it did not qualify under section 590, but subject to regulations which the board was empowered to make by section 591(6).
+at the relevant times, approval could cease in any of three ways: (1) section 591a was in effect a transitional provision relating to schemes which had received discretionary approval under section 591 but ceased to qualify as a result of restrictions subsequently introduced by regulations under section 591(6).
+their approval ceased automatically 36 months after the introduction of the regulations if the scheme still failed to comply with them. (2) section 591b(1), which was the basis on which the approval of the mander scheme was withdrawn, provided: if in the opinion of the board the facts concerning any approved scheme or its administration cease to warrant the continuance of their approval of the scheme, they may at any time by notice to the administrator, withdraw their approval on such grounds, and from such date (which shall not be earlier than the date when those facts first ceased to warrant the continuance of their approval or 17 march 1987, whichever is the later), as maybe specified in the notice. (3) section 591b(2) provided that where an alteration had been made to a scheme which was neither specifically approved by the revenue nor generally authorised by regulations, no approval given by the board as regards the scheme before the alteration shall apply after the date of
+the alteration
+it should be noted that in each case, the approval is lost with effect from a date established by reference to the time when the scheme ceased to qualify for approval.
+in cases (1) and (3), this is clear from the express terms of the relevant provisions.
+where approval is lost under section 591a, it ceases with effect from a date 36 months after regulations came into force under which it no longer qualified for discretionary approval.
+the period of grace is intended to allow the trustees to modify the scheme so as to qualify under the new regime.
+approval is lost only if they fail to do so.
+where approval ceases under section 591b(2), it ceases on the date of the alteration to the scheme which caused it no longer to qualify for approval.
+the relationship between the date when the scheme ceases to qualify and the date when approval ceases is less clear in cases governed by section 591b(1).
+this is the only case in which the cessation of approval requires any action on the part of the revenue, as opposed to occurring automatically when the statutory conditions for cessation are satisfied.
+a notice of withdrawal is required, which will specify an effective date for the withdrawal not earlier than the time when the facts cease to warrant approval.
+it is, however, clear that the revenue do not have an unfettered choice of effective date.
+they must select one which bears a rational relationship to the facts to which they are responding.
+that will normally be the date when the scheme ceased to qualify for approval.
+but it may be after that date if in the judgment of the revenue the circumstances in which the scheme ceased to qualify justify an interval before the withdrawal takes effect.
+this might happen, for example, if the loss of approval was inadvertent on the part of the trustees or administrator and there was a period of time during which they might reasonably have been expected to rectify the position.
+other examples could no doubt be cited.
+when approval is lost in any of the three ways contemplated by sections 591a or 591b, a charge to tax is imposed by sections 591c.
+this provides, so far as relevant: 591c cessation of approval: tax on certain schemes (l) where an approval of a scheme to which this section applies ceases to have effect . , tax shall be charged in accordance with this section. (2) the tax shall be charged under case vi of schedule d at the rate of 40% on an amount equal to the value of the assets which immediately before the date of the cessation of the approval of the scheme are held for the purposes of the scheme (taking that value as it stands immediately before that date). (3) subject to section 591d(4), the person liable for the tax shall be the administrator of the scheme.
+section 591d contains supplementary provisions.
+for present purposes, only subsection (7) is relevant: (7) the reference in section 591c(l) to an approval of a scheme ceasing to have effect is a reference to the scheme ceasing to be an approved scheme by virtue (a) of section 591a(2); (b) section 591b(l); (c) of section 591b(2); the approval of the scheme being withdrawn under the approval of the scheme no longer applying by virtue and any reference in section 591c to the date of the cessation of the approval of the scheme shall be construed accordingly.
+in respect of what year does the charge to tax arise?
+section 591c does not in terms specify a date at which the tax is chargeable.
+in principle, it is the date when approval is lost since that is the occasion for the tax charge.
+but in a case where approval is withdrawn retrospectively, does that mean the date on which it is withdrawn or the date with effect from which it is withdrawn? the revenues argument is, in substance, that until the moment when a notice of withdrawal is issued, the scheme remains technically an approved scheme, notwithstanding that it was not entitled to be, and notwithstanding that when approval was withdrawn it was withdrawn retrospectively.
+in my opinion, however, the correct answer is that the tax charge falls to be assessed for the chargeable period in which the withdrawal of approval took effect in accordance with the terms of the statutory notice.
+the starting point is to ask what the tax is being charged upon.
+that depends on the charging provision.
+before us there was an issue about which parts of section 591c should be regarded as the relevant charging provision.
+the court of appeal considered that it was only subsection (1).
+i should myself have regarded at least the first three sub sections as constituting the charging provision, but the issue is a sterile one, because even if subsection (1) is to be regarded as the charging provision, its ambit and effect depend on the remaining sub sections and indeed on the supplementary provisions of section 591d.
+these provisions have to be read as a whole.
+in those circumstances, the critical point is that although the charge is in reality a levy on the capital value of the fund, section 591c(2) imposed it as a charge to income tax under case vi of schedule d.
+that is therefore necessarily its legal characterisation.
+case vi of schedule d charged tax in respect of any annual profits or gains not falling under any other case of schedule d and not charged by virtue of schedule a, b, c or e. under section 69(1) of the income and corporation taxes act 1988, tax chargeable under case vi of schedule d was computed on the full amount of the profits or gains arising in the year of assessment.
+for this purpose, the relevant year of assessment is the year in which the relevant profit of gain arose: see income and corporation taxes act 1988, section 832(1).
+reading section 591c(2) together with case vi of schedule d, their combined effect is that the administrator of the scheme is treated for tax purposes as having received an annual profit or gain in an amount equal to the value of the assets which immediately before the cessation of the approval of the scheme are held for the purposes of the scheme.
+income tax at 40% is then charged on that profit or gain.
+it follows that the tax must be assessed on a notional profit or gain accruing immediately before the cessation of approval.
+subject to section 591d(7), to which i shall return, the cessation of approval in section 591c(2) must refer back to the opening words of subsection (1) which identify the condition on which the charge to tax arises (where an approval ceases to have effect ).
+as a matter of ordinary language, that means the time with effect from which the previous approval of the scheme no longer had effect.
+as i have pointed out, this is obvious in a case falling within section 591a or 591b(2).
+in a case like the present one falling under section 591b(1), it means the date specified in the revenues notice from which approval is withdrawn, which is the functional equivalent.
+not only is this the natural result of the language of these provisions, but on any other view the tax charge under section 591c would fall to be assessed in a later tax year where approval was lost under section 591b(1) than it would have been if approval had been lost under section 591a or 591b(2).
+given the common purpose of the three provisions, i can see no rational basis for such a difference.
+the same point may be made about the conditions for liability to the tax charge in section 591c(4) (6a).
+these conditions relate to the number of members of the scheme immediately before the date of the cessation of the approval of the scheme, to their relationship with the company contributing to the scheme within the period of one year ending with the date of the cessation of the approval of the scheme, and to the contributions made by any person to the scheme within the period of three years ending with the date of the cessation of the approval of the scheme.
+these provisions make sense only on the footing that the cessation of the approval of the scheme is the effective date of the withdrawal of approval, and not the date of the revenues notice of withdrawal.
+this analysis derives support from the terms of section 61 of the finance act 1995, which introduced sections 591c and 591d into the income and corporation taxes act 1988.
+section 61(3) provided: (3) this section shall apply in relation to any approval of a retirement benefits scheme which ceases to have effect on or after 2 november 1994 other than an approval ceasing to have effect by virtue of a notice given before that day under section 591b(1)of the taxes act 1988. 2 november 1994 was the date when the revenue announced its intention to promote legislation imposing a tax charge on the assets of schemes ceasing to qualify for approval.
+the purpose of section 61(3) is to ensure that the tax charge introduced by section 591c does not apply unless both the cessation of approval and the giving of notice of withdrawal of approval under section 591b(1) occurred after that date.
+it presupposes that the date when an approval ceases to have effect is not the same as the date when notice is given to that effect.
+i now return to section 591d(7), which i have already set out.
+the revenue argue that the effect of this subsection, as applied to schemes like this one whose approval is withdrawn under section 591b(1), is that approval of the scheme is treated as having been withdrawn when the revenue gives notice of withdrawal: see para (b).
+the court of appeal accepted this submission, but i do not think that section 591d(7) will bear that construction.
+it does not refer to the revenues notice of withdrawal.
+it refers only to the approval of the scheme being withdrawn under section 591b(1).
+in themselves, these words beg the question whether approval is withdrawn under section 591b(1) when notice of withdrawal of approval is given or when it takes effect according to its terms.
+but read in the context of the sub section as a whole, the inference is that it is when the withdrawal of approval takes effect.
+on the face of it, the draftsman is equating approval of the scheme being withdrawn with its ceasing to have effect and with the cessation of approval.
+what then was the purpose of section 591d(7)? in my view there were two purposes.
+the first was to identify the three statutory bases on which an approval may cease to have effect for the purpose of section 591c(1).
+this was evidently thought necessary because none of the three provisions for the cessation of approval uses the expression ceases to have effect which appears in section 591c(1).
+the second purpose of the provision was to stipulate the date as at which the assets fall to be valued under section 591c(2) for the purpose of computing the charge.
+it is the date when the schemes approval ceases to have effect under each of the three provisions.
+it follows that the tax falls to be assessed in the chargeable period with effect from which the approval ceased to have effect in accordance with the notice of withdrawal.
+alleged anomalies
+as is traditional, each side pointed to a chamber of horrors which would be opened up were the other sides submissions to be accepted.
+in general, this contributed little to the debate.
+but i should deal with two points made on behalf of hmrc, partly because they influenced the court of appeal, and partly because they raise questions of some wider legal significance.
+one was that parliament cannot have intended to empower the revenue to impose a charge to tax retrospectively, with the result that although the tax would not actually be payable until the prescribed interval after the assessment (30 days), the taxpayer would be liable for interest from a date well before the assessment.
+the other was that unless the revenue was entitled to assess the taxpayer under section 591c in the year of the notice of withdrawal, they would in many cases be unable to do so at all because of the long interval which can elapse before the facts justifying withdrawal come to their attention.
+retroactivity
+if the relevant chargeable period is the year of assessment with effect from which the approval was withdrawn, it is undeniable that the result is to expose the taxpayer to an assessment which is retrospective in the sense that it relates to a charging period up to six years earlier.
+it is correct that this will generally have adverse consequences for his liability to interest.
+however, i cannot regard this as anomalous or share the court of appeals dismay at the prospect.
+it is inherent in the process of assessment that a taxpayer may be assessed to tax on profits or gains that arose in a charging period earlier than that in which the assessment was raised.
+this occurs whenever tax is assessed in arrears.
+the period of retrospectivity may be considerable if profits or gains for an earlier period were previously overlooked or wrongly thought not to be chargeable to tax.
+but it may also occur when something happens which makes it necessary to recharacterise the taxpayers financial affairs in an earlier period.
+before this state of affairs can be regarded as anomalous, we need to ask ourselves what the recharacterisation involves.
+it would be surprising if the law allowed a tax to be charged in an earlier period by reference to criteria which did not apply until a later one.
+on the other hand, it may involve no more than a recognition of facts which always existed.
+a good example of the latter situation is provided by the scottish case of spence v inland revenue comrs (1941) 24 tc 311.
+the facts were that the taxpayer sold shares to a third party in 1933 under a contract which he subsequently alleged to have been induced by fraud.
+in 1939 he obtained a judgment reducing the contract (anglice setting it aside) with effect from the date that it was made, together with orders that the shares be retransferred to him and a sum paid to him representing the dividends which the purchaser had received while he was registered as the shareholder.
+after the judgment, the revenue repaid the surtax assessed on the dividends in the hands of the fraudulent purchaser and assessed the taxpayer instead.
+the years of assessment were those in which the dividends had been paid by the company.
+the assessment was upheld in the inner house of the court of session.
+lord president normand said, at p 317: in this case the contract was not void; it was merely voidable on the ground that it had been induced by fraudulent misrepresentations.
+when a contract has been induced by fraudulent misrepresentations, it is open to the party defrauded either to sue for rescission of the contract or to sue for damages.
+in this case the party sued for rescission and in the end of the day he obtained a decree of reduction.
+the effect of that reduction was to restore things to their position at the date of the transaction reduced, with the result that as at that date and afterwards the successful pursuer in the action fell to be treated as having been the person in titulo of the shares which he had sold to the defender and therefore to have been in right of the dividends.
+no doubt it is true that in the interval the dividends had to be paid and were paid to the defender because his name stood in the register as the proprietor of the shares and no doubt also they were for the time being treated by the inland revenue as his income and while matters stood entire no other person had any right to the shares or to the dividends except the defender, mr crawford.
+but from the moment the reduction took place mr spence fell to be treated as having been throughout the proprietor of the shares and equally the person properly entitled to receive the dividends.
+on the other hand the inland revenue repaid to mr crawford the surtax attributable to the dividends actually paid to him by the company on the footing that he had never been in titulo to receive them.
+the critical feature of this case was that although the assessment arose out of the order for reduction, and operated ab initio, its effect was to restore the parties to the situation in which they would have been in 1933 but for the fraud.
+this may be contrasted with the decision in morley clarke v jones (inspector of taxes) [1986] ch 311.
+in 1969 an order had been made in divorce proceedings for the payment by the husband to the wife of a sum by way of maintenance for their child.
+in 1979 the order was varied with effect from the date of the original order, so as to make the sum payable directly to the child, because this would be more tax efficient.
+it was certainly more tax efficient for the future, because the child had no other income.
+but the revenue assessed the wife to income tax on maintenance received by her between 1969 and 1979 without regard to the retrospective variation.
+upholding the assessments, the court of appeal distinguished spence on the ground that the 1979 order purported to alter the effect of what had gone before as opposed to merely recognising it.
+oliver lj, delivering the leading judgment, observed at pp 331 332: a retrospective order cannot, any more than a retrospective agreement, undo the past and convert something that has already happened, and to which legal consequences have already attached, into something which never in fact did happen. [in spence] the restitutio in integrum represented by the court order obtained some years later did not so much reconstruct history as recognise and declare that which had all along been the legal position, although until the order the parties were in a state of some uncertainty as to what their rights were.
+the revenue can issue a notice of withdrawal of approval under section 591b(1) only if the facts cease to warrant the continuance of approval.
+where the effective date stated in the notice is the date when those facts first ceased to warrant the continuance of their approval, as it generally will be, the relevant facts will be those in existence in the earlier charging period.
+the retrospective character of the withdrawal of approval simply recognises the facts as they were at the earlier stage.
+if interest accrues on the tax assessed with effect from the earlier charging period, that does no more than reflect the fact that throughout the intervening period the scheme has enjoyed tax advantages to which it was not entitled and has deferred a tax charge under section 591c which would have been assessed as soon as the facts warranted if the revenue had known them.
+difficulties of enforcement
+at the relevant time the right to assess the taxpayer to income tax ordinarily ceased six years after the end of the chargeable period when the relevant profit or gain arose: taxes management act 1970, sections 34.
+the submission of hmrc is that in many cases this will not be long enough to enable the revenue to learn of the facts and respond with a notice withdrawing approval from the scheme in time to assess the charge under section 591c.
+therefore, it is said, they must be entitled to assess the tax in the chargeable period when they give the notice, if the tax charge is to be effective.
+the information before us does not enable me to say how serious a problem this is, but i shall proceed on the footing that it is significant.
+even so, i reject the argument.
+in the first place, the revenue had ample powers to make regulations requiring information relating to any approved scheme to be furnished to them without prior request.
+at the relevant time, the powers were conferred by section 605(1a) (1d) of the income and corporation taxes act 1988 (inserted by section 105 of the finance act 1994).
+the regulations in force at the relevant time were the retirement benefits schemes (information powers) regulations (si 1995/3103).
+these did not require the reporting of transactions of the kind which caused the mander pension scheme no longer to qualify for approval.
+but they could have done, and in fact did with effect from 2003 when they were amended: see retirement benefits schemes (information powers) (amendment) regulations (si 2002/3006).
+secondly, there is an extended period of 20 years for assessment in cases of fraud or negligence, under section 36 of the taxes management act 1970 (as amended).
+the revenues argument must therefore be tested by assuming a taxpayer acting carefully and in good faith.
+on that assumption, there is no reason in principle why the legislation should be interpreted in a way which exposes the taxpayer to an assessment after the normal time limit has expired.
+thirdly, the cure which hmrc proposes for dealing with this problem, if it is one, seems to me to be a great deal worse than the disease.
+if the charge to tax were to be treated as arising at the date of assessment, it would follow that the chargeable period would be wholly at the discretion of the revenue.
+that result, surprising enough in itself, would lead to the even more surprising conclusion that a charge to tax could be imposed without limitation any number of years after the facts which justified it.
+conclusion
+i would allow the appeal and declare that the inland revenue were not entitled to assess the administrator of the john mander pension scheme to tax under section 591c of the income and corporation taxes act 1988 for the year 2000 2001.
+lord neuberger:
+the relevant facts and applicable statutory provisions are set out in paras 56 64 of lord hodges judgment and paras 1 7 of lord sumptions judgment.
+in a nutshell, the issue on this appeal is whether, in a case where the revenues approval is withdrawn by a notice (a notice) under section 591b(1) of the income and corporation taxes act 1988, tax under section 591c is chargeable by reference to the tax year which includes (i) the date with effect from which the approval is specified to have been withdrawn (ie the date stated in the notice), or (ii) the date on which the approval is actually withdrawn (ie the date of the notice).
+the appellant taxpayer, john mander pension trustees ltd, contends that it is the former date (the earlier date), whereas hm commissioners for revenue and customs (hmrc), with whom the first tier tribunal, the upper tribunal and the court of appeal agreed, argues for the latter date (the later date).
+as the judgments of lord hodge and lord sumption demonstrate, there are powerful arguments both ways, and i will briefly explain why, in disagreement with the courts below and with the minority in this court, i agree with lord sumption and lord reed that the earlier date is the correct answer.
+section 591b(1) entitles hmrc, in certain circumstances (which it is conceded for present purposes arise here), to withdraw by a notice their approval, given under section 590 to a pension scheme, from such date as may be specified in the notice (subject to certain restrictions).
+section 591c(1) provides that where an approval ceases to have effect tax shall be charged in accordance with this section.
+section 591c(2) states that such tax is to be paid by reference to the value of the assets immediately before the date of the cessation of the approval.
+two points can be noted about those two consecutive subsections at this stage.
+first, two different expressions are used in the two subsections an approval [ceasing] to have effect and the cessation of the approval.
+those two expressions could be synonyms or they could have different meanings.
+as a general proposition, in the absence of any indication to the contrary, one would presume that different expressions were intended to have different meanings.
+in this case in particular, one expression could mean the earlier date and the other could mean the later date.
+secondly, it was common ground in the court of appeal, and accepted by moses lj that the meaning of the cessation of approval is the earlier date see [2013] ewca civ 1683, [2014] 1 wlr 2209, para 17.
+next, there are subsections (5), (6) and (6a) of section 591c, which set out certain conditions, one or more of which, according to subsection (3), must be satisfied if the charge to tax under subsections (1) and (2) arises.
+these subsections appear to me to make it clear that the date of cessation of approval means the earlier date.
+accordingly, they confirm the second point mentioned in para 28 above.
+one then turns to section 591d(7).
+this states that, for the purpose of section 591c(1), an approval ceasing to have effect means, in a case such as the present, the approval of the scheme being withdrawn, and it also states that any reference in section 591c to the date of the cessation of the approval shall be construed accordingly.
+to my mind, the natural meaning of this provision is that, for the purposes of these sections, (i) approval ceases to have effect in section 591c(1) when approval of the scheme is withdrawn, and (ii) the date of cessation of approval in the other subsections of section 591c has the same meaning.
+point (i) is self evident.
+as to point (ii), i find it hard to see how the closing words of section 591d(7) could have any other meaning.
+if they do not state that the two expressions used in section 591c(1) and in section 591c(2) have the same meaning, they would be very curious.
+they would have no effect, because they would take the question of what the expression the date of cessation of approval means no further, and that would be particularly surprising given that they were plainly included to give guidance as to what that expression means.
+accordingly, the presumption i refer to in para 28 above is rebutted by section 591d(7).
+in the light of this analysis, it seems to me that the appeal should succeed, and the relevant tax year is that which includes the earlier date, rather the later date.
+in summary, it appears to me that (i) the expressions an approval [ceasing] to have effect and the date of the cessation of the approval have the same meaning, in the light of section 591d(7), (ii) the date of the cessation of the approval means the earlier date, in the light of section 591c(4) (6a), so (iii) both subsections (1) and (2) of section 591c are linked to the earlier date and not the later date, and therefore (iv) it is the earlier date which governs the taxing year.
+i accept that this conclusion is contrary to the presumption against retroactivity, which is discussed in para 70 of lord hodges judgment.
+it also seems to me that the force of that presumption is somewhat reinforced in the present case by the fact that hmrc can, albeit within express and public law limits, choose the date by reference to which tax would be charged.
+on the other hand, it is only a presumption.
+in this case, it seems to me that the presumption against retroactivity is rebutted for the reason i have given, and that in any event the presumption does not have particularly compelling force.
+it is specifically contemplated in section 591b(1) that a notice will normally have retroactive effect, so that retroactivity can be said to be inherent in a case where a notice is served under section 591b(1).
+more specifically, the valuation exercise prescribed by section 591c(2) requires the assets to be valued at the earlier date: not only is that an example of retroactivity, but it seems to me that, if the assets are to be valued as at the earlier date, there is a degree of consistency in assessing the tax as at that day too.
+the conclusion which i favour receives significant support from section 61 of the finance act 1995, which introduced sections 591c and 591d into the 1988 act.
+section 61(3) is set out and explained in para 12 of lord sumptions judgment and para 77 of lord hodges judgment.
+it is a transitional provision, which clearly envisages that the date when approval ceases to have effect is not the same as the date on which notice is given.
+in my view, it is clearly permissible, indeed appropriate, when interpreting new sections inserted into an act, to take into account transitional provisions contained in the section of the later act which introduced the new sections.
+the transitional provisions are plainly in pari materia with the new sections.
+it is true that section 61(3) is puzzling in that it assumes that a notice under section 591b(1) can be prospective, which is hard to understand, but that does not undermine the centrally important point that the drafter of the statute plainly considered that the date when approval ceases to have effect was not the same as the date of the notice.
+i shall deal very briefly with the other arguments discussed by lord hodge and lord sumption.
+the reference to case vi of schedule d in section 591c(2), referred to by lord sumption at para 9 underlines the point he makes in his para 17 and which i make in para 32 above.
+i see some force in lord sumptions point in his para 10 that the conclusion which he and i have reached is consistent with the other two circumstances dealt with in section 591d(7)(a) and (c), but the point is of limited (but not negligible) force in my view for the reasons given by lord hodge in para 77.
+so far as the alleged anomalies are concerned, it seems to me that none of them is particularly striking, and there is a degree of anomaly either way.
+on the view i have formed, there would be a liability for interest retrospectively.
+while that is inherently unattractive, it is consistent with the retroactive effect of a notice, and with the notion that the pension fund should have been taxed at the date specified in the notice.
+also on the view i have formed, hmrc would lose the right to claim tax pursuant to section 591b(1) after six years (absent fraud or wilful default), but there is nothing particularly surprising about that, given that one is assuming a taxpayer who has acted in good faith.
+if i am wrong in my view, there would be no time limit on hmrcs entitlement to recover tax under section 591c, which would be a little surprising, although there would be a limited degree of protection for a taxpayer in those circumstances through public law if hmrc unreasonably delayed.
+nonetheless, this would be an anomaly if hmrcs case was correct, and i am unimpressed with the answer that the purpose of this tax was to discourage abusive arrangements, because that can equally well be used to support the retrospective effect of the legislation if the appellants case is correct.
+for these reasons, i would allow this appeal.
+lord reed:
+during the period with which this appeal is concerned, taxpayers who paid contributions into approved pension schemes received relief from income tax on their contributions.
+until 1997, the investments held in the fund administered by the scheme also benefited from favourable tax treatment.
+the consequence of these tax privileges was that, as the fund accumulated, a substantial proportion of it represented tax which would otherwise have been paid, either by the contributors or by the administrators.
+these tax privileges were granted on the basis that benefits would be taken from the scheme only in accordance with the rules governing approved pension schemes.
+this normally meant that benefits would be taken only at retirement (or on death, if earlier), when the fund would be used to purchase an annuity.
+the tax privileges were therefore enjoyed in anticipation of the use to which the fund would be put, usually many years later.
+a practice however developed of small schemes obtaining approval, the contributors benefiting from the consequent tax privileges (typically by saving higher rate tax at 40%), and then the schemes being managed in such a way as to lose their approval.
+the accumulated fund, including the tax savings made over the years, could then be enjoyed free of restrictions.
+this abusive practice depended on the schemes failure to fulfil the expectation on the basis of which the tax privileges had been granted.
+before looking at how parliament responded to this situation, it may be useful to consider what one might reasonably expect it to have done.
+in the first place, one might expect provision to be made for the revenue to withdraw approval from a scheme as from the date when it ceased to comply with the conditions for approval.
+contributions into the scheme would then cease to qualify for tax relief as from that date, and the investments of the fund would cease to receive favourable treatment.
+turning to the legislation which was actually enacted by parliament, it is consistent with the approach which i have described.
+sections 591a(2), 591b(1) and 591b(2) of the income and corporation taxes act 1988 (the taxes act) provide for approval to cease in three situations: (1) where the scheme fails to comply with regulations, 36 months after the introduction of the regulations (section 591a(2)); (2) where the facts concerning the scheme cease to warrant the continuance of approval (section 591b(1)); and (3) where an unapproved and unauthorised alteration is made to the scheme (section 591b(2)).
+the first of these is a transitional provision, as lord sumption has explained.
+the second and third address the type of problem which i have discussed.
+in the first and third of these situations, approval is withdrawn automatically: under section 591a, 36 months after the introduction of the regulations, and under section 591b(2), with effect from the date of the alteration.
+in the second situation, with which we are concerned in this appeal, section 591b(1) permits the revenue to withdraw their approval from such date (which shall not be earlier than the date when those facts first ceased to warrant the continuance of their approval . ), as may be specified in the notice [withdrawing their approval].
+approval can therefore be withdrawn retrospectively, as it was in the present case, and as it is likely to be in most if not all cases.
+the withdrawal of approval has the effect of exposing those who previously benefited from the privileges flowing from approval to the ordinary tax regime which applies in its absence.
+the latter regime inevitably applies from the date as from which approval is withdrawn, since the scheme lacks approval as from that date.
+in a case under section 591b(1), the date in question is the date specified in the notice.
+in consequence, the issuing of a notice may trigger tax liabilities in respect of income and capital gains arising between the date specified in the notice and the date when the notice is issued.
+the withdrawal of approval does not however deal with the tax savings accumulated and invested since the inception of the scheme, which could be seen in retrospect to have been unmerited.
+in order to address that issue, one might expect provision to be made for the portion of the fund representing those benefits to be paid as tax.
+given the difficulty of calculating the precise proportion, a broad rule of thumb might be adopted.
+turning to the legislation, one again finds that parliament has acted as one would have expected.
+section 591c provides for a portion of the fund to be paid as tax: (l) where an approval of a scheme to which this section applies ceases to have effect . tax shall be charged in accordance with this section. (2) the tax shall be charged under case vi of schedule d at the rate of 40% on an amount equal to the value of the assets which immediately before the date of the cessation of the approval of the scheme are held for the purposes of the scheme (taking that value as it stands immediately before that date). (3) subject to section 591d(4), the person liable for the tax shall be the administrator of the scheme.
+tax is to therefore to be charged where an approval ceases to have effect.
+the portion of the fund which is to be paid in tax is 40%: a figure corresponding to the higher rate tax relief which will in most cases have been granted to the contributors to the scheme.
+two questions remain.
+first, in a case where approval is withdrawn under section 591b(1), is the date of cessation of the approval of the scheme, immediately before which the fund is to be valued for the purpose of calculating the tax due, the date specified in the notice, or the date when the notice is issued? secondly, is the year of assessment the year during which the date falls as at which the fund is to be valued, or the year during which the notice is issued?
+in relation to the first question, it is common ground that the relevant date is the date with effect from which the approval is withdrawn, ie the date specified in the notice.
+i am in no doubt that that is correct.
+in the first place, that is the date most naturally described as the date of the cessation of the approval.
+secondly, and more importantly, the appropriate point in time as at which to calculate the tax payable is, in principle, immediately before the date when the fund ceased to qualify for approval.
+that is so for two reasons.
+first, the withdrawal of approval with effect from that date, under section 591b(1), means that any tax savings which may have been obtained subsequently are already recoverable by assessment on ordinary principles.
+to require a proportion of the fund which included those post withdrawal tax savings to be paid to the revenue under a further assessment would effectively involve double taxation.
+secondly, the fund will not necessarily remain intact after it ceases to qualify for approval (particularly, it might be thought, if the amount of the tax charge were to depend on the size of the fund when the revenue discovered the abuse and issued a notice).
+i have not so far referred to section 591d(7): (7) the reference in section 591c(1) to an approval of a scheme ceasing to have effect is a reference to (a) the scheme ceasing to be an approved scheme by virtue of section 591a(2); (b) the approval of the scheme being withdrawn under section 591b(l); (c) the approval of the scheme no longer applying by virtue of section 591b(2); and any reference in section 591c to the date of the cessation of the approval of the scheme shall be construed accordingly.
+it appears from section 591d(7)(b) that, in a case where approval is withdrawn under section 591b(1), the reference in section 591c(1) to an approval ceasing to have effect is a reference to the approval being withdrawn.
+considering that provision in isolation, there might perhaps be room for argument as to whether approval was withdrawn when the notice was sent or when the withdrawal of approval took effect.
+it has however to be read in its context.
+section 591d7(a) and (c) make it clear that, in all other circumstances where approval is lost, the relevant date is the date when the scheme ceases to qualify for approval.
+the functionally equivalent date in a case where a notice was issued is the date specified in the notice.
+furthermore, the final words of section 591d(7) make it clear the date of an approval ceasing to have effect is the same as the date of the cessation of the approval of the scheme, as indeed one would expect as a matter of ordinary language.
+as explained in para 48, there is no doubt (and no dispute) that the date of the cessation of the approval is the date specified in the notice.
+if, then, the tax charge is to be calculated as 40% of the value of the fund immediately before the date specified in the notice, the question remains whether the year of assessment is the year during which the date falls as at which the fund is to be valued, or the year during which the notice is issued.
+the correct answer must be the former.
+that is the year during which the occasion for the tax charge falls, in terms of section 591c(1) (where an approval of a scheme . ceases to have effect), as i have interpreted it.
+it is also the year during which the value of the fund, and therefore the amount of the tax charge, is to be computed, as i have explained.
+if it is objected that an assessment on this basis is retrospective, the answer is that it is only in retrospect that it can be seen that the scheme and its contributors have benefited from unmerited tax savings.
+securing the restoration of that benefit does not in substance involve the imposition of retrospective taxation, but rather the recovery of tax which was foregone at an earlier date in reliance upon an expectation as to the future management of the scheme which was induced but not subsequently fulfilled.
+an analogy can be drawn with restitution on the basis of a failure of consideration.
+if it is objected that interest should not be payable to the revenue on tax which is assessed retrospectively, the answer is that the taxpayer has enjoyed the unmerited use of the money, which in hindsight ought to have been in the hands of the revenue during the intervening period.
+the correctness of this construction of the provisions is confirmed by section 239a of the taxation of chargeable gains act 1992.
+under that provision, the assets of the scheme are deemed to have been acquired immediately before the date specified in the notice withdrawing approval, at their then value.
+the provision thus resets the base cost of the assets for the purpose of calculating the gain or loss on any disposal subsequent to the date specified in the notice.
+the reason why gains or losses accruing prior to the date specified in the notice are not taken into account is that the scheme is then liable to the 40% charge imposed by section 591c of the taxes act.
+for these reasons, and those given by lord sumption and lord neuberger, i would allow the appeal.
+lord hodge: (dissenting with whom lord carnwath agrees)
+revenue approved pension schemes have had significant tax advantages.
+but the misuse of those advantages by the diversion of funds, which had received tax benefits, from the funding of pension income, which had justified those benefits, gave rise to anti avoidance legislation.
+this appeal concerns a tax avoidance scheme and an attempt by the inland revenue, now hm revenue and customs (hmrc), to impose a tax charge on the pension trustees as a result.
+it raises a question of statutory interpretation about the correct year of assessment of the tax charge arising from the withdrawal of revenue approval.
+it is relevant to many other cases which have arisen out of events which occurred before 2006, when the finance act 2004 changed the tax regime.
+the statutory framework
+section 590 of the income and corporation taxes act 1988 (the ta) set out conditions for the approval by hmrc of retirement benefit schemes.
+the finance act 1991 introduced sections into the ta to provide for revenue approval of pension schemes to be lost in three circumstances: (i) approval ceased automatically if, by the end of 36 months after regulations made under section 591 had come into force, a retirement benefits scheme contained a provision that the regulations prohibited or did not contain a provision that the regulations required (section 591a(2)). (ii) section 591b(1), which is relevant in this appeal, provided: if in the opinion of the board the facts concerning any approved scheme or its administration cease to warrant the continuance of their approval of the scheme, they may at any time by notice to the administrator, withdraw their approval on such grounds, and from such date (which shall not be earlier than the date when those facts first ceased to warrant the continuance of their approval or 17 march 1987, whichever is the later), as may be specified in the notice. (iii) approval also ceased automatically whenever the terms of a retirement benefits scheme were altered without obtaining the approval of hmrc (section 591b(2)).
+further measures followed.
+section 61 of the finance act 1995 imposed a tax charge where approval of a scheme ceased to have effect, in any of the three circumstances which i have mentioned, by introducing sections 591c and 591d into the ta.
+section 591c(1) (3) provided: (1) where an approval of a scheme to which this section applies ceases to have effect , tax shall be charged in accordance with this section. (2) the tax shall be charged under case vi of schedule d at the rate of 40% on an amount equal to the value of the assets which immediately before the date of the cessation of the approval of the scheme are held for the purposes of the scheme (taking that value as it stands immediately before that date). (3) subject to section 591d(4), the person liable for the tax shall be the administrator of the scheme.
+section 591d(7) provided further guidance on the meaning of section 591c(1) as follows: the reference in section 591c(1) to an approval of a scheme ceasing to have effect is a reference to the scheme ceasing to be an approved scheme by virtue (a) of section 591a(2); (b) section 591b(1); or (c) of section 591b(2); the approval of the scheme being withdrawn under the approval of the scheme no longer applying by virtue and any reference in section 591c to the date of the cessation of the approval of the scheme shall be construed accordingly.
+the factual background
+mr and mrs john mander were the shareholders of john mander ltd. they were also its directors.
+on 24 september 1987 they created the john mander ltd directors pension scheme (the jm scheme).
+they were the beneficiaries of the jm scheme and they and a mr alexander jackson, who was the revenue approved pensioneer trustee, were its original trustees.
+on 9 september 1994 mr jackson resigned as a trustee of the jm scheme and djt trustees ltd (djt) were appointed in his place.
+on 5 november 1996 a series of events occurred which hmrc later treated as amounting to a tax avoidance device.
+first, mr and mrs mander resigned as trustees of the jm scheme and a guernsey based company, louvre trust co ltd (louvre), was appointed a trustee.
+secondly the new trustee (louvre) authorised the transfer of funds from the jm scheme to the vesuvius shipping ltd pension scheme (the vesuvius scheme), an insured executive pension plan of which mr and mrs mander were also members.
+mr mander, as agent of the jm scheme trustees, signed a cheque for 1,188,000 in favour of the trustees of the vesuvius scheme and the cheque was given to them.
+thirdly, the trustee and administrator of the vesuvius scheme were replaced by offshore trustees.
+at the time of the transfer of funds the vesuvius scheme was a revenue approved scheme, but its rules were subsequently changed to enable loans to be made which would not be permitted under an approved scheme.
+djt, after discovering what had occurred, resigned as pensioneer trustee of the jm scheme on 18 march 1997.
+on 20 june 1997 tm trustees ltd and mrs mander were appointed trustees of the jm scheme and louvre resigned as trustee.
+on 26 february 1998 louvre trustees ltd, a guernsey based company, was appointed a trustee of jm scheme and mrs mander resigned as trustee.
+hmrc wrote to the administrators of the jm scheme on 9 december 1997, suggesting that there had been a tax avoidance scheme and proposing to withdraw approval of the scheme with effect from 5 november 1996.
+lengthy correspondence followed.
+on 19 april 2000 hmrc gave notice of withdrawal of approval of the jm scheme with effect from 5 november 1996, under section 591b(1) of the ta.
+on 27 july 2000, in the year of assessment 2000 2001, hmrc made an assessment in the sum of 475,200 on louvre trustees ltd as administrator of the jm scheme.
+on 11 april 2001 sullivan j refused an application by mr mander for permission to apply for judicial review of hmrcs decision to withdraw approval from the jm scheme.
+on 22 january 2007 hmrc issued an assessment for the year 2000 2001 for 475,200 on the then current administrators of the jm scheme.
+the administrators appealed against the assessment, arguing that the tax should have been assessed in the tax year 1996 1997.
+they claimed that the 2000 2001 assessment was invalid and that hmrc were out of time to assess in the tax year 1996 1997.the appeal gave rise to the legal proceedings of which this appeal is part.
+the legal proceedings
+the first tier tribunal (tax chamber) designated the appeal as the lead case and in a decision (by judge mosedale and mr n collard) dated 28 october 2011 dismissed the appeal against the assessment, holding that the tax charge arose in the year ending 5 april 2001.
+on 28 january 2013 vos j sitting in the upper tribunal (tax and chancery chamber) upheld that decision and held that the current trustee of the jm scheme was liable for the tax assessed by the 27 july 2000 assessment.
+on 19 december 2013 the court of appeal (moses, patten and beatson ljj) dismissed the trustees appeal.
+the trustee appeals with permission to this court.
+discussion
+which was the correct year of assessment? was it 1996 1997 as the appellant submits or 2000 2001 as hmrc submit? this is a question of statutory interpretation and in particular of sections 591b(1), 591c(1) and (2) and 591d(7) of the ta.
+section 591b(1) provided for the withdrawal of approval by notice.
+in that respect it differed from the other methods of the cessation of approval which happened automatically on the occurrence of events without any intervention by hmrc.
+under section 591b, until hmrc served a notice, the pension scheme enjoyed revenue approval.
+but the section allowed hmrc to specify in the notice the date from which approval had ceased and that date could be earlier than the date of the notice.
+it was thus retrospective at least in the sense that it looked to the past and changed the future legal consequences of the transaction or transactions which gave rise to the withdrawal of approval.
+the appellants argue that the tax charge imposed by section 591c(1) was also retrospective in the more radical sense that it was retroactive, coming into force not at the date of the hmrc notice but at the earlier date of cessation of approval which was specified in the notice.
+this would have the effect of exposing trustees to claims for interest on unpaid tax from a date before they received notice of the withdrawal of approval.
+hmrc on the other hand submit that the tax charge arises only in the tax year in which the notice of withdrawal was served.
+the interest incurred may be very substantial.
+while the tax charge was in form a tax on income, using the residual charge to tax of case vi of schedule d (section 18 of the ta), it was in substance a charge not on actual annual profits or gains but of 40% of the capital value of the scheme assets.
+it was designed to recoup the tax advantages that the funds conferred when contributed to and kept in an approved scheme.
+both parties pray in aid of their cases the provisions of section 591d(7), which is not a straightforward provision.
+the appellants submit that the first part of the subsection merely identified the relevant statutory provisions in the three listed provisions and that the second part of the section was directed to the timing of the cessation of approval, including for the purposes of section 591c(1).
+in the case of a section 591b(1) notice, that is the date from which the notice took effect.
+hmrc on the other hand submit that the reference in the first part of the subsection to the three methods of cessation performed the substantive role of distinguishing their effect.
+thus on hmrcs case, section 591d(7) had the effect that the reference in section 591c(1) to the approval ceasing to have effect under circumstances (a) and (c) (ie sections 591a(2) and 591b(2)) was a reference to the automatic ending of the approval under those sections, whereas in circumstance (b) it was a reference to the withdrawal by notice under section 591b(1).
+the tax charge under section 591c(1) therefore occurred in the tax year in which the event occurred under section 591a(2) and 591b(2) or in the tax year in which the section 591b(1) notice is served.
+the date of the cessation, which is an expression used in section 591c(2), (5), (6) and (6a) but not in section 591c(1), was construed accordingly by reference to the date specified in the three listed subsections, which in the case of the section 591b(1) notice was the date specified in that notice.
+it is not disputed that in all circumstances the date of the cessation was the date from which hmrc approval ceased.
+while in this case it suits the appellants to submit that the year of assessment is 1996 1997 rather than 2000 2001, the effect of their submission would be that section 591c imposed a retroactive tax, potentially giving rise to a liability for substantial sums in interest on the charge from the date of the cessation of the approval, during a period in which the trustees of a scheme might otherwise have believed that they had a continuing hmrc approval.
+there is a strong common law presumption against retrospective tax legislation.
+in greenberg v inland revenue comrs [1972] ac 109, 143 lord morris of borth y gest stated: very clear words are necessary to overturn the presumption against the retroactive operation of a taxing provision.
+a provision designed to have retroactive operation would have to be enacted in clear and positive terms.
+while legislation to counter tax avoidance strategies may as a matter of sound policy involve retrospective provisions with retroactive effect, that policy does not remove the requirement for clear words.
+this accords with the general principle which lord wilberforce set out in w t ramsay ltd v inland revenue comrs [1982] ac 300, at p 323: a subject is only entitled to be taxed upon clear words, not upon intendment or upon the equity of an act.
+any taxing act of parliament is to be construed in accordance with this principle.
+what are clear words is to be ascertained upon normal principles: these do not confine the courts to literal interpretation.
+there may, indeed should, be considered the context and scheme of the relevant act as a whole, and its purpose may, indeed should, be regarded.
+section 591b(1) is retrospective and has the potential for a limited retroactive effect in that it allows the withdrawal of approval from a date earlier than the notice of withdrawal.
+but, importantly, the retroactive withdrawal of approval does not of itself give rise to any tax charge, retroactive or otherwise.
+in this case section 591c(1) provided that tax shall be charged where an approval of a scheme ceases to have effect.
+i agree with judge mosedale (para 121) that synonyms of where are the word whenever or the phrase if at any time.
+where the approval did not cease automatically but required the service of a notice by hmrc, the subsection did not deem tax to have been charged at a date earlier than the date on which the notice was served.
+like lord carnwath i interpret the subsection as looking to the future, consistently with but independently of the presumption that legislation speaks only as to the future: west v gwynne [1911] 2 ch 1, 12 per buckley lj.
+in my view, by itself section 591c(1) pointed to a charge to tax in the tax year in which a section 591b(1) notice was issued.
+subsection (2), which imposed the capital charge, specified the rate of the charge by reference to the value of the assets immediately before the cessation of the approval of the scheme but made no statement as to the tax year in which that charge was to fall.
+the other relevant provision is section 591d(7).
+while it is possible to construe the subsection as the appellants urge, i am not persuaded by that interpretation.
+in particular, i am not satisfied that the subsection contains clear and positive words to give retroactive effect to the section 591c tax charge in the circumstances of a section 591b(1) notice.
+like moses lj (at paras 18 22 of his judgment), i consider that it is no accident that different wording was adopted in section 591d(7), defining on the one hand approval of a scheme ceasing to have effect (the phrase used in section 591c(1)) and on the other the date of the cessation of the approval.
+in relation to the former expression the subsection looked to the process by which withdrawal occurred; in the context of section 591d(7)(b) it referred to the notice of withdrawal of approval.
+the service of the notice withdrew the approval.
+i see no ambiguity there.
+there is also no doubt that the latter expression referred to the date from which approval ceased to have effect.
+that is the date which hmrc specified in its section 591b(1) notice, or the date when a scheme ceased to be an approved scheme automatically either under section 591a(2) on the expiry of time after the commencement of the section 591 regulations or on an unauthorised alteration of a scheme under section 591b(2).
+in each case the concluding phrase of section 591d(7) invited the reader to turn to whichever of the three enumerated statutory provisions was relevant to ascertain the date of cessation: the date was construed according to sections 591a(2), 591b(1) or 591b(2) as the case may be.
+where there was a section 591b(1) notice, it is the date of cessation specified in that notice.
+this interpretation of the relevant provisions avoids a retroactive tax charge where there are no clear words imposing such a charge.
+it is consistent with that of the first tier tribunal, which vos j in the upper tribunal and the court of appeal upheld.
+their unanimity strongly suggests that the clarity needed for a retroactive provision is lacking.
+the presumption against retrospective tax charges is an important principle of statutory interpretation which in my view justifies the dismissal of this appeal.
+there is also a good reason why the tax charge arising from withdrawal of approval under section 591b(1) is treated differently from the charge that arises out of the automatic cessation of approval in sections 591a(2) and 591b(2).
+parliament has not enacted that any circumstance justifying cessation of approval automatically results in that cessation, as in the latter provisions.
+it required hmrc to give notice of withdrawal of approval when they were aware of facts which merited that withdrawal.
+where parliament provided for automatic cessation of approval, the trustees of a relevant scheme were in a position to inform themselves as to the requirements of the regulations and to make sure that their scheme complied with them (section 591a(2)) and they would also know if they altered the terms of the scheme without hmrc approval (section 591b(2)).
+by contrast, the trustees of a scheme might be unaware of circumstances which later caused hmrc to withdraw the approval of their scheme, for example, as occurred in this case, where the transactions which ultimately caused the removal of the approval were carried out by trustees of another scheme into which funds had been transferred.
+to impose on the trustees a liability in interest for unpaid tax arising from circumstances of which they were unaware would be to tax retroactively.
+other arguments have been aired which i have not found persuasive.
+i summarise them briefly.
+first, the appellants derived support from section 61 of the finance act 1995, which, as i have said, introduced sections 591c and 591d into the ta.
+section 61(3) provided: this section shall apply in relation to any approval of a retirement benefits scheme which ceases to have effect on or after 2 november 1994 other than an approval ceasing to have effect by virtue of a notice given before that day under section 591b(1) of the taxes act 1988.
+this transitional provision was designed to make sure that the tax charge under section 591c did not apply unless both the cessation of approval and the giving of the section 591b(1) notice occurred after 2 november 1994.
+mr thornhill for the appellants was correct in his submission that the draftsman of this provision must have thought that the date of an approval ceasing to have effect was not the same as the date of the section 591b notice.
+but, to my mind dubiously, the provision appears to assume that a section 591b notice could be made prospectively.
+in my view that understanding in a transitional provision, which did not become part of the corpus of the ta, does not provide the needed clarity to construe the substantive tax provision, section 591c, as a retroactive tax charge.
+secondly, i was initially impressed by the respondents argument that, if the correct year of assessment when hmrc issued a section 591b(1) notice were the year of the date of cessation, it might be impracticable for hmrc to obtain the needed knowledge of offending transactions within the ordinary time limits under sections 34 and 36 of the taxes management act 1970.
+those provisions require hmrc to make an assessment to tax within six years after the end of the chargeable period to which the assessment relates unless any form of fraud or wilful default has been committed.
+but after the parties provided further information, at the courts request, on the matters which administrators have to report to hmrc, the argument lost much of its force.
+the retirement benefits schemes (information powers) regulations 1995 (si 1995/3103) required the administrator to report certain payments or transfers of scheme funds.
+at the time of the transfer to the vesuvius scheme the regulations did not require the reporting of a transfer from a small self administered scheme to an executive pension plan.
+the tax avoidance scheme in this case exploited that loophole, which was later closed by the retirement benefits schemes (information powers) (amendment) regulations 2002 (si 2002/3006).
+it appears that the administrator of the vesuvius scheme had no statutory duty to report and did not report the change of rules which permitted it to make loans.
+but the relevant regulations could have been amended to require the reporting of events which might lead to the withdrawal of approval.
+thirdly and conversely, i am not swayed by mr thornhills observation that the interpretation that has found favour in the court of appeal and tribunals below would enable hmrc to impose a tax charge under section 591c which circumvented those ordinary time limits under sections 34 and 36 of the taxes management act 1970.
+he is correct.
+but the tax charge was enacted to discourage abusive arrangements and thus differs from normal charges to tax.
+further, i do not accept his submission that hmrc could impose such a charge at any time: hmrc would be subject to a judicial review challenge if they acted capriciously or delayed unreasonably in their withdrawal of approval and imposition of the tax charge.
+finally, i do not derive assistance from the scottish tax case of spence v inland revenue comrs (1941) tc 311.
+it concerned an assessment to surtax which a taxpayer had to pay after he had rescinded a contract for the sale of shares on the ground that it had been induced by fraudulent misrepresentation.
+the dividends had been paid to the purchaser in the interim, but the taxpayer achieved restitutio in integrum through the setting aside of the sale, the retransfer of the shares and the payment of a sum representing the dividends.
+the revenue repaid the surtax assessed on the dividends to the fraudulent purchaser and assessed the taxpayer instead.
+in my view it is unsurprising that the inner house upheld the assessments of the taxpayer in the years of assessment in which the dividends had been paid by the company, as the setting aside of the sale of the shares restored the taxpayer to the position that he had been in ab initio.
+the case involved no imposition of a retroactive tax charge by parliamentary legislation but only the application of normal tax rules to circumstances which the general law had reinstated.
+conclusion
+i am with respect unable to agree with the majority as i consider that their views give insufficient weight to the statutory language in the light of the important presumption against retroactive taxation.
+i would dismiss the appeal.
+lord carnwath: (who agrees with lord hodge)
+appeal should be dismissed for the reasons given by lord hodge.
+the principal difficulty i see with the alternative view is that it is inconsistent with the language of the statute, in particular of the charging provision.
+section 591c(1) is expressed in unequivocal terms.
+it is directed to the future: tax shall be charged .
+similarly, the occasion of the charge is fixed by reference to the future not the past: where an approval ceases to have effect, defined (by section 591d(7)(b)) as a reference to the approval being withdrawn under section 591b(1).
+that sub section in turn makes clear that the approval is withdrawn by notice to the administrator, although it will take effect from an earlier date determined by the board as specified in the notice.
+taken together, to my mind, those provisions indicate unambiguously that the charge arises in the year when the notice is served, not some earlier year.
+i do not see how the majoritys interpretation can be achieved without reading into section 591c(1) words which are not there.
+that view is reinforced by the strong presumption against retroactivity, to which lord hodge has referred.
+in respectful disagreement with the majority, i would have held that the accordingly might be thought to point to the date of cessation of the approval being the same as the date of withdrawal under paragraph (b).
+that is not a problem which we need to resolve, since it is common ground that it refers to the date from which the withdrawal takes effect, as specified in the notice.
+this seems to me at least a possible interpretation (on either view of the charging provision), and it is one clearly justified by a purposive approach to the use of the expression cessation of the approval where it occurs in section 591c.
+however, it has no direct relevance to section 591c(1), which does not use that expression.
+i can see no principled basis for using that possible difficulty as an excuse for rewriting the otherwise clear words of the charging provision.
+the main argument to the contrary turns on the last words of section 591d(7), which as all agree is not clearly drafted.
+at first sight, the words shall be construed

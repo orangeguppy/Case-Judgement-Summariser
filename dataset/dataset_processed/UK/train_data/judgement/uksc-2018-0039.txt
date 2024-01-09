@@ -1,0 +1,202 @@
+counsel for the respondent, jonathan crow qc, boldly asserted at the outset of his submissions that this case is in fact bristling with simplicity.
+the issue is certainly a simple one.
+the claim is brought by a company (through its liquidators) against its investment bank and broker for breach of the so called quincecare duty of care.
+in barclays bank plc v quincecare ltd [1992] 4 all er 363, steyn j held that it was an implied term of the contract between a bank and its customer that the bank would use reasonable skill and care in and about executing the customers orders; this was subject to the conflicting duty to execute those orders promptly so as to avoid causing financial loss to the customer; but there would be liability if the bank executed the order knowing it to be dishonestly given, or shut its eyes to the obvious fact of the dishonesty, or acted recklessly in failing to make such inquiries as an honest and reasonable man would make; and the bank should refrain from executing an order if and for so long as it was put on inquiry by having reasonable grounds for believing that the order was an attempt to misappropriate funds.
+the issue in this case is whether such a claim is defeated if the companys instructions were given by the companys chairman and sole share holder who was the dominant influence over the affairs of the company.
+can his fraud be attributed to the company? and if so, is the claim then defeated, whether on grounds of illegality, of causation, or by an equal and opposite claim against the company in deceit?
+the background
+the respondent company, singularis, is a company registered in the cayman islands, set up to manage the personal assets of a saudi arabian business man, maan al sanea, separately from his business group.
+at all times material to this claim, mr al sanea was its sole shareholder, a director and also its chairman, president and treasurer.
+there were six other directors, who were reputable people, but did not exercise any influence over the management of the company.
+very extensive powers were delegated to mr al sanea to take decisions on behalf of the company, including signing powers over the companys bank accounts.
+the company had a substantial and legitimate business, carried out over a number of years before the relevant events, for which it borrowed substantial sums of money under a variety of funding arrangements.
+the appellant, daiwa, is the london subsidiary of a japanese investment bank and brokerage firm.
+in 2007, it entered into a stock financing arrangement with singularis.
+daiwa provided singularis with loan financing to enable it to purchase shares which were the security for the repayment of the loan.
+in june 2009, all the shares were sold, the loan was repaid, and daiwa was left holding a cash surplus for the account of singularis.
+together with a sum of us$80m deposited by singularis in june 2009, the total held to singularis account was approximately us$204m.
+between 12 june and 27 july 2009, daiwa was instructed by singularis to make eight payments, totalling approximately us$204,500,000, out of the money held to singularis account.
+five of those payments were to the saad specialist hospital company.
+three of them were to or for the benefit of saad air (a320 no 2) ltd and saad air (a340 600) ltd (together, saad air).
+those instructions were given with the approval of mr al sanea who, as between singularis and daiwa, had authority to give instructions to make the payments.
+daiwa made those payments.
+the judge held that each of the payments was indeed a misappropriation of singularis funds because there was no proper basis for any of them.
+there has been no appeal against that finding.
+on 20 august 2009, mr al sanea placed singularis in voluntary liquidation.
+on 18 september 2009 the grand court of the cayman islands made a compulsory winding up order and joint liquidators were appointed.
+on 18 july 2014, singularis, acting through its joint liquidators, brought a claim against daiwa for the full amount of the payments (less any sums recovered either from mr al sanea or the recipients of the payments).
+there were two bases for the claim: (1) dishonest assistance in mr al saneas breach of fiduciary duty in misapplying the companys funds; and (2) breach of the quincecare duty of care to the company by giving effect to the payment instructions.
+in the chancery division of the high court, rose j dismissed the dishonest assistance claim because daiwas employees had acted honestly.
+however, she upheld the negligence claim, while making a deduction of 25% under the law reform (contributory negligence) act 1945 to reflect the contributory fault of mr al sanea and the companys inactive directors, for which the company was responsible: [2017] ewhc 257 (ch); [2017] bus lr 1386.
+singularis did not appeal against the dismissal of the dishonest assistance claim.
+daiwa did appeal against the finding of liability on the negligence claim.
+the court of appeal unanimously dismissed the appeal: [2018] ewca civ 84; [2018] 1 wlr 2777.
+in brief, it held (1) that mr al saneas fraudulent state of mind could not be attributed to the company; but (2) even if it could, the claim would still have succeeded the banks negligence had caused the loss, it was not defeated by a defence of illegality, or by an equal and opposite claim by the bank for the companys deceit; and (3) the judges finding of 25% contributory negligence was a reasonable one.
+daiwa now appeals to this court on the question of attribution and its consequences.
+two broad issues arise. (1) when can the actions of a dominant personality, such as mr al sanea, who owns and controls a company, even though there are other directors, be attributed to the company? (2) if they are attributed to the company, is the claim defeated (i) by illegality; (ii) by lack of causation because the banks duty of care does not extend to protecting the company from its own wrongdoing or because the company did not rely upon its performance; or (iii) by an equal and countervailing claim in deceit?
+the starting point
+the starting point must be the judges findings, none of which is under appeal.
+she held that there was no good reason to make the payments to saad air and that it was a breach of fiduciary duty for mr al sanea to direct singularis to make them (para 120).
+she also held that the agreement made between singularis and the hospital to pay the expenses of the hospital was a sham and the five payments were a misappropriation of the companys money by mr al sanea in breach of his fiduciary duty (paras 121 127).
+as sole shareholder he was not entitled to ratify the misappropriation of company funds because he must have known that the company was on the verge of insolvency and his duty as director was to act in the best interests of the companys creditors.
+this precluded making gratuitous payments to other companies in the saad group to the detriment of singularis creditors (paras 128 137).
+she went on to hold that daiwa was in breach of the quincecare duty on the facts of the case.
+any reasonable banker would have realised that there were many obvious, even glaring, signs that mr al sanea was perpetrating a fraud on the company.
+he was clearly using the funds for his own purposes and not for the purpose of benefiting singularis (para 192).
+first, daiwa was well aware of the dire financial straits in which mr al sanea and the saad group found themselves at the end of may and in early june 2009 (paras 193 196).
+second, it was aware that singularis might have other substantial creditors with an interest in the money (para 197).
+third, there was plenty of evidence to put daiwa on notice that there was something seriously wrong with the way that mr al sanea was operating the singularis account (para 199).
+fourth, it was alive to the possibility that the agreement with the hospital was a front or a cover rather than a genuine obligation (para 200).
+fifth, there was a striking contrast between the way in which some payment requests were processed and how the disputed payments were handled (para 201).
+in short everyone recognised that the account needed to be closely monitored but no one in fact exercised care or caution or monitored the account themselves and no one checked that anyone else was actually doing any exercising or monitoring either (para 202).
+on the basis of those findings, the judge held that there was a clear breach of daiwas quincecare duty of care to singularis.
+that is incontrovertible.
+the issue for this court, as in the courts below, is whether daiwa has any defence to that claim.
+the issue of attribution has to be seen in the context of the possible defences to which it might give rise.
+were attribution to be established, daiwa raises three possible defences.
+it is worth giving a brief account of each of these before turning to the question of attribution.
+it will be seen that, even if attribution were established, none of them is a very promising basis for denying liability.
+illegality
+both the judge and the court of appeal rejected the illegality defence raised by daiwa on two grounds: first, that mr al saneas fraud could not be attributed to the company ie held to be the companys fraud for this purpose (rose j, paras 208 to 215; ca, paras 50 to 60); and second, in any event, the test for a successful illegality defence, laid down by this court in patel v mirza [2016] uksc 42; [2017] ac 467, was not met (rose j, paras 216 to 220; ca, paras 61 to 67).
+patel v mirza was a restitution claim.
+mr patel agreed to pay 620,000 to mr mirza on the basis that mr mirza would use it to bet on the price of shares using inside information that mr mirza expected to receive.
+this was a conspiracy to commit the offence of insider dealing contrary to section 52 of the criminal justice act 1993.
+however, the inside information was not forthcoming and the bets were never placed.
+mr patel asked for his money back and mr mirza refused.
+he argued that the claim was barred by illegality because mr patel would have to prove the illegal agreement under which the money was paid in order to prove that the purpose had failed and he should get it back.
+a panel of nine supreme court justices was convened to hear the appeal, because of the perceived conflict between the decisions of this court in hounga v allen [2014] uksc 47; [2014] 1 wlr 2889, les laboratoires servier v apotex inc [2014] uksc 55; [2015] ac 430, and bilta (uk) ltd v nazir (no 2) [2015] uksc 23; [2016] ac 1.
+by a majority of six to three, the court rejected the approach of the house of lords in tinsley v milligan [1994] 1 ac 340, which depended on whether or not the claimant had to plead the illegal agreement in order to succeed.
+instead it adopted the approach summed up by lord toulson, who gave the leading judgment, at para 120: the essential rationale of the illegality doctrine is that it would be contrary to the public interest to enforce a claim if to do so would be harmful to the integrity of the legal system in assessing whether the public interest would be harmed in that way, it is necessary (a) to consider the underlying purpose of the prohibition which has been transgressed and whether that purpose will be enhanced by denial of the claim, (b) to consider any other relevant public policy on which the denial of the claim may have an impact and (c) to consider whether denial of the claim would be a proportionate response to the illegality, bearing in mind that punishment is a matter for the criminal courts.
+in that case, it was not contrary to the public interest to allow mr mirza to recover the money which he had paid for an illegal purpose but which had not been used for that purpose.
+in wanting it back he was seeking to unwind the arrangement, not to profit from it.
+in this case, the illegality relied on was, in relation to some of the payments, mr al saneas provision of documents which he knew to be false and, in relation to all of the payments, his breach of his fiduciary duty towards singularis.
+the judge held that the purpose of the prohibition of breach of fiduciary obligation was to protect the company from becoming the victim of the wrongful exercise of power by officers of the company.
+that purpose would certainly not be enhanced by preventing the company from getting back the money which had been wrongfully removed from its account.
+the purpose of the prohibition of making false statements was both to protect the bank from being deceived and the company from having its funds misappropriated.
+although the purpose of protecting the bank would be enhanced by denial of the claim, that purpose was achieved by ensuring that the bank was only liable to repay the money if the quincecare duty was breached: that duty struck a careful balance between the interests of the customer and the interests of the bank.
+it would not enhance the integrity of the law to undermine that balance by denying the claim on grounds of illegality in a case where, ex hypothesi, the exceptional circumstances needed for the duty to arise and be breached are found to be present. (para 218)
+turning to whether there might be any other relevant public interests, she held that denial of the claim would have a material impact upon the growing reliance on banks and other financial institutions to play an important part in reducing and uncovering financial crime and money laundering.
+if a regulated entity could escape from the consequences of failing to identify and prevent financial crime by casting on the customer the illegal conduct of its employees that policy would be undermined (para 219).
+finally, denial of the claim would be an unfair and disproportionate response to any wrongdoing on the part of singularis.
+the possibility of making a deduction for contributory negligence on the customers part enables the court to make a more appropriate adjustment than the rather blunt instrument of the illegality defence (para 220).
+the court of appeal took the view that there was no error in the judges approach.
+barring singularis claim would serve to undermine the carefully calibrated quincecare duty and would not be a proportionate response, particularly where daiwas breaches were so extensive and the fraud was so obvious (para 66).
+mr john mccaughran qc, who appears for daiwa, argues that the judge went wrong at each stage of the analysis.
+the purpose of the prohibition of deceit is to encourage honest dealing.
+the integrity of the legal system is not enhanced by allowing fraudulent companies to recover damages in respect of their fraud.
+if this is adequately addressed by the carefully calibrated quincecare duty, it leaves no room for the application of the illegality defence.
+as to the public policy of enlisting banks and financial institutions in the fight against financial crime and money laundering, there already existed important incentives in the regulatory regime for banks and brokers to detect financial crime.
+there was no need for a further incentive in the form of a damages claim by the company.
+denying the claim would be a proportionate response to the companys wrongdoing.
+daiwas arguments necessarily depend upon a finding that mr al saneas fraud was the companys fraud, an issue which is discussed later.
+but even if it was, in my view the judges conclusion was correct for the reasons she gave.
+i should, however, record my reservations about the view expressed by the court of appeal as to the role of an appellate court in relation to the illegality defence: that an appellate court should only interfere if the first instance judge has proceeded on an erroneous legal basis, taken into account matters that were legally irrelevant, or failed to take into account matters that were legally relevant (para 65).
+daiwa point out that applying the defence is not akin to the exercise of discretion (citing lord neuberger in patel v mirza, at para 175) and an appellate court is as well placed to evaluate the arguments as is the trial judge.
+it is not necessary to resolve this in order to resolve this appeal and there are cases concerning the illegality defence pending in the supreme court where it should not be assumed that this court will endorse the approach of the court of appeal.
+causation
+daiwa argues that, if the fraud is attributed to the company, the companys loss is caused by its own fault and not by the fault of daiwa.
+in reeves v comr of police of the metropolis [2000] 1 ac 360, at 368, lord hoffmann referred to the sound intuition that there is a difference between protecting people against harm caused to them by third parties and protecting them against harm which they inflict upon themselves people of full age and sound understanding must look after themselves and take responsibility for their actions.
+this was a case, argues daiwa, in which the company inflicted the harm upon itself.
+against that, lord hoffmann went on to say that this philosophy expresses itself in the fact that a duty to protect a person of full understanding from causing harm to himself is very rare indeed.
+but, once it is admitted that this is the rare case in which such a duty is owed, it seems to me self contradictory to say that the breach could not have been a cause of the harm because the victim caused it to himself.
+this is just such a case: the purpose of the quincecare duty is to protect a banks customers from the harm caused by people for whom the customer is, one way or another, responsible.
+hence mr crow argues that the loss was caused, not by the dishonesty, but by daiwas breach of its duty of care.
+had it not been for that breach, the money would still have been in the companys account and available to the liquidators and creditors.
+this was not a case where the companys act came after daiwas breach of duty (unlike reeves, where the prisoners suicide came after the polices breach of duty).
+the fraudulent instruction to daiwa gave rise to the duty of care which the bank breached, thus causing the loss.
+countervailing claim in deceit
+daiwa argues that because it would have an equal and countervailing claim in deceit against the company, the companys claim in negligence should fail for circularity.
+they paid out because of the companys deceit and therefore have a claim against the company for any loss suffered by their exposure to singularis claim.
+this cancels out the companys claim against them for negligence in failing to detect the fraud.
+this is a variant of the causation argument and the judge answered it by reference to two decisions of evans lombe j in barings plc v coopers & lybrand (no 2) [2002] ewhc 461 (ch); [2002] 2 bclc 410 and [2003] ewhc 1319 (ch); [2003] pnlr 34.
+these were proceedings brought by barings against their auditors for failing to detect the dealings of mr nick leeson which led to the downfall of the bank.
+the first decision concerned the allegation of the auditors that they had been deceived by barings finance director into accepting figures which he knew to be false.
+that claim failed on the facts, but had it succeeded, the judge would have held that barings were vicariously responsible for the deception and this would have defeated the negligence claim.
+the second decision concerned the activities of mr leeson.
+fraudulent though they were, they did not defeat the banks claim because it was the very duty of the auditors to detect the fraud.
+thus, in this case, the judge held that daiwa owed singularis a duty to guard against being misled into paying away singularis money by just such fraudulent instructions.
+their breach, and not mr al saneas misrepresentations, is the cause of their exposure to the claim for singularis loss (rose j, para 228).
+daiwa sought to distinguish barings on the basis that barings were merely vicariously liable for mr leesons fraud, whereas, if it is right about attribution, in this case the fraud is the fraud of the company itself and not just one of its employees.
+the court of appeal rejected this argument and upheld the reasoning of the judge: the existence of the fraud was a precondition for singularis claim based on breach of daiwas quincecare duty, and it would be a surprising result if daiwa, having breached that duty, could escape liability by placing reliance on the existence of the fraud that was itself a pre condition for its liability (ca, para 79).
+attribution
+daiwa argues that, as singularis was effectively a one man company and mr al sanea was its controlling mind and will, his fraud is to be attributed to the company, with the consequence that its quincecare claim against daiwa is defeated, either by illegality, or for lack of causation, or because of an equal and opposite claim for the companys deceit.
+to examine such an assertion, it is necessary to go back to basic principles.
+the starting point has to be the principle established by the house of lords in salomon v a salomon and co ltd [1897] ac 22, that a properly incorporated company has an identity and legal personality quite separate from that of its subscribers, shareholders and directors.
+mr salomon had established the company, with his family, to buy his boot and shoe manufacturing business at a time when it was solvent.
+when it later became insolvent, he was entitled to enforce the debentures granted by the company in part payment of the price and he was not obliged to indemnify the company against the claims of its creditors.
+it is also worth recalling the words of lord macnaghten, at p 53, that it has become the fashion to call companies of this class one man companies.
+that is a taking nickname, but it does not help one much in the way of argument.
+companies being fictional persons, they have of course to act through the medium of real human beings.
+so the issue is when the acts and intentions of real human beings are to be treated as the acts and intentions of the company.
+the classic exposition is to be found in the opinion of the judicial committee of the privy council in meridian global funds management asia ltd v securities commission [1995] 2 ac 500, delivered by lord hoffmann.
+he identified three levels of attribution (at pp 506 507).
+the primary rule is contained in the companys constitution, its articles of association, which will typically say that the decisions of the shareholders or of the board of directors are to be the decision of the company on certain matters.
+but this will not cover the whole field of the companys decision making.
+for this, the ordinary rules of agency and vicarious liability, which apply to natural persons just as much as to companies, will normally supply the answer.
+however there will be some particular rules of law to which neither of these principles supplies the answer.
+the question is not then one of metaphysics but of construction of the particular rule in question.
+in seeking to establish attribution in this case, daiwa prays in aid the decision of the house of lords in stone & rolls ltd v moore stephens [2009] ukhl 39; [2009] 1 ac 1391.
+the claimant company was owned, controlled and managed by a mr stojevic, who had procured the company to engage in frauds upon banks.
+the company was sued for deceit by one of the banks and went into liquidation.
+the company then brought proceedings against its auditors, alleging that they had been negligent in failing to detect and prevent mr stojevics activities.
+the auditors applied to strike out the claim on the basis that mr stojevics fraud was to be attributed to the company.
+the trial judge refused to strike it out, on the basis that such fraud was the very thing that the auditors were employed to detect.
+the court of appeal held that, as the company had to rely upon the illegality to found its claim, the defence of illegality was made out (this was, of course, before patel v mirza).
+the house of lords, by a majority, held that, as mr stojevic was the beneficial owner and directing mind and will of the company, knowledge of his fraudulent activities was to be attributed to the company, so the company could not complain that the auditors had failed to detect it.
+lord mance, dissenting, pointed out that this deprived the companys creditors of a remedy, as it was only the company which could sue the auditors for their negligence.
+it appears that what principally divided their lordships was whether the auditors had to have regard to the interests of creditors even though they owed them no duty of care.
+stone & rolls has prompted much debate and criticism.
+it was analysed in detail by a panel of seven justices of this court in bilta (uk) ltd v nazir (no 2) [2015] uksc 23; [2016] ac 1.
+the company and its liquidators brought claims against its directors and others who were alleged to have dishonestly assisted the directors in a conspiracy to defraud the company.
+the claim was defended on the basis that the fraud of its directors was attributable to the company which could not then make a claim against the other conspirators relying on its own illegality.
+this court held unanimously that where a company has been the victim of wrongdoing by its directors, the wrongdoing of the directors cannot be attributed to the company as a defence to a claim brought against the directors and their co conspirators by the companys liquidator for the loss suffered by the company as a result of the wrongdoing.
+the court explained that the key to any question of attribution was always to be found in considerations of the context and the purpose for which the attribution was relevant.
+where the purpose was to apportion responsibility between the company and its agents so as to determine their rights and liabilities to one another, the answer might not be the same as where the purpose was to apportion responsibility between the company and a third party.
+stone & rolls was a case between a company and a third party.
+lords toulson and hodge, after analysing the judgments in detail, reached the conclusion (para 154) that it should be regarded as a case which has no majority ratio decidendi.
+it stands as authority for the point which it decided, namely that on the facts of that case no claim lay against the auditors, but nothing more.
+lord sumption identified three points for which it was authority (para 80), but lord neuberger, with whom lord clarke and lord carnwath agreed, agreed with only two of these (para 26).
+the first was that an illegality defence cannot be run by a third party against a company where there are innocent shareholders or directors.
+the second was that the defence was available, albeit only on some occasions, where there are no innocent directors or shareholders.
+lord mance agreed with the first of these but as to the second he commented that it appears [to be] a factually correct representation of the outcome of stone & rolls, though the present appeal does not raise the correctness in law of that outcome, which may one day fall for reconsideration (para 50).
+subject to the two points with which he agreed, lord neuberger said this: [t]he time has come in my view for us to hold that the decision in stone & rolls should as lord denning mr graphically put it in relation to another case in in re king, decd [1963] ch 459, 483, be put on one side in a pile and marked not to be looked at again.
+without disrespect to the thinking and research that went into the reasoning of the five law lords in that case, and although persuasive points and observations may be found from each of the individual opinions, it is not in the interests of the future clarity of the law for it to be treated as authoritative or of assistance save as already indicated. (para 30)
+unfortunately, the majoritys acceptance of the second point has been treated as if it established a rule of law that the dishonesty of the controlling mind in a one man company could be attributed to the company with the consequences discussed earlier whatever the context and purpose of the attribution in question.
+thus there was much argument in this case about what was meant by innocent directors and whether this included innocent but inactive directors who should have been paying more attention to what mr al sanea was doing.
+the judge found that singularis was not a one man company in the sense that the phrase was used in stone & rolls and bilta (rose j, para 212).
+the company had a board of reputable people and a substantial business.
+there was no evidence to show that the other directors were involved in or aware of mr al saneas actions.
+there was no reason why they should have been complicit in his misappropriation of the money (para 189).
+the court of appeal held that, on those findings of fact, she had made no error of law (ca, para 54).
+i agree.
+but in any event, in my view, the judge was correct also to say that there is no principle of law that in any proceedings where the company is suing a third party for breach of a duty owed to it by that third party, the fraudulent conduct of a director is to be attributed to the company if it is a one man company.
+in her view, what emerged from bilta was that the answer to any question whether to attribute the knowledge of the fraudulent director to the company is always to be found in consideration of the context and the purpose for which the attribution is relevant (para 182).
+i agree and, if that is the guiding principle, then stone & rolls can finally be laid to rest.
+the context of this case is the breach by the companys investment bank and broker of its quincecare duty of care towards the company.
+the purpose of that duty is to protect the company against just the sort of misappropriation of its funds as took place here.
+by definition, this is done by a trusted agent of the company who is authorised to withdraw its money from the account.
+to attribute the fraud of that person to the company would be, as the judge put it, to denude the duty of any value in cases where it is most needed (para 184).
+if the appellants argument were to be accepted in a case such as this, there would in reality be no quincecare duty of care or its breach would cease to have consequences.
+this would be a retrograde step.
+daiwa makes two further arguments essentially policy arguments against this conclusion.
+first, it argues that it is odd if the claim of a company arising out of the dishonest activities of its directing mind and will against a negligent auditor fails (as in stone & rolls and in berg sons & co ltd v adams [1993] bclc 1045) but a claim against a negligent bank or broker succeeds.
+but (quite apart from the difficulties of stone & rolls) this ignores the fact that the duties of auditors are different from the duties of banks and brokers.
+the auditors duty is to report on the companys accounts to those having a proprietary interest in the company or concerned with its management and control.
+if the company already knows the true position (as in berg) then the auditors negligence does not cause the loss.
+second, daiwa argues that the law should not treat a company more favourably than an individual.
+in luscombe v roberts (1962) 106 sj 373, a solicitors claim against his negligent accountants failed because he knew that what he was doing transferring money from his clients account into his firms account and using it for his own purposes was wrong.
+but companies are different from individuals.
+they have their own legal existence and personality separate from that of any of the individuals who own or run them.
+the shareholders own the company.
+they do not own its assets and a sole shareholder can steal from his own company.
+i therefore see nothing in those arguments to detract from the conclusion reached that, for the purpose of the quincecare duty of care, the fraud of mr al sanea is not to be attributed to the company.
+however, even if it were, for the reasons given earlier, none of the defences advanced by daiwa would succeed.
+conclusion
+in reaching this conclusion in such short order, i mean no disrespect to the lengthy arguments of counsel or to the impressive judgments in the courts below.
+but mr crow was correct to say that this case is bristling with simplicity.
+a company with a substantial business traded for some years and ran up debts in doing so.
+it also had a substantial sum of money standing to its credit, as a result of its legitimate business activities, with its broker bankers.
+when it appeared that the company was running into difficulties, its directing mind and sole shareholder fraudulently deprived the company of that money by directing daiwa to pay it away.
+daiwa should have realised that something suspicious was going on and suspended payment until it had made reasonable enquiries to satisfy itself that the payments were properly to be made.
+the company (and through the company its creditors) has been the victim of daiwas negligence.
+this appeal should be dismissed and the judges order should stand.

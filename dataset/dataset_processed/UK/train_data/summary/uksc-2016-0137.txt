@@ -1,0 +1,55 @@
+in 2007 the respondent (pbl) purchased the former chelsea barracks in london from the ministry of defence (mod) for 959m.
+in order make the purchase, pbl obtained finance from a qatari bank, masraf al rayan (mar), which specialises in islamic finance.
+islamic finance seeks to comply with sharia law, which forbids the payment of interest in connection with the lending of money.
+in this case, the sharia compliant funding model used is known as ijara finance.
+on 5 april 2007, pbl and the mod entered into a contract to purchase the barracks.
+on 29 january 2008, pbl contracted to sub sell the freehold to mar.
+also on 29 january 2008, mar agreed to lease the barracks back to pbl.
+upon completion, on 31 january 2008, the following occurred: (a) mar and pbl entered into put and call options respectively requiring or entitling pbl to repurchase the freehold in the barracks; (b) the mod conveyed the freehold in the barracks to pbl; (c) pbl conveyed the freehold in the barracks to mar, and (d) immediately after that, mar leased the barracks back to pbl.
+on 22 february 2008, pbl lodged a tax return in relation to the contract between it and mod and claimed that there was no liability to stamp duty land tax (sdlt) because of the sub sale relief provision in s45(3) of the finance act 2003 (fa 2003).
+a return lodged by mar relating to the sale agreement between pbl and mar claimed alternative property finance relief under s71a of fa 2003.
+section 71a relief was also claimed in relation to the lease by mar to pbl on 31 january 2008.
+consequently, the parties to the scheme transactions claimed that nobody incurred a liability to sdlt.
+the appellants (hmrc) challenged the return made by pbl and issued a closure notice which amended the amount of sdlt due from 0 to 38.36m (the sum which would have been due on the sale by the mod to pbl if that were a chargeable transaction).
+pbl appealed to the first tier tribunal (ftt).
+in the ftt, hmrc successfully applied to amend its case to increase the amount of sdlt due from 38.36m to 50m (based on the total consideration which mar agreed to provide pbl).
+upon appeal to the upper tribunal (ut), pbl changed its position and argued that mar was not entitled to s71a relief because, on a proper understanding of the related provisions of the fa 2003, mod was the vendor of the barracks in terms of s71a(2).
+however, the ut concluded that pbl was the vendor.
+the court of appeal (coa) found, amongst other things, that the vendor was mod, and not pbl, with the result that s71a(2) did not exempt mar from charge.
+the coa found that pbl could not be the vendor due to s45(3) which disregarded the contract between mod and pbl for the purchase of the barracks.
+as a result of this disregard, pbl had no chargeable interest so as to be regarded as entering into the sub sale contract with mar.
+the principal question in the appeal to the supreme court is whether pbl is due to pay sdlt of 50m arising out of its purchase from the mod.
+the appeal is allowed.
+lord hodge gives the majority judgment with which lady hale, lord hughes and lord lloyd jones agree.
+lord briggs gives a dissenting judgment [93 129].
+the ut correctly concluded that pbl was the vendor under s71a(2) and therefore that mars purchase of the barracks from pbl was exempt from sdlt [23].
+various reasons support this finding.
+for instance, there is nothing within s71a which suggests that the exemption in s71a(2) will not apply when the sale by the customer to the financial institution is a sub sale which takes place contemporaneously and in connection with the customers purchase of the major interest in land [24 28].
+the disregard in the tailpiece of s45(3) has no bearing on the operation of s71a(2)[30].
+in this case, but for s75a (a general and broadly drafted anti avoidance provision [44 45]), the combination of the sub sale relief under s45(2) and s45(3) and the exemption under s71a(2) relieved the sale by the mod to pbl and exempted the sale by pbl to mar from a charge to sdlt [34 35].
+it is unsurprising that s75a was only introduced over one year after the combination of s45 and s71a could operate in this way.
+s75a was enacted by parliament to close such lacunas [31 33].
+in this case, the party referred to as v in s75a is the mod [46].
+looking at s75 as a whole, and taking a purposive approach to interpretation, p as referred to in s75a is pbl.
+pbl did not obtain a chargeable interest on 31 january 2008 because the contract between it and the mod fell to be disregarded under s45(3).
+pbl acquired its chargeable interest, a leasehold interest, following the sub sale to mar and the lease back to pbl.
+these transactions were transactions involved in connection with the disposal by mod of its chargeable interest (s75a(1)(b)) [46 49].
+s75a(1)(c) requires that the sum of the amounts of sdlt payable in respect of the scheme transactions (which in this case is nil) is less than the amount that would be payable on a notional land transaction effecting the acquisition of vs chargeable interest by p on its disposal by v.
+in this case, the relevant notional land transaction involves pbl acquiring mods interest in the barracks [56].
+s75a(5) provides that the chargeable consideration on the notional transaction is the largest amount (or aggregate amount) given by any one person for the scheme transactions.
+hmrc correctly asserted that the relevant sum is 1.25bn (the purchase price which mar contracted to pay to pbl).
+sdlt due thereon is 50m (although this is subject to pbls right to make a claim under s80 of fa 2003) [57 64].
+s75b does not assist pbl.
+this section operates by excluding incidental transactions from the calculation of the chargeable consideration on the notional transaction for the purposes of s75a(5).
+however, s75b(2) and s75b(6) support the conclusion that both the sub sale to mar and the grant by mar of the lease to pbl are included in the transactions which transfer the chargeable interest from v to p for the purposes of s75a(5)[68 72].
+therefore, the 1.25 billion consideration which mar contracted to pay to pbl is the relevant consideration under s75a(5)(a)[73].
+pbl also argued that s75a(5) and s75b read together indirectly discriminates against those of islamic faith (who may be expected to adopt sharia financing techniques) contrary to the european convention on human rights [66; 74].
+this matter can be determined on the simple bases (a) that any discriminatory effect is objectively justified and (b) that, in any event, pbl is not a victim [75 80].
+various procedural challenges by pbl are also rejected [81 86].
+finally, a different approach suggested in emmet and farrand on title whereby the transfer of the chelsea barracks to mar in the ijara transaction should be viewed in english law as a mortgage such that mar should have been registered as the proprietor of a charge (which is exempt from sdlt) would be contrary to the legislative scheme in fa 2003 [87 91].
+in lord briggs view, the transfer from pbl to mar was not exempt under s71a(2) because pbl was not the vendor under the relevant land transaction within the combined meaning of sections 45(5a)(b) and 71a(2).
+the vendor was the mod [101].
+lord briggs considers that this analysis achieves rather than wholly frustrates the underlying purpose of the relevant provisions, namely to charge land transactions involving sub sales or islamic finance to a single charge to sdlt, rather than there being no charge at all.
+the contrary result cannot be what parliament intended [109], at a time when there was no recourse to s75a [129].
+in response, lord hodge notes that lord briggs approach results in different interpretations of vendor under s71a(2) and s73(2).
+he finds hmrcs explanation of a patchwork of provisions and a lacuna (remedied by s75a) more persuasive [36 38].

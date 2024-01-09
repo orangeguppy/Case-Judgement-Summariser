@@ -1,0 +1,525 @@
+this appeal is concerned with claims for first year allowances (fyas) under the capital allowances act 2001 (caa 2001) in respect of expenditure on software rights.
+the claims were made by two limited liability partnerships, the respondents tower mcashback 1 llp (llp1) and tower mcashback 2 llp (llp2).
+the two claims were not identical, because there was an issue as to whether llp 1 had started trading during the 2003 4 tax year for which it claimed fyas (llp2s claim was for the 2004 5 tax year).
+this point of distinction led to different outcomes in the court of appeal, as explained below.
+throughout the litigation there have been two main issues, one procedural and one substantive, each of which is of some general importance.
+there were also other issues below which have now disappeared.
+the procedural issue concerns the effect of two closure notices dated 20 june 2006 signed by mr peter frost, an officer in the anti avoidance group (investigation) of the appellants, the commissioners for her majestys revenue and customs (hmrc).
+the respondents contend that the terms of each closure notice restricted hmrc, on the taxpayers appeal against it, to a single issue (which hmrc have now abandoned).
+hmrc contend that the notice did not have that restrictive effect.
+the substantive issue (referred to below as the expenditure issue to distinguish it from the trading issue and the conditional contract issue, neither of which is live in this court) goes to the efficacy of the tax saving scheme embarked on by llp1 and llp2.
+in this judgment i shall try to use llps as referring to limited liability partnerships generally, and the llps to refer to llp1 and llp2 (with or without llp3 and llp4, which are of peripheral interest).
+the litigation has followed a tortuous course.
+the special commissioner (mr howard nowlan) decided the procedural point in favour of hmrc and disallowed 75% of llp2s claim for fyas.
+he disallowed the whole of llp1s claim on the separate ground that it had not been trading during the 2003 4 tax year: [2008] stc 3366, 3369 3411.
+on appeal ([2008] ewhc 2387 (ch), [2008] stc 3366, 3411) henderson j allowed the llps appeals on the procedural issue.
+that made the expenditure issue academic, but henderson j considered it fully and set out the reasons why he would have allowed the llps appeals on that ground also (but for the trading issue affecting llp1, on which he dismissed llp1s appeal).
+he also dismissed hmrcs cross appeal on the conditional contract issue.
+by then it was common ground that if llp2 was ultimately successful in its claim for fyas for the 2004 5 tax year, then llp1 would also be entitled to fyas for that year.
+so on further appeal to the court of appeal ([2010] ewca civ 32, [2010] stc 809), on llp1 abandoning its appeal on the trading issue, hmrc was for all practical purposes the appellant on both remaining issues.
+the majority (scott baker and moses ljj) reversed henderson j on the procedural issue but agreed with him on the expenditure issue.
+arden lj agreed with the judge on both issues.
+because of its abandonment of the trading issue, llp1s appeal was formally dismissed by the court of appeal.
+but before this court the argument has in substance been an appeal by hmrc on the expenditure issue and a cross appeal by the llps on the procedural issue.
+counsel sensibly agreed that both issues should be opened by mr kevin prosser qc (who appeared with miss rebecca murray for hmrc) and responded to by mr giles goodfellow qc (who appeared with mr richard vallat and mr thomas chacko for the llps).
+the procedural issue: statutory provisions
+matters of procedure in charging income tax, capital gains tax and corporation tax are regulated largely by the taxes management act 1970 (tma 1970) and regulations made under tma 1970.
+major amendments were made to tma 1970 in order to provide for the introduction of self assessment (described by hmrc, as moses lj noted, at para 1, as the most fundamental reform of personal tax administration for 50 years).
+the changes were introduced by the finance act 1994 (fa 1994) and took effect, for income tax and capital gains tax purposes, in 1996 97.
+further amendments were made by the finance act 2001 (fa 2001) intended to simplify and clarify the process of self assessment.
+a limited liability partnership established under the limited liability partnership act 2000 has a legal personality separate from those of its members.
+but if it carries on a trade it is, under section 118za of the income and corporation taxes act 1988 (icta 1988), taxed as if it were an ordinary, non incorporated partnership.
+section 118za(1) (as substituted by fa 2001) provides: for the purposes of the tax acts, where a limited liability partnership carries on a trade, profession or other business with a view to profit (a) all the activities of the partnership are treated as carried on in partnership by its members (and not by the partnership as such), (b) anything done by, to or in relation to the partnership for the purposes of, or in connection with, any of its activities is treated as done by, to or in relation to the members as partners, and (c) members as partnership property.
+the property of the partnership is treated as held by the
+the most important provisions of the self assessment regime, as it applies to llps, are to be found in sections 12aa, 12ab, 12ac, 28b, 31 and 31a of tma 1970 (the first two introduced by fa 1994, the last four substituted by fa 2001).
+the familiar provisions of section 50 of tma 1970, relating to procedure before the commissioners (now the first tier tribunal) were also amended by those acts.
+together the provisions require a partnership to submit a partnership return, which is to contain a partnership statement with the particulars required by section 12ab(1).
+that section, as further amended by the finance acts 1995, 1996 and fa 2001, (and in contrast to section 9 of tma 1970, which applies to a personal return or a trustees return) does not actually include the expression self assessment, but that is its effect.
+by section 12ac an officer of hmrc may give notice of enquiry into a partnership return.
+the time limit for a notice of enquiry is generally a year from the due date for submission of the return.
+section 28b provides as follows: (1) an enquiry under section 12ac(1) of this act is completed when an officer of the board by notice (a closure notice) informs the taxpayer that he has completed his enquiries and states his conclusions.
+in this section the taxpayer means the person to whom notice of enquiry was given or his successor. (2) a closure notice must either (a) state that in the officers opinion no amendment of the return is required, or (b) make the amendments of the return required to give effect to his conclusions. (3) a closure notice takes effect when it is issued. (4) where a partnership return is amended under subsection (2) above, the officer shall by notice to each of the partners amend (a) the partners return under section 8 or 8a of this act, or (b) the partners company tax return, so as to give effect to the amendments of the partnership return. (5) the taxpayer may apply to the commissioners for a direction requiring an officer of the board to issue a closure notice within a specified period. (6) any such application shall be heard and determined in the same way as an appeal. (7) the commissioners hearing the application shall give the direction applied for unless they are satisfied that there are reasonable grounds for not issuing a closure notice within a specified period.
+section 31(1)(b) gives the taxpayer a right of appeal against any conclusion stated or amendment made by a closure notice.
+by section 31a(5) and (6) the notice of appeal must specify the grounds of appeal, but the commissioners (or now the first tier tribunal) may allow other grounds to be put forward.
+section 50 (as amended) regulates the disposal of the appeal: (6) if, on an appeal, it appears to the majority of the commissioners present at the hearing, by examination of the appellant on oath or affirmation, or by other . evidence (a) that . the appellant is overcharged by a self assessment; (b) that . any amounts contained in a partnership assessment are excessive; or (c) that the appellant is overcharged by an assessment other than a self assessment, the assessment or amounts shall be reduced accordingly but otherwise the assessment or statement shall stand good. (7) if, on an appeal, it appears to the commissioners (a) that the appellant is undercharged to tax by a self assessment . ; (b) that any amounts contained in a partnership statement . are insufficient; or (c) that the appellant is undercharged by an assessment other than a self assessment, the assessment or amounts shall be increased accordingly. (9) where any amounts contained in a partnership statement are reduced under subsection (6) above or increased under subsection (7) above, an officer of the board shall by notice to each of the relevant partners amend (a) the partners return under section 8 or 8a of this act, or (b) the partners company tax return, so as to give effect to the reductions or increases of those amounts.
+the procedural issue: the facts
+this summary follows the agreed statement of facts and issues, which give details in relation to llp2 only.
+the facts are not materially different in relation to llp1.
+on 30 june 2005 hmrc issued a notice of enquiry in relation to llp2s partnership return.
+meetings and correspondence ensued between hmrc and kpmg, acting for the llps.
+hmrc concentrated its enquiries on section 45(4) of caa 2001 (as inserted by the finance act 2003), which withholds fyas for expenditure on software rights if the person incurring it does so with a view to granting to another person a right to use or otherwise deal with any of the software in question.
+hmrc asked for quite a lot of information, not all of which was supplied promptly.
+on 24 may 2006 mr peter honeywell, a director of kpmg, sent a six page letter to mr frost, the officer in charge of the enquiry, supplying a good deal more information.
+the penultimate paragraph of the letter stated: the repayments claimed by a number of partners are currently being withheld and in these circumstances the partnerships generally are anxious to ensure that your enquiries are settled without delay.
+in these circumstances i have to inform you that if we do not receive either confirmation that you can now agree the amounts claimed in the partners returns or a detailed explanation of your reasons for not doing so by 20 june 2006, we will apply to the commissioners for a directive under section 28a(4) tma 1970.
+mr frost replied on 2 june 2006: in helping you to managing your clients expectations i can tell you that i very much hope to reply fully before 31 july, although if i have to defend an application for closure notice before then that date will obviously slip back.
+in the event mr frost, after one more letter from mr honeywell, did issue a closure notice on 20 june 2006.
+a great deal of expensive legal argument might have been avoided if mr frost had stood his ground and insisted that he needed more time to consider the matter.
+the closure notice referred in its heading to llp2 and section 28b of tma 1970.
+it read as follows (emphasis applied): i have now concluded my enquiries into the partnership tax return for the year ended 5 april 2005.
+as previously indicated, my conclusion is: the claim for relief under section 45 caa 2001 is excessive.
+the partnership return for the year ended 5 april 2005 is amended as follows.
+capital allowances nil allowable loss nil.
+there was a further paragraph dealing with the practical consequences of this conclusion.
+the words as previously indicated in the closure notice call for emphasis because henderson j regarded them as providing a context which the special commissioner had ignored.
+the context was that mr frost had on 19 june 2006 written mr honeywell a letter concerned solely with the section 45(4) issue, and stating that there seems to be no further point in us debating [that] issue.
+the closure notice was sent with a covering letter dated 20 june 2006 which stated: given the content of my last letter to you i am satisfied that the mcashback scheme fails on the section 45(4) caa 2001 point alone.
+i would prefer to have had longer to examine the full records, as they have only been completely made available to me with your letter of 24 may.
+this would enable me to provide your clients with a full list of additional points for their consideration.
+in the circumstances i have to accept that any additional points that may arise will make no difference to the bottom line that no loss relief is due because of section 45(4).
+therefore as your clients are so very anxious to receive closure notices i now enclose copies of those that i have issued today.
+henderson j read this as mr frost making a conscious decision to pin his colours to the mast of section 45(4).
+the alternative view is that mr frost saw section 45(4) as a sufficient reason for a decision to disallow the claims completely, but not necessarily the only relevant reason for doing so.
+the procedural issue: discussion
+henderson j reached his conclusion despite his having correctly observed, at para 113: there is no express requirement that the officer must set out or state the reasons which have led him to his conclusions, and in the absence of an express requirement i can see no basis for implying any obligation to give reasons in the closure notice.
+what matters at this stage is the conclusion which the officer has reached upon completion of his investigation of the matters in dispute, not the process of reasoning by which he has reached those conclusions.
+he also observed (again, in my view, entirely correctly), at paras 115 116: there is a venerable principle of tax law to the general effect that there is a public interest in taxpayers paying the correct amount of tax, and it is one of the duties of the commissioners in exercise of their statutory functions to have regard to that public interest. [the judge then considered changes in the tax system and continued] for present purposes, however, it is enough to say that the principle still has at least some residual vitality in the context of section 50, and if the commissioners are to fulfil their statutory duty under that section they must in my judgment be free in principle to entertain legal arguments which played no part in reaching the conclusions set out in the closure notice.
+subject always to the requirements of fairness and proper case management, such fresh arguments may be advanced by either side, or may be introduced by the commissioners on their own initiative.
+that is not to say, however, that an appeal against a closure notice opens the door to a general roving inquiry into the relevant tax return.
+the scope and subject matter of the appeal will be defined by the conclusions stated in the closure notice and by the amendments (if any) made to the return.
+arden lj reached the same conclusion as henderson j but the majority of the court of appeal took a different view.
+moses lj (with whom scott baker lj agreed) observed, at para 32, that an appeal under section 31(1)(b) of tma 1970 is confined to the subject matter of the conclusion.
+on this point he approved and followed the decision of dr john avery jones cbe in darcy v revenue and customs commissioners [2006] stc (scd) 543.
+moses lj (at para 41) took the view that it was for the special commissioner (or now the first tier tribunal) to identify what section 28za describes as the subject matter of the enquiry.
+the closure notice completes that enquiry and states the inspectors conclusions as to the subject matter of the enquiry.
+the appeal against the conclusions is confined to the subject matter of the enquiry and of the conclusions.
+but i emphasise that the jurisdiction of the special commissioners is not limited to the issue whether the reason for the conclusion is correct.
+accordingly, any evidence or any legal argument relevant to the subject matter may be entertained by the special commissioner subject only to his obligation to ensure a fair hearing.
+there was little if any difference between the majority of the court of appeal and henderson j as to the principles to be applied (arden lj did take a rather different approach).
+the difference between the majority and the judge was as to the application of those principles.
+i prefer the approach of moses lj, who set out his conclusions on this point at paras 50 51: i agree with henderson j that the fact that the taxpayers had pressed the inspector to issue the closure notice had no relevance to the identification of the subject matter of the appeal.
+it was, as he remarked, open to the inspector to delay until he had considered, for example, the business plan.
+he chose not to do so.
+but the fact that the inspector had indicated that there might have been other issues which arose, was relevant to the exercise of the special commissioners case management powers.
+the taxpayer was not deprived of an opportunity fairly to marshal evidence as to the other grounds subsequently advanced by the revenue on the appeal.
+there is a second basis on which i differ from henderson j. apart from the importance of leaving it to the fact finding tribunal to determine the subject matter of the closure notice, in my view the closure notice itself does not allow of so restricted a view of the subject matter of the appeal.
+whilst it did refer to previous correspondence which clearly focussed on section 45(4), the closure notice itself was, in plain terms, a refusal of the claim for relief under section 45 caa 2001.
+that was the conclusion stated pursuant to section 28b(1).
+there is neither statutory warrant nor any need to look further.
+this should not be taken as an encouragement to officers of hmrc to draft every closure notice that they issue in wide and uninformative terms.
+in issuing a closure notice an officer is performing an important public function in which fairness to the taxpayer must be matched by a proper regard for the public interest in the recovery of the full amount of tax payable.
+in a case in which it is clear that only a single, specific point is in issue, that point should be identified in the closure notice.
+but if, as in the present case, the facts are complicated and have not been fully investigated, and if their analysis is controversial, the public interest may require the notice to be expressed in more general terms.
+as both henderson j and the court of appeal observed, unfairness to the taxpayer can be avoided by proper case management during the course of the appeal.
+similarly dr avery jones observed in darcy, para 13: it seems to me inherent in the appeal system that the tribunal must form its own view on the law without being restricted to what the revenue state in their conclusion or the taxpayer states in the notice of appeal.
+it follows that either party can (and in practice frequently does) change their legal arguments.
+clearly any such change of argument must not ambush the taxpayer and it is the job of the commissioners hearing the appeal to prevent this by case management.
+caa 2001
+in barclays mercantile business finance ltd v mawson [2004] ukhl 51, [2005] 1 ac 684 (bmbf) lord nicholls of birkenhead (delivering the opinion of the whole appellate committee) explained the general nature of capital allowances (para 3): a trader computing his profits or losses will ordinarily make some deduction for depreciation in the value of the machinery or plant which he uses.
+otherwise the computation will take no account of the need for the eventual replacement of wasting assets and the true profits will be overstated.
+but the computation required by schedule d (whether for the purpose of income or corporation tax) has always excluded such a deduction.
+parliament therefore makes separate provision for depreciation by means of capital allowances against what would otherwise be taxable income.
+in addition, generous initial or first year allowances, exceeding actual depreciation, are sometimes provided as a positive incentive to investment in new plant.
+in practice, generous fyas have also provided a positive incentive to artificial tax avoidance schemes.
+the relevant statutory provisions as to capital allowances are mostly in parts 1 and 2 of caa 2001.
+they are set out quite fully in paras 15 to 27 of the judgment of henderson j. because there is now only a single substantive issue in dispute i can summarise them rather more briefly.
+allowances are available for capital expenditure on plant and machinery (section 1(1) and (2)(a)) which includes computer software (section 71, which makes appropriate modifications to the notions of providing and owning plant where it consists of computer software).
+allowances must be claimed (section 3).
+there are fairly complex provisions as to when capital expenditure is incurred (section 5).
+section 5 is less directly in point than it was below, but it may be helpful to set out the relevant subsections: (1) for the purposes of this act, the general rule is that an amount of capital expenditure is to be treated as incurred as soon as there is an unconditional obligation to pay it. (2) the general rule applies even if the whole or a part of the expenditure is not required to be paid until a later date. (3) there are the following exceptions to the general rule. (4) if under an agreement (a) the capital expenditure is expenditure on the provision of an asset, (b) an unconditional obligation to pay an amount of the expenditure comes into being as a result of the giving of a certificate or any other event, (c) the giving of the certificate, or other event, occurs within the period of one month after the end of a chargeable period, and (d) at or before the end of that chargeable period, the asset has become the property of, or is otherwise under the agreement attributed to, the person subject to the unconditional obligation to pay, the expenditure is to be treated as incurred immediately before the end of that chargeable period. (5) if under an agreement an amount of capital expenditure is not required to be paid until a date more than 4 months after the unconditional obligation to pay has come into being, the amount is to be treated as incurred on that date.
+the claimant must carry on a qualifying activity, which includes a trade (sections 11(1) and 15(1)(a)).
+the claimant must also incur qualifying expenditure (section 11(1) and (4)).
+the last mentioned subsection provides: the general rule is that expenditure is qualifying expenditure if (a) it is capital expenditure on the provision of plant or machinery wholly or partly for the purposes of the qualifying activity carried on by the person incurring the expenditure, and (b) the person incurring the expenditure owns the plant or machinery as a result of incurring it.
+it is not suggested that the general rule is not applicable in this case.
+the most important types of capital allowances are fyas and writing down allowances.
+fyas are generally more attractive to the taxpayer, especially if they are granted at the rate of 100% of the whole expenditure. 100% fyas were available under section 45 (ict expenditure incurred by small enterprises).
+that section (as amended by the finance act 2003) provided as follows: (1) expenditure is first year qualifying expenditure if (a) it is incurred on or before 31 march 2004, (b) it is incurred by a small enterprise, (c) it is expenditure on information and communications technology, and (d) it is not excluded by section 46 (general exclusions) or subsection (4) below. (2) expenditure on information and communications technology means expenditure on items within any of the following classes: class a. computers and associated equipment .
+class b. other qualifying equipment .
+class c. software this class covers the right to use or otherwise deal with software for the purposes of any equipment within class a or b . (4) expenditure on an item within class c is not first year qualifying expenditure under this section if the person incurring it does so with a view to granting to another person a right to use or otherwise deal with any of the software in question.
+the various statutory conditions are brought together by section 52, which specifies the percentages for fyas.
+it is common ground that llp2 was a small enterprise.
+originally hmrc relied on section 45(4) as excluding relief, but that contention was abandoned, rightly or wrongly, on the third day of the hearing before the special commissioner, and no attempt has been made to reintroduce it.
+the purpose of section 45(4) was evidently to ensure that the full relief was available only to small enterprises which acquired software rights for use in their own business activities, and not simply as a source of income from licences.
+the expenditure issue
+as explained below, the investor members of the llps were individuals with large incomes who themselves put up only 25% of the consideration said to have been paid for acquiring rights in software.
+the remaining 75% was provided by interest free loans on non recourse terms, made to the investor members by special purpose vehicles set up for the purpose.
+hmrc rely strongly on the circularity of these transactions as more fully described below.
+the essential issue (simply stated but not simply resolved) is whether the llps incurred capital expenditure, to the extent of the whole stated consideration, in acquiring software rights for the purposes of their trades.
+the llps case is that they have plainly satisfied the statutory test, and that they have concurrent conclusions of the chancery division and the court of appeal in their favour (indeed henderson j observed, at para 30, that in view of the special commissioners findings one might have thought that the answer to this question was obvious).
+hmrcs case is that in relation to each of the llps there was a single composite transaction (that much, at least, is common ground, as the llps printed case refers to the wider transaction) and that by that transaction, realistically assessed, much less than the full claimed amount of the expenditure was incurred on the acquisition of software rights.
+hmrcs printed case (para 66) puts its position as follows: the overall effect of the single composite transaction from llp2s point of view is that the highly uncommercial loan reduced the cost to llp2 of the software with the result that llp2 did not incur expenditure of 27.5m for the purposes of ca 2001.
+it did incur expenditure of at least 5m, but . it was for llp2 to prove how much more than this it incurred, by giving evidence as to the value of its members liability under the member loans.
+but llp2 chose to give no evidence of this before the special commissioner.
+in those circumstances the correct conclusion is that llp2 incurred expenditure of only 5m.
+out of context, the value of its members liability under the member loans is a rather opaque expression, but i take it to mean the value of the benefit conferred by the highly uncommercial loan just referred to.
+those familiar with the leading cases in this troublesome area of the law will not be surprised to hear that the llps rely strongly on the decision of the house of lords in bmbf [2005] 1 ac 684 and seek to distinguish the decision of the house of lords in ensign tankers (leasing) ltd v stokes [1992] 1 ac 655 (ensign).
+hmrcs position is not precisely the converse of that: they seek to distinguish bmbf but do not rely particularly strongly on ensign, while repudiating any suggestion that ensign has been impliedly overruled by bmbf.
+the wider transaction: the participants
+the arrangements in which the llps took part involved three main participants: mcashback limited (mcashback) which developed and originally owned the software; tower group plc (tower), a financial services company; and the llp in question (i shall follow the courts below in concentrating on llp2).
+mcashback had a board of directors with what the special commissioner described as impressive credentials in the retailing world.
+its ceo was mr bob cooper, who had been a main board director at sainsbury.
+mcashbacks board also included dr adrian rowe (or roe there are variant spellings in the papers), an it expert who developed the software, and mr ahmed zghari, its chief operating officer.
+dr rowe and mr zghari gave evidence to the special commissioner but mr cooper (who was principally responsible for income forecasts) did not.
+the software was for a system described in the agreed statement of facts and issues (paras 27 28) as follows: mcashback had devised a complex software package, called the m rewards system, to enable manufacturers to promote their products to retail customers by offering them free airtime on their mobile phones.
+the manufacturers would pay mcashback a fixed fee, called a clearing fee, per transaction.
+mcashback required additional funding to roll out the m rewards system.
+this potentially involved negotiations with manufacturers, supermarket groups and mobile phone companies around the world.
+mcashback approached tower group plc (tower), which had experience of arranging finance for similar software companies.
+the funding arrangement proposed by tower was for mcashback to sell part of its software (by means of slas) to four newly created tower llps, the members of which would include tower personnel and individual outside investors, for a total of 143 million; the llps would thereby acquire a right to receive part of the clearing fees derived from the exploitation of the m rewards system.
+in the event these ambitious plans were not realised.
+only llp1 and llp2 (which raised about 7.33m and 27.5m respectively after fees and expenses) completed their transactions in full; llp3s completion was very much scaled down and llp4 never completed its transaction at all.
+tower was involved in advising and making arrangements for the transactions between mcashback and the llps.
+it had a subsidiary relevant to llp2, tower mcashback finance uk 2 limited (tower finance 2).
+there was also an entity called tower project finance llp which acted in an advisory capacity.
+some of towers personnel (mr paul feetum, mr stephen marsden and mr simon smith) became founder members of the llps.
+in the case of llp1 they also became investor members, as mentioned below.
+mr feetum and mr marsden gave evidence to the special commissioner.
+the llps were to have founder members (who set them up and entered into contracts with mcashback before relief under section 45 ran out on 1 april 2004) and investor members.
+the latter were to provide the funds and obtain the tax advantages of the fyas.
+llp1 was very short of investor members, since a number of potential investors dropped out at a late stage, which was why the three founder members became investor members also.
+llp2, by contrast, had more than 50 investor members.
+its partnership return for 2004 5 shows that the partnership claimed an allowable loss of just under 30m, 27.5m of which was for capital allowances.
+the largest claim for any individual member was 2,497,439, and the average claim was for a little over 500,000.
+most of the investors became partners during june or july 2004.
+apart from the three main groups of participants two banks, both based in guernsey, were involved in the arrangements.
+these were r & d investments ltd (r&d) and janus holdings ltd (janus).
+as explained in more detail below, r&d held security deposits placed with it by mcashback, which r&d in turn deposited with janus as security for a loan by janus to a tower finance company (described in the schemes explanatory material as the lending spv).
+the tower finance company made interest free non recourse loans to individual investor members of the llps.
+the special commissioner concluded (para 127) that the function of the banks was window dressing, and was actually counter productive, since when i can discern no real change or implication or benefit that results from the insertion of the two banks, the fact that that interposition has increased costs, complexity, documentation and legal fees just serves to underline how vital it was thought to try to disguise the reality of what was happening.
+the wider transaction: the documents
+as already noted, it is not disputed that the sequence of events amounted to a prearranged, composite transaction of the type to which lord wilberforce referred 30 years ago in a famous passage in w t ramsay v irc [1982] ac 300, 326: to force the courts to adopt, in relation to closely integrated situations, a step by step, dissecting, approach which the parties themselves may have negated, would be a denial rather than an affirmation of the true judicial process.
+in each case the facts must be established, and a legal analysis made: legislation cannot be required or even be desirable to enable the courts to arrive at a conclusion which corresponds with the parties own intentions.
+in contrast to the timing of events in some other closely integrated situations which have been investigated in some of the well known authorities, the sequence of events in relation to llp2 was quite protracted.
+the completion of the transaction entered into on 31 march 2004, which was under the contract required to take place within four months (in order to satisfy section 5(5) of caa 2001) was in the event delayed until mid january 2005, and in the meantime there seems to have been real doubt as to whether sufficient investor members would come forward to provide the cash sum of 7.5m (25% of 30m, which was the total sum required to meet the whole stated consideration of 27.5m together with 2.5m for fees and expenses).
+there was also real doubt as to whether the m rewards scheme would be as big a commercial success as the directors of mcashback hoped.
+the smooth operation of the scheme was therefore by no means fully pre ordained.
+but from 31 march 2004 it could be predicted with confidence that if the investors did come up with the necessary funds, their destination would follow a pre ordained pattern.
+in order to bring the llp1 and llp2 transactions to completion ten significant documents (as well as many other more routine items) were executed or issued between 31 march 2004 and early 2005.
+those in the appeal papers are as follows (not all the specimen documents in the appeal papers relate to the same llp): date (1) 31 march 2004 (2) 6 july 2004 description software licence agreement (sla) limited liability partnership agreement (the partnership agreement) operations agreement (the operations agreement) valuation report information memorandum application form (specimen) loan agreement (members loan agreement) loan agreement parties mcashback (1) llp2 (then tower taxi technology 34 llp)(2) original founder members (1) llp2 (2) mcashback (1)llp1 (2) llp2 (3) llp3 (4) llp4 (5) valuation consulting ltd (mr ian brewer) issued by tower project finance llp (relates to llp3) pj donaldson (an adhering investor member of llp2) tower mcashback finance (1) p j donaldson (2) tower mcashback (3) 6 july 2004 (4) 7 july 2004 (5) 12 july 2004 (6) 29 july (7) 30 july 2004 (8) 1 december 2004 finance (1) janus (2) (9) 12 january 2005 guarantee and deposit r & d (1) janus (2) agreement (10) 12 january 2005 collateral agreement mcashback (1)r&d(2)
+it is simplest to comment on these documents in chronological order, after a preliminary word about the position immediately before 31 march 2004.
+the four llps were in existence, having been registered in the names of tower taxi technology 34, 35, 36 and 38 llp respectively.
+it is apparent from the recitals and definitions in the specimen sla that these four corporate limited partnerships were intended to be renamed as llp1, llp2, llp3 and llp4 respectively.
+but in the event they changed their names on 14 april 2004 (after signature of the slas but before signature of the partnership agreements) so that 34, 35, 36 and 38 became 2, 3, 4 and 1 respectively.
+in consequence the specimen sla (describing itself as the llp1 agreement) was entered into by llp2 and the agreement defined as the llp4 agreement was entered into by llp1.
+this produced some apparent inconsistencies in other documents.
+regrettably these facts were not explained to the court (though counsel may have had the well meaning intention of avoiding unnecessary complication).
+so what we are concentrating on is the llp1 agreement, actually entered into by llp2.
+llp1 and llp2 each had three founder members who were part of the tower team, and few if any investor members had committed themselves to investing.
+the negotiations that were taking place were between mcashback and tower and their respective advisers.
+within the last two or three days before the deadline on 1 april new advice seems to have raised doubt about the wisdom of software rights being acquired by different llps in undivided shares, leading to a last minute decision to bundle software into bits (as it was put in an email sent by mr feetum at 7.33am on 30 march 2004).
+in addition there were still vigorous negotiations being conducted on other points (an email sent by mr feetum to his team at 7.45 am on 31 march 2004, describing his discussions with dr rowe, is vivid evidence of this).
+henderson j (at para 31) referred to the emails and was in no doubt that the slas were negotiated at arms length between wholly unconnected parties.
+the special commissioner made these findings (para 44) about the decision to bundle the software rights into bits: an email from towers lawyers on 29 march indicated however that there would be some problem in the llps simply purchasing percentage slices of the software, and therefore the solution was adopted that llp1 would buy the code generation software for 7.334m, carrying an entitlement to 0.66% of clearing fees and to 5.128% of the clearing fees allocable to all four llps; llp2 would buy the customer support software for 27.501m; llp3 would buy the call centre software for 45.835m and llp4 would buy the fourth element of software for 62.33m.
+notwithstanding the allocations of specific software to each of the llps, the price payable by, and the percentage entitlement to clearing fees acquired by, each llp retained their earlier matched relationship.
+these details appear to be correct, despite the confusion resulting from the way in which the llps were renamed.
+but it must be borne in mind that the sla entered into by llp2 had been drafted for llp1 (that may be the explanation of a comment by henderson j in the fifth sentence of para 36 of his judgment).
+the heart of llp2s sla was an obligation on mcashback to grant an exclusive world wide royalty free licence to llp2 to use the licensed software, defined as the customer support interface.
+the consideration was to be 27.501m payable on completion against an undertaking by mcashbacks solicitors to apply it in obtaining a release of an existing charge on the software and in the procurement of a new security.
+llp2 was to be entitled indefinitely to 2.5% of the (gross) clearance fees received from exploitation of the m rewards system.
+there is a full summary in the judgment of henderson j which is readily available ([2002] stc 3366, 3411, paras 36 to 47) and i cannot hope to improve on it.
+i gratefully adopt the description in para 42 of how the sla looked forward to matters which had not yet been finally decided: it was always intended that each llp would raise 75% of the finance which it needed by way of bank borrowing, and that mcashback would be obliged to deposit approximately 82% of the consideration which it received for the grant of the licence as an indirect security for that borrowing.
+the details had not yet been worked out on 31 march 2004, and the identity of the two participating banks was still undecided.
+however, the basic framework of the arrangements had been agreed, and this was reflected in the definitions in clause 1.1 of the sla of the bank loan, bank one, bank one security, bank two and bank two security.
+clause 4.2(d) provided that on completion mcashback should deliver to bank two the bank two security, and procure that bank two provide to bank one the bank one security.
+he then summarised clause 4.2 and clause 4.3, dealing with security.
+bank one was to have been lloyds tsb, but turned out to be janus.
+bank two was to have been halifax bank of scotland, but turned out to be r & d.
+had all four llps proceeded as tower hoped, they would have produced a total cash investment (from investor members of the llps) of 39m, supplemented by bank loans from janus (through the medium of a spv, tower finance 2 in the case at llp2) of 117m.
+a total sum of 156m would have been paid out by the llps in three directions: (i) payment of fees and expenses of about 13m; (ii) payment to r & d of a security deposit of 117m; and (iii) payment of the balance of 26m to mcashback for its roll out expenses.
+these figures are taken from paras 30 and 31 of the agreed statement of facts and issues.
+as between the different llps the plan was as follows: % of clearing fees 0.66 consideration licensed software (m) llp1 7.334 code generation system llp2 27.501 2.50 customer support interface llp3 45.835 4.16 call centre system llp4 62.330 5.68 reporting module ______ _____ 143.000 13.00 but as already mentioned, only llp1 and llp2 got far off the ground.
+the authorities
+in bmbf [2005] 1 ac 684, paras 26 to 38, the house of lords (in an opinion of the appellate committee delivered by lord nicholls) gave a brief summary, under the heading the ramsay principle, of the laws development, during the past thirty years, in its attitude to artificial tax avoidance.
+there is another, more detailed discussion of the same topic (starting with the heading ramsay: a principle of construction? and going on with several other headings) in the opinion of lord hoffmann in macniven v westmoreland investments ltd [2001] ukhl 6, [2003] 1 ac 311, paras 28 to 62.
+those passages are by now well known and i shall not try to summarise them.
+but i wish to add a few footnotes.
+the ramsay case (ramsay (wt) limited v inland revenue commissioners [1982] ac 300) was the fountain head, as lord hoffmann put it in macniven at para 30.
+nothing in lord wilberforces magisterial opinion in ramsay was revolutionary, as he was careful to point out (p323).
+it did not introduce a new, judge made principle (p326).
+but the clarity of lord wilberforces insights was rather obscured by some subsequent decisions, especially (if i may respectfully say so) the opinion of lord brightman in furniss v dawson [1984] ac 474, 527.
+there, lord brightman, in another very well known passage, following lord diplock in inland revenue commissioners v burmah oil co ltd [1982] stc 30, 33, appeared to lay down a detailed and fairly inflexible prescription of how the ramsay principle works.
+lord hoffmann commented on this in macniven at para 49: in the first flush of victory after the ramsay, burmah and furniss cases, there was a tendency on the part of the inland revenue to treat lord brightmans words as if they were a broad spectrum antibiotic which killed off all tax avoidance schemes, whatever the tax and whatever the relevant statutory provisions.
+the need to recognise ramsay as a principle of statutory construction, the application of which must always depend on the text of the taxing statute in question, was clearly recognised in craven v white [1989] ac 398: see especially, in the house of lords, lord keith of kinkel at p 479 and lord oliver of aylmerton at pp 502 503.
+the house was split three two, the dissenters being lord templeman and lord goff of chieveley, who gave the only two full opinions in the house of lords unanimous decision in ensign four years later.
+the drawing back from the rigidity of furniss v dawson was continued by the important decisions in inland revenue commissioners v mcguckian [1997] 1 wlr 991 (discussed by lord hoffmann in macniven at paras 51 to 57) and macniven itself.
+there are also many helpful insights in the judgments in the court of final appeal of hong kong in collector of stamp revenue v arrowtown assets ltd [2003] hkcfa 46.
+that is, in brief summary, the historical context of the decision of the house of lords in ensign.
+although the composite transaction considered in that case had to be gathered from no fewer than seventeen legal documents, and although the hearing before the special commissioners took 18 days, for present purposes the essential facts can be summarised quite briefly (the fullest statement of facts is to be found in the decision of the special commissioners [1989] stc 705: details of the setting up and operation of the scheme bank account can be found at pp 719 and 725).
+victory partnership (vp) was a limited partnership formed under the limited partnerships act 1907.
+ensign tankers (leasing) ltd (tankers) was one of the limited partners, with much the largest capital contribution.
+vp agreed with lorimar productions inc (lpi), a film production company, to acquire the right to make and exploit a film which was then in production (and which lpi agreed to continue to produce on behalf of vp). $4.780m had already been spent out of a budget of $13m.
+vp agreed to pay $3.25m towards the cost of the film and lpi agreed to lend vp the balance of the budgeted sum (the production loan) and any further sum (the completion loan) needed if (as happened) the film went over budget.
+to implement these arrangements a bank account (the scheme account) was opened by guinness mahon, a merchant bank specialising in such schemes.
+the account was in the name of vp but could not be operated without the approval of a representative of lpi.
+vp paid $3.25m into the scheme account, from which it was transferred to lpis bank, chemical bank, to reduce lpis indebtedness.
+lord templeman described the subsequent operation of the account as follows ([1992] 1 ac 655, 664): thereafter, when lpi required to spend or spent money in making the film, the amount involved was credited by lpi to the scheme current account (which was controlled by lpi) and returned to lpi on the same day for credit to its account at chemical bank.
+the scheme current account was thus never in credit or debit at the close of any day and [vp] was never in debt as a result of the scheme.
+in substance the film was funded by lpi borrowing from chemical bank.
+vps liability to repay the so called loans from lpi was limited both by the limited partnerships act 1907 and by express terms in the scheme documents.
+vp claimed capital allowances for the whole cost of producing the film.
+its claim turned on how much capital expenditure vp had incurred.
+lord templeman differed from millett j (the first instance judge) as to the significance of the non recourse nature of the loans (p 667): but the non recourse nature of the borrowing ensured that lpi paid the whole cost of the film exceeding $3m and conversely that [vp] would not be liable for the cost of the film in excess of $3m.
+by the operation of the scheme current account in accordance with the provisions of the scheme, the money of lpi, at all times under the control of lpi, was electronically transferred from hollywood to the city of london and back again without serving any useful purpose and leaving no trace except entries on computer prints.
+after a wide ranging survey of authorities on tax avoidance lord templeman restated his conclusion at p 676: in the present case if lpi had been a british company, the fact that lpi borrowed $10m from chemical bank to enable lpi to make the film would not have denied to lpi a first year allowance equal to the sums borrowed and expended.
+but [vp] neither borrowed nor spent $10m.
+lord goff took the same view.
+he observed at p 682: i accept, too, that money was indeed paid by lpi to vp on the various occasions when the relevant account was credited; although that too was deprived of any practical effect by the immediate repayment, on the same day, of exactly the same sum from that account.
+what i have to do, however, is to stand back from the composite transaction; to look at it as a whole; and to decide, first, what is the true nature and effect of the transaction and, second, whether, on a true construction of section 41(1) of the finance act 1971, vp is entitled to an allowance in respect of the whole of the cost of the film, viz $14m.
+when i embark upon this process, i find it impossible to characterise the money paid by lpi into the bank account to the credit of vp as, in any meaningful sense, a loan.
+it was not in my opinion money lent to vp to enable vp to finance the production of the film.
+it was money paid by lpi into the bank account opened in vps name to enable vp to indulge in a tax avoidance scheme, and for no other purpose.
+here lord goff emphasised that the ramsay principle is indeed a principle of construction.
+he focused on the text of section 41(1) of the finance act 1971 (in terms not materially different from those of caa 2001), and answered the ultimate question . whether the relevant statutory provisions, construed purposively, were intended to apply to the transaction, viewed realistically (ribeiro pj in collector of stamp revenue v arrowtown assets ltd [2003] hkcfa 46, para 35, quoted by lord nicholls in bmbf at para 36).
+in the result the house of lords concluded that vp had spent $3.25m, not $14m, on production of the film, and that was the extent of vps entitlement to capital allowances.
+this court has not been invited, formally or informally, to overrule or depart from ensign.
+hmrc suggest in their printed case that henderson j treated it as impliedly overruled by bmbf, but i do not read his judgment in that way.
+he did state (para 62) that bmbf is now the leading case in this area.
+but in bmbf the house of lords did not mention ensign, though it was cited, and in the court of appeal ([2002] ewca civ 1853, [2003] stc 66) only peter gibson lj (paras 40 41) referred to it, without in any way questioning it.
+he impliedly distinguished it (as i understand those paragraphs) on the basis that ensign was not a case in which the money went round in a circle; more simply, nothing happened to the money.
+at first instance in this case henderson j referred to ensign once only, at para 48, in a passage dealing with the opinion of tax counsel which had been provided to prospective investor members of the llps.
+the decision of the court of appeal in bmbf is of interest for another reason.
+both peter gibson lj (with whom rix lj agreed) and carnwath lj (at paras 44 and 69 to 73 respectively) courteously expressed difficulty with the distinction between legal and commercial concepts drawn by lord hoffmann in macniven in relation to the construction of tax legislation.
+para 38 of lord nicholls opinion in bmbf may perhaps be regarded as something of a strategic withdrawal by the house of lords from a position which, if not untenable (indeed perhaps something of a truism), was likely to give rise to misunderstandings.
+i must now come to what bmbf itself decided.
+it was a leasing finance scheme entered into by the taxpayer (which i shall call barclays finance to distinguish the body corporate from the decided case).
+barclays finance was described by lord nicholls as the uk market leader in this field.
+under the scheme barclays finance paid about 91m to acquire a newly constructed gas pipeline under the irish sea from its owner, bord gais eireann (bge), an irish statutory corporation.
+the pipeline was then leased by barclays finance to bge for an initial term of about 30 years, at an escalating rent, and subleased by bge to a subsidiary, with which bge also entered into a transportation agreement and other arrangements under which the subsidiary operated the pipeline.
+barclays finance borrowed the whole of the 91m from barclays bank at a fixed commercial rate (10.95%).
+the sum received by bge was deposited with a jersey company called deepstream, which undertook complicated obligations to make a range of periodical payments to bge.
+the deposit with deepstream returned, via an isle of man barclays subsidiary, to barclays banks treasury.
+so it was a case in which the money could be said to have gone round in a circle.
+these transactions were entered into at the end of 1993, that is fairly soon after the decision of the house of lords in ensign.
+the schemes tax implications did not however come before the special commissioners until 2001.
+the special commissioners concluded that the scheme had no commercial reality, a conclusion that the court of appeal (paras 32 36 and 52 59) found insupportable.
+the first instance judge, park j ([2002] stc 1068), had upheld the special commissioners but on the different and narrower ground (as peter gibson lj put it [2003] stc 66, para 18) that this was not a case where the finance enabled the lessee to have the use of an asset which, absent the lease finance, it would not have, nor was it a case where the lessee uses the proceeds of sale to repay borrowings or for other purposes of the lessees business. [park j] described all those cases as being where the finance lessor provided up front finance to the lessee and the finance so provided is used in the lessees business.
+he contrasted that with the present case where bge already owned the pipeline, and after the transaction it was still able to use it as before, though by virtue of the headlease, the sublease and the transportation agreement, and it still owed the banks the money which it had borrowed, nor was the 91,292,000 available for bge to use in any other way to finance transactions or activities of its business.
+peter gibson lj disagreed (para 37): section 24 focuses on the incurring of expenditure by the trader on the provision of plant or machinery wholly and exclusively for the purposes of his trade.
+it therefore requires one to look only at what the taxpayer did.
+to the test posed in section 24 it is immaterial how the trader acquires the funds to incur the expenditure or what the vendor of the provided plant or machinery does with the consideration received.
+so did carnwath lj (para 54): however, there is nothing in the statute to suggest that up front finance for the lessee is an essential feature of the right to allowances.
+the test is based on the purpose of the lessors expenditure not the benefit of the finance to the lessee.
+nor, as the judge recognised, should it make any difference whether the arrangements by which the tax advantage was achieved were simple or, as the commissioners thought in this case, complicated [and] convoluted.
+carnwath lj also stated, in a passage at para 58 to which moses lj attached great importance (he quoted it twice, at paras 69 and 86 of his judgment in the court of appeal, supplying emphasis as below): there might be more room for argument as to whether there was expenditure, given the apparent circularity of the payments.
+however, once one accepts the transfer of ownership, it is difficult to question the reality of the expenditure by which the purchase price was discharged.
+i have discussed the decision of the court of appeal in bmbf at some length because it was the latest relevant authority when mcashback and tower were planning and negotiating their arrangements; hmrcs appeal to the house of lords was pending (henderson j referred to this in para 48 of his judgment).
+moreover the single opinion of the house of lords amounted to a general endorsement of the decision of the court of appeal (i have already referred to the matter of the legal commercial concept dichotomy).
+the house of lords summarised their conclusion in para 42: if the lessee chooses to make arrangements, even as a pre ordained part of the transaction for the sale and leaseback, which result in the bulk of the purchase price being irrevocably committed to paying the rent, that is no concern of the lessor.
+from his point of view, the transaction is exactly the same.
+no one disputes that [barclays finance] had acquired ownership of the pipeline or that it generated income for [barclays finance] in the course of its trade in the form of rent chargeable to corporation tax.
+in return it paid 91m.
+the circularity of the payments which so impressed park j and the special commissioners arose because [barclays finance], in the ordinary course [of] its business, borrowed the money to buy the pipeline from barclays bank and barclays happened to be the bank which provided the cash collateralised guarantee to [barclays finance] for the payment of the rent.
+but these were happenstances.
+none of these transactions, whether circular or not, were necessary elements in creating the entitlement to the capital allowances.
+the decision of the special commissioner
+the special commissioner had an unenviable task and it is clear that he must have devoted a lot of time and thought to the preparation of his written decision, which runs to 176 paragraphs.
+the decision attracted a good deal of criticism from henderson j (in particular paras 60, 61 and 74 to 84 of his judgment), and some of the judges criticisms have force.
+the special commissioner reached a conclusion which had not been contended for by either side, which is an adventurous course to take in a complex tax case (see billingham v cooper [2001] ewca civ 1041, [2001] stc 1177, para 31).
+nevertheless the special commissioner was the fact finding tribunal, and his findings of fact can be departed from by appellate courts only on the principles laid down in edwards v bairstow [1956] ac 14.
+the most important findings made by the special commissioner include the following: (1) the scheme was not a sham, but it was pre ordained and designed as a composite whole (paras 128 132); (2) the market value of the software rights disposed of was very materially below the price ostensibly paid for those rights (para 99, elaborated at paras 100 to 111); (3) the last minute decision to sell the software in bits added to the artificiality of the valuations (para 103); (4) there was little chance that the members loan would be repaid in full within ten years; as much as 60% of the loans might be unpaid, and waived, at the end of that period (para 57); (5) there was no commercial justification for the insertion into the scheme of the two banks, r & d and janus (paras 66, 127); and (6) the consideration paid by the llps was not paid partly for soft finance, which was the special commissioners own third approach (paras 113 121).
+the special commissioners conclusion on the expenditure point, so far as it is to be found in any single paragraph, is probably to be found in para 138: the question that i have to address, therefore, is whether it is appropriate to say that capital expenditure of the gross figures has been incurred when the seller has filtered back 75% of the price to the investor members of the llps via the cosmetic banking chain, when the reality is that there is a great likelihood that a substantial proportion of the wholly uncommercial loans will eventually be waived, and when, in the meantime, any partial repayments of the loans will be liable to be made on an entirely contingent basis.
+and when i address that question by looking at the legal reality of what has occurred, and at the money movements, rather than looking fixedly at discredited labels attached to the transactions by the parties, i conclude that the gross capital expenditure has not been incurred.
+on a purposive basis it seems to me that the investor members and the llps have so far incurred the 25% element of the total price, and that the llps will incur further capital expenditure if and to the extent that the llps discharge members loans on their behalf by the envisaged application of 50% of clearing fees.
+the judgment of henderson j
+henderson j dealt with the expenditure issue at paras 30 to 86 of his judgment.
+paras 30 to 61 are concerned with the facts and i have already summarised the judges careful exposition of the scheme documents.
+paras 62 to 71 are concerned with the law, especially the decisions of the court of appeal and the house of lords in bmbf which (as already noted) the judge described as the leading case.
+the judges discussion of the issue and his conclusions are to be found in fifteen closely reasoned paragraphs, 72 86.
+sentence of para 72: in fact the judge began the discussion by stating his conclusion in the first in the light of the principles laid down in bmbf and macnivens case, there cannot in my judgment be any real doubt about the answer to the expenditure issue.
+the whole of the purchase price of 27.501m was expended by llp2 on the acquisition of the software, and it was not expended on anything else.
+the rest of the paragraph provides the principal reasons for this conclusion: (1) the purchase price was negotiated at arms length between wholly unconnected parties; (2) title to the software rights passed on completion in january 2005; (3) what happened to the purchase price of 27.501m after it had been paid by llp2 to mcashback is immaterial, because section 11 of caa 2001 requires one to look only at what the taxpayer did (bmbf in the court of appeal, per peter gibson lj [2003] stc 66, para 37).
+henderson j treated the circularity of the movement of the 22.5m as irrelevant, as it had been in bmbf (para 73 of his judgment).
+he thought that the special commissioner had been distracted from the true question by a combination of errors into an unsound approach of his own devising (para 74).
+in particular: (1) the special commissioner had considered the authorities only after reaching his own provisional view, and treated bmbf as irrelevant (para 75); (2) he had been greatly over influenced by his views on the question of valuation, which he had discussed at great length, expressing his conclusions in colourful and sometimes contradictory terms (para 76); (3) market value was, henderson j stated, completely irrelevant to the expenditure issue, as hmrc were not relying on any of the anti avoidance provisions in section 214 216 of caa 2001 (para 77); and (4) in any event the criticisms of the evidence of mr brewer (who made the valuation report dated 7 july 2004) were largely unfounded, showing a fundamental confusion between the prediction of future income and the valuation of predicted income (para 78).
+henderson j then turned (paras 79 83) to the special commissioners four possible approaches.
+the judge considered that the approach that was correct in law was the second approach, that is that the market value of the acquired software might be materially lower than the price paid for it in this case, but that nevertheless the llps should still be entitled to claim capital allowances by reference to the full price paid because, whilst the llps might only have paid that price because of the non recourse loans provided to the members to contribute their capital, the llps have nevertheless paid the full price for the software and nothing can adjust that analysis for tax purposes.
+the judge agreed with the special commissioner as to the difficulties in the third (soft finance) approach, while commenting that on his own findings the special commissioner should logically have accepted it.
+the special commissioner had been entitled to conclude that the insertion of the two banks had no commercial justification (para 84 of the judges judgment) but nevertheless the only real transaction was the transaction which the parties actually carried out, involving the banks.
+the judge rejected the argument that bmbf was distinguishable because in that case the circularity was happenstance.
+his conclusions can be found in paras 85 and 86: i accept that there are distinctions between the facts of the present case and those of bmbf, and i would agree that in the absence of evidence from the banks the special commissioner was entitled to be sceptical about the commerciality of the arrangements into which they entered.
+it seems to me, however, that none of this advances the revenues case, because it does not impinge on the narrow question whether llp 2 incurred the relevant expenditure on the acquisition of the software.
+the judge referred to macnivens case, and continued: i hope i have now said enough to explain why in my judgment the special commissioners conclusion on the expenditure issue cannot stand, and in the absence of a finding of sham the only conclusion open to him was that the whole of the consideration for the software, when it was paid on completion of the sla in january 2005, was expenditure incurred on the provision of plant within the meaning of section 11 of caa 2001.
+the court of appeal
+in the court of appeal the only full judgment on the expenditure issue is that of moses lj.
+his judgment covers this issue at paras 56 to 87.
+he referred at some length to bmbf in the court of appeal and the house of lords (paras 61 to 72), and to ensign in the house of lords (paras 73 78).
+he did not accept the submission (made on behalf of the llps) that bmbf shows that the terms of borrowing are simply irrelevant (paras 78 79): the terms of the borrowing, in the context of all the facts, may be relevant in order to cast light on whether llp2 had really incurred expenditure, as carnwath lj foresaw ([2003] stc 66, para 58).
+the source of the money was irrelevant in bmbf because the borrowing was on regular, commercial terms.
+rather than regarding the terms on which llp2 borrowed 75% of the consideration as simply irrelevant, the court should consider them in relation to the fundamental question whether the taxpayer suffered the economic burden of paying the full amount.
+by doing so, it is possible to decide whether there was real expenditure.
+moses lj put aside (paras 80 to 81) the issue of whether incurring expenditure was a legal or commercial concept.
+the rest of the judgment of moses lj (paras 82 to 87) concentrated on the question whether there was real expenditure by the llps (without any emphasis on the question for what the expenditure was incurred).
+moses lj distinguished ensign on two principal grounds.
+the first was (para 84): whilst there was an expectation, on the basis of conservative predictions, that the whole of the loan agreement would not be paid off in full over the period of ten years, it cannot be shown that the terms were such that the loan was never likely to be repaid.
+it all depended on success in marketing the software.
+in ensign, the loan never had to be repaid whatever success the film achieved.
+the last sentence was challenged by mr prosser as factually incorrect.
+the second point of distinction perceived by moses lj was (para 85): llp and its members owned free of any liability software which could generate a substantial proportion of an annual income which the projections showed to be approximately 38m.
+in ensign tankers, the partnership never acquired a right to more than 25% of the returns.
+in my view this is a seriously oversimplified version of the facts in each case.
+the llps did not own the software; they owned rights in bits of the software which together (if the whole plan had gone through) would have brought them 13% of the clearing fees (one component in computing in mcashbacks trading profit).
+vp did own the whole of the master negative of the film, but that ownership did not entitle vp to the whole net profits from the film, because there were also heavy distribution and exploitation costs to be incurred by other companies connected with lpi before the film earned what it had cost to make.
+moses lj set out his conclusion in para 86 (referring back to para 85): it is this feature which to my mind is the most important ground for distinguishing ensign tankers and this appeal.
+the ownership of the software agreement was transferred to llp 2.
+the question of transfer of ownership casts a clear light on the reality of the expenditure, just as it did in ensign tankers.
+it was unacceptable to contemplate that [vp] had incurred 100% of the expenditure on the film in acquiring a mere 25% of the rights.
+but the fact that llp2 acquired the right to the full economic benefit of the agreement is a powerful, and, to my mind, a determinative feature of this appeal.
+it is worth repeating part of carnwath ljs judgment (at para 85) which i cited earlier: however, once one accepts the transfer of ownership, it is difficult to question the reality of the expenditure by which the purchase price was discharged.
+discussion and conclusions
+i start from the special commissioners findings of fact summarised in para 55 above.
+henderson j accepted (1) (not sham, but pre ordained) and (5) (no commercial purpose for insertion of banks, but with the qualification that it was nevertheless the only real transaction).
+he did not disagree with (6) (the special commissioners rejection of his third approach) while commenting that logically he would have expected the special commissioner to accept it.
+as to (4) (prospect of repayment of members loans) the judge set the bar (to my mind) surprisingly low in commenting (para 81) that the special commissioner recognised that there was (at the lowest) a real possibility that the clearing fees derived from the software would be sufficient to ensure that at least some of the 75% loan finance would be repaid.
+the judge strongly disagreed on (2) (valuation) and did not mention (3) (disposition and valuation of rights to software in bits).
+before disagreeing strongly with the special commissioners views on valuation, henderson j stated (para 77) that the market value of the software was completely irrelevant.
+that is, in my view, putting it a good deal too high.
+it is true that hmrc (for reasons that i do not understand) made no attempt to invoke any of the anti avoidance provisions in caa 2001.
+but i cannot accept that the question of valuation was totally irrelevant in the context of a complex pre ordained transaction where the court is concerned to test the facts, realistically viewed, against the statutory text, purposively construed.
+henderson j went on to say that the special commissioner betrayed a fundamental confusion between the prediction of future income and the valuation of predicted income (mr brewers task being limited to the second function).
+that comment preserves mr brewers professional reputation he was acting in accordance with his instructions but to my mind (as to the special commissioners mind) it leaves the valuation of the software, on the basis of predicted income derived solely from mr coopers revised business plan, as lacking any sort of independent professional approval.
+i see great force in the special commissioners comment (para 104) that in rightly following the instructions that he was given, mr brewer naturally produced a fairly useless conclusion.
+mr brewer himself said that a far more extensive exercise would have been required by a private equity firm investing, and that the present valuation was only good enough for inland revenue purposes.
+moreover the llps were not buying the software, either as a whole or even in bits.
+they were acquiring a licence to use it which was far short of absolute ownership (clause 7.4 of the sla restricted their right of access to the source code, and there seems to have been no evidence certainly there was no finding about any separate escrow agreement made under that sub clause).
+in practice, even if all four of the llps had completed as planned, they would together have received no more than 13% of the clearance fees in respect of their rights in the software.
+cooperation between mcashback and the llps was to take place under the opaque terms of the operating agreement.
+that, on the llps case, was the consideration for which they would have been paying 156m (had all the schemes gone through).
+all those points would arise even in the absence of the last minute change when it was decided to sell the software rights in bits.
+the special commissioner speculated as to which bits, if any, remained unsold (see para 103: his reference to a retained interest in 87% of the clearance fees seems to have overlooked that the llps 13% was a gross figure).
+a confidential report dated 5 july 2004 made by mr john heap, an it expert, suggests that the four systems allocated to the four llps (code generation, reporting module, customer support interface and call centre interface) were the essential parts of the system.
+but the report (though written more than three months after the slas were entered into) reports a different allocation (llp1 customer support interface; llp2 call centre interface; llp3 reporting module; llp4 code generation).
+both sides accept that that is wrong, and that mr heap must have been misled by his instructions.
+mr brewers valuation does not specify the categories of software to which it apportions the total valuation of 145m to 150m, nor does it explain the basis on which the apportionment has been made.
+the fact that these errors and omissions were made and apparently caused no concern emphasises the extreme unreality of selling the software rights in bits, when they were parts of a closely integrated system designed for a specialised task.
+to my mind it is only a little less unreal than for a syndicate which owns a racehorse in undivided shares to decide, 48 hours before the big race, to partition the animal so that one member takes the head and neck, and another the off hind leg, and so on.
+a further indication of how little practical importance seems to have been attached to the division of the software rights, and what they were to earn, is that the reader of the information memorandum relating to llp3 has to get to p 42, if he gets that far, before learning that the rights in the call centre interface (itself mentioned on p 12) are to earn 4.16% of the clearing fees.
+for these reasons i respectfully consider that the judge, although correct in his view that market value was not determinative, and also correct in thinking that the special commissioner had used unnecessarily colourful and contradictory language, was wrong to dismiss, as sweepingly as he did, the special commissioners scepticism about the valuation of the software rights, and the commercial soundness of the transactions.
+the judge also downplayed the special commissioners doubts about the prospects of the members loans being repaid within ten years.
+he treated the case as essentially similar to bmbf, while conceding that there were factual points of difference.
+the essential point that he took from bmbf (in para 84 of his judgment) was that caa 2001 is resistant to an approach on ramsay lines, because it focuses attention solely on the position of the purchaser.
+in conclusion on this issue he stated (para 86, which i have already quoted): in the absence of a finding of sham the only conclusion open to him was that the whole of the consideration for the software . was expenditure incurred on the provision of plant within the meaning of section 11 of caa 2001.
+i respectfully think that that was wrong in law, and overlooked the continuing validity of the decision of the house of lords in ensign.
+it is not clear to me how far the judge, in these conclusions, was relying on the special commissioners rejection of his own third approach, the soft finance analysis (to which the judge had referred in para 30 of his judgment, at the very start of his discussion of the expenditure issue).
+the grounds on which the special commissioner rejected the soft finance analysis (paras 113 121 of his decision) are to my mind rather confused.
+he recognised that it does not involve any re analysis of the transactions.
+ultimately he seems to have rejected it mainly on the practical grounds of difficulty of valuation (though he had, both at a directions hearing and on the first morning of the main hearing, refused hmrcs application for an adjournment in order to obtain expert evidence on valuation matters).
+he was also apparently influenced by the thought that it would be unrealistically harsh to deprive the investor members of possible future claims for capital allowances in later years.
+i find those reasons unconvincing.
+hmrc has now abandoned the soft finance argument as such.
+but it has not vanished completely, as appears from para 66 of hmrcs printed case, quoted at para 25 above.
+before this court mr prosser argued (though this is probably an oversimplification of his more subtle arguments) that even if an investor member did spend the money which he borrowed (say 225,000) as well as his own money (say 75,000) he did not incur expenditure of 300,000 on acquiring software rights, because only 50,000 of the money reached mcashback, and 225,000 went into a loop from which mcashback received no immediate benefit at all.
+if in the future money were to flow back to mcashback out of the loop it would be because of its own commercial success in generating clearing fees.
+whatever the 225,000 was spent on, it was not spent in acquiring software rights from mcashback, because the 225,000 never reached mcashback (i leave open for the present the expenditure, in this example, of the odd 25,000 on fees and expenses).
+the judge was right to emphasise that the transaction was the subject of tough negotiation between mcashback and tower (whose founder members stood to make a large gain, when the investor members rights had been fully satisfied, if the m rewards scheme was as successful as both sides hoped it would be).
+the negotiations were tough because mcashback (unlike bge in bmbf) really did need up front finance in order to roll out its software and give effect to its business plan.
+it saw itself as parting with potentially very valuable rights indefinitely (the investor members dropped out after ten years, but the founder members did not) for only a modest part (just over 18% before fees and expenses, or just under 17% after fees and expenses) of the total capital apparently being raised.
+that was because 75% of the capital raised, although not simply a sham, was really being used in an attempt to quadruple the investor members capital allowances.
+that is what the tough bargain which tower struck with mcashback enabled tower to offer to its investor members.
+i have already (para 47 above) quoted lord goff in ensign [1992] 1 ac 655, 682.
+the facts of that case were different, since in that case there was not in any meaningful sense a loan at all.
+in this case there was a loan but there was not, in any meaningful sense, an incurring of expenditure of the borrowed money in the acquisition of software rights.
+it went into a loop in order to enable the llps to indulge in a tax avoidance scheme.
+despite the shortcomings in his decision, the special commissioner was essentially right in his conclusion in para 138 (quoted in para 56 above).
+i respectfully consider that moses lj was right in deriving assistance from ensign (paras 78 and 79 of his judgment, quoted in para 62 above) as to the relevance of the terms of the borrowing (here interest free and non recourse).
+but i respectfully think that he was wrong to concentrate on the terms as an indication of whether there was real expenditure.
+that was the issue in ensign (no real loan, no real expenditure).
+here the issue was whether there was real expenditure on the acquisition of software rights.
+i think that moses lj gave the right answer to the wrong question.
+the transfer of ownership (or at least of rights) indicated the reality of some expenditure on acquiring those rights, but was not conclusive as to the whole of the expenditure having been for that purpose.
+moses lj was also wrong (on the point of fact raised by mr prosser) in saying that in ensign the loan never had to be paid, whatever success the film achieved: see [1992] 1 ac 655, 663 (lord templeman) and 683 (lord goff); also the detailed case stated at [1989] stc 705, 721 722, summarising clause 11 of the distribution agreement.
+one of the lessons of bmbf is that it is not enough for hmrc, in attacking a scheme of this sort, to point to the money going round in a circle.
+closer analysis is required.
+in bmbf the whole 91m was borrowed by barclays finance from barclays bank on fully commercial terms (though they were companies in the same group) and barclays finances acquisition of the pipeline was on fully commercial terms.
+bge had the whole 91m at its disposal, and though it was disposed of at once under further pre arranged transactions, those transactions were entirely for the benefit of bge.
+bge had no pressing need for upfront finance (which is not, contrary to what park j supposed, an essential feature of a leasing scheme capable of generating capital allowances).
+in the present case, by contrast, the borrowed money did not go to mcashback, even temporarily; it passed, in accordance with a solicitors undertaking, straight to r & d where it produced no economic activity (except a minimal spread for the two guernsey banks) until clearing fees began to flow from mcashback to the llps (in an arrangement comparable, though not closely similar, to the arrangements between lpi and vp in ensign).
+the llps relied on the decision of the house of lords in corporation of birmingham v barnes [1935] ac 292.
+the corporation was held to be entitled to wear and tear allowances in respect of the whole cost of building and renewing tramways although it had received contributions to the cost from two sources (a factory owner benefited by the tramway and a government grant to encourage public works as a means of reducing unemployment).
+the statutory words to be construed were the actual cost to the corporation.
+lord atkin (with whom the rest of the house agreed) understood the words as directed (p 298) to the amount which the corporation paid for the tramway works, regardless of the source of its funds.
+that does not assist the llps, which did not pay the borrowed money to mcashback to acquire software rights.
+instead they put it into a loop as part of a tax avoidance scheme.
+for these reasons i would allow hmrcs appeal, dismiss the llps cross appeal, and set aside the orders of the court of appeal and henderson j.
+i have considered whether it would be right (especially in view of the factual confusion and absence of any valuation evidence about the allocation of software rights) to remit the matter to another special commissioner for further findings.
+but i do not think it would be right to do so.
+neither side asked for a remission, and the special commissioner himself twice refused an adjournment for further valuation evidence to be adduced.
+no one has suggested that that case management decision should now be revisited.
+i would direct the conclusions and amendments in the closure notices to be amended to allow 25% only of the fyas claimed.
+that is in one way generous to the llps, since in fact about one third of their contribution (the 25,000 in the example given above) was devoted to fees and expenses.
+but i think it would, in all the circumstances, be the fair outcome in a confusing case.
+if a majority of the court agrees with my conclusion, it is to be expected that commentators will complain that this court has abandoned the clarity of bmbf and returned to the uncertainty of ensign.
+i would disagree.
+both are decisions of the house of lords and both are good law.
+the composite transactions in this case, like that in ensign (and unlike that in bmbf) did not, on a realistic appraisal of the facts, meet the test laid down by the caa, which requires real expenditure for the real purpose of acquiring plant for use in a trade.
+any uncertainty that there may be will arise from the unremitting ingenuity of tax consultants and investment bankers determined to test the limits of the capital allowances legislation.
+lord hope
+i accept with gratitude lord walkers careful description of the facts of this case, his discussion of the authorities and the conclusions that he has reached.
+like him, i would dismiss the cross appeal by the llps on the procedural issue, allow hmrcs appeal on the expenditure issue and make the order that he proposes.
+i would however like to add one or two footnotes to what he has said.
+the procedural issue
+the stage at which an enquiry under section 12ac(1) of tma 1970 is completed is identified by a notice given under section 28b by the officer in charge of the enquiry to the taxpayer.
+section 28b(1) describes this as a notice which informs the taxpayer that the officer has completed his enquiries and states his conclusions.
+if an amendment to the return is required to give effect to his conclusions, section 28b(2) requires him to make those amendments.
+the taxpayer has a right of appeal under section 31(1)(b) of tma 1970 against any conclusion stated in or amendment made by a closure notice.
+so it is desirable that the statement by the officer of his conclusions should be as informative as possible.
+this is because of the function that the terms of the notice will serve in identifying the subject matter of any appeal.
+in this case the closure notice that mr frost issued was in very bald terms.
+all he said was that the claim for relief under section 45 caa was excessive, and that the amount in the return for capital allowances was amended to nil.
+no details were given of the reasons why he had reached the conclusion to which his amendment gave effect.
+the statute does not spell out exactly what it means by the words his conclusions.
+but taxpayers are entitled to expect a closure notice to be more informative.
+notices of this kind, however, are seldom, if ever, sent without some previous indication during the enquiry of the points that have attracted the officers attention.
+they must be read in their context.
+in this case mr frost drew attention to this when he prefaced his conclusion with the words as previously indicated.
+he also sent a covering letter which cast further light on the approach which he had taken to the various issues that had been under examination.
+in these circumstances it does not seem unfair to the llps to hold that the issue as to their entitlement to the allowances claimed should be examined as widely as may be necessary in order to determine whether they are indeed entitled to what they have claimed.
+furthermore, while the scope and subject matter of the appeal will be defined by the conclusions and the amendments made to the return, section 50 of tma does not tie the hands of the commissioners (now the tax chamber) to the precise wording of the closure notice when hearing the appeal.
+i would therefore respectfully endorse the points that lord walker makes in para 18.
+our decision to dismiss the cross appeal should not be taken as indicating that uninformative closure notices of the kind that mr frost, no doubt under pressure, issued in this case should be the norm.
+the aim should be to be helpful, both to the taxpayer and to the tax tribunal which will have to case manage any appeal.
+the officer should wherever possible set out the conclusions that he has reached on each point that was the subject of enquiry which has resulted in his making an amendment to the return.
+the expenditure issue
+the issue, reduced to its simplest terms, is whether the whole of the 27.5m paid by llp2 to mcashback under the terms of the software licence agreement was expenditure incurred by llp2 on the provision of software within the meaning of the capital allowances act 2001.
+the general rule itself is not in doubt.
+expenditure is qualifying expenditure if it is capital expenditure on the provision of plant or machinery wholly or partly for the purposes of the qualifying activity carried on by the person incurring the expenditure: caa, section 11(4).
+the problem that the facts of this case give rise to is the extent to which surrounding circumstances, such as the source and destination of the funds expended and the commercial soundness of the transaction when looked at as a whole, may be taken into account in an assessment of the question whether the taxpayer was involved in expenditure that entitled it to the allowance claimed.
+the case for the llps was that transfer of ownership was itself enough to show that real expenditure was incurred.
+they also maintained that the source of the funds was irrelevant, as also was what the purchaser did with the funds received by it.
+moses lj too adopted a similar approach in the court of appeal when he concluded that there was nothing in the terms of the loans which showed that they were never likely to be repaid, as it all depended on success in marketing the software: [2010] stc 809, para 84; and that it was sufficient that the llps acquired the right to the full economic benefit of the software: para 86.
+the reality, however, was that much of the consideration paid by the llps for the software was derived from funds borrowed by members of the llps on non recourse terms which was immediately passed back by way of a chain of banks to the lender.
+this was, as lord walker says in para 67, a complex pre ordained transaction which requires the facts, realistically viewed, to be tested against the wording of the statute.
+in barclays mercantile business finance ltd v mawson [2005] 1 ac 684, para 32 lord nicholls of birkenhead said that the question is always whether the relevant provisions of the statute, upon its true construction, applies to the facts as found.
+in para 39 he stressed the need for a close analysis of what, on a purposive construction, the statute actually requires.
+caa, section 11(4) sets out the general rule that expenditure must satisfy if it is to be qualifying expenditure.
+purposively construed, it requires it to be demonstrated in this case that the whole of the claimed expenditure of 27.5m was actually incurred on acquiring rights in the software.
+this is a factual inquiry, the extent and depth of which will always depend on the circumstances of each case.
+the special commissioner held that the scheme in this case was not a sham, but that the market value of the software rights was very materially below the price that had ostensibly been paid for them.
+a significant proportion of the consideration for their acquisition was provided from loans which were immediately returned to the lender in a way that had been pre ordained.
+whatever purpose the loans were designed to serve, it is not obvious that it was to secure the acquisition of rights in the software.
+the llps maintained that the source of this part of the consideration, and what was done with it, was irrelevant.
+they referred, in support of that proposition, to birmingham corporation v barnes [1935] ac 292, where the corporation incurred expenditure on building and operating a tramway.
+part of the funding for the tramway came from the owner of a factory near to whose premises the tramway ran.
+another part came from an unemployed grants committee because the corporation had used direct labour which included workers who had previously been unemployed.
+it was held that, when determining the actual cost of the tramway, the source of the funding was irrelevant.
+i do not think that the decision in that case, on relatively simple facts, offers any guidance as to the view that should be taken of this case.
+in that case there was no doubt that the whole of the money which the corporation received, from whatever source, was actually expended on the tramway.
+a significant part of the money that was passing from one party to another in this case was returned to its source immediately.
+as lord walker points out in para 76, it did not go to mcashback as payment for the rights in the software, even temporarily.
+this suggests that it is, to say the least, questionable whether it was expended in their acquisition at all.
+i think that the llps were perhaps on stronger grounds in relying on peterson v commissioner of inland revenue [2005] ukpc 5, [2005] stc 448.
+in that case the taxpayer was a member of a syndicate of investors formed to finance a feature film in new zealand.
+the investors were induced to invest in it by the prospect of obtaining a depreciation allowance to set off against their taxable income, but they were led to believe that the film would cost more than it was actually expected to cost.
+they signed a contract in which they accepted a liability to pay the artificially inflated amount to the production company.
+that sum was to be paid in cash at the outset, funded in part by the investors out of their own resources, and in part by the proceeds of a non recourse loan from a third party connected to the production company.
+unknown to the investors, the production company did not use the portion of the consideration funded by the loan to make the film but recycled the money back to the lender immediately it was received.
+the investors claimed to be allowed to set off the full amount against their taxable income.
+the commissioner allowed that part which had been funded out of their own resources.
+but he disallowed the loan element, on the ground that it did not represent expenditure by them at all.
+the question was whether the investors had obtained a tax advantage which could be held to be void under the tax avoidance legislation in force in new zealand.
+the board held by a majority (lord millett, baroness hale of richmond and lord brown of eaton under heywood) that the investors were entitled to depreciate their full acquisition costs for the film, whatever the means by which they had obtained funds to finance its acquisition.
+the fact that the cost of the acquisition was funded wholly or in part by a non recourse loan was irrelevant, as was the fact that the costs of the films production had been falsely inflated.
+the focus was on the party who acquired the asset and his having incurred the cost of doing so.
+it did not matter where the money came from, nor did it matter what the party who disposed of the asset did with the money when he received it.
+he was not required to apply the proceeds of disposing of the film to the investors in making the film.
+so the commissioner had not succeeded in showing that the investors had not incurred the economic burden of paying the inflated amount for its acquisition.
+it should be noted, however, that the majority were careful to say that they reached their conclusion on the facts agreed or found by the taxation review authority, the way in which the commissioner put his case from time to time and the allegations and concessions he had made: para 47.
+they said that they were not to be understood as deciding that, had the necessary facts been found, the commissioner might not have successfully challenged the investors case that the obligation which they incurred to pay the inflated amount was exclusively incurred as consideration for the acquisition of the film.
+there was also a powerful dissent by the minority (lord bingham of cornhill and lord scott of foscote), who thought that it was plain that the non recourse loan was no more than a device to produce a higher capital sum to be depreciated and, thereby, a higher tax deduction: para 91.
+while the mechanism that was used there was broadly the same as that which was used in this case, i would confine the decision to its own facts.
+in barclays mercantile business finance ltd v mawson the house of lords adopted a practical, commercial approach to the reality of the expenditure.
+although the facts of this case lead to a different result, i would adopt the same approach here.
+as lord walkers exacting analysis has shown, they do not support llps case that the whole of the claimed expenditure was actually used to acquire the rights in the software.
+i agree that, in the circumstances of this case, we can and should reach our own conclusion as to the amount that should be allowed in respect of the claimed expenditure.
+lord rodger, lord collins, lord kerr, lord clarke
+lord dyson
+for the reasons given by lord walker and lord hope, with which we entirely agree, we too would dismiss the cross appeal by the llps on the procedural issue, allow hmrcs appeal on the expenditure issue and make the order that lord walker proposes.

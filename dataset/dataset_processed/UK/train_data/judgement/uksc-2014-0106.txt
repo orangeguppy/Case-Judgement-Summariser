@@ -1,0 +1,242 @@
+this appeal raises two important and controversial questions of commercial law.
+the first is: in what circumstances will the law treat the authority of an agent as irrevocable.
+the other is whether the receipt of money at a time when the recipient knows that imminent insolvency will prevent him from performing the corresponding obligation, can give rise to liability to account as a constructive trustee.
+introduction
+angoves pty ltd is an australian winemaker, which for many years employed an english company called d&d wines international ltd as its agent and distributor in the united kingdom.
+d&d acted in both capacities.
+it bought wines from angoves in its own right and it sold wines on angoves behalf to uk customers, generally retailers.
+both activities were governed at the relevant time by an agency and distribution agreement (or ada) dated 1 december 2011.
+under clause 34, the ada was terminable by either side on six months notice, or, under clause 36, by notice with immediate effect in a number of events, including the appointment of an administrator or liquidator.
+on 21 april 2012, d&d went into administration, and on 10 july 2012 moved into creditors voluntary liquidation.
+at the commencement of the administration, there were outstanding invoices amounting altogether to a$874,928.81, representing the price of wine which d&d had sold to two uk retailers, but which the latter had not yet paid.
+on 23 april 2012, angoves gave written notice terminating the ada and any authority of d&d to collect the price from these two customers.
+the notice declared that angoves proposed to collect the price directly from the customers and would account separately to d&d for their commission.
+in due course, the liquidators objected to this course.
+they claimed to be entitled to collect on the outstanding invoices, deduct commission due to d&d, and leave angoves to prove in the winding up for the rest of the price.
+the liquidators have never denied that angoves was entitled to terminate the ada or that their notice of 23 april 2012 had that effect.
+but they contended that the relationship between d&d and angoves in relation to the transactions covered by the invoices was that of buyer and seller, not agent and principal, and that accordingly the companys liability to angoves at the commencement of the administration was a simple debt for goods sold and delivered.
+angoves disputed this contention.
+they also argued that any moneys held by d&d for their account were held in trust for them.
+by agreement between the parties, the sums paid to d&d on the invoices after the notice of termination were held by the liquidators in an escrow account pending the resolution of the dispute, and the sums paid directly to angoves were held in their solicitors client account on the same terms.
+the matter came before his honour judge pelling qc, sitting as a judge of the high court, on an application under section 112 of the insolvency act 1986 [2013] ewhc 215 (ch).
+he held that in the relevant respects the relationship between angoves and d&d was that of principal and agent only, and that d&ds authority to collect the price from customers came to an end upon service of angoves termination notice.
+in the court of appeal, the liquidators did not challenge the judges finding that d&d acted as agents.
+their case was that if d&d acted in the relevant respects as agents, their authority to collect the price of goods which they had sold on angoves behalf survived the termination of the ada because they needed it in order to recover their commission.
+the court of appeal (patten, lewison and sharp lljj) accepted this argument and allowed the appeal on that basis [2014] ewca civ 215; [2014] 2 bclc 129; angoves alternative case that the proceeds of the invoices were held in trust for them failed at both stages, although for different reasons.
+the revocability of an agents authority
+the general rule is that the authority of an agent may be revoked by the principal, even if it is agreed by their contract to be irrevocable.
+the revocation is effective to terminate the agents authority, but gives rise to a claim for damages.
+powers of attorney were said by lord kenyon to be revocable from their nature: walsh v whitcomb (1797) 2 esp 565, 566.
+in storys law of agency, 2nd ed (1864), p 598, at para 463, the rule was said to be so plain a doctrine of common sense and common justice that it requires no illustration or reasoning to support it.
+nonetheless, its basis has never really been in doubt.
+an agent is empowered to commit his principal within the limits of his authority as if the principal had agreed personally.
+this is a confidential relationship importing a duty of loyalty, and normally of undivided loyalty, on the part of the agent.
+as lord atkinson observed, delivering the advice of the privy council in frith v frith [1906] ac 254, 261, to allow the agent to exercise his authority after it has been revoked would amount to the specific enforcement of a relationship which is by its nature not specifically enforceable.
+the main exception to the general rule is the case where the agent has a relevant interest of his own in the exercise of his authority.
+the exception applies if two conditions are satisfied.
+first, there must be an agreement that the agents authority shall be irrevocable.
+secondly, the authority must be given to secure an interest of the agent, being either a proprietary interest (for example a power of attorney given to enable the holder of an equitable interest to perfect it) or a liability (generally in debt) owed to him personally.
+in these cases, the agents authority is irrevocable while the interest subsists.
+both conditions are now reflected in section 4(1) of the powers of attorney act 1971, as regards authority conferred by a power of attorney.
+the first condition is perhaps self evident, but so far as authority is required, it is supplied by the decisions of the privy council in esteban de comas v prost and kohler (1865) 3 moo pc ns 158 and frith v frith [1906] ac 254.
+the second condition was established in walsh v whitcomb, supra, where the exception was said to apply in every case where a power of attorney is necessary to effectuate any security.
+in smart v sandars (1848) 2 cb 895, 917 918, commonly regarded as the leading case, wilde cj, delivering the judgment of the court of common pleas, declared that: where an agreement is entered into on a sufficient consideration, whereby an authority is given for the purpose of securing some benefit to the donee of the authority, such an authority is irrevocable.
+this is what is usually meant by an authority coupled with an interest, and which is commonly said to be irrevocable.
+but we think this doctrine applies only to cases where the authority is given for the purpose of being a security, or, as lord kenyon expresses it, as a part of the security; not to cases where the authority is given independently, and the interest of the donee of the authority arises afterwards, and incidentally only.
+these cases demonstrate that an agreement that the agents authority is to be irrevocable may be inferred, but not from the mere co existence of the agency and the interest.
+it is necessary that the one should be intended to support the other.
+the exception thus stated follows from the logic of the rule.
+where the parties agree that the agent is to have a personal financial interest in the performance of his agency, over and above the receipt of his remuneration, his duty of loyalty is to that extent compromised.
+the reason for declining to enforce his right to act for the principal therefore falls away.
+the ambit of the exception for authority coupled with an interest is more narrowly defined by the editors of bowstead and reynolds on agency, 20th ed (2014), para 10 007.
+they say that it applies where the notion of agency is employed as a legal device for a different purpose from that of normal agency, to confer a security or other interest on the agent.
+in such a case it is intended that the agent use the authority not for the benefit of his principal but for his own benefit, to achieve the objects of the arrangement.
+this would appear to confine the exception to cases where the authority exists solely in order to secure the agents financial interest, and is in reality no more than the commercial equivalent of an assignment.
+in such a case, the editors suggest, the law of agency is not really engaged at all, because the beneficiary of the authority is only nominally an agent.
+in my opinion, this is too narrow.
+it is no doubt a fair description of the simplest cases, but i do not accept that it can be a general principle of law.
+at one extreme lie cases such as walsh v whitcomb, supra, where a power of attorney was granted solely to enable the grantee to satisfy a pre existing debt owed to the agent, or gaussen v morton (1830) 10 b&c 731, where an owner of land gave a power of attorney to a creditor to sell the land to satisfy the debt.
+no one doubts that the exception applies in such cases.
+at the opposite extreme, it does not apply where the agents only interest is a commercial interest in being able to earn his commission.
+the reason is that in that case, the authority is not properly speaking a security at all: doward, dickson & co v williams & co (1890) 6 tlr 316; temple legal protection ltd v qbe insurance (europe) ltd [2009] lloyds rep ir 544, at para 50.
+but there are situations lying between these polar positions where the relationship of principal and agent is broader than the mere collection of money to satisfy the agents debt, so that the agent may be said to act both for himself and his principal.
+in smart v sandars, supra, for example, the agent was a grain factor and the advances said to be secured by the agents authority were made against the proceeds of sale of unsold grain.
+it is clear that the agent would have succeeded but for the fact that the advances had been made after and independently of the agency agreement so that the latter could not be construed as securing them.
+there is no principled reason why a true agent employed on his principals affairs should not also be regarded as having a personal interest in the exercise of his authority sufficient to make it irrevocable.
+thus although, as i have said, the agents commercial interest in continuing to act in order to earn commission is not enough to make his authority irrevocable, his interest in recovering a debt in respect of commission already earned may well be.
+there is no reason to distinguish a debt arising in this way from any other debt, provided that it is sufficiently clear that the parties intended that the agents authority should secure it.
+there are a number of special cases in which the authority of an agent has been held to be irrevocable on what appears to be a wider basis.
+they include the irrevocable authority conferred on the promoter of a public share offering to subscribe for shares (in re hannans express gold mining and development co; carmichaels case [1896] 2 ch 643), the irrevocable authority conferred by a bidder on an auctioneer of land to execute the memorandum of sale if it is knocked down to him (van praagh v everidge [1902] 2 ch 266, reversed on other grounds [1903] 1 ch. 434), and the irrevocable authority conferred by a lloyds name on his managing agent to underwrite (daly v lime street underwriting agencies [1987] 2 ftlr 277, society of lloyds v leighs [1997] clc 759 decided on other grounds in the court of appeal the times, 11 august 1997).
+the result in these cases was undoubtedly convenient, but they do not lend themselves to analysis along the lines discussed above.
+nothing that i have said should therefore be taken to refer to them.
+application to the present case
+at this point, it is necessary to look more closely at the terms of the ada.
+clause 10 provided that where d&d took angoves products as their agents for sale, the terms of any sale should be the standard terms set out at annexure a.
+these were drafted on the footing that the parties to the contract of sale were angoves and the customer, defined as the person who acquires goods from angove.
+they provided for the purchaser to pay the price within 90 days of the bill of lading date.
+d&ds right to commission is governed by clause 21: 21.
+angove will pay to d&d commission: (a) in such amounts as shall be agreed between angove and d&d based on the net selling price of every sale of products or angove pbps to a customer in d&ds allocated sectors within the territory arranged by d&d during the term of this agreement (other than on its own account); and (b) on any bulk wine supplies made by angove, or by any company or entity wholly owned by angove pursuant to clause 17 during the term of this agreement.
+clauses 20 and 22 deal with the procedure for the payment of the price: 20.
+payment for products ordered by or on behalf of d&d must be made, whether by d&d or the customer, on or before 90 days from the date of bill of lading, or otherwise as may be agreed, by direct credit in australian dollars into the bank account nominated from time to time by angove. 22.
+commission due under clause 21(a) shall be paid to d&d as follows: (a) angove will issue an invoice addressed to d&d (identifying the customer as consignee) for the relevant goods, together with a credit note for the amount of d&ds commission on that sale; (b) d&d will be responsible for collecting payment of the amount of angoves invoice from the customer; (c) d&d will pay the amount of angoves invoice, less the amount of the credit note, on or before the due date in accordance with clause 23.
+it is common ground that the combined effect of clauses 20 and 22(c) was to require d&d to account to angoves within 90 days of the bill of lading date for the price of the goods sold to customers on angoves behalf, whether or not the price had by then been received from the customers.
+finally, it is necessary to refer to clause 37, which deals with certain of the consequences of termination.
+this provides, so far as relevant: 37.
+upon termination of this agreement for any reason whatsoever: (a) each party must pay to the other all money owing up to and including the date of termination in respect of the sale of products and angove pbps and/or commission thereon, without any deduction, withholding or set off for any reason whatsoever; termination of this agreement does not affect the accrued rights or remedies of either party.
+obligations expressed to arise or continue on or after termination of this agreement survive its termination.
+the court of appeal held that d&ds authority was irrevocable because the general rule that authority can be revoked must yield to what the parties have agreed should be their respective legal rights and obligations on the termination of the agency (para 25).
+construing the ada, they held that a continuing right to collect the price from the customer was implicit in (i) d&ds right to deduct commission from the price before remitting it to angoves, and (ii) d&ds obligation to account to angoves for the price within 90 days of the bill, whether or not it had by then been received from the customer.
+this was because these features of the agreement gave rise to liabilities of angoves to d&d, which could be set off against sale proceeds in d&ds hands.
+it will be apparent from this that the court of appeal applied only part of the test.
+the general rule is that an agents authority is revocable even if it is agreed to be irrevocable.
+it cannot therefore be enough to exclude the general rule that the authority is agreed to be irrevocable.
+what has to be agreed is not just that the authority is to be irrevocable but that it is intended to secure the financial interest of the agent.
+both are questions for the construction of the agreement.
+the court of appeal did not address the latter criterion.
+of them was satisfied, for the following reasons: it is convenient to deal with both conditions together.
+in my opinion, neither (1) d&d had express authority to collect from the customer under clause 22(b), and it would have been simple enough to provide in terms that it was irrevocable.
+but it is not expressed to be irrevocable or to survive the termination of the agreement.
+so far as the language offers any indication, it is to the opposite effect.
+by virtue of the final paragraph of clause 37, authority to collect the price would survive the termination of the agreement only if it constituted an accrued right or remedy of the agent.
+but it is described in clause 22(b) as a responsibility, not a right.
+i would accept that for the purpose of clause 37 a provision may be expressed to survive termination if, although not spelled out in so many words, it is nevertheless a sufficiently clear implication from the express terms.
+but for the following reasons i consider that no such implication is possible. (2) the first point to be made is that while d&d assume the responsibility of collecting payment from customers to whom they sell as angoves agent, there is nothing to stop the customer from paying angoves directly.
+under the standard terms required to be agreed with the customer the price is payable to angove, which means angove pty ltd, and includes d&d wines international ltd, where it acts as agent for angove pty ltd. this is consistent with clause 20, which envisages that payment may be made to angoves by d&d or directly by the customer.
+this makes it, as it seems to me, difficult to regard collection from the customer as a right, as opposed to a function of d&d, and even more difficult to regard it as a security. (3) it is correct that d&ds right to commission under clause 21 survives the termination of the agreement, because it accrues unconditionally when the sale is made, therefore before termination.
+but the question is whether the right to deduct it from the price under clause 22(c) is a mere procedural mechanism or a security.
+it is not the only way of recovering it.
+if the price is paid directly by the customer to angoves, the commission is payable by angoves directly.
+in that event d&d would lose the ability to set off the commission against any sale proceeds in their hands.
+but the irrevocability of d&ds authority cannot be inferred from the mere fact that d&d would to some extent and in some circumstances benefit if it was so. (4) much the same point may be made about d&ds obligation under clauses 20 and 22(c) to account to angoves for the price within 90 days of the bill of lading date.
+this was a right of angoves.
+it accrued when the goods were shipped, albeit that payment would not be due until later.
+it follows, as the court of appeal held, that in relation to goods shipped before the termination of the ada it survived that event, just as it would have done if d&d had bought the goods in their own right.
+clause 20 applies in both cases.
+it does not, however, follow that d&d had the continuing authority of angoves to collect the price from the customer.
+once they had paid the price to angoves, they were entitled at common law to collect it from the customer on the ground that they had compulsorily discharged the customers liability for the price: moule v garrett (1872) lr 7 ex 101; ibrahim v barclays bank plc [2013] ch 400.
+the source of this right is the law of unjust enrichment.
+it is not the authority of angoves, who have no further standing in the matter once they have been paid. (5) it is inherently improbable that the parties should have intended the authority to be irrevocable.
+they had expressly envisaged the possibility of insolvency and provided for a mutual right of termination in that event.
+for an exporter in particular, there are particular problems associated with financial dealings with an insolvent agent for sale, which angoves clearly wished to avoid.
+if the agents authority to collect money from third parties survives termination the effect would be to secure d&ds right to 5% commission in the event of the insolvency of angoves, but at far greater cost to angoves in the event of the insolvency of d&d. they would have to prove as unsecured creditors in the liquidation for the remaining 95%.
+i conclude that angoves notice of 23 april 2012 was immediately effective
+to terminate d&ds authority to collect on the outstanding invoices.
+this means that it is strictly speaking unnecessary to deal with the second point, namely whether the funds paid by customers to d&d since the commencement of the administration are held in trust for angoves.
+but since the point is of some general importance and has been fully argued before us, i think it right to deal with it.
+i do so on the assumption that (contrary to the conclusion that i have reached) angoves notice of termination was not effective to terminate d&ds authority to collect on the invoices.
+an agent has a duty to account to his principal for money received on his behalf.
+it is, however, well established that the duty does not necessarily give rise to a trust of the money in the agents hands.
+that depends on the intentions of the parties derived from the contract, or in some cases from their conduct.
+as a broad generalisation, the relations between principal and agent must be such that the agent was not at liberty to treat as part of his general assets money for which he was accountable to his principal.
+this will usually, but not invariably, involve segregating it from his own money.
+the editors of bowstead and reynolds on agency, 20th ed (2014), 219, para 6 041, put the matter in this way: the present trend seems to be to approach the matter more functionally and to ask whether the trust relationship is appropriate to the commercial relationship in which the parties find themselves; whether it was appropriate that money or property should be, and whether it was, held separately, or whether it was contemplated that the agent should use the money, property or proceeds of the property as part of his normal cash flow in such a way that the relationship of debtor and creditor is more appropriate.
+the judge held that in principle any liability of d&d to account for money collected from customers under the ada gave rise to a purely personal liability sounding in debt, and not to a proprietary claim; whereas money collected outside the ada, after their authority had been terminated, would be held in trust for angoves.
+however, he concluded that none of this mattered because the proceeds of the invoices fell to be dealt with in accordance with the escrow arrangements.
+there is no longer any issue on these points.
+in the court of appeal matters took a different turn.
+before the hearing of the appeal the court wrote to the parties drawing their attention to a passage from the 18th edition of lewin on trusts (2006), which suggested that the proceeds of the invoices might be held on a constructive trust for angoves even if there was a continuing authority to collect it.
+in the 19th ed (2015), the corresponding passage reads: unconscionable assertion of title to money payments by agents money received by an agent, though not held on an express trust for his principal, nor on a quistclose trust, may be held on a constructive trust for his principal on the ground that it would be unconscionable for the agent to assert a title to the money having regard to the circumstances of the agent at the time of receipt.
+such a constructive trust has been held to arise where the agent receives money from his principal for application by the agent under a contract which the agent will be unable to perform because of his pending insolvency, or where the agent receives money from a third party for onward transmission to his principal which he is unable to do in view of his insolvency, even though the contract with the principal negatives an express trust.
+the authorities cited for these propositions are the decisions of bingham j in neste oy v lloyds bank plc [1983] 2 lloyds rep 658 and nicholas warren qc, sitting as a deputy high court judge in in re japan leasing europe plc [1999] bpir 911.
+neste oy v lloyds bank plc concerned the right of the bank to combine the accounts of an insolvent shipping agent called peckston shipping ltd (or psl).
+psl settled on behalf of their shipowner clients bills payable to harbour authorities, pilots, fuel merchants, and other providers of goods and services.
+the shipowners sometimes put them in funds in advance and sometimes reimbursed them in arrears.
+the plaintiff shipowners claimed that the unspent balance of six payments made by them to a general account of psl were held for them in trust.
+their primary case was that the payments were subject to an implied trust to pay the money to the suppliers.
+this arose either by virtue of the agency relationship or as a special purpose (or quistclose) trust: see barclays bank ltd v quistclose investments ltd [1970] ac 567.
+bingham j rejected this, but held that there was a constructive trust of the sixth payment, which had been received after the directors of psl had concluded that their company was insolvent.
+the judge took as his starting point a quotation from storys commentaries on equity jurisprudence, 2nd ed (1839), vol 2, para 1255, which had been cited by goulding j in chase manhattan bank na v israel british bank (london) ltd [1981] ch 105, 117 118 as being in accord with the general principles of equity as applied in england: the receiving of money which consistently with conscience cannot be retained is, in equity, sufficient to raise a trust in favour of the party for whom or on whose account it was received.
+this is the governing principle in all such cases.
+and therefore, whenever any controversy arises, the true question is, not whether money has been received by a party of which he could not have compelled the payment, but whether he can now, with a safe conscience, ex aequo et bono, retain it.
+applying this statement to the facts before him, he held, at p 666: given the situation of psl when the last payment was received, any reasonable and honest directors of that company (or the actual directors had they known of it) would, i feel sure, have arranged for the repayment of that sum to the plaintiffs without hesitation or delay.
+it would have seemed little short of sharp practice for psl to take any benefit from the payment, and it would have seemed contrary to any ordinary notion of fairness that the general body of creditors should profit from the accident of a payment made at a time when there was bound to be a total failure of consideration.
+of course it is true that insolvency always causes loss and perfect fairness is unattainable.
+the bank, and other creditors, have their legitimate claims.
+it nonetheless seems to me that at the time of its receipt psl could not in good conscience retain this payment and that accordingly a constructive trust is to be inferred.
+in re japan leasing europe plc [1999] bpir 911 concerned what was in effect a hire purchase agreement for an aircraft between four leasing companies and olympic airways.
+the contract documentation provided for the payment of the price in instalments to designated accounts in various currencies of one of the lessors, japan leasing.
+japan leasing was to receive the money on behalf of itself and the other three lessors.
+japan leasing went into administration, and a month later received an instalment into the designated accounts.
+the issue was whether the money was held in trust to pay their shares to the three other lessors.
+the deputy judge rejected the primary argument of the three solvent lessors that there was an express trust, but held that the last instalment was held on a constructive trust for the other lessors.
+the judge referred to an observation of the editors of bowstead and reynolds (currently the 20th ed (2014), at p 219) immediately after the passage which i have quoted above: a central question, really one of policy, is whether the rights of the principal are sufficiently strong and differentiable from other claims, for him to be given priority in respect of them in the agents bankruptcy.
+this had been quoted with apparent approval by lord goff of chieveley in lord napier and ettrick v hunter [1993] ac 713, 744, although it was not the ground on which he decided that case.
+the deputy judge then referred, at pp 922 923, to bingham js decision in neste oy.
+he was invited to distinguish it on the ground that in neste oy the agent had no contractual right to the sixth payment.
+the money had been destined for the payment of service providers who were not beneficiaries of the trust.
+the only consideration which the agent gave was its performance of its general obligations as a shipping agent, and that was the consideration for its charges, not for the sixth payment.
+japan leasing, by comparison, was contractually entitled to receive the money.
+although it was accountable for most of it to the other three lessors, it had given consideration for its share of the instalments.
+the deputy judge rejected this distinction because it was irrelevant to bingham js reasoning: the constructive trust is imposed because it would be unconscionable for the company, as agent, to receive money as agent knowing that it could not account for it to its principal.
+in this context, the passage from bowstead quoted in napier (see above) is relevant and in my judgment the only answer which could be given to the question there posed is that the rights of the vendors are sufficiently strong, and differentiable from other claims, for the vendors to be entitled to a prior position in respect of them on the companys insolvency (whether the question arises in an administration, a voluntary arrangement or a liquidation).
+the joint administrators have not, of course, acted unconscionably: they have, quite properly, brought the matter before the court.
+but it would, in my judgment, be unconscionable for them to continue to assert any claim to the moneys.
+the distinction which nicholas warren qc rejected was, however, accepted by the court of appeal in the present case.
+they justified the result in neste oy on the ground that the payments to psl were essentially gratuitous, and that the treatment of the sixth payment as part of the insolvent estate would have been a real windfall for the creditors.
+the position in japan leasing, they thought, was different, for the reason unsuccessfully submitted to nicholas warren qc.
+the court of appeal therefore doubted whether the decision was right.
+on the footing that d&d had a contractual right to collect the proceeds of the invoices in order to recover their commission on the sales, they thought that it could not have been unconscionable for d&d to retain the money and that there was no constructive trust.
+i agree with the court of appeal that there was no constructive trust in this case.
+but this conclusion does not in my view depend on whether d&d gave consideration for the money.
+there are, i think, more fundamental objections to the constructive trust proposed by angoves.
+at the time when the money was paid by the customers to d&d it was not impressed with any trust in favour of angoves.
+if, therefore, a constructive trust came into being, it did so for the first time upon its reaching the hands of the payee.
+the money would thereafter be traceable for as long as it remained identifiable in the hands of any third party other than a bona fide purchaser for value without notice.
+it would not form part of the insolvent estate, thereby conferring priority on angoves over other creditors, including many whose position would otherwise be no different from theirs.
+this is elementary, and fundamental.
+the statutory rules for the distribution of insolvent estates represent an important public policy designed to achieve a pro rata distribution of the companys estate between its creditors.
+for that purpose it is necessary to assess claims as at a fixed and common point of time, namely when the company went into liquidation.
+the arbitrary character of any cut off date is to some extent mitigated by statutory provisions for adjusting prior transactions prejudicial to creditors, such as preferences and transactions at an undervalue, and imposing liabilities for fraudulent or wrongful trading, but these provisions operate in their current form to restore the insolvent estate for the benefit of creditors as a whole.
+it is inherent in the statutory scheme of distribution in an insolvency that apparently arbitrary results may follow from the adventitious timing of the commencement of the liquidation, especially in the case of deferred obligations.
+in principle, an advance payment to a company made before the commencement of the liquidation for an obligation performable afterwards will form part of the companys estate, notwithstanding that its supervening insolvency means that the obligation will not be performed, at any rate in specie.
+the payer must prove in the liquidation for damages for the breach of contract.
+likewise, a contractor providing goods or services on credit will have to prove in the liquidation for the price if the other party becomes insolvent before paying.
+the rule is the same for money received for his principals account by an agent who becomes insolvent before accounting for it, unless (contrary to the unchallenged finding of the judge in this case) the relations between the parties were such as to make the agent an express trustee of money in his hands.
+the money will form part of the agents insolvent estate, and the principal must prove in the liquidation.
+in the nature of things, these consequences involve a detriment for the payer, attributable to the timing of the companys insolvency; and a windfall for the general creditors, since the estate available for distribution will be increased by the payment without being reduced by the cost of performance.
+as professor goode has remarked, it is when [scholars] seek to argue for a proprietary right when there is no proprietary base that the line is crossed between what is fair and what is not, for it is the defendants unsecured creditors who are then at risk.
+if the court wishes to show its disapproval of the defendants conduct by making a personal restitutionary order, no harm is done.
+if the defendant is not in bankruptcy the order will be complied with and enforced for the plaintiffs benefit, if the defendant does become bankrupt before then, the plaintiff is properly required to compete with other unsecured creditors.
+to accord the plaintiff a proprietary right to the benefit obtained by the defendant, and to any profits or gains resulting from it, at the expense of the defendants unsecured bankruptcy creditors seems completely wrong, both in principle and in policy, because the wrong done to the plaintiff by the defendants improper receipt is no different in kind from that done to creditors who have supplied goods and services without receiving the bargained for payment: goode, ownership and obligation in commercial transactions (1987) 103 lqr 433, 444.
+what in effect bingham j decided in neste oy was that the position was different where at the time of the receipt of the money the payee knew that there was bound to be a total failure of consideration.
+in that event, he would have not just a personal but a proprietary restitutionary claim for the money.
+english law is generally averse to the discretionary adjustment of property rights, and has not recognised the remedial constructive trust favoured in some other jurisdictions, notably the united states and canada.
+it has recognised only the institutional constructive trust: westdeutsche landesbank girozentrale v islington london borough council [1996] ac 669, 714 715 (lord browne wilkinson), fhr european ventures llp v cedar capital partners llc [2015] ac 250, at para 47.
+in the former case, the difference was explained by lord browne wilkinson in the following terms: under an institutional constructive trust, the trust arises by operation of law as from the date of the circumstances which give rise to it: the function of the court is merely to declare that such trust has arisen in the past.
+the consequences that flow from such trust having arisen (including the possibly unfair consequences to third parties who in the interim have received the trust property) are also determined by rules of law, not under a discretion.
+a remedial constructive trust, as i understand it, is different.
+it is a judicial remedy giving rise to an enforceable equitable obligation: the extent to which it operates retrospectively to the prejudice of third parties lies in the discretion of the court.
+bingham js point of departure in neste oy was that the recipient of money may be liable to account for it as a constructive trustee if he cannot in good conscience assert his own beneficial interest in the money as against some other person of whose rights he is aware.
+as a general proposition this is plainly right.
+but it is not a sufficient statement of the test, because it begs the question what good conscience requires.
+property rights are fixed and ascertainable rights.
+whether they exist in a given case depends on settled principles, even in equity.
+good conscience therefore involves more than a judgment of the relative moral merits of the parties.
+for that reason it seems to me, with respect, that bingham js observation in neste oy that any reasonable and honest director would have returned the sixth payment upon its receipt begs the essential question whether he should have returned it.
+it cannot be a sufficient answer to that question to say that it would be contrary to any ordinary notion of fairness for the general creditors to benefit by the payment.
+reasoning of this kind might be relevant to the existence of a remedial constructive trust, but not an institutional one.
+the observation of the editors of bowstead and reynolds and of nicholas warren qc in japan leasing that a proprietary claim should be recognised whenever the claim is sufficiently strong and differentiable from other claims to warrant giving it priority over other claims in an insolvency, seems to me to be open to the same objection.
+in english law, one of the essential requisites for a trust of whatever kind is that there must be identifiable trust property (or its traceable proceeds) in the hands of the recipient which are not available to him as part of his general assets: see westdeutsche landesbank girozentrale v islington london borough council [1996] ac 669, 705.
+the only true exception to this (which did not arise in neste oy) is the case of a person liable to account as a constructive trustee on the ground of his dishonest assistance in a breach of trust.
+the difficulty about the decision in neste oy concerning the sixth payment is that bingham j had rejected the argument that the agency relationship between the shipowners and psl was such as to impose the status of a trustee on the agents, and had declined to find that the payments were subject to a special purpose trust.
+he had rejected these submissions mainly because the agent was not expected to keep the funds remitted to it by the shipowners separate from its own, but was entitled to treat them as part of its general assets: see pp 664 665.
+it follows that in paying money to psl the shipowners intended to part with any interest in the money, subject only to a purely personal obligation of psl to account to them for what they had done with it and to repay any balance due as a debt.
+the judge made a similar finding in the present case.
+the exact circumstances in which a restitutionary proprietary claim may exist is a controversial question which has given rise to a considerable body of judicial comment and academic literature.
+for present purposes it is enough to point out that where money is paid with the intention of transferring the entire beneficial interest to the payee, the least that must be shown in order to establish a constructive trust is (i) that that intention was vitiated, for example because the money was paid as a result of a fundamental mistake or pursuant to a contract which has been rescinded, or (ii) that irrespective of the intentions of the payer, in the eyes of equity the money has come into the wrong hands, as where it represents the fruits of a fraud, theft or breach of trust or fiduciary duty against a third party.
+one or other of these is a necessary condition, although it may not be a sufficient one.
+neither of them was satisfied in neste oy.
+in particular, the prospect of a total failure of consideration, however inevitable, is not a circumstance which could have vitiated the intention of the shipowner to part with its entire interest in the money.
+the right to the restitution of money paid on a consideration which has wholly failed is simply a process of contractual readjustment, giving rise like the contract itself to purely personal obligations.
+if an actual total failure of consideration does not give rise to a proprietary restitutionary right, i do not see how a prospective one can do so.
+in my view, the decision in neste oy cannot be justified, at any rate on the ground on which it was decided.
+japan leasing was in my view wrongly decided, not just for that reason, but for the reason given by the court of appeal, namely that the recipient having a contractual right to the money, it could not be unconscionable for them to receive it into their account.
+mistake was not argued in neste oy.
+bingham j had refused to allow the shipowners to rely on it because they took the point too late.
+but it has subsequently been suggested that since the shipowners presumably paid the money in the belief that psl was in a position to disburse it to the service providers, mistake would have been a better basis for the decision: in re farepak food and gifts ltd [2008] bcc 22, at paras 39 40 (mann j).
+whether that is correct is not a question which arises on this appeal.
+the money was paid to d&d by the customers, not by angoves.
+they no doubt paid it in the belief that d&d was authorised to collect it, or at least that payment to them would discharge their liability for the price.
+the question of trust arises on the hypothesis that d&d was authorised to collect the proceeds of the invoices, and on that hypothesis their belief was not mistaken.
+conclusion
+i would allow the appeal and declare that the fund representing the proceeds of the invoices is payable to angoves.

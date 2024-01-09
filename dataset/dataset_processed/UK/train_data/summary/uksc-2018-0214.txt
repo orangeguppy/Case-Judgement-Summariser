@@ -1,0 +1,88 @@
+there are two appeals before the supreme court, both of which raise issues that are important to the international market in telecommunications.
+the appeals concern actions for infringement of uk patents said to be essential to the implementation of international standards for mobile telephony, such that it is not possible to make, sell, use or operate mobile phones and other equipment that is compliant with the standards without infringing the patents.
+patents of this kind are called standard essential patents (seps).
+the international standards in question are those set by the european telecommunications standards institute (etsi) for 2g (gsm), 3g (umts) and 4g (lte).
+etsi has over 800 members from 66 countries across five continents, and is recognised as the standard setting organisation in the european union telecommunications sector.
+amongst other things, it produces the technical standards needed to achieve a large unified european market for telecommunications, so that mobile phones and other telecommunications equipment can be used internationally.
+once a standard has been adopted, there is a risk that owners of seps could disrupt the international telecommunications market by refusing to license their inventions or by charging excessively high royalties for their use.
+etsi therefore requires its members to declare any patents which might be used in a telecommunications industry standard.
+under its ipr policy, etsi then requires the sep owner to give an irrevocable undertaking to license their patented technology on terms that are fair, reasonable and non discriminatory (frand).
+this gives those implementing the standards access to the technology protected by seps, while also providing the sep owners with a fair reward for the use of their seps.
+the first appeal (the unwired appeal) concerns an action brought by unwired against huawei for infringement of five uk patents which unwired claimed to be seps.
+the seps in issue form part of a worldwide patent portfolio, which unwired acquired from ericsson.
+unwireds business is licensing patents to companies who make and sell telecommunications equipment.
+ericsson had previously licensed the relevant seps to huawei, but the licence expired in 2012.
+in 2015 and 2016, three technical trials were held in which two of the seps were found to be both valid and essential.
+two other seps were found to be invalid.
+huawei has also been held to be infringing one or more of unwireds seps in germany, and its challenge to two of unwireds patents in china has not succeeded.
+in the subsequent non technical trial, the judge held that unwireds undertaking to license its seps on frand terms was justiciable and enforceable in the english courts.
+he also held that an implementer who refused to take a licence on terms which the court held to be frand exposed itself to an injunction for infringing a uk patent.
+in the circumstances, willing and reasonable parties would agree on a global license, which was the frand licence for a licensor with unwireds patent portfolio and an implementer with almost global sales like huawei.
+the judge went on to determine the royalty rates and other licence terms that he considered to be frand.
+the second appeal (the conversant appeal) concerns an action brought by conversant against huawei and zte for infringement of four of its uk patents.
+these form part of a portfolio of about 2,000 patents and patent applications, covering 40 countries, which conversant acquired from nokia in 2011.
+conversant argues that the portfolio includes 28 patent families which are seps.
+like unwired, conversant is an intellectual property licensing company which licenses patents for royalty income.
+huawei and zte applied for an order dismissing conversants claims on the basis that the english courts did not have jurisdiction to determine the validity of foreign patents or, in the alternative, for a stay of proceedings on the ground that the english courts were not the appropriate forum for trying the case.
+the trial judge dismissed both applications.
+he held that the english courts had jurisdiction to enforce the undertaking made under etsis ipr policy and to determine the terms of a frand licence.
+this did not intrude on the jurisdiction of foreign courts in relation to the validity or infringement of foreign patents, because the terms of any licenses determined by the english courts could be adjusted to reflect relevant rulings of foreign courts.
+the court of appeal upheld the trial judges orders in both the unwired appeal and the conversant appeal.
+huawei and zte now appeal to the supreme court.
+the supreme court unanimously dismisses both appeals.
+the full court gives the judgment, which confirms that the contractual arrangements etsi has created under its ipr policy give the english courts jurisdiction to determine the terms of a global license of a multi national patent portfolio.
+the appeals raise five issues, all of which are important to the international market in telecommunications [1].
+issue 1: the jurisdiction issue the jurisdiction issue arises in both appeals.
+the supreme court is asked to decide whether the english courts have jurisdiction and may properly exercise a power, without both parties agreement: (a) to grant an injunction to restrain the infringement of a uk patent that is a sep unless the implementer of the patented invention enters into a global licence of a multi national patent portfolio; and (b) to determine the royalty rates and other terms of such a licence [49].
+the court finds that the english courts have jurisdiction and may properly exercise these powers.
+questions as to the validity and infringement of a national patent fall to be determined by the courts of the state which has granted the patent.
+however, the contractual arrangements etsi has created under its ipr policy give the english courts jurisdiction to determine the terms of a license of a portfolio of patents which includes foreign patents [58].
+the court begins by considering huaweis argument that, properly construed, etsis ipr policy only permits the english courts to determine the terms of a license of uk seps and only where those seps have already been held by the english courts to be valid and infringed [54].
+the court rejects this argument on the basis that it runs counter to the aims of the ipr policy and does not adequately take
+the wider context into account [59 60].
+the court also rejects huaweis submission that the ipr policy prohibits a sep owner from seeking an injunction from a national court where it establishes that an implementer is infringing its patent.
+rather, the possibility that a national court might grant an injunction is a necessary part of the balance which the ipr policy seeks to strike, because it incentivises implementers to negotiate and accept frand terms for the use of the sep owners portfolio [61].
+huawei argues that there is a clear distinction between the terms that operators might choose to agree voluntarily as part of a commercial negotiation and the terms that can be imposed on them by the courts [53].
+the court rejects this distinction.
+it finds that the ipr policy envisages both that the courts may decide whether or not the terms of an offered licence are frand and that the courts should look to and draw on commercial practice in the real world when making this assessment [62].
+the court goes on to disagree with huaweis submission (at [51]) that the english courts do not have jurisdiction to determine the terms of a licence of disputed (or potentially disputed) foreign patents.
+in the present appeals, the lower courts did not attempt to rule on the validity or infringement of foreign patents, which would have been beyond their jurisdiction.
+instead, they looked to the industry practice of taking a license of a portfolio of patents and construed etsis ipr policy as promoting that behaviour [63].
+if an implementer is concerned about the validity and infringement of particularly significant patents in a portfolio, it could seek to reserve the right to challenge those patents and to require that the royalties payable under the licence should be reduced if the challenge is successful [64 65].
+the court also disagrees with huaweis submission (at [52]) that the approach of the english courts is out of step with that of foreign courts [66].
+it finds that the trial judges approach in the unwired appeal is consistent with several judgments in other jurisdictions, which contemplate that, in an appropriate case, the courts would determine the terms of a global frand licence [67 84].
+the court also dismisses huaweis argument (at [55]) that it is improper for an english court to exclude huaweis products from the uk market by exercising a discretion to grant an injunction in respect of an infringement of a sep [85 90].
+issue 2: the suitable forum issue the suitable forum issue arises in the conversant appeal only.
+it has two limbs.
+the first limb asks whether the high court should have: (a) set aside service of huawei and zte out of jurisdiction; and (b) permanently stayed the proceedings as against the english subsidiaries of huawei and zte on the basis that china was a more suitable forum for hearing the dispute than england [92].
+the suitable forum (or forum conveniens) doctrine requires the english court to decide whether it or a suggested foreign court with jurisdiction would be the more suitable forum for determining the dispute between the parties [94].
+huawei and zte argue that the chinese courts would be a more suitable forum for determining their dispute with conversant.
+however, the court holds that this argument must fail because the chinese courts do not currently have the jurisdiction needed to determine the terms of a global frand licence, at least, without all parties agreement that they should do so.
+in contrast, the english court has jurisdiction to do this [96 97].
+the second limb, which the court labels case management, is whether the english proceedings should be stayed temporarily until the chinese proceedings challenging the validity of conversants chinese patents have been concluded [92].
+the court finds that the court of appeal was right to refuse any case management solution [103 104].
+issue 3: the non discrimination issue the non discrimination issue arises in the unwired appeal and relates to the requirement that license terms must be non discriminatory.
+huawei argues that the non discrimination limb of the frand undertaking is hard edged, which means that like situations must be treated alike and different situations differently.
+sep owners like unwired must therefore grant the same or similar terms to all licensees, unless it can be shown that there are objective reasons for treating them differently.
+accordingly, unwired should have offered huawei a licence with a worldwide royalty rate which was as favourable as those it had previously agreed with samsung [105 106].
+the court holds that unwired had not breached the non discrimination limb of the frand undertaking [112].
+etsis ipr policy requires sep owners, like unwired, to make licenses available on fair, reasonable and non discriminatory terms and conditions.
+this is a single, composite obligation, not three distinct obligations that the licence terms should be fair, and separately, reasonable, and separately, non discriminatory [113].
+the non discriminatory part of the undertaking indicates that, to qualify as frand, a single royalty price list should be available to all market participants.
+this must be based on the market value of the patent portfolio, without adjustment for the characteristics of individual licensees [114].
+however, there is no requirement for sep owners to grant licences on terms equivalent to the most favourable licence terms to all similarly situated licensees.
+indeed, etsi previously rejected proposals to include a most favourable licence term of this kind in the frand undertaking [116 119].
+issue 4: the competition issue in the unwired appeal, huawei argues that unwireds claim for an injunction should be regarded as an abuse of its dominant position, contrary to article 102 of the treaty on the functioning of the european union.
+this is because unwired has failed to comply with the guidance given by the court of justice of the european union in huawei v zte (case c 170/13), since it did not make a frand licence offer before issuing proceedings for injunctive relief.
+huawei argues that, as a result, unwireds remedy should have been limited to damages [128 129].
+the court considers article 102 [131], huawei v zte [132 143], the facts of the present case [144 145] and the decisions of the trial judge and the court of appeal [146 148].
+it confirms that bringing an action for a prohibitory injunction without notice or prior consultation with the alleged infringer will infringe article 102 [150].
+however, the nature of the notice or consultation required will depend on the circumstances of the case: there is no mandatory requirement to follow the protocol set out in huawei v zte.
+on the facts, what mattered was that unwired had shown itself to be willing to grant a licence to huawei on whatever terms the court decided were frand.
+unwired had not therefore behaved abusively [151 158].
+issue 5: the remedies issue in both appeals, huawei argues that, even if it is infringing unwired and conversants seps, the court should not have granted an injunction to stop the continuing infringement.
+instead, the more appropriate and proportionate remedy would be for the court to award the claimants damages, based on the royalties which would reasonably be agreed for a licence of the infringed uk patents [159].
+the supreme court rejects this argument.
+it holds that there is no basis on which the court could properly substitute an award of damages for the injunction granted in the unwired appeal and upheld by the court of appeal [163].
+there is no risk that unwired or conversant could use the threat of an injunction as a means of charging exorbitant fees, since they cannot enforce their rights unless they have offered to license their seps on terms which the court is satisfied are frand [164 165].
+moreover, an award of damages would not be an adequate substitute for an injunction [166 169].

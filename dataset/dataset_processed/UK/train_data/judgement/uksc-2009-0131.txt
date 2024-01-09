@@ -1,0 +1,793 @@
+this is an appeal by hm revenue and customs (hmrc) against a decision of the court of appeal (ward, rimer and elias ljj) dated 2 july 2009: [2009] ewca civ 625, [2009] 2 bclc 309, [2009] stc 1639.
+the court allowed an appeal by mr michael holland (mr holland) against an order dated 4 july 2008 by mr mark cawson qc sitting as a deputy high court judge of the chancery division, following a judgment which he issued on 24 june 2008: [2008] ewhc 2200 (ch), [2008] 2 bclc 613, [2008] stc 3142.
+the trial over which the deputy judge presided arose out of 42 originating applications issued by hmrc on 27 july 2006 against mr holland and his wife linda.
+the applications were made under section 212 of the insolvency act 1986 (ia 1986).
+it was alleged that mr and mrs holland were de facto directors of 42 insolvent companies of which hmrc is the only creditor, and that they had been guilty of misfeasance and breach of duty in causing the payment of dividends to the companies shareholders between 24 april 2002 and 19 october 2004 when the companies had insufficient distributable reserves to pay their creditors.
+orders were sought requiring them to contribute sums to the assets of the insolvent companies by way of compensation in respect of their misfeasance and breach of duty of amounts totalling in excess of 3.5m.
+the background to the litigation was the setting up by mr and mrs holland in 1999 of a complicated structure of companies, including the 42 companies of which they were alleged to be de facto directors.
+their business was the administering of the business and tax affairs of contractors working in various sectors, but mainly that of information technology.
+each contractor was taken on as an employee of one of the 42 companies and allotted a non voting share.
+this enabled him to be rewarded on a weekly or monthly basis by way of both salary and dividends.
+the contractors services were provided to clients through an agency which paid the parent company.
+the intention was to provide the same tax advantages to the non voting shareholders/employees as they would have enjoyed had they each set up and run their own individual service companies, while relieving them of the administrative burden of doing so.
+it was of the essence of this scheme that each of the 42 companies would be liable to pay corporation tax at the small companies rate under section 13 of the income and corporation taxes act 1988 (icta 1988).
+so long as they were not regarded as associated for the purposes of section 416 icta 1988, they could achieve this aim provided that each company kept its profits below the 300,000 threshold, which it did.
+as it turned out, however, the scheme was doomed to fail.
+by the operation of section 417(3) icta 1988 mr holland, as the settlor of the one share in each company which had voting rights, fell to be treated as being in control of them.
+the result was that the 42 companies were treated as associated for tax purposes.
+because their collective turnover exceeded the 300,000 threshold, each company was liable for higher rate corporation tax (hrct).
+dividends had been paid after making provision only for corporation tax at the lower rate.
+so there was a substantial deficiency in the liquidation of each company in respect of its hrct liability.
+the deputy judge dismissed the claims against mrs holland, and there has been no appeal against that decision.
+he took a different view of the position of mr holland.
+he found that he was a de facto director of each of the 42 companies and so was answerable to hmrcs claims under section 212.
+he divided the allegations against mr holland into three different periods.
+first, in respect of the period from 24 april 2002 to 18 august 2004, the deputy judge held that mr holland was at no stage liable or, if he was, that he ought to be relieved from liability pursuant to section 727 of the companies act 1985 (ca 1985).
+second, he held that mr holland was entitled to a short period of grace from 19 to 22 august 2004 as, although he was liable for the payment of dividends during this period, the circumstances were such that he was entitled to be relieved under section 727 from that liability.
+third, in respect of the remaining period from 23 august to 19 october 2004, he held that mr holland had been guilty of misfeasance and breach of duty in relation to each company in causing the payment to its shareholders of the unlawful dividends, and that it would not be a proper exercise of the power under section 727 to relieve him of that liability: [2008] ewhc 2200 (ch), paras 236 237.
+he ordered an assessment of the amount that mr holland was liable to contribute to the companies assets, but he limited this amount to the hrct that the companies had failed to provide for to meet the claims of hmrc in respect of their trading during that period.
+the court of appeal allowed mr hollands appeal against the orders which the deputy judge made against him, dismissed the originating applications and dismissed a cross appeal by hmrc as the points that it sought to raise were no longer in issue.
+had it been necessary to decide them it would, by a majority (rimer lj dissenting), have dismissed hmrcs appeal against the deputy judges decisions to allow mr holland a period of grace from 19 to 22 august 2004 and as to the amount that he was liable to contribute to the assets of the companies, its contention being that he should have been ordered to repay the full amount of the unlawful dividends.
+in the appeal by hmrc to this court all of these points are in issue, although if mr holland succeeds on the question whether he was a de facto director the other issues will become academic.
+the corporate structure
+from about june 1997 to february 1999 mr and mrs holland ran a company called paycheck services ltd (paycheck), whose function, in return for a fee, was to administer the business and tax affairs of contractors who did not want to go to the trouble of setting up and running their own companies.
+each contractor who joined the scheme became an employee of paycheck and was allotted a non voting share in the company.
+this entitled him to dividends as well as a salary.
+paychecks income was derived from charging the contractors clients for his services.
+most contractors did not pay higher rate income tax, and the bulk of their income from paycheck was by way of a dividend.
+it soon became apparent, however, that the income of paycheck was likely to exceed the limit for the small companies rate of corporation tax of 300,000, which was between 19% and 21% during the relevant period.
+so mr and mrs holland, with the help of a number of professional advisers, set about devising a new structure which would enable them to expand their business while avoiding corporation tax at the higher rate, which during the relevant period was between 30% and 33%.
+the new structure was established in february 1999.
+it operated until 13 october 2004, when all the companies went into administration and later into liquidation.
+under this structure mr and mrs holland each held 50% of the issued shares in, and were directors of, a new company called paycheck services ltd (paycheck services).
+paycheck services held 100% of the issued shares in, and mr and mrs holland were appointed as directors of, two further new companies called paycheck (directors services) ltd (paycheck directors) and paycheck (secretarial services) ltd (paycheck secretarial).
+paycheck directors and paycheck secretarial were incorporated to act respectively as the sole director and secretary of 42 trading companies (the composite companies), each of which had similar names distinguished only by a number.
+their names were paycheck services 3 ltd, paycheck services 4 ltd, and so on.
+each of the composite companies had a single voting a share and 50 non voting shares, each of a separate class (b1, b2, c1, c2, etc).
+the a share was held by yet another new company called paycheck services trustee limited (paycheck trustee), of which mr and mrs holland were each directors and in which they each held 50% of the issued share capital.
+the a share was held by paycheck trustee pursuant to a trust deed of which mr holland was the settlor, which provided that each a share was be held for the benefit of the members of the composite companies.
+the non voting shares were, in the case of each composite company, held by about 50 shareholders/employees, each of whom held one each of the separate classes of shares in the company.
+article 8(b)(i) of the articles of association of the composite companies provided: each class of non voting shares shall carry the right to the receipt of such dividends payable on each such class of shares, in such amounts, at such frequency, at such times as, on the recommendation of the directors, the holder of the a share shall, in general meeting, resolve in accordance with the following: (aa) subject to the provisions of the act and to the following provisions of this article, the company may, by ordinary resolution passed at a general meeting upon the recommendation of the directors, declare a dividend for any class of the non voting shares; (ee) when paying interim dividends, the directors may make payments of interim dividends to one or more classes of non voting shares to the exclusion of one or more other classes of non voting shares on the same basis that final dividends may be paid by the company to each class of non voting shares in accordance with the foregoing; (ff) regulations 102 and 103 of table a shall be read and construed accordingly with the foregoing provisions of this article.
+as had been the case under the previous structure, the services of the shareholders/employees were contracted out, typically through employment agencies.
+under the new structure this was done by the composite companies which, out of the income they received, made the following payments: (i) a fee to paycheck services for its administrative services; (ii) a salary to each shareholder/employee, typically limited to the national minimum wage and the associated paye tax and national insurance contributions; and (iii) after making provision for the payment of corporation tax at the small companies rate, a dividend to each shareholder/employee.
+the dividends were paid on a regular basis.
+the shareholders/employees put in timesheets for the work that they had done.
+the relevant figures were entered into paycheck services computer, and the accountancy software thereon then calculated the dividend payable after making provision for the items listed in the previous paragraph.
+the computer programme then generated a document purporting to be a minute of a directors meeting of the relevant composite company.
+it recorded as present m holland paycheck (director services) ltd, lm holland paycheck (secretarial services) ltd and that it had been resolved that a dividend of a specified amount be distributed to the specified shareholder/employee.
+the computer generated on the minute a copy of mr hollands signature, beneath which appeared the words for and on behalf of paycheck (director services) ltd. this was the only authority for payment by the composite company of the relevant dividend.
+the corporation tax problem
+as already noted, it was crucial to the commercial viability of the scheme that the composite companies should have annual taxable profits of no more than 300,000, so as to get the benefit of the small companies rate of corporation tax.
+there was, however, a flaw in the structure which, as rimer lj said in para 16, was not spotted when the structure was established.
+section 13(3) icta 1988 limited the benefit of the small companies rate by providing that where a company had two or more associated companies during an accounting period they would have to share a single 300,000 limit.
+mr holland was the settlor of the trust under which paycheck trustee held the a shares in each of the composite companies.
+the effect of section 417(3) icta 1988 was that mr holland was regarded as in control of all the composite companies, so they were associated within the meaning of section 13 of that act.
+their collective profits all had to be aggregated, and they had to be treated for the purposes of the small companies rate of corporation tax as a single company.
+it had been thought by mr and mrs holland and their advisers that an escape from this consequence was provided by extra statutory concession c9 (esc c9).
+its effect was believed to be that the composite companies would not be regarded as associated.
+it was not appreciated when the new structure was established that the fact that mr holland was the common settlor of the a shares in each company meant that he fell to be regarded as being in control of each of the companies, with the result that esc c9 did not apply.
+but, as rimer lj observed in the court of appeal, para 18, the advice that mr and mrs holland received that the companies would not be regarded as associated was not unqualified.
+the risk of hmrc attacking the scheme was recognised in written advice given by tax counsel on 22 january 1999.
+the deputy judge commented that the advice contained a number of apparent contradictions: para 44.
+mr hollands solicitor advised in february 1999 that the two trading companies then in existence should restrict their profits to 150,000 each.
+in march 2001 the composite companies accountants received an informal telephone enquiry about the arrangements from an official at the wrexham 1 tax office.
+this was followed by a letter in relation to three of the composite companies in which a detailed profit and loss account, with notes to indicate whether the companies were grouped or associated, was requested.
+the accountants and the solicitor repeated their advice to mr holland about restricting profits of each of the two companies to 150,000.
+subsequent contacts with hmrc are described in detailed findings made by the deputy judge: paras 55 and following.
+he found that the accountants, and through them mr holland, were led to believe in march 2001 that hmrc would treat the matter as covered by esc c9 and that it was content, in the light of an explanation common to all the composite companies, that there was no association between them: para 66.
+but he added that it would have been open to hmrc at any time to take the point on the effect of section 417(3) of the 1988 act and of mr hollands position as the settlor of the a shares that was not, in fact, taken until over three years later: para 67.
+on 24 april 2002 mr williams of hmrc wrote to say that in his view the companies were associated.
+throughout the rest of 2002 and most of 2003 there was what rimer lj called sporadic and inconclusive correspondence between hmrc and the composite companies advisers: para 25.
+mr williams was dissatisfied with the arrangements but he failed to identify its crucial flaw.
+it was not at this stage suggested to mr holland by his advisers that he should cease trading or consider not continuing to cause the composite companies to pay dividends without making provision for hrct.
+on 4 december 2003 hmrc opened a formal inquiry into the claims for the small companies rate made for all the composite companies for the year ended 31 july 2002.
+on 8 december 2003 it issued closure notices for the years ended 31 july 2000 and 2002 and assessments in relation to the year ended 31 july 2001 on the basis that the composite companies were liable to hrct.
+at a meeting of professional advisers on 24 february 2004 the corporation tax deficit, if hmrc were to succeed, was estimated at 2m.
+nevertheless it was decided that the composite companies should continue to trade and continue to pay dividends without making any reservation for hrct.
+there was a meeting with hmrc on 21 june 2004 at which officials raised the issue of the composite companies solvency.
+on 25 june 2004 mr russell (who had taken over hmrcs file from mr williams) wrote expressing the view that the structure was an avoidance scheme and identifying the common settlor point under section 417(3) of the 1988 act.
+this was the first time that hmrc had taken this point.
+mr hollands solicitor sought advice from counsel whose advice had been taken when the scheme was set up.
+neither of them identified the importance of the common settlor point raised by hmrc, but on 6 august 2004 another tax counsel advised on the telephone that it blows our scheme out of the water.
+in written advice he recommended that the composite companies should cease trading or that the structure should be substantially revised as soon as practicable.
+he also proposed an alternative structure that would avoid the association problem and suggested that it might be possible to persuade hmrc not to pursue a claim for periods up to 31 july 2004 if it was adopted.
+it was decided to take a second opinion from leading counsel, and a conference with mr john tallon qc in london was arranged for 18 august 2004.
+he advised that, although hmrc had dealt with the issue badly and that leave for judicial review might well be granted, the composite companies would ultimately lose if such an application were made.
+he agreed that the new corporate structure that had been suggested was basically sound and that a letter should be sent requesting a meeting with hmrc in the hope that it might be possible to achieve a favourable settlement.
+a discussion took place between mr holland and his advisers on the train back from london to colwyn bay after the conference.
+in the light of mr tallons advice mr hollands solicitor advised him that he and mrs holland might be unlawfully trading and that trading should not continue if there was no reasonable prospect of avoiding insolvent liquidation.
+but mr holland was not, for reasons that the deputy judge regarded as understandable, in any mood to engage properly in this discussion: para 160.
+his solicitor did not repeat the advice that he gave on the train, nor was there any evidence that mr holland sought, or was given, advice as to the propriety of continuing to pay dividends.
+the letter which mr tallon had settled was sent to hmrc, and a meeting took place on 4 october 2004 with a view to attempting a settlement.
+hmrc were told for the first time of the intention to transfer the business to a new structure.
+mr hollands advisers proposed to hmrc that they should accept that esc c9 did apply to the existing companies to the end of october on the basis that they would cease to trade then, pay all outstanding corporation tax at the small companies rate and then be dissolved.
+it was suggested that the pot available to hmrc would be less if the composite companies were forced to cease trading and go into insolvency.
+hmrc rejected this proposal.
+by a letter dated 5 october 2004, which was received on 13 october 2004 and forwarded at once to mr holland, mr russell made it clear that hrct was still being sought from 2002.
+mr holland was advised that there was now no prospect of a deal with hmrc and that no further dividends should be declared.
+no dividends were declared after 13 october 2004.
+on 19 october 2004 administrators were appointed to the composite companies and the various service contracts were transferred to the new companies.
+the composite companies were left with a total deficiency of about 3.5m in respect of unpaid corporation tax.
+the issues
+the first issue, which lies at the heart of this appeal, is whether mr holland was a de facto director of the composite companies.
+if he was, a number of further issues arise concerning the nature and scope of the remedy.
+as set out in the agreed statement of facts and issues, they are as follows: (2) whether mr hollands liability for payment of unlawful dividends is strict or whether it is necessary to show that he was negligent (in breach of his common law duty of care). (3) whether the correct remedy for any breach of mr hollands duties as a director not to cause the companies to make unlawful payments of dividends is damages or equitable compensation for the net loss sustained by the company as a result of the breach, or restitution or restoration of the amount of the unlawful dividends without an inquiry into the loss sustained. (4) the scope of the discretion under section 212 of the ia 1986.
+in particular: (a) whether the discretion is wide enough to allow the court to reduce the award to nil or some other sum (as mr holland contends) ; or (b) whether it is more circumscribed as hmrc contends so that the judge did not have power to limit mr hollands liability to the amount of hrct that fell due during the relevant period (approximately 144,000). (5) whether, in the light of the judges findings as to whether mr holland acted reasonably from 18 august 2004 onwards, there was jurisdiction under section 727 ca 1985 to allow mr holland a few days grace between 18 and 23 august 2004. (6) whether the judge should have relieved mr holland of liability under section 727 ca 1985 in respect of the period from 23 august 2004 onwards.
+the first issue: was mr holland a de facto director?
+(a) background
+an examination of this issue must start with some of the basic elements of company law.
+a company is, of course, an artificial entity, a creature of statute.
+so it can act only through human beings.
+inevitably it is human beings who must take the decisions, and give effect to them by actions, if the company is to do anything at all: palmers company law (25th ed) para 8.101; gower and davies principles of modern company law (8th ed), para 7 1.
+a company is formed by one or more persons subscribing their names to a memorandum of association and complying with the requirements of the act as to registration: companies act 1985, section 1; see now companies act 2006, section 7.
+among the requirements for registration is a statement of the companys proposed officers, including the required particulars of the person or persons who are to be the first director or directors of the company: ca 1985, section 10(2); see now ca 2006, section 12(1).
+the expression director is not defined in the companies acts.
+all section 741(1) of ca 1985 says is: in this act, director includes any person occupying the position of director, by whatever name called: see now ca 2006, section 250.
+in re lo line electric motors ltd [1988] ch 477, 489 sir nicolas browne wilkinson v c, noting that this definition was inclusive and not exhaustive, said that its meaning had to be derived from the words of the act as whole.
+the definition extends, of course, to persons who are validly appointed as directors.
+persons who are not directors de jure may nevertheless be treated as directors de facto.
+sir nicolas browne wilkinson said that in his judgment it was not possible to treat a de facto director as a director for all the purposes of ca 1985.
+but it is not in dispute that de facto directors are within section 212 ia 1986.
+that section, as amended by para 18 of schedule 17 to the enterprise act 2002, provides so far as relevant as follows: (1) this section applies if in the course of the winding up of a company it appears that a person who (a) is or has been an officer of the company, (b) has acted as liquidator or administrative receiver of the company, or (c) not being a person falling within paragraph (a) or (b), is or has been concerned, or has taken part, in the promotion, formation or management of the company, has misapplied or retained, or become accountable for, any money or other property of the company, or been guilty of any misfeasance or breach of any fiduciary or other duty in relation to the company. (3) the court may, on the application of the official receiver or the liquidator, or of any creditor or contributory examine into the conduct of the person falling within subsection (1) and compel him (a) to repay, restore or account for the money or property or any part of it, with interest at such rate as the court thinks just, or (b) to contribute such sum to the companys assets by way of compensation in respect of the misfeasance or breach of fiduciary or other duty as the court thinks just.
+section 251 ia 1986, as amended, provides that officer, in relation to a body corporate, includes a director, manager or secretary.
+mr knox qc for mr holland accepted that, as section 212 ia 1986 was concerned with the conduct of directors and their liability for actions or decisions in relation to the company, de facto directors must be assumed to be covered by this expression and treated as directors.
+as he put in his written case, this is to ensure that the persons with real directorial control but who, for whatever reason, lack a formal appointment are held responsible in law for their conduct of the affairs of the company.
+there is a third type of director, known as a shadow director.
+section 741(2) ca 1985 (see now sections 251(1) and (2) ca 2006) provided: in relation to a company, shadow director means a person in accordance with whose directions or instructions the directors of the company are accustomed to act.
+however, a person is not deemed a shadow director by reason only that the directors act on advice given by him in a professional capacity.
+but, as rimer lj observed in para 57, it has not been asserted in this case that mr holland was a shadow director of the composite companies.
+section 214 ia 1986, which provides a remedy in relation to a person who is or has been a director of a company for wrongful trading, is extended to shadow directors expressly by subsection (7).
+but hmrc do not rely on that section.
+section 212 ia 1986, under which a summary remedy is sought in this case, applies to a person who is or has been an officer of the company.
+it does not apply to shadow directors because, unlike section 214, the statute does not provide for this.
+there is another feature of company law that must be taken into account in the examination of the question whether mr holland was a de facto director of the composite companies.
+as has already been noted, paycheck directors and paycheck secretarial were incorporated to act respectively as the sole director and secretary of 42 trading companies.
+the nineteenth century company law statutes made no provision for corporate directors.
+the question whether a company could act as the director of another company does not appear to have been raised in any reported case until in re bulawayo market and offices co ltd [1907] 2 ch 458.
+objection was taken by a minority of the shareholders to the appointment of a limited company as the companys sole manager.
+warrington j dismissed the application without calling on the respondents.
+he said, at p 463, that there was nothing in the companies act 1862 which made it incumbent on a company to have directors who were individual persons and responsible as individuals to the shareholders.
+the companies act 1929 was the first statute to recognise in terms that a company could be a director: sections 144, 145; see also sections 176, 178 and 201 of the companies act 1948.
+section 282(3) ca 1985, which was the act in force in february 1999 when the new corporate structure was established, provided that every private company shall have at least one director.
+section 283(4)(b) ca 1985 provided that no company shall have as sole director of the company a corporation the sole director of which is secretary to the company.
+section 305(1) ca 1985 provided that a company which stated the name of any of its directors on any business letter had to state the name of every director who was an individual and the corporate name of every corporate director.
+section 155(1) ca 2006 now provides that a company must have at least one director who is a natural person.
+but no such requirement was in force during the events that gave rise to the claim in this case.
+the position then was that ca 1985 allowed a company to have a corporation as its sole director, so long as its sole director was not the secretary to the company.
+the new corporate structure was created on the assumption that it was open to the composite companies to have, as their sole de jure director, paycheck directors of which mr and mrs holland were the directors.
+mr holland and his advisers cannot be criticised for doing so, as this was expressly permitted by the statute.
+drawing on the reasoning in salomon v a salomon & co ltd [1897] ac 22, mr knox submitted that the separate legal personality of paycheck directors from that of its directors had to be respected.
+i do not think that he needed the authority of salomons case for that proposition.
+salomon was concerned with the different question whether, as lord macnaghten put it at p 51, a body corporate could lose its individuality by issuing the bulk of its capital to one person.
+the deputy judge acknowledged that it was not alleged by hmrc that paycheck directors was a pure shell or a faade.
+nor was it asserted that mr holland acted outside his authority as a director of paycheck directors in directing the affairs of the composite companies: para 172; see also rimer lj, para 47.
+the question whether mr holland was acting as de facto director of the composite companies so as to impose on him fiduciary duties in relation to those companies when the purported directors meetings were held on his direction at which the relevant dividends were declared must be approached on the basis that paycheck directors and mr holland were in law separate persons, each with their own separate legal personality.
+(b) de facto directors: the authorities
+the expression de facto director has been in use for a long time, as robert walker lj observed in re kaytech international plc [1999] 2 bclc 351, 420.
+it was used by sir george jessel mr in re canadian land reclaiming and colonising co, coventry and dixon's case (1880) 14 ch d 660, where the question was whether two individuals who had been appointed and acted as directors while they were ineligible were directors or other officers liable to a summons for misfeasance.
+the test which he applied at pp 664 665 was whether a man who had assumed a position could be allowed to deny in court that he was really entitled to occupy it.
+but it is not easy to identify a simple and reliable test for determining whether a person in mr hollands position was acting as de facto director of a company whose sole director was a company of which he was a director de jure.
+there are a number of first instance cases which offer some assistance.
+but i do not think that they provide a clear and simple solution to the problem, as the facts which can give rise to it are so variable.
+in re lo line electric motors ltd [1988] ch 477 it was accepted that mr browning, against whom the disqualification proceedings were brought and who had not actually been appointed a director, de facto ran one of the companies which he allowed to trade after his retirement as a director de jure knowing it to be insolvent.
+sir nicolas browne wilkinson v c held that the court had to have regard to his conduct as director whether validly appointed or invalidly appointed or merely de facto acting as a director.
+at p 490 he said: the plain intention of parliament in section 300 was to have regard to the conduct of a person acting as a director, whether validly appointed, invalidly appointed, or just assuming to act as director without any appointment at all.
+but he did not need to explore what was needed to determine whether an individual could properly be held to be acting de facto as a director of a company in a case such as this, where a corporate director was interposed between him and the subject company and his actions could be attributed entirely to the position which he occupied de jure as a director of the corporate director.
+that question was however in issue in re hydrodam (corby) ltd [1994] 2 bclc 180.
+that was a company which had only two directors, which were two channel islands companies.
+it went into compulsory liquidation, and its liquidator brought claims for wrongful trading under section 214 ia 1986 against 14 defendants who included two of the directors of eagle trust plc of which hydrodam was, by several removes, an indirect subsidiary.
+it was alleged that they were responsible for the wrongful trading of hydrodam from the date when they were appointed to be directors of eagle trust.
+but, as millett j observed at p 183, the channel islands companies were hydrodams titular directors and there was nothing pleaded in the points of claim to suggest that there were, in addition to the titular directors, any other persons who claimed to be directors of the company at all.
+the case was argued on the basis that sufficient facts had been pleaded to justify the inference that eagle trust acted as a shadow director of the company, and that as directors of the shadow director its directors were collectively responsible for eagle trusts conduct in relation to the company as its de facto or shadow directors.
+millett j held that the liquidator had failed to plead or adduce any evidence to support the allegation that the directors of eagle trust were at any material time directors of hydrodam, and the proceedings were struck out.
+there are significant differences between that case and this.
+it is not alleged here that mr holland was a shadow director and section 212 ia 1986, unlike section 214, does not extend to shadow directors.
+but it is of interest because of what millett j said in the course of his judgment about what is needed to establish that a person is a de facto director.
+at pp 182 183 he said: i would interpose at this point by observing that in my judgment an allegation that a defendant acted as de facto or shadow director, without distinguishing between the two, is embarrassing.
+it suggests and counsels submissions to me support the inference that the liquidator takes the view that de facto or shadow directors are very similar, that their roles overlap, and that it may not be possible to determine in any given case whether a particular person was a de facto or a shadow director.
+i do not accept that at all.
+the terms do not overlap.
+they are alternatives, and in most and perhaps all cases are mutually exclusive.
+a de facto director is a person who assumes to act as a director.
+he is held out as a director by the company, and claims and purports to be a director, although never actually or validly appointed as such.
+to establish that a person was a de facto director of a company it is necessary to plead and prove that he undertook functions in relation to the company which could properly be discharged only by a director.
+it is not sufficient to show that he was concerned in the management of the companys affairs or undertook tasks in relation to its business which can properly be performed by a manager below board level.
+a de facto director, i repeat, is one who claims to act and purports to act as director, although not validly appointed as such.
+a shadow director, by contrast, does not claim or purport to act as director.
+on the contrary, he claims not to be a director.
+he lurks in the shadows, sheltering behind others who, he claims, are the only directors of the company to the exclusion of himself.
+he is not held out as a director by the company.
+here too, as in re lo line electric motors ltd, the test which is being suggested is whether the individual assumed office as a director.
+but millett j added these words at p 184: the liquidator submitted that where a body corporate is a director of a company, whether it be a de jure, de facto or shadow director, its own directors must ipso facto be shadow directors of the company.
+in my judgment that simply does not follow.
+attendance at board meetings and voting, with others, may in certain limited circumstances expose a director to personal liability to the company of which he is a director or its creditors.
+but it does not, without more, constitute him a director of any company of which his company is a director.
+the words without more are important.
+they indicate that the mere fact of acting as a director of a corporate director will not be enough for that individual to become a de facto director of the subject company.
+in re richborough furniture ltd [1996] 1 bclc 507 the question was raised whether one of the three respondents, who was not a director of the company de jure, was nevertheless a director of the company de facto and as such liable under section 6 of the company directors disqualification act 1986 to be disqualified.
+asking himself what is a de facto director, timothy lloyd qc (sitting as a deputy high court judge) said at p 524: it seems to me that for someone to be made liable to disqualification under section 6 as a de facto director, the court would have to have clear evidence that he had been either the sole person directing the affairs of the company (or acting with others all equally lacking in a valid appointment, as in morris v kanssen [1946] ac 459) or, if there were others who were true directors, that he was acting on an equal footing with the others in directing the affairs of the company.
+it also seems to me that, if it is unclear whether the acts of the person in question are referable to an assumed directorship, or to some other capacity such as shareholder or, as here, consultant, the person in question must be entitled to the benefit of the doubt.
+he held that the individual in question, who was a business consultant providing computer and other management services to the company, was not a de facto director despite having undertaken negotiations with creditors and performed some of the functions of a finance director.
+in secretary of state for trade and industry v tjolle [1998] 1 bclc 333 jacob j was referred to what was said in re hydrodam (corby) ltd, including a passage at p 182 where millett j pointed to the purpose of any test as being to impose liability for wrongful trading on those persons who were in a position to prevent damage to creditors by taking steps to protect their interests, and to re richborough furniture ltd.
+at pp 343 344 he said: for myself i think it may be difficult to postulate any one decisive test.
+i think what is involved is very much a question of degree.
+the court takes into account all the relevant factors.
+those factors include at least whether or not there was a holding out by the company of the individual as a director, whether the individual used the title, whether the individual had proper information (eg management accounts) on which to base decisions, and whether the individual had to make major decisions and so on.
+taking all these factors into account, one asks was this individual part of the corporate governing structure, answering it as a kind of jury question.
+in deciding this, one bears very much in mind why one is asking the question.
+that is why i think the passage i quoted from millett j is important.
+there would be no justification for the law making a person liable to misfeasance or disqualification proceedings unless they were truly in a position to exercise the powers and discharge the functions of a director.
+otherwise they would be made liable for events over which they had no real control, either in fact or law.
+in that case the individual in question was given the courtesy title of deputy managing director but did not form part of the real corporate governance of the company.
+there was no function that she performed that could only be properly discharged by a director.
+in re kaytech international plc [1999] 2 bclc 351, 423 robert walker lj said that he saw much force in what jacob j said in tjolle when he declined to formulate a single test.
+referring to the passage which i have just quoted, he added this observation: i do not understand jacob j, in the first part of that passage, to be enumerating tests which must all be satisfied if de facto directorship is to be established.
+he is simply drawing attention to some (but not all) of the relevant factors, recognising that the crucial issue is whether the individual in question has assumed the status and functions of a company director so as to make himself responsible under the 1986 act as if he were a de jure director.
+here again the word assumed is used.
+but, as lewison j said in re mea corpn ltd [2006] ewhc 1846 (ch); [2007] 1 bclc 618, para 83, in considering whether a person assumes to act as a director what is important is not what he calls himself but what he did: see also secretary of state for trade and industry v hollier [2007] bcc 11, para 66.
+the question whether a director of a corporate director could, through his control of the corporate director, be held to be a de facto director of the subject company which was in issue in re hydrodam (corby) ltd was raised again in secretary of state for trade and industry v hall [2006] ewhc 1995 (ch); [2009] bcc 190.
+the first respondent to those proceedings for disqualification, mr hall, did not respond, did not appear and was not represented.
+the question which the court had to consider was whether the second respondent, mr nuttall, was a de facto director of the subject company by reason of the fact that he owned and controlled and was the sole director of its corporate director.
+the case against him failed because he had not, either individually or through his control of the corporate director, taken any step which indicated that either he or his company had assumed the status and functions of a director of the subject company.
+it was accepted by the secretary of state that mr nuttall did not fit the description of a de facto director which emerged from millett js judgment in the hydrodam case.
+this was because that description required positive action by an individual which showed that he was acting as if he was a director.
+it was contended that it was sufficient that he was in a position to exercise the powers and discharge the functions of a director of the subject company, even if he did not actually do anything.
+but evans lombe j said that he could not accept that argument: para 30.
+among the reasons which evans lombe j gave for coming to that conclusion in that paragraph were the following: (ii) in the hydrodam case millett j finds that the director of a corporate director is not, without more, constituted a director, whether shadow or de facto, of a subject company.
+however i do not read his judgment as saying that this can never happen.
+i can well accept that an individual through his control of a corporate director can constitute himself a de facto director of a subject company.
+it seems to me that whether or not he does so will depend on what that individual procures the corporate director to do.
+in theory i am not bound by the judgment of millett j in the hydrodam case.
+even putting on one side the authority of that judge in this and other fields of the law, i would need convincing reasons for not following it.
+i can find none. (iii) it seems to me that in order to be constituted a de facto director of a subject company, a director of a corporate de jure director must cause the corporate director to take actions with relation to the subject company as would have constituted it a de facto director of that company were it not already a director de jure. (iv) in addition the degree of control which the director of the corporate director exercises over that company will be of relevance.
+in the present case mr nuttalls control was absolute but the situation may be substantially different where the corporate director is controlled by a board with a number of members with different responsibilities.
+equally the shareholder control of the corporate director may be relevant.
+the deputy judge was impressed by para (iii) in this list of reasons.
+he said that applying that test to mr hollands case would clearly lead to the conclusion that he was a de facto director of the composite companies in that he, in so far as he is properly to be regarded as having acted on behalf of paycheck directors, clearly caused it to act in such a way as would have caused the latter to be treated as a de facto director were it not already a de jure director: para 176.
+this left for consideration mr knoxs argument that to make that finding would involve piercing the corporate veil which, on the authority of salomon v a salomon & co ltd [1897] ac 22, was contrary to principle.
+he was not persuaded that arguments as to separate corporate personality were of assistance or relevant to the issue.
+he said that as a matter of fact mr holland did, by what he actually did, direct the affairs of the composite companies and that it was beside the point whether he purported to do so on his own account or as agent for paycheck directors: para 177.
+as the corporate veil point was the only point taken on behalf of mr holland, he found that it necessarily followed that he was a de facto director of the composite companies.
+in the court of appeal rimer lj (with whom ward and elias ljj agreed on this aspect of the case) reached the opposite conclusion.
+he accepted that the critical issue was, as robert walker lj put it in re kaytech international plc [1999] 2 bclc 351, 423, whether the individual assumed the status and function of a company director so as to make himself responsible as if he were a de jure director and that it mattered not what the individual called himself but what he did: para 65.
+he concluded, i think rightly, that the only authorities that lent any assistance on the question posed by this case were re hydrodam (corby) ltd [1994] 2 bclc 180 and secretary of state for trade and industry v hall [2009] bcc 190.
+recalling that the essence of millett js reasoning in hydrodam was that membership of the board of a corporate director will not, without more, make such member a shadow or de facto director of any company, he said that he did not find anything in that judgment to suggest that the requisite more would be satisfied merely by the active participation of the board member in the making of board decisions by the corporate director in relation to the actions of the subject company: para 66.
+as for the test suggested by evans lombe j in para 30(iii) of his judgment in hall which had impressed the judge, he said that it appeared to him to be somewhat artificial and that it was wrong in principle.
+he saw no reason why a director of a corporate director who is doing no more than discharging his duties as such should thereby become a de facto director of the subject company: para 70.
+in para 74 rimer lj added these comments: i emphasise that nothing that i have said is intended to suggest that there can never be circumstances in which a director of a corporate director can or will so act as to cause himself to be regarded as a de facto director of the subject company.
+but something more will be required than the mere performance by him of his duties as a de jure director of the corporate director.
+on the facts accepted by the judge, there was nothing more in the present case.
+(c) mr hollands case
+the remedy that is provided by section 212 ia 1986 may be sought only against persons to whom that section applies, as described in section 212(1).
+the description that applies to this case is that set out in para (a) of the subsection: is or has been an officer of the company.
+the word officer includes a director, but it is accepted that the section does not apply to shadow directors because the statute does not provide for this.
+it follows that hmrc must plead and prove against mr holland that he was a de facto director of the composite companies.
+how is this to be done? it is plain from the authorities that the circumstances vary widely from case to case.
+jacob j declined to formulate a single decisive test in secretary of state for trade and industry v tjolle [1998] 1 bclc 333, as he saw the question very much as one of fact and degree.
+he was commended by robert walker lj in re kaytech international plc [1999] 2 bclc 351, 423 for not doing so, and i respectfully agree that there is much force in jacob js observation.
+all one can say, as a generality, is that all the relevant factors must be taken into account.
+but it is possible to obtain some guidance by looking at the purpose of the section.
+as millett j said in re hydrodam (corby) ltd [1994] 2 bclc 180, 182, the liability is imposed on those who were in a position to prevent damage to creditors by taking proper steps to protect their interests.
+as he put it, those who assume to act as directors and who thereby exercise the powers and discharge the functions of a director, whether validly appointed or not, must accept the responsibilities of the office.
+so one must look at what the person actually did to see whether he assumed those responsibilities in relation to the subject company.
+the problem that is presented by this case, however, is that mr holland was doing no more than discharging his duties as the director of the corporate director of the composite companies.
+everything that he did was done under that umbrella.
+mr green qc for hmrc was unable to point to anything that he did which could not be said to have been done by him in his capacity as a director of the corporate director.
+when asked what it was that lay outside his performance of that role, he said that it was simply the quality of his acts.
+he did everything.
+he was the decision maker, and he was the person who gave effect to those decisions.
+in hydrodam at p 184 millett j rejected the proposition that, where a body corporate is a director of a company, whether it be de jure, de facto or shadow director, its own directors must ipso facto be shadow directors of the subject company.
+he said that attendance at board meetings and voting with others did not, without more, constitute him a director of any company of which his company is a director.
+that would not be a fair description of what mr holland did in this case.
+but in a later paragraph on p 184 millett j said this: it is possible (although it is not so alleged) that the directors of eagle trust as a collective body gave directions to the directors of the company and that the directors of the company were accustomed to act in accordance with such directions.
+but if they did give such directions as directors of eagle trust, acting as the board of eagle trust, they did so as agents for eagle trust (or more accurately as the appropriate organ of eagle trust) and the result is to constitute eagle trust, but not themselves, shadow directors of the company.
+this passage indicates that the without more requirement that millett j had in mind would not be satisfied by evidence that the individual director of the body corporate was actually giving instructions in that capacity to the subject company and the subject company was accustomed to act in accordance with those directions.
+that would not be enough to prove that the individual director assumed a role in the management of the subject company which imposed responsibility on him for misuse of the subject companys assets.
+the facts of this case do not precisely match those in hydrodam.
+but i think, with respect, that rimer lj put his finger on the way the question in this case should be answered.
+in para 67 of his judgment he referred to the principle that emerges from millett js judgment.
+in para 70 he said that the proposition that evans lombe j set out in para 30(iii) of his judgment in secretary of state for trade and industry v hall [2009] bcc 190 was wrong in principle.
+he rejected the argument that the mere fact that an individual has been acting as a director of the corporate director can, or may, result in his also becoming a director of the subject company.
+in para 68 he expressed the principle that he had in mind in these words: the relevant act in relation to the affairs of the subject company is an act directed by the corporate director, not one directed by the latter companys individual board members.
+that may be regarded as a distinction of some technicality.
+but so long as we have a system of company law which recognises the difference between a company and its directors, it is a distinction which must be recognised and respected.
+this was, i think, the point that mr knox was seeking to make when he referred to the speeches in salomon v a salomon & co ltd [1897] ac 22.
+as lord davey said at p 54, the intention of the legislature must be collected from the language of its enactments.
+one can properly say, as lord macnaghten did about the company and its subscribers at p 51, that a company is at law a different person from its directors and that it is the intention of the enactment that this distinction should be recognised.
+i do not think that one can overcome this distinction by pointing, as mr green seeks to do, simply to the quality of the acts done by the director and asking whether he was the guiding spirit of the subject company or had a real influence over its affairs.
+as a test, that would create far too much uncertainty.
+those who act as directors of a corporate director are entitled to know what it is that they can and cannot do when they are procuring acts by the corporate director.
+that is as true of a case such as this, where the affairs of the corporate director are effectively in the hands of one individual, as it is where there is a board comprised of several directors who always act collectively.
+as lord collins says (see paras 53 and 95, below), the question is one of law and it is a question of principle.
+i think that the guiding principle can be expressed in this way, unless and until parliament provides otherwise.
+so long as the relevant acts are done by the individual entirely within the ambit of the discharge of his duties and responsibilities as a director of the corporate director, it is to that capacity that his acts must be attributed.
+it is, of course, right to bear in mind the interests of the creditors.
+their protection lies in the remedies that are available for breach of the fiduciary duty that rests on the shoulder of every director.
+but the essential point, which millett j was at pains to stress in hydrodam, is that for a creditor of the subject company to obtain those remedies the individual must be shown to have been a director, not just of the corporate director but of the subject company too.
+i agree with rimer lj that, on the facts accepted by the deputy judge, it has not been shown that mr holland was acting as de facto director of the composite companies so as to make him responsible for the misuse of their assets.
+i also agree with the reasons that lord collins gives for reaching this conclusion.
+the other issues
+on the view that i take on the first issue, the points raised about the extent of the liability do not require to be decided.
+but i would offer these brief comments on some of them, as these points were fully and carefully argued by counsel on both sides.
+first, there is the question whether the liability for the payment of unlawful dividends is strict or depends on a degree of fault being established.
+there are two lines of authority on this issue.
+on the one hand there are cases in which it has been said without qualification that directors are under a duty not to cause an unlawful and ultra vires payment of a dividend: re exchange banking co, flitcroft's case (1882) 21 ch d 519; re lands allotment co [1894] 1 ch 616 at 638; selangor united rubber estates ltd v cradock (no 3) [1968] 1 wlr 1555 at 1575; belmont finance corpn v williams furniture ltd (no 2) [1980] 1 all er 393 at 404; re loquitur ltd [2003] ewhc 999 (ch); [2003] 2 bclc 442 at 471 472.
+on the other there is a line of authority to the effect that a director is only liable if he makes a misapplication of a companys assets if he knew or ought reasonably to have known that it was a misapplication: re county marine insurance co (rance's case) (1870) lr 6 ch app 104 at 118; re kingston cotton mill co (no 2) [1896] 1 ch 331 at 345 348; dovey v cory [1901] ac 477 at 489 490; re city equitable fire insurance co ltd [1925] ch 407, per romer j at 426.
+the trend of modern authority supports the view that a director who causes a misapplication of a companys assets is in principle strictly liable to make good the misapplication, subject to his right to make good, if he can, a claim to relief under section 727 ca 1985.
+the authorities that favour the contrary view really come to an end with dovey v cory [1901] ac 477, as the later judgment of romer j in re city equitable fire insurance co ltd [1925] ch 407 can be read, at least in relation to dividends, as supporting strict liability.
+furthermore, the whole point of introducing the right to claim relief under section 727 was to enable the court to mitigate the potentially harsh effect of being held strictly liable.
+that relief was introduced by section 32 of the companies act 1907, so it was not available when most of the cases in this line of authority were being decided.
+it is not necessary to express a definite view on this issue in this case.
+as counsel for hmrc pointed out in their written case, there has been no challenge to the finding by the deputy judge that as from 18 august 2004 all the dividends were unlawful, and it is accepted that the relief available by way of a defence under section 727 ca 1985 would have been available if mr holland could show that he acted reasonably.
+so the issue is academic here, and it was no doubt for this reason that it was not thought to be necessary to develop the point fully in oral argument.
+but the better view seems to me that in cases such as this, where it is accepted that the payment of dividends was unlawful, a director who causes their payment is strictly liable, subject of course to his right to claim relief under the statute.
+then there is the question whether the correct remedy for any breach of the duties of a director not to make unlawful payments of dividends is damages or equitable compensation for the net loss sustained by the company, or restitution or restoration of the amount of the unlawful dividends without any inquiry into the loss sustained.
+the deputy judge held that the established remedy was to require the director to reinstate the amount of the payment without any inquiry as to the loss suffered by the company as a result of the breach of duty: para 218.
+but he declined to make an order in these terms.
+what he did, having refused relief under section 727 ca 1985 for this period as he held that mr holland had not acted reasonably in paying the dividend without taking all appropriate advice and properly informing himself, was to order him to pay the amount of hrct that the companies had not provided for in the period of trading from 23 august 2004.
+he said that he was doing this in the exercise of his discretion under section 212 ia 1986: para 274.
+i agree with the court of appeal that the obligation is to restore the moneys wrongfully paid out.
+this, as the deputy judge accepted, is the established remedy.
+where dividends have been paid unlawfully, the directors obligation is to account to the company for the full amount of those dividends: see bairstow v queens moat houses plc [2001] ewca civ 712, [2001] 2 bclc 531, para 54, per robert walker lj.
+but there is a discretion under section 212 ia 1986 that it is open to the judge to exercise.
+this is indicated by the use of the word may in subsection (3).
+rimer lj said that the judges order should have reflected the wrong that had actually been committed and the fact that he had refused relief under section 727 ca 1985 in respect of it.
+elias lj, paras 133 134, and ward lj, para 143, disagreed.
+in their view it was open to the deputy judge to limit the amount that mr holland should pay to what hmrc had lost from his unlawful conduct.
+had it been necessary to reach a view on this point, i would have agreed with the majority.
+hmrc is the only creditor.
+there is no evidence that anyone would have been disadvantaged by limiting the liability in this way.
+it would have been a different matter if the deputy judge had misdirected himself as to the extent of the obligation.
+that plainly is not so.
+as he made clear in para 274 of his judgment, he proceeded on the basis that, while restoration is the established remedy, he had a discretion under section 212 ia 1986 to limit the award to what was required to make up the deficiency of a particular creditor where the claim was made by a party other than the liquidator.
+in my opinion it was open to him to exercise his discretion in this way, and i do not think that he can be faulted for doing so in this case.
+lastly, there are the questions about relief under section 727 ca 1985.
+there are two points.
+first, there is the decision by the deputy judge that mr holland was entitled to a few days grace after the events of 18 august 2004 to enable him to take stock.
+rimer lj thought the deputy judge was in error in giving mr holland this grace period: para 88.
+he said that mr holland had not conducted himself so as to deserve it and that there was no factual basis for the decision.
+here too elias lj, para 128, and ward lj, para 138, disagreed.
+elias lj said that there was evidence justifying the deputy judges analysis.
+i respectfully agree with the majority on this point too.
+it seems to me that the judge provided a sufficient explanation for his decision in paras 269 270, and that his was a decision with which an appellate court could not properly interfere.
+the second question is whether, as mr knox submitted, the judge should have gone further and relieved mr holland from the obligation to pay anything at all.
+he suggested that account should have been taken of the fact that, as he put it, the course taken by mr holland was the least bad of all the alternatives.
+i do not see how, on the facts found by the deputy judge, this argument can be supported.
+he found that mr holland acted unreasonably because he did not take appropriate advice or inform himself as to the merits of what he was doing.
+but there is a more fundamental point.
+mr knox submitted that the discretion under section 212 was wide enough to allow the court to reduce the award to nil even if it declined relief under section 727 ca 1985.
+i agree with rimer lj that the discretion under section 212(3), which is essentially procedural in nature, is a discretion as to amount only once liability has been established.
+it is not so wide as to allow the judge, having determined that the section applies, to decline to make any order at all: paras 108 110.
+the discretion which he is given by section 212(3) is as to the order that would be appropriate once liability has been established, not to grant relief against liability.
+it is a discretion as to how much the director should be ordered to pay, so as to do what is just in all the circumstances: re loquitur ltd [2003] 2 bclc 442, per etherton j at para 245.
+the deputy judge was right to reject this argument.
+conclusion
+as i agree with the court of appeal that it has not been shown that when he was directing payment by the composite companies of the unlawful dividends mr holland was acting as their de facto director, i would dismiss the appeal.
+lord collins
+introduction
+i agree with lord hope that the appeal should be dismissed, and write to set out my own approach on the main issue.
+in my judgment what divides this court is not simply a matter of appreciation of the facts, namely whether what mr holland did in fact was sufficient to make him a de facto director of the composite companies, but a question of law and a question of principle.
+the question is whether fiduciary duties can be imposed, in relation to a company whose sole director is a corporate director, on a director of that corporate director when all of his relevant acts were done as a director of the corporate director and can be attributed in law solely to the activities of the corporate director.
+my reasons will require some elaboration, particularly because they involve examination of older case law which was not cited in argument, but can be summarised in this way.
+mr holland is sought to be made liable for breach of fiduciary duty as a de facto director of the composite companies.
+for almost 150 years de facto directors in english law were persons who had been appointed as directors, but whose appointment was defective, or had come to an end, but who acted or continued to act as directors.
+there was a striking judicial innovation in re lo line electric motors ltd [1988] ch 477 and re hydrodam (corby) ltd [1994] 2 bclc 180 (endorsed by the court of appeal in re kaytech international plc [1999] 2 bclc 351) by which (at the risk of over simplification) persons who were held to be part of the corporate governance of a company, even though not directors, could be treated as directors for the purposes of statutory provisions relating to such matters as wrongful trading by, and disqualification of, directors.
+to extend that line of authority so as to impose fiduciary duties on mr holland in relation to the composite companies, when all of his acts can be attributed in law solely to the activities of paycheck directors would be an unjustifiable judicial extension of the concept of de facto director, and best left to the legislature, given that it was as recently as 2006 that it intervened to require that at least one director of a company be a natural person: companies act 2006, section 155(1).
+the issue is whether mr holland can be made liable, pursuant to the insolvency act 1986, section 212 (as amended), to account for the funds paid out by the insolvent composite companies on the basis that they have been misapplied by him, or he is accountable for them, or has been guilty of misfeasance or breach of any fiduciary or other duty in relation to the funds.
+it is common ground that (a) a de facto director is covered by section 212; (b) shadow directors (i.e. a person in accordance with whose directions or instructions the directors of the company are accustomed to act: companies act 1985, section 741(2); companies act 2006, section 251(1)) are not within section 212; and (c) section 212 is a procedural provision which does not create any substantive obligations, and consequently for a person to be made liable under section 212, that person must be guilty of breach of an independent duty: re canadian land reclaiming and colonising co, coventry and dixons case (1880) 14 ch d 660; re city equitable fire insurance co ltd [1925] ch 407.
+in this case the basis of the relevant independent duty is significant.
+the only basis on which liability is sought to be placed on mr holland is that as a de facto director of the composite companies he was in breach of his fiduciary duty not to misapply their funds by paying unlawful dividends.
+directors are accountable for breach of fiduciary duty to a company for unlawful distributions paid in contravention of what is now the companies act 2006, section 830: see eg bairstow v queens moat houses plc [2001] ewca civ 712, [2001] 2 bclc 531.
+in re exchange banking co, flitcroft's case (1882) 21 ch d 519 the liquidator of an insolvent banking company issued a summons against five former directors who had been concerned in paying dividends at a time when they knew the company had no distributable profits.
+the court of appeal held the directors jointly and severally liable for the amount of the dividends.
+the principle was put by sir george jessel mr (at p 534): it follows then that if directors who are quasi trustees for the company improperly pay away the assets to the shareholders, they are liable to replace them.
+it is not suggested that (in the absence of dishonesty) persons who facilitate the payment of unlawful dividends are responsible for knowing assistance in a breach of trust.
+in my judgment the decision of the house of lords in standard chartered bank v pakistan national shipping corpn [2002] ukhl 43; [2003] 1 ac 959, is of no assistance in the solution of the problem raised on this appeal.
+the basis of that decision is that a director who makes fraudulent representations is liable in deceit irrespective of whether he makes the representations on behalf of a company.
+the decision of the court of appeal, which was reversed by the house of lords and which had held that he was not liable because he had been acting on behalf of the company, was plainly wrong (although i used more diplomatic language in daido asia japan co ltd v rothen [2002] bcc 589).
+but in the present case there can be no suggestion that mr holland is not responsible because the corporate director is responsible.
+he will be responsible if what he did was unlawful.
+the question, to which it is now necessary to turn, is whether he was himself in breach of duty.
+the development of the law relating to de facto directors
+validity of acts of de facto directors
+most of the early cases are about the validity of the acts of de facto directors, but they are relevant to the question of principle, namely what makes a person a de facto director.
+the first mention in the case law of de facto directors appears to have been in mangles v grand collier dock co (1840) 10 simons 519, a case involving the formation of a dock company by private act of parliament.
+sir lancelot shadwell v c said (at p 535) that the act assumed that persons by whom a call was made had to be directors de facto, and that all that parliament meant was that, if the call were made by persons appearing to be directors, it should not be necessary to prove their appointment.
+the first full discussion of the de facto director was in the famous case of foss v harbottle (1843) 2 hare 461, which was of course concerned with the right of shareholders in a company incorporated by act of parliament to sue for wrongs alleged to have been done to the company, a matter which has no relevance to the present appeal.
+the shareholders claimed that the extinction of the board of directors by the bankruptcy and consequent disqualification of three of them, and the want of any clerk or officer, effectually prevented the due convening of a general meeting of shareholders competent to secure the remaining property of the company, and provide for its due application.
+that argument was rejected on the basis that the continued existence of a board of directors de facto must be intended; and that the possibility of convening a general meeting of shareholders capable of controlling the acts of the existing board was not excluded by the allegations of the bill; that in such circumstances there was nothing to prevent the company from obtaining redress in its corporate character in respect of the matters complained of.
+sir james wigram v c held that shareholders could serve a notice requiring an extraordinary general meeting at the place where the board of directors de facto, whether qualified or not, carry on the business of the company at a given place (at p 496).
+he said (at p 498): whatever the bill may say of the illegal constitution of the board of directors, because the individual directors are not duly qualified, it does not anywhere suggest that there has not been during the whole period, and that there was not when the bill was filed, a board of directors de facto, acting in and carrying on the affairs of the corporation, and whose acting must have been acquiesced in by the body of proprietors; at least, ever since the illegal constitution of the board of directors became known, and the acts in question were discovered.
+but if there has been or is a board de facto, their acts may be valid, although the persons so acting may not have been duly qualified.
+the concept of de facto directors is used in that case to validate acts which might otherwise have been invalid, and most of the early cases are not only about persons who purported to be directors but whose appointment was defective, but they are also mainly concerned with whether the acts of those persons were legally valid or effective.
+several of the cases are also applications of the principle in the companies acts or in articles of association that notwithstanding that it might be afterwards discovered that there was some defect or error in the appointment of the directors, any acts of those directors were to be valid: see from the companies clauses consolidation act 1845, section 99, and the joint stock companies act 1856, sched, table b, reg 60, through to the companies act 2006, section 161, and the companies (tables a to f) regulations 1985 (si 1985/805), table a, reg 92.
+the question in re county life assurance co (1870) lr 5 ch app 288 was whether a claim under a policy could be admitted in the liquidation of an insurance company.
+the directors who were named in the articles, and signed the memorandum of association, refused to act and passed a resolution that the company should not carry on business or allot shares.
+notwithstanding this resolution, mr preston, the promoter of the company, and one of the shareholders carried on business and allotted shares and appointed directors.
+a stranger effected a policy at the companys office which was signed by three of the de facto directors, and sealed with what purported to be the seal of the company.
+it was held to be binding because, per sir gm giffard lj (at p 293) the company is bound by what takes place in the usual course of business with a third party where that third party deals bona fide with persons who may be termed de facto directors, and who might, so far as he could tell, have been directors de jure.
+in murray v bush (1873) lr 6 hl 37, the first of three decisions of the house of lords dealing with de facto directors, the question concerned the validity of a share transfer and whether the purported transferee was a contributory.
+its articles of association required (inter alia) that the directors at a board meeting had to certify their approval of the proposed transferee.
+bush was a shareholder and a director.
+the articles also required directors to have a share qualification.
+the transfer was approved at a board meeting, but it was claimed that three of the directors were not duly appointed because they had not executed a deed binding themselves to obey the regulations of the company.
+the joint stock companies act 1844, section 30, provided that notwithstanding that it might be afterwards discovered that there was some defect or error in the appointment of the directors, any acts of those directors were to be valid.
+the house of lords was equally divided on the outcome of the appeal (which was from a decision of lord hatherley lc, who also sat on the appeal) and therefore the appeal was dismissed.
+lord cairns and lord hatherley decided that the transfer was to be treated as valid because of section 30 and because the company itself had approved the transfer.
+lord hatherley (at pp 76 77) referred to directors to whom section 30 applied as directors de facto.
+this case concerned persons who acted in all respects as if they were directors.
+in the second decision of the house of lords, mahony v east holyford mining co ltd (1875) lr 7 hl 869, it was held that bankers who held funds of a company could lawfully honour the cheques of the directors without being bound to inquire whether the persons pretending to sign as directors had been duly appointed in conformity with the provisions of the memorandum and articles of association.
+the persons purporting to act as directors had not been appointed, as required by the articles, by the subscribers to the memorandum.
+lord cairns lc, lord hatherley and lord penzance considered that the case was covered by the normal validating provision in the articles that acts done by the board or by a committee of directors should, notwithstanding that it be afterwards discovered that there was some defect in the appointment be as valid as if every such person had been duly appointed, and was qualified to be a director.
+lord cairns said (at p 888) that the house of lords: should now hold that there having been de facto directors of the company, who were suffered and permitted by the majority of those who signed the articles of association to occupy the position of and act as directors, and the bankers having, in the full belief that these persons were directors, as they were represented to be, honoured the cheques drawn by them, the payment of these cheques is an answer
+to the action of the liquidator of the company
+lord penzance said (at pp 900 901): in the present case, from the time when the east holyford mining company came into existence, that is after the registration of the memorandum and articles of association, three persons usurped the position of directors (i say usurped, because they do not seem to have been regularly appointed) and another person usurped the office of secretary.
+this they did in the face of the subscribers to and shareholders in the company, as well as of persons dealing with the company; and both before the company was legally formed, and after it was formed, they publicly advertised themselves in the prospectus as directors and secretary respectively.
+they occupied the offices designated in the prospectus and they opened an account with the bank therein named.
+during the six months following they assumed, to the exclusion of all others, the executive functions of the company; no subscribers, nor shareholders, nor strangers dealt with any one else, and no one questioned their authority.
+therefore, during the whole of the time that this company was acting as a company, these individuals were ostensibly directors and secretary respectively, and they were the de facto directors and secretary.
+it seems to me, therefore, my lords, that we have here the case of three individuals being de facto directors, and one being de facto secretary.
+slade j, in rama corpn ltd v proved tin and general investments ltd [1952] 2 qb 147, considered that the point in mahony was whether the bank was entitled to treat the persons who were described in the mandate as directors.
+they were directors de facto, and whether they were directors de jure depended on whether the provisions in the articles relating to the appointment of directors had been complied with.
+this was a matter of internal management into which the bank was not bound to inquire: royal british bank v turquand (1856) 6 e & b 327.
+in freeman & lockyer v buckhurst park properties (mangal) ltd [1964] 2 qb 480, 507, diplock lj said that the basis of the decision in mahony was that the conduct of those who were entitled to appoint the directors was relied on as a representation that they had been appointed.
+the issue in john morley building co v barras [1891] 2 ch 386 was whether an action was properly brought by de facto directors on behalf of the company to restrain the defendants from holding themselves out as directors.
+the persons who had brought the action were persons who had been appointed directors by a document which had been signed by only seven of the subscribers instead of all of them.
+it claimed that because they were de facto directors under the articles at the first ordinary meeting after the registration of the company they retired from office after that as vacating directors, they continued in office until the ordinary meeting in the next year.
+it was held that the provision did not apply to persons who were only de facto directors.
+it applied only to those directors who had been validly appointed in pursuance of the articles.
+de facto directors did not derive any authority from that clause as against directors duly appointed.
+the defendants were validly appointed and the action was not properly brought.
+in channel collieries trust ltd v dover, st margaret's and martin mill light railway co [1914] 2 ch 506 the sole remaining director purported to fill vacancies on the board, even though there was no quorum.
+it was held that their acts as de facto directors were validated by the companies clauses consolidation act 1845, section 99.
+swinfen eady lj approved (at pp 514 515) the way in which it was put in the then current edition of buckley on the companies acts (9th ed) p 169 in relation to the equivalent provision in the companies (consolidation) act 1908, section 74: endangering accuracy for the sake of brevity, it may be said that the effect of this section is that, as between the company and persons having no notice to the contrary, directors etc de facto are as good as directors etc de jure.
+the third decision of the house of lords on de facto directors, morris v kanssen [1946] ac 459, was concerned with the validation provision in section 143 of the companies act 1929.
+it was held that the appointment of x as a director at a board meeting attended by a and b, and the allotment of shares to x, were not validated by the section in a case where a and b had falsely claimed that b had been duly appointed a director, and where a had ceased to be a director in accordance with the companys articles because no general meeting had been held in the relevant year.
+lord simonds said (at p 475) that there was no authority for the proposition that a director or de facto director could invoke the rule so as to validate a transaction which was in fact irregular and unauthorised.
+the decision raises difficulties which are not relevant on this appeal: see gower and davies, principles of modern company law (8th ed) (2008), para 7 15), and the companies act 2006, section 161.
+all of the cases discussed thus far concerned persons who actually acted as directors, and all are about the authority of de facto directors or the validity of their acts.
+there was an invalid appointment in all of them, except foss v harbottle (where there had been a valid appointment, but the directors had ceased to hold office), and in morris v kanssen, where two de facto directors were involved, one of whom had ceased to hold office and the other had been invalidly appointed.
+the liability of de facto directors
+the only cases touching on the liability of de facto directors before the modern developments in the law are gibson v barton (1875) lr 10 qb 329, re canadian land reclaiming and colonising co, coventry and dixons case (1880) 14 ch d 660, re new par consols ltd [1898] 1 qb 573, and r v lawson [1905] 1 kb 541.
+like the cases on the validity of directors acts, both re canadian land reclaiming and colonising co, coventry and dixons case and re new par consols ltd were about individuals who had been appointed directors: in the former case, the appointment of the two directors was defective, and in the latter case the defendant had ceased to be a director through an act of bankruptcy.
+neither gibson v barton nor r v lawson directly involved de facto directors.
+in each of those cases the question was whether a person who had acted as a manager of a company could be treated as a manager for the purposes, in the former case, of a predecessor of the insolvency act 1986, section 212 and in the latter case, of the larceny act 1861, even though he had not been appointed as such.
+gibson v barton deals obiter with the position of directors.
+gibson v barton (1875) lr 10 qb 329 is the first case in which the liability of a de facto director is considered (but again in the context of a director whose appointment is invalid), and the first case in which the analogy of executor de son tort is employed.
+the issue was whether a penalty under the companies act 1862 for failure to file an annual return could be imposed under a section which imposed the penalty on the company and on every director and manager of the company who shall knowingly and wilfully authorise or permit such default.
+the appellant was held to have been rightly convicted because he had been permitted by the board to manage the company generally, just as if he had been legally appointed to act as manager.
+blackburn j also dealt with the position of directors, but he also was plainly thinking of a director whose appointment was defective, or, as he put it, illegally elected.
+he said (at pp 338 339): there are many instances in which a person who de facto exercises an office cannot defend himself by saying, when he is called upon to bear liability in consequence of his wrong, i am not rightfully in the office, there is another man who may turn me out.
+an executor de son tort is an instance in which a man incurs all the liabilities of an executor as to third persons, and he is not permitted to say, i am not executor; there is another man who may take out probate.
+the answer is, your liability as to a third person rests upon your being executor de son tort; you have usurped the office and must bear the liabilities.
+so, if a director were to set up in answer to a penalty under section 27, that he was not a director, that he was illegally elected, the answer would be, you have acted as director, and were a director in your own wrong.
+i think there was evidence to justify the lord mayor in drawing the conclusion that the appellant was de facto manager.
+no doubt the appellant is called secretary, but was he a person to whom the whole management had been delegated, probably improperly delegated, by the board of directors, and who had taken upon himself to act as sole manager? he himself says in the minutes, the secretary, that is himself, reported that, in order to comply with the requirement of the joint stock companies acts he had called a general meeting of the shareholders, &c.
+that is evidence upon which the lord mayor might find that he had taken on himself the management of the company; he has of his own authority done an act which was to be done only by the directors.
+so, again, in the letter he tells the directors he will call a meeting.
+i do not say he had power to call a meeting.
+i think he had not, but i think that is evidence that he had assumed to act for the directors, and had taken the management of the company on himself.
+the lord mayor rightly drew the inference that the appellant was, by his own wrong, manager of the company.
+an executor de son tort is a person who has not been lawfully appointed executor or administrator who by reason of his intrusion upon the affairs of the deceased is treated for some purposes as having assumed the executorship: williams, mortimer and sunnucks, executors, administrators and probate (19th ed) (2008), para 8 16.
+the analogy with an executor de son tort was taken up in re canadian land reclaiming and colonising co, coventry and dixons case (1880) 14 ch d 660, which is the authority for the proposition that de facto directors are directors for the purposes of what is now the insolvency act 1986, section 212, but it too (like all of the older cases) is a case about persons who were appointed as, and acted as, directors, but whose appointment was defective.
+coventry and dixon were appointed, and for some time acted, as directors of a company in which the qualification for a director was the holding of a hundred shares.
+neither of them was the holder of any shares.
+in the course of the winding up the liquidator applied under section 165 of the companies act 1862 (a predecessor of the insolvency act 1986, section 212) to charge them for misfeasance in acting as directors without qualification.
+in the court of appeal it was held, reversing the judgment of sir george jessel mr, that section 165 created no right and merely provided a summary mode of calling directors to account for acts of impropriety, and that to make a person liable under it he must be shown to have been guilty of some misconduct by which the company had suffered loss.
+but there was no disagreement on the concept of de facto directors.
+sir george jessel mr, in a passage which was not affected by the reversal of his decision, said (at pp 664 665): no doubt they were not properly elected, and were, therefore, not de jure directors of the company; but that they were de facto directors of the company is equally beyond all question.
+the point i have to consider is whether the person who acts as de facto director is a director within the meaning of this section, or whether he can afterwards be allowed to deny that he was a director within the meaning of this section.
+i think he cannot.
+we are familiar in the law with a great number of cases in which a man who assumes a position cannot be allowed to deny in a court of justice that he really was entitled to occupy that position.
+the most familiar instance is that of executor de son tort.
+in like manner, it seems to me, in an application under this section, the de facto director is a director for the purposes of this section.
+james lj said (at p 670): it was admitted by the appellants that these persons, as de facto directors, would be liable for any act of commission or any omission on their part in the same manner and to the same extent as if they had been de jure as well as de facto directors.
+they were, so to say, directors de son tort, and liable in that character, but not otherwise, and you must shew something that they did which resulted in loss to the company, and for which, if they had been duly appointed directors of the company, the company would have been entitled to a remedy against them.
+bramwell lj said (at p 673): if he has done anything wrong as a de facto director, no doubt he can be got at under the clause.
+in re western counties steam bakeries and milling co [1897] 1 ch 617, 630, al smith lj said in a phrase which is the only one in the older cases to foreshadow the modern development of the law: when examined, coventry and dixon's case is only the case of gibson v barton over again.
+i agree that doing the
+work of a director may make a person a de facto director
+in re new par consols ltd [1898] 1 qb 573 mr gregory was a director of the company, and continued to act as such until it was wound up on 14 august 1897.
+he was adjudicated bankrupt in october 1896, having committed an act of bankruptcy on 3 august 1896.
+the articles provided that the office of director be vacated if he became a bankrupt.
+the bankruptcy dated back to the act of bankruptcy in august 1896 and he took the point that he was not bound to submit a statement of affairs because he had ceased to be a director of the company more than one year before the winding up.
+it is hardly surprising that the argument was rejected.
+lord russell of killowen cj said (at p 576) that the object of the legislation (the companies (winding up) act 1890, section 7) was to get at the persons who had the information which the court required, and accordingly even if he had properly and legally ceased to be a director, but was de facto acting as a director within the prescribed period of a year, he was a director within the meaning of the section, and subject to the obligation to prepare and sign the accounts which are required by that section.
+gibson v barton was applied in r v lawson [1905] 1 kb 541.
+the larceny act 1861, section 84, made it a misdemeanour for any director, manager, or public officer of any body corporate or public company to publish false statements with intent to deceive or defraud.
+it was held that it applied to a person who, without having been appointed an officer of the company, had in fact acted throughout as the manager of the affairs of the company.
+the modern law
+it seems that there is not a single case prior to the 1980s in which the term de facto director was applied to anyone other than one who had been appointed a director, but whose appointment was defective, or one who had been, but had ceased to be, a director.
+consequently the extension of statutory provisions relating to disqualification of directors and wrongful trading by directors to persons who had not been appointed as directors but who took part in management was a judicial innovation, first fully articulated in re lo line electric motors ltd [1988] ch 477 by sir nicolas browne wilkinson v c.
+prior to that decision, in re eurostem maritime ltd [1987] pcc 190, there was a disqualification application under the companies act 1985, section 300 (now the company directors disqualification act 1986, section 6).
+the application related to the respondents association with seven companies.
+he was a director of four of them.
+mervyn davies j held that the respondent was actively concerned in the administration of all seven companies and that section 300 applied to de facto directors.
+the relevant facts in re lo line electric motors ltd [1988] ch 477 were that the respondent had been a director of company a; he resigned as a director but continued as production manager; after the sole remaining director had absconded to the united states, the respondent took over the running of the company, but was not appointed as a director; the respondent also acted as a director of company b, although he was never appointed as such.
+sir nicolas browne wilkinson v c held that for the purposes of a disqualification order under the 1985 act, in considering whether a person was unfit to be a director, only his conduct as director was relevant, and that, as a matter of construction, director in section 300 included a person de facto acting as a director, though not appointed as such.
+it is apparent from the report of the argument that the respondent did not dispute that he had run the companies.
+the only argument relevant to the present case is that, relying on morris v kanssen [1946] ac 459, it was suggested that a de facto director was a director whose purported appointment was invalid, and not a person who had never been appointed.
+sir nicolas browne wilkinson v c rejected this argument: [counsel for the respondent] sought to draw a distinction between two types of de facto director, viz (a) a person who has been appointed director, but invalidly and (b) a person who has never been appointed director at all.
+he submitted that if, contrary to his primary submission, section 300 of the act of 1985 permitted regard to be paid to the conduct of a director who was invalidly appointed, the section did not extend to the conduct of a person who had never been appointed a director at all.
+he relied on morris v kanssen [1946] ac 459, 471, in which the house of lords drew exactly that distinction in holding that the statutory predecessor of section 285 of the act of 1985 (validation of acts of directors) did not validate the acts of a person who had never been appointed a director at all.
+i do not accept this submission.
+for the reasons i have given the plain intention of parliament in section 300 was to have regard to the conduct of a person acting as a director, whether validly appointed, invalidly appointed, or just assuming to act as director without any appointment at all.
+in this context, there is no logic in drawing the distinction put forward by [counsel].
+morris v kanssen was dealing with quite a different section which validated the acts of a director notwithstanding any defect that may afterwards be discovered in his appointment or qualification.
+in that case, both the words of the section and the common sense of the matter pointed to the section being concerned only with the acts of a person who had been invalidly appointed a director. (at 490)
+the most discussed modern authority is re hydrodam (corby) ltd [1994] 2 bclc 180.
+hydrodam had two corporate directors, which were companies incorporated in the channel islands.
+it was a subsidiary of eagle trust plc.
+the liquidator commenced proceedings against eagle trust plc (the ultimate parent company of hydrodam through two other subsidiaries) and all of eagle trusts directors, alleging that they were liable as de facto or shadow directors of hydrodam under the insolvency act 1986, section 214, for wrongful trading.
+the decision concerned an application by two of the directors to strike out the proceedings.
+it was alleged that as directors of eagle trust they were, with the other directors, collectively responsible for the conduct of eagle trust in relation to hydrodam.
+the proceedings were struck out because the liquidator had neither pleaded nor adduced evidence to support any allegation that either of the respondents was a director of hydrodam.
+millett j accepted that the liability for wrongful trading imposed by section 214 extended to de facto directors as well as to de jure and shadow directors.
+millett j said (at p 183): a de facto director is a person who assumes to act as a director.
+he is held out as a director by the company, and claims and purports to be a director, although never actually or validly appointed as such.
+to establish that a person was a de facto director of a company it is necessary to plead and prove that he undertook functions in relation to the company which could properly be discharged only by a director.
+it is not sufficient to show that he was concerned in the management of the company's affairs or undertook tasks in relation to its business which can properly be performed by a manager below board level.
+a de facto director, i repeat, is one who claims to act and purports to act as a director, although not validly appointed as such.
+millett j, in a much debated passage, dealt with the question whether the directors of a corporate director of a company must ipso facto be what he described as shadow directors (by which he probably also meant to include de facto directors) of the company.
+his answer was (at p 184): attendance of board meetings and voting, with others, may in certain limited circumstances expose a director to personal liability to the company of which he is a director or its creditors.
+but it does not, without more, constitute him a director of any company of which his company is a director.
+on the facts millett j held that the liquidator had neither pleaded nor adduced evidence that either of the directors was a director of hydrodam.
+as regards one of them, dr hardwick, he had never acted as a director, and as regards the other, mr thomas, it was not alleged that he acted in any way in relation to the companys affairs.
+since the decision in re hydrodam there have been many decisions on de facto directors, most of which have been in disqualification cases at first instance.
+many of the cases have involved a textual analysis of millett js judgment (which was, according to the report, a reserved judgment delivered on the day following the oral hearing).
+the most notable developments have been in re richborough furniture ltd [1996] 1 bclc 507 (timothy lloyd qc), and secretary of state for trade and industry v tjolle [1998] 1 bclc 333 (jacob j), and in the decision of the court of appeal in re kaytech international plc [1999] 2 bclc 351, which contains a valuable analysis by robert walker lj.
+the decisions have treated re hydrodam as a starting point.
+but although in re hydrodam millett j used expressions such as held out as a director and claims and purports to be a director, it has been held that although these were relevant factors, they were not necessary factors, and he could not have meant that the label director had to have been attached to the person or that he be held out as a director: re moorgate metals ltd [1995] bcc 143 (warner j); re richborough furniture ltd [1996] 1 bclc 507 (timothy lloyd qc); cf secretary of state for trade and industry v tjolle [1998] 1 bclc 333, 343.
+once the concept of de facto director was divorced from the unlawful holding of office, there were two consequences.
+the first consequence was that the distinction between de facto directors and shadow directors was eroded.
+a shadow director is a person in accordance with whose directions or instructions the directors of the company are accustomed to act: companies act 1985, section 741(2); companies act 2006, section 251(1).
+in re hydrodam [1994] 2 bclc 180, 183, millett j said that de facto and shadow directorship do not overlap.
+they are alternatives and in most and perhaps all cases are mutually exclusive.
+but the distinction was impossible to maintain with the extension of the concept of de facto directorship and the consideration of such matters as the taking of major decisions by the individual, which might be through instructions to the de jure directors, and the evaluation of his real influence in the affairs of the company: see re kaytech international plc [1999] 2 bclc 351, 424, per robert walker lj.
+the second consequence is that the courts were confronted with the very difficult problem of identifying what functions were in essence the sole responsibility of a director or board of directors.
+a number of tests have been suggested of which the following are the most relevant.
+first, whether the person was the sole person directing the affairs of the company (or acting with others equally lacking in a valid appointment), or if there were others who were true directors, whether he was acting on an equal footing with the others in directing its affairs: re richborough furniture ltd. second, whether there was a holding out by the company of the individual as a director, and whether the individual used the title: secretary of state for trade and industry v tjolle.
+third, taking all the circumstances into account, whether the individual was part of the corporate governing structure: secretary of state for trade and industry v tjolle, at pp 343 344, approved in re kaytech international plc [1999] 2 bclc 351, 423, where robert walker lj also approved the way in which jacob j in tjolle had declined to formulate a single test.
+he also said that the concepts of shadow director and de facto director had in common that an individual who was not a de jure director is alleged to have exercised real influence (otherwise than as a professional adviser) in the corporate governance of a company (at p 424).
+see also especially re mea corpn ltd [2006] ewhc 1846 (ch), [2007] 1 bclc 618 (lewison j); ultraframe (uk) ltd v fielding (no 2) [2005] ewhc 1638 (ch) (lewison j); secretary of state for trade and industry v hollier [2006] ewhc 1804 (ch), [2007] bcc 11 (etherton j).
+in fact it is just as difficult to define corporate governance as it is to identify those activities which are essentially the sole responsibility of a director or board of directors, although perhaps the most quoted definition is that of the cadbury report: corporate governance is the system by which businesses are directed and controlled (report of the committee on the financial aspects of corporate governance, 1992, para.2.5).
+other common law jurisdictions have had to deal with similar problems, and they have also imposed liabilities not only on irregularly appointed directors or persons who, without being appointed as directors, have been held out as directors, but also on persons who perform the functions of directors with any appointment, irregular or otherwise, and without any holding out: for australia see the corporations act 2001, section 9, and eg gebo investments (labuan) ltd v signatory investments pty ltd [2005] nswsc 544; chameleon mining nl v murchison metals ltd [2010] fca 1129; for canada, contrast wheeliker v canada (1999) 172 dlr (4th) 708, at [19] (fed ca) (remedies available against persons who act as directors or who are held out by the company as directors although they lack the required qualification or authority) with scavuzzo v the queen [2006] 2 ctc 2429, at para 32 (a person must have some semblance of qualification as director and must hold himself out as a director); in the united states de facto director still connotes a person who, without being a director, claims to be one (eg osler institute inc v forde, 333 f 3d 832 (7th cir 2003)), but the courts impose fiduciary duties on other persons who, without being directors, are control persons (eg re parmalat securities litigation, 684 f supp 2d 453, 475 476 (sdny 2010)).
+it does not follow that de facto director must be given the same meaning in all of the different contexts in which a director may be liable.
+it seems to me that in the present context of the fiduciary duty of a director not to dispose wrongfully of the companys assets, the crucial question is whether the person assumed the duties of a director.
+both sir nicolas browne wilkinson v c in re lo line (at p 490) and millett j in re hydrodam (at p 183) referred to the assumption of office as a mark of a de facto director.
+in fayers legal services ltd v day, (unreported) 11 april 2001, a case relating to breach of fiduciary duty, patten j, rejecting a claim that the defendant was a de facto director of the company and had been in breach of fiduciary duty, said that in order to make him liable for misfeasance as a de facto director the person must be part of the corporate governing structure, and the claimants had to prove that he assumed a role in the company sufficient to impose on him a fiduciary duty to the company and to make him responsible for the misuse of its assets.
+it seems to me that that is the correct formulation in a case of the present kind.
+see also primlake ltd v matthews associates [2006] ewhc 1227 (ch), [2007] 1 bclc 666, at para 284.
+conclusion
+it follows that i do not consider that the answer to the question on this appeal lies in considering what millett j meant by the words without more, and then attempting to catalogue what mr holland did.
+if the question is, as i believe, whether mr holland was part of the corporate governing structure of the composite companies and whether he assumed a role in those companies which imposed on him the fiduciary duties of a director, then i would answer that he was not.
+this is not simply a question of fact, since it raises the question of principle of the effects of acts done by a director of a corporate director in that capacity.
+the sole director of the composite companies was paycheck directors.
+from the time of the decision in re bulawayo market and offices co ltd [1907] 2 ch 458 that a company could have a sole corporate director and its statutory recognition from the companies act 1929, sections 144 and 145, until the requirement in the companies act 2006, section 155(1), that a company have at least one director who is a natural person, the corporate structure of the type in this case was perfectly lawful.
+there is no material to suggest that mr holland was doing anything other than discharging his duties as the director of the corporate director of the composite companies.
+it does not follow from the fact that he was taking all the relevant decisions that he was part of the corporate governance of the composite companies or that he assumed fiduciary duties in respect of them.
+if he was a de facto director of the composite companies simply because he was the guiding mind behind their sole corporate director, then that would be so in the case of every company with a sole corporate director.
+the development of the law of de facto directors from re lo line and re hydrodam onwards was a significant judicial innovation given that for some 150 years de facto directors meant individuals who had actually been appointed, or purportedly appointed, as directors.
+as has been seen, in two of the three older cases which dealt with the liability of de facto directors, an analogy was drawn with executors de son tort: gibson v barton (1875) lr 10 qb 329 and re canadian land reclaiming and colonising co, coventry and dixons case (1880) 14 ch d 660.
+that suggests strongly that the basis of liability was the assumption of responsibility.
+the legislature has already intervened in the 2006 act to ensure that there is a natural person to whom responsibility is attributed.
+the purpose of what became companies act 2006, section 155(1), was to ensure that every company would have at least one individual who could, if necessary, be held to account for the companys actions: department of trade and industry, company law reform (cm 6456, 2005), para 3.3.
+for the court to hold that every significant decision of individual directors of a corporate director is to be regarded as being taken as if they were directors of the company of which it is the corporate director goes considerably beyond the law as it has been developed at first instance and by the court of appeal in the modern de facto director cases, and beyond what i would regard as the function of the court.
+i would not wish to question the modern judicial development of the de facto director concept, and i well understand the policy reasons why in such a case as this a person in the position of mr holland should be liable, although those reasons may not be as powerful as they were prior to the enactment of the companies act 2006, section 155(1).
+the legislature could have intervened to require that all directors be natural persons, as under the corporations act 2001, section 201b (australia), the canada business corporations act 1985, section 105(1)(c), the new york business corporation law, section 701, and the delaware general corporate law, section 141(b).
+but it did not, and in my judgment the proposed extension which is inherent in hmrcs case is a matter for the legislature and not for this court.
+lord saville
+to my mind the appellants case necessarily involves substantial inroads into the long established principle that although a company is an artificial entity and can only act through natural persons, it is to be treated as a legal personality separate and distinct from its directors and members.
+it is the case that mr holland was the guiding mind behind the sole corporate director of the composite companies.
+he was the natural person who decided that the composite companies should pay the dividends in question.
+but he did so in the course of directing the corporate director, not by acting or purporting to act as a director of the composite companies.
+in my judgment, it does not follow from the fact that mr holland caused the corporate director to make decisions in relation to the composite companies that he was accordingly a de facto director of the composite companies.
+to suggest that he was is to ignore or bypass the separate legal personality of the corporate director and instead to treat mr holland as though he, rather than the corporate director, was the legal personality running the composite companies.
+as lord collins has pointed out in paragraph 96 of his judgment, if this were the law, then in the case of every company with a sole corporate director, the natural person or persons who caused the corporate director to make decisions relating to the company would necessarily be de facto directors of that company.
+such a state of affairs would lie awkwardly with the fact that in 2006 parliament enacted that a company must have at least one director who is a natural person; hardly necessary if the natural person or persons who were the guiding minds behind the corporate directors decisions relating to the company were ipso facto to be treated as de facto directors of the company.
+i accordingly agree that for the reasons given by lord hope and lord collins, this appeal should be dismissed.
+lord walker
+i am unable to agree with the reasoning and conclusions of the majority on the first issue in this appeal.
+the courts decision will, i fear, make it easier for risk averse individuals to use artificial corporate structures in order to insulate themselves against responsibility to an insolvent companys unsecured creditors.
+i gratefully adopt lord hopes summary of the relevant facts.
+i would add only that the specimen of the standard form computer generated document purporting to be a minute of a meeting of the board of directors of the composite company does not specify whether the dividend to be paid is an interim dividend or a final dividend.
+this last point is potentially of some importance because article 8(b)(i) of the articles of each of the composite companies, part of which is set out in para 8 of lord hopes judgment, makes the payment of dividends a matter for the decision of the company in general meeting acting on the recommendation of the directors.
+article 8(b)(i)(ee) and (ff) provide as follows: (ee) when paying interim dividends, the directors may make payments of interim dividends to one or more classes of non voting shares to the exclusion of one or more other classes of non voting shares on the same basis that final dividends may be paid by the company to each class of non voting shares in accordance with the foregoing; (ff) regulations 102 and 103 of table a shall be read and construed accordingly with the foregoing provisions of this article.
+rather surprisingly, the question whether the dividends purportedly paid by the composite companies were interim or final dividends seems not to have been considered in the courts below.
+nor was it raised in argument in this court.
+it may have been assumed that every single dividend paid by any of the composite companies was an interim dividend payment of which was a decision for the corporate director alone.
+but for a company to pay an endless stream of interim dividends, with no final dividend ever recommended by the directors and approved by the company in general meeting, could not be a proper exercise of the powers conferred by the article.
+that conclusion is reinforced by the opening words of article 8(b)(i) (such dividends payable on each such class of shares in such amounts, at such frequency, at such times as, on the recommendation of the directors, the holder of the a share shall, in general meeting, resolve ).
+the holder of the a share in each of the composite companies was of course paycheck services trustee limited, the directors and shareholders of which were mr and mrs holland.
+paycheck services trustee limited held each a share on the trusts of a settlement made by mr holland.
+the beneficiaries were the other shareholders in the composite company in questions.
+clause 3.1 of the form of settlement expressly provided for how the voting control conferred by the a share was to be exercised: in the exercise by the trustees of their duties hereunder and of the voting rights attached to the a share the trustees shall act at all times in the best interests of the [relevant composite company] and the members and the companys employees.
+the authorities
+in the courts below counsel for mr holland relied heavily on the decision of millett j in re hydrodam (corby) ltd [1994] 2 bclc 180.
+that company (hydrodam) had two corporate directors, both incorporated in the channel islands.
+millett j commented (p183): that fact alone may be sufficient to justify an inference that they were accustomed to act in accordance with the directions of others; in which case there were shadow directors of the company.
+but there is nothing pleaded in the points of claim to suggest that there were, in addition to the titular directors, any other persons who claimed to be directors of the company at all.
+millett j went on to explain in detail why the pleaded case was so deficient.
+hydrodams liquidator had made claims for wrongful trading against numerous respondents including two individuals who were (with six or seven co directors) directors of eagle trust plc (eagle) of which hydrodam was (at two removes) an indirect subsidiary.
+the pleaded case against the two individuals was that they were collectively responsible for decisions taken by eagle in relation to hydrodam.
+in that case, the judge said, it was eagle, not two members of its fairly large board, who should be regarded as a shadow director: (at p 184) but if all they have done is to act in their capacity as directors of the ultimate holding company, in passing resolutions at board meetings, then in my judgment the holding company is the shadow director of the subsidiary, and they are not.
+to put the point another way, in the statutory definition of shadow director, the context in which person is used does not permit the singular to include the plural.
+in striking out the defective pleading as against the two directors of eagle, millett j, was, if i may respectfully say so, obviously right.
+but he also made some general observations which have been much quoted and discussed, and not accepted without some qualification, in later cases.
+the key passage (at pp 182 183) is set out in para 29 of lord hopes judgment and i need not repeat it.
+later authority, at first instance and in the court of appeal, has qualified some of millett js propositions and developed others.
+it is unnecessary to embark on a lengthy discussion of all the first instance authorities.
+there are three main points of qualification.
+first, millett j said that a de facto director assumes to act as such, is held out as such, and claims and purports to be a director.
+that is true of some of the early cases in which an apparently de jure director had been disqualified by failing to obtain the requisite share qualification, or by bankruptcy (see for instance the cases mentioned by sir nicolas browne wilkinson v c in re lo line electric motors ltd [1988] ch 477, 489 490).
+but it is not required in every case.
+the vice chancellors view (at p 490) was that: the plain intention of parliament in section 300 [of the companies act 1985, the predecessor of the company directors disqualification act 1986] was to have regard to the conduct of a person acting as a director, whether validly appointed, invalidly appointed, or just assuming to act as director without any appointment at all.
+here the context shows that assuming was used in a neutral sense, simply drawing attention to what the individual in question actually did.
+to the same effect are the observations of etherton j in secretary of state for trade and industry v hollier [2006] ewhc 1804 (ch); [2007] bcc 11, para 66 (but compare para 81(4)).
+this analysis is supported by the observations of lewison j in re mea corpn ltd [2007] 1 bclc 618, paras 83 and 84, citing jacob j in secretary of state for trade and industry v tjolle [1998] 1 bclc 333, 343 344.
+lewison j said, in considering whether a person assumes to act as a director what is important is not what he calls himself, but what he did.
+secondly (though not directly relevant in this appeal), it is not necessary that a shadow director should be someone who lurks in the shadows.
+he may do so, especially if he has a bad commercial reputation (or has actually been disqualified from acting as a director).
+but he may be the chief executive of a group of companies who openly gives directions to the board of a subsidiary company on which he does not sit.
+this point has been made by the court of appeal in re kaytech international plc [1999] 2 bclc 351, 424 (robert walker lj) and in secretary of state for trade and industry v deverell [2001] ch 340, para 36 (morritt lj).
+indeed, millett j could be said to have recognised it himself in the example that he gave in a later paragraph in hydrodam (at p 184 f).
+thirdly (following on from the first two points) it is not the case that the concepts of de facto director and shadow director are fundamentally different, and always, or nearly always, to be regarded as mutually exclusive categories.
+this point has been made in kaytech at p 424.
+it was left open in deverell at para 36 but in mea lewison j has taken deverell as leading to the same conclusion (para 89): now that morritt lj has explained that the role of a shadow director does not necessarily extend over the whole range of the companys activities, it seems to me that there is no conceptual difficulty in concluding that a person can be both a shadow director and a de facto director simultaneously in each case, it is necessary to examine the facts, bearing in mind that, as morritt lj explained ([2001] ch 340 at 354), the purpose of the legislation is to identify those, other than professional advisers, with real influence in the corporate affairs of the company.
+subject to these qualifications (which are in my opinion correct and necessary) hydrodam still provides valuable guidance especially in emphasising (p 183) that to establish that a person was a de facto director of a company it is necessary to plead and prove that he undertook functions in relation to the company which could properly be discharged only by a director.
+this essential feature has been further explained and developed in kaytech at pp 423 424 (citing tjolle), in hollier at paras 66 81 and in mea at paras 82 83.
+something more
+in hydrodam, at p184, millett j added some further observations to the passage already referred to: attendance of board meetings and voting, with others, may in certain limited circumstances expose a director to personal liability to the company of which he is a director or its creditors.
+but it does not, without more, constitute him a director of any company of which his company is a director.
+the theme that something more is required has been repeated in later cases, including the judgment of rimer lj in this case, para 66.
+rimer lj did not take from hydrodam (and i entirely agree) that the requisite more would be satisfied merely by the active participation of the board member in the making of board decisions by the corporate director in relation to the actions of the subject company.
+in a section of his judgment headed mr hollands case (there is no parallel section considering the appellants case) lord hope observes (para 41), the facts of this case do not precisely match those of hydrodam.
+that is, with respect, a considerable understatement.
+in hydrodam, as already noted, each of the individuals in question was one of about eight persons who made up the board of directors of eagle, of which hydrodam was a sub sub subsidiary.
+the pleaded case was that the eagle directors were collectively responsible.
+being a de facto director is a matter of what the individual himself does on his own initiative, not simply as part of a process of collective decision making.
+mr holland was (with his professional advisers, who took their instructions from mr holland, and whose function was simply to give advice) the founder and guiding spirit of the whole paycheck empire.
+with the concurrence of his wife (whose responsibilities were no more than secretarial) he was the only active director of both paycheck directors and paycheck secretarial; he was the original holder of all the a shares which carried voting control of the composite companies, and he was the only active director of the corporate trustee which held the a shares under settlements which he had created.
+he took the decision (after receiving the advice of leading counsel at the consultation on 18 august 2004) that composite companies should continue trading, and should continue to pay dividends without reserving for higher rate corporation tax.
+if those facts did not amount to the something more referred to in the authorities, it is hard to imagine circumstances that would do so.
+the repeated assertion that everything that mr holland did was done in his capacity as a director of paycheck directors, and was within his authority as a director of that company, is no doubt not pure sham but it is, in my view, the most arid formalism.
+in my view mr holland was acting both as a de jure director of paycheck directors and as a de facto director of the composite companies.
+a de facto director is not formally invested with office, but if what he actually does amounts to taking all important decisions affecting the relevant company, and seeing that they are carried out, he is acting as a director of that company.
+it makes no difference that he is also acting as the only active de jure director of a corporate director of the company.
+i reach that conclusion without reference to the point, raised earlier in this judgment, about the status of the payments as interim dividends.
+the court heard no argument on the point, and it would not be right to place any reliance on it.
+but mr hollands apparent disregard for the provisions of articles tailor made for his own purposes makes his reliance on formalities even less convincing.
+the standard chartered case
+mr green qc, for hmrc, relied strongly on the decision of the house of lords in standard chartered bank v pakistan national shipping corpn (nos 2 and 4) [2002] ukhl 43; [2003] 1 ac 959.
+in that case mr mehra had made fraudulent misrepresentations on behalf of a company called oakprime, of which he was a director.
+the court of appeal accepted the argument that he was not personally liable for deceit because he had been acting solely on behalf of oakprime.
+the house of lords trenchantly exposed the fallacy of this reasoning.
+the most important passages are paras 20 23 in the opinion of lord hoffmann and paras 35 41 in the opinion of lord rodger of earlsferry.
+these passages in their entirety call for careful study, but i will limit quotation to para 41 of lord rodgers opinion: the court of appeal sought support for their view that mr mehra should not be held personally liable in the speech of lord steyn in williams v natural life health foods ltd [1998] 1 wlr 830, 834 835.
+in truth it provides no such support.
+the issue in that case related to the personal liability of a director for a misleading projection, prepared in large part by him and issued by the company, as to the profits which the plaintiffs might earn by opening a health food shop under a franchise.
+lord steyn, with whom the other members of the house concurred, said ([1998] 1 wlr 830, 835b c): but in order to establish personal liability under the principle of hedley byrne & co ltd v heller & partners ltd [1964] ac 465, which requires the existence of a special relationship between plaintiff and tortfeasor, it is not sufficient that there should have been a special relationship with the principal.
+there must have been an assumption of responsibility such as to create a special relationship with the director or employee himself.
+since the plaintiffs had failed to show a special relationship with the director himself, the house held that he was not liable.
+lord steyn was dealing with the tort of negligence where a claimant must establish that the defendant owed him a duty of care.
+there is no such requirement in the case of deceit.
+liability for deceit is so self evident that we do not consider it as resulting from a breach of duty (tony weir, tort law (2002), p 30).
+mr mehra set out by his fraudulent acts to make standard chartered pay under the letter of credit.
+he succeeded.
+he is accordingly personally liable for the loss which he thereby caused them.
+mr knox qc, for mr holland, summarily dismissed this case as irrelevant on the ground that it was a claim in deceit.
+so it was, and there has never been any pleading or finding of dishonesty against mr holland.
+nevertheless there is to my mind a significant parallel between liability for deceit (which is in lord rodgers words so self evident that we do not consider it as resulting from a breach of duty) and the unqualified statutory prohibition in section 263 of the companies act 1985 on payment of a dividend otherwise than out of available profits.
+contravention of this prohibition is a statutory wrong giving rise to strict liability, and anyone who is in a position to contravene it is likely to be in a fiduciary position (see further below).
+mr holland was the human cause of (and apart from his wifes secretarial assistance, the only human being who took any part in) the payment of unlawful dividends.
+they were, as rimer lj said (para 112) payments which should never have been made.
+mr holland is liable for the payments because he deliberately made them.
+his liability has nothing to do with limited liability of shareholders, or with salomon v a salomon & co ltd [1897] ac 22.
+i have carefully considered the judgment of lord collins.
+it contains a very full analysis of the early cases and the development of the law relating to de facto directors.
+it notes that re lo line electric motors ltd [1988] ch 477 was a striking judicial innovation.
+but its innovation has been followed and developed in many decisions at first instance and in the court of appeal.
+i agree with lord collins that section 212 is procedural in nature, and that for liability to arise under the section, a breach of some identifiable duty must be established.
+i also agree that assumption of responsibility is the appropriate test, so long as that expression is understood as focusing on what the individual in question did, rather than what he was called (see the authorities mentioned in para 108 above).
+in this case the assumption of responsibility equates with the fiduciary duty that a company director owes to his company not to make an unauthorised distribution of capital.
+but in the circumstances of this case i think that there would be some element of putting the cart before the horse in looking for a fiduciary duty before looking at what mr holland did, because it is what he did that demonstrates that he was undertaking responsibility and exposing himself to a claim for breach of fiduciary duty.
+lord collins makes a modest reference to his own monumental first instance judgment in primlake ltd v matthews associates [2006] ewhc 1227 (ch), [2007] 1 bclc 666.
+it would be inappropriate, in a dissenting judgment, to go far into that decision, which was not cited to the court.
+but it is to my mind a striking example, comparable on its facts to this case, of an individual held to be a de facto director, and to be liable for breach of fiduciary duty, because of what he did (see the summary at para 311 of the judgment).
+lord savilles brief judgment overlooks the important difference between a multiplicity of human directors participating in the collective governance of a single corporate director (as is common and as was the case, indirectly, in hydrodam), and a single individual director who is the guiding mind of a single corporate director, as mr holland was in this case.
+other issues
+on the other issues i agree with rimer lj in the court of appeal.
+the discretion conferred by section 212(3) of the insolvency act 1986 is not a wide discretion.
+it does not replicate or extend the courts power to grant relief under section 727 of the companies act 1985.
+what it does is to enable the court to adjust the remedy to the circumstances of the particular case (some examples are given by dillon lj in west mercia safetywear ltd v dodd [1988] bclc 250).
+for these reasons i would for my part have allowed the appeal and restored the order of the deputy judge but without the restriction on mr hollands liability imposed by para 2 of the judges order.
+lord clarke
+i agree with lord walker that this appeal should be allowed for the reasons he gives.
+i state the principal considerations which have led me to that conclusion because others take a different view.
+i entirely agree with lord walkers analysis of and qualifications to the decision and reasoning of millett j in re hydrodam (corby) ltd [1994] 2 bclc 180.
+in particular, i agree that, as lewison j said in re mea corpn ltd [2007] 1 bclc 618 at para 89 (in the passage quoted by lord walker), there is no conceptual difficulty in holding that a person can be both a shadow director and a de facto director simultaneously and that the real purpose of each is to identify those, other than professional advisers, with real influence in the corporate affairs of the company.
+as i read the judgments in the present case, it is accepted in them all that, in order to establish that a person was a de facto director, it is necessary to plead and prove that he undertook functions in relation to a company which could properly be carried out only by a director and that he must have done something more than merely participate in decisions by the corporate director in relation to the actions of the subject company.
+this requirement was not satisfied in hydrodam because each of the individuals alleged to be de facto directors was, as lord walker describes it, one of about eight people who made up the board of eagle, of which hydrodam was a sub sub subsidiary.
+the allegation was that the directors of eagle were collectively responsible.
+i agree with lord walker that being a de facto director depends upon what the individual does on his own initiative.
+the question in each case is whether the individual did something more than participate in a collective decision.
+in this case the question is whether mr holland did an act which was a directorial act of each composite company.
+i agree with lord walker that it does not follow from the fact that he did the act in his capacity as a director of paycheck directors, which was the corporate director of each composite company, that he did not also do it as a de facto director of each composite company.
+there is no reason in principle why it cannot be held as a matter of fact that mr holland decided to pay the dividends both as a de jure director of paycheck directors and as a de facto director of each composite company.
+section 263(1) of the companies act 1985 provides: (1) a company shall not make a distribution except out of profits available for the purpose.
+as lord hope observes at para 47, it was held by the deputy judge that, as from 18 august 2004, all the dividends were unlawful and it is accepted that the relief available under section 727 of that act would have been available to mr holland if he could show that he acted reasonably.
+it is thus accepted that, if mr holland was a de facto director of the composite companies, his position is the same as that of the de jure director of those companies, namely paycheck directors.
+the de jure director would be liable, subject to section 727, because it procured the payment of unlawful dividends and, if mr holland was a de facto director, he would be liable on the same basis.
+it is in this regard that i agree with lord walker that assistance is to be found in the reasoning of the house of lords in standard chartered bank v pakistan national shipping corpn [2002] ukhl 43, [2003] 1 ac 959.
+if mr holland was a de facto director of the composite companies, he is liable because, as a matter of fact, he procured the unlawful payment of the dividends to the shareholders and because he cannot show that he acted reasonably so as to enable him to seek relief under section 727.
+in standard chartered bank mr mehra was liable not because he was a director but because he committed a fraud: see per lord hoffmann at para 22.
+in the extract from para 41 of the speech of lord rodger quoted by lord walker he said: mr mehra set out by his fraudulent acts to make standard chartered pay under the letter of credit.
+he succeeded.
+he is accordingly personally liable for the loss that he thereby caused them.
+as i see it, the position is essentially the same here.
+if mr holland is a de facto director of the composite companies, it is because he personally procured the payment of the unlawful dividends and is liable to restore them just as the de jure director is.
+mr michael green qc submitted that if agency and therefore capacity are irrelevant to the question whether an individual has committed a tort, as was held in standard chartered bank, then so capacity should be irrelevant to the question whether an individual is a de facto director.
+i would accept that submission.
+in both cases the answer to the question depends upon what the individual did, not upon the capacity in which he did it.
+lord collins has expressed the view that what divides the court is not simply a matter of the facts, namely whether what mr holland did was in fact sufficient to make him a de facto director of the composite companies, but a question of law and a question of principle.
+he formulates the question at para 53 as being whether fiduciary duties can be imposed, in relation to a company whose sole director is a corporate director, on a director of that corporate director when all of his relevant acts were done as a director of the corporate director and can be attributed in law solely to the activities of the corporate director.
+that appears to me to be a similar principle to that stated by lord hope at para 42 that, so long as the relevant acts are done by the individual entirely within the ambit of the discharge of a persons duties and responsibilities as a director of a corporate director, it is to that capacity that his acts must be attributed.
+as i understand it, those propositions are advanced as propositions of law.
+however, no authority is cited for them and, for my part, i would not accept them.
+i recognise of course that, as lord collins points out at para 95, until section 155(1) of the companies act 2006 was enacted, it was perfectly lawful for a company to have a corporate director as a sole director.
+i also recognise that mr holland was a director of paycheck directors.
+however, as i see it, it does not follow as a matter of law that he cannot be a de facto director of the composite companies.
+whether he was or not is a question of fact.
+lord collins says at para 93 that in the present context the crucial question is whether mr holland assumed the duties of a director.
+he then approves the test stated by patten j in the unreported case of fayers legal services ltd v day, where the question was whether the defendant was a de facto director of a company and liable for misfeasance or breach of fiduciary duty.
+the test stated by patten j was whether the defendant was part of the corporate governing structure; the claimant had to prove that he assumed a role in the company sufficient to impose upon him a fiduciary duty to the company and make him responsible for the misuse of its assets.
+i do not think that either patten j or lord collins can have intended that the question whether a person is a de facto director always depends upon whether he owed a fiduciary duty.
+in most cases, it is logical and, to my mind, correct in principle to ask the single question whether he is a de facto director.
+if he is, it follows that he owes fiduciary duties.
+if he is not, it equally follows that he does not.
+it may have been appropriate to ask a rolled up question in the fayers legal services case because the issue there was whether what the alleged director did amounted to acting in a directorial manner on the facts.
+it was held by patten j at para 73 that his acts were essentially managerial and not directorial.
+it may well have been relevant to the issue in that case to ask whether the acts performed by him were of a kind which might be expected to give rise to a fiduciary duty and thus to be the acts of a de facto director.
+the two questions posed by lord collins in para 94, are whether the alleged de facto director assumed the duties of a director and whether he was part of the governing structure.
+i agree that those are relevant questions to ask but i also agree with lord walker that they are questions of fact.
+so too are other questions identified in the authorities.
+examples include those given by lord collins in para 91 including the following: whether the individual was taking the major decisions, which might be through instructions to the de jure directors, and what was real influence in the affairs of the company (see re kaytech international plc [1999] 2 bclc 351, per robert walker lj at p 424); whether he was the sole person directing the affairs of the company or whether there were others who were the true directors and whether he was acting on an equal footing with the others (see re richborough furniture ltd [1996] 1 bclc 507); and whether he exercised real influence, otherwise than as a professional adviser, in the corporate governance of the company (see re kaytech at p 424).
+as lord collins has observed at para 91 in a quotation from the cadbury report, corporate governance is the system by which businesses are directed and controlled.
+in my opinion all those questions are questions of fact.
+for my part, i do not see how they can be questions of law when the question is whether someone who is not a de jure director is a de facto director.
+that question depends ultimately on the answer to the question what mr holland did.
+the question is thus one of fact.
+what did mr holland do? there can be no doubt that the decision to pay dividends was a directorial act and not a mere managerial act.
+it seems to me that, if (as the deputy judge has held), mr holland in fact deliberately procured the payment of the dividends by the directors of paycheck directors and had the de facto power to do so, he was a de facto director.
+as such, he owed a fiduciary duty to the company and the procuring of the payment of the dividends was a breach of fiduciary duty and, on the deputy judges findings of fact, an unlawful act.
+he is accordingly liable to restore the dividends.
+i agree with lord walker that such a liability has nothing to do with the limited liability of shareholders or with salomon v a salomon & co ltd [1897] ac 22.
+the conclusion that mr holland was a de facto director does not involve the piercing of the corporate veil but simply the application of the principles identified in the modern cases to the facts of this case.
+on the detailed facts, again i agree with lord walker.
+as he explains, and is not in dispute, all the decisions were made by mr holland.
+each decision by mr holland to procure paycheck directors to pay the dividends without reserving for the relevant composite companys liability to tax was a decision to commit an unlawful act.
+each decision was, as i see it, a decision to carry out the underlying decision previously made by mr holland, who was then wearing a number of hats, that none of the composite companies would reserve for higher rate tax.
+when each decision to pay a particular dividend was made, he was thus acting, both as a de jure director of paycheck directors and as a de facto director of the particular composite company.
+moreover, he was not acting merely as a director of paycheck directors, but pursuant to a decision he had already made wearing all his hats.
+in these circumstances, it is in my opinion artificial and wrong to hold that he was doing no more than merely discharging his duties as a de jure director of paycheck directors, as rimer lj suggested at paras 70 72 and 74 of his judgment.
+there is no reason in principle why a person may not act in more than one capacity.
+the question is again one of fact.
+on the deputy judges findings of fact, mr holland was not merely discharging his duties as a director of the corporate director.
+he was in fact acting as a director of the composite companies by deciding (after taking leading counsels advice) that the composite companies should both continue trading and continue paying dividends without reserving for higher rate corporation tax and by procuring the directors of paycheck directors as a director of the composite companies to pay the unlawful dividends.
+the specific decision in each case was no more than an implementation of the scheme which he had devised (as described by lord walker) by entering the particular figures in the computer programme and authorising payments the particular shareholders/employees.
+if mr holland had not been a director of paycheck directors but had simply directed other directors of paycheck directors to make those payments as a director of the relevant composite company, there could, as i see it, be no doubt that mr holland was acting as a de facto director of the composite companies, simply on the basis of what he actually did.
+suppose, for example, his wife was the sole director of paycheck directors and he had instructed her to pay the dividends and she had done so without giving independent thought to the matter, he would surely have been doing so as inter alia a de facto director of the composite companies.
+the fact that he was a director of paycheck services to my mind would make no difference.
+on the facts the answers to the various questions posed above are clear.
+he was part of the governing structure because he in fact made every decision as to the payment of dividends.
+he thus assumed the duties of a director because paying dividends is what directors do.
+he was taking the major decisions through instructions to the de jure director of the composite companies.
+his real influence on the affairs of the companies was total.
+indeed, he was the sole person directing the affairs of the company.
+there were no others who were taking decisions other than in accordance with his directions.
+in short, he exercised real influence, otherwise than as a professional adviser, in the corporate governance of the company.
+in so concluding i use the expression corporate governance in the sense to used in the cadbury report as being the system by which the composite companies businesses were directed and controlled.
+they were directed and controlled by mr holland.
+in all the circumstances i would hold that mr holland was a de facto director of the composite companies on the ground that he in fact made directorial decisions with regard to them.
+as to the other issues, like lord walker, i agree with the views of rimer lj in the court of appeal.
+for the reasons i have given i would allow the appeal and make the order proposed by lord walker.

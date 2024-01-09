@@ -1,0 +1,954 @@
+this appeal is concerned with the meaning and application of the client money rules and client money distribution rules contained in chapter 7 of the client assets sourcebook (cass 7) issued by the financial services authority for the safeguarding and distribution of client money in implementation of the markets in financial instruments directive 2004/39/ec (mifid).
+the central feature of the client money rules is the requirement that cass 7 imposes on mifid firms to segregate money that they receive from or hold for or on behalf of their clients in the course of mifid business by placing it into a client money account so that it is kept apart from the firms own money.
+under english law the mere segregation of money into separate bank accounts is not sufficient to establish a proprietary interest in those funds in anyone other than the account holder.
+a declaration of trust over the balances standing to the credit of the segregated accounts is needed to protect those funds in the event of the firms insolvency.
+segregation on its own is not enough to provide that protection.
+nor is a declaration of trust, in a case where the clients money has been so mixed in with the firms money that it cannot be traced.
+so segregation is a necessary part of the system.
+when both elements are present they work together to give the complete protection against the risk of the firms insolvency that the client requires.
+that is why rule 14.1 of the solicitors regulation authority accounts rules 2011 provides that client money must without delay be paid into a client account, except when the rules provide to the contrary.
+rule 6.3.1(b) of the law society of scotland practice rules 2011 contains a provision to the same effect.
+the law society of scotlands guidance to rule 6.3.1(b) states that without delay normally means on the same day.
+these elementary principles were adopted by section 139 of the financial services and markets act 2000 (the 2000 act) when the rule making powers conferred on the fsa relating to the handling of client money were being formulated.
+cass 7 provides for the segregation of client money, and it creates a statutory trust over client money to support and reinforce the purposes of segregation.
+this ensures that client money is kept separate and not used for the firms own purposes.
+it protects the segregated funds from the claims of the firms creditors in the event that protection is most needed, which is the firms insolvency.
+it also enables client money to be returned to the clients without delay, as it is beyond the reach of the firms creditors.
+if the system works in the same way as it does under the accounts rules that regulate the activities of solicitors, the clients whose money has been segregated will be assured that their client money entitlement is not depleted by having to share the money in the clients account with others who may have claims against the firm, such as those whose client money has not been segregated and those for whom the firm does not hold any client money at all.
+the rules that cass 7 sets out are complex, and in the present case they have given rise to many problems.
+this appeal raises three issues that are of fundamental importance to the way the system that cass 7 lays down is to be worked out.
+the first is when does the statutory trust arise? does it arise only when the money has been placed in a segregated client account, or is the money subject to the trust as soon as it is in the firms hands irrespective of where it puts the money? if the latter is the case, the trust will extend to any client money that is held in the firms house account and has not yet been segregated as well as to money that has been segregated.
+the second and third issues are concerned with what happens to client money in the event of the failure of the firm (described by cass 7 as a primary pooling event).
+the second is directed to the rules that cass 7 lays down for the way client money is to be distributed should that event occur.
+it asks whether these arrangements apply to money that is identifiable as client money in the firms house accounts or only to money that is in the segregated client accounts.
+the third asks whether the right to participate in the pool that is to be distributed rateably to the clients is given only to those clients for whose benefit client money is held in the segregated client accounts, or whether a client whose money ought to have been segregated but was being held in a house account when the event occurs is entitled to participate in that money too.
+i have had the great advantage of reading in draft lord walkers judgment, in which the background to the issues that we have to consider is so fully and carefully set out.
+those who are interested will find most of the provisions of cass 7 that are relevant to those issues set out in appendix 1 to the judgment of arden lj in the court of appeal [2011] bus lr 277, 325.
+there are some omissions, but they are not important.
+all the provisions that lord walker refers to in his analysis of the points that matter are to be found there.
+as to the first issue, which is the time at which the statutory trust arises, i agree for the reasons lord walker gives that the trust arises on receipt of the money.
+but i have also found it helpful to consider the issue from the position of scots law.
+as lord walker has explained in para 47, it is clear that cass 7 was intended when transposing the directives into national law to make use of the concept of holding money on trust.
+but this is expressed by section 139(1) of the 2000 act to be the position in relation to england and wales and northern ireland only.
+section 139(3) provides: in the application of subsection (1) to scotland, the reference to money being held on trust is to be read as a reference to its being held as agent for the person who is entitled to call for it to be paid over to him or to be paid on his direction or to have it otherwise credited to him.
+this provision is carried forward into the description of the statutory trust in section 7.7 of cass which lord walker has quoted in full in para 41, below.
+the wording of section 139(3) might be taken as an indication that the concept of trust is unknown in scots law.
+that would be a misconception.
+there certainly is a law of trusts in scotland.
+this has been recognised from time to time by statute: see, for example, the trusts (scotland) act 1961 and section 17(5) of the trustee investments act 1961.
+there are significant differences between english and scots law as to its nature and origin.
+for example, the law of scotland does not accept that a relationship in trust can arise in equity.
+it has a more limited basis.
+its origin can be traced back to mandate or commission, which is part of the law of obligations: stair, institutes of the law of scotland (1693), i.12.17.
+various attempts have been made to explain the basis for the concept.
+they have not been successful, as its nature is considered to be of too anomalous a character to admit of a precise definition.
+but it can at least be said that the duty that the trustee owes to the beneficiary is fiduciary in character: wilson and duncan, trusts, trustees and executors 2nd ed, (1995), para 1 63.
+in council of the law society of scotland v mckinnie 1991 sc 355 a question arose as to the character of funds held by a solicitor to the credit of his client account as at the date of his sequestration under section 31(1) of the bankruptcy (scotland) act 1985.
+delivering the opinion of the court lord president hope said at pp 358 359: the order of priority in distribution which is prescribed by section 51 of the 1985 act leaves no room for doubt that if sums at credit of the clients account were to be regarded as having vested in the permanent trustee, these funds would be exposed to the claims of all those entitled to a ranking on the debtors estate.
+but property held on trust by the debtor for any other person lies outside this scheme of distribution altogether.
+section 33(1)(b) of the act provides that such property shall not vest in the permanent trustee.
+so if sums at credit of the clients account are to be regarded as having been held by the solicitor on trust on his clients behalf, it must follow that these sums do not vest in the permanent trustee on the sequestration of the solicitor, and accordingly that the judicial factor was right to resist the instruction by the accountant that the sums held on clients account in this case were to be made over to the permanent trustee.
+we are in no doubt that sums held to the credit of the clients account are fiduciary in character and that for this reason they are sums to which section 33(1)(b) of the 1985 act applies.
+it is well settled that a solicitor stands in a fiduciary relation to his client in regard to all sums of money which he has received on the clients behalf.
+authority for the proposition in the last sentence of that passage is to be found in jopp v johnstons trustee (1904) 6 f 1028.
+in that case a law agent sold shares belonging to his client mrs jopp and lodged the money that he received for them in his own bank account, which at that time was in credit.
+he later died insolvent and his estates were thereafter sequestrated.
+it was held that, as he was in the position of a trustee in regard to the sum realised by the sale of his clients shares, the amount in his account at his death which represented the trust money still belonged to his client and did not form part of his sequestrated estate.
+the case was concerned principally with the problem that had been created by the fact that the clients money had been mixed by the law agent with his own funds.
+but some passages in the opinion of lord justice clerk macdonald are of particular interest in the present context.
+at p 1034 the lord justice clerk said: now, there can be no doubt whatever that throughout the whole time during which the price of these shares was dealt with, mr johnston stood in a fiduciary relation to mrs jopp.
+at p 1035 he referred to, and adopted, the solution to the problem that was to be found in english law: i have no difficulty in holding with sir george jessel mr in the case of in re halletts estate (1880) lr 13 ch div 696, 719, that, as he quoted from lord hatherley, if a man mixes trust funds with his own, the whole will be treated as [the] trust property, except [] so far as he may be able to distinguish what is his own.
+it is no doubt true that mr johnston was not in the strict sense of the word mrs jopps trustee.
+he was undoubtedly, while he held the money, under the obligations of trust, the obligation to hold it for another and to deal with it solely for that others interest.
+after referring to a passage in the judgment of thesiger lj in hallett at p 723 to the same effect, he added these words: now, here, whatever mr johnston did, the fiduciary relation of agent undoubtedly subsisted, and to have uplifted the whole of these deposit receipts and used the contents for his own purposes would undoubtedly have been an absolute breach of his duty and the fiduciary position in which he stood.
+i think that these passages tell us two things.
+the first thing is that, while scots law has no difficulty in using the word trust in this context, the concept is more accurately and precisely analysed by referring to the fiduciary duty that the agent owes to his client with regard to money that he holds on his clients behalf.
+so the fact that a statutory trust is rejected by section 139(3) of the 2000 act in favour of agency in the application of section 139(1) to scotland, while at first sight surprising, does appear to have some basis in the language that was used to explain the relationship in jopp v johnstons trustee.
+we were shown a copy of a letter by the chairman of the scottish law commission, lord drummond young, to the advocate general for scotland dated 28 september 2010 in which the advocate generals attention was drawn to section 139(3) of the 2000 act, to cass 7.7.1g and to an almost identical provision which is to be found in chapter 5.3 of cass in respect of insurance moneys.
+inquiries by the commissions trust team of lawyers in hm treasury had received a reply to the effect that the instructions for the 2000 act did not disclose a policy reason for the choice of agency.
+it appeared that an identical provision in section 55(5) of the financial services act 1986 had been adopted without any independent policy consideration being given to the matter when the 2000 act was being prepared.
+the question was raised as to whether the cass rules would achieve the intended level of client protection in the event of an insolvency north of the border.
+this brings me to the second point that can be taken from the passages that i have quoted from jopp v johnstons trustee.
+it is directed to the question of how the agency approach that must be applied in scotland can guide us towards a solution of the issues raised in this appeal.
+i would approach this question on the assumption that it was the intention of parliament to provide the same level of client protection north of the border as was to be available in england and wales and in northern ireland.
+this assumption is based on the fact that no policy reason has been disclosed for the different treatment that the legislation has laid down for the application of section 139(1) of the 2000 act to scotland.
+the explanation for the difference may lie with the parliamentary draftsman in the lord advocates department.
+it is the kind of thing that would be picked up when he was checking through the legislation to see whether it should be expressed differently in the terminology of scots law so as to achieve what he understood its effect to be in the other parts of the united kingdom.
+the lord justice clerks opinion in jopp v johnstons trustee would have provided him with the terminology he was looking for.
+returning then to the first issue, which is the time at which the statutory trust arises, the solution that would be arrived at under the agency approach is very simple.
+as lord justice clerk macdonald said in jopp v johnstons trustee at p 1034, the agent stands in a fiduciary relation to his client throughout the whole time that the clients money is in his hands.
+the relationship from start to finish is one of agency.
+at no stage does the money cease to be the clients money and become the property of the agent.
+the fiduciary relationship which gives rise to the statutory trust arises on receipt of the money.
+there is no interval between the moment of receipt and the commencement of the fiduciary relationship during which the agent can treat the money as his own.
+the relationship remains throughout the period while the money is held in a client or house account until the obligation to the client has been discharged.
+that was held to be the position in council of the law society of scotland v mckinnie, and i would apply the same reasoning here.
+so if this were a scottish case i would have no difficulty in adopting the reasons that lord walker gives in para 63.
+as he explains in para 76, the clear conclusion he reaches on the first issue is that the effect of cass 7 is that under the alternative approach referred to in 7.4.16, as well as under the normal approach referred to in 7.4.17, a firm receives and holds clients money as a trustee, with the beneficial ownership remaining in the clients.
+i have no doubt that the law of scotland would arrive at the same conclusion.
+lord walker found it helpful to consider the third issue, which is whether participation in the client money pool (cmp) is dependent on actual segregation (in other words, how the cmp is to be distributed), before the second issue, which is whether the primary pooling arrangements apply only to the client money in house accounts (in other words, what is to go into the cmp): see para 89.
+i agree, and like him i would approach the third issue on the basis that the cmp consists of the aggregate of the segregated funds holding clients money immediately before the primary pooling event (ppe).
+i also agree that the words each client in the rule of distribution set out in 7.9.6r(2) must be taken in context to mean each client for whom client money is held as identified in the last reconciliation before the ppe.
+the agency approach would lead one to expect that the cmp was to be distributed on the basis of what has been referred to as the contributions theory, rather than on the basis of the claims theory.
+sums received from or on behalf of the client are fiduciary in character.
+they retain that character until all the obligations arising from the fiduciary relationship are discharged.
+the fiduciary relationship protects them from being used to meet claims against the agent for breach of duties that he owes to others.
+it would be surprising if the rule of distribution was intended to have the effect of removing that protection, which is what the claims basis of distribution would achieve.
+as i see it, clear language would be needed to achieve such a paradoxical result.
+lord dyson says in para 144 that the general scheme of cass 7 is that all client money is subject to a trust that arises upon receipt of the money by the firm and that the distribution rules are intended to protect all the clients money received prior to a ppe.
+he disagrees with lord walkers description of the notion that clients must be taken to have implicitly accepted the risk, on a ppe, of having to share their segregated funds with non segregated clients as unrealistic.
+he finds nothing surprising in the notion that, once a ppe occurs, the treatment of client money is subject to a different regime from that to which it was subject before.
+lord neuberger of abbotsbury mr was of the same view in the court of appeal.
+in para 216 he said that it seemed to him unlikely that the fsa would have intended that client money which had yet to be segregated was intended to be treated differently from client money which had been segregated either under the normal approach or under the alternative approach.
+i find it hard to understand, for my part, why it should be thought that it was the intention of the fsa to depart from the basic principles upon which the rules that regulate the activities of solicitors have been based.
+as i explained at the outset of this judgment, a declaration of trust, in a case where a clients money has been so mixed in with the firms money that it cannot be traced, is not enough to provide the protection that the client needs in the event of the firms insolvency.
+segregation is a necessary part of the system.
+when both elements are present they work together to give the protection that the client requires.
+to construe cass 7 in the way lord dyson suggests would have the effect of depriving the client of the protection which the rules were designed to achieve at the very moment when it is most needed.
+it is not just the exceptional nature of the facts of this case that make the consequences of his approach so striking.
+it affects every client whose money is handled by any firm operating in the area of mifid business, however large or small that amount may be.
+if authority is needed to show that the requirement of segregation is crucial for their protection and how segregation works hand in hand with the fiduciary character that is attached to the funds that are segregated, it can be found in the observations by professor gower in his report, review of investor protection which are quoted by lord collins in para 186, in the consultation papers to which he refers in para 187 and in council of the law society of scotland v mckinnie 1991 sc 355 to which i refer in para 9, above.
+like lord walker, i agree with the conclusion that briggs j reached as to the effect of the final words of 7.9.6r(2) (calculated in accordance with cass 7.9.7r).
+their effect, as briggs j said in para 255, was to provide a basis for the clients rateable participation in the cmp.
+it makes mandatory in the event of a ppe the standard method of money reconciliation that is set out in annex 1 to cass 7.
+given that it is to be expected that this exercise will have been carried out according to the rules at the point of last segregation (pls), it is hard to see why it must be gone over again now.
+but whatever the purpose is that this rule is designed to serve, it does not contain a direction of the kind that i think would be needed to override the protection that attaches to the money that clients have actually contributed in consequence of the fiduciary relationship.
+i agree with lord walker that glgs appeal on the third issue should be allowed.
+the second issue has to be approached on the assumption that there were movements in the client money requirement during the gap period between the pls and the ppe and that significant sums of client money were still traceable in the house accounts at the ppe.
+as lord walker points out in para 101, the issue resolves itself into a contest between what has been referred to as the final reconciliation theory and the general trust law theory.
+the problem is best focussed by looking at the position of the unsegregated last minute provider of client money.
+is that client to be left to claim against lbie as an unsecured creditor, or is its contribution to be protected in the same way as the contributions of those whose money was contributed before the pls? here again the agency approach tends to indicate that the money that this client provided should be protected by the fiduciary obligation which attached to that money as soon as it was received by lbie.
+the alternative is hard to reconcile with the fiduciary relationship, which must be taken to have been designed to protect the client from having to claim under the general law of insolvency.
+it was accepted that there is nothing to prevent a final internal reconciliation from being carried out to take account of movements in clients entitlements during the gap period.
+in any event i would so read the relevant provisions of cass 7.
+that being so, i do not find it difficult to conclude, in agreement with briggs j and lord walker, that this is what ought to be done in this case.
+i would therefore dismiss glgs appeal on the second point and make the order which has been proposed by lord walker.
+the question raised by the scottish law commission as to whether the same level of client protection is available in scotland as elsewhere in the united kingdom may not have been entirely resolved by the way the questions before us in this appeal have been answered.
+but it respectfully seems to me that the direction in section 139(3) of the 2000 act that the reference to money being held on trust is to be read as a reference to its being held as agent offers a level of protection that is no less effective.
+this is because it is to be assumed that the relationship between the agent and the client is a fiduciary relationship of the kind identified in jopp v johnstons trustee and council of the law society of scotland v mckinnie.
+it is worth noting too that i have found it helpful to examine the problems that this case gives rise to by assuming that the relationship between lbie and its clients was indeed one of agency.
+the clarity with which the effect and consequences of that relationship has been described is compelling.
+as it is to be assumed that the protection given by the trust approach was intended to be just as effective, i think that the scottish approach provides strong support for the conclusions that lord walker has reached in accordance with the direction in section 139(1) of the act that applies to england and wales.
+i share lord walkers concern at the effect of the answers that the majority give to the second and third issues, and especially to the third issue which is so crucial to the protection of investors generally.
+lord walker
+introduction
+lehman brothers international (europe) (lbie) is incorporated in england as an unlimited company with its head office in london.
+it was the principal european trading company in the lehman brothers group.
+it was authorised and regulated by the financial services authority (fsa).
+lbie was not a licensed deposit taker but it was authorised to hold clients money.
+its ultimate holding company is lehman brothers holdings inc (lbhi), a company incorporated in delaware and based in new york, now in chapter 11 bankruptcy.
+lbie was put into administration by an order of henderson j made before the opening of business on monday, 15 september 2008.
+many difficulties have arisen in the administration and the administrators have made several applications to the companies court for directions under paragraph 63 of schedule b1 to the insolvency act 1986.
+probably the most contentious and difficult of these is the client money application, which has led to this appeal.
+nine representative claimants were joined as parties to argue the issues.
+on 15 december 2009 briggs j, after a twelve day hearing, made an order giving directions on a range of issues concerned with client money: [2009] ewhc 3228 (ch), [2010] 2 bclc 301.
+some of the issues were matters of detail but others are of general and fundamental importance to lbies clients.
+four of these general issues were made the subject of an appeal to the court of appeal, and on 2 august 2010 the court of appeal (lord neuberger of abbotsbury mr, arden lj and sir mark waller) allowed the appeal on two of the four issues: [2010] ewca civ 917, [2011] bus lr 277, [2011] 1 cmlr 27, [2011] 2 bclc 164.
+permission to appeal or cross appeal to the supreme court was granted on three of those issues.
+they are closely interconnected, and all of them depend on the application (to a complicated set of assumed facts) of what is known as cass 7, that is, chapter 7 (client money: mifid business) of the client assets sourcebook issued by the fsa.
+mifid is an abbreviation for the markets in financial instruments directive 2004/39/ec and cass 7 has evolved from earlier regulatory instruments into a form intended to transpose mifid and its implementing directive, commission directive 2006/73/ec dated 10 august 2006.
+the fsas powers of making rules and publishing guidance are conferred by sections 138, 139, 155 and 157 of the financial services and markets act 2000 (fsma).
+section 139(1)(a) expressly permits rules to make provision which results in clients money being held on trust in accordance with the rules.
+at the beginning of his judgment briggs j (paras 2 to 7) gave an introduction to the problems in terms which i gratefully adopt: 2.
+when first read, cass 7 appears to provide a relatively straightforward and intelligible code for the safeguarding of client money by regulated firms.
+in the barest outline, it provides for client money to be identified and promptly paid into segregated accounts, segregated that is from the firms house accounts.
+it provides for client money to be held on trust, in substance for the clients for whom it is received and held.
+finally in the event of the failure of the firm, the rules provide for the pooling of the client money, thus far segregated and held on trust, and for its distribution to those entitled to it under that trust, pari passu in the event of a shortfall. 3.
+in an ideal world, the flawless operation of the scheme created by the cass 7 rules would ensure first, that the clients money could not be used by the firm for its own account and secondly, that upon the firms insolvency, the clients would receive back their money in full, (subject only to the proper costs of its distribution) free from the claims of the firms creditors under the statutory insolvency scheme.
+the rules would achieve those twin objectives by ensuring that, promptly upon receipt, client money was held by a firm as trustee, separately and distinctly from the firms own money and other assets, and therefore out of the reach both of the firm (for the conduct of its business) and of the firms administrator or liquidator upon its insolvency (for distribution among its creditors). 4.
+in the imperfect and hugely complex real world occupied by lbie and its numerous clients, there has on the facts which i am invited to assume for present purposes been a falling short in the achievement of both of those objectives on a truly spectacular scale.
+this shocking underperformance has occurred for a number of reasons, of which two stand out as prime causes.
+the first is that (again on the facts which i am invited to assume) lbie failed to identify as client money, and therefore also failed to segregate, vast sums received from or on behalf of a significant number of its clients.
+in this respect, the most significant group of clients whose money lbie failed to segregate were its own affiliates, that is members of the lehman brothers group of companies of which [lbhi] is the ultimate parent.
+those affiliates have advanced client money claims against lbie in aggregate exceeding us$3 billion.
+to put that extraordinary amount in perspective, the aggregate of the amounts actually held by lbie in segregated accounts for clients for which it recognised a segregation obligation pursuant to cass 7 when it went into administration on the morning of 15 september 2008 had a face value of only us$2.16 billion approximately. 5.
+to the un segregated affiliates claims in excess of us$3 billion must be added claims of independent clients of lbie who have challenged lbies treatment of its relationship with them as one of debtor/creditor rather than trustee and beneficiary, pursuant to the terms of its standard form contracts.
+the amount of under segregation which may be attributable to that failure (if failure it be) has not been identified.
+in addition, lbie routinely treated otherwise than as client money sums deriving from options and derivative otc transactions with its clients, regardless of the terms of the agreements pursuant to which lbie conducted such trading for those clients.
+the amount of potential segregation failure in respect of option transactions alone is said to have been us$146m. 6.
+the second main reason for under achievement of the objectives behind the cass 7 rules lies in the insolvent failure of another lbie affiliate, lehman brothers bankhaus ag (bankhaus), with which lbie had deposited no less than us$1 billion of segregated client money.
+bankhaus was subjected to a moratorium by the german regulator on 15 september 2008, and insolvency proceedings in relation to it were commenced on 12 november 2008.
+the administrators have been unable even to hazard a guess at the amount, if any, of client money which may be recovered from bankhaus.
+thus, even if there were no claims at all by clients whose client money lbie failed to segregate, there exists a real risk that the shortfall on client account will exceed 40% due to the bankhaus failure, quite apart from the costs and charges liable to be levied against the segregated fund in connection with its distribution, including the very large costs of this application. 7.
+the combination of a massive failure to identify and segregate client money, coupled with the credit loss shortfall attributable to the bankhaus failure, has thrown up a series of fundamental problems in the interpretation and application of the rules in cass 7 to lbies business and insolvency.
+the judge then went on to mention further complications and difficulties, some of which are still relevant to this appeal.
+in the course of the appeal process the number of representative claimants has been reduced.
+of the original nine only four have been parties to the appeal to the supreme court, as follows: (1) glg investments plc (subfund: european equity fund) (glg) was the representative of lbies fully segregated clients.
+it was the winner before briggs j on issues 2 and 3 but the loser (with the benefit of a preemptive costs order) before the court of appeal on all three issues.
+it is the appellant (without the benefit of a preemptive costs order) in this court.
+glg appeared by mr antony zacaroli qc, mr david allison and mr adam al attar. (2) crc credit fund limited (crc) was the principal appellant before the court of appeal, as a representative of what briggs j (para 25) referred to as the wholly unsegregated end of the spectrum.
+having succeeded before the court of appeal it is the principal respondent (with the benefit of a preemptive costs order) before this court, and it has appeared by mr robert miles qc and mr richard hill. (3) and (4) lehman brothers inc. and lehman brothers finance ag (the lb affiliates) are, on the assumed facts, largely unsegregated clients of lbie, but they have been joined and represented separately, at their own risk as to costs, because of their special position as members of the lehman brothers group.
+they have appeared by mr jonathan crow qc, mr jonathan russen qc and mr richard brent, who have supported and supplemented the submissions made by mr miles.
+the administrators have appeared by mr iain milligan qc, ms rebecca stubbs and mr richard fisher.
+the fsa was represented by leading counsel before briggs j and the court of appeal.
+it has not appeared by counsel in this court but has made written submissions prepared by mr david mabb qc and mr stephen horan.
+the fsa was generally supportive of the respondent claimants position.
+in his judgment briggs j had to answer no fewer than 26 questions, some of them subdivided.
+he had to go into a number of technical matters that arose from the complex and varied character of lbies trading activities, including futures, margins, currency transactions, stock loans, depot breaks, fails, and unapplied credits.
+some of these terms are briefly explained in para 2.16 of the statement of assumed facts (saf), most of which is reproduced in para 49 of briggs js judgment.
+in this court the argument has on the whole proceeded at a more general level.
+but at least a superficial acquaintance with some of the technicalities is necessary in order to understand the process of internal reconciliation of accounts that has to be undertaken on every business day by a firm operating the alternative approach described in paras 38 and 39 below.
+the directives
+mifid (directive 2004/39/ec of the european parliament and of the council, dated 21 april 2004) replaces council directive 93/22/eec on investment services in the securities field.
+its general purpose is set out in recital (2): in recent years more investors have become active in the financial markets and are offered an even more complex wide ranging set of services and instruments.
+in view of these developments the framework of the community should encompass the full range of investor oriented activities.
+to this end, it is necessary to provide for the degree of harmonisation needed to offer investors a high level of protection and to allow investment firms to provide services throughout the community, being a single market, on the basis of home country supervision.
+recital (26) refers to the importance of segregation of clients funds from those of the firm: in order to protect an investors ownership and other similar rights in respect of securities and his rights in respect of funds entrusted to a firm those rights should in particular be kept distinct from those of the firm.
+this principle should not, however, prevent a firm from doing business in its name but on behalf of the investor, where that is required by the very nature of the transaction and the investor is in agreement, for example stock lending.
+the directive is intended to state broad general framework principles to be implemented later (recital (64)).
+article 13 (organisational requirements) imposes on the home member state (that is, the state in which an investment firm has its registered or head office) the duty of requiring the firm to comply with the organisational requirements set out in paragraphs 2 to 8 of the article.
+these include: (7) an investment firm shall, when holding financial instruments belonging to clients, make adequate arrangements so as to safeguard clients ownership rights, especially in the event of the investment firms insolvency, and to prevent the use of a clients instruments on own account except with the clients express consent. (8) an investment firm shall, when holding funds belonging to clients, make adequate arrangements to safeguard the clients rights and, except in the case of credit institutions, prevent the use of client funds for its own account.
+paragraph 10 indicates that the commission will by the implementing directive specify the concrete organisational requirements to be imposed on investment firms.
+the implementing directive 2006/73/ec implemented mifid as anticipated in article 13(10).
+in particular article 16(1) imposes on member states the obligation to require investment firms to keep and maintain records and accounts, to make regular reconciliations, and (in subparagraph (e)) to ensure that client funds deposited, in accordance with article 18, in [an institution authorised by article 18] are held in an account or accounts identified separately from any accounts used to hold funds belonging to the investment firm.
+article 16(1)(f) requires member states to introduce adequate organisational arrangements to minimise the risk of the loss or diminution of client assets, or of rights in connection with those assets, as a result of misuse of the assets, fraud, poor administration, inadequate record keeping or negligence.
+article 18(1) provides that investment firms are to be required, on receiving any client funds, promptly to place those funds into one or more accounts with a central bank, an authorised credit institution, a bank authorised in a third country, or a qualifying money market fund.
+article 4 of the implementing directive (additional requirements on investment firms in certain cases) is concerned with what has been referred to as gold plating that is, transposing the directive into national law in a form that imposes on investment firms requirements not imposed by the directive itself.
+article 4(1) provides: member states may retain or impose requirements additional to those in this directive only in those exceptional cases where such requirements are objectively justified and proportionate so as to address specific risks to investor protection or to market integrity that are not adequately addressed by this directive, and provided that one of the following conditions is met: (a) the specific risks addressed by the requirements are of particular importance in the circumstances of the market structure of that member state; (b) the requirement addresses risks or issues that emerge or become evident after the date of application of this directive and that are not otherwise regulated by or under community measures.
+any such requirements are to be notified and justified to the commission.
+no such notification or justification has been made in respect of cass 7.
+gold plating was raised as an issue in the lower courts, as a possible argument against the imposition of an immediate trust of clients funds.
+it was not relied on by mr zacaroli in this court, but mr milligan mentioned it as a point which we might feel bound to consider of our own initiative.
+for my part i do not think it necessary to go further into the point.
+cass 7
+cass 7 (client money: mifid business) consists of nine sections, each subdivided into paragraphs containing mandatory rules (denoted r) and (distributed through the rules in smaller print) non mandatory guidance (denoted g).
+defined terms are printed in italics, the definitions being found in a separate glossary.
+so for instance para 7.1.1r (application) tells the reader that: this chapter (the client money rules) applies to: (1) a mifid investment firm: (a) that holds client money. and para 7.1.2g tells the reader that cass 7.2 (definition of client money) sets out the circumstances in which money is considered client money for the purposes of this chapter.
+there is also an annex setting out the standard method of internal client money reconciliation.
+the rules contain numerous cross references to the directives, to other chapters of cass and to other fsa regulatory instruments including cobs (the current conduct of business sourcebook) and sysc (the part of the handbook on high level standards which has the title senior management arrangements, systems and controls).
+it is necessary to give a fairly full summary of cass 7.
+for brevity i will refer to particular sections and paragraphs without the prefix cass.
+the two crucial provisions are emboldened for emphasis.
+the general scheme of cass 7 is that section 7.1 sets out the scope of the client money rules and section 7.2 defines client money, doing so by a wide general definition followed by numerous specific exceptions.
+there is no general exception for money belonging to an affiliated company (7.1.12g). 7.2.15r (discharge of fiduciary duty) lays down when money ceases to be client money.
+section 7.3 lays down general organisational requirements, substantially reproducing article 13(8) of mifid and article 16(1)(f) of the implementing directive.
+section 7.4 (segregation of client money) begins by reproducing the substance of article 18 of the implementing directive.
+it then addresses client bank accounts and sets out rules and guidance that call for detailed treatment.
+the direct quotations below follow the official text in the use of italics (though it can be something of a distraction) but use the same font size for rules and guidance alike.
+7.4.11r, reproducing the substance of article 16(1)(e) of the implementing directive, provides: a firm must take the necessary steps to ensure that client money deposited, in accordance with cass 7.4.1r, in a central bank, a credit institution, a bank authorised in a third country or a qualifying money market fund is held in an account or accounts identified separately from any accounts used to hold money belonging to the firm. 7.4.12g provides: a firm may open one or more client bank accounts in the form of a general client bank account, a designated client bank account or a designated client fund account (see cass 7.9.3g). 7.4.13g explains when and how a designated client account may be used. 7.4.14g (payment of client money into a client business account) provides: two approaches that a firm can adopt in discharging its obligations under the mifid client money segregation requirements [defined in the glossary by reference to cass 7.4.1r and cass 7.4.11r] are: (1) the normal approach; or (2) the alternative approach.
+the following rules and guidance about the normal approach and the alternative approach must be set out in full.
+the alternative approach was first introduced in 1995.
+originally its adoption required formal consent from the statutory regulator, but this requirement was replaced by the procedure in 7.4.15r: 7.4.15r a firm that does not adopt the normal approach must first send a written confirmation to the fsa from the firms auditor that the firm has in place systems and controls which are adequate to enable it to operate another approach effectively. 7.4.16g the alternative approach would be appropriate for a firm that operates in a multi product, multi currency environment for which adopting the normal approach would be unduly burdensome and would not achieve the client protection objective.
+under the alternative approach, client money is received into and paid out of a firms own bank accounts; consequently the firm should have systems and controls that are capable of monitoring the client money flows so that the firm comply with its obligations to perform reconciliations of records and accounts (see cass 7.6.2r).
+a firm that adopts the alternative approach will segregate client money into a client bank account on a daily basis, after having performed a reconciliation of records and accounts of the entitlement of each client for whom the firm holds client money with the records and accounts of the client money the firm holds in client bank account and client transaction accounts to determine what the client money requirement was at the close of the previous business day. 7.4.17g under the normal approach, a firm that receives client money should either: (1) pay it promptly, and in any event no later than the next business day after receipt, into a client bank account; or (2) pay it out in accordance with the rule regarding the discharge of a firms fiduciary duty to the client (see cass 7.2.15r). 7.4.18g under the alternative approach, a firm that receives client money should: (1)(a) pay any money to or on behalf of clients out of its own account; and (b) perform a reconciliation of records and accounts required under cass 7.6.2r (records and accounts), sysc 4.1.1r and sysc 6.1.1r, adjust the balance held in its client bank accounts and then segregate the money in the client bank account until the calculation is re performed on the next business day; or (2) pay it out in accordance with the rule regarding the discharge of a firms fiduciary duty to the client (see cass 7.2.15r). 7.4.19g a firm that adopts the alternative approach may: (1) receive all client money into its own bank account; (2) choose to operate the alternative approach for some types of business (for example, overseas equity transactions) and operate the normal approach for other types of business (for example, contingent liability investments) if the firm can demonstrate that its systems and controls are adequate (see cass 7.4.15r); and (3) use an historic average to account for uncleared cheques (see paragraph 4 of cass 7 annex 1g). 7.4.20g pursuant to the mifid client money segregation requirements a firm should ensure that any money other than client money deposited in a client bank account is promptly paid out of that account unless it is a minimum sum required to open the account, or to keep it open. 7.4.2.1r if it is prudent to do so to ensure that client money is protected, a firm may pay into a client bank account money of its own, and that money will then become client money for the purposes of this chapter.
+section 7.5 deals with transfers of client money to third parties.
+section 7.6 (records, accounts and reconciliations) reproduces the substance of article 16 (1)(a), (b) and (c) of the implementing directive.
+it also introduces, in a curiously indirect way, the annex to cass 7. 7.6.6g deals with internal reconciliations of client money balances and 7.6.6g (3) provides: the standard method of internal client money reconciliation sets out a method of reconciliation of client money balances that the fsa believes should be one of the steps that a firm takes when carrying out internal reconciliations of client money.
+the first set of italics sends the reader to the glossary, which defines the phrase by reference to cass 7 annex 1g.
+the provisions of the annex are summarised, so far as relevant, in paras 63 and 64 below.
+section 7.7 (statutory trust) is of central importance in this appeal.
+it must be set out in full: 7.7.1g section 139(1) of the act (miscellaneous ancillary matters) provides that rules may make provision which result in client money being held by a firm on trust (england and wales and northern ireland) or as agent (scotland only).
+this section creates a fiduciary relationship between the firm and its client under which client money is in the legal ownership of the firm but remains in the beneficial ownership of the client.
+in the event of failure of the firm, costs relating to the distribution of client money may have to be borne by the trust. 7.7.2r a firm receives and holds client money as trustee (or in scotland as agent) on the following terms: (1) for the purposes of and on the terms of the client money rules and the client money (mifid business) distribution rules; subject to (3) [it is common ground that this is an error for (2) (4)], for the clients (other than clients which are insurance undertakings when acting as such with respect of client money received in the course of insurance mediation activity and that was opted in to this chapter) for whom that money is held, according to their respective interests in it; (3) after all valid claims in (2) have been met, for clients which are insurance undertakings with respect of client money received in the course of insurance mediation activity according to their respective interests in it; (4) on failure of the firm, for the payment of the costs properly attributable to the distribution of the client money in accordance with (2); and (5) after all valid claims and costs under (2) to (4) have been met, for the firm itself.
+section 7.8 requires the trust affecting client money to be notified to and acknowledged by banks and other intermediaries.
+section 7.9 (client money distribution) is also of central importance. 7.9.1 to 7.9.8 must be set out in full: 7.9.1r this section (the client money (mifid business) distribution rules) applies to a firm that holds client money which is subject to the client money rules when a primary pooling event or a secondary pooling event occurs. 7.9.2g the client money (mifid business) distribution rules seek to facilitate the timely return of client money to a client in the event of the failure of a firm or third party at which the firm holds client money. 7.9.3g a firm can hold client money in either a general client bank account, a designated client bank account or a designated client fund account.
+a firm holds all client money in general client bank accounts for its clients as part of a common pool of money so those particular clients do not have a claim against a specific sum in a specific account; they only have a claim to the client money in general.
+a firm holds client money in designated client bank accounts or designated client fund accounts for those clients that requested their client money be part of a specific pool of money, so those particular clients do have a claim against a specific sum in a specific account; they do not have a claim to the client money in general unless a primary pooling event occurs.
+a primary pooling event triggers a notional pooling of all the client money, in every type of client money account, and the obligation to distribute it.
+if the firm becomes insolvent, and there is (for whatever reason) a shortfall in money held for a client compared with that clients entitlements, the available funds will be distributed in accordance with the client money (mifid business) distribution rules.
+a primary pooling event occurs: 7.9.4r (1) on the failure of the firm; (2) on the vesting of assets in a trustee in accordance with an assets requirement imposed under section 48(1)(b) of the act; (3) on the coming into force of a requirement for all client money held by the firm; or (4) when the firm notifies, or is in breach of its duty to notify, the fsa, in accordance with cass 7.6.16 r (notification requirements), that it is unable correctly to identify and allocate in its records all valid claims arising as a result of a secondary pooling event.
+cass 7.9.4r (4) does not apply so long as: 7.9.5r (1) the firm is taking steps, in consultation with the fsa, to establish those records; and (2) there are reasonable grounds to conclude that the records will be capable of rectification within a reasonable period. 7.9.6r if a primary pooling event occurs: (1) client money held in each client money account of the firm is treated as pooled; and (2) the firm must distribute that client money in accordance with cass 7.7.2r, so that each client receives a sum which is rateable to the client money entitlement calculated in accordance with cass 7.9.7r. 7.9.7r (1) when, in respect of a client, there is a positive individual client balance and a negative client equity balance, the credit must be offset against the debit reducing the individual client balance for that client. (2) when, in respect of a client, there is a negative individual client balance and a positive client equity balance, the credit must be offset against the debit reducing client equity balance for that client. 7.9.8g a clients main claim is for the return of client money held in a client bank account.
+a client may be able to claim for any shortfall against money held in a firms own account.
+for that claim, the client will be an unsecured creditor of the firm.
+section 7.9 goes on to deal with client money received after a primary pooling event, and mixed remittances (7.9.10 to 7.9.12).
+it then deals with secondary pooling events, defined in the glossary by reference to 7.9.14r: a secondary pooling event occurs on the failure of a third party to which client money held by the firm has been transferred under cass 7.4.1r(1) to cass 7.4.1r(3) (depositing client money) or cass 7.5.2r (transfer of client money to a third party). 7.9.13r provides that if both a primary pooling event and a secondary pooling event occur, the provisions of this section relating to a primary pooling event are to apply.
+in this case there was a secondary pooling event (spe), that is the failure of lehman brothers bankhaus ag, mentioned in para 6 of the judgment of briggs j and quoted in para 27 above, as well as a primary pooling event (ppe), that is the failure of lbie.
+mr zacaroli relied on the provisions as to the consequences of spes (7.9.18g to 7.9.25r as regards any bank failure) as reinforcing his submission that losses on segregated and non segregated funds are in general intended to lie where they fall, and to be shared rateably between those on whom they fall (this is an argument on the correct construction of cass 7 which does not of course depend on the fact of the failure of bankhaus).
+the correct approach to construction of cass 7
+this appeal turns on the correct construction, in context, and against the background of the general law of trusts, of a small number of the provisions set out or summarised above.
+the crucial provisions are 7.7.2r and 7.9.6r, set out above in bold type.
+i have felt obliged to set out a large number of much more peripheral provisions because the text of cass 7 has been subjected, both in the courts below and in this court, to a detailed analysis in which small verbal points (possibly an indication of no more than imperfect drafting) have been put forward and relied on as significant.
+that is not intended as a complaint.
+the correct construction of cass 7 gives rise to real difficulties.
+the modern approach of the court to construing commercial or regulatory documents is to prefer a purposive to a literal approach.
+that approach is reinforced by the fsa handbook, in which gen 2.2.1r provides, every provision in the handbook must be interpreted in the light of its purpose.
+but in this case any attempt to adopt a purposive approach runs almost immediately into difficulties.
+it is clear that the directives intended to achieve a high level of protection of clients money, and that the prompt and scrupulous segregation of clients money, confirmed by regular internal reconciliations and monitored by the national regulatory authority, was to be the means of achieving that end.
+equally it is clear that cass 7 was intended to transpose the directives into national law, and in doing so to make use of a basic concept of english law, the trust (lord hope has in his judgment addressed the application of cass 7 where the law of scotland applies).
+it is not now contended that the use of the trust concept involves gold plating.
+whatever the position may be in other member states, under united kingdom insolvency law mere segregation of clients money, without the support of an effective trust, would not give adequate protection in the event of a firms failure.
+so far, so good.
+but neither in the directives nor in cass 7 is there any indication of what is to happen if the organisational requirements are not complied with, and clients money is not segregated as it should be.
+both the directives and cass 7 assume compliance and do not address the possibility of any significant degree of non compliance, let alone non compliance on what briggs j referred to as a truly spectacular scale.
+in the court of appeal arden lj (para 63) instanced 7.6.13r as an example of a provision that contemplates non compliance.
+it is one of three provisions (7.6.13r, 7.6.14r and 7.6.15r) which deal with the resolution of reconciliation discrepancies.
+these routine rules, which contemplate internal reconciliations operating effectively, cannot, with respect, be taken as negating the rules general assumption of compliance.
+on the contrary, their relatively trivial nature seems to me to underline a general assumption of compliance with organisational requirements that permeates cass 7.
+in these circumstances, with very large sums of money at stake, it is inevitable that the text of cass 7 should have been subject to very close analysis.
+although the distinction between r rules and g guidance is important for regulatory purposes, it is common ground that for the purposes of construction provisions which contain guidance, as well as rules, should be taken into account.
+summary of assumed facts
+the judgment of briggs j contains quite a full account of lbies organisation and operating methods, partly in paras 1 to 45 of the judgment and partly in the saf reproduced (except for its description of the claimants) in para 49.
+for present purposes a shorter summary is sufficient.
+lbies business was organised in three segments: capital markets, investment banking and investment management.
+it provided a wide range of financial services to clients (including governments, trading corporations and wealthy individuals), and also traded on its own account (proprietary trading).
+it regularly and on a daily basis handled money in more than 50 currencies on behalf of more than 1,500 clients in different time zones.
+in order to cope with this volume of varied business it adopted the alternative approach (see paras 38 and 39 above) for the segregation of clients money.
+as recorded in para 2.11 of the saf: client money would be paid directly into and out of lbies own bank accounts (or an affiliates bank accounts) and lbie would segregate client money by making a single daily reconciling payment to (or withdrawal from) bank accounts used exclusively by lbie in order to segregate client money.
+the amount of any such payment would be calculated by lbie each business day morning based on data as at close of business on the previous business day.
+the client money segregated by lbie would then be adjusted accordingly later that day.
+in calculating the amounts which it had to segregate as clients money, lbie generally did so by reference to a range of components, which varied according to the type of financial services undertaken for a particular client, and the terms of the contract with that client.
+under some contracts lbie expressly agreed to provide client money protection.
+under others lbie sought to rely on the total title collateral transfer exemption contained in cass 7.2 (saf para 2.6).
+clients money was received by lbie, or was recognised as clients money by lbie, in three different ways: payments from clients; payments from third parties; and appropriations by lbie of its own money by segregating it in a clients money account in order to satisfy a pecuniary obligation such as a manufactured dividend on a stock lending transaction (saf paras 2.18 and 2.19).
+lbie had more than 700 different bank accounts, falling broadly into three categories: (1) accounts used exclusively for clients money, referred to as core client [money] bank accounts; (2) an intermediate category of accounts (numbering more than 300) referred to as non core client money bank accounts; and (3) house accounts (numbering over 440) containing money of which lbie regarded itself (in some cases, on the assumed facts, wrongly) as the beneficial owner (saf 2.20; the word money does not occur in the actual designation in 2.20.1 but it does occur elsewhere, for instance in the next line of 2.20.1 and in 2.26).
+in addition, clients money was held in client transaction accounts, that is accounts held in the name of lbie in a fiduciary capacity, with about ten different clearing houses and brokers.
+lbie also had house transaction accounts for the purpose of its proprietary trading.
+sometimes a single transaction account was used for both clients money and proprietary trading (saf paras 2.42 to 2.49).
+lbie had a liquidity management process described in saf paras 2.21 to 2.27.
+its general object was to ensure, by projections of funding needs and appropriate transfers, that lbie had sufficient liquidity, but not a large surplus of funds, for its trading operations.
+daily transfers were made between lbie and lbhi so as to achieve this.
+in the months leading up to its failure, lbie was a net debtor of lbhi, so that the effect of transfers from lbie to lbhi was to reduce the intra group indebtedness.
+saf 2.26 describes how client money was dealt with as part of that process: all of lbies bank accounts were subject to the liquidity management process save that, in relation to lbies core client money bank accounts, surplus funds would only be withdrawn from these accounts where lbies reconciliation and segregation calculation permitted lbie to reduce the amount of money segregated by it.
+prior to the time of appointment therefore, client money first received into one of lbies bank accounts was regularly transferred to lbhis bank account(s) each evening prior to lbie segregating an equivalent amount the next morning.
+as to the events immediately before lbie was put into administration by an order made at 7.56 am on monday 15 september 2008, the last internal reconciliation of clients funds took place on the morning of friday 12 september 2008 by reference to data as at the close of business on thursday 11 september.
+saf para 2.26 goes on to record: given that, it is possible that client money received into lbies non core client money bank accounts or house accounts between [close of business] on 11 september 2008 and close of business on 12 september 2008 would have been passed up to lbhi as part of the liquidity management process prior to the time of appointment [of the administrators].
+there is a more detailed account of these events in saf para 2.50.
+in the judgment of briggs j the close of business on 11 september 2008 is referred to as the point of last segregation (pls) and 7.56 am on 15 september 2008 is referred to as the time of appointment or, in the context of cass 7, the ppe.
+the appointment of the administrators on 15 september 2008 may be seen as a supervening event which made it impossible for lbie to perform its obligation (under the alternative approach) to segregate clients money within one business day.
+the other failures to segregate seem to have started long before and to have continued over a long period.
+they are described as follows (by way of example) in saf para 2.52: (1) lbie did not segregate any money in relation to trading in any transactions, including margined transactions, carried out in respect of affiliates trading on their own account.
+the amounts claimed by the affiliates in connection with this exceed usd3 billion. (2) lbie did not segregate any money in connection with certain complex arrangements that it had for the trading of various positions with its affiliates, in connection with which amounts would fall due and payable as between lbie and those affiliates but would be posted to the relevant intercompany ledger account rather than always immediately paid. [a footnote refers to a separate application relating to the rascals process.] (3) lbie often entered into agreements with its clients under which lbie understood that client money protection would not be afforded to various types of money held by it for those clients.
+where this was the case, lbie did not generally segregate money on behalf of such clients.
+a number of clients with agreements of these types seek to argue that the particular language contained in their agreements was not effective to exclude client money protection, at least not in its entirety.
+similarly where clients entered into a number of agreements with lbie which provided for differing levels of client money protection, those clients may seek to argue that amounts which were held by lbie for them at the time of appointment were held pursuant to an agreement which provided for some client money protection as opposed to another which did not. (4) lbie did not generally segregate as client money certain amounts relating to options transactions with its clients.
+this was the case for all clients, irrespective of whether they had in place title transfer arrangements with lbie.
+whilst lbie segregated premiums received for sold options and variation margin on certain options and gains on options closed out, it did not otherwise generally segregate for unrealised gains on open options positions.
+as at 12 september 2008, the approximate aggregate value of unrealised gains (not deducting unrealised losses) arising from options transactions which had not been segregated was usd146m. (5) lbie did not segregate any money in respect of otc derivatives because all such money was regarded by lbie as being held pursuant to total title transfers in accordance with cass 7.2.3r. (6) from time to time operational errors occurred which led to a failure by lbie to segregate an appropriate amount for a client.
+there were also some potential instances of over segregation.
+the particular facts relevant to crc are summarised in saf para 6: (1) crc was a prime brokerage client of lbie. (2) crc is a wholly unsegregated client for whom no client money was segregated by lbie at the time of appointment. (3) lbie should have segregated as client money for crc sums including usd52m in connection with fx transactions and a cash balance of approximately usd24m in various currencies on other accounts.
+claren road credit master fund ltd (which was a party to the original application but is not represented on this appeal) is an example of a client for whom money was received on 12 september 2008 but whose money was not segregated because lbie went into administration.
+details of its interest are given in saf para 7.
+the first issue
+the first issue is the time at which the statutory trust arises.
+in the case of money received from a client or from a third party, the two competing answers are time of receipt and time of segregation.
+in the case of satisfaction of a monetary obligation of the firm to a client (the fourth issue in the court of appeal) it is now common ground that the trust arises on the appropriation of funds in satisfaction of the obligation, normally by a payment into a segregated client account.
+on the first issue briggs j and the court of appeal were in agreement that the statutory trust arises on receipt of the money; and this court, i understand, unanimously agrees that they were right.
+in the circumstances i can deal with the point fairly shortly, and mainly by reference to the judges reasons.
+briggs j began his discussion with the observation (para 138), with which i agree, there is much to be said for the proposition, advanced by mr milligan in reply, that the question when the statutory trust attaches to client money is really a short point of construction, unambiguously answered by the opening words of cass 7.7.2r: a firm receives and holds client money as trustee .
+i would readily adopt those reasons, expressed in the judges words, as my in paras 139 and 140 he summarised the contrary arguments (put before him not by mr zacaroli but by counsel for a representative unsecured non client money creditor and by counsel for lbhi).
+in paras 141 to 165 he gave his reasons for rejecting those arguments.
+own, but i can summarise them, with some loss of finesse, as follows. (1) where money is received from a client, or from a third party on behalf of a client, it would be unnatural, and contrary to the primary purpose of client protection, for the money to cease to be the clients property on receipt, and for it (or its substitute) to become his property again on segregation.
+it would also be contrary to the natural meaning of the comprehensive language of 7.7.2r (paras 144 146). (2) segregation without a trust would not achieve mifids objective.
+under the alternative approach an immediate trust of identifiable client money does provide protection, though mixed funds are subject to a variety of risks (para 148). (3) the absence of express restrictions, under the alternative approach, on use of clients money while held in a house account does not mean that the firm is free to use it for its own purposes.
+its obligation is to segregate it promptly, and both section 7.3 of cass and the general law of trusts would prevent use of clients money for proprietary purposes.
+there are at least two methods, one contemplated by 7.4.21r, of ensuring the protection of clients money temporarily held in a house account (paras 149 156). (4) the most formidable argument in favour of segregation (premised on the view that the provision of the distribution rules in 7.9.6r(1) applies only to segregated funds) is that there is under the alternative approach potentially a black hole into which clients money may vanish, so as not to be caught by the distribution rules.
+this is a point of substance, but it does not outweigh the opposing arguments.
+to allow a limited defect of the alternative approach to dictate the interpretation of the essential provisions of section 7.2 would be to let the tail wag the dog.
+in the court of appeal both lord neuberger mr (paras 190 203) and arden lj (paras 104 106) agreed with the reasoning of briggs j, although each added some further particular reasons.
+in his able submissions on behalf of glg mr zacaroli sought to draw a fundamental distinction between the normal approach and the alternative approach.
+he submitted that the latter approach is a complete contrast, under which the firm is expressly permitted to pay money into house accounts in which it would swill around with all the money in the firms house accounts.
+this point is largely covered by the judges reasoning as briefly summarised in para 63(3) above.
+i would add only that the alternative method is available not for the convenience of the firm, but as a better means of securing client protection (the judges second point in para 104 of his judgment).
+both methods are intended to achieve a high degree of client protection, either by immediate segregation or by very prompt segregation.
+moreover client money held temporarily in a house account does not, in the eyes of trust law, swill around but sinks to the bottom in the sense that when the firm is using money for its own purposes it is treated as withdrawing its own money from a mixed fund before it touches trust money (the point made by the judge in para 153 of his judgment).
+i would therefore dismiss glgs appeal on the first issue.
+the second and third issues before briggs j
+the second and third issues are stated in the agreed statement of facts and issues in these terms: (2) do the primary pooling arrangements apply to client money in house accounts? (3) is participation in the pool dependent on actual segregation? they were formulated in similar, but not identical terms in the court of appeal (para 6 of arden ljs judgment).
+these are the issues on which the court of appeal unanimously differed from the judge.
+i shall try to summarise the main lines of reasoning in the courts below, although (again) my summary will not do justice to many of the finer points in the judgments.
+briggs j covered what is now the second issue (his third issue, rather differently formulated) at paras 166 to 198.
+because the issue as to the constitution of the client money pool (cmp) was differently formulated, many of the arguments which the judge had to consider have not been pursued on appeal.
+with hindsight derived from the hard toil of the appeal process i find it a little surprising that the judge concentrated so much on the language of 7.9.6r(1), to the exclusion of 7.7.2.
+the statutory trust in 7.7.2 received only an indirect mention in para 195: there is in any event a persuasive symmetry between that part of cass 7 which requires the identification and segregation of client money by a firm while in business, and the distribution rules which, on that interpretation, require the money thus segregated to be promptly distributed to the clients entitled to it upon the firms failure.
+the judge concluded on this issue (para 197): (i) the cmp is constituted as at the ppe only by client money in segregated accounts. (ii) client money outside the firms segregated accounts does not form part of the cmp. (iii) the identification of client money (if any) outside the firms segregated accounts depends upon the established principles by which a beneficiary must trace his property in order to pursue a proprietary claim in relation to it [with references to five well known cases].
+as to the third issue, the basis of sharing the cmp, briggs j approached that as a contest between what he called the contributions theory and the claims theory.
+this corresponds closely to the contest as to whether in cass 7 client money entitlement refers to contractual or proprietary entitlement.
+it is to be noted that however the issue is formulated it arises as a problem, except in relation to the last business day, only in the event of non compliance with cass 7.
+the judge saw the contest as a difficult question with large consequences, which is undoubtedly correct.
+he observed (para 228): unhappily, cass 7 provides no clear guidance on this question.
+this is probably because the draftsman working in the utopian world of full compliance by the firm with the client money rules before its failure, assumed that there would be no substantial difference between the amount which should have been segregated and the amount which was actually segregated for any particular client.
+the only differences would arise from dealings with client money during the short period between the pls and the ppe, and then only in relation to a firm using the alternative approach.
+in para 234 the judge came back to the point that the directives contemplate that the protection of clients money will be achieved by compliance with the directives organisational requirements.
+in paras 238 and 239 he analysed the effect of 7.7.2r, in conjunction with other provisions, in imposing the statutory trust for the clients for whom that money is held, according to their respective interests in it.
+para 241 in effect sets out the case for the contributions theory at its highest, and then notes that there are counter arguments: the result is in my judgment that the mifid directives, the general law and an analysis of the proprietary rights in the segregated accounts prior to pooling, all support the contributions theory as against the claims theory.
+there remains nonetheless the question whether, as submitted by (and for) the un segregated clients, the language of the distribution machinery contained in cass 7.9.6r, 7r and 9r requires the application of a claims rather than contributions basis of calculation as a matter of interpretation.
+for that purpose, there is no escape from a painstaking analysis of the meaning and purpose of those three paragraphs, and in particular paragraph 7.9.7r.
+the counter arguments are summarised in seven sub paragraphs in para 242, described in the next paragraph as constituting a formidable textual argument.
+but the judge discerned weaknesses in it.
+first, the expression client money entitlement in cass 7 does not have a single fixed meaning.
+second, the draftsman could not have contemplated a disparity between the results of the two methods because his aim was (para 246) to construct a scheme of obligations with which he expected firms to comply, rather than flout.
+moreover (para 250) it is no part of the distribution rules to confer upon clients whose money was, in breach of the client money rules, not contributed to the segregated accounts from which the cmp is constituted, a beneficial interest in that fund which did not exist immediately prior to the ppe.
+the judge then embarked on what is indeed a painstaking examination of 7.9.6r(2), 7.9.7r and 7.9.9r, which took him into the purposes and structure of the annex.
+he concluded (para 275): my conclusion on this issue therefore is that the basis for sharing in the cmp is the amount which the firm actually segregated for each client, as revealed by the last internal reconciliation account carried out by the firm before the ppe, and in lbies case (because it used the alternative approach) by reference to the pls, subject to certain adjustments necessitated by cass 7.9.7r, and by subsequent events, to which i will return later in this judgment.
+the second and third issues in the court of appeal
+in the court of appeal arden lj covered the second issue at paras 108 to 142 of her judgment, with her conclusions beginning at para 124.
+she saw client money account (an undefined expression) as having a wide meaning.
+she thought it significant that the statutory trust was a single trust, that client money entitlement in 7.9.6r(2) naturally referred to a contractual entitlement, and that 7.9.3g envisaged a pooling of all the client money, in every type of client money account (para 127).
+she saw the contributions theory as producing unfair results (paras 130 and 131).
+she rejected the argument that the claims theory involved any interference with the rights, prior to the ppe, of fully segregated clients (para 134).
+similarly she discounted the judges symmetry (para 195 of his judgment, quoted in para 67 above) as a distraction (para 137).
+she concluded that there was to be a pooling of all client money in segregated accounts and house accounts (para 139), and that there should be a final reconciliation covering events down to the ppe (paras 140 142).
+lord neuberger mr addressed the second issue at paras 204 to 224.
+he could get only limited textual assistance, though he considered numerous detailed points (paras 205 to 215).
+he saw some force in the submission that at least on a primary pooling event, the clients of the firm are in it together, and client money is pooled and paid out to all clients on a pro rata basis, and that the claims theory was fairer in avoiding a degree of randomness (paras 217 and 218).
+he also attached some weight to the notion that the statutory trust was a single trust, and to the directives aim of providing a single and consistent level of protection (paras 221 and 222).
+so lord neuberger reached the same agreement as arden lj on the second issue, and sir mark waller agreed with both of them.
+lord neuberger does not seem to have commented on lady ardens view that a further, final reconciliation was appropriate, and the order of the court of appeal as perfected does not refer to this point.
+but mr miles in his written case (para 182) and his oral submissions (day 4, page 96) relied on sir mark wallers general agreement with arden lj on the topic of pooling.
+arden lj addressed the third issue at paras 143 to 163, with her conclusions beginning at para 154.
+she repeated that client money entitlement referred to contractual entitlement, even if it meant distributing funds to clients with no proprietary claim.
+it was open to the fsa, she stated, to treat the failure of the firm as a common misfortune in which those who had claims to the recovery of client money should share without distinction (para 154).
+she noted that even under the contributions theory, adjustments have to be made, and considered that the judges reference to a glitch (in para 265 of his judgment) understated the problem (para 157 of the judgment of arden lj).
+referring to the words for the clients . for whom that money is held, according to their respective interests in it in 7.7.2r (3) arden lj stated (para 160): while the firm is a going concern those interests are the several interests of the clients but on a ppe a pooling occurs so that on any view those interests are varied.
+accordingly as from the happening of a ppe, the expression their respective interests must mean their respective interests under cass 7.9.6r.
+so arden ljs conclusion was in favour of the claims theory.
+so was that of lord neuberger mr (paras 225 234).
+he regarded the objections to the contributions theory (set out in para 242 of the judges judgment) as not merely formidable but also decisive.
+he thought that client money entitlement did have a consistent meaning if the claims theory was adopted; it was only if the contributions theory was adopted that inconsistency occurred.
+again, sir mark waller agreed with lord neuberger and arden lj.
+the intricate textual arguments outlined above (and it is merely an outline) have now been debated between highly skilled counsel for a total of 20 days.
+many of them seem to be the result of drafting imperfections in cass 7.
+as was pointed out below, there is no definition of the expression client money account, although the glossary (which is the size of a small dictionary) does contain definitions of client bank account (as a current or deposit account at a bank, in the name of the firm, which holds the money of one or more clients) and client transaction account (explained in 7.4.16g).
+it is, i accept, impossible to avoid the most important of the textual arguments, particularly the formidable argument (paras 242 and 243 of the judgment of briggs j) which ultimately persuaded lord neuberger, and also influenced arden ljs conclusions (paras 154 to 160).
+i shall return to those arguments.
+but in my view the resolution of the second and third questions (which are closely bound together) depends ultimately on the general scheme and structure of the regulatory framework in cass 7, and on seeing (in general terms) how segregation of clients money worked in practice, not merely on the catastrophic failure of the firm on the ppe, but from business day to business day during the firms trading operations.
+the nature of the statutory trust
+in the search for the essential scheme and structure of cass 7 the outstanding feature is the statutory trust.
+in line with the clear conclusion reached on the first issue, the effect of cass 7 is that under the alternative approach, as well as under the normal approach, a firm receives and holds clients money as a trustee, with beneficial ownership remaining in the clients.
+the trust in 7.7.2r is (1) for the purposes of and on the terms of the client money rules and the client money (mifid business) distribution rules; (2) subject to [(4) costs of distribution on failure] for the clients [subject to an irrelevant exception] for whom that money is held, according to their respective interests in it.
+the client money rules are defined in the glossary as cass 7.1 to 7.8, and the client money (mifid business) distribution rules as cass 7.9.
+the latter rules apply only in what was (until shortly before lbies failure) no doubt regarded as a remote contingency, that is the failure of the firm or some other event amounting to a ppe.
+unless and until such an untoward event happens, the purposes of the statutory trust are those in cass 7.1 to 7.8.
+this point needs to be made since mr miles, for understandable reasons, referred to the statutory trust as a purpose trust and placed emphasis on the purposes of the client money distribution rules in cass 7.9, and especially 7.9.6r.
+those rules came into operation on the failure of the firm on 15 september 2008.
+until then clients money had been held, no doubt in some cases for years, in client money bank accounts (some general and some designated) for all the purposes of cass 7.4, 7.5, 7.6 and 7.8 that is segregation, transfer to third parties, record keeping and internal reconciliation, and protection (by notice to banks) of client money bank accounts.
+those purposes were not ends in themselves (as in a trust for charitable purposes).
+they were purposes directed to the protection and management of clients money in the beneficial ownership of clients who were identified beneficiaries of the trust, being (as 7.7.2r(2) puts it) those for whom that money is held, according to their respective interests in it.
+the biggest objection to the claims theory of interpreting 7.9.6r is that it involves, on the assumed facts of this case, a cataclysmic shift of beneficial interest on the ppe, to the detriment of those clients who must have supposed that their funds were safely segregated in accordance with cass 7.1 to 7.8.
+that shift (or bifurcation, to use a term which counsel used a great deal in argument) is in striking contrast to the persuasive symmetry that briggs j (para 195 of his judgment, para 67 above) found in the contributions method.
+it is a far more extraordinary bouleversement than the relatively trivial bifurcation involved in segregation of clients money being deferred, under the alternative approach, until the next business day after its receipt.
+in his written case (para 34) mr zacaroli suggested that it would amount to the segregated clients funds being used as a strange form of compensation fund for disappointed clients whose funds had not been segregated.
+the court of appeal was aware of this difficulty.
+arden lj recognised (para 134) that the court should not of course interfere with property rights but dismissed the difficulty on the ground that dealings between the firm and its clients take place on the basis of cass 7, and thus pooling is implicit in their dealings, followed by a reference to 7.9.3g.
+it is true that money in a general client account is pooled, and is at a risk that it will be shared rateably between the beneficial owners in the event of a spe (such as the failure of a bank holding clients money) occurring without a ppe.
+but the notion that clients must be taken to have implicitly accepted the risk of discovering, on a ppe, that their carefully segregated funds must be shared with non segregated clients (including lehman brothers affiliates) seems, with respect, quite unrealistic.
+an associated point on the judgments in the court of appeal is the notion that all the clients of lbie were victims of a common misfortune or disaster.
+arden lj referred to this (para 125 and, for what she called the happenstance point, para 131).
+arden lj did not accept mr zacarolis submission that the correct analysis was not the common misfortune of the firms failure, but the separate misfortune (suffered by some clients but not by others) of lbies assumed failure, on a massive scale, to comply with its obligations under cass 7.4.
+both arden lj (para 131) and lord neuberger (para 218) seem to have accepted the submission of mr mabb qc (appearing for the fsa, the statutory regulator whose share of responsibility for the misfortunes of some or all of lbies clients is not an issue in these proceedings) that the non segregation was happenstance and that equal treatment seems fairer than randomness.
+with great respect to the court of appeal, i regard that approach as inappropriate.
+the court has to give directions to the administrators on the basis of the assumed facts set out in the saf.
+those assumed facts are stated for the most part at a high level of generality, and with an almost clinical detachment from what the judge referred to as lbies shocking underperformance.
+we simply do not know how it came about that so much clients money was paid into house accounts when it should have been segregated.
+in particular, apart from the terse statements in saf 2.52 (para 58 above) we do not know the circumstances in which lbie came to overlook, or decide not to apply 7.1.12g (affiliated companies) in dealing with lehman brothers affiliates (saf 2.52(1) and (2)); or the circumstances in which terms were negotiated with clients leaving room for argument as to whether client money protection was wholly or partly excluded (saf 2.52(3)).
+there is no basis, in my respectful opinion, for deciding that one scheme of distribution would be fairer than another.
+our task is to construe cass 7, and then apply it to the assumed facts.
+in construing cass 7 we have to look at its essential scheme and structure.
+beyond that a purposive approach gives little assistance, since it is plain (as already noted) that neither the directives nor cass 7 contemplate non compliance with regulatory requirements (in the judges words) on a truly spectacular scale.
+both lord neuberger and arden lj gave some weight to the statutory trust being a single trust, without much explanation of what that meant or why they saw it as significant.
+the trust is declared in simple terms as affecting client money, but the detailed guidance, especially that in 7.9.3g, shows that some client money will be pooled in general client bank accounts, while other client money will be held separately in designated client bank accounts.
+some but not all clients will be entitled to interest on their client money (7.2.14r).
+a bank holding client money may fail (as bankhaus did) and on a spe any loss will fall rateably only on those clients whose money was deposited with that bank not on all clients.
+so the single trust argument does not provide much support for the claims theory.
+the majority judgments in this court
+lord dyson disagrees with the views set out in para 81 above.
+in his view (para 159) a purposive interpretation clearly supports the claims basis for participation.
+that is because the directives overriding purpose is to safeguard the assets of all clients and to provide all clients with a high degree of protection (his emphasis).
+this purpose is to be achieved, in his view, by a solution which means that no client of lbie is provided with a high degree of protection, even those whose funds were (at all times down to the ppe) meticulously segregated and accounted for in accordance with cass 7.
+with the greatest possible respect, i simply cannot follow this argument.
+i consider the majority view also gives insufficient weight to the fact that, although cass 7 provides a detailed code, that code is erected on the foundation of the general law of trusts.
+lord collins refers (para 186) to professor gowers review of investor protection (1984), noting that under english law segregation of funds provides a client with insufficient protection unless it is backed by the clients continuing beneficial ownership.
+so (as already noted) cass 7 was not gold plating the directives.
+but it is equally clear that a trust without segregation is a very precarious form of protection because of the risk or rather, in this context, the strong probability that the element of trust property in unsegregated funds will rapidly become untraceable.
+immediately before the ppe, many of the non segregated clients probably the great majority of them had no identifiable trust property held in trust for them.
+the funds of the segregated clients, by contrast, belonged in equity, immediately before the ppe, to the respective clients for whom they had been segregated.
+lord dyson (para 144) and the others in the majority evidently regard it as realistic to suppose that those segregated clients accepted the risk of having the bulk of their beneficial interests divested in order to compensate other non segregated clients who, immediately before the ppe, had no beneficial interest in any identifiable trust property (and of whom, and of whose affairs, the segregated clients knew nothing).
+the majoritys decision makes investment banking more of a lottery than even its fiercest critics have supposed.
+internal client money reconciliation (the annex)
+any trustee which holds large sums of money in trust for clients must have in place appropriate procedures, keep accurate records, and regularly reconcile its balances.
+for a financial services firm like lbie, which offered a wide variety of services to a large number of clients, these obligations were of particular importance, and cass 7.6, together with the annex, laid down detailed and fairly complicated rules.
+these were needed because clients did not leave their money inactive.
+they deployed it in trading activities in which their positions might change from day to day.
+so the daily internal reconciliation had to cover clients money held in client transaction accounts (saf 2.12 and 2.42 to 2.49) or committed to futures or other margin transactions (saf 2.28 to 2.39).
+these complications are reflected in the annex.
+i gratefully adopt the judges summary (paras 256 to 258): 256the standard method of client money reconciliation is set out in [the annex].
+it requires a firm on each business day to identify its client money requirement (as defined by paragraph 6) and to ensure that its client money resource is at least equal to the client money requirement. 257.
+the firms client money requirement is (in the first of two alternative formulations in paragraph 6) the aggregate of all individual client balances, excluding negative client balances and client equity balances, together with the total margined transaction requirement, which is (as appears from paragraph 14) the aggregate of all positive client equity balances, subject to certain deductions which do not matter for present purposes. 258.
+paragraphs 12, 18 and 19 of [the annex] give the firm certain discretions as to how to carry out these calculations.
+paragraph 12 gives the firm a discretion to deduct fees and other expenses due and payable by the client to the firm.
+paragraph 18 (further explained by paragraph 19) gives the firm a discretion to make an offset between a positive individual client balance and a negative client equity balance, or vice versa, so as to reduce either the individual client balance or the client equity balance.
+client equity balance is defined in the glossary as the amount which a firm would be liable (ignoring any non cash collateral held) to pay to a client (or the client to the firm) in respect of his margined transactions if each of his open positions was liquidated at the closing or settlement prices published by the relevant exchange or other appropriate pricing source and his account closed.
+that explains why the balance can be either positive or negative.
+briggs j went on (paras 258 to 261) to a detailed consideration of 7.9.7 r, under which it is mandatory, after a ppe, to make the paragraph 18 offset which has until then been discretionary.
+that point is best considered as part of the discussion of 7.9.6r and 7.9.7r, which follows.
+the third issue: the effect of primary pooling
+mr miles arranged his written and oral submissions so as to deal with the third issue (how is the cmp to be distributed?) before the second issue (what is to go into the cmp?).
+there are advantages in that approach.
+the second issue, if understood (as it must be) in a way that does not pre empt the third issue, becomes a relatively narrow issue limited to any money which was held in house accounts at the ppe and was identifiable, under the general law of trusts, as clients money.
+mr zacaroli submitted that if he lost on the second issue he could still win on the third, and (he might have added) the third issue is almost certainly of much greater importance in financial terms, both to his client and to the other claimants.
+i shall therefore adopt mr miless approach and consider the third issue before the second issue.
+ppe: it is worth repeating the crucial provisions which come into operation on a 7.9.6r if a primary pooling event occurs: (1) client money held in each client money account of the firm is treated as pooled; and (2) the firm must distribute that client money in accordance with cass 7.7.2r, so that each client receives a sum which is rateable to the client money entitlement calculated in accordance with cass 7.9.7r. 7.9.7r (1) when, in respect of a client, there is a positive individual client balance and a negative client equity balance, the credit must be offset against the debit reducing the individual client balance for that client. (2) when, in respect of a client, there is a negative individual client balance and a positive client equity balance, the credit must be offset against the debit reducing client equity balance for that client.
+at the beginning of his discussion of the second issue briggs j observed (para 166): the (perhaps old fashioned) principle of construction that words are there for a purpose suggests that the phraseology used was designed to achieve at least the following two purposes.
+the first is that it was not the intention of the draftsman to capture all client money held by the firm, but only client money held in each client money account of the firm.
+secondly, it was not the intention to capture all money held in each client money account of the firm, but only client money held in such accounts.
+i agree that that is the right starting point, not only for the second issue, but also (as they are so closely connected) for the third issue.
+the expression client money account is not defined in the glossary, but it naturally refers to (i) every client bank account (which is a defined term and covers every general client bank account, every designated client bank account and every designated client fund account of the firm, those being the different forms of account mentioned in 7.9.3g) and (ii) every client transaction account (which is a defined term and is explained in 7.4.16g).
+these are the accounts affected by the internal reconciliation obligation, as appears from the unnumbered preamble to the annex.
+arden lj considered (para 136) that the expression client money account must have been deliberately chosen as being wider than client bank accounts and client transaction accounts but i do not understand her reasoning and i respectfully differ from her conclusion.
+lord neuberger considered the textual arguments to be much more evenly balanced (paras 205 to 215) and he seems ultimately to have decided the point by a general appeal to fairness, with which i have already expressed my respectful disagreement.
+for these reasons i approach the third issue on the provisional basis, at least, that the cmp the distributable pool consists of the aggregate of the segregated funds holding clients money immediately before the ppe.
+those funds are assumed to have been subject to internal reconciliation on every business day, following the detailed procedure in the annex, so that the client money resource is at least equal to the client money requirement (annex, paras 2 and 6).
+that pool is to be distributed in accordance with cass 7.7.2r, so that each client receives a sum which is rateable to the client money entitlement calculated in accordance with cass 7.9.7r.
+as the judge observed (para 251), had this provision stopped at the comma after 7.7.2r there would have been no doubt but that the clients entitled to participate in the distribution were those identified in the last reconciliation.
+they were under 7.7.2 r (2) the clients . for whom that money is held and it was to be distributed according to their respective interests in it.
+in the course of his excellent submission mr miles urged that each client in 7.9.6r must be taken as meaning what it says.
+but the words must be read in context.
+when read in context, they mean each client for whom client money is held.
+in in re global trader europe ltd [2009] ewhc 602 (ch) [2009] 2 bclc 18, para 99, sir andrew park reached the same conclusion as briggs j on this point.
+the second part of 7.9.6r(2) begins with the words so that.
+those words are apt to introduce the natural consequences of what has gone before, rather than to herald an abrupt change.
+the reference to a rateable distribution of the cmp indicates the possibility of a shortfall, and in practice a shortfall is almost inevitable on the failure of the firm, since in that event the costs of distributing the cmp are to be a first charge on it under 7.7.2r(4).
+there are also some more technical reasons which may produce a shortfall in the cmp, though any such shortfall would probably be relatively small.
+these are identified in paras 262 to 269 of the judges judgment.
+i agree with the judges analysis and i need not repeat it.
+the final words of 7.9.6r(2) are calculated in accordance with cass 7.9.7r.
+the judge said of this (paras 254 to 256, whose language i gratefully adopt as i cannot improve on it): 254.it is this concluding phrase, and its incorporation of cass 7.9.7r, that lies at the heart of the argument of the protagonists for a claims basis of sharing in the cmp.
+put another way, the case for rejecting a contribution basis rests wholly on an understanding of cass 7.9.7r, to which i now turn. 255.
+the first thing to notice about cass 7.9.7r is that it does not purport to constitute a comprehensive formula for the calculation of a client money entitlement.
+it merely provides for the offset of two particular types of accounting debit against two particular types of accounting credit.
+by subparagraph (1) a positive individual client balance is to be reduced by offsetting a negative equity balance.
+by subparagraph (2) a positive client equity balance is to be reduced by any negative individual client balance.
+it says nothing about the situation where a client has positive balances, or negative balances, of both types.
+it is, as mr zacaroli described it, a reducing mechanism.
+its effect is, in the stated circumstances, to reduce what otherwise might have been identified as a clients client money entitlement, which is to serve as the basis for his rateable participation in the cmp. 256.
+in the case of a reasonably compliant firm, it may be assumed that the basis upon which the firm had segregated client money for each of its clients prior to the ppe would be disclosed from the last internal client money reconciliation account, upon the basis of which (for example) a firm using the alternative approach would have adjusted the amount of the segregated accounts as at the pls.
+the judge then continued with the passage that i have already quoted at para 90 above, and went on to comment that the option conferred by paragraph 18 of the annex permits, but does not require, a firm to carry out precisely the same offsetting process as is made mandatory after a ppe by cass 7.9.7r (para 258).
+he regarded the purpose of 7.9.7r as obscure (para 232).
+arden lj noted (para 152) that it has a limited operation, but did not go further into its purpose.
+nor did lord neuberger (paras 189 and, in a quotation from the judge, 228).
+i agree with briggs j that it is very hard to see why one point of detail in the annex has been singled out, as it were, for particular mention in 7.9.7r.
+but i am in full agreement with his conclusion (para 261) that this obscure provision does not necessitate a construction, contrary to all other indications, that the cmp is to be distributed on the basis of the claims theory rather than the contributions theory.
+for these reasons, which are the same as those of the judge, i would allow glgs appeal on the third issue.
+the second issue: final reconciliation as at the ppe
+if the first and third issues are resolved in the way set out above, the second issue is seen to be within a relatively narrow compass.
+it becomes focused on movements in the client money requirement as between the pls (close of business on thursday, 11 september 2008, the critical time for the data on which an internal reconciliation took place on friday, 12 september) and the ppe (7.56am on monday, 15 september).
+i shall refer to this period as the gap period.
+this court has to decide the issue as a matter of principle, proceeding on the basis of assumed facts.
+but it may be worth pulling together the few passages in the saf which touch on this point.
+saf para 2.26 (quoted in paras 56 and 57 above) mentions the possibility that client money received into non core client money accounts or house accounts would have been passed up to lbhi as part of the liquidity management process.
+saf 2.50.1 states that a total sum of over $45m of client money was paid to clients from house accounts during the gap period.
+at first instance mr zacaroli accepted that a client who was repaid client money during the gap period could not expect to be repaid twice (para 268 of briggs js judgment).
+saf 2.50 does not state in terms how much client money was received during the gap period.
+but saf para 2.20.3 states that 24 house accounts regularly used for client transactions had at the pls credit balances totalling about $162m, and that at the ppe 26 accounts had credit balances totalling about $297m.
+the third supplement to the saf, para 1, adds to this that the 24 accounts mentioned in saf 2.20.3 were not swept to zero on 12 september 2008 (that point does not seem to have been picked up by briggs j at para 110 of his judgment).
+para 2 of the third supplement adds that on the current state of the administrators knowledge much of the money in these accounts was probably not clients money.
+it is not necessary, or indeed possible, to try to go much further into the incompletely stated (and in any event assumed) facts about movement of funds in the gap period.
+but the mere fact that there was no sweep under the liquidity management process on 12 september 2008 makes it possible that significant sums of client money are traceable, under the general law of trusts, as still held in lbies house accounts at the ppe.
+in practice the second issue resolves itself into a contest between two theories. (1) one theory (the final reconciliation theory) is that as soon as possible after the ppe lbie, although then under the control of the administrators, should have carried out a final reconciliation in accordance with the provisions of the annex. (2) the other theory (the general trust law theory) is that it was not the administrators duty to carry out a final reconciliation, but that a similar result would be produced by clients whose money was stranded in a house account during the gap period claiming it, not under cass 7, but under the general law of trusts.
+in reply to a question from lord clarke mr miles said (day 3, page 93) that exactly the same result was produced by either route.
+i do not think that is quite right (though i may have misunderstood mr miles).
+under the final reconciliation theory there would be a small alteration in the constitution of the cmp and any clients making last minute contributions to the cmp would share rateably, and suffer rateably any inadequacy in the pool (whether from the failure of bankhaus, or from the costs of distribution under 7.7.2r(4), or from any other cause).
+under the general trust law theory they would claim the whole of their respective contributions, so far as sufficient client money could be traced and identified, and there might be some deduction for administrative costs under the principle in in re berkeley applegate (investment consultants) ltd [1989] ch 32.
+so the outcome would not be exactly the same, but it might well be similar.
+under the general trust law theory an unsegregated last minute provider of client money would be left to his claim as an unsecured creditor only if and so far as his money was not traceable and identifiable in credit balances in house accounts.
+the guidance in 7.9.8g (set out in para 43 above) is therefore (to put it no higher) incomplete.
+briggs j recorded (para 127) that before him leading counsel then appearing for the fsa roundly declared that it was wrong, and that the fsa intended to change it as soon as practicable.
+in his judgment briggs j considered the final reconciliation theory (though not under that name) as part of an important passage (paras 199 to 226), much of which was concerned with whether lbie was under a duty to top up the cmp out of its own funds.
+he held that that would be contrary to basic principles of insolvency law, and there is no appeal on that point.
+he then more briefly rejected the suggestion that there was an obligation to top up the cmp with any identifiable client money in house accounts, concluding (para 224): in my judgment the lacuna is sufficiently filled by the general law, which permits those clients whose money is identifiable within house accounts, and not therefore part of the cmp, to pursue proprietary claims for its recovery, if they can surmount the evidential obstacles imposed by the need to trace.
+it is interesting to note (para 225) that at that stage mr zacaroli, if correctly reported, seems to have been supporting the final reconciliation theory, or something like it.
+in the court of appeal arden lj expressed a clear preference for the final reconciliation theory (paras 140 to 142).
+i have already noted that lord neuberger did not cover this point, and the order of the court of appeal leaves it in doubt whether sir mark wallers general agreement with arden lj should be taken as covering this particular point.
+before this court mr miles and mr crow have supported the final reconciliation theory with some detailed written submissions (paras 179 to 183 and 49 to 52 of their respective written cases) as well as in oral argument.
+they have pointed out that it avoids a bifurcated scheme and achieves a symmetrical result.
+mr zacaroli dealt with this point quite briefly in his written case (para 213) and in his oral submissions.
+on this issue i accept the submissions of mr miles and mr crow.
+there was no real challenge to mr miles argument that there is nothing in cass 7, or in the general law of insolvency applicable to administrators, to prevent a final internal reconciliation being carried out on the data as they were at the ppe, limited to taking account of events during the gap period (and not reopening previous reconciliations down to and including the pls).
+that interpretation avoids bifurcation, achieves symmetry, and assimilates the effect of the alternative approach with that which would have occurred under the normal approach.
+i would therefore dismiss glgs appeal on the second issue so far as it relates to movements in clients entitlements during the gap period.
+but i would allow the appeal to the extent of limiting the wide language of the direction or declaration in para 5 of the court of appeals order.
+whatever the outcome of this appeal, the terms of the order are going to need careful consideration and drafting in order to give the administrators the clearest possible guidance.
+as a postscript, i have not overlooked the parties submissions on two points: legislative history and the need for a timely, workable solution.
+as to the first, counsel have been very helpful in exploring how this area of regulatory law has evolved, but i do not think it gives the court any significant assistance in the task of construing cass 7.
+as to the need for the administrators to have a workable scheme which provides for a timely distribution, that is an aspiration which has already, sadly, perished.
+a straightforward, timely distribution is impossible because of lbies massive non compliance with cass 7.
+because of it, there is in one sense no commercially sensible solution to the problem, and that is the bleak situation in which the court has to give guidance to the administrators.
+but i have little doubt that the decision of the majority will lead to much more delay, uncertainty and expense than if the judges directions had been restored.
+lord clarke
+i had initially intended simply to add my agreement with the judgment and reasons of lord dyson.
+that intention was formed on the basis that it is rarely helpful to publish a concurring judgment which does no more than repeat the conclusions and reasoning of the principal writer.
+however, in the light of the sharp division of opinion between the members of the court, i offer this short contribution.
+i remain of the view that this appeal should be dismissed for the reasons given by lord dyson.
+i also agree with the reasoning in the short judgment written by lord collins.
+in particular, i agree with them that the questions raised by the issues in this appeal depend, not upon the ordinary law of trusts, but on the true construction of the relevant provisions of cass 7.
+lord dyson has described with clarity the factual background against which cass 7 must be construed.
+the most important features of that background are mifid and the implementing directive, the purposes of which include providing a high level of protection for all clients who provide moneys for investment on their behalf.
+as i see it, one of the principal purposes of cass 7 is to provide protection as between clients on the one hand and the firm on the other.
+clients as a whole have a higher level of protection if all clients who have provided money and who have a claim against the company are entitled to claim against the pool than if such claims are limited to those with a proprietary right.
+i do not see anything odd or inappropriate in such a conclusion.
+on the contrary, it seems to me to be consistent with the principles underlying mifid and the implementing directive.
+all the judges who have considered the issues have concluded that a trust arises on receipt of client moneys by the firm.
+thus cass 7.7.2(1)r provides that a firm receives and holds money for the purposes of the client money rules and the distribution rules.
+by cass 7.2.1 client money means any money that a firm receives or holds for or on behalf of a client.
+it follows that the fiduciary duties imposed by cass are owed by the firm before there is segregation of client moneys and whether or not there has been segregation.
+by cass 7.2.15, which is under the heading discharge of fiduciary duty, money ceases to be client money in certain specific circumstances, notably when it is paid away on the instructions of the client.
+until then, the money remains client money and, importantly, the firm retains fiduciary duties in relation to it.
+i agree with lord collins approach to the first issue.
+in particular i agree with lord collins conclusion at para 192 that, if the trust does not arise until segregation, then whether or not clients are protected by cass 7 would become arbitrary and dependent upon the firms own practices; and the greater the level of incompetence or misconduct on the part of the firm, the less the protection for the clients.
+this consideration seems to me to support the conclusion that cass 7 is intended to protect all clients who provided money and have contractual claims.
+similar considerations support lord dysons conclusions on the second issue at paras 161 to 167, namely that money received by the firm before a ppe is to be treated as pooled, whether it is received before or after the pls.
+in particular i agree with his conclusions at paras 164 to 167.
+by cass 7.9.6r(1), if a ppe occurs, client money held in each client money account of the firm is treated as pooled.
+i agree with lord dyson at para 164 (and lord neuberger of abbotsbury mr [2011] bus lr 277, paras 207 and 208), that the expression client money account of the firm should be given the wider meaning, namely that it extends to any account of the firm into which client money has been paid and that it is not restricted to segregated client money accounts.
+i agree with lord dyson at para 165 that to exclude identifiable money in house accounts from the distribution regime runs counter to the policy underlying cass, which is to provide a high degree of protection to all clients in respect of money in each money account of the firm (lord dysons emphasis).
+as i read cass, it is only cass 7.9.6r(1) which governs what money is treated as pooled.
+thus it is only client money held in a client money account.
+if the narrower meaning is given to that expression, only money held in a segregated account is included.
+all other client money, whether received in the gap period between the pls and the ppe, or before the pls and not segregated (although it ought to have been), will not be treated as pooled because it would not be covered by cass 7.9.6r(1) and there is no other provision of cass under which it would be so treated.
+yet it is accepted by lord walker and lord hope that it would be unsatisfactory to exclude money which could not have been segregated because it was received by the firm after the pls because of the inevitable time gap between segregations.
+they therefore accept that unsegregated moneys received by the firm between the pls and the ppe should be treated as pooled and that a reconciliation should take place as at the ppe.
+they prefer that approach (the final reconciliation theory), to the general trust theory, under which clients whose money is stranded in a house account during the gap period would have to rely upon the general law of trusts.
+i agree with them that it would be unsatisfactory to exclude money which was received after the pls.
+however, as i see it, the difficulty with the final reconciliation theory, if it is limited to money received in the gap period between the pls and the ppe, is that it has no support in cass.
+i agree with arden lj [2011] bus lr 277, para 142 and lord walker that there must be a final reconciliation as at the ppe.
+i can however see no reason why it should be limited to money received after the pls and in this respect i agree with arden lj at para 142.
+it seems to me that it must be the duty of the administrators to conduct the reconciliation exercise fully and effectively.
+thus, in principle, it must be their duty to conduct the reconciliation in accordance with cass 7.
+i see no warrant for their being entitled to assume that the segregation as at the last pls had been carried out correctly.
+indeed, in a case where the failure of the firm has caused the ppe, it is not unlikely that the firm will not have done so.
+there are many possible ways in which the firm may have carried out the last segregation otherwise than in accordance with cass.
+for example, there may have been no segregation for several days (or more) before the ppe.
+or the firm may have segregated only the funds of one client (or some clients) and not others, or it may have segregated only some of a particular clients (or particular clients) money.
+a number of questions arise.
+for example, what would be the position if the firm had conducted no segregations at all for some days preceding the ppe? would the administrators final reconciliation cover: (a) all identifiable moneys deposited between the date of the last actual segregation and the ppe; or (b) all identifiable moneys deposited between the date when the last segregation ought to have taken place and the ppe?
+neither option seems satisfactory.
+option (a) draws a sharp dividing line at the time of the last actual segregation, no matter how limited (would a single act of segregation suffice?) or ineffectual (would segregation of 1 suffice?) it may have been.
+however option (b) draws an arbitrary distinction between clients who deposited moneys during the last business day before the ppe and all other clients.
+if lbie wholly failed to comply with their segregation obligation for several days in a row, why afford preferential treatment to clients who deposited funds on the last day before the ppe? all these clients funds would be unsegregated and, as i see it, they should be treated in the same way.
+either they should all be treated as having money in the pool or none of them should be so treated.
+as i understand it, lord walker and lord hope accept that unsegregated client money received by the firm between the pls and a ppe must be treated as pooled under cass 7.9.6r(1).
+in my opinion, that is only permissible on the basis that client money in a firm account is held in a client money account of the firm.
+it seems to me that, if that is so, there is no reason not to hold that client money held in a firm account before the pls is also in a client money account of the firm.
+in these circumstances, in agreement with lord dyson at paras 165 and 167 and with the court of appeal (per arden lj at paras 124 to 142 and lord neuberger at paras 204 to 224), i would hold that the primary pooling arrangements apply to client money in firm accounts whenever it was paid in and that issue 2 should be answered on that basis.
+that conclusion seems to me to be entirely consistent with the conclusion (reached by everyone) that a trust comes into existence on receipt of client money by the firm.
+the answer to issue 2 seems to me to point the way to the answer to issue 3.
+although i can see that, if issue 3 is taken first, it can be said with some force that the reverse is the case, it does seem to me that, logically, it is sensible to take issue 2 first, as the court of appeal did.
+it makes more sense to identify the cmp before deciding who should share in it rather than the other way round.
+i agree with lord neuberger at para 226 that, as he put it, it could be dangerous to look at the general law of trusts because cass 7 is intended to be a code.
+the distribution model underlying the cass 7 trust differs markedly from that of private trust law.
+the focus of issue 3 is cass 7.9.6r(2), which provides that, if a ppe occurs: (2) the firm must distribute that client money in accordance with cass 7.7.2r, so that each client receives a sum which is rateable to the client money entitlement calculated in accordance with cass 7.9.7r.
+it appears to me that, if that paragraph is read as a whole, as to my mind it should be, the words after the comma are of considerable importance because they tell the firm that it must distribute client money so that each client receives a sum which is rateable to the client money entitlement in accordance with cass 7.9.7r.
+in short, the distribution must be in accordance with cass 7.9.7.
+reference to that provision seems to me strongly to support the claims basis.
+i agree with lord neubergers conclusion at para 227 that, once one accepts that client money includes such money when paid into a mixed money house account, then the concept of "client money entitlement" carries with it the notion of all money, which (in my opinion correctly) he says is a point reinforced by cass 7.9.1r.
+as lord dyson notes at para 152, the judge (at para 243) described the respondents case on the construction of cass as involving a formidable textual argument.
+with apologies for repetition, but because of what i regard as its significance in this appeal, i set out the argument again here.
+in para 242, after referring to cass 7.9.6r(2) and underlining calculated in accordance with cass 7.9.7r, the judge said: ii) cass 7.9.7r requires, on a client by client basis, a netting process to be carried out between each client's individual client balance and that client's client equity balance. iii) cass 7.9.9r(2) makes it clear (albeit for a different purpose) that the client money entitlement for each client will be calculated in accordance with cass 7.9.7r as at the time of the ppe. iv) the phrase client equity balance is defined in the glossary by reference to the amount which a firm would be liable to pay to a client in respect of that clients margined transactions if each of his open positions was liquidated at the prices published by the relevant exchange and his account closed.
+it is a form of entitlement having nothing to do with the amount contributed by the client to the firm's segregated accounts. v) the phrase individual client balance is not a term defined in the glossary, but it is fully explained in paragraph 7 of annex 1, again in terms which are based upon the contractual position between the client and the firm, rather than the amount actually contributed by the client to the firm's segregated accounts. vi) thus it necessarily follows that the phrase client money entitlement, where used both in cass 7.9.6r(2) and 7.9.9r(2) is a reference to the clients contractual entitlement to have money segregated for it, rather than to the client's proprietary interest in the cmp, derived from having had its money actually segregated, ie paid into the segregated accounts from which the cmp is constituted.
+lord dyson has considered and rejected the reasons given by the judge for not accepting the textual argument.
+i agree with lord dysons conclusions at paras 152 to 160.
+in particular, i agree with him that there is no legitimate basis upon which cass 7.9.6r(2) can be construed by disregarding the words after the comma.
+on the contrary, as indicated above, they point the way.
+moreover, they are mandatory and clear.
+i agree with lord dyson that there is no good reason for construing the expression each client in cass 7.9.6(2) as being limited to each client for whom money is held.
+as i see it, each client means what it says and thus includes each client who deposited money and has a claim.
+further, i see nothing ambiguous in the reference in cass 7.9.6(2) to cass 7.9.7r.
+it simply provides that the client money entitlement must be calculated in accordance with cass 7.9.7r.
+there are a number of difficulties with the contributions approach.
+for example, the consequence of treating the pls as the critical moment is that parties whose moneys were deposited in house accounts after the pls would certainly have their funds effectively segregated by the administrators (provided that those moneys are still identifiable).
+those parties would therefore be able to participate in the cmp.
+by contrast, clients whose moneys were deposited before the pls would only be able to participate in the cmp if the firm actually complied with their obligation to segregate those funds.
+given the firms widespread failure to comply with this obligation, many of those clients would not be able to participate in the cmp.
+the net effect would be that parties who deposited funds in house accounts after the pls would be likely to be in a better position than parties who deposited funds in house accounts before the pls.
+this seems to me to be a strange result.
+if, as i believe to be the case, cass 7.9.7r applies to any distribution, there can in my opinion be no real doubt that the claims basis must be correct.
+if the basis of the right to claim were a contributions basis, a clients entitlement to participate in the cmp would depend on whether or not it had made a contribution to the cmp.
+yet the distribution rules, namely cass 7.9.6r and 7.9.7r, make it clear that the quantum of a participants share depends not upon the size of their contribution to the pool but upon the size of their contractual entitlement vis vis the firm.
+in this regard i agree with the conclusions of arden lj at paras 154 to 164.
+in particular i agree with her concerns expressed in paras 156 and 157 that, on the contributions basis, significant problems arise which cannot be dismissed as a glitch in the way in which they were by the judge at para 265.
+in short i agree with lord dyson, lord neuberger, arden lj (and indeed sir mark waller) that the natural construction of the cass rules is that client moneys as at the ppe are to be distributed on a claims and not a contributions basis.
+i also agree with them that such a construction gives better effect to the underlying purpose of the cass code, namely the protection of all those who deposited money with the firm.
+lord dyson
+i am grateful to lord walker for setting out the facts and the relevant documentation so clearly and so comprehensively.
+this appeal raises three issues concerning the true construction of cass 7.
+these are (i) when does the statutory trust created by 7.7.2(r) arise; (ii) do the primary pooling arrangements apply to client money held in house accounts; and (iii) is participation in the notional client money pool (cmp) dependent on actual segregation of client money? i agree with the conclusions of briggs j, the court of appeal and lord walker, lord hope and lord collins on the first issue.
+i cannot improve on their reasons for holding that the statutory trust created by 7.7.2(r) arises at the time of the firms receipt of the client money.
+but i have reached a different conclusion from that of briggs j, lord walker and lord hope on the second and third issues.
+before i turn (to the extent that it is necessary to do so) to the points of detail that have been debated so meticulously, i wish to make two preliminary points.
+two preliminary points
+the first point is that cass 7 provides a detailed code for the safeguarding of client money by firms regulated by the financial services authority.
+on the assumed facts, there was shocking underperformance by lbie.
+as the judge put it, there was non compliance with the regulatory requirements on a truly spectacular scale (para 4).
+furthermore, the most significant group of clients whose money lbie failed to segregate was its own affiliates, who have advanced money claims against lbie in excess of $us 3 billion.
+but it is important not to allow these exceptionally striking facts to influence the outcome of this appeal.
+the issues of construction that are raised are of general application.
+their resolution cannot depend on the size of the firm or the scale of its non compliance or the identity of the particular client in question.
+indeed, 7.1.12g states that a firm that holds money on behalf of, or receives money from, an affiliated company in respect of mifid business must treat the affiliated company as any other client of the firm for the purposes of [chapter 7].
+the second point that i wish to emphasise at the outset is that the client money which is subject to the statutory trust is any money that a firm receives from, or holds for, or on behalf of, a client in the course of, or in connection with, its mifid business unless otherwise specified in this section (7.2.1r).
+accordingly, unless otherwise specified in section 7.2, all client money is subject to the statutory trust.
+the directives
+it is not in issue that cass 7 was made for the purpose of fulfilling the eu requirements contained in the markets in financial instruments directive 2004/39/ec (mifid) and the commission directive 2006/73/ec (the implementing directive) and that cass 7 should therefore be interpreted, as far as possible, so as to give effect to these directives: see, for example, hm revenue and customs comrs v idt card services ireland ltd [2006] stc 1252.
+as arden lj explained at paras 59 to 62 of her judgment, this requires a two stage test to be applied.
+the first involves interpreting the directives.
+the second involves interpreting cass 7 in the light of the meaning of the directives.
+at para 57 of his judgment, briggs j correctly stated that domestic legislation which is made for the purposes of fulfilling the requirements of eu law contained in a directive must be interpreted in accordance with the following principles: (i) it is not constrained by conventional rules of construction; (ii) it does not require ambiguity in the legislative language; (iii) it is not an exercise in semantics or linguistics; (iv) it permits departure from the strict and literal application of the words which the legislature has elected to use; (v) it permits the implication of words necessary to comply with community law; and (vi) the precise form of the words to be implied does not matter.
+the purposes of mifid and the implementing directive include providing a high level of protection for clients and safeguarding their rights to funds in the event of the insolvency of the firm to which their funds have been entrusted.
+the recitals to mifid include recital (2) which states it is necessary to provide for the degree of harmonisation needed to offer investors a high level of protection (emphasis added); recital (17) which states that persons who provide the investment services and/or perform their investment activities covered by this directive should be subject to authorisation by the home member states in order to protect investors and the stability of the financial system; and recital (26) which provides: in order to protect an investors ownership and other similar rights in respect of securities and his rights in respect of funds entrusted to a firm, those rights should in particular be kept distinct from those of the firm.
+the aim of protecting investors is also expressed in recitals (31), (44), (61) and (71).
+article 13(7) of mifid requires an investment firm to make adequate arrangements in relation to financial instruments belonging to clients to safeguard clients ownership rights, especially in the event of the investment firms insolvency.
+article 13(8) requires an investment firm, when holding funds belonging to clients, to make adequate arrangements to safeguard the clients rights and prevent the use of client funds for its own account.
+the implementing directive contains detailed rules for giving effect to the objectives of mifid.
+its recital (2) states that rules for the implementation of the regime governing organisational requirements for investment firms should be consistent with the aim of [mifid].
+recital (5) states that the rules for the implementation of the regime governing operating conditions for the performance of investment services and activities should reflect the aim underlying that regime.
+that is to say they should be designed to ensure a high level of investor protection to be applied in a uniform manner through the introduction of clear standards and requirements governing the relationship between an investment firm and its client (emphasis added).
+article 16 of the implementing directive contains rules for safeguarding client assets and gives effect to article 13(7) and (8) of mifid.
+article 16(1) makes provision for record keeping and accounts (para (1)(a) and (b)); conduct of reconciliations (para (1)(c)); ensuring that client financial instruments and funds that are deposited are identified separately, ie are segregated (para (1)(d) and (e)); and organisational arrangements designed to minimise the risk of loss or diminution of client assets or of rights in connection with those assets, as a result of fraud, poor administration, inadequate record keeping or negligence (para (1)(f)).
+article 16(2) provides: if, for reasons of the applicable law, including in particular the law relating to property or insolvency, the arrangements made by investment firms in compliance with paragraph 1 to safeguard clients rights are not sufficient to satisfy the requirements of article 13(7) and (8) of [the mifid directive], member states shall prescribe the measures that investment firms must take in order to comply with those obligations.
+it follows that the effect of article 13(7) and (8) of mifid and article 16(2) of the implementing directive is that member states are under a duty to prescribe measures that firms should take to ensure that there are adequate arrangements under the domestic law relating to insolvency to safeguard the clients rights to funds belonging to them in order to achieve the investor protection purpose of mifid.
+when dealing with the first issue, briggs j acknowledged the importance of interpreting cass 7 by reference to the mifid directives (para 148).
+he said in relation to the first issue that an interpretation of 7.7.2r by reference to the directives was strongly supportive of the case that a trust of client money received by a firm arises upon receipt, rather than only upon segregation.
+he added: quite simply, that analysis better serves the mifid objectives of protecting clients rights in relation to their funds, both from use of those funds for the firms own purposes, and from the consequences of the firms insolvency.
+he added that the imposition of a statutory trust was the kind of additional requirement contemplated by article 16(2) of the implementing directive necessary to make the requirements set out in article 16(1) effective in the context of the domestic law of a particular member state.
+i entirely agree with this approach.
+when he came to deal with the third issue, he did not derive decisive assistance from an analysis of the purposes behind the mifid directives.
+he said (para 234): on the one hand it may be said that the general aspiration to provide a high level of investor protection is best served by conferring a right to share in the cmp upon all clients whose money should have been segregated, whether or not it was.
+on the other hand, the mifid directives are, as i have sought to explain, aimed at the establishment of obligations and organisational requirements which, if complied with, would protect clients funds both from misuse by the firm, and from loss occasioned by the firms insolvency.
+the contemplation of the directives was that this would be achieved by identification, reliable accounting and segregation, such that clients money actually dealt with in that way would be protected, but not otherwise.
+i shall examine the third issue later in this judgment.
+it seems that the judge considered that the underlying purpose of the directives was sufficiently met by the introduction into our domestic law of the organisational requirements specified in article 16(1) of the implementing directive.
+in other words, the requirement in article 13(7) and (8) of mifid to make adequate arrangements to safeguard the clients rights in relation to financial instruments and funds would be satisfied by meeting the specific requirements of article 16(1) of the implementing directive.
+but the requirements prescribed by article 16(1) are not to be equiparated with the requirements stated in article 13(7) and (8) of mifid.
+indeed, as the judge recognised when he addressed the first issue, article 16(2) contemplates that the arrangements made by investment firms in compliance with article 16(1) might not be sufficient to satisfy the requirements of article 13(7) and (8) of mifid.
+the important point, however, is that the judge rightly acknowledged the principle that it is necessary to construe cass 7 in a manner which promotes the purpose of providing a high level of protection for clients as required by the directives.
+the third issue
+the second and third issues are closely related.
+lord walker and lord hope prefer to start with the third issue.
+i am content to take the same course.
+the question raised by this issue is whether participation in the cmp is based on (i) the amount of client money which has actually been segregated at the date of the primary pooling event (ppe) (the so called contributions basis for participation) or (ii) the amount which ought to have been segregated at that date (the so called claims basis for participation).
+the resolution of this issue depends on the proper interpretation of 7.9.6r, 7.9.7r and 7.7.2r.
+the starting point is 7.7.2r which provides that a firm receives and holds client money (ie any money that it receives from or holds for, or on behalf of, a client) on the terms set out in 7.7.2r (1) to (5).
+the beneficiaries of the trust are identified at 7.7.2r (2) as being the clients. for whom [the client money] is held, according to their respective interests in it and the trust is for the purposes of and on the terms of the client money rules and the client money (mifid business) distribution rules (7.7.2r(1)).
+the client money rules are defined as the rules contained in 7.1 to 7.8.
+the client money (mifid business) distribution rules (the distribution rules) are defined as the rules contained in 7.9.
+i accept that until a ppe occurs, client money is held for the purposes of 7.3, 7.4, 7.5, 7.6 and 7.8 (ie safeguarding, segregation, transfer to third parties, record keeping and internal reconciliation and protection (by notice to banks) of client money bank accounts).
+as lord walker says (para 77), these purposes are directed to the protection and management of clients money in the beneficial ownership of clients who are identified beneficiaries of the trust, being those (as 7.7.2r(2) puts it) for whom that money is held, according to their respective interests in it.
+lord walker says (at para 78) that the biggest objection to the claims basis of interpreting 7.9.6r is that it involves on the assumed facts of this case a cataclysmic shift of beneficial interest on the ppe, to the detriment of those clients who must have supposed that their funds were safely segregated in accordance with cass 7.1 to 7.8.
+it would amount to the segregated clients funds being used as a strange form of compensation fund for disappointed clients whose funds had not been segregated.
+it is true that, on the assumed facts of this case, the claims basis can be said to involve a cataclysmic shift of beneficial ownership on the ppe.
+but that is because, on the assumed facts, there was a spectacular failure to comply with the cass 7 rules for a very long period.
+but i have already counselled against allowing the exceptional nature of the assumed facts to compel a particular conclusion to the issues of construction that arise in this case.
+more importantly, cass 7.7.2r provides that the trust is for the purposes and on the terms of the client money rules and the distribution rules.
+thus 7.7.2r itself points to the beneficiaries under the distribution rules as being all the clients for whom the firm has received and is holding client money.
+in other words, such interest under the trust as any clients have is expressly on the terms of the distribution rules, of which 7.9.6r is the principal operative provision.
+lord walker says that the notion that clients must be taken to have implicitly accepted the risk of discovering, on a ppe, that their carefully segregated funds must be shared with non segregated clients (including lbies own affiliates) seems quite unrealistic (para 79).
+i respectfully disagree.
+the general scheme of cass 7 is that all client money is subject to a trust that arises upon receipt of the money by the firm.
+this includes money received from the firms affiliated companies.
+i have already referred to the wide definition of client money in 7.2.1r (para 130 above).
+the client money rules are, therefore, intended to protect all the clients money received prior to a ppe.
+the distribution rules are intended to protect all the clients money in the event of a ppe.
+there is nothing surprising in the notion that, once a ppe occurs, the treatment of client money is subject to a different regime from that to which it was subject before.
+it is the exceptional nature of the assumed facts in this case which makes the consequences of a change of regime so striking.
+i accept that, in order to reach a conclusion on the third issue, it is necessary to examine the language of the relevant rules.
+but i start from the position that it is not inherently unlikely that the draftsman intended that clients with established proprietary interests in segregated funds should have those interests disturbed by the distribution rules in the event of a ppe.
+there is no a priori reason why the draftsman would not have intended to produce a scheme pursuant to which the protection afforded to clients is modified in the event of a ppe.
+there is nothing unrealistic in a scheme which provides that, in the event of the failure of a firm, the beneficial interests in the client money are adjusted so as to provide that each client receives a rateable proportion of the aggregate of all the client money; in other words that all clients share in the common misfortune of the failure.
+the draftsman had to decide what provision to make for the distribution of client money in the event of a ppe.
+he could have decided that pooling and distribution was to be limited to client money which had been segregated or that it should include all client money.
+that was a policy choice he had to make.
+which choice he made depends on the true construction of cass 7.
+in my view, it does not depend on a consideration of any general principles of trust law.
+i acknowledge that segregation is an important part of the cass 7 system.
+but it does not follow that the draftsman intended that upon a ppe only segregated client money would qualify for distribution under the distribution rules.
+as mr miles points out, on any view of the distribution rules, client money which has been segregated is treated as pooled on a ppe and must be distributed so that each client receives a rateable share of the cmp.
+the distribution model underlying the cass 7 trust therefore differs from that of private trust law.
+to this extent at least, the notion that a client has a fixed beneficial interest in the segregated moneys which cannot be disturbed on the failure of a firm is incorrect.
+the only question is how far that disturbance goes: is the rateable sharing with other segregated clients or with all clients?
+as i have said, the resolution of this question depends on the true construction of the relevant provisions of cass 7.
+but in approaching this question of construction, it is necessary to bear in mind that (i) all client money is subject to the statutory trust and, (ii) where there is a choice of possible interpretations, the court should adopt the one which affords a high degree of protection for all clients who have client money with the firm and to safeguard their interests, thereby furthering the purposes of the directives.
+it is not the purpose of the directives to provide a level of protection only for those clients who are recorded in the firms ledger as clients with client money entitlements when the firm calculated the net amount to segregate at the last reconciliation.
+lord walker is of the view that, in construing cass 7, we have to look at its essential scheme and structure.
+beyond that, he says, a purposive approach gives little assistance, since it is plain that neither the directives nor cass 7 contemplate non compliance with regulatory requirements (paras 48 and 81).
+but even if the premise that the directives did not contemplate non compliance with regulatory requirements is correct, it does not follow that rules introduced by member states to give effect to the directives should not be construed in the manner which best fulfils the overriding purpose of the directives to provide a high degree of protection to money entrusted by clients to investment firms.
+if there are two possible interpretations of cass 7, it seems to me to be axiomatic that the interpretation which more closely meets the purpose of the directives should be adopted.
+i do not see how this can be affected by whether the directives did or did not contemplate non compliance with the regulatory requirements.
+as i have already said, the judge did not derive decisive assistance from the directives because he considered that their purpose was met by the incorporation in cass 7 of requirements which satisfy the provisions of article 16(1) of the implementing directive.
+but article 16(2) makes it clear that member states are required to prescribe the measures that firms must take in order to comply with the obligations set out in article 13(7) and (8) of mifid, if compliance with article 16(1) does not suffice.
+i do not see why the existence in domestic law of rules which satisfy the requirements of article 16(1) makes it unnecessary to interpret the distribution rules contained in 7.9, so far as possible, as imposing obligations which satisfy the requirements of article 13(7) and (8) of mifid, thereby affording clients a high degree of protection.
+i now turn to examine some of the detailed points arising from the language of the relevant provisions of cass 7.
+so far as material, 7.9.6r provides: if a primary pooling event occurs: (1) (2) client money held in each client money account of the firm is treated as pooled; and the firm must distribute that client money in accordance with cass 7.7.2r, so that each client receives a sum which is rateable to the client money entitlement calculated in accordance with cass 7.9.7r.
+mr miles relies on the reference to a calculation in accordance with cass 7.9.7r as supporting the claims basis rather than the contributions basis for participation.
+the steps in the argument were carefully set out by the judge at para 242 of his judgment as follows: (i) cass 7.9.6r(2) requires the firm to distribute client money in accordance with cass 7.7.2r, so that each client receives a sum which is rateable to the client money entitlement calculated in accordance with cass 7.9.7r [his underlining]. (ii) cass 7.9.7r requires, on a client by client basis, a netting process to be carried out between each clients individual client balance and that clients client equity balance. (iii) cass7.9.9r(2) makes it clear (albeit for a different purpose) that the client money entitlement for each client will be calculated in accordance with cass 7.9.7r as at the time of the ppe. (iv) the phrase client equity balance is defined in the glossary by reference to the amount which a firm would be liable to pay to a client in respect of that clients margined transactions if each of his open positions was liquidated at the prices published by the relevant exchange and his account closed.
+it is a form of entitlement having nothing to do with the amount contributed by the client to the firms segregated accounts. (v) the phrase individual client balance is not a term defined in the glossary, but it is fully explained in paragraph 7 of annex 1, again in terms which are based upon the contractual position between the client and the firm, rather than the amount actually contributed by the client to the firms segregated accounts. (vi) thus it necessarily follows that the phrase client money entitlement, where used both in cass 7.9.6r(2) and 7.9.9r(2) is a reference to the clients contractual entitlement to have money segregated for it, rather than to the clients proprietary interest in the cmp, derived from having had its money actually segregated, ie paid into the segregated accounts from which the cmp is constituted. (vii) by way of a postscript, mr knowles submitted that, in any event, not all contributions to the segregated accounts were made in respect of particular clients.
+for example, he pointed to the prudential payments contemplated by cass 7.4.21r. segregation in relation to depot breaks is another example: see below.
+at para 243, the judge described this as a formidable textual argument.
+he rejected it for the following principal reasons.
+first, the phrase client money entitlement means different things in different places, so that its meaning in any particular paragraph must be informed by its context.
+secondly, (for the reasons that he gave at paras 255 to 262) the correct interpretation of 7.9.7r does not support the claims basis for participation in the cmp.
+he pointed out that 7.9.7r does not purport to constitute a comprehensive formula for the calculation of a client money entitlement.
+it merely provides for the offset of two particular types of accounting debit against two particular types of accounting credit.
+it is a reducing mechanism, whose effect is, in the stated circumstances, to reduce what otherwise might have been identified as a clients client money entitlement, which is to serve as the basis for his rateable participation in the cmp (para 255).
+he said that the existence of these offsetting provisions is not sufficient to indicate that it was intended to go behind the last internal reconciliation account to establish if necessary by enormous forensic endeavour and even litigation, the true contractual entitlements of the firms clients to have their money segregated, without limitation in historical time, so as to include un segregated and partially segregated clients as beneficiaries of the cmp, with obvious adverse consequences in terms of the timely and efficient distribution of the pooled client money to the clients entitled to it (para 261).
+both the judge (para 232) and lord walker (para 97) said that the purpose of 7.9.7r is obscure and, at least by inference, that the reference to it in 7.9.6r(2) cannot bear the weight that mr miles seeks to place on it.
+but i do not think that the reference in 7.9.6r (2) to the sum being calculated in accordance with cass 7.9.7r can be brushed aside so easily.
+cass 7.9.7r provides for a calculation which takes account of each clients individual client balance and client equity balance.
+the individual client balance calculation is dealt with in detail in para 7 of annex 1.
+the client equity balance is defined in the glossary as the amount which a firm would be liable (ignoring any non cash collateral held) to pay to a client (or the client to the firm) in respect of his margined transactions if each of his open positions was liquidated at the closing or settlement prices published by the relevant exchange or other appropriate pricing source and his account closed.
+as mr miles says, the calculation involves an assessment of the clients actual and objective entitlement in respect of client money.
+it has nothing to do with the amount which may or may not in fact have been segregated for the client, nor with the ledger entries which the firm may have made in respect of any particular segregation or reconciliation.
+the reducing mechanism interpretation favoured by the judge (and supported by mr zacaroli) treats the phrase client money entitlement in 7.9.6r(2) as envisaging (i) a calculation by reference to the historical amounts recorded in the ledgers, and (ii) (as a downward adjustment) a calculation by reference to 7.9.7r.
+but there is no support for this two fold scheme of calculation in the language.
+as mr miles points out, 7.9.6r(2) simply refers to the client money entitlement being calculated in accordance with 7.9.7r.
+like lord neuberger mr (para 230), i do not consider that there are sound reasons for rejecting the formidable textual argument.
+lord walker at para 94 (in agreement with the judge) says that, if 7.9.6r(2) had stopped at the comma after in accordance with cass 7.7.2r, there would have been no doubt that the right to receive a distribution from the cmp was limited to those clients for whom the firm had actually segregated client money or those identified as entitled to participate in the distribution in the last reconciliation.
+they were under 7.7.2r(2) the clients for whom that money is held and it was to be distributed according to their respective interests in it.
+lord walker says that each client in 7.9.6r does not mean what it says; in context, it means each client for whom client money is held.
+i see the force of this argument.
+but 7.9.6r(2) must be read as a whole, including the words which follow the comma after in accordance with cass 7.7.2r. so read, i think the better interpretation is that the right to share in a distribution is given to each client of the firm, so that all clients with a client money entitlement are entitled to share.
+that is what 7.9.6r(2) says.
+the reason for referring back to 7.7.2r is not to identify the client money that is to be distributed (that is done in 7.9.6r(1) and (2)).
+it is to introduce the order of priorities referred to in 7.7.2r.
+thus, for example, the incorporation of 7.7.2r(2) throws the costs properly attributable to the distribution of client money on to the client money (rather than on to the general assets of the firm).
+the costs of distribution will have to come from the trust before division to clients.
+one final textual point.
+i think that mr miles is right to say that some support for his case on the meaning of client money entitlement can be found in 7.9.9r(2).
+this creates an exception from the usual rule that all client money received by the firm after a ppe must be returned to the client.
+the exception is where it is client money relating to a client, for whom the client money entitlement, calculated in accordance with cass 7.9.7r, shows that money is due from the client to the firm at the time of the primary pooling event.
+this is a reference to a calculation being performed in the manner prescribed in annex 1 (albeit with mandatory off setting).
+the exercise is intended to establish whether, objectively and in fact, the client is a debtor of the firm, in which case the firm can keep the money.
+in the context of 7.9.9r(2), client money entitlement has nothing to do with the amounts actually segregated for a client by the firm.
+it is telling that 7.9.9r(2), like 7.9.6r(2), requires the client money entitlement to be calculated in accordance with 7.9.7r as at the date of the ppe.
+to summarise, for the reasons that i have given, the language of the relevant provisions of cass 7 tends to support the claims basis for participation in the cmp.
+i accept, however, that the linguistic points are not conclusively supportive of this interpretation.
+that is why it is necessary to stand back from the detail and ask which interpretation better promotes the purpose of cass 7.
+in my view, a purposive interpretation clearly supports the claims basis for participation.
+this basis better reflects the fact that all client money is subject to the statutory trust and that cass 7 is intended to give effect to the directives whose overriding purpose is to safeguard the assets of all clients and to provide all clients with a high degree of protection.
+i should add that we heard detailed submissions about the complexities of the process that the claims basis would entail and the inevitable costs and delay that it would occasion.
+the judge was impressed by these points: see, for example, para 152 above.
+i have little doubt that distribution on the claims basis in this case would be complex and would take a long time to complete.
+that is because of the extraordinary circumstances of this case.
+in other cases, the position might well be very different.
+but it has not been shown that, in a typical case, the complexity of the claims basis will necessarily be greater than that of the contributions basis.
+still less has it been shown that, in a typical case, the complexity of the claims basis will be so much greater than that of the contributions basis that the draftsman could not have intended the former.
+i do not think that it would be right to allow the scale of the exercise that would be required in this case to lead to a solution which, for the reasons that i have given, would defeat the underlying purpose of cass 7.
+for the reasons that i have given, i have reached the strong provisional conclusion that participation in the cmp is not dependent on actual segregation at the time of the ppe.
+but i recognise that the second and third issues are closely linked.
+the third issue concerns the true construction of 7.9.6r(2).
+the second issue concerns the true construction of 7.9.6r(1).
+the closeness of the link between the two issues is seen clearly in 7.9.6r(2) which provides that the firm must distribute that client money in accordance with cass 7.7.2r (underlining added).
+that client money is the client money referred to in 7.9.6r(1), ie client money held in each client money account of the firm.
+the second issue focuses on whether the client money to be distributed must be in a client account or may be identifiable client money held in a house account of the firm.
+the second issue
+if, as lord walker and lord hope would hold, participation in the cmp is dependent on actual segregation at the time of the point of last segregation (pls), then the second issue is limited to the question whether there is anything in cass 7 or the general law of insolvency to prevent a final internal reconciliation from being carried out on the data as they were at the ppe, but limited to taking account of events during the gap period between the pls and the ppe (and not reopening previous reconciliations down to and including the pls).
+in the light of the conclusion that i have reached on the third issue, the second issue cannot be viewed so restrictively.
+it is necessary to decide whether 7.9.6r(1) requires all identifiable client money to be treated as pooled, or only that client money which is held in the firms segregated client accounts.
+the phrase client money account of the firm is not defined.
+as a matter of ordinary language, the phrase client money account is capable of meaning (i) an account which contains or is intended to contain exclusively client money or (ii) an account of the firm which contains client money.
+even where a firm is fully compliant, cass 7 contemplates that client money will be held in the firms own account.
+thus, where the alternative approach of payment of client money into a client bank account is adopted under 7.4.16g, 7.4.18g and 7.4.19g, the firm may receive client money into its own bank account before (on the next business day) paying it out to or on behalf of the client (see 7.4.18g).
+the question of whether a house account in which client money is held is a client money account of the firm arises, therefore, both in relation to money held by the firm where it adopts the alternative approach and where (as in the present case) it wrongly retains client money in its own account.
+a number of detailed textual points have been made on both sides of the argument.
+some of these are discussed by lord neuberger at paras 205 to 215 of his judgment.
+i agree with his conclusion on these (para 223) that they are fairly limited in their value and pretty finely balanced in their relative strengths and that overall they do not favour either interpretation.
+i, therefore, see no point in rehearsing them in this judgment.
+since an examination of the text shows that there are two possible interpretations of the phrase each client money account of the firm, it seems to me that the correct interpretation is the one which best promotes the purpose of cass 7 as a whole.
+as i have already explained, the fundamental purpose of cass 7 is to provide a high level of protection for client money received by financial services firms.
+that is why all client money received from or held for or on behalf of a client in the course of, or in connection with its mifid business (7.2.2r) is held on trust upon receipt and why the other client money rules in 7.1 to 7.8 are expressed as they are; and that is the policy underlying the distribution rules.
+to exclude identifiable client money in house accounts from the distribution regime runs counter to this policy.
+it creates what was referred to in argument as a bifurcated scheme which provides clients with different levels of protection, namely a right to claim in the cmp under the cass 7 rules for those whose money is held in segregated client accounts but no right (other than a right to trace in equity) to those whose money is held in the firms house accounts.
+the purpose of the scheme (as required by the directives) is to provide a high level of protection to all clients and in respect of client money held in each money account of the firm.
+that purpose would be frustrated if the protection were restricted in this way.
+as mr miles and mr crow point out, a bifurcated scheme would provide clients with different levels of protection based on the happenstance of whether the firm has segregated money on behalf of that client.
+that is an arbitrary basis for a scheme which is intended to provide protection to all clients who entrust their money to a firm.
+it is unlikely that the draftsman of cass 7 intended the scheme to have this effect.
+it is improbable that the draftsman contemplated that there would be two regimes substantially in operation for the distribution of client money (one under the cass 7 rules set up for the purpose and one under equitable tracing principles and outside cass 7).
+there is the further point that, in view of the overriding purpose of the scheme, it is unlikely that client money which had yet to be segregated under the alternative approach was intended to be treated differently from client money which had been segregated, whether under the normal approach or the alternative approach.
+it is unlikely that the draftsman would have intended that a client who makes a payment to a firm which adopts the alternative approach should, albeit for a short period, be at risk in a way in which a client who makes a similar payment to a firm which adopts the normal approach would not be.
+lord walker and lord hope recognise the force of this last point.
+they would meet it by holding that a final reconciliation must be carried out on the data as they were at the ppe limited to taking account of events during the gap period (and not reopening previous reconciliations down to and including the pls).
+i accept that, in relation to client money received after the pls, this interpretation avoids bifurcation, achieves symmetry and assimilates the effect of the alternative approach with that which would have occurred under the normal approach.
+but it does not avoid bifurcation or achieve symmetry as between client money received before the pls which is held in segregated clients accounts and client money which is held in the firms house accounts.
+i would hold, in agreement with the court of appeal, that the primary pooling arrangements apply to client money in house accounts.
+this conclusion is consistent with and reinforces the conclusion which i have expressed on the third issue.
+in these circumstances, it is not necessary to deal with the alternative submission of mr miles that, as at the ppe, the firm remains a regulated firm subject to cass 7 and is therefore obliged to perform a final reconciliation as at the ppe.
+this is the submission that arden lj accepted at para 142 of her judgment.
+lord walker and lord hope accept this submission, but only so as to take account of events during the gap period between the pls and the ppe.
+i agree with them, but am inclined to think that there is no good reason why the final reconciliation should be limited in the way that they suggest.
+there is nothing in the language of 7.6 which supports such a limitation.
+since (as i have held) all client money is held by the firm on trust for the purpose of distribution in accordance with the distribution rules, if it were necessary to decide the point, i would hold that the final reconciliation should not be limited to an examination of what has happened between the pls and the ppe.
+overall conclusion
+i would, therefore, dismiss this appeal.
+i would hold that (i) client money is held on the statutory trust imposed by cass 7.7. from the time of receipt by a firm; (ii) the money treated as pooled at the ppe should be distributed to clients in accordance with their respective client money entitlements under cass 7 construed in accordance with this judgment; and (iii) the pooling at the ppe includes all client money identifiable in any account of lbie into which client money has been received and is not limited to client money in the firms segregated accounts.
+if the implications of these holdings call for further decision, application should be made to briggs j for directions.
+lord collins
+the issues on this appeal are of great importance to financial institutions and regulatory authorities, and the amount of money involved is enormous.
+they raise some difficult questions of construction of cass 7 in accordance with settled principles, but not points of law of general importance.
+two of these questions have divided the courts below and the members of this court.
+i agree with the judgments of lord walker and lord hope on the first issue, and those of lord dyson and lord clarke (and with the conclusions of lord neuberger mr, arden lj, and sir mark waller in the court of appeal) on the second and third issues.
+i begin with my views on the first issue, namely whether the statutory trust over client money contained in cass 7.7 attaches only to client money in segregated accounts or whether it also extends to client money which lbie was entitled to, and did, pay or receive into its own house accounts.
+the question is whether the statutory trust over clients funds arises on receipt of the funds, as cass 7.7.2r seems to say (a firm receives and holds client money as trustee) and as briggs j and the court of appeal decided, or whether it arises only when the money is received and segregated.
+recital 26 of the markets in financial instruments directive 2004/39/ec (mifid) recites that in order to protect an investors ownership and other similar rights in respect of securities and his rights in respect of funds entrusted to a firm those rights should in particular be kept distinct from those of the firm, .
+article 13(8) of mifid provides: an investment firm shall, when holding funds belonging to clients, make adequate arrangements to safeguard the clients' rights and, except in the case of credit institutions, prevent the use of client funds for its own account.
+article 16(1) of commission directive 2006/73/ec (the implementing directive) provides that: member states shall require that, for the purposes of safeguarding clients rights in relation to financial instruments and funds belonging to them, investment firms comply with the following requirements (e) they must take the necessary steps to ensure that client funds deposited, in accordance with article 18, in a central bank, a credit institution are held in an account or accounts identified separately from any accounts used to hold funds belonging to the investment firm; (f) they must introduce adequate organisational arrangements to minimise the risk of loss or diminution of client assets, or of rights in connection with those assets, as a result of misuse of assets, fraud, poor administration, inadequate record keeping or negligence. and article 16(2) provides: if, for reasons of the applicable law, including in particular the law relating to property or insolvency, the arrangements made by investment firms in compliance with paragraph 1 to safeguard clients rights are not sufficient to satisfy the requirements of article 13(7) and (8) of [mifid], member states shall prescribe the measures that investment firms must take in order to comply with those obligations.
+section 139(1)(a) of the financial services and markets act 2000 (fsma) provides for rules to make provision which results in clients money being held on trust in accordance with the rules.
+cass 7.3 (organisational requirements: client money) provides: requirement to protect client money 7.3.1r a firm must, when holding client money, make adequate arrangements to safeguard the client's rights and prevent the use of client money for its own account. [note: article 13(8) of mifid] requirement to have adequate organisational arrangements 7.3.2r a firm must introduce adequate organisational arrangements to minimise the risk of the loss or diminution of client money, or of rights in connection with client money, as a result of misuse of client money, fraud, poor administration, inadequate record keeping or negligence. [note: article 16(1)(f) of the mifid implementing directive]
+cass 7.2.1r defined client money as any money that a firm receives from or holds for, or on behalf of, a client.
+cass 7.7 (statutory trust) provides (omitting the special provisions for insurance undertakings): 7.7.1g section 139(1) of the act (miscellaneous ancillary matters) provides that rules may make provision which result in client money being held by a firm on trust (england and wales and northern ireland) or as agent (scotland only).
+this section creates a fiduciary relationship between the firm and its client under which client money is in the legal ownership of the firm but remains in the beneficial ownership of the client.
+in the event of failure of the firm, costs relating to the distribution of client money may have to be borne by the trust.
+requirement 7.7.2r a firm receives and holds client money as trustee (or in scotland as agent) on the following terms: (1) and the client money (mifid business) distribution rules; (2) that money is held, according to their respective interests in it; (4) on failure of the firm, for the payment of the costs properly attributable to the distribution of the client money in accordance with (2); and (5) for the firm itself. subject to (3) [an error for (4)], for the clients for whom for the purposes of and on the terms of the client money rules after all valid claims and costs under (2) to (4) have been met,
+cass 7.8 requires the trust affecting client money to be notified to and acknowledged by banks and other intermediaries.
+where client money is held in a client bank account, the firm is obliged to notify the third party bank that the account is a trust account, and to require from the third party bank an acknowledgment that money standing to the credit of the account is trust money, and that the bank is not entitled to combine the account with any other account or to exercise any right of set off or counterclaim against the money in that account: cass 7.8.1r.
+the client money rules do not impose any such obligation where client money is held in a house account.
+the essence of the appellants elaborate argument that the enormous sums which lehman failed to segregate in this case are not subject to the statutory trust comes down to two main points: the first is that as a matter of construction the statutory trust does not arise before segregation.
+the second, which is put at the forefront of the argument, is that cass 7 allows client money to be paid into the firms house accounts under the alternative approach.
+the essential feature of a trust is that the trustee must deal with the trust property solely for the purposes of the trust.
+under the alternative approach the firm is free to use the client money paid into its house accounts for its own purposes, and that is inconsistent with an intention that such funds are held on trust for others.
+the first argument, on the construction of the wording, is that the opening words of cass 7.7.2r (a firm receives and holds client money as trustee on the following terms) do not show that the trust was intended to apply to all client money from the moment of its receipt by the firm.
+the use of the phrase receives and holds is explained by the fact that it tracks the definition of client money in cass 7.2.1r, being any money that a firm receives from or holds for, or on behalf of, a client, which reflects the fact that the firm may come under an obligation to treat money as client money in two separate circumstances: (1) where it receives money from or on behalf of a client; and (2) where, as a result of a transaction involving a client, the firm is obliged to segregate some of its own money into a client bank account as client money.
+there is nothing in mifid in general, or in article 13(8) of mifid or article 16(1) and (2) of the implementing directive or in cass 7.3 in particular, which requires a trust to be imposed from the moment of receipt.
+the second argument is essentially that the use of the alternative approach by investment firms such as lbie operating in a complex environment is inconsistent with the imposition of a trust on receipt.
+in practice it is impossible in such an environment for the firm to keep track, on a real time basis, of the extent to which each trade, or movement in the market, or payment relating to a particular client gives rise to a requirement to make a payment into or out of the segregated client bank accounts (as required by the normal approach).
+as a result, with auditor certification, the firm is permitted to receive client money from or on behalf of clients into its own accounts, and to pay any money to or on behalf of clients out of its own accounts.
+the firm is required to maintain in the client bank accounts an amount equal to the aggregate amount of client money it is required to hold for clients (less the amount held in the client transaction accounts).
+since it is impossible to achieve this on a real time basis, an adjustment is required to be done daily, by performing a reconciliation of records and accounts required under cass 7.6.2r, and adjusting the balance held in its client bank accounts to accord with that reconciliation, until the process is repeated on the next business day.
+the firm is under no obligation in relation to the actual money received as client money; but it is obliged to make payments to or on behalf of clients out of the funds in its own accounts (ie its own funds), and permitted to receive client money into its own accounts.
+it must, on a daily basis, ensure that there is sufficient money in the segregated accounts to satisfy the client money requirement as at the close of business on the previous business day.
+if necessary, this will involve a payment from the firms own accounts into the client bank accounts, but it may instead involve a withdrawal from the client bank accounts, or no change to the aggregate balance in the client bank accounts.
+the appellants say that under the alternative approach the firm is free to use the client money paid into its house accounts for its own purposes, and that is inconsistent with an intention that such funds are held on trust for others: henry v hammond [1913] 1 kb 515, 521; paragon finance plc v db thakerar & co (a firm) [1999] 1 all er 400, 416.
+a trust over client money in the firms house accounts would create practical problems which the draftsman cannot have intended.
+it is in practice impossible for the firm to monitor, on a real time basis: (1) the payments made into its house accounts which attract the mifid client money segregation requirements; (2) the payments which do not; and (3) the payments out of its house accounts which would impact on the application of those requirements.
+the draftsman must have envisaged that a firm which received client money into its house accounts under the alternative approach would necessarily be unable to distinguish what was client money in each account from its own funds, and would therefore in the ordinary course make payments from its house accounts without differentiating between them.
+in my judgment, the appeal on the first issue fails.
+that the trust arises on receipt is not only consistent with the objectives of the directives and the rules, but also emerges clearly from the wording of cass 7.7.2r in its context.
+the statutory trust to safeguard clients funds pre dates mifid.
+it has its origin in section 55(2)(a) of the financial services act 1986.
+in his report review of investor protection, report: part 1 (1984) (cmnd 9125) (which preceded the financial services act), para 6.31, professor gower noted that under english law mere segregation of funds was not enough to protect those funds from the firms creditors in the event of its insolvency, and investors money could be safeguarded by segregation only if it was segregated in such a way that ownership remained with them, ie under a trust: the ultimate safeguard for investors is an assurance that on the failure of the investment business such of their money or investments as have not been disposed of in the legitimate conduct of that business are recoverable by them.
+in most cases this can be achieved only by a combination of two methods.
+the first is by the segregation of clients money and investments from the firms money and investments.
+this is effective only if clients money and investments are segregated in such a way that ownership remains with them.
+this is not achieved merely by holding their money in a designated clients account.
+unless that account is held on trust for the clients it will not afford protection, as many clients of recently liquidated investment managers and commodity dealers have learnt to their cost.
+in its 2000 consultation paper, protecting client money on the failure of an authorised firm, para. 4.13, the fsa said: all consumers have an interest in the system of regulatory protection that safeguards client money held by a firm.
+when a firm fails, its clients will want to know that their money can be returned to them as quickly as possible.
+when it amended the client money rules to take account of the directives, the fsa retained the existing trust mechanism.
+in its consultation paper 06/14, implementing mifid for firms and markets (july 2006) at para 10.17 it said: mifids segregation provisions require a firm, on receiving any client funds, promptly to segregate those funds in an account or accounts identified separately from any accounts used to hold funds belonging to the investment firm.
+our view is that under english law, a trust is the most appropriate mechanism for segregating client money and a statutory trust has advantages over a private law trust.
+for example, the incorporation of the client money distribution rules into the statutory trust assists in the efficient and prompt distribution of client money.
+the fsa proposed (para 10.18): to use the existing requirements concerning the establishment of the statutory trust and the segregation and operation of client money accounts.
+this will provide certainty as to beneficial ownership and the authority of the firm.
+and it would preserve the solid foundation for action by us, or liquidators or other persons appointed on their behalf, in the event of firm default.
+a statutory trust does not necessarily bear all the indicia of a trust as would be recognised by a court of chancery.
+thus in ayerst v c&k (construction) ltd [1976] ac 167, 180, lord diplock said (in the context of a trust arising on insolvency) that all that might be meant by the use of the word trust was giving property the essential characteristic which distinguishes trust property from other property; namely, it cannot be used or disposed of by the legal owner for his own benefit but must be used or disposed of for the benefit of others.
+thus cass 7.7.1g provides that the statutory trust creates a relationship under which client money is in the legal ownership of the firm but remains in the beneficial ownership of the client.
+consequently, it does not follow that, when the word trust is used, that brings with it the full range of trust indicia associated with a traditional private law trust, particularly so when the trust is imposed by statute and is in the context of the exercise of a public function: cf in re ahmed & co [2006] ewhc 480 (ch); 8 itelr 779.
+the starting point on issue 1 is the wording of cass 7.7.2r, which expressly provides that [a] firm receives and holds client money as trustee on the following terms.
+there is nothing to suggest that the trust does not arise on receipt.
+other provisions of cass 7 are consistent with the conclusion that a firm which receives client money is under an immediate fiduciary duty, including (1) the definition of client money in cass 7.2.1r which refers to a firm receiving or holding money; (2) cass 7.2.15r, which provides for the limited situations in which client money is released from fiduciary obligations on the part of the firm, and (3) cass 7.4.23g (mixed remittance), which provides that pursuant to the client money segregation requirements, a firm operating the normal approach which receives a mixed remittance (part client money and part other money) must pay the full sum into a client bank account promptly, and in any event, no later than the next business day after receipt; and pay the money that is not client money out of the client bank account promptly, and in any event, no later than one business day of the day on which the firm would normally expect the remittance to be cleared.
+that conclusion is also inevitable in the light of the requirement in article 13(8) of mifid, which obliges member states to require an investment firm when holding funds belonging to clients to prevent the use of client funds for its own account.
+cass 7 must be construed in order to comply with that requirement.
+it is also supported by articles 16(1) and 16(2) of the implementing directive, and by cass 7.3.
+article 16(1) of the implementing directive provides that client funds are to be held in accounts separate from the firms funds, and that firms must introduce adequate organisational arrangements to minimise the risk of loss or diminution of client assets, as a result of (inter alia) the misuse of assets.
+most important, if because of insolvency law the arrangements are not sufficient to safeguard clients rights, member states have to prescribe the measures that investment firms must take in order to comply with those obligations: article 16(2).
+cass 7.3.1r provides that the firm must prevent the use of client money for its own account.
+i accept the respondents argument that if the trust did not arise until segregation, then whether or not clients are protected by the cass rules would become arbitrary and dependent on the firms own practices: the greater the level of incompetence (or misconduct) on the part of the failed firm, the lesser the protection for clients.
+as for the arguments based on the use of the alternative approach, the starting point is that the alternative approach is merely a method which firms are entitled to adopt, in certain circumstances, if to do so would achieve the client protection objective.
+the alternative approach is not expressly contemplated by mifid and is an option permitted only if the firm has in place systems and controls which are adequate to enable it to operate the alternative approach effectively: cass 7.4.15r.
+the alternative approach does not, and cannot, assist in the interpretation of the directives, nor does it help in the interpretation of cass 7.7.2r.
+i agree with briggs j (at [144]) that since the purpose of the statutory trust is to protect client money from misuse, it would be odd if client money (originally the client's beneficial property) ceased to be the client's property upon receipt by the firm, and it (or substitute money) then became the clients property again upon segregation shortly thereafter.
+there is no doubt that money in a mixed fund may be held on trust, and that a trust of money can be created without an obligation to keep it in a separate account: in re kayford ltd [1975] 1 wlr 279, 282, per megarry j.
+the supposed difficulties in operating the alternative method if there were a continuing trust of client money are in my judgment of no substance, and in any event irrelevant to the question whether the trust arises on receipt.
+for those reasons i would uphold the conclusions of briggs j and the court of appeal [2011] bus lr 277 on the first issue.
+i add only a few words about the third issue.
+lord walker and lord dyson have between them set out fully all of the textual and policy considerations which divide them.
+my principal reasons for coming to the conclusion that the claims basis is the right basis (as does lord dyson, and as did lord neuberger mr, arden lj and sir mark waller in the court of appeal) are these: (a) although cass 7 uses trust concepts, it is not intended to codify, or be limited by, the ordinary rules of trust law; (b) the exercise is purely one of construction of cass 7; (c) cass 7.7.2r provides that the trust is for the purposes and on the terms of the client money rules and the distribution rules; (d) cass 7.9.6r provides that, on a primary pooling event, client money held in each client money account of the firm is treated as pooled; and the firm must distribute that client money in accordance with cass 7.7.2r, so that each client receives a sum which is rateable to the client money entitlement calculated in accordance with cass 7.9.7r; (e) client money entitlement is a reference to the contractual entitlement to have money segregated for the client; (f) that interpretation better serves the purposes of mifid and the rules.

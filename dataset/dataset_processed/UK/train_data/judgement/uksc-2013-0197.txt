@@ -1,0 +1,423 @@
+this appeal is about an elaborate scheme designed and marketed by kpmg relating to demonstrator cars used by retail distributors for test drives and other internal purposes.
+in the ordinary course, a car distributor will buy new cars for use as demonstrators, paying vat on the full amount of the sale price.
+this will in due course be recoverable as input tax by being set off against the output tax for which the distributor was accountable on its taxable supplies.
+the object of the kpmg scheme was to ensure that companies in the distributors group were able to recover input tax paid on the price of new cars acquired as demonstrators from manufacturers, while avoiding the payment of output tax on the price at which the car was ultimately sold second hand to a consumer.
+the pendragon group, to which all the respondents belong, are the largest car sales group in europe.
+they purchased the scheme and used it on two occasions, once in november and december 2000 and again in february and march 2001.
+further use of the scheme was then abandoned when its efficacy was challenged by the commissioners.
+in this litigation, the commissioners seek to recover the vat which the pendragon group thereby avoided.
+the kpmg scheme
+the kpmg scheme was designed to exploit three exceptions to the normal incidence of vat.
+the first was an exception for assignments by an owner of goods comprised in a hire purchase or conditional sale agreement of his rights and interests thereunder and the goods comprised therein to a bank or other financial institution.
+such transactions were de supplied by article 5(4) of the value added tax (special provisions) order 1995, si 1995/1268.
+in other words, they were to be treated as neither a supply of goods nor a supply of services, and were thereby taken out of the vat legislation altogether.
+the second exception was an exception for the supply by a person of assets of his business as part of the transfer of that business (or some discrete part of it) as a going concern, to be used by the transferee in carrying on the same kind of business.
+such transactions were de supplied by article 5(1) of the same order.
+the third exception was the margin scheme under which dealers in second hand goods are allowed to charge vat not on the whole consideration for the sale of the goods but on their profit margin only.
+margin schemes apply to the sale of second hand goods, works of art, collectors items and antiques.
+they are authorised by article 26a of the sixth council directive on the harmonisation of the laws of member states relating to turnover taxes 77/388/eec (as amended).
+article 26a was inserted by amendment by council directive 94/5/ec in 1994.
+in the united kingdom, effect was given to the amendment so far as concerned used cars by article 8 of the value added tax (cars) order 1992, si 1992/3122, as amended by the value added tax (cars) (amendment) order 1997, si 1997/1615.
+the kpmg scheme involved five prearranged steps.
+i gratefully adopt the summary by lloyd lj in the court of appeal of these steps, and their normal consequences for the incidence of vat [2013] ewca civ 868; [2014] stc 844: 21.
+step 1.
+pendragon plc, having bought new cars from, say, ford, sold new cars which were destined for use as demonstrator cars, before sale to a consumer, to captive cos 1, 2, 3 and 4 (the captive leasing companies or clcs). (in fact only three companies were used, but i use the language which has been used elsewhere to describe the scheme, in order not to generate unnecessary confusion.) pendragon plc's sale of the cars to a clc was a taxable supply of goods for vat purposes.
+therefore, pendragon plc accounted for output tax on the sale of the cars; and reclaimed input tax, including the tax incurred on the purchase from ford. 22.
+step 2.
+on the same day as step 1, the captive leasing companies leased the cars pursuant to hybrid hp/lease agreements to dealership companies in the pendragon group (the dealerships).
+each of the captive leasing companies entered into a vehicle demonstrator hire agreement (referred to as a hybrid lease) in favour of the dealerships.
+paragraph 8(c) of second schedule to the hybrid leases (generally referred to as clause 8(c), as i will refer to it hereafter, so as to avoid confusion) conferred on the dealership an option to purchase the hired vehicles.
+the option was exercisable seven days after the end of the hire agreement, and not earlier. 23.
+the services provided by the captive leasing companies to the dealerships under the vehicle demonstrator hire agreement were taxable supplies at the standard rate of vat.
+input tax incurred by the captive leasing companies on the purchase of the vehicles from pendragon plc at step 1 was therefore fully recoverable, being attributable to the making of those taxable supplies of leasing to the dealerships.
+the dealerships incurred vat on the rental payments but recovered that vat in full, being attributable to their taxable sale activities. 24.
+step 3.
+on the day following steps 1 and 2, the captive leasing companies began assigning the hybrid lease agreements and title in the cars to sg hambros bank and trust (jersey) ltd, known in the case as soc gen jersey (sgj), which was resident in jersey, not in the uk.
+each of the captive leasing companies entered into a deed of assignment with sgj.
+sgj paid the captive leasing companies the sum of approximately 20m.
+on the same date, sgj had entered into a facility agreement with its parent company in the uk, sg london, in relation to the facility of 20m to finance the assignments.
+sgj granted sg london an assignment of the assets to be assigned to it, as a form of security. 25.
+this step was critical to the success of the scheme.
+it depended on the assignment of a lease, granted by a captive leasing company to a pendragon dealership, to a bank; according to hmrc this had to be an offshore bank, as it in fact was.
+no vat was due on this transaction.
+the assignment by the captive leasing companies to sgj was not a supply for vat purposes, by virtue of article 5(4) of the special provisions order, which de supplied it, ie treated it as neither a supply of goods nor a supply of services. 26.
+step 4.
+on a date envisaged as being some 30 to 45 days later, sgj transferred as a going concern the lease agreements and title in the cars to captive co 5.
+captive co 5 resolved to purchase the relevant hire business carried on by sgj.
+on the same day, sgj contracted with captive co 5 to sell to it the business of the hire of cars said to have been carried on by sgj.
+the consideration was in excess of 18m and was apportioned as to 100,000 for the sale of goodwill and as to the balance (save for 2) for the sale of the motor vehicles.
+that agreement was completed on the same date, and captive co 5 paid the agreed price to sgj. 27.
+the sale by sgj to captive co 5 of its hire business was the transfer of a business as a going concern (togc).
+as such the transaction was neither a supply of goods nor a supply of services; therefore no vat was due on this transaction. 28.
+step 5.
+on various dates thereafter, the cars were sold to customers by the dealerships, acting as undisclosed agents for captive co 5 in which title to the vehicles was vested.
+vat was charged to the purchasers on the seller's profit margin on the sale, rather than on the total sale price, captive co 5 having opted to apply the margin scheme. 29.
+when captive co 5 sold the vehicles to the retail customer, the cars order applied.
+the tax relief provided for by article 8 of that order applied only where the taxable person making the sale had come into possession of the car in the circumstances set out in article 8(2), which i will set out below.
+if those requirements were met, and if the option was exercised that the margin scheme should apply, then vat was due only on the profit margin on the supply, rather than on the whole value received for the supply.
+this meant that captive co 5 accounted for vat on the difference between the cost of the car on the purchase from sgj, and the price at which it sold the car to the consumer.
+by means of the de supplied assignment of the leases to sgj at step 3, and the togc from sgj at step 4, the scheme was designed to meet the taxation requirements of the cars order.
+abuse of law
+it is common ground that at a purely technical level, the kpmg scheme worked.
+that is to say, the transactions envisaged at steps 3 and 4 satisfied all the statutory conditions for exemption from vat, and the transaction envisaged at step 5 satisfied all the statutory conditions for the application of the margin scheme.
+but that is not the end of the matter.
+value added tax is an eu tax imposed pursuant to successive directives of the european union, at the relevant time the sixth directive.
+the directives are subject to the principle of abuse of law.
+by virtue of section 2(1) of the european communities act 1972 the same principle must apply to domestic legislation implementing the directives.
+abuse of law is a concept derived from civil law jurisprudence, which is unknown to english common law but has been adopted by the law of the european union.
+in its simplest form, it confines the exercise of legal rights to the purpose for which they exist, and precludes their use for a collateral purpose.
+for present purposes, the expression dtournement de droit adopted by some french writers is probably a better description of its content.
+the application of the principle to tax avoidance schemes calls for a difficult balance to be drawn.
+it is traditional, at any rate in this jurisdiction, to distinguish between avoidance, which involves the lawful arrangement of a taxpayers affairs so as to minimise his tax bill, and evasion, which is an unlawful failure to account for tax due, generally by suppressing or falsifying information.
+sophisticated avoidance schemes do not so much undermine this distinction as challenge its usefulness.
+by artificially reclassifying transactions so as to produce a more favourable tax outcome than commercially comparable normal transactions, they frustrate the objective of the taxing provision without necessarily falling foul of its language.
+the result is arbitrarily to depress tax receipts, producing inequity between taxpayers and potentially distorting competition between firms who are otherwise similarly placed.
+this gives rise to social costs which are significant and increasingly controversial.
+on the other hand, legal certainty is an important principle of both english and eu law, particularly when it comes to justifying the financial demands of the state.
+artificiality, if it is to be deployed as a workable legal concept, has to be tested against some standard of transactional normality, and the search for such a standard is far from straightforward.
+taxpayers faced with a choice between alternative ways of achieving some commercial objective are in principle entitled to select the one with the more tax efficient statutory outcome.
+in particular, they are entitled to choose between exempt and taxable transactions in their own financial interest.
+like any other tax, vat is due only in so far as its imposition is authorised by statute.
+it follows that although the courts may examine the commercial reality of transactions without being unduly hidebound by labels, they do not as a general rule enlarge the scope of a taxing provision by reference to considerations which affect neither the construction of its language nor the characterisation of transactions to which it is said to apply.
+these dilemmas are particularly acute in the united kingdom, where the drafting of tax legislation has traditionally depended not on the formulation of general principles but on the definition of taxable occasions with a high degree of specificity.
+the main task of any court seeking to apply a principle of abuse of law is to reconcile these competing considerations.
+in the case law of the court of justice of the european union, the concept of abuse of law was first applied to fiscal rights and obligations in emsland strke gmbh v hauptzollamt hamburg jonas (case c 110/99) [2000] ecr i 11569.
+an exporter was refused a rebate of duty to which he was entitled on the face of the relevant commission regulation upon the export of his goods, because he had abused the law by claiming it in respect of goods which had been exported to a third country only to be at once re imported into the country of origin.
+the court held at para 59 that: a finding that there has been an abuse presupposes an intention on the part of the community exporter to benefit from an advantage as a result of the application of the community rules by artificially creating the conditions for obtaining it.
+the essential reason why the trading scheme failed in that case was that the choice of a circular supply route did not involve a choice between different methods of achieving the traders commercial purpose.
+it had no commercial purpose other than the avoidance of tax.
+the ambit of the principle was more fully defined in what is now the leading case, the decision of the grand chamber in halifax plc v customs and excise commissioners (case c 255/02) [2006] stc 919.
+this decision concerned a scheme for claiming input tax on the construction costs of four call centres, notwithstanding that as a bank halifaxs business consisted mainly in making exempt supplies which generated no output tax against which to set it off.
+the scheme involved a series of prearranged transactions, whose combined effect was to substitute for halifax two of its subsidiaries which generated larger volumes of output tax, as the parties to whom the construction services were supplied.
+in this case, there was clearly an underlying commercial purpose, namely the provision of the call centres.
+the issue arose out of the particular contractual method used to bring the project to fruition.
+it was found that there was no commercial rationale for interposing the two subsidiaries, who had been involved for the sole purpose of avoiding tax.
+the court accepted that the concept of abuse of law applied to vat.
+preventing possible tax evasion, avoidance and abuse is an objective recognised and encouraged by the sixth directive (para 71).
+it held that community law cannot be relied on for abusive or fraudulent ends (para 68), and that application of community legislation cannot be extended to cover abusive practices by economic operators, that is to say transactions carried out not in the context of normal commercial operations, but solely for the purpose of wrongfully obtaining advantages provided for by community law (para 69).
+these principles had, however, to be reconciled with the fundamental principle of legal certainty in the community legal order, especially in the case of rules imposing financial liabilities.
+the court continued: 73. it is clear from the case law that a trader's choice between exempt transactions and taxable transactions may be based on a range of factors, including tax considerations relating to the vat system (see, in particular, blp group [1995] stc 424, [1996] 1 wlr 174, para 26, and customs and excise comrs v cantor fitzgerald international (case c 108/99) [2001] stc 1453, [2002] qb 546, para 33).
+where the taxable person chooses one of two transactions, the sixth directive does not require him to choose the one which involves paying the highest amount of vat.
+on the contrary, as the advocate general observed in para 85 of his opinion, taxpayers may choose to structure their business so as to limit their tax liability. 74.
+in view of the foregoing considerations, it would appear that, in the sphere of vat, an abusive practice can be found to exist only if, first, the transactions concerned, notwithstanding formal application of the conditions laid down by the relevant provisions of the sixth directive and the national legislation transposing it, result in the accrual of a tax advantage the grant of which would be contrary to the purpose of those provisions. 75.
+second, it must also be apparent from a number of objective factors that the essential aim of the transactions concerned is to obtain a tax advantage.
+as the advocate general observed in para 89 of his opinion, the prohibition of abuse is not relevant where the economic activity carried out may have some explanation other than the mere attainment of tax advantages. 76.
+it is for the national court to verify in accordance with the rules of evidence of national law, provided that the effectiveness of community law is not undermined, whether action constituting such an abusive practice has taken place in the case before it (see eichsfelder schalchtbetrieb (case c 515/03) [2005] all er (d) 306 (jul), para 40). 81.
+as regards the second element, whereby the transactions concerned must essentially seek to obtain a tax advantage, it must be borne in mind that it is the responsibility of the national court to determine the real substance and significance of the transactions concerned.
+in so doing, it may take account of the purely artificial nature of those transactions and the links of a legal, economic and/or personal nature between the operators involved in the scheme for reduction of the tax burden (see, to that effect, emsland starke [2000] ecr i 11569, para 58).
+the court dealt with the consequences of a finding of abuse as follows: 93.
+it must also be borne in mind that a finding of abusive practice must not lead to a penalty, for which a clear and unambiguous legal basis would be necessary, but rather to an obligation to repay, simply as a consequence of that finding, which rendered undue all or part of the deductions of input vat (see, to that effect, emsland starke [2000] ecr i 11569, para 56). 94.
+it follows that transactions involved in an abusive practice must be redefined so as to re establish the situation that would have prevailed in the absence of the transactions constituting that abusive practice. 9.
+it is clear that in arriving at these conclusions the court was strongly influenced by the penetrating analysis of the limits of a taxpayers legitimate choices by advocate general poiares maduro.
+that opinion provides a valuable discussion of the highly condensed statement of the test in paras 74 75 of the judgment.
+in particular, it addresses more fully the problem of concurrent purposes:
+definition of the scope of this community law principle, as applicable to the common vat system, is ultimately a problem of determining the limits applicable to the interpretation of the provisions of the vat directives that confer certain rights on taxable persons.
+in this regard, the objective analysis of the prohibition of abuse has to be balanced against the principles of legal certainty and protection of legitimate expectations that also form part of the community legal order and in the light of which the provisions of the sixth directive must be interpreted.
+from those principles it follows that taxpayers must be entitled to know in advance what their tax position will be and, for that purpose, to rely on the plain meaning of the words of the vat legislation. 85.
+furthermore, the court has consistently held, in consonance with the position generally accepted by member states in the tax domain, that taxpayers may choose to structure their business so as to limit their tax liability.
+in blp group plc v customs and excise comrs (case c 4/94) [1995] stc 424, [1996] 1 wlr 174, the court ruled that a trader's choice between exempt transactions and taxable transactions may be based on a range of factors, including tax considerations relating to the vat system.
+there is no legal obligation to run a business in such a way as to maximise tax revenue for the state.
+the basic principle is that of the freedom to opt for the least taxed route to conduct business in order to minimise costs.
+on the other hand, such freedom of choice exists only within the scope of the legal possibilities provided for by the vat regime.
+the normative goal of the principle of prohibition of abuse within the vat system is precisely that of defining the realm of choices that the common vat rules have left open to taxable persons.
+such a definition must take into account the principles of legal certainty and of the protection of taxpayers legitimate expectations. 86.
+by virtue of those principles, the scope of the community law interpretative principle prohibiting abuse of the vat rules must be defined in such a way as not to affect legitimate trade.
+such potential negative impact is, however, prevented if the prohibition of abuse is construed as meaning that the right claimed by a taxable person is excluded only when the relevant economic activity carried out has no other objective explanation than to create that claim against the tax authorities and recognition of the right would conflict with the purposes and results envisaged by the relevant provisions of the common system of vat.
+economic activity of that kind, even if not unlawful, deserves no protection from the community law principles of legal certainty and protection of legitimate expectations because its only likely purpose is that of subverting the aims of the legal system itself. 87.
+i am of the view therefore that the community law notion of abuse, applicable to the vat system, operates on the basis of a test comprising two elements.
+both elements must be present in order to establish the existence of an abuse of community law in this area.
+the first corresponds to the subjective element mentioned by the court in emsland [2000] ecr i 11569, but it is subjective only in so far as it aims at ascertaining the purpose of the activities in question.
+that purpose which must not be confused with the subjective intention of the participants in those activities is to be objectively determined on the basis of the absence of any other economic justification for the activity than that of creating a tax advantage.
+accordingly, this element can be regarded as an element of autonomy.
+in fact, when applying it, the national authorities must determine whether the activity at issue has some autonomous basis which, if tax considerations are left aside, is capable of endowing it with some economic justification in the circumstances of the case. 88.
+the second element of the proposed test corresponds to the so called objective element mentioned in emsland [2000] ecr i 11569.
+it is in fact a teleological element whereby the purpose and objectives of the community rules allegedly being abused are compared with the purpose and results achieved by the activity at issue.
+this second element is important, not only because it provides the standard upon which the purpose and results of the activity in question are to be assessed.
+it also provides a safeguard for those instances where the sole purpose of the activity might be to diminish tax liability but where that purpose is actually a result of a choice between different tax regimes that the community legislature intended to leave open.
+therefore, where there is no contradiction between recognition of the claim made by the taxable person and the aims and results pursued by the legal provision invoked, no abuse can be asserted. 89.
+the prohibition of abuse, as a principle of interpretation, is no longer relevant where the economic activity carried out may have some explanation other than the mere attainment of tax advantages against tax authorities.
+in such circumstances, to interpret a legal provision as not conferring such an advantage on the basis of an unwritten general principle would grant an excessively broad discretion to tax authorities in deciding which of the purposes of a given transaction ought to be considered predominant.
+it would introduce a high degree of uncertainty regarding legitimate choices made by economic operators and would affect economic activities which clearly deserve protection, provided that they are, at least to some extent, accounted for by ordinary business aims. 91.
+on the basis of the foregoing analysis i am therefore of the opinion that there is a community law principle of interpretation prohibiting the abuse of community provisions, which is also applicable to the sixth directive.
+according to that principle, the provisions of the sixth directive must be interpreted as not conferring the rights that might appear to be available by virtue of their literal meaning, when two objective elements are found to be present.
+first, that the aims and results pursued by the legal provisions formally giving rise to the tax advantage invoked would be frustrated if that right were conferred.
+second, that the right invoked derives from economic activities for which there is objectively no other explanation than the creation of the right claimed. 10.
+two main difficulties arise where the principle of abuse of law is applied to tax avoidance schemes. 11.
+the first arises from the assumption made by the court of justice in halifax that the principle will not apply to what it called normal commercial operations (para 69).
+subsequent case law has established that this means those that are normal in the context of the relevant line of business, not necessarily normal for the particular taxpayer: revenue and customs commissioners v weald leasing ltd (case c 103/09) [2011] stc 596.
+i do not think that the court can have intended to set up a third distinct test, in addition to the two which are set out in paras 74 75 and repeated in its order.
+the normality of a transaction is relevant to the question posed in the courts first test, about the purpose of the relevant provision of the vat directives.
+normal commercial operations will not as a general rule be regarded as contrary to the purpose of the directives, since these must be assumed to have been designed to accommodate them.
+thus in weald leasing the taxpayers decision to take equipment on lease from an intermediate company rather than buy it outright was an ordinary commercial transaction.
+it was not abusive even though it was unusual for the taxpayer in question and was designed to obtain a tax advantage by spreading the liability to tax over a longer period.
+the choice between leasing and outright purchase was a choice accommodated by the scheme of the vat legislation.
+the tax treatment of lease payments being a facility available under the legislation itself, resort to it could not be regarded as contrary to its purpose.
+for the same reason, a transaction is not abusive merely because it falls within an exception or derogation from ordinary principles of eu law governing the incidence of vat, such as the right enshrined in the sixth directive to deduct input tax generated by transactions in another member state.
+it follows that the sourcing of goods or services from a country in which the vat regime is more favourable is not in itself abusive, even though the object and effect is to allow the deduction of input tax without the payment of output tax (revenue and customs commissioners v rbs deutschland holding gmbh (case c 277/09) [2011] stc 345).
+the reason, as the court explained in that case at paras 51 52, is that this is a choice inherent in a scheme of taxation that is designed to be fiscally neutral as between different member states while allowing for some differences between their implementing laws.
+likewise, the conduct of a genuine business activity through a subsidiary incorporated in another member state is not abusive, although the sole reason for the choice is that it has a lower rate of corporation tax: cadbury schweppes plc v inland revenue commissioners (case c 196/04) [2006] stc 1908.
+precisely the same considerations must apply to a decision to source goods or services from outside the european union, an option which is inherent in the territorial limits of the eu vat regime and the assignment of economic relations with third countries to other policies of the union. 12.
+the second difficulty which arises from the application of the principle of abuse of law to tax avoidance is that of concurrent purposes.
+tax avoidance schemes are rarely directed exclusively to tax avoidance.
+it is difficult to conceive of a scheme, other than a fraudulent one, which achieved absolutely nothing but a tax advantage.
+they are usually directed to achieving a commercial purpose, such as the provision of the call centres in halifax, in a way which avoids a tax liability that would otherwise be associated with it.
+the potential for abuse consists in the method chosen to achieve the commercial purpose.
+in ministero delleconomia e delle finanze v part service srl (case c 425/06) [2008] stc 3132, the consideration payable by the lessee under a leasing transaction was artificially split between two contracts, one with the lessor and the other with an associated company of the lessor.
+the latter contract was structured so as to qualify as an exempt financial contract under italian law, so as to reduce the amount chargeable to vat.
+the transactions had a legitimate commercial purpose, namely the leasing of the cars, but the method of achieving that purpose was held to be open to challenge if the accrual of a tax advantage constitutes the principal aim of the transaction or transactions at issue (para 45).
+this conclusion seems to me to do no more than make explicit something which is implicit in the halifax tests.
+identifying the essential aim in a case of concurrent fiscal and commercial purposes depends on an objective analysis of the method used to achieve the commercial purpose.
+as advocate general maduro observed in a passage from (para 89) of his opinion which was in terms approved by the court (para 75), the taxpayers choices must be at least to some extent, accounted for by ordinary business aims.
+the question is therefore whether the commercial objective is enough to explain the particular features of the contractual arrangements which produce the tax advantage. 13.
+these considerations effectively answer a question which is likely to arise in most cases involving prearranged sequences of transactions.
+is the relevant aim that of the scheme as a whole or of its component parts? the answer is that it may be either or both.
+because the principle of abuse of law is, in this context, directed mainly to the method by which a commercial purpose is achieved, it is necessary to analyse each transaction by which it is achieved.
+because the purpose of each step will generally be to contribute to the working of the whole scheme, the effect of the whole scheme has also to be considered.
+in wha ltd v customs and excise commissioners [2007] stc 1695, para 22, lord neuberger, delivering the leading judgment in the court of appeal, rejected the submission that the court was confined to considering the artificiality or purpose of each individual step, since these will commonly be individually unassailable but designed to produce the tax advantage in combination.
+i agree with this observation.
+the first halifax test: contrary to the purpose of the legislation 14.
+value added tax is a tax on consumption.
+as far as the end user of goods or services is concerned it is a tax on the whole consideration provided for the goods or services in question.
+but as far as each taxable participant in the chain of production or distribution is concerned, it is a tax on the value which he has added to the product.
+each taxable participant accounts for tax on the amount realised (output tax), less the cost of the materials and other taxable inputs (input tax).
+the broad principle is that tax on the ultimate value of the product is levied only once, albeit that it may be collected at different stages of the process of manufacture and distribution.
+in elida gibbs ltd v customs and excise commissioners (case c 317/94) [1996] stc 1387, the court of justice summarised the position at paras 18 22 in this way: 18.
+before replying to these questions it is appropriate to describe briefly the basic principle of the vat system and how it operates. 19.
+the basic principle of the vat system is that it is intended to tax only the final consumer.
+consequently the taxable amount serving as a basis for the vat to be collected by the tax authorities cannot exceed the consideration actually paid by the final consumer which is the basis for calculating the vat ultimately borne by him. 20.
+thus in staatssecretaris van financie v hong kong trade development council (case 89/81) [1982] ecr 1277 at 1285, para 6 the court held that it was apparent from ec council directive 67/227 of 11 april 1967 on the harmonisation of the legislation of the member states concerning turnover tax (the first directive) (jo 71 14.4.67 p 1301 (s edn 1967 p 14)) that one of the principles on which the vat system was based was neutrality, in the sense that within each country similar goods should bear the same tax burden whatever the length of the production and distribution chain. 21.
+that basic principle clarifies the role and obligations of taxable persons within the machinery established for the collection of vat. 22.
+it is not, in fact, the taxable persons who themselves bear the burden of vat.
+the sole requirement imposed on them, when they take part in the production and distribution process prior to the stage of final taxation, regardless of the number of transactions involved, is that, at each stage of the process, they collect the tax on behalf of the tax authorities and account for it to them.
+it follows, as the court pointed out at para 24, that the tax authorities may not in any circumstances charge an amount exceeding the tax paid by the final consumer. 15.
+the commissioners objection to the kpmg scheme under this head is that it is contrary to the purpose of the margin scheme.
+the margin scheme is an exception to the general principle that vat is charged on the full consideration for a sale.
+it applies where a vehicle, having previously left the supply chain when sold new to a consumer, then re enters it upon being acquired and resold by a taxable person.
+the object is to allow partial relief from vat to traders selling goods which have already been the subject of a net tax charge at some earlier stage in their history.
+the effect of the kpmg scheme, by comparison, is to enable the pendragon group to avail itself of the margin scheme in a quite different situation, where there has been no net charge to vat because the input tax suffered by pendragon plc on the purchase from the manufacturer has been recovered by being netted off against output tax chargeable on the sale by pendragon plc to the captive leasing companies. 16.
+the sixth directive made no specific provision for second hand goods.
+article 32 provided for the council to make provision for them by the end of 1977, but until they had done so member states were to be entitled to retain any special schemes of their own.
+that state of affairs subsisted until 1994, when council directive 94/5/ec of 14 february 1994 finally introduced a number of amendments to the sixth directive.
+these sought to harmonise the vat regimes of member states relating to second hand goods, works of art, antiques and collectors items.
+the amendments included the new article 26a, which required member states to introduce a margin scheme for these goods in these categories, and to allow dealers the option of being taxed under it.
+it is clear from the recitals that the purpose of the amendments, apart from reducing distortions of competition arising from the different treatment of comparable transactions, was to avoid double taxation.
+the third and fifth recitals record: whereas the court of justice has, in a number of judgments, noted the need to attain a degree of harmonization which allows double taxation in intra community trade to be avoided.
+whereas, within the internal market, the satisfactory operation of the value added tax mechanisms means that community rules with the purpose of avoiding double taxation and distortion of competition between taxable persons must be adopted.
+in forvaltnings ab stenhoven v riksskatteverket (case c 320/02) [2004] stc 1041, paras 8 and 25 and jyske finans a/s v skatteministeriet (case c 280/04), paras 32 and 37, the court of justice treated these recitals as correctly stating the purpose of the amendment introducing the margin scheme. 17.
+article 26ab was entitled special arrangements for taxable dealers.
+taxable dealers for this purpose are defined as taxable persons who in the course of business acquired second hand goods, works of art, antiques or collectors items: see article 26aa. article 26ab provided that a taxable dealer was entitled to account for vat on his profit margin if he had obtained the goods within the community from one of four categories of person, namely: (i) a non taxable person; (ii) a taxable person if the supply by him was pursuant to an exempt activity under article 13b(c) of the sixth directive, ie it did not give rise to any right to deduct input tax; (iii) in the case of capital assets, a taxable person who was exempt under article 24 of the sixth directive as a small undertaking; or (iv) another taxable dealer who was himself operating under the margin scheme. 18.
+leaving aside the question of distortion of competition, which is a marginal factor in this case, the terms of part b of article 26a, read in conjunction with the recitals, disclose two related purposes of the margin scheme, one direct and the other indirect.
+the direct purpose is apparent from the fact that the common feature of all four categories of anterior supplier is that they will all have supplied the goods to the taxable dealer in circumstances where they will have had no right to deduct input tax.
+in case (iv) no such right will have arisen in respect of the acquisition by the anterior suppliers own supplier either.
+the indirect purpose is the one referred to in the recitals, namely the avoidance of double taxation, which would have occurred if the taxable dealer were accountable for vat on the entire resale price of goods which had already suffered a net charge to vat at some earlier stage. 19.
+as regards cars, article 26a was, as i have said, transposed into english law with effect from 1995 by article 8 of the value added tax (cars) order 1992, si 1992/3122 (as amended).
+omitting references to transactions chargeable under manx law, article 8(1) and (2) of the order provide: (1) subject to complying with such conditions (including the keeping of such records and accounts) as the commissioners may direct in a notice published by them for the purposes of this order or may otherwise direct, and subject to paragraph (3) below, where a person supplies a used motor car which he took possession of in any of the circumstances set out in paragraph (2) below, he may opt to account for the vat chargeable on the supply on the profit margin on the supply instead of by reference to its value. (2) the circumstances referred to in para (1) above are that the taxable person took possession of the motor car pursuant to (a) a supply in respect of which no vat was chargeable under the act ; (b) a supply on which vat was chargeable on the profit margin in accordance with para (1) above, or a corresponding provision of the law of another member state; (bb) a supply received before 1 march 2000 to which the provisions of article 7(4) of the value added tax (input tax) order 1992 applied; (c) a transaction except one relating to the transfer of the assets of a business or part of a business as a going concern which was treated by virtue of any order made or having effect as if made under section 5(3) of the act as being neither a supply of goods nor a supply of services; (d) a transaction relating to the transfer of the assets of a business or part of a business as a going concern which was treated as neither a supply of goods nor a supply of services if the transferor took possession of the goods in any of the circumstances described in this paragraph.
+paragraphs (c) and (d) of article 8(2) refer to transactions treated as neither a supply of goods nor a supply of services.
+this is a reference to article 5 of the value added tax (special provisions) order 1995, si 1995/1268, made under powers conferred on the treasury by section 5(3) of the value added tax act 1994.
+it provides (omitting irrelevant subsections and references to manx legislation): (1) subject to para (2) below, there shall be treated as neither a supply of goods nor a supply of services the following supplies by a person of assets of his business (a) their supply to a person to whom he transfers his business as a going concern where (i) the assets are to be used by the transferee in carrying on the same kind of business, whether or not as part of any existing business, as that carried on by the transferor, and (ii) in a case where the transferor is a taxable person, the transferee is already, or immediately becomes as a result of the transfer, a taxable person ; (b) their supply to a person to whom he transfers part of his business as a going concern where (i) that part is capable of separate operation, (ii) the assets are to be used by the transferee in carrying on the same kind of business, whether or not as part of any existing business, as that carried on by the transferor in relation to that part, and (iii) in a case where the transferor is a taxable person, the transferee is already, or immediately becomes as a result of the transfer, a taxable person 20.
+it will be apparent that article 8(2) of the cars order is not an exact reproduction of article 26a of the sixth directive.
+it applies the margin scheme in five cases.
+the first (para 2(a)) is that the taxable reseller acquired the car under a transaction in respect of which no vat was chargeable.
+the second (para 2(b)) is that he has acquired it from a taxable person who is himself operating under the margin scheme.
+the third (para 2(bb)) is that the car was acquired by the reseller before 1 march 2000 in circumstances where under the law as it then stood input tax in respect of cars was disallowed altogether: see article 7(1) and (4) of the value added tax (input tax) order 1992, si 1992/3222.
+the fourth (para 2(c)) is that the car was acquired as part of the assets of a business transferred as a going concern which was de supplied by article 5(1) of the special provisions order (quoted above).
+the fifth is that it was acquired under some transaction other than the transfer of the assets of a business, but which is also de supplied by an order made under section 5(3) of the value added tax act 1994.
+this includes the assignment by an owner of goods comprised in a hire purchase or conditional sale agreement of his rights and interests under that agreement: see article 5(4) of the special provisions order.
+the first two of these cases substantially correspond to the cases specified in article 26ab(2) of the sixth directive.
+the third is of purely historic importance.
+it is essentially a transitional provision reflecting an earlier united kingdom vat regime for cars.
+the fourth and fifth are not foreshadowed in article 26ab(2) of the directive unless (as the commissioners submit) they are covered by the exemption for goods sourced from a non taxable person.
+all five cases, however, manifestly have the same underlying purpose as article 26a.
+this is because in all five cases, the reseller seeking to avail himself of the margin scheme will have acquired the goods from someone with no right to recover input tax in respect of their own acquisition of them, and in the second case the same will also be true of the anterior suppliers own supplier.
+in those cases falling within the five categories where the goods originate from a person who was charged vat on the cost of acquisition, the object and effect is to avoid double taxation.
+as with article 26a of the directive, there is an element of overkill, in that article 8(2) captures dealings in which goods may not have given rise to a full charge to tax at any stage. 21.
+mr cordara qc, who appeared for the taxpayer, puts forward two main arguments about this. 22.
+his first argument challenges the view that the margin scheme legislation is based upon a policy of avoiding double taxation or trapped vat.
+he accepts that there is such a policy.
+but he submits that neither the eu nor the uk legislation can be regarded as being based on it, because double taxation was not their exclusive targets.
+this is because it is not a precondition to the application of the margin scheme that an earlier owner should have paid vat on the car.
+some goods covered by article 26a of the sixth directive will never have suffered a full charge to vat.
+thus, to take the simplest (and probably the commonest) case, where the taxable dealer has acquired the goods from a non taxable person, say a householder selling furniture otherwise than in the course of a business, and the householder himself acquired them new from a taxable person, then vat will have been paid on the cost of acquisition, assuming that no exemptions apply.
+that vat will not be recoverable by the householder on the subsequent sale to the taxable dealer.
+it will, in the jargon of vat specialists, be trapped.
+most second hand goods which are not works of art, antiques or collectors items will have suffered a charge to vat on the full price when they were first sold new.
+on the other hand, antiques, which are defined as objects more than a hundred years old other than works of art or collectors items, will not have been subject to a charge to vat on the full price unless (unusually) the householder acquired them from a dealer who elected not to be taxed under the margin scheme, or they were subject to vat on the full price in another member state at a time when the vat treatment of second hand goods (including antiques) was unharmonised.
+works of art or collectors items may or may not have been subject to a charge to vat on the full price at some stage, depending on their age, their whereabouts at earlier stages of their history and the taxable status of their creator or any other intermediary through whose hands they have passed.
+mr cordara submits that it would, he says, have been difficult to design a workable system which required one to ascertain whether vat had in fact been paid in every case on some historic transfer of the goods.
+so it was decided as a matter of policy to expand the scope of the margin scheme to make it more generous and at the same time easier to administer.
+in the process, the connection with double taxation and trapped vat was diluted. 23.
+i do not accept this argument.
+both article 26a of the directive and article 8(2) of the cars order apply the margin scheme to cases where if vat was charged, it will not have been recoverable, even though that will include some cases where vat was never charged.
+i have no doubt that mr cordara is right to say that this was done because of the difficulty of designing a workable legislative scheme for second hand goods which depended on whether at some stage the particular goods passed through the hands of someone who had actually charged vat on the full price.
+but none of this affects the purpose of the margin scheme.
+sometimes the only practicable way of capturing a particular category of transactions which is hard to define is to capture a larger category which is easier to define.
+this means that the result is an imperfect legislative scheme but not an aimless one.
+its purpose is still to capture the smaller category.
+the element of overkill in this legislative scheme will be larger for some classes of goods than for others.
+but it is worth pointing out that we are concerned with cars, a class of goods in which the element of overkill is likely to be small.
+apart from a small number of cars still in existence which were sold new before 1973, and certain special purpose vehicles which are zero rated (such as vehicles designed or adapted for the disabled), all used cars will originally have been sold as new cars under transactions attracting a full charge to vat. 24.
+i turn to mr cordaras second argument, which focusses on the application of the margin scheme to cars acquired under de supplied transactions, namely (i) pursuant to the assignment of rights and interests under a hire purchase or conditional sale agreement, or (ii) as part of the assets of a business transferred as a going concern.
+these cases, which depend on article 8(2)(c) and (d) of the cars order, are the fourth and fifth cases which i have identified above.
+they are critical to steps 2, 3 and 4 of the kpmg scheme.
+mr cordara argues that even on the footing that the exemption of such transfers from vat by article 5 of the special provisions order is based on the sixth directive, their treatment as gateways to the margin scheme is not.
+this, he says, is because the only relevant gateway in article 26ab of the sixth directive is that the goods were acquired from a non taxable person, whereas article 8(2)(c) and (d) of the cars order apply it to taxable persons in respect of specific categories of transaction.
+he submits that these are additional statutory tax concessions, creatures of the domestic law of the united kingdom, which have nothing to do with eu law.
+he says that the same is true of other special uk schemes (such as the motability scheme for disabled vehicles) which have applied the margin scheme even more widely.
+not being applications of eu law, he submits, the underlying purpose of article 26a cannot be said to apply to them.
+the point, if correct, has more radical implications, as mr cordara recognised.
+it would mean that the principle of abuse of law had no application to these particular exemptions at all. 25.
+i reject this argument also.
+i am prepared to assume, without deciding, that the application of the margin scheme to de supplied transactions by article 8(2)(c) and (d) of the cars order is not derived from article 26a of the sixth directive.
+on that assumption, these particular features of the united kingdom margin scheme were creatures of united kingdom law only.
+it does not follow that the underlying purpose of applying the margin scheme to de supplied transactions is any different from the underlying purpose of applying it to other cases covered by article 8(2) of the cars order which are unquestionably authorised by article 26a.
+they all have the same essential feature in common, namely that if vat has been charged on the goods at some earlier stage, it will not have been recoverable.
+it is that feature which accounts for the application to them of the margin scheme.
+by de supplying certain transactions by article 5 of the special provisions order, the united kingdom has in effect added further occasions on which, if vat has at some stage been charged, it will not be recoverable.
+in extending the margin scheme to cover these transaction by article 8(2) of the cars order, it has simply applied the policy underlying article 26a of the directive to further categories of transactions which are in the relevant respects comparable.
+it is still the same policy. 26.
+if, therefore, this argument is to succeed, it must be on the more radical basis that because the application of the margin scheme to de supplied transactions is not derived from article 26a, the eu principle of abuse of law cannot apply to article 8(2)(c) and (d) of the cars order at all.
+a very similar suggestion was rejected by the court of appeal in wha ltd v revenue and customs commissioners, paras 43 47 (lord neuberger). 27.
+in my view they were right to reject it.
+vat is a largely but not entirely harmonised tax which depends for its application to taxpayers on its implementation in the domestic law of member states but is part of the legal order of the european union.
+the domestic vat regime of member states will include provisions directly transposing the relevant directives into national law.
+depending on the drafting tradition of the relevant member state, the general principles of its tax law and its rules of private (especially contract) law, this may involve adapting or supplementing the language of the directive to accommodate its requirements to the domestic context.
+in addition, there may be national provisions dealing with matters which the directives leave to member states, either expressly or because they relate to matters such as procedure and civil remedies which are left to member states under the general distribution of functions between eu and national institutions.
+these features of national implementing laws are nonetheless part of a scheme for implementing an eu tax.
+national vat regimes fall to be applied not just according to the letter of the national law, but in accordance with a number of general principles of eu law whose origin is the jurisprudence of the union rather than the constitutive treaties or legislation made under them.
+these include the principle of respect for fundamental rights, the principle of proportionality, the principle of legal certainty with its concomitant doctrines of legitimate expectation and good faith, and the principle of abuse of law.
+their application is not excluded because some particular feature of the national legal regime applying an eu tax has its origin in a domestic legislative choice rather than in a member states obligation to implement a directive. 28.
+thus, although remedies for breach of an eu obligation are a matter for domestic law, in test claimants in the fii group litigation v revenue and customs commissioners (case c 362/12) [2014] ac 1161, the principle of legal certainty and the doctrine of legitimate expectations were applied to the united kingdoms legislative choices about remedies for recovering overpaid vat: see paras 44 49.
+this court had previously reached the same conclusion, rejecting the submission (see pp 348 349) that these principles did not apply to a feature of english law which was not the result of a union obligation: [2012] 2 ac 337.
+in revenue and customs commissioners v weald leasing ltd (case c 103/09) [2011] stc 596, it was argued that the abuse of law principle only applies to tax advantages which are contrary to community law provisions and not to attempts to circumvent domestic law (para 23).
+rejecting this submission, advocate general mazak said, at para 24: i consider that weald leasing's submission cannot be accepted.
+it would appear from the file before the court, and subject to verification by the referring court, that paragraph 1, schedule 6, of the vat act 1994 was enacted pursuant to a derogation under article 27 of the sixth directive.
+in my view, provisions of national legislation which were adopted in accordance with the derogations laid down in article 27 of the sixth directive form an integral part of the national vat system, are binding on a taxable person under national law and may be relied upon by the tax authorities of a member state before the national courts against that person.
+for the purposes of the application by the national courts of the abuse principle as laid down in halifax, any distinction between national provisions which implement the provisions of the sixth directive and those which were adopted in full compliance with a derogation permitted under that directive is, in my view, contrived and tends to undermine the integrity of the national vat system and indirectly the eu vat system.
+agreeing with its advocate general, the court held (para 42): in that context, weald leasing's argument that the principle of prohibiting abusive practices does not apply to breach of paragraph 1 in schedule 6 to the vat act 1994 because that provision is purely a question of national law cannot be accepted, because that provision was adopted on the basis of article 27 of the sixth directive and forms part of the national legislation implementing that directive.
+weald leasing was, as both of these citations show, a case in which the relevant provision of united kingdom law was authorised by an express derogation in the directive.
+but logically that can make no difference.
+the point is that no rule of eu law was being circumvented.
+what was being circumvented was a rule of domestic law which had been incorporated domestically in an eu scheme. 29.
+i would reach the same conclusion as a matter of english domestic law.
+the cars order was made with the intention of applying article 26a of the sixth directive to the used car market.
+all domestic vat implementing legislation is made against the background of eu law, including its general principles, and on the footing that these will apply to it.
+it would be irrational and unworkable for the principle of abuse of law to apply to some steps in a concerted scheme of transactions but not others, depending on the degree to which the legislators intention to transpose the directive was successfully achieved.
+for these reasons, i think that lord neuberger was right in wha ltd v revenue and customs commissioners, at para 44, to say that if the domestic legislation in question has been enacted with the intention of giving effect to the directive, the fact that it imperfectly transposes it should not justify non application of the abuse principle. 30.
+the effect of the kpmg scheme was to enable the pendragon group to sell demonstrator cars second hand under the margin scheme in circumstances where vat had not only been previously charged but fully recovered.
+the result was that no net charge to vat was ever suffered, except on the small or non existent profits realised on the resale.
+a system designed to prevent double taxation on the consideration for goods has been exploited so as to prevent any taxation on the consideration at all.
+i conclude that in that respect the kpmg scheme was contrary to the eu policy underlying the margin scheme, and that the first halifax test was satisfied.
+the second halifax test: transactions with the essential aim of obtaining a tax advantage 31.
+the first question which arises under this head is the nature of the evidence which may be relevant or admissible to prove the transactions essential aim.
+both parties sought to rely, in different ways, on extrinsic evidence.
+the commissioners sought to rely on the advantages claimed for the scheme by kpmg when selling it, and pendragon relied on the evidence of its group finance director mr forsyth about the companys reasons for entering into the scheme.
+since the purpose of a contract is not necessarily the same as its meaning, the evidence which is admissible to prove it cannot be limited to what would be admissible as an aid to construction.
+it may in an appropriate case include evidence not just of the background knowledge available to the parties, but of the financial position and objective commercial requirements of the party obtaining the tax advantage, the relationship between the participants, the reasonableness of the consideration, the mechanics of the performance, the normal course of the relevant business and potentially other matters.
+but the halifax test requires the essential aim of a transaction is to be determined by reference to objective factors.
+as advocate general maduro put it at para 87 of his opinion, this must not be confused with the subjective intention of the participants in those activities.
+much of the evidence which the parties deployed before the first tier tribunal could go only to pendragons subjective intention or motive, or kpmgs assumptions about the attractions of their scheme to their client.
+much of the rest was of no assistance in a case where tax planning was admitted to be part of the rationale of the scheme and transactions comprising it spoke for themselves. 32.
+the first tier tribunals findings show that the overall result of the kpmg scheme was to achieve five rational commercial objectives other than obtaining a tax advantage: (i) cars were acquired from the manufacturer for use within the group as demonstrator cars; (ii) pendragon diversified their sources of credit by adding the socit gnrale group to their circle of funders; (iii) the carrying cost of the cars was financed by credit provided for a period of up to 45 days by sgj; (iv) sgj was secured during that period by holding the assigned leases and title to the cars; and (v) the cars were resold second hand to consumers at some stage thereafter when pendragon had finished with them. 33.
+the selection as the funding bank of an offshore institution which was not a taxable person cannot in itself be regarded as objectionable.
+it is no part of the policy of the legislation that a party should be restricted in its freedom to select as its commercial partners firms whose place of residence gives dealings with them a tax advantage, even if that is the only reason for their selection.
+but it is not just the non resident status of sgj which enabled the tax advantage to be obtained.
+the particular method by which sgj was brought into the chain of contracts, involving successive transactions by which pendragon navigated its way from one vat exemption to another, was an unnecessary and artificial way of involving them.
+taking the scheme as a whole, its economic substance was that it was a sale and lease back, which is a perfectly ordinary commercial financing arrangement.
+but it had two special features.
+one was that instead of pendragon plc or a dealership company transferring the cars to the funding bank sgj and taking them back on lease, a captive leasing company was interposed at step 2 as the lessor, which then leased the cars to the dealership companies and assigned the leases and title to the cars to sgj at step 3.
+the other special feature was that instead of the leases being brought to an end by the exercise of an option to purchase or by some other mode of termination, another captive company (captive co 5) was interposed at step 4 to take a transfer of sgjs leasing business (or a discrete part of it) comprising the leases, title to the cars and the associated goodwill.
+each of these two features was essential to the tax efficacy of the kpmg scheme.
+the second was essential in order to bring captive co 5s acquisition of possession within the gateway for assets acquired as part of a business transferred as a going concern.
+the first was essential because under article 8(2)(d) of the cars order the use of that gateway was available only if the transferor of the business had himself taken possession of the cars under one of the other gateways at paras (a), (b) or (c).
+the relevant one was (c), which included the assignment of rights under a hire purchase or conditional sale agreement.
+however, neither of these two special features of the scheme had any commercial rationale other than the achievement of a tax advantage.
+they were manifestly included not for the purpose of facilitating the obtaining of credit from sgj but for the sole purpose of legally recharacterising a transfer of cars without incurring net liability on the price. 34.
+the decisions below 35.
+that is not, however, the end of the matter, because the first tier tribunal concluded that neither of the two requirements laid down in halifax was satisfied and that the kpmg scheme was not abusive: [2009] ukftt 192 (tc).
+under sections 11 and 13 of the tribunals, courts and enforcement act 2007, an appeal lies from the first tier tribunal to the upper tribunal and from the upper tribunal to the court of appeal on points of law only.
+in addition, such an appeal is circumscribed by the ordinary principles applicable to any exercise of appellate i conclude that the second halifax test was also satisfied. jurisdiction.
+one of these is that unless vitiated by some error of principle a decision based on the evaluation of competing factors will generally be respected.
+the upper tribunal considered that the scheme was abusive and that the first tier tribunal had gone wrong in law.
+the court of appeal restored the decision of the first tier tribunal: [2014] stc 844.
+the leading judgment was given by lloyd lj, with whom lewison and gloster ljj agreed.
+he carefully examined the kpmg scheme and its component transactions, without expressing any concluded view of his own on the difference between the two tribunals conclusions about it.
+he considered that the first tier tribunals conclusion depended on an essentially evaluative exercise and that it had been entitled to find as it did. 36.
+as far as the first requirement was concerned the first tier tribunal did not accept that the rationale of article 26a was the avoidance of double taxation.
+this was because they considered, adopting pendragons submission, that that analysis was inconsistent with the articles definition of eligible transactions, which captured cases in which vat would not previously have been charged on the goods as well as cases in which it had been.
+the first tier tribunal did not therefore accept that the use of the margin scheme in this case was inconsistent with its purpose.
+turning to the second halifax requirement, they found that the kpmg scheme satisfied a genuine need to obtain secured finance from sgj and to diversify pendragons sources of credit.
+on that basis, the tribunal concluded (para 51) that the obtaining of finance in all the circumstances of the case was the predominant, principal or a central aim of the transactions, and we so find as a primary fact on the basis of objective factors. 37.
+the upper tribunal held that both halifax tests were satisfied: [2012] ukut in my opinion the kpmg scheme was an abuse of law. 42.
+the simplest redefinition which corrects the abusive features of the scheme is to strip out the four captive leasing companies (which leased the cars to the dealership companies at step 2 and assigned the leases to sgj at step 3), and captive co 5 (which took the transfer of sgjs leasing business at step 4 and sold the used cars to the consumer at step 5).
+instead, it will be assumed (i) that the cars were sold by pendragon plc to the dealership companies; (ii) that the dealership companies sold them to sgj and then took them back from sgj on lease; (iii) that the lease term was 45 days (the maximum period for which finance was provided under the actual arrangements); (iv) that the final payment repaid the capital amount of the sgjs advance with interest; (v) that title in the cars passed back to the dealership companies seven days thereafter (the interval after the termination of the leases actually agreed for the exercise of the option to purchase); and (vi) that the dealership companies then sold them as used cars to consumers.
+on that footing, the dealership companies should have accounted for output tax on a sale to sgj, and reclaimed input tax including the tax incurred on the purchase from pendragon.
+article 8(2) of the cars order will not apply, and the dealership companies will be accountable for vat on the full second hand price.
+conclusion 43.
+i would allow the appeal.
+any other vat consequences of the redefined transaction which cannot be agreed between the parties should be referred to the first tier tribunal for determination.
+i would invite the parties to agree an appropriate form of declaration, or in default of agreement to make submissions on the form of declaration in writing within two weeks.
+lord carnwath: (with whom lord neuberger, lord sumption, lord reed and lord hodge agree) 44.
+i agree that the appeal should be allowed for the reasons given by lord sumption.
+i add a brief comment only in respect of lloyd ljs comments on the role of the upper tribunal in an appeal of this kind: [2013] ewca civ 868. 45.
+he identified the principal question on the appeal as being whether, in reversing the decision of the first tier tribunal the upper tribunal went beyond what is properly open to an appellate court or tribunal where facts have been found and evaluated by the court or tribunal from which the appeal is brought (para 6) later in his judgment, in a passage headed the proper approach of the appellate body (para 70ff), he referred to the often cited observations of lord radcliffe in edwards v bairstow [1956] ac 14, 33, on the role of the court when reviewing decisions on issues of fact by a lower tribunal.
+in the context of vat he found guidance in the judgments in procter & gamble v hmrc [2009] ewca civ 407; [2009] stc 1990, in which, as he put it, there had been an evaluative task on the evidence which was entrusted to the vat and duties tribunal, predecessor of the first tier tribunal in the present case, subject to an appeal on a point of law from there to the high court as now to the upper tribunal . (para 75) he quoted the words of jacob lj, who in the leading judgment had recorded the agreement of counsel that the focus of the debate should be on the decision of the tribunal, rather than that of the high court: for it is the tribunal which is the primary fact finder.
+it is also the primary maker of a value judgment based on those primary facts.
+unless it has made a legal error in that in so doing (eg reached a perverse finding or failed to make a relevant finding or has misconstrued the statutory test) it is not for an appeal court to interfere. (para 7) 46.
+applying the same approach to the present case, lloyd lj said: 77.
+accordingly, the first issue for us is whether the first tier tribunal erred in law in reaching the conclusion that the essential aim of the transactions was not to achieve the tax advantage.
+was that a conclusion to which it was entitled to come? the upper tribunal held that it had so erred.
+of course we need to look at the basis for the upper tribunal's decision but in the end our decision is as to whether the first tier tribunal went wrong, not (directly) whether the upper tribunal went wrong 47.
+mr pleming qc did not question the courts reliance on the proctor & gamble principles, in its consideration of whether the decision of the first tier tribunal disclosed an error of law.
+but he submitted that at the next stage, in looking at the consequences of such an error if found, the court failed to take account of the extended jurisdiction conferred on the upper tribunal by the tribunal, courts and enforcement act 2007, as compared to that of the high court on an appeal under the previous law.
+by section 12, where the upper tribunal finds that the making of the decision concerned involved the making of an error on a point of law, it is not obliged to remit the matter for redetermination by the first tier tribunal.
+instead it may itself remake the decision (section 12(2)(b)(ii)), and in doing so it may (a) may make any decision which the first tier tribunal could make if the first tier tribunal were re making the decision, and (b) may make such findings of fact as it considers appropriate. (section 12(4)). 48.
+this extended jurisdiction recognises that under the new tribunal system, established by the 2007 act, the upper tribunal is itself a specialist tribunal, with the function of ensuring that first tier tribunals adopt a consistent approach to the determination of questions of principle which arise under the particular statutory scheme in question. 49.
+in r (jones) v first tier tribunal (social entitlement chamber) [2013] uksc 19; [2013] 2 ac 48 (in a judgment agreed by the majority of the court), i spoke of the role of the upper tribunal in the new system: where, as here, the interpretation and application of a specialised statutory scheme has been entrusted by parliament to the new tribunal system, an important function of the upper tribunal is to develop structured guidance on the use of expressions which are central to the scheme, and so as to reduce the risk of inconsistent results by different panels at the first tier level. (para 41) this was consistent with the approach of the preceding white paper (paras 7.14 21), which had spoken of the intended role of the new appellate tier in achieving consistency in the application of the law, law for this purpose being widely interpreted to include issues of general principle affecting the jurisdiction in question.
+such a flexible approach was supported also by recent statements in the house of lords, in cases such as moyna v secretary of state for work and pensions [2003] 1 wlr 1929 and lawson v serco [2006] icr 250.
+in the latter case (para 34), lord hoffmann had contrasted findings of primary facts with the an evaluation of those facts to decide a question posed by the interpretation of the legislation in question: whether one characterises this as a question of fact depends upon whether as a matter of policy one thinks that it is a decision which an appellate body with jurisdiction limited to errors of law should be able to review. 50.
+the difficult concept of abuse of law as developed by the european court, though not strictly one of statutory construction, is a general principle of central importance to the operation of the vat scheme.
+it matters little whether it is described as involving an issue of mixed law and fact, or of the evaluation of facts in accordance with legal principle.
+however it is described, it was clearly one which was particularly well suited to detailed consideration by the upper tribunal, with a view to giving guidance for future cases.
+having found errors of approach in the consideration by the first tier tribunal, it was appropriate for them to exercise their power to remake the decision, making such factual and legal judgments as were necessary for the purpose, thereby giving full scope for detailed discussion of the principle and its practical application.
+although no doubt paying respect to the factual findings of the first tier tribunal, they were not bound by them.
+they had all the documentation before the first tier tribunal, including witness statements, and transcripts of the evidence and submissions, and detailed written and oral submissions.
+it is clear that they undertook a thorough exercise involving a hearing lasting six days. 51.
+against this background, it was unhelpful, in my view for the court of appeal to identify the main issue as to whether the upper tribunal went beyond its proper appellate role.
+the appeal to the court of appeal (under section 13) was from the decision of the upper tribunal, not from the first tier, and their function was to determine whether the upper tribunal had erred in law.
+that was best approached by looking primarily at the merits of the upper tribunals reasoning in its own terms, rather than by reference to their evaluation of the first tiers decision.
+true it is that the upper tribunals jurisdiction to intervene had to begin from a finding of an error of law.
+but that was not the main issue in the appeal, which was one of more general principle.
+indeed, given the difficulties of drawing a clear division between fact and law, discussed by lord hoffmann, it may not be productive for the higher courts to spend time inquiring whether a difference between the two tribunals was one of law or fact, or a mixture of the two.
+there may in theory be a case, where it can be shown that the sole disagreement between the two tribunals related to an issue of pure fact, but such a case is likely to be exceptional.
+in the present case, as lord sumption has shown, there were no significant issues of primary fact.
+the differences between the two tribunals related to the understanding of the abuse of law principle, and their evaluation of the facts in the light of that understanding.
+the upper tribunal reached a carefully reasoned conclusion on law and fact.
+the task of the court of appeal was to determine whether that conclusion disclosed any error of law. 90 (tcc).
+on the first halifax test, they considered that as a matter of construction and on the cjeu authorities, the purposes of the amendment which introduced article 26a into the sixth directive were the avoidance of double taxation and of distortion of competition, and that this was a proposition of law on which the first tier tribunal were wrong.
+it follows from what i have said that in my view the upper tribunal were right about this. 38.
+but that will not justify the upper tribunals conclusion unless they were also right about the second test.
+they overruled the first tier tribunal on that point for four reasons.
+first, they considered that the first tier tribunal had been too much influenced by inadmissible evidence of pendragons subjective intentions and had thereby departed from the objective test laid down in halifax.
+second, applying an objective test, the upper tribunal concluded that, prima facie, tax avoidance was the real reason why pendragon entered into the kpmg scheme, and the admissible evidence was insufficient to displace that conclusion.
+in particular, they regarded the use of an offshore bank as the source of finance as an artificial element of the scheme which served no commercial purpose.
+third, they considered that they were entitled to substitute their own view for that of the first tier tribunal because the essential aim of the kpmg scheme was at least partly a question of law.
+fourth, they considered that so far as it was a question of fact, the first tier tribunal was plainly wrong.
+in particular, they had not had regard to the scale of the tax advantage or the cost of the finance, or analysed in detail the component transactions. 39.
+in my opinion, the first tier tribunals conclusion on the second halifax test was wrong in law.
+my reasons overlap with those of the upper tribunal but do not wholly correspond with them.
+i think that while the first tier tribunals discussion of the evidence does not sufficiently distinguish between purpose and motive, it is difficult to demonstrate that this had a decisive effect on their reasoning.
+i have the strongest doubts about whether the scale of the tax advantage had the significance which the upper tribunal apparently attached to it.
+and for reasons which i have given, i do not consider that the choice of an offshore bank was in itself abusive.
+to my mind, the objection to the reasoning of the first tier tribunal is more fundamental.
+they approached their task at too high a level of generality.
+they observed, quite correctly, that the secured financing of carrying costs through a bank was an ordinary commercial arrangement.
+they identified a number of commercial objectives which they regarded as explaining why pendragon entered into the scheme.
+but they did not ask themselves whether pendragons commercial objectives explained the particular features of the transactions which produced the tax advantage.
+in particular, they did not ask themselves whether they explained the particular method by which the bank was involved at steps 2, 3 and 4.
+this meant that they did not answer the critical question on which, in point of law, the identification of the essential aim depended.
+if they had done, they would have been bound to conclude that the features which produced the tax advantage had no other rationale. 40.
+redefinition 41.
+it follows that the transactions fall to be redefined so as to re establish the situation that would have prevailed in the absence of the transactions constituting that abusive practice: halifax, para 98.
+the redefinition is purely notional.
+its effect is not to alter retrospectively the terms of the transactions, but simply to entitle the commissioners, as between themselves and the taxpayer, to treat them for the purpose of assessing vat as if their abusive features had not been present: see revenue and customs commissioners v newey (case c 653/11) [2013] stc 2432, paras 50 51.
+the object of any redefinition in this case must be to deprive the taxpayer of the illegitimate advantage of paying vat only on their profit margin on the resale of the cars to the consumer.

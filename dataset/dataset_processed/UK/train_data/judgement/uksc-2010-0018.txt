@@ -1,0 +1,325 @@
+this appeal is concerned with the long standing principle of insolvency law known as the rule against double proof.
+it originated in the law of individual bankruptcy but has since the companies act 1862 applied to the winding up of companies.
+it now extends to distributions made by administrators under para 65 of schedule b1 to the insolvency act 1986 as substituted by the enterprise act 2002.
+like the anti deprivation rule recently considered by the supreme court in belmont park investments pty ltd v bny corporate trustee services ltd [2011] uksc 38, [2011] 3 wlr 521, the rule against double proof is implicit in the insolvency act 1986.
+in the words of neuberger j in in re glen express ltd [2000] bpir 456, 461, it remains good law.
+it is an overarching principle which still applies to insolvency, and nothing in stein v blake [1996] ac 243 calls it into question.
+the facts
+the appeal is concerned with distributions made and to be made by the administrators of kaupthing singer & friedlander ltd (ksf), a bank which went into administration during the financial crisis in october 2008.
+the disputed issues as to the rule against double proof arise, as is generally the case, in the context of suretyship.
+ksf has a wholly owned subsidiary named singer & friedlander funding plc (funding), which is also in administration.
+fundings sole function was to raise funds for use by ksf and other group companies.
+in 2005 funding issued 250m floating rate notes repayable in 2010.
+they were constituted under a trust deed dated 9 february 2005 made between funding, ksf (then named singer & friedlander ltd) and hsbc trustee (ci) ltd (the trustee).
+by clause 7 of the trust deed ksf guaranteed payment of principal and interest on the notes and performance of fundings other obligations under the trust deed.
+the correct construction of clause 7 (and in particular the non competition provisions in clause 7.7) is one of the issues in the appeal.
+the net proceeds of the notes (approximately 249.5m) were advanced by funding to ksf by way of unsecured loan.
+when ksf went into administration on 8 october 2008 it owed funding approximately 242.6m.
+when funding went into administration on 15 october 2008 the amount of principal prospectively due on the notes was (following the buyback and cancellation of some of the notes during 2008) approximately 240.3m.
+on 23 march 2009 the trustee gave notice that an event of default had occurred in respect of the notes.
+the effect of this was that the notes became immediately due and payable, and the obligations of funding (as principal debtor) and ksf (as guarantor) came into immediate effect.
+on 28 april 2009 the trustee submitted to fundings administrators, and also to ksfs administrators, proofs of debt for principal and interest in respect of the loan notes in the sum of approximately 248.1m in each case.
+those proofs have been admitted.
+on 8 may 2009 funding submitted a proof in respect of its loan to ksf in the sum of approximately 242.6m.
+ksfs administrators have indicated that, subject to the issues raised in this appeal, they intend to admit fundings proof.
+on 20 may 2009 ksfs administrators gave notice of their intention to make distributions in the administration, including distributions to ordinary unsecured creditors.
+this notice was given under rule 2.95 of the insolvency rules 1986 (si 1986/1925) as amended, and with the permission of the court granted by an order of henderson j made on 24 april 2009.
+ksf has numerous creditors who have already received dividends amounting to 58p in the pound (or in the case of funding, had provision made for payment, subject to this appeal).
+by contrast funding has only one creditor other than the trustee, that is hm revenue and customs, which has proved for the relatively trivial sum of 2,654.10.
+funding has no assets other than its loan to ksf.
+it has an issued capital, fully paid up, of only 12,500.
+the administrators of funding have not given notice of an intention to make distributions in their administration.
+mr dicker qc, for the administrators of ksf, drew attention to this fact but did not take any point on it.
+the proceedings
+this is a leapfrog appeal to the supreme court under section 12 of the administration of justice act 1969 as amended.
+the administrators of ksf applied to the chancery division for directions.
+the matter came before sir andrew morritt c.
+at the hearing the trustee recognised that the chancellor was bound by the decision of the court of appeal in in re sssl realisations (2002) ltd [2006] ewca civ 7, [2006] ch 610 (sssl), in which the court of appeal had in comparable circumstances applied the equitable principle known as the rule in cherry v boultbee (1839) 4 my & cr 442.
+the only issue argued before the chancellor was whether clause 7.7 of the trust deed excluded that rule.
+but the trustee made clear its intention to argue in the supreme court, if granted permission to appeal, that sssl was wrongly decided.
+fundings administrators were joined in the proceedings but were not represented.
+the chancellors order dated 18 december 2009 declared that the rule in cherry v boultbee was not excluded and directed that the administrators of ksf might rely on it unless and until ksfs right to indemnity (as a surety) had been satisfied in full.
+he granted a certificate under section 12 of the 1969 act that there was a point of law of general public importance on which he was bound by a fully considered judgment of the court of appeal.
+the supreme court gave the trustee permission to appeal.
+both sets of administrators are respondents to the appeal but, again, fundings administrators have not been represented.
+the rule against double proof
+the expression the rule in cherry v boultbee suggests a technical rule of some complexity.
+any such impression would be misleading.
+it is basically a simple technique of netting off reciprocal monetary obligations, even where there is no room for legal set off, developed and used by masters in the court of chancery in giving directions for the administration of the estates of deceased persons.
+complication arises only in a situation of insolvency, where the equitable rule produces a different outcome from that produced by statutory set off (see para 43 below).
+this appeal ultimately turns on what function, if any, the equitable rule has to perform in the operation of the rule against double proof as it applies in suretyship situations.
+the appellant trustee, on behalf of the noteholders, submits that it would be irrational and unfair to apply it in circumstances in which there is clear house of lords authority (secretary of state for trade and industry v frid [2004] ukhl 24, [2004] 2 ac 506) that statutory set off does not apply.
+the active respondents, the administrators of ksf, submit that its application is required by two decisions of the court of appeal, in re melton [1918] 1 ch 37 and sssl [2006] ch 610, and that they were rightly decided.
+the starting point in understanding and resolving this issue must be, not cherry v boultbee, but the rule against double proof as it applies to suretyship.
+one of the earliest judicial expositions of that rule was by mellish lj in in re oriental commercial bank (1871) lr 7 ch app 99, 103 104: but the principle itself that an insolvent estate, whether wound up in chancery or in bankruptcy, ought not to pay two dividends in respect of the same debt appears to me to be a perfectly sound principle.
+if it were not so, a creditor could always manage, by getting his debtor to enter into several distinct contracts with different people for the same debt, to obtain higher dividends than the other creditors, and perhaps get his debt paid in full.
+i apprehend that is what the law does not allow; the true principle is, that there is only to be one dividend in respect of what is in substance the same debt, although there may be two separate contracts.
+the function of the rule is not to prevent a double proof of the same debt against two separate estates (that is what insolvency practitioners call double dip).
+the rule prevents a double proof of what is in substance the same debt being made against the same estate, leading to the payment of a double dividend out of one estate.
+it is for that reason sometimes called the rule against double dividend.
+in the simplest case of suretyship (where the surety has neither given nor been provided with security, and has an unlimited liability) there is a triangle of rights and liabilities between the principal debtor (pd), the surety (s) and the creditor (c).
+pd has the primary obligation to c and a secondary obligation to indemnify s if and so far as s discharges pds liability, but if pd is insolvent s may not enforce that right in competition with c. s has an obligation to c to answer for pds liability, and the secondary right of obtaining an indemnity from pd.
+c can (after due notice) proceed against either or both of pd and section if both pd and s are in insolvent liquidation, c can prove against each for 100p in the pound but may not recover more than 100p in the pound in all.
+the primary purpose of the rule has been described as the protection of other creditors of pd against unfair treatment by an arrangement under which there are multiple creditors in respect of the same debt: swinfen eady lj in in re melton [1918] 1 ch 37, 48 citing mellish lj in in re oriental commercial bank.
+there is a full discussion of the purpose and scope of the rule in the judgment of oliver lj in barclays bank ltd v tosg trust fund ltd [1984] ac 626, 636 644.
+the much quoted example given by mellish lj may seem surprising, since in a suretyship situation there are on the face of it two debtors and one creditor.
+but the surety is also potentially a creditor of the principal debtor, because of his right to an indemnity.
+the effect of the rule is that so long as c has not been paid in full, s may not compete with c either directly by proving against pd for an indemnity, or indirectly by setting off his right to an indemnity against any separate debt owed by s to pd.
+the position was summarised by lord hoffmann, with whom the rest of the appellate committee agreed, in secretary of state for trade and industry v frid [2004] 2 ac 506, para 13, commenting on in re fenton (no 1) [1931] 1 ch 85: in re fenton, ex p fenton textile association ltd [1931] 1 ch 85 was another case of a surety under a pre insolvency guarantee, but this time he had not actually paid.
+nor could he pay, because he was bankrupt and his assets had vested in his trustee.
+the creditor was still owed the money and entitled to prove in the liquidation.
+the court of appeal held, first, that one could not have more than one proof in respect of the same debt (the rule against double proof); otherwise, if there had been, say, four guarantors, there could have been five people receiving dividends on the same debt.
+secondly, the court of appeal said that until the creditor had been paid, he had the superior right of proof and a proof by a surety was excluded.
+thirdly, the court said that a debt which could not be proved could not be relied upon for set off.
+there is no longer doubt about any of these propositions.
+but the judgments of lawrence and romer ljj make it clear (that of lord hanworth mr is a little obscure) that if the guarantor had paid off the debt after the insolvency date, he would have been entitled to set it off against a debt which he owed to the company.
+the rule in cherry v boultbee
+after that brief introduction to double proof (it will be necessary to return to it in more detail) it is appropriate to go back in time to the origins and development of the equitable rule.
+the rule was described as follows by kekewich j in in re akerman [1891] 3 ch 212, 219: a person who owes an estate money, that is to say, who is bound to increase the general mass of the estate by a contribution of his own, cannot claim an aliquot share given to him out of that mass without first making the contribution which completes it.
+nothing is in truth retained by the representative of the estate; nothing is in strict language set off; but the contributor is paid by holding in his own hand a part of the mass, which, if the mass were completed, he would receive back.
+that is expanding what the lord chancellor calls in cherry v boultbee a right to pay out of the fund in hand, rather than a set off.
+in re akerman was not an insolvency case.
+the issue was whether in the division of the testators residuary estate three of the testators seven children had to bring into account statute barred debts due to the estate.
+it was held that they were bound to bring them into account.
+the early cases on the rule were mostly concerned with testamentary gifts in favour of relatives who were debtors of the testator (or testatrix).
+some of them became bankrupt.
+three points should be noted.
+first, it was only later, and by analogy, that the rule was extended to cases not concerned with the administration of deceased persons estates.
+second, the beneficiarys bankruptcy sometimes occurred before, and sometimes after, the death on which the testamentary disposition took effect, and the sequence of events may make a difference.
+third, very few of the early cases involved suretyship.
+the earliest case that calls for mention is jeffs v wood (1723) 2 p wms 128.
+jeffs senior made a will appointing his son jeffs junior as his executor and leaving a legacy of 500 to his nephew wood, who was indebted to the testator in a smaller sum.
+wood was made bankrupt after the testators death, but before the legacy had been paid.
+sir joseph jekyll mr directed the executor to pay wood the balance of the legacy after retention by the executor of the full amount of woods debt to the testator.
+if jeffs v wood is (as some authorities have suggested) the first clear application of the equitable rule, then cherry v boultbee (1839) 4 my & cr 442, which has given its name to the rule, is an illustration of how it operates differently where the beneficiary became bankrupt before the will took effect.
+the facts are more fully stated in the first instance report, 2 keen 319.
+thomas boultbee owed 1,878 to his sister catherine, who left him legacies totalling 2,500.
+he became bankrupt in 1821.
+she died in 1823, and thomass assignee in bankruptcy claimed the legacy from catherines executors.
+lord cottenham lc held that the executor could deduct from the legacies (which had in any event abated) only so much of the debt as would have been paid as a dividend in thomass bankruptcy (in which catherine had not proved).
+the reasoning behind the different outcome in the later case appears at p 447: the bankruptcy of the debtor having taken place in the lifetime of the testatrix, her executors were never entitled to receive from the assignee more than the dividends upon the debt.
+the underlying principle appears even more clearly in later cases.
+in willes v greenhill (no 1) (1860) 29 beav 376 the testator had in 1830 backed a bill for his son henry.
+it was dishonoured, and after the testators death in 1832 his executors met the liability.
+henry had a one sixth interest, subject to his mothers life interest, in the residuary trust fund.
+henry mortgaged this interest and the mortgage was transferred to willes.
+the issue of priority in the distribution of henrys share arose on the widows death in 1849.
+sir john romilly mr held that the executors right to make an adjustment to indemnify themselves took priority to the rights of the mortgagee.
+it was not a bankruptcy case, but it brings out the proprietary character of the rights of those who participate (whether as creditors, legatees or shareholders) in the distribution of a fund held or administered by fiduciaries.
+the inception of the administration (or bankruptcy, or liquidation) crystallises the position, and persons who were previously unsecured creditors obtain proprietary interests of a sort (though they may ultimately prove worthless because others take priority).
+the rule was applied in the compulsory liquidation of a company in in re rhodesia goldfields ltd [1910] 1 ch 239.
+partridge, a director of the company who held some of its debenture stock, was facing a serious misfeasance claim which had not yet been resolved.
+set off was therefore not available.
+but swinfen eady j said (at p 247) that it would be a strange travesty of equity to hold that in distributing the fund partridge was entitled to be paid at once all that was due to him out of the companys money, and subsequently to find, after it had been established that he owed money to the fund, that the amount could not be recovered from him.
+payment of what was due to partridge and his assignees was therefore deferred until the claim against him was resolved.
+the rule was applied again by sargant j in in re peruvian railway construction co ltd [1915] 2 ch 144 (upheld by the court of appeal in brief judgments [1915] 2 ch 442).
+william alt died insolvent in 1908.
+his estate included shares in the company, which went into voluntary liquidation in 1914.
+alt was indebted to the company in the sum of 2,633 (as certified by the master in the administration of the insolvent estate).
+it was held that in the distribution of the companys surplus assets the liquidator could retain out of the fund, on account of alts debt, only the amount of the dividend on the debt.
+sargant j distinguished other cited authorities (at p 153) as having an entire absence of the special feature present in cherry v boultbee and in the case before me, namely, the insolvency of the original debtor before the right of retainer or quasi set off had first arisen.
+sargant js judgment contains a full review of the authorities.
+these included in re auriferous properties ltd (no 2) [1898] 2 ch 428 and in re west coast gold fields ltd [1905] 1 ch 597.
+these cases concerned claims made in liquidations by creditors who were also holders of shares which were not fully paid up.
+in each case it was held, following the seminal decision of lord chelmsford lc and the lord justices in in re overend gurney & co (grissells case) (1866) lr 1 ch app 528, that the claimant could recover nothing as a creditor until all his liability as a contributory had been discharged.
+buckley j said in in re west coast gold fields ltd [1905] 1 ch 597, 602 (where the shareholder was bankrupt but the company solvent and in voluntary liquidation): the right view is that the person liable as contributory must discharge himself in that character before he can set up that, as a creditor, he is entitled to receive anything, and a fortiori, as it seems to me, before he can set up that, as a contributory, he is entitled to receive anything.
+that decision was upheld by the court of appeal in a brief judgment of the court [1906] 1 ch 1.
+the payment up of the shares in full was a condition precedent to any participation in the distribution of surplus assets.
+in this appeal the appellants case is that payment off in full of the trustee as creditor is a condition precedent to the admission of any proof against funding by ksf as surety.
+in re melton, in re fenton (no 1) and in re fenton (no 2)
+in re melton [1918] 1 ch 37 and the two cases of in re fenton (no 1) [1931] 1 ch 85 and (no 2) [1932] 1 ch 178 are discussed at length in the judgment of chadwick lj in sssl (paras 69 91) and in re melton was the principal authority relied on in the court of appeals reasoning in sssl.
+it is therefore necessary to look at these cases, and especially in re melton, in some detail.
+the facts of in re melton were quite complicated and it is important to note the sequence of events.
+richard melton was married, with one son arthur, and three daughters.
+in 1901 richard and another surety gave a joint and several guarantee in respect of arthurs bank overdraft, limited to 500.
+richard died in 1907.
+by his will he settled his real estate on his wife for life and then on trust for sale for his four children in equal shares.
+his personal estate was very small.
+in 1910 arthur mortgaged his one quarter interest in expectancy to the bank.
+in 1911 arthur absconded and later in that year he was adjudicated bankrupt.
+he then owed the bank 1,057.
+the bank valued its security at 158 and proved for the balance.
+it received a dividend of 494 in arthurs bankruptcy.
+by then both sureties were dead and the bank called on their respective executors to pay 500, with interest from the date of demand.
+the other set of executors paid 250 and their share of the interest.
+richards executors had no funds available and had to go to court for power to raise money on the settled real estate.
+they obtained authority, raised 420, and paid 313 to the bank, representing 250 together with interest.
+in 1916 the widow died and the trust for sale arose.
+the land was sold for about 1,600 net of the mortgage and costs.
+three quarters of the fund was distributable to the daughters.
+arthurs mortgaged quarter share had been sold by the bank and purchased by frances, the deserted wife of the absconding arthur.
+the question was whether frances, as assignee of arthurs original interest, must bring into account the 313 paid by the executors to the bank.
+astbury j held that she must.
+frances appealed.
+the daughters opposed her appeal.
+the executors were neutral, and neither arthurs trustee in bankruptcy nor the bank was a party.
+in the court of appeal all three members of the court (swinfen eady, warrington and scrutton ljj) delivered full judgments.
+all of them attached great weight to the sequence of events.
+the testator had before his death incurred a potential liability as surety to the bank, with a concomitant potential right to indemnity if the surety was called on to pay, and the bank was (by one means or another) paid off in full.
+the law report does not state in terms that the bank was paid off in full, but both the statement of facts, and the judgments, seem to proceed on the basis that the bank had no further claim against either the surety or the estate of the principal debtor.
+the testators potential liability was a liability which affected the administration of his estate prior to arthurs bankruptcy, and it matured into an immediate liability when the bank called on the executors to pay, and 313 was eventually paid.
+similarly the potential right to an indemnity was a contingent asset of the estate prior to arthurs bankruptcy, and it matured into an immediate claim when the 313 was paid, apparently in full and final satisfaction of the banks claims against anyone.
+the proprietary character of the rights (or equities) arising from this sequence of events was reflected (though expressed in rather different terms) in all three judgments in the court of appeal in in re melton [1918] 1 ch 37.
+swinfen eady lj stated at p 52 (speaking of in re binns [1896] 2 ch 584, a comparable case where there were two sons made bankrupt after the death of their father, the surety): the fallacy is that at the date of the bankruptcy what was claimed was not part of the debtors estate.
+an equity that the testators estate should be indemnified in respect of his liability under the guarantee arose at his death; and when the sons became bankrupt there was already an equity subject to which the trustees in bankruptcy took the sons interests; and the trustees in bankruptcy took nothing more than the debtors had, and the debtors interests under the will were subject to this equity.
+in this passage the word equity is used three times.
+it is not fully explained but it emphasises that an unsecured right of indemnity had, on the testators death, acquired some sort of proprietary character.
+similarly warrington lj stated, at p 57: what the trustees are here claiming never was distributable amongst the creditors of the bankrupt at all.
+i think, therefore, in the present case, on the simple ground that the right of the trustees to retain is in respect of something which at the date of the bankruptcy did not form part of the estate distributable amongst the creditors of the bankrupt, the trustees are still entitled to the right they then had.
+if it were necessary for the purposes of this decision i do not think it is i should, as at present advised, be prepared to say that the trustees in respect of their claim are in the position of secured creditors; for their right, as expressed by the lord chancellor in cherry v boultbee, seems to me to have all the characteristics of a depository lien.
+scrutton lj reached the same conclusion, though he saw it in less definitely proprietary terms (at p 60): speaking for myself, i am not prepared to say that this right of the executor is a mortgage, charge or lien.
+i do not wish finally to decide that, because the question may directly arise in other cases, but, as at present advised, i do not see how that can be called a lien.
+equally, however, i see nothing in section 7(1) of the bankruptcy act 1914, to prevent the exercise of this right; it is not the use of a remedy against the property or person of the debtor, which the creditor is forbidden to make use of, unless he is a secured creditor.
+it appears to me to be simply a right to see that the person who claims a share of the testators estate claims only the proper share .
+so the appeal was dismissed.
+in in re melton all three members of the court considered that the case of in re binns [1896] 2 ch 584 had been wrongly decided, and was based on a fallacy which had already been exposed in midland banking co v chambers (1869) lr 4 ch app 398.
+this point played an important part in the reasoning of swinfen eady lj (at pp 51 52) and warrington lj (at pp 56 57).
+midland banking co v chambers and in re binns were both cases concerned with insolvency and suretyship, but with the further element of security being provided in the earlier case by pd to s, and in the later case by s to c.
+in the earlier case thorpe gave the bank a guarantee, limited to 300, of mercers overdraft.
+the guarantee was given in 1865.
+in 1866 mercer made an assignment to trustees for his creditors, which was equivalent to bankruptcy.
+at some time before then mercer granted thorpe a mortgage to indemnify him.
+mercers overdraft stood at 410.
+the trustees sold the mortgaged property and paid thorpe 300, which he paid to the bank.
+the issue between the bank and the trustees was whether the bank could prove for 410 or only 110.
+it was not argued that the security was a fraudulent preference.
+malins v c held that the bank could prove for the full sum, and the trustees appealed.
+the lord justices dismissed the appeal.
+the trustees argued that the 300 had been paid out of pds estate, but that was dismissed as a fallacy because s had the benefit of a valid security granted prior to the bankruptcy.
+giffard lj said (at p 402) that the 300 was paid out of something which, having before the execution of the creditors deed been dedicated to the purpose of indemnifying the surety, was not, at the time of the execution of that deed, part of the debtors estate.
+there was also a question of construction of the guarantee which both courts resolved in favour of the bank.
+in in re binns the security was the other way round.
+in 1894 william binns deposited 2,400 in his own name with the bank where two of his sons, who traded as j & f binns, had an overdraft.
+william signed a letter in these terms: i hereby declare that my deposit of 2,400 is lodged with you as a continuing security for any amount that may from time to time be owing to you by j & f binns.
+in 1895 william died leaving each son a legacy and a one sixth share of his residuary estate.
+the overdraft then stood at 8,858.
+a few months later the sons were made bankrupt.
+the bank proved for the whole overdraft debt but was unlikely to receive more than about 3,300 by way of dividend.
+it had not yet appropriated the 2,400 deposit but it was accepted that it would do so.
+the issue was between the sons trustees in bankruptcy, who contended that the sons beneficial interests under the will were assets available for their creditors, and the trustees of the fathers will, who contended that they could retain the sons beneficial interests in order to indemnify the fathers estate against the 2,400 which he had deposited.
+the trustees in bankruptcy were represented by mr swinfen eady qc, who argued that the trustees of the will had no right to prove in the bankruptcy, because the bank had proved for the whole overdraft debt and it was gone (in the sense, it seems, of being incapable of proof again, because of the rule against double proof).
+this argument was accepted by north j.
+he said (at p 588, but using pd, s and c): but the difficulty in [ss] way is this that there is no debt in respect of which [s] can at present claim to retain anything as against [pd].
+the claim against [pd] is made by [c]; and [s] cannot as against [c] set up an adverse claim of any kind.
+no doubt when [c] have been paid in full the position of matters would be different .
+north j went on to explain that, on the facts, there was no real prospect of the bank ever being paid in full.
+warrington lj criticised north j in in re melton (at p 57) but he was mistaken in his premise (at p 56) that the facts of in re binns were undoubtedly, for all substantial purposes, identical with those of in re melton.
+in in re melton the bank had been paid in full; in in re binns the bank had not been paid in full, and was never going to be paid in full.
+moreover in in re melton there was no question of anything in the testators estate going to the bankrupt sons trustee: his interest had been mortgaged and then sold and frances (the deserted wife) was a purchaser for value (but only of an equitable interest, and with notice of the equity of indemnification).
+in in re binns, by contrast, the sons interests under their fathers will were available to their trustees in bankruptcy, and the diversion of those interests to other members of the family would have meant that s was in competition with c while cs claims had not been fully satisfied.
+there is also the question why swinfen eady lj, having won in re binns as leading counsel about 20 years before, said in his judgment in in re melton that it was fallacious and wrongly decided.
+the relevant passage is at pp 51 52 and it is not at all easy to follow.
+swinfen eady lj said twice that north j fell into the same fallacy as was exposed by giffard lj in midland banking co v chambers, but the facts and the issues in that case were quite different.
+in the later case s had provided security to c; in the earlier case pd had provided security to s, and the security had been dealt with in an unusual way (by a mortgagors sale, not a mortgagees) which left room for argument about where the 300 should be treated as coming from.
+the reasoning in in re melton does not satisfy me that in re binns was wrongly decided.
+that does not however cast any doubt on the correctness of the decision in in re melton, the facts of which were quite unusual.
+i come next to the two fenton cases.
+fenton had a large holding of shares in a company (referred to as the association) which owned woollen mills.
+he was also heavily indebted to the association.
+in 1921 he made an arrangement with his creditors and the association submitted a proof for over 550,000, subsequently reduced to about 423,000.
+fenton had entered into four limited guarantees of bank loans in respect of which the association was the principal debtor.
+the total liabilities under these guarantees amounted to 166,795, which his trustee sought to set off against the debt proved by the association.
+the association itself went into compulsory liquidation in 1923.
+the banks were unsecured creditors of the association and only one of them proved in the liquidation, because there was going to be nothing left for unsecured creditors (this was established in the court of appeal; at first instance the judge was told that none of the banks had proved).
+the banks proved against fenton for the total sum of 166,795.
+luxmoore j at first instance permitted the set off in full.
+the court of appeal unanimously allowed an appeal by the associations liquidator.
+the judgment of lord hanworth mr is a little obscure (as lord hoffmann put it in secretary of state for trade and industry v frid [2004] 2 ac 506, para 13).
+much of it was concerned with a discussion of the need for mutuality in set off; but in the final passage (at pp 109 110) he referred to in re oriental commercial bank (1871) lr 7 ch app 99, 103 and relied on the rule against double proof.
+so did lawrence lj at p 114, addressing the situation where both principal debtor and surety are bankrupt: the reason why, in my opinion, such a claim . cannot be set off is because so long as the estate of the principal debtor remains liable to the principal creditor the surety will not be permitted to prove against the estate of the principal debtor, as such a proof would be a double proof for the same debt, and would therefore be inadmissible as being contrary to the established rule in bankruptcy.
+romer lj agreed.
+he said at pp 119 120: in the present case, if fenton, not having paid the banks anything under his guarantee, were entitled to prove in the winding up of the association, or if, having paid them less than the amount due to them, he were to prove for the amount so paid, and the banks were also to prove in the winding up of the association for the full sum due to them, as they would be entitled to do, the estate of the association would be subjected to more than one proof in respect of the same debt, and this is not permissible.
+a further issue in the liquidation of the association came before luxmoore j a year later: in re fenton (no 2) [1932] 1 ch 178.
+fentons trustee in bankruptcy had declared a dividend of one shilling (5p) in the pound and the question was whether the trustee could withhold the associations dividend because of fentons liability on his guarantees to the banks, and his potential right to an indemnity.
+the judge held (rather surprisingly, in view of the passage from romer ljs judgment quoted above) that this point had not been decided by the court of appeal.
+the argument for fentons trustee was that so long as the association was indebted, either immediately or contingently, to fentons estate, the association should receive no dividend, despite the fact that it had proved for a separate liability of 423,000.
+luxmoore j rejected this for essentially the same reason as the court of appeal had rejected set off in the earlier proceedings (at pp 187 188): but the position is further complicated by the fact that the banks have already proved or are entitled to prove against the assets of the association in respect of the whole of the sum guaranteed, and consequently if the trustee of the deeds of arrangement should retain out of the dividend payable to the association a sum equal to the dividend on the total amount due to the banks under the guarantee, there would in effect be an allowance against the association of two dividends in respect of what is for all practical purposes the same debt, and so the rule against double proof would be infringed.
+in other words s (fentons estate) would be competing with c (the banks, which had not been, and never were going to be, paid in full) in claiming (whether directly or by set off or retention) against pd (the association).
+the court of appeal in sssl held that in re fenton (no 2) was wrongly decided.
+sssl: introduction
+both the facts and the issues in sssl were complicated.
+remarkably, the point now at issue was not raised at all at first instance, and so the supreme court has not been referred, except in passing, to the judgment of lloyd j [2004] ewhc 1760 (ch), [2005] 1 bclc 1.
+the numerous issues that lloyd j did have to resolve turned largely on the correct construction and legal effect of a subordination (or non competition) clause in a deed of indemnity entered into by six companies in the group headed by save group plc (group) in favour of aig europe (uk) ltd (aig).
+the group traded as petrol retailers and aig provided a bond for payment of excise duty to hmrc, so enabling liability for duty to be deferred.
+the deed of indemnity related to the bond and the companies that gave the indemnity included group and its subsidiary, then called save service stations ltd, later renamed sssl realisations (2002) ltd (stations).
+stations owned most of the fixed assets of the petrol retailing business.
+there were substantial inter company debts.
+group had a treasury function and stations owed large sums to group both for loans and for petrol products bought by group and sold on to stations.
+in 2001 group and all its subsidiaries went into administration.
+later group went into compulsory liquidation and stations into creditors voluntary liquidation.
+in early 2004 both sets of liquidators made separate applications to the court for directions.
+issues were agreed and heard by lloyd j in june 2004.
+on 27 july 2004 he held that group was not entitled to prove for the debt due to it from stations.
+that is a very brief summary of the practical result of a long judgment which covered numerous issues, not including the rule in cherry v boultbee.
+the rule was raised in a respondents notice served by stations in response to groups notice of appeal.
+the point was raised contingently, against the event that the court of appeal were to hold that groups liquidators could disclaim its contract with aig.
+in the event the court of appeal upheld lloyd j on the disclaimer point, and every other point, and dealt with cherry v boultbee only because the issue had been fully argued, and chadwick lj (para 68) thought it sensible to address it.
+when the present case came before the chancellor it was not disputed that sssl should be treated as a binding precedent.
+in sssl chadwick lj gave the only judgment in the court of appeal [2006] ch 610, with which jonathan parker lj and etherton j agreed.
+in his judgment he introduced the rule in cherry v boultbee in paras 11 17, 20 25 and 31, but his main reasoning about the rule is in paras 68117.
+before coming to those paragraphs i would note parenthetically that in sssl the court of appeal had detailed evidence as to the assets and liabilities of the various group companies, and chadwick lj was at pains to explain the financial implications of the issues.
+that was no doubt appropriate in a case in which the court was being asked to grant an injunction.
+in this appeal, by contrast, the supreme court has no relevant documentary evidence (the only exhibit to the sixth witness statement of mr brazzill, one of the administrators of ksf, included in our papers is the offering circular published by funding, which is now ancient history), and mr moss qc, for the trustee, was not eager to go into the figures.
+i make no complaint about that, as the court has to decide the point as a matter of principle.
+mr moss did tell us that the trustee will recover about 84% of its claim if it loses the appeal completely, and 100% if it wins either on cherry v boultbee or on the point of construction which the chancellor decided against the trustee.
+apart from that we know that funding has no assets other than the debt owed to it by ksf, and no significant creditors other than the trustee; and that ksf has numerous creditors and has so far paid (or reserved) dividends totalling 58p in the pound.
+above all it is essential to bear in mind, in order to avoid confusion, that although this appeal raises the same legal issue as was raised in sssl the factual context is different.
+in sssl pd was the parent company, group, and s was (among other subsidiaries) stations; and (apart from any question of indemnification of s) s owed pd about 70m.
+in the present appeal pd is the subsidiary, funding; s is the parent company, ksf; and (apart from any question of indemnification) s owes pd about 242m.
+in his judgment chadwick lj was also at pains to explain the operation of the rule in cherry v boultbee in mathematical notation which, if i may respectfully say so, tends to suggest that the rule is a branch of rocket science.
+the disparity between the results of the examples in para 13 of his judgment is simply the difference between netting off at 100p in the pound and netting off at the appropriate dividend rate.
+in the example set off means that the debtor beneficiary gets 1,818, that is 100p in the pound worth of set off, and 90.9p in the pound for the balance of 2,000 due from the bankrupts estate.
+the equitable rule means that he gets 1,750, that is 91.7p in the pound for the whole 3,000 due to him, with 1,000 treated as already in his hands.
+where the equitable rule applies the rate of dividend is marginally higher for everyone, because the differential (in the example, 91 out of the set off of 1,000) is made available for distribution across the board.
+the lower the expected rate of dividend, the greater will be the disparity between the two computations.
+sssl: the court of appeals reasoning
+the scheme of paras 68 to 117 of chadwick ljs judgment is as follows: (1) para 68 sets out the financial implications of the point. (2) paras 69 to 78 contain a full discussion of in re melton, concluding with the extraction of three principles stated in para 79. (3) paras 80 to 82 identify three questions left unanswered by in re melton. (4) paras 83 to 92 discuss the two cases of in re fenton, concluding that in re fenton (no 2) was wrongly decided. (5) paras 93 to 97 discuss the purpose of the rule against double proof (which has been briefly introduced in paras 14 to 15). (6) paras 98 to 117 discuss and answer the three questions left unanswered by in re melton, the first being whether the equitable rule applies in a situation where statutory set off is (as noted by lord hoffmann in secretary of state for trade and industry v frid [2004] 2 ac 506, para 13) excluded by the rule against double proof.
+the first principle that chadwick lj extracted from in re melton is the equitable rule itself, which he set out as a mathematical formula.
+the second principle is that the rule extends to cases where the fund has a right to be indemnified by the claimant against a liability which the fund may be required to meet in the future.
+that proposition seems to be too widely stated.
+in the passage quoted from the judgment of warrington lj in in re melton (at p 55) that time refers to the death of richard melton in 1907.
+his settled estate did not become distributable until his widows death in 1916, and by then there was an immediate right to an indemnity for the 313 paid by the estate.
+the judgment of warrington j in in re abrahams [1908] 2 ch 69, 73, states the correct rule: the debt due to the testator is one which is not immediately payable, whereas the right of the debtor to receive the residuary share is an immediate right.
+i think, therefore, that the debtor is entitled to receive that share.
+chadwick lj also relied on warrington ljs comments on in re binns [1896] 2 ch 584.
+but (as already noted) the facts of in re binns were not identical, or even similar, to those of in re melton.
+the third principle, set out in para 79 (3), is also too widely stated, as chadwick lj himself recognised in the following paragraph.
+after referring to section 323 of the insolvency act 1986 and rule 4.90 of the insolvency rules he observed: but the question remains whether the [equitable] rule is applicable in a case where by reason of the rule against double proof there is no set off between xs claim against the fund, on the one hand, and the funds right to be indemnified by x on the other hand.
+that is the heart of the matter, but having posed that question the judgment embarks on a lengthy discussion of the two fenton cases, concluding that in re fenton (no 2) was wrongly decided because it was inconsistent with the judgments in in re melton.
+i respectfully disagree.
+in in re fenton (no 2) luxmoore j was faithfully following the reasoning of the court of appeal in in re fenton (no 1).
+the banks (c) were never going to recover in full either from the association (pd) or from fenton (s), and fentons trustee could not seek to recover from the association in competition with the banks, either by direct proof or by set off, merely because he had paid a dividend of 5p in the pound.
+the equitable rule is a technique of netting off similar to statutory set off.
+it is true that in a situation of double insolvency (that is where both pd and s are bankrupt or in insolvent liquidation) the equitable rule may produce a different result from set off if pds insolvency occurred before that of s (that is the difference between jeffs v wood and in re rhodesia goldfields ltd, on the one hand, and cherry v boultbee and in re peruvian railway construction co ltd, on the other hand).
+but in this appeal that is of little importance as there is a larger and more basic question to be asked first.
+if the policy of the law underlying the rule against double proof is powerful enough to oust statutory set off, is there any good reason why it should not have the same effect on the equitable rule?
+chadwick lj considered that there are good reasons, and (para 92) that the contrary view involved three misunderstandings: of the principle underlying the equitable rule, of the reasoning in in re melton, and of the object of the rule against double proof.
+i have to say that i find much of his reasoning difficult to follow.
+the distinction drawn in para 94 between swelling assets and limiting claims seems to be, in this context, a distinction without a difference: netting off matches assets against claims, and the rule against double proof is (as has often been said) a matter of substance, not form.
+para 96 of the judgment suggests that in a double insolvency the equitable rule and the rule against double proof can and should both apply, and that this would strike a fair balance between the competing interests of creditors.
+in my view this approach would lead to many doubts and difficulties, and whether the end result would strike a fair balance would depend very much on the facts of the particular case (that point is made forcefully in a case note by look chan ho, understanding debt subordination and the rule in cherry v boultbee: re sssl realisations [2006] jiblr 266, 271 272; see also a learned article from an australian viewpoint, dean, luckett and houghton, notional calculations in liquidations revisited: the case of asc class order cross guarantees (1993) 11 company and securities law journal 204).
+the facts of this case would be regarded as unusual in normal commercial dealings (though they may be more usual in the world of investment banking) in that funding, a subsidiary with a relatively tiny paid up capital, borrowed almost 250m, and as it has no other significant creditors the trustee will, if it wins this appeal, make a full recovery on behalf of the noteholders.
+in that respect the case has some similarity to in re polly peck international plc [1996] 2 all er 433, in which it was argued, unsuccessfully, that the special purpose vehicle incorporated in the cayman islands should be regarded as a single economic unit with the holding company, so as to eliminate double dip as well as double dividend.
+para 98 of the judgment refers to the line of authority dealing with the special case of shareholders liable for calls on shares which are not fully paid up.
+some of these cases are mentioned in para 20 above.
+chadwick lj sets out a fuller citation of the cases but i have to say, with respect, that he seems to have missed their point.
+the situation in this line of authority is that a shareholder is a creditor of an insolvent company, but his shares are not fully paid up, so that he is liable as a contributory.
+suppose he has 10,000 1 shares, 10p paid, and is owed 15,000, but the dividend prospectively payable is only 30p in the pound.
+if the liquidator calls on him for 9,000 to make his shares fully paid up, he has no right of set off, and to that extent he is disadvantaged (that is in re auriferous properties ltd (no 1) [1898] 1 ch 691).
+if he seeks to prove in the liquidation, the liquidator can rely on the equitable rule as it applies in a case of this sort that is, that he can receive nothing until he has paid everything that he owes as a contributory.
+that is in re auriferous properties ltd (no 2) [1898] 2 ch 428.
+the rule is also very clearly stated by buckley j in in re west coast gold fields ltd [1905] 1 ch 597, 602 (affirmed [1906] 1 ch 1, and cited in para 20 above).
+payment of the call is a condition precedent to the shareholders participation in any distribution, and again the shareholder is to that extent disadvantaged.
+so the equitable rule may be said to fill the gap left by disapplication of set off, but it does not work in opposition to set off.
+it produces a similar netting off effect except where some cogent principle of law requires one claim to be given strict priority to another.
+the principle that a companys contributories must stand in the queue behind its creditors is one such principle.
+the rule against double proof is another.
+i would accept mr mosss submission that it would be technical, artificial and wrong to treat the rule against double proof as trumping set off (as it undoubtedly does) but as not trumping the equitable rule.
+conclusion
+i would therefore allow this appeal on that ground, and set aside the chancellors direction.
+once the trustee has received 100p in the pound the rule against double proof will cease to apply, and any assets then remaining in the hands of fundings administrators will be administered without further regard to it.
+it is not necessary to address the issue of the correct construction of clause 7.7 of the trust deed, and it seems better not to comment on an issue which the chancellor approached (as he was bound to) on legal premises now shown to be mistaken.
+lord hope
+i would allow this appeal.
+for the reasons given by lord walker with which i am in full agreement, i too would hold that the equitable rule in cherry v boultbee is excluded by the rule against double proof.
+so the trustee must be paid in full before there can be any proof against funding as the principal debtor by ksf as guarantor.

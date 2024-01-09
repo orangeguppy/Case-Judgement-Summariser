@@ -1,0 +1,528 @@
+this appeal concerns the application of the test of obviousness under section 3 of the patents act 1977 to a dosage patent.
+in summary, a patent, whose validity is not challenged, identified a compound as an efficacious treatment but did not identify an optimal dosage regime.
+a pharmaceutical company, which had acquired the patent, conducted extensive research into ascertaining the optimal dosage of the compound.
+it discovered a dose which not only was safe and effective but also, unexpectedly, could be administered in a new and beneficial manner, because of both the half life of the compound and its minimal side effects at that dose.
+a number of generic drug manufacturers challenge the validity of the dosage patent on the basis that it involves no inventive step.
+the appeal raises two principal questions.
+the first relates to the application of the obviousness test to a dosage patent and the second is concerned with whether the court of appeal was entitled to reverse the judgment of the judge at first instance on that question in the circumstances of this case.
+the patent under challenge
+the dosage patent which is the subject of this appeal is ep(uk) 1,173,181 (the 181 patent).
+it is owned by icos and exclusively licensed to eli lilly (collectively lilly).
+it relates to the use of tadalafil in a dosage form for the treatment of sexual dysfunction.
+it was filed on 26 april 2000 and claims priority from us application no 60/132036p filed on 30 april 1999.
+it was granted on 15 october 2003.
+the form of the 181 patent is a b3 specification following centralised amendments made in the european patent office (epo) on 25 march 2015.
+the claimants, who are the respondents in this appeal, raised proceedings to revoke the 181 patent and lilly defended the claim and counterclaimed that the claimants were threatening to infringe its patent.
+the earlier phases of this litigation involved challenges to the 181 patent based on (a) priority, (b) added matter, (c) lack of novelty, (d) obviousness and (e) insufficiency.
+of those challenges, the principal matter of contention is obviousness.
+the claimants challenges on priority, added matter and lack of novelty arise only if this court upholds the appeal by lilly against the court of appeals finding of obviousness.
+factual background
+erectile dysfunction (ed) is a common medical condition which affects approximately 50% of the male population between the ages of 40 and 70.
+it is caused by a number of disorders, both physiological and psychological.
+unsurprisingly, the discovery of a drug to treat ed, called sildenafil, which was and is sold under the brand name viagra, proved to be a very great commercial success.
+the drug, which is the subject of the patent in dispute, is called tadalafil.
+tadalafil is the generic name for a drug which is sold under the brand name cialis for the treatment of ed and benign prostatic hyperplasia, and under the brand name adcirca for the treatment of pulmonary arterial hypertension.
+cialis has also enjoyed great commercial success.
+in 2014 worldwide sales amounted to about $2.29 billion and uk sales amounted to about $99m.
+in that year uk sales of adcirca amounted to about $1m.
+technical background
+i derive my summary of the technical background from the judgment of kitchin lj, who wrote the leading judgment in the court of appeal [2017] ewca civ 1671; [2018] rpc 7, and the findings of the trial judge, birss j [2016] ewhc 1955 (pat).
+the penis contains smooth muscle.
+when in its normal resting state, the smooth muscle contracts and so restricts the arteries supplying blood to the penis.
+when an erection is triggered, the smooth muscle relaxes and no longer restricts the supply of arterial blood, causing the penis to become tumescent.
+the smooth muscle relaxation which leads to the erection results from a cascade of complex biochemical reactions within the body.
+sexual stimulation causes the release of the neurotransmitter nitric oxide (no) which enters the smooth muscle cells where it leads to an increase in the production of a second molecule, cyclic guanosine 3, 5 monophosphate (cgmp). cgmp in turn binds to and activates an enzyme which regulates the activity of other intracellular proteins and leads to the relaxation of the smooth muscle.
+an increase in the intracellular level of cgmp, through no production, therefore promotes smooth muscle relaxation, while a decrease in the intracellular level of cgmp tends to cause the smooth muscle to return to its ordinary contracted state.
+the intracellular concentrations of cgmp and another second molecule, cyclic adenosine 3,5 monophosphate (camp), are regulated by a class of enzymes known as cyclic nucleotide phosphodiesterases (pdes).
+by the priority date in 1999 at least six pde families had been identified.
+it was known that the pde family most prevalent in the penis was pde5.
+this binds cgmp and hydrolyses it to its non cyclic form gmp, so leading to a reduction in smooth muscle relaxation and the prevention of penile tumescence.
+it is necessary to mention also the concept of potency.
+potency is the amount of the drug required to produce a defined biological effect of given intensity.
+potency can be measured as the concentration or dose of a drug required to produce 50% of the drugs maximal effect (ec50 or ed50) as depicted by a graded dose response curve.
+in the context of a drug that inhibits the action of another substance, potency can be expressed as the concentration of a drug required to inhibit a given biological process by half, ie the in vitro concentration of the drug which is required for 50% inhibition (ic50).
+a higher potency drug will have a lower concentration because less drug will be required to achieve the same effect.
+as kitchin lj illustrated in paras 17 and 18 of his judgment the dose response curve of a drug is illustrated graphically as a sigmoid (or s shaped) curve with a flat or gently inclined base at which increasing doses are slow to manifest a significant effect, a steep central part at which increasing doses have an increasing effect, and a plateau at the top at which increasing doses have no increased effect.
+the minimum effective dose is the smallest dose in the dose response curve at which a clinically relevant effect can be seen.
+the concept of the minimum effective dose would be known to the skilled team, who would be aware that regulators could ask for it to be identified.
+but they would also know that it is not always required.
+the trial judge found that it had not been established that the skilled team would always seek to identify the minimum effective dose for a given drug.
+it might be sufficient to know that the minimum effective dose was somewhere in a range.
+in the context of ed, there was no agreed definition of a minimum clinically relevant effect and this had a bearing on the judges reasoning in relation to obviousness.
+identification of the minimum effective dose depends on a value judgment, as the skilled team would know.
+the primary task of the skilled team was and is to make safe, tolerable and effective medicines.
+sildenafil and tadalafil
+sildenafil was marketed as an orally administered pde5 inhibitor, which prevented pde5 from hydrolysing cgmp to the inactive gmp. cgmp levels remain elevated as a result and this promotes smooth muscle relaxation.
+this leads to greater arterial blood flow into the penis when it is stimulated and results in penile tumescence.
+a disadvantage of sildenafil was its effect on other pde families and, in particular, pde6 which was associated with known visual side effects.
+sildenafil was also associated with normally mild and transient side effects including flushing, headache and dyspepsia, which were thought to be related to its mode of action as a pde5 inhibitor.
+sildenafil was known to be administered on demand with an onset of action of about one hour and a half life of about four hours.
+it was marketed at doses of 25mg, 50mg and 100mg.
+it was known that broadly efficacy increased with dose and so did side effects.
+those were the doses upon which a skilled team would focus although it was also known that a 10mg dose of sildenafil had been investigated in trials and shown to be efficacious.
+sildenafil was a first in class drug which validated the rationale for trying to treat ed using an oral pde5 inhibitor.
+any other pde5 inhibitor for ed would be known as a second in class drug.
+a clinical pharmacologist would have an enhanced expectation that a second in class drug would be efficacious.
+but the idea of investigating chronic dosing of a drug for ed was not part of the common general knowledge.
+tadalafil is a second in class drug.
+it is another pde5 inhibitor and operates in essentially the same way as sildenafil.
+an advantage which tadalafil was found to have over sildenafil was its selectivity; it was able to bind to and inhibit its target pde5 while having significantly less effect than sildenafil on other pde families and, in particular, pde6.
+this selectivity resulted in less and a smaller number of side effects.
+the skilled team
+the parties agreed that the notional skilled team, by reference to which the question of the obviousness of the patent in dispute would be assessed, would include a clinical pharmacologist with experience in pharmacokinetics and a clinician specialising in urology.
+both were important and would work together.
+the clinical pharmacologist would take the lead in the quantification of doses and the dose response.
+the clinician would take the lead when assessing the clinical significance of an effect, whether a desired effect or a side effect.
+the clinical pharmacologist would be primarily responsible for selecting the doses to be tried in the dose ranging study, with input from the clinician.
+the phases of clinical research
+it was of central importance to the case of obviousness which the claimants presented that clinical research into a new medicine follows a standard pathway of four phases.
+the judge set out this pathway in paras 76 81 of his judgment and below i draw heavily on kitchin ljs summary of that exposition.
+a new drug, identified through appropriate in vitro testing and pre clinical animal studies, is taken forward into human tests.
+the first of such tests are known as phase i and they are carried out on healthy volunteers to test safety rather than efficacy.
+the tests provide pharmacokinetic information and allow an assessment of bio availability.
+if these tests are positive, the next step is to move the drug into phase ii.
+phase ii studies are generally carried out in two stages, phase iia and phase iib.
+phase iia, which consists of what are sometimes known as go, no go studies, provides proof of concept.
+the studies are generally carried out at one dose, selected to be high enough to give the drug the best chance of showing a positive effect on the disease, albeit not too high to risk serious side effects.
+phase iib involves testing a range of doses to show the effect of the dose.
+in the judges words, the idea is that the highest dose will show a larger clinical effect than the smallest dose.
+the obviousness challenge in this case focuses on what the hypothetical skilled team would do in this phase of clinical research.
+if the decision after phase ii is positive, the next phase is phase iii.
+this is a large scale clinical trial designed to generate data to support an application for regulatory approval.
+phase iv studies take place after regulatory approval and are not relevant to the issues arising in this appeal.
+the daugan patent
+glaxo filed an application for a patent which was published on 6 february 1997 and led to patent ep 0 839 040 (the daugan patent or daugan).
+glaxo did not take forward the research to implement the daugan patent but transferred it to icos.
+the daugan patent discloses the idea of using certain compounds which are pde5 inhibitors for the treatment of ed.
+it specifically describes two compounds, a and b. compound a is tadalafil.
+daugan discloses tadalafils (and compound bs) potency (ie ic50) against pde5 as 2 nm. daugan discloses that doses of compounds a and b will generally be in the range of 0.5mg to 800mg daily for the average adult patient.
+it gives examples of a tablet containing a 50mg dose of the active ingredient.
+but the daugan patent does not purport to set out an appropriate dosage regime as an oral treatment of ed.
+it is not disputed that at the priority date it was entirely obvious for the notional skilled team, given the daugan patent, to set out taking tadalafil forward into a routine pre clinical and clinical trial programme as an oral treatment for ed.
+the statements in daugan and the huge success of sildenafil as an oral pde5 inhibitor made it very obvious.
+tadalafil would be an attractive potential second in class medicine to develop because daugan teaches that it has a promising ic50 against pde5.
+it is more potent than sildenafil, which has an ic50 of about 3 or 3.9 nm.
+the trial judge found that the skilled team would understand the limitations of in vitro ic50 data and would know that there could be all sorts of factors such as bioavailability and tissue compartmentalisation which might limit tadalafils clinical utility.
+but he found that that would not deter the skilled team from embarking on a routine pre clinical and clinical trial programme.
+the central question in this appeal is whether in the light of the common general knowledge which i have summarised in paras 8 16 and 18 22 above and the daugan patent as the nearest prior art, the relevant claims in the 181 patent were obvious.
+i therefore turn to the 181 patent.
+the 181 patent
+the 181 patent is a dosage patent.
+in the specification (para 1) it refers for priority to the provisional patent application to the us patent and trademark office serial no 60/132036, which was filed on 30 april 1999.
+it asserts (para 2) that the invention relates to a highly selective pde enzyme inhibitor and to its use in a pharmaceutical unit dosage form.
+in particular it relates to a potent inhibitor of pde5 that is useful for the treatment of sexual dysfunction.
+in its description of the background of the invention, it refers to viagra, its lack of selectivity for pde6 and its side effects (para 4).
+it refers in para 7 to the daugan patent and its disclosures.
+it asserts (para 8) that the applicants have discovered that tadalafil (which it described as compound (i)) can be administered in a unit dose that provides an effective treatment without the side effects associated with the presently marketed pde5 inhibitor, sildenafil.
+prior to the present invention such side effects were considered inherent to the inhibition of pde5.
+it continues (para 9) that clinical studies revealed that the product is effective with a reduced tendency to cause flushing and, unexpectedly, can be administered with clinically insignificant side effects associated with the combined effects of a pde5 inhibitor and an organic nitrate.
+in its summary of the invention (paras 11 15) it discloses a pharmaceutical dosage form for human pharmaceutical use of about 1 to about 5mg of tadalafil in a unit dosage form suitable for oral administration for the treatment of sexual dysfunction, including ed up to a maximum total dose of 5mg per day.
+the relevant claims are as follows.
+claim 1 asserts a pharmaceutical unit dosage composition comprising 1 to 5mg of a compound having [the illustrated structural formula of tadalafil] said unit dosage form suitable for oral administration up to a maximum total dose of 5mg per day.
+claims 2 and 3 assert dosage forms comprising 2.5mg and 5mg of the compound respectively.
+claim 6 states: the dosage form of any one of claims 1 through 3 for use in treating a condition where inhibition of pde5 is desirable.
+claim 7 refers to the dosage form of claim 6 wherein the condition is a sexual dysfunction.
+it is a claim for a purpose limited product, known as an epc 2000 claim, which, since 2011, the european patent office (epo) issues in place of swiss form claims, and claim 8 refers to the sexual dysfunction of ed.
+claim 10 is a swiss form claim which, as is well known, is a purpose limited process claim, giving a monopoly for the use of compound x in the manufacture of a medicament for the treatment of indication y. it is in the following terms: 10.
+use of a unit dose containing 1 to 5mg of a compound having the structure [of tadalafil] for the manufacture of a medicament for administration up to a maximum total dose of 5mg of said compound per day in a method of treating sexual dysfunction in a patient in need thereof.
+kitchin lj in his judgment (para 46) observed that the purpose limited claim 7 is dependent on claim 6 and claim 1 and construed it as manifesting an intention that the maximum dose per day constituted part of the purpose limitation of the claim.
+he also interpreted claims 7 and 10 as being directed to the treatment of sexual dysfunction by the administration of a dose of no more than 5mg tadalafil per day.
+the claimed invention is the application of the discovery that sexual dysfunction may be treated by administering such a dose and with minimal side effects (paras 50 52).
+the claimants do not challenge those findings.
+lilly asserts that the essence of the invention is the discovery that tadalafil is effective in treating ed at such a low dose and with minimal side effects.
+this discovery has allowed the drug to be taken daily (for chronic use) rather than on demand, thus avoiding the need to anticipate when sexual activity might occur.
+this is, lilly claims, a significant technical advantage as sildenafil by contrast is approved for on demand use only.
+obviousness: the claimants challenge and lillys answer
+before birss j the claimants submitted that it would be obvious for a skilled team given the daugan patent to take tadalafil forward into a routine pre clinical and clinical trial programme as an oral treatment for ed at the priority date.
+while costly and time consuming, the programme would involve nothing other than routine work and no inventive effort was required.
+in the course of the programme to establish tadalafil as a safe, tolerable and effective treatment for ed, a 5mg dose would be one of the doses used on patients as it was obvious to ascertain the lowest dose at which the drug was effective.
+standard dose ranging studies would lead to the claims in the 181 patent.
+the programme would reveal the invention without any inventive step.
+the fact that the 5mg per day dosage has a surprising beneficial property of minimal side effects was simply a bonus which did not make the dosage regime an invention.
+lillys response was first that the discovery of the dosage regime was the result of expensive and unpredictable research which was entitled to patent protection.
+secondly, at the start of the programme it was not obvious to try a low dose like 5mg per day as there was no reason to think that it would be effective at that dosage.
+to invalidate the claim, it would be necessary to show that at the start of the programme it was obvious to the skilled team that a 5mg/day dose would be safe and effective and also would have the minimal pde5 related side effects.
+lilly referred to the epos problem and solution approach and sought to apply it to the facts of the case.
+birss j accepted neither approach in its entirety.
+he analysed the obviousness case by concentrating on claim 7.
+he reminded himself that the test for obviousness is a single and relatively simple question of fact.
+it is a question of fact to be decided by detailed technical arguments and evidence concerning the particular facts and circumstances, a task with which wide generalisations do not assist.
+he accepted that some experiments which were undertaken without a particular expectation as to the result were obvious.
+when considering pre clinical and clinical research it may be necessary to consider a step wise series of tests which the skilled team would undertake.
+but even if each of those steps were obvious, one must avoid the risk of hindsight by standing back and looking at the facts as a whole.
+the fact that routine tests have uncertain results does not on its own turn those results into an invention.
+similarly, the fact that, before the pre clinical, phase i and phase iia tests had been performed, one cannot say what particular doses will be tested in a phase iib test does not of itself make those doses inventive if some of them are found to work.
+he referred to the statement by kitchin j in generics (uk) ltd v h lundbeck a/s [2007] rpc 32, which i set out in para 63 below, and identified as relevant factors in his assessment of obviousness in this case the following: motive, multiple avenues, the effort involved and the expectation of success, the occurrence of unexpected and surprising results and the need for and nature of value judgments which have to be made in carrying out the project.
+the judges findings of fact were based principally on the evidence of (i) mr gary muirhead a consultant to the pharmaceutical industry, whom the claimants called and who had worked for pfizer on the development of drugs, including sildenafil, (ii) dr jay saoud, whom lilly called and who had over 25 years of experience in clinical development, pharmacokinetics and statistical analysis in industry, academia and contract research organisations and (iii) dr gerald brock, whom lilly called and who is a practising clinical urologist with extensive clinical, academic and advisory experience in matters concerning treatments for ed.
+in his careful assessment of their evidence birss j held, at paras 287 et seq, that it would have been entirely obvious for a skilled team given daugan to set out to take tadalafil forward into a routine pre clinical and clinical trial programme as an oral treatment for ed at the priority date.
+the phase i studies would produce results which would lead the skilled team to design and undertake the phase iia go no go study of a single 50mg dose of tadalafil in a relatively small group of patients.
+they would embark on that study with a reasonable expectation that the drug would be safe, tolerable and effective at that dose.
+turning to the phase iib studies, birss j concluded that the first dose ranging study would be of on demand dosing using 25, 50 and 100mg of the drug.
+he did not accept mr muirheads suggestion that a 5mg dose would be included in this first study.
+the skilled teams expectations would be that they would hope that the study would show a dose response relationship.
+but the results would not be what the team expected because they would show no difference in efficacy between the three doses, demonstrating an apparent therapeutic plateau.
+the critical dispute at this stage was whether in the light of those findings it was an obvious thing for the skilled team to conduct a further dose ranging study or studies to investigate lower doses and determine the minimum effective dose.
+birss j did not accept the claimants case that it was.
+he held that the skilled team would be well aware that there was no defined standard of minimal efficacy in relation to ed and that it would require a value judgement to characterise a minimum effective dose.
+he concluded (para 327) that it was not inevitable that the skilled team would investigate lower doses after discovering the therapeutic plateau because they had found a dose (at least 25mg) which was safe, tolerable and effective and thus had secured the prime objective of the programme; but he held that it was very likely that they would.
+a skilled team would be familiar with multiple dose ranging studies as necessary as a generality.
+if the skilled team carried out a further dose ranging study they would have included 5mg and 10mg doses.
+they would not have any expectation that the minimum effective dose was substantially lower than 25mg or that they would find a dose below 25mg at which there was a clinically relevant effect with reduced side effects.
+the discovery that at a 5mg dose tadalafil was efficacious and had reduced side effects would surprise the team.
+the investigation of chronic daily dosing in addition to on demand dosing would follow the similar pattern but the initial study would probably include a 10mg dose.
+the teams expectation would be the same.
+having conducted this step by step analysis, birss j then looked at the programme as a whole and assessed obviousness overall.
+he concluded that, given daugan, a 25mg/day dose of tadalafil was obvious as a treatment for ed but that a 5mg daily dose was not.
+in para 343 he summarised his reasons in these terms: i) in terms of motives to find a solution to the problem the patent addresses, the skilled team would be highly motivated by daugan and the success of sildenafil to investigate tadalafil as a treatment for [ed]. ii) as for possible avenues of research, overall tadalafil would be obvious to investigate.
+in terms of doses however, 5mg/day is a significantly lower dose than the 50mg dose exemplified in the daugan prior art and the marketed doses of sildenafil.
+it is also significantly lower than the 50mg dose which would be chosen for the first test of efficacy at phase iia.
+it would not be chosen in the routine first dose ranging study.
+the team would not have anticipated daily dosing as something to be studied from the outset but once the half life was discovered it is likely that daily dosing would be included.
+in terms of effort, overall the programme would involve iii) very substantial resources of time, money and people but it would be pursued.
+however, by the time the idea of investigating lower doses presents itself, the team would have established safe, tolerable and effective doses of tadalafil at 25mg on demand and 10mg for daily dosing.
+at that stage the impetus to investigate lower doses would be reduced but not eliminated. iv) expectations of success can be considered overall and in relation to particular studies.
+overall the team would embark on the project with a reasonable expectation of success in establishing tadalafil as a safe, tolerable and effective treatment for [ed].
+however, the claimants failed to prove that efficacy at 5mg tadalafil was predictable or worth considering by the skilled team based on the properties of tadalafil as compared to sildenafil.
+the team would know that in principle there would be a minimum effective dose for tadalafil but would also know that its definition depends on a value judgment made by the team.
+in relation to the dose ranging studies, the team would conduct them hoping for a dose response.
+following discovery of a plateau starting at 25mg or 10mg, there would very likely be a subsequent dose ranging study which included 5mg.
+the team would include a 5mg dose in this study hoping to see a dose response but that does not mean they would have a reasonable expectation that 5mg would produce a clinically relevant effect at all nor one with minimal side effects.
+assuming a 5mg/day dose of tadalafil was tested, it would not be tested with a reasonable expectation of success. v) considering unexpected or surprising results, the position is as follows.
+the path to a 5mg dose requires the discovery of new information such as the half life and the ic50 vs pde6.
+that information would inevitably be found in any clinical programme.
+the path includes an important result which is unexpected even if it is not actually surprising, ie the plateau in the dose response from 10 to 100mg.
+there is also a surprising result: the existence of a useful effect with reduced side effects.
+the claimed 5mg/day dose has that property. vi) a number of value judgments would be required of a skilled team in a programme which reaches the claimed invention.
+one is to define the level of clinical effect to be regarded as relevant.
+another is to embark on investigating daily dosing.
+an important value judgment is what to do when an unexpected plateau in the dose response has been identified as the same time as a marketable dose.
+he therefore concluded that claim 7 of the 181 patent involves an inventive step.
+the court of appeal reached a contrary conclusion and allowed the appeal on the ground that claims 1, 7 and 10 were invalid for lack of inventive step.
+in the leading judgment, kitchin lj addressed the claimants case that, in the light of daugan, it was obvious to take tadalafil forward into routine pre clinical and clinical trial programme to assess its use as an oral treatment for sexual dysfunction.
+the claimants argued that nearly all dosage regimes in a swiss form claim will be obvious: actavis uk ltd v merck & co inc [2008] ewca civ 444; [2009] 1 wlr 1186, jacob lj at para 32.
+a 5mg daily dose would be used in patients in the course of that programme and would reveal that it was a safe, tolerable and effective treatment.
+in other words, it would reveal the invention.
+the alleged invention was merely the product of standard practice in a routine clinical trials process and the purpose of phase iib studies was to provide an understanding of the dose response relationship.
+lillys answer was that at the start of the programme it was not obvious to try a 5mg dose because the skilled team would have no idea if it would be a safe, tolerable and effective treatment.
+the skilled team had to make a series of value judgements in order to arrive at the invention and would have had no expectation that the 5mg dose would be efficacious or that it would have reduced side effects.
+kitchin lj stated, at paras 131 135, that it was not the law that investigations into appropriate dosage regimes cannot yield patentable inventions and that jacob lj had not suggested otherwise in actavis v merck.
+the statutory task of the court was to have regard to all the relevant circumstances in order to answer the single question: was it obvious to the skilled but unimaginative addressee in light of the prior art and the common general knowledge to make a product or carry out a process falling within the claim? he affirmed that the judge would have had this well in mind.
+accordingly, where no question of principle was involved, an appellate court had to be very cautious in differing from a judges evaluation.
+nonetheless, he held that claim 1 was invalid for obviousness.
+it had no purpose limitation and encompassed a unit dosage composition comprising 1mg to 5mg of tadalafil which was suitable for administration up to a maximum total dose of 5mg per day but which was intended and was in fact used for administration of a higher per day total dose.
+on the judges findings, given daugan, it was obvious to develop such a composition and the judge should have so found.
+i do not understand lilly to challenge this finding in this appeal.
+instead, the battleground relates to claims 7 and 10.
+in relation to those claims, the debate in the court of appeal appears to have focussed on the notional skilled teams approach to the phase ii trial.
+kitchin lj recorded lillys case that, having carried out the initial phase iib study, which would have found the 25mg dose on demand to be safe and efficacious, the skilled team needed to go no further but if they chose to do so, would test a 10mg dose before deciding whether to go further and test a 5mg dose.
+the skilled team also had to decide whether to test daily dosing.
+there were therefore various possible avenues of research, involving value judgements and it was not inevitable that the skilled team would investigate lower doses.
+kitchin lj accepted that it was relevant to consider whether the skilled team, starting with daugan, would be faced with various possible avenues of research.
+he recognized that the skilled team would be faced with choices when embarking on phase ii studies, including how to proceed with the dose ranging studies and whether to study on demand or daily dosing.
+but in relation to the latter decision, he pointed out that the judge had found that the phase i trial would have revealed the half life of tadalafil and that the team would have decided to pursue both on demand and daily dosing in phase ii.
+in relation to the former decision, kitchin lj pointed out that the judge had found that the team would very likely investigate the 5mg dose of tadalafil after the first or, in the case of on demand dosing, a possible second dose ranging study.
+this finding was supported by the purpose of dose ranging studies, which was to ascertain the dose response relationship of the drug, and the fact that, so long as the study showed the ic50 remaining on the upper therapeutic plateau, that dose response relationship had not been found.
+further, it was consistent with the evidence of the expert clinical pharmacologists, mr muirhead and dr saoud, and kitchin lj quoted the latters evidence on cross examination that, having discovered the therapeutic plateau, it was a no brainer to test a lower dose and that the skilled team would have done so.
+kitchin lj therefore rejected the idea that the skilled team would have been faced with a series of parallel avenues of studies and would have no expectation that any one of them would prove fruitful.
+further, the team would have addressed both on demand and daily dosing and each avenue of inquiry would be very likely to lead the team to the invention.
+kitchin lj held that the judge should not have attached weight to the fact that a 5mg dose was considerably less than the 50mg dose which would have been used in phase iia, because the phase iib tests were carried out for a different purpose, that is to ascertain the dose response relationship.
+nor should the judge have attached weight to the conclusion that a 5mg dose would not be tested in the first phase iib study because he had also found that the team would very likely investigate it afterwards: the impetus to investigate lower doses would have remained because the purpose of the phase iib study had not been fulfilled.
+the finding that the skilled team could not predict at the outset that a 5mg dose would be safe and efficacious was of little weight because at least one of the purposes of the phase iib studies is to understand better the dose response relationship of the drug and so identify the appropriate dose for the target population.
+similarly the judge was wrong to attach weight to the conclusion that the team would not have an expectation of success when testing the 5mg dose: the judge had held that the team were very likely to test the 5mg dose as part of the dose ranging study but it was hard to see why they would have done so unless they had a reasonable expectation that it would assist them better to understand the dose response relationship.
+kitchin lj also held that little weight could be attached to the fact that it was surprising (a) that there was a therapeutic plateau from 10mg to 100mg, and (b) that a 5mg per day dose was efficacious and had reduced side effects.
+while the discovery of a surprising or unexpected technical effect may be suggestive of invention, in this case the discovery of the therapeutic plateau and the efficacy of the 5mg dose was the product of a routine trial programme and the unexpected reduced side effects of the 5mg dose was a bonus effect which did not cause the 5mg dose to cease to be obvious.
+he also concluded that the value judgments to which the judge referred in para 343(vi) of his judgment (para 38 above) provided no effective support for the judges conclusion in the face of his critical finding that it was very likely that the team would test the 5mg dose.
+kitchin lj summarised his conclusions in this way, at para 152: drawing the threads together, i am satisfied that mr speck has made good his criticisms of the judges reasoning.
+the judge has lost sight of the fact that, on his own findings, the claimed invention lies at the end of the familiar path through the routine pre clinical and clinical trials process.
+the skilled but non inventive team would embark on that process with a reasonable expectation of success and in the course of it they would carry out phase iib dose ranging studies with the aim of finding out, among other things, the dose response relationship.
+it is very likely that in so doing they would test a dose of 5mg tadalafil per day and, if they did so, they would find that it is safe and efficacious.
+at that point they would have arrived at the claimed invention.
+in my judgment claims 7 and 10 are therefore invalid.
+floyd and lewison ljj issued concurring judgments to which i will refer in the discussion below.
+mr waughs challenge to the judgment of the court of appeal can be boiled down to one central submission: the statutory question in section 3 of the 1977 act is whether the claimed invention was obvious at the priority date.
+this straightforward approach to the assessment of obviousness, he submitted, required the court to look at the invention set out in the relevant claim or claims of the patent and ask itself whether that asserted invention was obvious to the notional skilled but uninventive team at the priority date having regard to the state of the art at that date.
+therefore, the question which the court of appeal should have asked was whether at the priority date, before the skilled team embarked on its investigation, it was obvious in the light of daugan, and without knowledge of the alleged invention, that a 5mg per day dose of tadalafil would be a safe and effective treatment, with minimal side effects, for sexual dysfunction.
+the court of appeal erred by not adopting that approach and instead by holding that the invention was obvious, because the claimed invention was the product of a familiar and routine path of pre clinical and clinical research, in which each step was likely to follow the outcome of the prior step.
+this erroneous approach failed to address the question whether it was obvious to try that low dose because there was a reasonable expectation of success at the outset.
+it was also in conflict with the approach of the epo which adopted a problem and solution analysis.
+costly and time consuming research which led to an unexpected technical effect will be patentable, whether such work is routine or not.
+the court of appeal, which accepted the trial judges findings of fact, was not entitled to overrule his analysis.
+mr speck sought to answer this case by making seven propositions.
+they were, first, that patent law is concerned with technical information which is of use industrially.
+a technical contribution is the difference between what a skilled person is enabled to do (a) in light of the state of the art and (b) with the teaching of the patent.
+secondly, there was a symmetry or balance in the patent system which required an enabling disclosure, in other words a technical contribution, as the basis of a patent.
+thirdly, the fundamental principle underlying the grant of a monopoly through a patent is that the monopoly must be commensurate with that technical contribution.
+the monopoly cannot cover that which the skilled person is already able to do or make, including obvious modifications or additions to the state of the article those he described as the skilled persons repertoire.
+fourthly, if all that a skilled person discovers is more information about products or processes that are already within that notional persons repertoire, there is no basis for the grant of a patent because that information does not add to the products or processes which the skilled person can make or do.
+fifthly, the principle advanced by lilly, that it is not permissible to take into account information not known at the priority date, is contrary to the basic scheme of patent law.
+sixthly, if that principle were correct, it would apply whether or not the research revealed an unexpected benefit.
+seventhly, patent law excludes from consideration information which is routinely ascertained using routine methods as part of the state of the art and using them for a routine purpose towards a routine end: in this case the implementation of the daugan patent.
+discussion i)
+i am not persuaded that the law adopts the extreme position of either submission.
+lillys approach would require the court to disregard the work which a skilled person would carry out after the priority date in order to implement the teaching of the daugan patent.
+that approach, as mr speck submitted, is contrary to the basic scheme of patent law.
+actaviss approach in its reliance on the skilled persons repertoire, in other words on what the skilled person could already do, cannot be a general test for obviousness as it would render irrelevant many of the the approach to obviousness factors to which the courts have had regard in the assessment of obviousness, some of which i mention below.
+since the enactment of the 1623 statute of monopolies, which prohibited the grant of a monopoly by the crown but in section vi created an exception for a patent for the sole working or making of any manner of new manufactures to the true and first inventor and inventors of such manufactures , the purpose of a grant of a patent has been to encourage innovation.
+the monopoly granted by the patent rewards the inventor by enabling him or her to charge a higher price than would have been possible if there had been competition.
+the patent bargain is this: the inventor obtains a monopoly in return for disclosing the invention and dedicating it to the public for use after the monopoly has expired.
+lord mansfield stated the point with his characteristic succinctness in liardet v johnson (1778): the condition of giving encouragement is this: that you must specify upon record your invention in such a way as shall teach an artist, when your term is out, to make it and to make it as well by your directions: for then at the end of the term, the public shall have benefit of it.
+the inventor has the benefit during the term, and the public have the benefit after (quoted in hulme, on the history of patent law (1902) 18 lqr 280, 285 and cited by lord sumption in the leading judgment in generics (uk) ltd (trading as mylan) v warner lambert co llc [2018] uksc 56; [2019] bus lr 360, para 17).
+this overarching principle has survived the amendment of uk patent law after accession to the european patent convention.
+the epo technical board of appeal has confirmed the principle in, for example, its decision of 12 september 1995 in agrevo/triazoles (case t 939/92) [1996] epor 171, para 2.4.2 in which it stated: it has for long been a generally accepted legal principle that the extent of the patent monopoly should correspond to and be justified by the technical contribution to the article [t]his general legal principle was applied in relation to the extent of the patent protection that was justified by reference to the requirements of articles 83 and 84 epc, the same legal principle also governs the decision that is required to be made under article 56 epc, for everything falling within a valid claim has to be inventive.
+see also exxon/fuel oils (case t 409/91) [1994] oj epo 653 at paras 3.3 and 3.4.
+articles 83 and 84 of the epc are concerned with the sufficiency of the disclosure of the invention in the patent application and the support which the description gives to the claims in that application.
+section 14(3) and (5) of the 1977 act correspond to those requirements.
+article 56 of the epo is concerned with the inventive step and provides: an invention shall be considered as involving an inventive step if, having regard to the state of the art, it is not obvious to a person skilled in the article section 3 of the 1977 act, which i set out below, corresponds to this requirement.
+as is well known, section 130(7) of the 1977 act declares that specified sections of the 1977 act are so framed as to have, as nearly as practicable, the same effects in the united kingdom as the corresponding provisions of the european patent convention, the community patent convention and the patent co operation treaty have in the territories to which those conventions apply.
+those sections include the sections which govern (a) the principal conditions of validity, that is to say novelty (section 2), inventive step (section 3), capability of industrial application (section 4) sufficiency of disclosure and the support of the claim by the description in the patent application (section 14(3) and (5)), and (b) the power of the court to revoke a patent on application, on grounds which include that the invention is not a patentable invention (which is a reference via section 1 to inter alia sections 2, 3 and 4) and inadequate disclosure in the patent application to enable the skilled person to perform the invention (section 72(1)).
+it is also well established in the jurisprudence of courts in the united kingdom that our courts, although not bound to do so, should normally follow the settled jurisprudence of the epo (especially decisions of its enlarged board of appeal) on the interpretation of the european patent convention in the interests of uniformity, especially when the question is one of principle: merrell dow pharmaceuticals inc v h n norton & co ltd [1996] rpc 76, 82 per lord hoffmann; gales application [1991] rpc 305, 322 per nicholls lj; actavis uk ltd v merck & co inc [2009] 1 wlr 1186, paras 45 48 per jacob lj; conor medsystems inc v angiotech pharmaceuticals inc [2008] ukhl 49; [2008] 4 all er 621, para 3 per lord hoffmann; generics (uk) ltd v h lundbeck a/s [2009] ukhl 12; [2009] 2 all er 955, para 35 per lord walker of gestingthorpe; dr reddys laboratories (uk) ltd v eli lilly and co ltd [2010] rpc 9, para 102 per lord neuberger of abbotsbury mr; eli lilly and co v human genome sciences inc [2011] uksc 51; [2012] 1 all er 1154; [2012] rpc 6, paras 83 87 per lord neuberger.
+the general principle that the extent of the patent monopoly should correspond to and be justified by the actual technical contribution to the art is thus part of the jurisprudence of both the epo and the uk courts and, as lord sumption observed in generics v warner lambert (above), para 17, the principal conditions of validity, novelty, inventive step, industrial application and sufficiency are all, in one way or another, directed to satisfying the principle thus expressed.
+there is therefore a balance or symmetry in patent law, as mr speck submitted.
+this case is concerned with the condition which requires there to be an inventive step.
+section 3 of the 1977 act provides: an invention shall be taken to involve an inventive step if it is not obvious to a person skilled in the art, having regard to any matter which forms part of the state of the art by virtue only of section 2(2) above (and disregarding section 2(3) above).
+section 2(2) provides: the state of the art in the case of an invention shall be taken to comprise all matter (whether a product, a process, information about either, or anything else) which has at any time before the priority date of that invention been made available to the public (whether in the united kingdom or elsewhere) by written or oral description, by use or in any other way.
+these statutory provisions mandate the court to assess whether an invention is obvious by having regard to the state of the art at the priority date of the invention.
+if the invention is not obvious to the skilled person at that date, section 3 deems the invention to involve an inventive step.
+the notional skilled person, while having the compendious knowledge of the state of the art which section 2(2) requires, has no inventive capacity.
+but that does not mean that the skilled person has no skill to take forward in an uninventive way the teaching of the prior article in this case the notional skilled team comprises the clinical pharmacologist and the clinician specialising in urology (para 17 above).
+that notional team is treated as exercising the professional skills of its members in responding to the teaching of the daugan patent.
+it follows that uninventive steps which the skilled team would take after the priority date to implement the daugan patent are not excluded from consideration in assessing the obviousness of the alleged invention at the priority date.
+in addressing the statutory question of obviousness in section 3 of the 1977 act it is common for english courts to adopt the so called windsurfing/pozzoli structure which asks these questions: identify the notional person skilled in the art; identify the relevant common general knowledge (1) (a) (b) of that person; identify the inventive concept of the claim in question (2) or if that cannot readily be done, construe it; (3) identify what, if any, differences exist between the matter cited as forming part of the state of the art and the inventive concept of the claim or the claim as construed; (4) viewed without any knowledge of the alleged invention as claimed, do those differences constitute steps which would have been obvious to the person skilled in the art or do they require any degree of invention? (pozzoli spa v bdmo sa [2007] ewca civ 588; [2007] fsr 37, para 23 per jacob lj).
+the fourth question is the statutory question and the first three questions or tasks, the second and third of which involve knowledge and consideration of the invention, are a means of disciplining the courts approach to that fourth question: dsm nvs patent [2001] rpc 35, para 55 per neuberger j; actavis uk ltd v novartis ag [2010] ewca civ 82; [2010] fsr 18, para 21 per jacob lj.
+in this case the trial judge adopted the pozzoli approach.
+there is no dispute about the first question.
+mr waugh emphasises the focus of the second question on the wording of the claim, as i shall discuss below.
+an alternative approach which the epo often adopts, is the so called problem and solution approach.
+the epo has described the approach in these terms: the boards of appeal consistently decide the issue of obviousness on the basis of an objective assessment of the technical results achieved by the claimed subject matter, compared with the results obtained according to the state of the article it is then assumed that the inventor did in fact seek to achieve these results and, therefore, these results are taken to be the basis for defining the technical problem (or, in other words, the objective) of the claimed invention.
+the next step is then to decide whether the state of the art suggested the claimed solution of this technical problem in the way proposed by the patent in suit (agrevo/triazoles (above) para 2.4.3) the test is helpfully summarised in the epos guidelines for examination in the epo (november 2017) (part g chapter vii) para 5: problem and solution approach in order to assess inventive step in an objective and predictable manner, the so called problem and solution approach should be applied.
+thus deviation from this approach should be exceptional.
+in the problem and solution approach there are three main stages: (i) (ii) establishing the objective technical problem to be solved, and (iii) considering whether or not the claimed invention, starting from the closest prior art and the objective technical problem, would have been obvious to the skilled person. determining the closest prior art, again, mr waugh urges the application of this approach because of the emphasis which, he submits, it places on the terms of the claim.
+while both approaches focus on the inventive concept put forward in the claims, neither approach should be applied in a mechanistic way.
+both are glosses on the text of section 3 of the 1977 act and article 56 of the epc and neither require a literalist approach to the wording of the claim in identifying the inventive concept.
+in conor medsystems inc v angiotech pharmaceuticals inc [2008] ukhl 49; [2008] rpc 28; [2008] 4 all er 621, at para 42 lord hoffmann endorsed the fact specific approach which kitchin j set out in generics (uk) ltd v h lundbeck [2007] rpc 32, para 72 where he stated: the question of obviousness must be considered on the facts of each case.
+the court must consider the weight to be attached to any particular factor in the light of all the relevant circumstances.
+these may include such matters as the motive to find a solution to the problem the patent addresses, the number and extent of the possible avenues of research, the effort involved in pursuing them and the expectation of success.
+kitchin js list of factors is illustrative and not exhaustive.
+another factor which needs to be considered in the present case is the routineness of the research.
+much of the interest and controversy which the court of appeals judgment has generated relates to how people have understood or misunderstood the significance which that court has attached to the routine nature of the pre clinical and clinical research which i have described.
+again, i discuss this below (paras 102 104).
+factors which are relevant considerations in the present case include the following.
+first, it is relevant to consider whether at the priority date something was obvious to try, in other words whether it was obvious to undertake a specific piece of research which had a reasonable or fair prospect of success: conor v angiotech (above) para 42 per lord hoffmann; medimmune ltd v novartis pharmaceuticals uk ltd [2012] ewca civ 1234; [2013] rpc 27, paras 90 and 91 per kitchin lj.
+in many cases the consideration that there is a likelihood of success which is sufficient to warrant an actual trial is an important pointer to obviousness.
+but as kitchin lj said in novartis ag v generics (uk) ltd [2012] ewca civ 1623, para 55, there is no requirement that it is manifest that a test ought to work; that would impose a straightjacket which would preclude a finding of obviousness in a case where the results of an entirely routine test are unpredictable.
+as birss j observed in this case (para 276), some experiments which are undertaken without any particular expectation as to result are obvious.
+the relevance of the obvious to try consideration and its weight when balanced against other relevant considerations depend on the particular facts of the case.
+secondly, it follows that the routine nature of the research and any established practice of following such research through to a particular point may be a relevant consideration which is weighed against the consideration that the claimed process or product was not obvious to try at the outset of a research programme.
+again, it is only one of several factors to be weighed in the assessment and it has no primacy and certainly no paramount status as a consideration.
+thirdly, the burden and cost of the research programme is relevant.
+but the weight to be attached to this factor will vary depending on the particular circumstances.
+this appeal concerns a pharmaceutical patent claiming as an invention a dosage regime.
+the cost and effort involved in bringing a drug to market through pre clinical and clinical trials are notorious.
+mr waugh referred to the extrajudicial writing of sir hugh laddie, patents whats invention got to do with it? (in intellectual property in the new millennium: essays in honour of william r cornish (2004), p 91 et seq), in which he stated, at p 92: in this field it is apparent that, without patents, few new products would be marketed.
+the expense in producing a new pharmaceutical is in the research and development stage.
+normally, once it has been discovered and given regulatory approval, the manufacture of a new pharmaceutical will be comparatively cheap and its replication by competitors easy.
+without the protection of patents, there will be no ability to recoup the cost of the research and development, let alone fund such activities in the future.
+no private company is going to enter this business unless it can see a reasonable prospect of obtaining a return on investment.
+the need to facilitate expensive pharmaceutical research is an important policy consideration for legislators and others involved in intellectual property law.
+it was a factor behind the creation of the swiss form claim and the epc 2000 claim as well as the supplementary protection certificate regime under regulation (ec) 469/2009, which is available after market authorisation to give the patent owner the protection of the patent for up to 15 years, and the data exclusivity regime which directive 2001/83/ec (article 10) and regulation (ec) 726/2004 (article 14), which may confer ten years of exclusive marketing protection against competition from generic manufacturers.
+but the effort involved in research is only one of several factors which may be relevant to the answer to the statutory question of obviousness.
+fourthly, the necessity for and the nature of the value judgments which the skilled team would have in the course of a testing programme are relevant considerations as both the trial judge and the court of appeal held.
+fifthly, the existence of alternative or multiple paths of research will often be an indicator that the invention contained in the claim or claims was not obvious.
+if the notional skilled person is faced with only one avenue of research, a one way street, it is more likely that the result of his or her research is obvious than if he or she were faced with a multiplicity of different avenues.
+but it is necessary to bear in mind the possibility that more than one avenue of research may be obvious.
+in brugger v medic aid ltd (no 2) [1996] rpc 635, 661, laddie j stated: [i]f a particular route is an obvious one to take or try, it is not rendered any less obvious from a technical point of view merely because there are a number, and perhaps a large number, of other obvious routes as well.
+i agree.
+as a result, the need to make value judgments on how to proceed in the course of a research programme is not necessarily a pointer against obviousness.
+sixthly, the motive of the skilled person is a relevant consideration.
+the notional skilled person is not assumed to undertake technical trials for the sake of doing so but rather because he or she has some end in mind.
+it is not sufficient that a skilled person could undertake a particular trial; one may wish to ask whether in the circumstances he or she would be motivated to do so.
+the absence of a motive to take the allegedly inventive step makes an argument of obviousness more difficult.
+in agrevo/triazoles (above), para 2.4.2, the technical board of appeal of the epo, having referred to the principle that the extent of the patent monopoly should correspond to and be justified by the technical contribution to the art (see para 54 above) made the point in these terms: moreover, in the boards judgment, it follows from this same legal principle that the answer to the question what a skilled person would have done in the light of the state of the art depends in large measure on the technical result he had set out to achieve.
+in other words, the notional person skilled in the art is not to be assumed to seek to perform a particular act without some concrete technical reason: he must, rather, be assumed to act not out of idle curiosity but with some specific technical purpose in mind.
+this forms the basis of the epos problem and solution approach to obviousness which i have quoted in para 61 above.
+seventhly, the fact that the results of research which the inventor actually carried out are unexpected or surprising is a relevant consideration as it may point to an inventive step, at least in so far as it suggests that a test was not obvious to try or otherwise the absence of a known target of the research which would make it less likely that the skilled person would conduct a test.
+eighthly, the courts have repeatedly emphasised that one must not use hindsight, which includes knowledge of the invention, in addressing the statutory question of obviousness.
+that is expressly stated in the fourth of the windsurfing/pozzoli questions.
+where the pattern of the research programme which the notional skilled person would undertake can clearly be foreseen, it may be legitimate to take a step by step analysis.
+in gedeon richter plc v bayer schering pharma ag [2011] ewhc 583 (pat); [2011] bus lr d153, floyd j stated (para 114): i think that the guiding principle must be that one has to look at each putative step which the skilled person is required to take and decide whether it was obvious.
+even then one has to step back and ask an overall question as to whether the step by step analysis, performed after the event, may not in fact prove to be unrealistic or driven by hindsight.
+the obvious danger of a step by step analysis is that the combination of steps by which the inventor arrived at his invention is ascertained by hindsight knowledge of a successful invention.
+lord diplock warned against this in technograph printed circuits ltd v mills & rockley (electronics) ltd [1972] rpc 346, 362, a warning which judges have reiterated in later cases.
+i am not persuaded by mr specks suggestion that technograph is concerned only with a case in which a step by step approach was constructed by counsel on cross examination in the absence of evidence of routine steps of research.
+the case contains a wider warning against the use of hindsight and has been interpreted as doing so.
+i agree with birss js analysis in hospira uk ltd v genentech inc [2014] ewhc 3857 (pat), para 240, where he stated: the particular point made in technograph was that it was wrong to find an invention was obvious if it was only arrived at after a series of steps which involve the cumulative application of hindsight.
+in some circumstances success at each step in a chain is a necessary predicate for the next one and it is only the hindsight knowledge of the invention as the target which could motivate a skilled person to take each step without knowledge about the next one.
+in a situation like that, technograph is important.
+but the technograph warning has no bearing in a case in which the steps which the notional skilled person would take can readily be ascertained without the taint of hindsight.
+ninthly, it is necessary to consider whether a feature of a claimed invention is an added benefit in a context in which the claimed innovation is obvious for another purpose.
+in hallen & co v brabantia (uk) ltd [1991] rpc 195 the court of appeal was concerned with an alleged selection patent for a self pulling corkscrew which had a helix coated with polytetrafluoroethylene (ptfe) which was a known friction reducing material.
+at the priority date ptfe had been used for several years to coat the helix of a twin lever type corkscrew to aid its penetration into the cork.
+the ptfe coated helix had this effect also on the self pulling corkscrew, a fact which was obvious at the priority date.
+the ptfe coat when applied to a self pulling corkscrew also had a non obvious benefit of making a striking improvement in the extraction of the cork.
+the trial judge, aldous j, held that the patent was invalid on the ground of obviousness because it was obvious to select the features of the claim for the first purpose notwithstanding that it was not obvious for the other purpose: [1989] rpc 307, 326 327.
+the court of appeal agreed with the judge, holding (pp 215 216) that it was self evident that a ptfe coating would improve the penetration by any corkscrew and that the golden bonus or added benefit of the dramatic improvement in extraction of the cork would not found a valid patent as the claimed innovation was obvious for another purpose.
+mr waugh does not challenge this principle but submits that the 181 patent does not involve such an added benefit.
+ii) dosage patents
+the courts are enjoined to have regard to all the relevant facts of particular case in assessing whether an alleged invention is obvious.
+one of those facts is the nature of the invention.
+a tenth consideration, therefore, is that here we are concerned with a dosage patent with a swiss form claim and an epc 2000 claim.
+the possibility that a dosage patent with such claims may be valid has been recognized both by the epo and in the united kingdom courts.
+in decision abbott respiratory llc/dosage regime (g 0002/08) ep:ba:2010:g000208.20100219 the enlarged board of appeal of the epo decided that, when it was already known to use a medicament to treat a particular illness, it was possible to obtain a patent for a new and inventive dosage regime for that medicament to treat that illness.
+in so finding the enlarged board decided (a) that the dosage patent did not breach the prohibition against the patenting of medical treatment in article 53(c) of the epc and (b) that a novel dosage regime for the treatment of the same illness could be a specific use under article 54(5) of the european patent convention.
+recognizing the risks of undue prolongation of patent rights, the enlarged board confirmed that the whole body of jurisprudence relating to the assessment of novelty and inventive step generally also applies.
+in relation to the assessment of obviousness this included consideration whether the dosage regime caused a new technical effect (para 6.3).
+the epo has therefore not sanctioned any relaxation of the tests of obviousness in relation to dosage patents.
+in the united kingdom the court of appeal addressed the question of dosage patents in actavis uk ltd v merck & co inc [2009] 1 wlr 1186.
+the case concerned an application to revoke a patent which included a swiss form claim for the use of a specified dose of a known and already patented substance, finasteride, in the treatment of androgenic alopecia.
+the court of appeal reversed the trial judges revocation of the patent, holding (para 29) that there was no policy reason why a novel non obvious dosage regime, which was the product of expensive and unpredictable research, should not be rewarded with a patent of a swiss form claim.
+jacob lj, who delivered the judgment of the court, added this significant qualification (para 32): so holding is far from saying that in general just specifying a new dosage regime in a swiss form claim can give rise to a valid patent.
+on the contrary nearly always such dosage regimes will be obvious it is standard practice to investigate appropriate dosage regimes.
+only in an unusual case such as the present (where, see below, treatment for the condition with the substance had ceased to be worth investigating with any dosage regime) could specifying a dosage regime as part of the therapeutic use confer validity on an otherwise invalid claim.
+the reason for this qualification is no mystery.
+the target of the skilled persons research is in large measure pre determined.
+as jacob lj stated (para 109), the skilled person would aim for a dose as low as possible consistent with effectiveness.
+that would normally be the appropriate dosage regime.
+i recognize and respect birss js finding of fact that there was no defined standard of minimal efficacy in relation to ed and that this would require the skilled team to make a value judgment (para 36 above).
+but he also found that it was common general knowledge that regulators were often interested in and could require evidence of the minimum effective dose (para 83 of his judgment) and that the skilled team would be familiar with multiple dose ranging studies as necessary as a generality (para 327 of his judgment).
+in my view, the inventiveness of the dosage regime falls to be assessed in that context.
+iii) the role of the appellate court
+finally, before addressing directly the question whether the court of appeal was entitled to reverse birss js finding of non obviousness, i remind myself of the limits of an appellate courts power to overturn the evaluation of a trial judge in this field.
+where inferences from findings of primary fact involve an evaluation of numerous factors, the appropriateness of an intervention by an appellate court will depend on variables including the nature of the evaluation, the standing and experience of the fact finding judge or tribunal, and the extent to which the judge or tribunal had to assess oral evidence: south cone inc v bessant, in re reef trade mark [2002] ewca civ 763; [2003] rpc 5, paras 25 28 per robert walker lj.
+an experienced patent judge faced with a challenge to a patent on the ground of obviousness, and who has heard oral evidence including cross examination, carries out an evaluation of all the relevant factors, none of which alone is decisive but each of which must be weighed in the balance in reaching a conclusion.
+in biogen inc v medeva plc [1997] rpc 1, 45, lord hoffmann emphasised the need for appellate caution in reversing the judges evaluation of the facts where the application of a legal standard involved no question of principle but was simply a matter of degree.
+he held that it would be wrong to interfere with the judges assessment if no question of principle were involved.
+what is a question of principle in this context? an error of principle is not confined to an error as to the law but extends to certain types of error in the application of a legal standard to the facts in an evaluation of those facts.
+what is the nature of such an evaluative error? in this case we are not concerned with any challenge to the trial judges conclusions of primary fact but with the correctness of the judges evaluation of the facts which he has found, in which he weighs a number of different factors against each other.
+this evaluative process is often a matter of degree upon which different judges can legitimately differ and an appellate court ought not to interfere unless it is satisfied that the judges conclusion is outside the bounds within which reasonable disagreement is possible: assicurazioni generali spa v arab insurance group (practice note) [2002] ewca civ 1642; [2003] 1 wlr 577, paras 14 17 per clarke lj, a statement which the house of lords approved in datec electronic holdings ltd v united parcels service ltd [2007] ukhl 23; [2007] 1 wlr 1325, para 46 per lord mance.
+thus, in the absence of a legal error by the trial judge, which might be asking the wrong question, failing to take account of relevant matters, or taking into account irrelevant matters, the court of appeal would be justified in differing from a trial judges assessment of obviousness if the appellate court were to reach the view that the judges conclusion was outside the bounds within which reasonable disagreement is possible.
+it must be satisfied that the trial judge was wrong: see, by way of analogy, in re b (a child) (care proceedings threshold criteria) [2013] uksc 33; [2013] 1 wlr 1911, paras 90 93 per lord neuberger, para 203 per lady hale. iv) were claims 7 and 10 of the 181 patent obvious?
+the patent bargain which lord mansfield described and the epo has used as an overarching principle (paras 53 and 54 above) underpins and creates a symmetry between the various provisions of the 1977 act which govern the validity of a patent (para 55 above).
+bearing in mind that symmetry, the starting point in the assessment of obviousness in this case is the daugan patent.
+its validity is not contested.
+indeed, lillys case assumes its validity.
+but to be valid it must both disclose and enable.
+it must disclose the invention, that is that tadalafil may be used as a pde5 inhibitor for the treatment of ed, to the notional skilled person who uses common general knowledge in construing the patent.
+it must also enable the notional skilled person to perform the invention using the disclosed matter, common general knowledge, and that persons uninventive skill in making trial and error experiments.
+in synthon bv v smithkline beecham plc [2005] ukhl 59; [2006] 1 all er 685, the house of lords addressed and distinguished the concepts of disclosure and enablement in the context of a challenge to the validity of a patent on the ground of lack of novelty because of anticipation by a prior patent application under section 2(3).
+but their lordships discussion of the need for both disclosure and enablement is equally relevant to the validity of a patent under sections 14(3) and 72(1)(c) as lord hoffmann stated at para 27 and lord walker at paras 63 and 64.
+one begins therefore with the assumption that the daugan patent has enabled the skilled person to perform the invention of the use of tadalafil for the treatment of ed.
+the notional skilled persons task is to implement the ex hypothesi valid patent.
+that involves finding the appropriate dosage regime having regard to safety, tolerability and effectiveness.
+the procedures to achieve that end are familiar and routine.
+in my view it is important to see the court of appeals discussion of familiar routine research in this case in this context (paras 102 104 below).
+in assessing whether the court of appeal was entitled to reject the trial judges evaluation it is important to recognize that the court of appeal did not reverse any of birss js findings of primary fact.
+both courts accepted that it was obvious for the skilled team to pursue the pre clinical and clinical research in order to implement daugan.
+motive was clearly present.
+it was not in dispute that the target of that research was to identify the appropriate dosage regime for tadalafil in the treatment of ed.
+it was accepted that the skilled team were looking for a dose response relationship and that they would know that, as a generality, multiple dose ranging studies were necessary.
+there was no challenge to the finding that the discovery of a therapeutic plateau between 25mg and 100mg doses would have surprised the skilled team.
+birss j, without relying on hindsight, held that it was very likely that the skilled team would research further by testing doses of 10mg and 5mg.
+that finding was amply justified as both mr muirhead and lillys expert, dr saoud, agreed that the skilled team would not stop the dose ranging studies when they had revealed that therapeutic plateau.
+indeed, as kitchin lj recorded, dr saoud accepted that the decision to test the lower doses, including the 5mg dose, was a no brainer.
+in short, the skilled team, having embarked on the phase iib tests, would have continued their search for a dose response relationship, because the purpose of the phase iib study had not been fulfilled.
+the court of appeal was correct to attach significance to this central finding because it undermined several of the factors which birss j placed in the balance as pointing to non obviousness in para 343 of his judgment.
+the fact that a 5mg dose was so much lower than the 50mg dose, which was recommended for sildenafil, mentioned in the daugan patent for tadalafil, and used in the notional skilled teams phase iia tests, is neither here nor there.
+the lack of an expectation of efficacy at a 5mg dose is a factor of little weight if, as was found, the skilled team would be very likely to study such a dose in the search for a dose response relationship.
+for the same reason the fact that the effectiveness of tadalafil at a dose of 5mg was a surprise can carry little, if any, weight.
+similarly, the finding that there was an important value judgment to be made when the therapeutic plateau was identified at the same time as a marketable dose can bear little weight when there is a finding, which is not tainted by hindsight, that the skilled team would continue their tests.
+i consider that the court of appeal was entitled to treat the judges failure to appreciate the logical consequences of the finding that it was very likely that the skilled team would continue the testing as an error of principle which allowed an appellate court to carry out its own evaluation.
+lilly also argues that the daily dosing regime by which a person prescribed tadalafil can take the drug once per day rather than on demand in expectation of sexual activity was enabled by the technical effect of the drug, namely the maintenance of efficacy with minimal side effects, which was not obvious and which justified the patent.
+i disagree for two reasons.
+first, the judge correctly treated the daily dosing regime as obvious because it was the result of the inevitable discovery of the half life of tadalafil in phase 1 of the tests.
+secondly, claims 7 and 10 are not confined to the daily dosing regime but also cover on demand use of the drug subject to a maximum total dose of 5mg per day.
+that is fatal to this argument.
+the inventive concept by which a patentee seeks to justify his or her monopoly must apply to all embodiments falling within the claims which are said to have independent validity.
+in brugger v medic aid ltd (no 2) [1996] rpc 635, 656 laddie j stated: it is not legitimate to define the inventive step as something narrower than the scope of the relevant claims.
+in particular it is not legitimate to identify a narrow sub group of embodiments falling within the claim and which have certain technical advantages and then to define the inventive step in terms which apply to that sub group but not the rest of the claim.
+i agree.
+a similar rule applies in the epos problem and solution approach in the requirement that the identified problem must be covered by all embodiments of the claim: see for example (cognis ip management gmbh / satuarated dicarboxylic acids) (case t 1014/07) ep:ba:2012:t101407.20120702, para 5.
+the daily dosing regime is not a factor which pointed against obviousness.
+standing back from the step by step analysis, it is clear that the skilled team was engaged in the familiar and routine testing of a drug to establish the appropriate dosage regime for tadalafil in order to implement the teaching of the daugan patent.
+that target was never in doubt.
+it was obvious to embark on that exercise and carry out tests in a routine way until that appropriate dose was ascertained.
+those tests included the completion of the dose ranging studies which were the purpose of phase iib.
+the fact that tadalafil at the dose of 5mg, while remaining effective as a treatment of ed, also, and unexpectedly, had the additional benefit of reduced side effects was an added benefit which does not prevent the identification of 5mg as the appropriate dose from being obvious.
+the completion of the phase iib dose ranging studies led to the asserted invention.
+mr waugh also submits (a) that the court of appeal lost sight of the requirement that obviousness must be assessed by reference to the subject matter of the relevant claims a dose of tadalafil of between 1mg and 5mgs for oral administration up to a maximum total dose of 5mg per day for the treatment of sexual dysfunction and not a loose paraphrase of what the claim or the process by which the dose is discovered, and (b) that the court of appeals approach conflicts with the problem and solution approach which the epo adopts.
+in support of the first submission, he refers to the statement of kitchin lj in medimmune ltd v novartis (above), para 93, that the court must answer a relatively simple question of fact: was it obvious to the skilled but unimaginative addressee to make a product or carry out a process falling within the claim (emphasis added).
+he also refers to lord hoffmanns statement in conor v angiotech (above) para 19, that the patentee is entitled to have the question of obviousness determined by reference to his claim and not a vague paraphrase based upon the extent of his disclosure.
+i am not persuaded that, in the context of a dosage patent, it is necessary for the skilled team to identify in advance of the phase iib tests the specific dose which is the subject of the claim.
+were it otherwise, many, if not most, dosage regimes would be patentable, whether the results of the tests were surprising or not, simply because the precise doses which ultimately are specified in the claim may not be sufficiently foreseeable.
+in my view, the medimmune requirement is met if the step by step approach, without the benefit of hindsight, demonstrates that the skilled team would be very likely to pursue the tests to the point at which they would ascertain the product or process falling within the claims.
+conor v angiotech does not assist lilly in this context.
+in that case the relevant claim of the patent taught the use of a stent coated with taxol in the prevention or treatment of recurrent stenosis, or restenosis, which is the constriction of an arterial channel after the insertion of a stent.
+conor, which challenged the patent on the ground of obviousness and not on the ground of insufficiency, sought to argue by reference to the patents specification that the patent taught no more than that taxol was worth trying.
+the house of lords rejected this challenge, directed attention to the terms of the claim, as section 125 of the 1997 act requires, rather than the specification, and held that the specification supported that claim.
+the case is not authority for the proposition that, in all circumstances, obviousness must be assessed by reference to the precise wording of the claim.
+in relation to the second submission, that the court of appeals approach was in conflict with the epos problem and solution approach, it is important to recall jacob ljs words in actavis v novartis (above) (para 26) that no one has ever suggested that the problem and solution approach is the only way to go about considering obviousness.
+like the windsurfing/pozzoli approach, it provides a structured approach which may assist in avoiding the dangers of hindsight and may be more helpful in some cases than in others.
+no formula should distract the court from the statutory question: generics (uk) ltd v daiichi pharmaceutical co ltd [2009] ewca civ 646; [2009] rpc 23, para 17 per jacob lj.
+further, there is considerable room for judgment and disagreement on the formulation of the objective technical problem to be solved.
+the epos guidelines for examination state (part g chapter vii, para 5.2): in the context of the problem and solution approach, the technical problem means the aim and task of modifying or adapting the closest prior art to provide the technical effects that the invention provides over the closest prior article the technical problem thus defined is often referred to as the objective technical problem.
+the guidelines recognize the difficulty which a court or tribunal faces in formulating the objective technical problem and state: the objective technical problem derived in this way may not be what the applicant presented as the problem in his application.
+the latter may require reformulation, since the objective technical problem is based on objectively established facts, in particular appearing in the prior art revealed in the course of the proceedings, which may be different from the prior art of which the applicant was actually aware at the time the application was filed.
+in particular, the prior art cited in the search report may put the invention in an entirely different perspective from that apparent from reading the application only.
+it is noted that the objective technical problem must be so formulated as not to contain pointers to the technical solution, since including part of a technical solution offered by an invention in the statement of the problem must, when the state of the art is assessed in terms of that problem, necessarily result in an ex post facto view being taken of inventive activity (see t 229/85, [oj 1987, 237]).
+the expression technical problem should be interpreted broadly; it does not necessarily imply that the technical solution is an improvement to the prior article thus the problem could be simply to seek an alternative to a known device or process which provides the same or similar effects or is more cost effective.
+the guidelines continue in para 5.3 to discuss the could would approach, which the epo adopts in the problem and solution approach, stating: the point is not whether the skilled person could have arrived at the invention by adapting or modifying the closest prior art, but whether he would have done so because the prior art incited him to do so in the hope of solving the objective technical problem or in expectation of some improvement or advantage (see t 2/83) when an invention requires various steps to arrive at the complete solution of the technical problem, it should nevertheless be regarded as obvious if the technical problem to be solved leads the skilled person to the solution in a step by step manner and each individual step is obvious in the light of what has already been accomplished and of the residual task still to be solved (see t 623/97 and t 558/00).
+i am not persuaded that the problem and solution approach would necessarily give a different answer from that of the court of appeal.
+the closest prior art is the daugan patent and the well established procedures of pre clinical and clinical testing.
+the problem posed by daugan was the identification of an appropriate dosage regime.
+the epo approach to assessing the obviousness of the claimed invention would then be to apply the could would approach, which means asking not whether the skilled person could have carried out the invention, but whether he would have done so in the hope of solving the underlying technical problem or in the expectation of some improvement or advantage: t 2/83 oj 1984 265 (rider/simethicone tablet), para 7; t 1014/07 (above) paras 7 and 8.
+the tangible evidence which reveals why the skilled team would have been prompted to come upon the asserted invention is that (a) the team would not have completed the dose ranging studies which phase iib requires if it had stopped after the initial dose ranging studies which revealed the therapeutic plateau and (b) dr saouds evidence that it was a no brainer to go on with the tests.
+the judges finding that the skilled team would not have had an expectation of effectiveness at a 5mg dose does not militate against the conclusion that the team would have investigated that dose in the course of a sequence of tests which had as its purpose the solution of the underlying technical problem, which the implementation of the daugan patent entailed.
+foreign judgments
+the court heard submissions about the judgments of the courts of other countries which are signatories of the epc on parallel revocation proceedings against the 181 patent.
+the claimants founded principally on the judgments in the netherlands and germany, in which in each case the national court revoked the patent on the ground of obviousness.
+we were also referred to judgments from other jurisdictions concerning the same patent, including belgium and portugal, which upheld the obviousness challenge, and denmark, poland and the czech republic, which reached a different view.
+i do not find the judgments particularly helpful.
+while consistency of approach between the domestic courts of the signatory states to the epc on matters of principle is desirable, we are not bound by the judgments of other national courts and it is possible that national courts applying the same law may come to different conclusions for various reasons: conor v angiotech (above) para 3 per lord hoffmann; dr reddys laboratories (uk) ltd v eli lilly (above) paras 79 82 per jacob lj, para 92 per lord neuberger mr; actavis uk ltd v eli lilly & co [2017] uksc 48; [2017] rpc 21, para 52 per lord neuberger.
+the dutch district court of the hague in teva pharmaceuticals europe bv v icos corpn (14 march 2018) held the patent to be invalid as obvious over daugan and in its judgment referred in some detail to the decisions of birss j and the court of appeal in this case.
+the court treated as important the objective of the phase iib test and dr saouds evidence in the english proceedings (para 4.22).
+the court recorded (para 4.24) that it had not used the problem and solution approach but that if it had, the outcome would probably not have been different: if one adopted icoss formulation of the problem as providing an improved dosing regime the skilled team, having ascertained the half life of tadalafil, would have tested doses during the dose ranging studies that enabled safe and effective daily use.
+the german federal patent court in its judgment in hexal ag v icos corpn of 24 october 2017 analysed the problem in the problem and solution approach to be to provide dosages of tadalafil for effective treatment of sexual dysfunction and stated that the skilled team would conduct dose finding studies as part of the standard repertoire in [their] field of activity.
+it considered and disagreed with the judgment of birss j on the significance of the unexpected reduction in side effects, which in german case law would be treated as a bonus effect.
+one can draw some support from judicial decisions in other national courts which reach the same conclusion as one has come to.
+but it is necessary to recognize not only that the first instance decisions in the netherlands and germany are the subject of appeals but also that the evidence led before different courts in parallel proceedings may differ and, even when the same evidence is led, each courts findings of fact based on that evidence may not be the same.
+for example, the german court attached weight to evidence (a) that sildenafil was effective at a 5mg dose and the skilled person would infer from that that tadalafil would be more effective at low dosages because of its ic50 value (a finding which supported the conclusion that the skilled team had a reasonable expectation of success in a test at that level) and (b) that it was customary to start dose ranging studies with very low initial doses and increase the doses if tolerated.
+neither of those findings was made in the english proceedings.
+similarly, the dutch court in its analysis of the phase iib studies accepted a mathematical calculation which tevas expert, dr cohen, advanced in those proceedings which was similar to the three factors point which the claimants put on cross examination to dr saoud in the english proceedings but which dr saoud accepted only as a paper exercise and birss j rejected as the thinking of the skilled team (paras 297 303 of his judgment).
+it is also necessary to observe, as mr waugh pointed out, that there was also a judgment in favour of lilly on obviousness in australia, which is not a signatory of the european patent convention.
+because of the differences in the evidence led, the manner by which it is tested, and the differing findings to which that evidence gives rise, one may derive support from the approach to the question and methods of reasoning of other national courts but should never rely uncritically on the outcome.
+interventions, selection patents and improvement patents
+in this appeal the court had the benefit of interventions from the ip federation, medicines for europe, the british generic manufacturers association, and the uk bioindustry association.
+the first intervener represents the views of a wide range of uk industry on policy and practice in relation to intellectual property rights.
+the second and third interveners represent the interests of a range of manufacturers of generic drugs.
+the fourth intervener is a national trade association for innovative enterprises in the bioscience sector of the uk economy.
+several interveners advocated that obviousness be approached by a fact specific assessment on a case by case basis, an approach which is consistent with my approach in this judgment, and resisted the recognition of any one factor as being of overriding importance, whether it be the cost and effort which pre clinical and clinical trials entail, or the standardised and sometimes routine nature of such tests.
+the uk bioindustry association asked for guidance on the relevance in the assessment of obviousness of (a) the reasonable expectation of success as a factor and (b) the problem and solution approach of the epo.
+it expressed concern that the judgment of the court of appeal might support the view that empirical research in the field of bioscience would not be seen as inventive in so far as the methods of research were well established.
+the ip federation similarly expressed concern about a perceived risk that people might extrapolate from statements in the court of appeals judgments that the result of routine investigations cannot lead to a valid patent claim.
+it expressed a particular concern about the breadth of the statement by lewison lj (in para 180): in a case which involves routine pre clinical and clinical trials, what would be undertaken as part of that routine is unlikely to be innovative.
+its concern was that a simplistic adoption of this phrase as a blanket test without regard to the facts of the specific case would be contrary to the fundamental principles of patent law.
+i do not interpret the court of appeals judgments, including lewison ljs statement which i have quoted, as supporting such an extrapolation.
+kitchin lj gave the leading judgment, in which he adopted a fact specific assessment based on the facts of this case and involving the weighing up of several factors, and floyd and lewison ljj agreed with his reasoning and conclusions.
+i do not construe the judgments of the court of appeal as supporting any general proposition that the product of well established or routine enquiries cannot be inventive.
+if that had been what the experienced judges had said, i would have respectfully disagreed.
+but it is not.
+as jacob lj stated in actavis v merck (above) para 29, there is no policy reason why a novel and inventive dosage regime should not be rewarded by a patent.
+a fortiori, efficacious drugs discovered by research involving standard pre clinical and clinical tests should be rewarded with a patent if they meet the statutory tests (para 54 above).
+mr waugh in his reply attacks mr specks proposition that nothing which was already within the skilled persons repertoire could be inventive.
+he suggests that such a proposition would undermine the so called selection patents and improvement patents.
+but because i do not accept mr specks submission on the skilled persons repertoire in this broad formulation, this judgment does not militate against selection patents or improvement patents.
+selection patents are patentable as involving an inventive step if the selection is not arbitrary and is justified by a hitherto unknown technical effect (agrevo/triazoles (above) para 2.5.3) or, in other words, when they make a real, novel and non obvious technical advance (dr reddys laboratories (above) para 50 per jacob lj; para 104 per lord neuberger mr).
+improvement in the context of the law of patents is in the most technical sense an invention which comes within the claims of an earlier patent but contains a further inventive step: buchanan v alba diagnostics ltd [2004] ukhl 5; 2004 sc (hl) 9; [2004] rpc 34, para 32 per lord hoffmann.
+the use of well known research tests of itself does not render such selections and improvements obvious.
+summary
+the balance or symmetry in patent law and the pre established or at least readily foreseeable target of the skilled teams tests hold the key to the resolution of this dispute.
+the daugan patent is ex hypothesi valid and it is not in dispute that it discloses an invention that is the use of tadalafil in the treatment of ed in a manner which enables the skilled person to perform it as section 14(3) of the 1977 act requires.
+the task which the notional skilled team would undertake was that of implementing daugan.
+the target of the skilled team would be to ascertain the appropriate dose, which would usually be the lowest effective dose.
+the skilled team would know of that target from the outset of its research.
+the pre clinical and clinical tests involved familiar and routine procedures and normally progressed to the discovery of the dose response relationship in phase iib.
+in this case the trial judges findings of what would have been the sequence of the tests, which did not depend upon hindsight, included the finding, which the evidence clearly justified, that the team, having found a therapeutic plateau, would be very likely to test lower doses and so come upon the dosage regime which is the subject matter of the patent.
+for the reasons which i have given above, i am satisfied that the court of appeal was entitled to interfere with the trial judges assessment of obviousness and to hold that the 181 patent was invalid for lacking an inventive step.
+the claimants other challenges
+having reached that conclusion, it is not necessary to address the claimants alternative arguments for revocation on the grounds of non disclosure by the priority document, anticipation, and added matter.
+conclusion
+i would dismiss the appeal.
