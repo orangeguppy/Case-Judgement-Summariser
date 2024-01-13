@@ -1,0 +1,2610 @@
+
+In the SINGAPORE INTERNATIONAL COMMERCIAL COURT of the republic of singapore[2023] SGHC(I) 6Originating Summons No 2 of 2022BetweenCNA … Plaintiff And(1) CNB(2) CNC… Defendants Originating Summons No 3 of 2022Between(1) CND(2) CNE… Plaintiffs And(1) CNB(2) CNC… DefendantsOriginating Summons No 4 of 2022Between(1) CND(2) CNE… PlaintiffsAnd(1) CNB(2) CNC… DefendantsOriginating Summons No 5 of 2022CNA… PlaintiffAnd(1) CNB(2) CNC… Defendants judgment[Arbitration — Award — Recourse against award — Setting aside] [Arbitration — Arbitral tribunal — Jurisdiction][Arbitration — Agreement — Separability]This judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in LawNet and/or the Singapore Law Reports.CNAvCNB and another and other matters[2023] SGHC(I) 6Singapore International Commercial Court — Originating Summonses Nos 2, 3, 4 and 5 of 2022Philip Jeyaretnam J, Simon Thorley IJ and Yuko Miyazaki IJ21–23 November 20222 May 2023 Judgment reserved.Philip Jeyaretnam J (delivering the judgment of the court):Introduction1 One of two co-owners of a video game licensed its distribution in China to a licensee by a software licencing agreement. Subsequently, the two co-owners and the licensee executed a supplementary agreement by which the second co-owner was added as a co-licensor under the software licensing agreement. The first co-owner thereafter acted on behalf of the second co-owner. In time, the second co-owner had concerns about the licensee’s conduct and commenced an arbitration under the arbitration clause in that agreement. Shortly after it did so, the first co-owner, who by then was a subsidiary of the licensee, entered into an extension agreement to extend the term of the licence with the licensee, purportedly acting under the same source of authority originally granted by the second co-owner so as to bind it. In addition to extending the term of the licence, the extension agreement provided for a different seat and different institution for any arbitration. Both the licensee and the first co-owner thereafter objected to the jurisdiction of the arbitral tribunal on the ground that the parties’ entry into the new arbitration agreement by the extension agreement had put an end to its jurisdiction. The arbitral tribunal rejected this objection on the basis that the new arbitration agreement had been made in breach of the first co-owner’s fiduciary duty to the second co-owner. 2 Upon challenge of the award to this court, our task is to determine for ourselves whether the arbitral tribunal had jurisdiction. This task involves considering whether the first co-owner’s authority is governed by Korean law or by Singapore law and, depending on the governing law, what duties if any the first co-owner owed to the second co-owner when purportedly agreeing on its behalf to change the arbitral seat and institution after the latter had commenced arbitration against the licensee at the originally agreed seat and institution.Background 3 This consolidated set of originating summonses comprises applications to set aside the partial award on liability (the “First Partial Award” and the award on costs arising from the findings made in the First Partial Award, the “Second Partial Award”, collectively with the First Partial Award, the “Partial Awards”) issued by a three-member arbitral tribunal in an arbitration commenced under the International Chamber of Commerce (“ICC”) Arbitration Rules 2017 (“ICC Rules”) and seated in Singapore in ICC Arbitration Case No. 22820/PTA/HTG (the “Present Arbitration”). 4 The asserted ground for setting aside is that the tribunal in the Present Arbitration (the “Tribunal”) lacked jurisdiction over the entire dispute because the ICC Clause (see [22] below) pursuant to which the Present Arbitration had been commenced was superseded on 30 June 2017 by the Shanghai International Arbitration Centre (“SHIAC”) Clause in the 2017 Extension Agreement (see [43] below), thus terminating the mandate of the Tribunal. The Tribunal rejected this argument on the basis that the entry into the 2017 Extension Agreement by CNA had happened in breach of fiduciary duty.The parties5 In SIC/OS 2/2022 and SIC/OS 5/2022, the plaintiff bringing the setting aside applications against the Partial Awards is CNA. In SIC/OS 3/2022 and SIC/OS 4/2022, the plaintiffs bringing the setting aside applications against the Partial Awards are CND and CNE. For SIC/OS 2 to 5 of 2022, the defendants are CNB and CNC. 6 CNA is an entity incorporated in the Republic of Korea (“Korea”) and listed on the Korean Securities Dealers Automated Quotations (“KOSDAQ”). CNA’s principal business is the development of PC and mobile games.
+                   1
+
+
+
+
+Foot Note 1
+
+×
+
+
+
+  Plaintiff’s Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 7; Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at para 11.
+
+
+
+ 7 CND is an entity incorporated in the People’s Republic of China (“PRC”). It is the wholly-owned indirect subsidiary of CNE, an entity incorporated in the Cayman Islands. CNE was formerly known by a different name.
+                   2
+
+
+
+
+Foot Note 2
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at paras 1 and 10.
+
+
+
+ CND and CNE were members of a corporate group (“CNE Group”) which is a leading developer, operator and publisher of online games in the PRC.
+                   3
+
+
+
+
+Foot Note 3
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at para 10.
+
+
+
+ 8 CNB is an entity incorporated in Korea and also listed on the KOSDAQ.
+                   4
+
+
+
+
+Foot Note 4
+
+×
+
+
+
+  Plaintiff’s Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 8. 
+
+
+
+ CNB is engaged in the business of developing and providing services related to Massively Multiplayer Online Role Playing Games (“MMORPG”) and mobile game software. CNC is an entity incorporated in Korea and is a wholly-owned subsidiary of CNB. CNC was established on 23 May 2017 by way of a vertical spin-off from CNB.
+                   5
+
+
+
+
+Foot Note 5
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at para 9.
+
+
+
+ 9 CNA and CNB are co-owners of the intellectual property rights in the MMORPG game [X] series. As a result of the spin-off (see [8] above), CNC succeeded to CNB’s intellectual property rights to the game [X] series, which thereafter made CNA and CNC co-owners of the intellectual property rights in the game [X] series.10 In 2005, CNE, through a related company, became the largest shareholder in CNA, holding 38.1% of its shares. As at the date of commencement of the Present Arbitration, CNE owned 51.09% of CNA through its wholly-owned BVI subsidiary.
+                   6
+
+
+
+
+Foot Note 6
+
+×
+
+
+
+  2JBOD12.
+
+
+
+Genesis of the game [X2] 11 In mid-1997, a group of computer club students in a Korean university, led by Mr P, developed the first iteration of the game [X]. Mr P established CNA. The student developers held a 51% stake in CNA, while an investor, Mr H, held the remaining 49% stake.
+                   7
+
+
+
+
+Foot Note 7
+
+×
+
+
+
+  9JBOD70–71.
+
+
+
+ The game [X] was launched in November 1998. The relationship between Mr P and Mr H broke down in 1999, and Mr P left CNA to establish his own business, CNB, in early 2000. CNA acquired 40% of the shares in CNB, while Mr P held 60% of its shares.12 Following the acquisition of shares, CNA and CNB entered into a series of agreements to regulate their relationship as co-owners of the copyright in the products in the game series, which includes the sequel game [X2]. The development of the game [X2] was completed around September 2000.Agreements governing the relationship between parties13 The relevant agreements entered into by parties are summarised in the table below for ease of reference: DateTitle of agreementParties involved23 February 2000Agreement on Joint Development of Products and Dealership (the “Domestic Agreement”)
+                   8
+
+
+
+
+Foot Note 8
+
+×
+
+
+
+  21JBOD166.
+
+
+
+CNA and CNB26 February 2001Agreement on Joint Development of Products and Overseas Dealership (the “Overseas Agreement”)
+                   9
+
+
+
+
+Foot Note 9
+
+×
+
+
+
+  21JBOD173.
+
+
+
+CNA and CNB29 June 2001Software Licensing Agreement
+                   10
+
+
+
+
+Foot Note 10
+
+×
+
+
+
+  2JBOD244.
+
+
+
+CNA, CNE and Third Party (“TP”)14 July 20022002 Supplementary Agreement
+                   11
+
+
+
+
+Foot Note 11
+
+×
+
+
+
+  2JBOD258.
+
+
+
+CNA, CNE and CNB29 April 20042004 Settlement Record
+                   12
+
+
+
+
+Foot Note 12
+
+×
+
+
+
+  2JBOD509.
+
+
+
+ CNA and CNB22 September 20052005 Extension Agreement
+                   13
+
+
+
+
+Foot Note 13
+
+×
+
+
+
+  2JBOD537.
+
+
+
+CNA, CNE and TP26 November 20082008 Extension Agreement
+                   14
+
+
+
+
+Foot Note 14
+
+×
+
+
+
+  2JBOD545.
+
+
+
+CNA, CNE and TP4 February 20092009 Supplementary Agreement
+                   15
+
+
+
+
+Foot Note 15
+
+×
+
+
+
+  2JBOD550.
+
+
+
+CNA, CNB and CNE30 June 20172017 Extension Agreement
+                   16
+
+
+
+
+Foot Note 16
+
+×
+
+
+
+  3JBOD211.
+
+
+
+ CNA, CND and CNE14 It should be noted that the Domestic Agreement and Overseas Agreement were both written in Korean and CNA contests the accuracy of the translation relied upon by the Tribunal. For the Domestic Agreement, CNA’s translation bears the title “Agreement on the Joint Product Development and Entrustment of the Sales Operations of Product” [emphasis added].
+                   17
+
+
+
+
+Foot Note 17
+
+×
+
+
+
+  2JBOD217.
+
+
+
+ As for the Overseas Agreement, a similar title appeared in the translation provided by CNA: the “Agreement on Joint Product Development and Entrustment of Overseas Sales and Operation” [emphasis added].
+                   18
+
+
+
+
+Foot Note 18
+
+×
+
+
+
+  2JBOD229.
+
+
+
+ We return to the issue of translations below at [120]–[125].Basic Agreement15 On 18 February 2000, CNA and CNB entered into the Basic Agreement (the “Basic Agreement”). Article 2 of the Basic Agreement provided that “[CNA] and [CNB] shall cooperate with each other with regard to the joint development of the ‘[game [X]]’ series and execute a separate joint development agreement”.
+                   19
+
+
+
+
+Foot Note 19
+
+×
+
+
+
+  2JBOD210.
+
+
+
+Domestic Agreement16 On 23 February 2000, CNA and CNB entered into the Domestic Agreement to regulate their respective roles in the development and dealership of the game [X].
+                   20
+
+
+
+
+Foot Note 20
+
+×
+
+
+
+  21JBOD166.
+
+
+
+ The salient terms of the Domestic Agreement were as follows: Article 1 (Purpose): [CNA] shall support upgrading and developing [game [X]] Series, and [CNB] shall make every effort and use all reasonable skill and care. Article 2 (Recognition of Sales Revenues): The sales revenues on [game [X]] Series shall be recognized as [CNA’s] profits. Article 3 (Commission): [CNA] shall pay fifty (50) percent of the sales revenues on [game [X]] Series as the commission to [CNB]. If [CNB] develops [game [X]] Series, and the total number of concurrent users exceed ten thousand (10,000) persons after Beta Service or commercialized pay service, [CNA] shall pay sixty (60) percent of sales revenues on [game [X]] Series as commission to [CNB] to improve the quality of operation service from the following month. …Article 9 (Ownership of Developed Products): [CNA] and [CNB] shall own [game [X]] Series products in a ratio of half and half during the term of Agreement, and [CNA] shall assign the ownership to [CNB] from the expiration of the term of Agreement under the other Agreement separately entered into. Article 10 (Operation of Developed Products): [CNB] shall hold all the rights to operate and manage matters related to the developed products. In respect of this, [CNA] shall sincerely cooperate with [CNB], and [CNB] shall abide by the good faith. Overseas Agreement17 Subsequently, CNA and CNB entered into the Overseas Agreement dated 26 February 2001. Pursuant to Art 2 of the Overseas Agreement, the applicability of the Domestic Agreement was limited to sales within Korea. The Overseas Agreement set out terms pertaining to the joint development and overseas sales of the game series. It recognised the overseas sales of the game series as the revenue of CNA, and set out the commission structure and the development fee payments for CNB. The key terms of the Overseas Agreement were as follows: Article 3. Purport of Development[CNA] shall support the upgrade and development of the "[game [X]]" series and [CNB] shall exert its best efforts with due care as a good manager.Article 4. Recognition of SalesThe overseas sales of the "[game [X]]" series shall be entirely recognized as the revenue of [CNA].Article 5. Payment of Commission for Sales Entrustment(1) [CNA] shall pay [CNB] 60% of the overseas sales revenue from the "[game [X]]" series as commission for sales entrustment.(2) However, in the case of an overseas market which is developed by [CNA] and where an overseas service agreement has been executed by [CNA], [CNA] shall pay [CNB] 50% of the overseas sales revenue for the relevant area as commission for sales entrustment.Article 6. Amount and Term of Payment of Development Fee(1) [CNA] shall pay [CNB] 20% of the overseas sales revenue as development fee until December 31, 2004 in order to encourage development and continuous upgrade of the "[game [X]]" series.(2) Expenses incurred in connection with the development and improvement of jointly developed products shall be borne by [CNB].…Article 11. Ownership of Developed ProductsThe "[game [X]]" series shall be jointly owned by both parties in equal proportion during the term of this Agreement, and the ownership shall be transferred to [CNB] after the term of this Agreement in accordance with a separate agreement.Article 12. Operation of Developed ProductsAll rights to operation and maintenance related to the developed products shall reside with [CNB]. [CNA] shall dutifully cooperate therewith, and [CNB] shall comply with the principle of good faith.[emphasis in original]In accordance with Art 14 of the Overseas Agreement, it was effective until 31 December 2004.18 There were subsequent clarifications to Art 9 of the Domestic Agreement, and to the definition of terms in the Overseas Agreement. Clarifications to Art 9 of the Domestic Agreement19 On 23 May 2001, CNA and CNB entered into another agreement
+                   21
+
+
+
+
+Foot Note 21
+
+×
+
+
+
+  2JBOD236.
+
+
+
+ to clarify the purpose of Art 9 and the intent behind Art 9 and Art 12 of the Domestic Agreement. It was explained that Art 9 was “symbolically inserted to enhance [CNB’s] confidence as a game developer” and expressed generally the possibility of the transfer of joint ownership to CNB in the event that parties mutually agree (at cl 1). Further, it was provided that “[n]otwithstanding [Art 9 and Art 12], … both parties shall maintain their cooperative relationship even after December 31, 2003” and that “both parties shall operate their businesses by mutual and peaceful agreements in accordance with the ground understandings of the Basic Agreement” (at cl 2). These clarificatory provisions were to apply to all agreements executed between CNA and CNB after 18 February 2000.Clarifications to the definition of terms used in the Overseas Agreement20 On 1 August 2001, CNA and CNB signed another agreement
+                   22
+
+
+
+
+Foot Note 22
+
+×
+
+
+
+  21JBOD178.
+
+
+
+ to clarify, inter alia, that “overseas sales” referred to “the amount [payable] under an agreement entered into by and between any party [ie, CNA or CNB] and a third party from a foreign nation”. This provided clarification that the Overseas Agreement also allowed CNB to itself establish an agreement with an overseas party, and share profits with CNA, according to the terms in the Overseas Agreement.Software Licensing Agreement 21 On 29 June 2001, CNA, solely in its name, entered into the Software Licensing Agreement (the “SLA”) with the predecessors of CND and CNE.
+                   23
+
+
+
+
+Foot Note 23
+
+×
+
+
+
+  2JBOD244.
+
+
+
+ Under the SLA, CNE was granted the sole and exclusive licence to “use, promote, distribute, market, adapt or modify, and convert the Chinese-language version of the [computer game [X2] delivered in CD-ROM and internet and related documentation, images and films, published specifications and trademark, logo and artwork related to the game series]”. The licence was valid for a minimum of two years and would automatically extend for a further term of one year unless either party sent a written notice to the other stating that it did not want to renew the SLA within 60 days prior to its expiration. In return, CNE agreed to pay a non-refundable licensing fee of US$300,000 upon signing the SLA and a monthly royalty fee in the amount of 27% of the revenue from sales of the game [X2]. 22 Clause 8.04 of the SLA contained a Singapore-law governing law clause and provided for an ICC arbitration in Singapore (the “ICC Clause”):This Agreement shall be governed and construed by in accordance with the laws of Singapore. All disputes arising under this Agreement shall be submitted to final and binding arbitration. The arbitration shall be held in Singapore in accordance with the Rules of Arbitration of the International Chamber of Commerce. 23 Following the SLA, the Chinese-language version of the game [X2] was launched around late 2001 in the PRC to resounding success. By 2002, the game [X2] accounted for 60% of the online game market in the PRC. It remains one of the most popular MMORPG in the PRC.  2002 Supplementary Agreement24 Following the success of the game [X2], in or around December 2001, bugs and cheating programs started to interfere with its operation. CNE approached CNA to seek assistance to resolve the technical issues pursuant to cl 5.04 of the SLA, which provided that throughout the term of the SLA, the “Licensor” was responsible for providing technical services in connection with the installation and on-site maintenance of, inter alia, the computer game [X2].25 However, CNA was unable to assist as it relied on CNB to resolve technical issues pursuant to the cooperative arrangements between CNA and CNB where CNB was responsible for the day-to-day servicing of the game [X2]. CNB was not a signatory to the SLA. CNE was displeased to learn that while it was contractually entitled to technical support from the “Licensor” (ie, CNA under the SLA), CNA relied on CNB to fulfil this obligation. CNE also alleged that CNA had materially misrepresented its status as the sole owner of, inter alia, the computer game [X2], licensed under the SLA. In light of this development, discussions ensued between the parties concerning how to resolve the dispute. 26 On 14 July 2002, CNA, CNB and CNE entered into a Supplementary Agreement to the SLA (ie, the 2002 Supplementary Agreement), which detailed CNB’s obligation, as co-licensor, to CNE to resolve technical problems that might affect the servicing and normal operation of the computer game [X2] in the PRC.27 In the preamble to the 2002 Supplementary Agreement, it was provided that the SLA would remain effective until 28 September 2003 and CNB would “perform relevant obligations in respect of the technical support”. It further stated that “[CNA] and [CNE] have agreed to accept [CNB] as [the game [X2]]’s co-Licensor, and [CNB] will entrust [CNA] with the exercise of all its rights as co-Licensor, and the entrustment is irrevocable during the term of the [SLA] and [the 2002] Supplementary Agreement” (the “Entrustment Recitation”). The Supplementary Agreement therefore introduced CNB as a co-licensor to provide technical support for the computer game [X2], but its rights as co-licensor were to be entrusted to CNA so that CNE could continue dealing only with CNA. 28 The terms of the 2002 Supplementary Agreement related to CNE’s rights to the upgraded version of the game [X2], CNE’s payment of the royalties it had withheld, and CNB’s obligations to CNE to solve technical problems that may affect the otherwise normal operation of the game in an active manner in accordance with the SLA and the 2002 Supplementary Agreement. Clause 8 of the 2002 Supplementary Agreement stated that the conclusion of the 2002 Supplementary Agreement did not in any way affect the validity of any clause in the SLA nor the lawful acquisition of any rights that the parties to the SLA were entitled to.29 The disputes between CNA, CNB and CNE continued despite the signing of the 2002 Supplementary Agreement. These included concerns about persistent bugs and cheating programs which affected the operation of the game [X2], and the leak of the source code of the game [X2]. Consequently, CNE elected to stop paying royalties. In turn, CNA sent notice of termination of the SLA and the 2002 Supplementary Agreement to CNE on the basis of non-payment of royalties. CNE denied the effectiveness of the termination. CNB, on the other hand, wrote to CNA, stating that it did not have any intention to maintain the SLA and the 2002 Supplementary Agreement. CNB also informed CNA that it should not withdraw its notice of termination or renew the SLA. This precipitated an arbitration commenced by CNE against CNA and CNB pursuant to the ICC Clause in the SLA (the “2003 ICC Arbitration”).2004 Settlement Record 30 Between 2003 and 2004, multiple proceedings in the Korean courts were brought by CNA and CNB against each other. There were over 20 lawsuits filed between the parties during that time.
+                   24
+
+
+
+
+Foot Note 24
+
+×
+
+
+
+  5JBOD360.
+
+
+
+31 On 29 April 2004, CNA and CNB agreed to settle all pending litigation in the Korean courts by way of a settlement agreement reviewed, approved, recorded and sealed by the Seoul Central District Court (ie, the 2004 Settlement Record).
+                   25
+
+
+
+
+Foot Note 25
+
+×
+
+
+
+  2JBOD509.
+
+
+
+ The 2004 Settlement Record contained terms on the allocation of sales and revenue recognition for overseas sales and agreements entered into by each party with respect to the game [X2] and the threequel, the game [X3], as well as each party’s right to separately execute licence agreements with third parties in relation to the game [X2] and the game [X3].32 The pertinent clauses of the 2004 Settlement Record are set out below:(a) Clause 1: CNA acknowledged the existing licence agreement between CNB and a third-party PRC licensee, and CNB acknowledged the existing agreement between CNA and CNE (ie, the SLA).(b) Clauses 3 and 7(B): When entering into an agreement with a new counterparty overseas with respect to [the game [X2]] and [the game [X3]], the sales shall be allocated between CNA and CNB in the ratio of 30:70 if the deal was sourced by CNA and from its agreement with CNE, or in the ratio of 20:80 if the deal was sourced by CNB and from the agreement with the third-party PRC licensee. The right to recognise sales would be vested in either party who had sourced the deal.(c) Clause 7(A): The right to renew the existing agreements with CNE (ie, the SLA) was vested in CNA, and the right to renew the existing agreements with, inter alia, the third-party PRC licensee, shall be vested in CNB, “provided, however, that [CNA] and [CNB] shall consult with each other when renewing any of such agreements” [emphasis in original omitted, emphasis in italics added]. Further Extension Agreements33 Subsequent to the 2003 Amendment Agreement (see [47] below), the SLA was assigned, amended and extended several more times over the years, by CNA entering into an agreement with CNE or their assignees. CNB was not a party to these agreements, save for the 2009 Supplementary Agreement. 34 The 2009 Supplementary Agreement was made between CNA, CNB and CNE to set out the terms and conditions under which CNB would provide specified textual and/or graphical content pertaining to the game [X2] and technical support directly to CNE.
+                   26
+
+
+
+
+Foot Note 26
+
+×
+
+
+
+  2JBOD550.
+
+
+
+ 35 Whilst CNB was not a party to the other agreements, it was consulted on the following: (a) 2005 Extension Agreement: On 22 September 2005, CNA, CNE and an import agent entered into the 2005 Extension Agreement which extended the SLA to 28 September 2008, with a further automatic extension to 28 September 2009 if there were no disputes between CNA and CNE. The upfront licence fee was US$3 million. Before this court, it was not disputed that there had been discussions between CNA and CNB prior to the execution of the 2005 Extension Agreement.  (b) 2008 Extension Agreement: On 26 November 2008, CNA, CNE and the import agent entered into the 2008 Extension Agreement which extended the SLA to 28 September 2015 with a further automatic extension to 28 September 2017 if there were no disputes between CNE and CNA with regards to the licence. The upfront licence fee was US$7 million. CNB and CNA discussed this extension in written correspondence from 13 November 2008 to 24 November 2008.
+                   27
+
+
+
+
+Foot Note 27
+
+×
+
+
+
+  11JBOD250 – 11JBOD258.
+
+
+
+2017 Extension Agreement36 From 2013, the demand for PC-client games began to shrink, while the demand for web and mobile games started to grow rapidly. On the back of the change in market trends, the parties began negotiating an arrangement to exploit the mobile version of the game [X2]. On 10 March 2015, CND entered into two separate mobile games licence agreements with CNB and CNA respectively to develop the mobile version of the game [X2].37 However, around that same period, CNB discovered that CND (acting on behalf of CNE) or CNE did not merely use the authorisation letters it previously provided to them to police the infringing activities in the PRC (which was the basis upon which the letters were sought). Instead, these authorisation letters were used to grant “sub-licences” for the game [X2] PC-client, web and mobile games. This was in breach of CNE’s limited licence under the SLA, which CND / CNE acknowledged in early 2015 to mid-2016. Pursuant to the concession, CND / CNE agreed to inform CNB of all the “sub-licences” which had been granted, and to remit the profits made to CNB and CNC.
+                   28
+
+
+
+
+Foot Note 28
+
+×
+
+
+
+  See First Partial Award at para 209 (2JBOD62).  
+
+
+
+ 38 There were reconciliatory efforts between parties to continue with the licensing arrangement. On 6 January 2016, CND / CNE entered into two separate mobile games licence agreements with CNB and CNA respectively to develop and service a derivative mobile version of the game [X2]. Unfortunately, the concessionary promises made by CND / CNE were not kept. 39 CNA and CNB diverged in their responses to this. In or around August 2016, CNA issued an authorisation letter for CND and CNE covering the period of 29 September 2015 to 28 September 2017 (the “2016 Authorisation Letter”). The 2016 Authorisation Letter purported to give CND and CNE the rights to “compile and permit use by third party” and “transfer and sub-authorize all rights under this contract to a third party”. This departed from the content of the previous authorisation letters, which had been to facilitate the prosecution of infringing activities. Conversely, in light of these alleged transgressions, over the period of January to April 2017, CNB had expressed its unhappiness to CNA through letters detailing CND and CNE’s breaches of the SLA and its continued failure to take any corrective actions. CNA either remained silent in the face of the correspondence or requested CNB to produce evidence of these alleged breaches by CND or CNE. 40 CNB commenced the Present Arbitration on 18 May 2017 against CND and CNE for their breaches of the SLA. On 23 May 2017, CNC succeeded to all of CNB’s rights and obligations in respect of the game [X2], including the SLA, by way of a vertical spin-off. 41 After the commencement of the Present Arbitration, CNC summarised the previous correspondence between parties and detailed the evidence it had of the breaches by CND and/or CNE of the SLA, and sent this to CNA by letter on 26 May 2017. CNC also indicated in another letter to CNA on 29 May 2017 that it did not intend to renew or extend the SLA, and urged CNA to do the same. CNA forwarded CNC’s letters to CND and CNE in order for them to confirm if the details were true and to express their position.
+                   29
+
+
+
+
+Foot Note 29
+
+×
+
+
+
+  2JBOD730.
+
+
+
+ On 16 June 2017, CND responded to CNA to deny the allegations.
+                   30
+
+
+
+
+Foot Note 30
+
+×
+
+
+
+  3JBOD8–3JBOD10. 
+
+
+
+ On 22 June 2017, CNA informed CNB that it took the view that “[CNE] has stated a sufficiently reasonable opinion with regard to the questions raised by [CNB]”.
+                   31
+
+
+
+
+Foot Note 31
+
+×
+
+
+
+  3JBOD7.
+
+
+
+ The next day, CNA indicated to CNB / CNC that it was negotiating the renewal of the SLA with CND and/or CNE.
+                   32
+
+
+
+
+Foot Note 32
+
+×
+
+
+
+  3JBOD35.
+
+
+
+ 42 On 27 June 2017, CNB / CNC applied for injunctive relief before the Korean courts to restrain CNA from renewing the SLA. At the time, the Tribunal had not yet been constituted.43 The 2017 Extension Agreement was concluded between CNA and CND / CNE on 30 June 2017. Several key features of the 2017 Extension Agreement are set out as follows: (a) Clause 1: The term of the SLA, which was due to expire on 28 September 2017, was extended to 28 September 2023. It would be automatically extended to 28 September 2025 if there were no new disputes with respect to the game [X2] between CNA and CND. CND would pay to CNA upfront licence fees of US$11 million (which was more than 50% higher than the licence fee payable under the 2008 Extension Agreement).(b) Clause 2: The SLA, amendments to the SLA and the 2017 Extension Agreement would be governed by PRC law, with all disputes arising under the SLA, amendments to the SLA and the 2017 Extension Agreement to be submitted to final and binding arbitration before the SHIAC seated in Shanghai, PRC (the “SHIAC Clause”).(c) Clause 5: The 2017 Extension Agreement would become effective when one or more counterparts have been signed by each of the parties and delivered to the other parties, ie, on 30 June 2017.44 CND / CNE subsequently relied on the SHIAC Clause in the 2017 Extension Agreement to challenge the jurisdiction of the Tribunal (which was in the process of being constituted) in the Present Arbitration. The challenge was set out in CND and CNE’s Answer to Request for Arbitration filed on 18 August 2017 (“Answer”).
+                   33
+
+
+
+
+Foot Note 33
+
+×
+
+
+
+  3JBOD468 at para 36.
+
+
+
+ The proceedings and decision of the Tribunal in the Present Arbitration are set out at [52]–[62] below.Dispute history 45 Given the nature and length of parties’ relationship, it comes as no surprise that parties have commenced numerous proceedings against each other in multiple forums across a number of jurisdictions. For the purpose of these applications, however, we set out the circumstances and decision of the tribunal of the 2003 ICC Arbitration.2003 ICC Arbitration 46 On 4 July 2003, pursuant to the ICC Clause, CNE commenced an arbitration against CNA and CNB to challenge the effectiveness of their termination notices given on 24 January 2003 and 12 November 2002 respectively. In its claim, CNE sought damages for breach of contract.47 Following the commencement of the 2003 ICC Arbitration, CNA and CNE entered into the 2003 Settlement Agreement on 19 August 2003 to resolve their disputes. As part of the 2003 Settlement Agreement, CNA entered into the 2003 Amendment Agreement which extended the expiry date of the SLA from 28 September 2003 to 28 September 2005, and further to 28 September 2006 if there were no disputes over the game [X2]. 48 On 29 August 2003, CNE informed the ICC that it had settled with CNA and was withdrawing the 2003 ICC Arbitration against CNA and CNB.
+                   34
+
+
+
+
+Foot Note 34
+
+×
+
+
+
+  1JBOD431.
+
+
+
+ On 8 September 2003, CNB filed its Answer with Counterclaim against CNE and objected to this on the basis that CNB was not a party to the 2003 Settlement Agreement and the 2003 Amendment Agreement – therefore, the disputes between CNE and CNB had not been settled.
+                   35
+
+
+
+
+Foot Note 35
+
+×
+
+
+
+  2JBOD315.
+
+
+
+ On 20 October 2003, CNB filed cross-claims against CNA, alleging, inter alia, that CNA had acted in breach of the Overseas Agreement.49 Parties exchanged their respective submissions on jurisdiction in the 2003 ICC Arbitration on 9 December 2004.50 Following the hearing on the 2003 ICC Arbitration, on 28 October 2005, Professor Lawrence G S Boo, the sole arbitrator, issued the 2005 Interim Award.
+                   36
+
+
+
+
+Foot Note 36
+
+×
+
+
+
+  2JBOD470–2JBOD507.
+
+
+
+ 51 The 2005 Interim Award found that the Domestic Agreement and the Overseas Agreement governed CNB and CNA’s relationship inter se (at [122]). Although the 2002 Supplementary Agreement was taken to have incorporated the ICC Clause in the SLA, CNB’s cross-claims fell within the scope of the Domestic Agreement and the Overseas Agreement, and not the 2002 Supplementary Agreement (at [124]). The tribunal held that the 2002 Supplementary Agreement primarily regulated “the licensing arrangements by both [CNA] and [CNB] (as one interest bloc) with [CNE]” (at [123]). Consequently, the tribunal held that it had no jurisdiction over CNB’s cross-claims against CNA, which were issues arising out of the Domestic Agreement and Overseas Agreement that governed their relationship as co-licensors (at [124]). The Present Arbitration52 The circumstances leading up to the Present Arbitration are set out at [36]–[40] above. To recapitulate, in the Present Arbitration, the claimants were the defendants in the present applications, CNB and CNC. The respondents were the plaintiffs in the present applications, CNA, CND and CNE.Procedural history of the Present Arbitration53 CNB commenced the Present Arbitration on 18 May 2017 against CND and CNE for their breaches of the SLA under the ICC Clause. Following CNC’s succession to all of CNB’s rights and obligations in respect of the game [X2], including the SLA, CNB submitted a request on 30 August 2017 to join CNC as a co-claimant and CNA as an additional respondent.54 On 20 June 2017, CND / CNE requested a time extension from the ICC to enable them to consider CNB / CNC’s Request for Arbitration and to seek legal advice before filing their Answer. The ICC granted an extension of time until 18 August 2017. Between the request for the time extension and the deadline, CNA entered into the 2017 Extension Agreement with CND and CNE on 30 June 2017. Thereafter, CND and CNE filed their Answer, where they relied on the SHIAC Clause in the newly executed 2017 Extension Agreement to challenge the jurisdiction of the Tribunal.
+                   37
+
+
+
+
+Foot Note 37
+
+×
+
+
+
+  3JBOD461 at para 13.
+
+
+
+ Parallel SHIAC Arbitration55 On 22 August 2017, CND commenced the SHIAC Arbitration against CNA seeking a declaration that the 2017 Extension Agreement was valid and effective. CNB alleged that it was unaware of the SHIAC Arbitration until 11 October 2017, when CND relied on it to oust the PRC courts’ jurisdiction in proceedings that CNB / CNC commenced against CNA and CND.
+                   38
+
+
+
+
+Foot Note 38
+
+×
+
+
+
+  2nd Affidavit of Byung Chul Kim dated 21 March 2022 at para 17: 25JBOD at Tab 27 (25JBOD579).
+
+
+
+ On 23 January 2018, the tribunal in SHIAC Case No. SX2017053 delivered its award, which confirmed the validity of the 2017 Extension Agreement.
+                   39
+
+
+
+
+Foot Note 39
+
+×
+
+
+
+  3JBOD265.
+
+
+
+ 56 The Tribunal in the Present Arbitration was constituted on 27 December 2017. 57 On 3 January 2018, CNB / CNC applied to the Tribunal for, inter alia, interim injunctive relief for the withdrawal of the SHIAC Arbitration or to restrain CND / CNE from continuing with the SHIAC Arbitration until further order by the Tribunal. Following the issuance of the SHIAC award, CNB / CNC applied to amend the relief to include restraining the enforcement of the SHIAC award or reliance on the SHIAC award to make representations to third parties. Interim relief was granted against CND / CNE on 26 March 2018 to prevent enforcement and reliance on the SHIAC award.
+                   40
+
+
+
+
+Foot Note 40
+
+×
+
+
+
+  5JBOD332.
+
+
+
+ The Tribunal declined to make any order against CNA.58 The parties then filed their respective memorials on jurisdictional challenges and liability. 59 On jurisdiction, the claimants in the Present Arbitration (ie, CNB and CNC) argued that the ICC Clause applied such that the alleged breaches under the SLA fell within the Tribunal’s jurisdiction. The gist of the case mounted by the respondents in the Present Arbitration (ie, CNA, CND and CNE) was that the Tribunal lacked jurisdiction to determine whether the SLA was breached because the ICC Clause, which formed the basis of its jurisdiction, had been terminated, replaced and/or superseded by the SHIAC Clause in the 2017 Extension Agreement. In defence of the Tribunal’s jurisdiction, CNB / CNC argued that the 2017 Extension Agreement was void or invalid because it was executed by CNA in breach of its fiduciary duties owed to CNB / CNC. 60 As to liability on the merits, CNB / CNC claimed that CND and CNE breached the SLA by authorising and/or facilitating third parties to develop and exploit unauthorised web, mobile and PC-client versions of the game [X2]. This claim was premised on the limited scope of the SLA, which conferred on CND only the right to use, promote or distribute the game [X2] in PC-client format and to sub-license to six permitted sub-licensees. Against CNA, CNB / CNC alleged that it had procured or induced and/or actively assisted CND and CNE in their breaches of the SLA. CNB / CNC also claimed that CNA, CND and CNE conspired to injure by unlawful means in amending the dispute resolution and governing law clause via the 2017 Extension Agreement and by procuring the SHIAC award.The Tribunal’s decision in the Present Arbitration61 On 8 June 2020, the Tribunal issued the First Partial Award on liability. The findings in the First Partial Award are summarised as follows:(a) The 2017 Extension Agreement was invalid. As the source of CNA’s authority to renew or extend the SLA arose from the Entrustment Recitation in the 2002 Supplementary Agreement which was governed by Singapore law, CNA was an agent of CNB/CNC and owed fiduciary duties to them in the exercise of their rights as co-licensors to, inter alia, act in the joint interests of itself and CNB/CNC and act in good faith and with due diligence (at [181]). The Tribunal had jurisdiction to determine if CNA owed and breached fiduciary duties and/or the duty to consult under the 2004 Settlement Record because there was a close connection to the SLA and the ICC Clause ought to be interpreted widely (at [196]). CNA breached its fiduciary duties and its duty to consult (at [215]–[218] and [230]–[232]). Thus, CNB / CNC were not bound by CNA’s renewal of the SLA and the 2017 Extension Agreement was voidable (at [239]).(b) The scope of the SLA covered only the PC-client version of the game [X2], and CND and CNE had breached the SLA (at [355]).(c) CNA had procured, induced or assisted CND and CNE in their breaches of the SLA by unilaterally issuing the authorisation letters in 2016 and 2017, and colluding with them with respect to the execution of the 2017 Extension Agreement (at [551]–[564]).(d) CNA, CND and CNE were also found liable for unlawfully conspiring to injure CNB / CNC by amending the dispute resolution and governing law clause via the 2017 Extension Agreement (at [565]–[596]).62 On 31 July 2021, the Tribunal issued the Second Partial Award. CNB / CNC was awarded US$2.79m for legal costs and expenses in the liability phase and US$381,622 for the interim relief applications. These proceedings are presently at the quantum phase.Procedural history of these proceedingsSIC/OS 2/2022 and SIC/OS 5/202263 On 18 December 2020, CNA filed HC/OS 1293/2020 (later SIC/OS 2/2022) (“OS 2”).
+                   41
+
+
+
+
+Foot Note 41
+
+×
+
+
+
+  1JBOD31.
+
+
+
+ It sets out its application to set aside the First Partial Award in its entirety pursuant to Art 34(2)(a)(i) and/or Art 34(2)(a)(iii) of the UNCITRAL Model Law on International Commercial Arbitration (“the Model Law”). In the alternative, CNA sought the setting aside of parts of the First Partial Award relating to its breach of duty to consult under the 2004 Settlement Record and declarations and/or orders made in favour of CNB.64 On 30 September 2021, CNA filed HC/OS 991/2021 (later SIC/OS 5/2022) (“OS 5”).
+                   42
+
+
+
+
+Foot Note 42
+
+×
+
+
+
+  27JBOD4.
+
+
+
+ It sought to set aside the Second Partial Award in its entirety pursuant to Art 34(2)(a)(i) and/or Art 34(2)(a)(iii) of the Model Law. In the alternative, CNA prayed for parts of the Second Partial Award that related to the findings and/or orders on the costs of the liability phase and orders made in favour of CNB to be set aside.SIC/OS 3/2022 and SIC/OS 4/202265 On 23 December 2020, CND and CNE filed HC/OS 1306/2020 (later SIC/OS 3/2022) (“OS 3”).
+                   43
+
+
+
+
+Foot Note 43
+
+×
+
+
+
+  21JBOD4.
+
+
+
+ They applied to wholly set aside the First Partial Award pursuant to Art 34(2)(a)(i) and/or Art 34(2)(a)(iii) of the Model Law. In the alternative, they also sought to set aside parts of the First Partial Award that relate to the Tribunal’s findings and orders made concerning the claims and reliefs sought by the CNB and CNC in their Notice of Additional Claims and Amendment to the Relief sought dated 3 January 2018. Further and/or in the alternative, they applied pursuant to Article 34(2)(a)(iii) of the Model Law to set aside the parts of the First Partial Award that relate to CNA’s fiduciary duties, CNA’s duty to consult, the Tribunal’s finding that the game [Y] was derived from the game [X2] and the Tribunals’ finding that CND and CNE breached the SLA by wrongfully facilitating or authorising third parties to develop mobile games based on the game [X2].66 On 30 September 2021, CND and CNE filed HC/OS 985/2021 (later SIC/OS 4/2022) (“OS 4”).
+                   44
+
+
+
+
+Foot Note 44
+
+×
+
+
+
+  26JBOD3.
+
+
+
+ CND and CNE applied to set aside the Second Partial Award in its entirety pursuant to Art 34(2)(a)(i) and/or Art 34(2)(a)(iii) of the Model Law. In the alternative, they applied under Art 34(2)(a)(i) and/or Art 34(2)(a)(iii) of the Model Law to set aside the parts of the Second Partial Award relating to the costs of the liability phase, the costs of the interim relief applications, and the order of simple interest set at 5.33% per annum.Overview of the parties’ casesCNA’s case67 The primary case brought by CNA is that the entirety of the First Partial Award should be set aside on the basis that the Tribunal did not have jurisdiction over the entire dispute because the ICC Clause pursuant to which the Arbitration was commenced was terminated and/or superseded on 30 June 2017 by the SHIAC Clause in the 2017 Extension Agreement. Under Art 34(2)(a)(i) and/or Art 34(2)(a)(iii) of the Model Law read with s 3 of the International Arbitration Act 1994 (2020 Rev Ed) (“International Arbitration Act”), the entire First Partial Award should be set aside. 68 Further, and/or in any event, the Tribunal had no jurisdiction to determine the validity of the 2017 Extension Agreement.
+                   45
+
+
+
+
+Foot Note 45
+
+×
+
+
+
+  Plaintiff’s Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at paras 99–579.
+
+
+
+69 The alternative case mounted by CNA is the partial setting aside of the First Partial Award under Art 34(2)(a)(i) of the Model Law, as follows:
+                   46
+
+
+
+
+Foot Note 46
+
+×
+
+
+
+  Plaintiff’s Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at paras 580–661.
+
+
+
+ (a) The Tribunal exceeded its jurisdiction in ruling on whether CNA had breached the duty to consult. CNA argues that the claim arose under the 2004 Settlement Record and therefore fell outside the scope of the ICC Clause. In any case, the duty to consult is not an issue within parties’ scope of submission to arbitration, and does not form part of what was referred to the Tribunal for its determination.(b) The Tribunal had no jurisdiction to make orders and/or declarations in favour of CNB. To the extent that paragraphs 598(1), (2), (3), (5), (6), (9), and (10) of the First Partial Award refer to declarations and/or orders in favour of CNB, these paragraphs should be set aside. Given that the Tribunal found that CNB successfully transferred the rights and obligations under the SLA to CNC, it consequently had no jurisdiction to make orders and/or declarations in favour of both CNB and CNC.(c) If the court is minded to partially set aside the First Partial Award to the extent that it refers to findings on whether CNA had breached its duty to consult and/or declarations and/or orders in favour of CNB, then all other parts which were relied on and/or which were necessary for the Tribunal to make the findings in [(a)] and [(b)] should likewise be set aside. 70 As for the Second Partial Award, if the First Partial Award is set aside partially or in its entirety, CNA submits that the Second Partial Award, as a costs award that is inextricably linked to the fully or partially invalid substantive award, should be correspondingly set aside either entirely or partially, to an extent that corresponds with the First Partial Award.
+                   47
+
+
+
+
+Foot Note 47
+
+×
+
+
+
+  Plaintiff’s Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 662.
+
+
+
+CND and CNE’s case71 CND and CNE seek to set aside the entirety of the First Partial Award on the same jurisdictional basis as CNA (see [67] above).
+                   48
+
+
+
+
+Foot Note 48
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at para 139.
+
+
+
+ 72 In the alternative, they seek to set aside parts of the First Partial Award, on the following grounds:
+                   49
+
+
+
+
+Foot Note 49
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at para 140.
+
+
+
+(a) The Tribunal did not have jurisdiction to determine the claims that CNB added in to the Present Arbitration after the conclusion of the 2017 Extension Agreement (and the SHIAC Clause). Such claims were in the Notice of Additional Claims and Amendment to the Relief Sought filed by CNB / CNC on 3 January 2018. (b) The Tribunal had no jurisdiction to determine whether CNA had breached the duty to consult under the 2004 Settlement Record. This dispute related to the terms of an agreement distinct from the SLA and did not arise under the SLA, and so would not fall under the ICC Clause. (c) The Tribunal had no jurisdiction to make the finding that the game [Y] was derived from the game [X2]. This finding concerned a matter that had been disputed and subsequently settled in the PRC courts, meaning that there was no longer any dispute as to whether the game [Y] was derived from the game [X2], and in any event that matter would be governed by the separate settlement agreement. (d) The Tribunal had no jurisdiction to determine the allegations against CND and CNE relating to mobile games (as opposed to other formats such as PC-client or web games). Those were disputes arising out of or relating to separate licensing agreements that were specific to mobile games and contained their own arbitration clause. 73 As for the Second Partial Award, if the First Partial Award is set aside in its entirety, CND and CNE submit that it follows that the Second Partial Award be set aside in its entirety. In the event the First Partial Award is partially set aside, then similarly the Second Partial Award should be set aside in part because an award based on illegitimate considerations is flawed and cannot in fairness stand.
+                   50
+
+
+
+
+Foot Note 50
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at paras 141–142.
+
+
+
+CNB and CNC’s case74 CNB and CNC resist the setting aside application by arguing that the Tribunal has jurisdiction over the dispute because the Present Arbitration was commenced before the 2017 Extension Agreement was signed.
+                   51
+
+
+
+
+Foot Note 51
+
+×
+
+
+
+  Defendants’ Written Submissions in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 82–85.
+
+
+
+ Further, the Tribunal rightly exercised its jurisdiction under the ICC Clause because the 2017 Extension Agreement (containing the SHIAC Clause) is invalid.
+                   52
+
+
+
+
+Foot Note 52
+
+×
+
+
+
+  Defendants’ Written Submissions in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 86–182.
+
+
+
+ 75 Moreover, the Tribunal has jurisdiction to make orders and/or declarations in favour of CNB even after the spin-off to CNC – the manner in which the First Partial Award was phrased ensured that at least one of the entities would be standing as the correct claimant in the Present Arbitration and parties understand the reference to “Claimants” to mean CNC.
+                   53
+
+
+
+
+Foot Note 53
+
+×
+
+
+
+  Defendants’ Written Submissions in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 183–185.
+
+
+
+ 76 CNB and CNC submit that there is no basis to partially set aside the First Partial Award.
+                   54
+
+
+
+
+Foot Note 54
+
+×
+
+
+
+  Defendants’ Written Submissions in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 186–207.
+
+
+
+ In respect of the argument that the Tribunal had no jurisdiction to determine the claims filed after the 2017 Extension Agreement was concluded, CNB and CNC contend that this is circular reasoning. The more fundamental question, in their opinion, is whether the Tribunal’s jurisdiction could be ousted by the 2017 Extension Agreement after the Present Arbitration had commenced. As for whether the Tribunal has jurisdiction to determine the allegations that the game [Y] was derived from the game [X2], CNB and CNC argue that the settlement agreement in the PRC Courts in 2007 did not have the effect of preventing this determination and that this finding was made because of CND and CNE’s defence that the games CNB / CNC sought to assert its IP rights over were based on the game [Y]. The rebuttal to the allegation that the Tribunal lacked jurisdiction to determine issues relating to mobile games is that the SLA contained an implied term that CND and CNE would not exceed the scope of their licence, which is the game [X2] PC-client game.
+                   55
+
+
+
+
+Foot Note 55
+
+×
+
+
+
+  Defendants’ Written Submissions in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at para 202.
+
+
+
+77 The defendants argue that even if the First Partial Award is partially set aside, there is no basis to set aside the Second Partial Award on costs. In their submission, the costs awarded were based on the overall success on the jurisdictional and merits issues which would remain substantially the same even if CND and CNE succeeded on any of their alternative grounds.
+                   56
+
+
+
+
+Foot Note 56
+
+×
+
+
+
+  Defendants’ Written Submissions in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 208–215.
+
+
+
+ Issues to be determined 78 We will consider the issues under the following headings: (a) standard of review;(b) conduct of plaintiffs in executing the 2017 Extension Agreement;(c) separability argument;(d) whether the source of CNA’s authority to amend or extend the SLA lies in the Overseas Agreement and now the 2004 Settlement Record or in the 2002 Supplementary Agreement;(e) if the source of CNA’s authority is the 2002 Supplementary Agreement, whether CNA breached any duties owed to CNB / CNC under Singapore law;(f) if the source of CNA’s authority is the 2004 Settlement Record, whether CNA breached any duties under Korean law; and(g) scope of jurisdiction conferred on the Tribunal by the ICC Clause.Our decisionIssue 1: Standard of review79 It was not disputed that the standard of review applicable in the present case is a de novo review.
+                   57
+
+
+
+
+Foot Note 57
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at paras 107–108; Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at para 159; Defendants’ Written Submissions in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at para 175.
+
+
+
+ The law is settled that the court will undertake a de novo hearing of the arbitral tribunal’s decision on its jurisdiction in an application to set aside an arbitral award on the ground of lack of jurisdiction to hear the dispute: AQZ v ARA [2015] 2 SLR 972 (“AQZ v ARA”) at [49]; AKN and another v ALC and others [2015] 4 SLR 488 at [112]. With this in mind, we allowed the parties to refer to documents which had not been before the Tribunal but which they had had a proper opportunity to consider in advance of the hearing before us.
+                   58
+
+
+
+
+Foot Note 58
+
+×
+
+
+
+  eg, The translation at 2JBOD229 and the 2009 Supplementary Agreement at 2JBOD550.
+
+
+
+80 Under the de novo standard of review, the court is unfettered by any principle limiting its fact-finding abilities: AQZ v ARA at [57]. The tribunal’s own view of its jurisdiction has no legal or evidential value before a court that has to determine that question: PT First Media TBK (formerly known as PT Broadband Multimedia TBK) v Astro Nusantara International BV and others and another appeal [2014] 1 SLR 372 at [163]. In other words, the court may have regard to the reasoning and findings of the tribunal if it considers that they are of assistance, but the court is neither bound nor restricted by these findings: BXH v BXI [2020] 3 SLR 1368 (“BXH v BXI”) at [180].Whether the Court should place weight on the Tribunal’s findings of fact81 The defendants, CNB and CNC, contend that this Court should take into account the Tribunal’s findings of fact – this is especially since the Tribunal had the benefit of seeing the witnesses give testimony.
+                   59
+
+
+
+
+Foot Note 59
+
+×
+
+
+
+  Defendants’ Written Submissions in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at para 174.
+
+
+
+ Before us, counsel for the defendants argued that the Tribunal would have had the opportunity of  “not just looking at documents but listening to witness evidence and looking at the demeanour of witnesses”.
+                   60
+
+
+
+
+Foot Note 60
+
+×
+
+
+
+  23 Nov NE at p 26, lines 8–19.
+
+
+
+ Specifically, counsel alluded to the Tribunal’s assessment of the credibility of the witnesses from CNA and CNE (ie, Mr G of CNA and Mr M of CNE). For example, the Tribunal held that Mr G had “let slip” that CNA had taken into account the interests of CND and CNE in agreeing to the 2017 Extension Agreement (see First Partial Award at [198]).
+                   61
+
+
+
+
+Foot Note 61
+
+×
+
+
+
+  2JBOD56.
+
+
+
+ The Tribunal also concluded that CNA did not even know the actual or projected revenue figures (see First Partial Award at [199(2)]) and that CNA did not properly clarify whether the SLA extended to web or mobile games (see First Partial Award at [199(3)]).
+                   62
+
+
+
+
+Foot Note 62
+
+×
+
+
+
+  23 Nov NE at p 26, line 20 to p 28, line 15; 2JBOD57.
+
+
+
+82 Moreover, the Tribunal observed, at [215] of the First Partial Award, that “the shifting yet uncertain stance of [CNA] over whether the SLA covers only PC-client game or also web and mobile games” led to the conclusion that it would be a clear breach of CNA’s fiduciary duties to renew the SLA (in the 2017 Extension Agreement) without negotiating to demarcate the scope of the licence.83 Further, the Tribunal found, at [229] of the First Partial Award, that “the 2017 Extension Agreement was entered into in haste and secrecy with a view to frustrating [CNB and CNC’s] attempt to resolve its dispute … in the present arbitration. The resulting change in the dispute resolution clause was designed to put jurisdiction in a seat of arbitration and under a governing law in respect of which only [CNB] would not enjoy a home advantage”.84 It is open to this court to place weight on the Tribunal’s primary findings of fact, if they are found to be useful, per BXH v BXI at [180], while coming to its own view on any secondary inferences, but the court is not bound to do so. In this case, we have been invited to review the transcripts of the witness evidence in the Present Arbitration, as well as the contemporaneous documents, and having done so, we conclude that there is certainly a basis for the Tribunal’s primary findings that CNA acted in haste and secrecy, without achieving clarity about the application of the SLA to web and mobile games, and for the inference that this was done with a view to frustrating CNB’s attempt to resolve its dispute in the Present Arbitration. Issue 2: Conduct of the plaintiffs in executing the 2017 Extension Agreement85 We turn next to consider the conduct of the plaintiffs in executing the 2017 Extension Agreement. 86 The Present Arbitration commenced on 18 May 2017. As summarised at [54] above, the plaintiffs in OS 3 and OS 4, ie, CND and CNE, requested an extension of time for the filing of their Answer. Their request was acceded to, with the deadline set at 18 August 2017. 87 In the meantime, the plaintiffs concluded the 2017 Extension Agreement within 6 to 10 hours on 30 June 2017. By an email of 29 June 2017 to CNA, Mr M of CND and CNE urged CNA to “complete as early as possible the signing of the extension of the [SLA]”.
+                   63
+
+
+
+
+Foot Note 63
+
+×
+
+
+
+  3JBOD48.
+
+
+
+ At the time, the existing SLA was due to expire on 28 September 2017. Yet, the process to negotiate and conclude the 2017 Extension Agreement between CNA and CND / CNE was prompted by CNB and CNC’s application for an injunction to prohibit the extension of the SLA in the Seoul Central District Court on 27 June 2017. On 30 June 2017, Mr M of CND and CNE sent CNA a draft of the 2017 Extension Agreement that adopted the same structure as the 2008 Extension Agreement.
+                   64
+
+
+
+
+Foot Note 64
+
+×
+
+
+
+  3JBOD74.
+
+
+
+ Its features included an extension of the licence term for an additional six years, followed by an automatic extension of two years if there were no disputes between CNA and CND and CNE, and an upfront licensing fee for the extension. CND and CNE proposed US$7m.
+                   65
+
+
+
+
+Foot Note 65
+
+×
+
+
+
+  3JBOD80.
+
+
+
+ About an hour after the circulation of the first draft agreement, Mr M of CND and CNE emailed CNA with a draft agreement that included proposed amendments to the governing law and ICC Clause, to change the governing law to PRC law, and provide for arbitration in Shanghai under the SHIAC.
+                   66
+
+
+
+
+Foot Note 66
+
+×
+
+
+
+  3JBOD76.
+
+
+
+ 88 On the same day, Mr G of CNA replied to state that the key terms did not deviate materially but requested an explanation for the proposed change to the governing law and arbitration clause.
+                   67
+
+
+
+
+Foot Note 67
+
+×
+
+
+
+  3JBOD97.
+
+
+
+ In reply, Mr M of CND and CNE explained that given that the scope of the licensing agreement covered PRC and Hong Kong, the changes would “facilitate a better understanding and application of the law by all parties as well as … reduc[e] … all parties’ communication and dispute resolution costs, to more conveniently protect the fundamental interest of [the game [X2]] game users”.
+                   68
+
+
+
+
+Foot Note 68
+
+×
+
+
+
+  3JBOD105.
+
+
+
+89 Subsequently, Ms H of CNA responded with a counter-proposal, indicating that while it was prepared to accept the changes to the governing law and arbitration clause on account of the SLA being performed in the PRC, its agreement was conditional on an increase in the licence fee to US$14m.
+                   69
+
+
+
+
+Foot Note 69
+
+×
+
+
+
+  3JBOD113.
+
+
+
+ In reply, Mr M of CND and CNE expressed concern about the counter-proposed 100% increase in the licensing fee compared to the licence fee under the 2008 Extension Agreement, but asked for time for their company to discuss it.
+                   70
+
+
+
+
+Foot Note 70
+
+×
+
+
+
+  3JBOD122.
+
+
+
+ CND and CNE later informed CNA that they were willing to increase the licensing fee to US$9m. CNA responded with a final counter-proposal that the licensing fees be fixed at US$11m,
+                   71
+
+
+
+
+Foot Note 71
+
+×
+
+
+
+  3JBOD151.
+
+
+
+ which CND and CNE accepted.
+                   72
+
+
+
+
+Foot Note 72
+
+×
+
+
+
+  3JBOD168.
+
+
+
+ 90  The plaintiffs exchanged executed versions of the 2017 Extension Agreement at around 8.49pm and 9pm (Shanghai time, GMT +8) that same day.
+                   73
+
+
+
+
+Foot Note 73
+
+×
+
+
+
+  3JBOD191 and 3JBOD209.
+
+
+
+ 91 After the executed versions were exchanged, by e-mail timed at 9.44pm (Shanghai time, GMT +8), CNA informed CNB / CNC that it had finalised the extension terms of the SLA and finished negotiating the extension with CND and CNE, with a new licence fee of US$11m and a change in the governing law from Singapore law to PRC law and the arbitral institution from ICC to SHIAC.
+                   74
+
+
+
+
+Foot Note 74
+
+×
+
+
+
+  3JBOD170.
+
+
+
+ It took the position that CNB / CNC’s unequivocal refusal to renew the SLA meant that it was “meaningless” to consult with CNB further on the extension terms.92 Subsequently, the SHIAC Arbitration was commenced by CND against CNA on 22 August 2017 for a declaration that the 2017 Extension Agreement was valid (see [55] above). CNB and CNC were not parties to this arbitration.93 CNA takes the position that its conduct was legitimate as it took steps to verify CNB / CNC’s claims and review the explanation provided by CND and CNE. It also considered that it could not justify the termination of this lucrative licensing arrangement when it would be “extremely difficult, if not impossible” to find a replacement and when it would face a serious risk of an “unfriendly migration” which would put the game [X2] out of commission for a period of time.
+                   75
+
+
+
+
+Foot Note 75
+
+×
+
+
+
+  Plaintiff’s Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at paras 50 and 53.
+
+
+
+ CND and CNE, on the other hand, take the position that they were under the impression that CNA had the authority to conduct the renewal on behalf of itself and CNB / CNC.
+                   76
+
+
+
+
+Foot Note 76
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at paras 551 and 553.
+
+
+
+ In contradistinction, the defendants allude to there being impropriety in the manner in which CNA renewed the SLA – in breach of its fiduciary duties and its duty to consult the defendants. 94 In our view, CNA entered into the 2017 Extension Agreement knowing full well that CNB did not want it renewed, at least not until its concerns about past breaches and the scope of the licence were resolved, as demonstrated by CNB’s application for an injunction which CNA, CND and CNE knew of. CNA chose not to consult CNB on the terms of the renewal precisely because CNA knew of CNB’s concerns and objections to the renewal. This knowledge and motivation are apparent from the contemporaneous documents.95 Moreover, on a balance of probabilities, we draw inferences that:(a)  CND and CNE requested the change in the arbitration agreement during the extension it had obtained to file its Answer so that it could include that change in its Answer as the basis for objecting to jurisdiction.  (b) CNA agreed to this request not because of any objective assessment that SHIAC arbitration in the PRC was preferable to ICC arbitration in Singapore but because this was what CND and CNE wanted in order to object to the Tribunal’s jurisdiction.(c) CNA was prepared to take into account CND / CNE’s interests, rather than only those of the co-licensors. The drawing of this inference is fortified by the fact that CNA was by this time a subsidiary of CNE.96 CNA used its power to alter CNB’s legal relations with CND / CNE to benefit CND / CNE and did so knowing this was against CNB’s wishes and for that reason did not consult CNB before agreeing to the alteration. That it requested and obtained a substantial increase in the licensing fees as the price of this change in governing law, seat and arbitral institution shows that CNA understood that the change was no mere formality but something that CND / CNE very much desired and wanted urgently. It is also a reasonable inference to draw on a balance of probabilities that CNA understood that the detriment of this change would fall on CNB, which was in dispute with CND / CNE, rather than itself, as its conduct thus far showed that it had no appetite for a dispute with CND / CNE over alleged breaches of the SLA and because, by this time, CNE was the (indirect) owner of 51.06% of the shares in CNA.
+                   77
+
+
+
+
+Foot Note 77
+
+×
+
+
+
+  See [10] above.
+
+
+
+97 The question is whether it was entitled to use its power in this way, which depends on the source of that power and the law by which it was governed. There is also a prior issue whether that question was one for the Tribunal or for a tribunal appointed pursuant to the 2017 Extension Agreement. The argument for the latter is based on the doctrine of separability and it is to that doctrine that we now turn.Issue 3: Separability argument98 The plaintiffs argue that the validity of the SHIAC Clause is independent from the validity of the 2017 Extension Agreement (ie, the principle of separability of arbitration agreements).
+                   78
+
+
+
+
+Foot Note 78
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 376.
+
+
+
+ 99 In this connection, CNA argues that it is not sufficient to show that it breached its fiduciary duties owed to CNB / CNC in entering into the 2017 Extension Agreement. Rather, the primary issue is whether CNA breached any such duties in executing the SHIAC Clause specifically. The argument that CNA acted in breach of its fiduciary duties to CNB / CNC must consequently be proven by facts specific to the SHIAC Clause, rather than facts as against the 2017 Extension Agreement as a whole.
+                   79
+
+
+
+
+Foot Note 79
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 377.
+
+
+
+ 100 On this basis, CNA submits as follows:(a) it had not been in breach of its fiduciary duties in entering into the SHIAC Clause because it was motivated by the reduction of dispute resolution costs, which was in the joint interests of CNA and CNB / CNC;
+                   80
+
+
+
+
+Foot Note 80
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 381.
+
+
+
+ (b) it did not cause CNB / CNC to suffer any juridical disadvantage that was against their joint interests because choosing PRC law and SHIAC is no less valid than choosing Singapore law and ICC;
+                   81
+
+
+
+
+Foot Note 81
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 386.
+
+
+
+(c) it acceded to the SHIAC Clause because of the increase in the licence fees payable (which was of benefit to their joint interests);
+                   82
+
+
+
+
+Foot Note 82
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 395.
+
+
+
+ and(d) the circumstances surrounding CNA’s entry into the SHIAC Clause afford no basis for suggesting that it was not acting in the joint interests of CNA and CNB / CNC.
+                   83
+
+
+
+
+Foot Note 83
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 412.
+
+
+
+101 A distinct contention CND and CNE make is that by reason of the principle of separability, the Tribunal has no jurisdiction in any event to determine the validity of the 2017 Extension Agreement.
+                   84
+
+
+
+
+Foot Note 84
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at para 584.
+
+
+
+ CNB’s allegation that the 2017 Extension Agreement was invalid must be heard by a tribunal appointed under its dispute resolution clause, namely by the SHIAC. Flowing from the principle of separability, CND and CNE contend that unless the arbitration agreement itself is independently void or invalid, the parties will be presumed to have intended the question of whether there was a concluded main agreement to be decided by arbitration pursuant to the arbitration agreement contained therein.
+                   85
+
+
+
+
+Foot Note 85
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at para 585.
+
+
+
+102 The plaintiffs rely on the English House of Lords decision, Fiona Trust & Holding Corporation and others v Privalov and others [2007] 4 All ER 951 (“Fiona Trust”), which was cited in BXH v BXI by the High Court in Singapore at [82]. In Fiona Trust, Lord Hoffmann explained that the arbitration agreement must be treated as a “distinct agreement” which is void or voidable only on grounds which relate directly to the arbitration agreement, and if the allegation is that the agent exceeded his authority by entering into a main agreement in terms which were not authorised or for improper reasons, that is not necessarily an attack on the arbitration agreement – rather, it must be shown that irrespective of the terms in the main agreement or the reasons for which the agent concluded it, he would have no authority to enter into an arbitration agreement (at [17]–[19]). 103 The defendants on the other hand argue that the entirety of the 2017 Extension Agreement, including the SHIAC Clause, is invalid. CNA breached its fiduciary duties in agreeing to the SHIAC Clause. The defendants posit that where there is a dispute over whether an agreement or a clause in it has been validly terminated or amended by a variation agreement entered into by one party on behalf of both itself and the other party, the original dispute resolution clause must govern this dispute. Otherwise, the party who purports to vary a contract relying on what it anticipates will be a contested authority will be encouraged to include in the attempted variation agreement a dispute resolution clause that is more favourable to it (regardless of the validity of the variation agreement) in order to displace an existing and valid dispute resolution clause.
+                   86
+
+
+
+
+Foot Note 86
+
+×
+
+
+
+  Defendants’ Reply Written Submissions dated 21 October 2022, pp71–72.
+
+
+
+ 104 At the hearing before us, counsel for the plaintiffs contended that it was up to parties to exercise their choice of forum and governing law as arbitration is built on consent and party autonomy. We noted that this perhaps begged the question of whose consent and whose autonomy, given that the governing law and forum were purportedly changed after an arbitration was filed under the original dispute resolution clause and knowing that CNB objected to any extension and would undoubtedly object to the change to the dispute resolution clause. 105 Moreover, while CNB contends that the entire 2017 Extension Agreement is invalid or voidable, it also proffers separate and distinct reasons to show that the change in the dispute resolution clause was made for CND / CNE’s benefit, namely to put an end to the Present Arbitration. 106 This brings the discussion to the more fundamental reason why the doctrine of separability does not have the effect contended for by CND / CNE. This is that the issue before the Tribunal (and before this court) is whether CND / CNE had by entering into the 2017 Extension Agreement effectively terminated the mandate of the Tribunal notwithstanding that the Present Arbitration was validly commenced pursuant to the ICC Clause. CND / CNE contended that the Tribunal’s mandate had come to an end even though the party who had invoked arbitration pursuant to the ICC Clause (namely CNB) contended otherwise and wanted the arbitration to proceed. It is helpful to reproduce the jurisdictional objection made:
+                   87
+
+
+
+
+Foot Note 87
+
+×
+
+
+
+  3JBOD468–469 at paras 36–37.
+
+
+
+ 36. The ICC Court and/or Tribunal do not have the jurisdiction to hear this matter, given that parties had, through the 2017 Extension Agreement, agreed to amend the dispute resolution mechanism of the SLA, such that all disputes arising under the SLA should be referred to final and binding arbitration at SHIAC, in accordance with the Rules of the SHIAC.37. While it was initially agreed to submit all disputes arising under the SLA to arbitration under the ICC Rules, parties have, through the 2017 Extension Agreement, amended the governing law and dispute resolution mechanism of the SLA. …107  The basis on which CNB was said to be bound by the 2017 Extension Agreement was identified as follows:
+                   88
+
+
+
+
+Foot Note 88
+
+×
+
+
+
+  3JBOD461 at para 14.
+
+
+
+[CNB] was never a party to the various agreements for extension, assignment and/or amendment of the SLA because [CNB] had entrusted [CNA] to exercise all of [CNB’s] rights as co-Licensor including to enter into further agreements with [CND] in respect of the Licence and [the game [X2]] rights. [CNB] is bound by such agreements made by [CNA].108 Thus, the question for the Tribunal was whether an event that came after what had been a valid reference to arbitration deprived the Tribunal of jurisdiction. As Mr Toby Landau KC put it, arbitration “depends upon there being active consent to the process and that consent can be withdrawn at any time by the relevant parties”.
+                   89
+
+
+
+
+Foot Note 89
+
+×
+
+
+
+  21 Nov NE at p 111, lines 5–7.
+
+
+
+ We pause to note that the argument is that:(a) Parties’ consent was withdrawn by entry into a superseding arbitration agreement; and (b) CNA was entitled to effect that withdrawal of consent notwithstanding CNB’s objection because of its prior authority to contract on CNB’s behalf. 109 Accordingly, the dispute having been validly referred to arbitration with the consent of parties, the Tribunal had to determine for itself whether that consent had been validly withdrawn by what CNA did after that referral and so had to decide for itself whether CNB was bound by CNA’s actions. The same task falls to us.Issue 4: Whether the source of CNA’s authority to amend or extend the SLA lies in the Overseas Agreement and now the 2004 Settlement Record, or in the 2002 Supplementary Agreement110 We turn to the source of CNA’s authority to amend or extend the SLA on behalf of CNB. Parties have taken opposing positions – the plaintiffs assert that the Overseas Agreement first conferred on CNA the authority to execute renewals of the SLA and later this authority arises from the 2004 Settlement Record, while the defendants identify the Entrustment Recitation in the 2002 Supplementary Agreement as the source of CNA’s authority to act on behalf of CNB. The answer to the question of which document conferred on CNA its authority to act on behalf of CNB affects the applicable law that determines whether CNA had the authority to execute the 2017 Extension Agreement on behalf of CNB and consequently, whether it is valid and binding on CNB. If the source of CNA’s authority lies in the 2002 Supplementary Agreement, Singapore law applies; contrastingly, if the authority was provided by the Overseas Agreement and now the 2004 Settlement Record, then Korean law applies.111 For their submission that the 2004 Settlement Record confers the authority on CNA to amend or extend the SLA, the plaintiffs make the following points: (a) On issue estoppel, the defendants are estopped from relitigating the issue concerning the source of CNA’s authority to execute extensions and renewals of the SLA, including the 2017 Extension Agreement. The issue was determined in the 2003 ICC Arbitration, which CNA and CNB were parties to, by the 2005 Interim Award.
+                   90
+
+
+
+
+Foot Note 90
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 117; Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at paras 194 and 205–206.
+
+
+
+(b) On the issue of res judicata, the Tribunal held that it was an objection as to the admissibility of evidence going towards CNB’s claims, rather than an issue of jurisdiction (2005 Interim Award at [193]–[194]).
+                   91
+
+
+
+
+Foot Note 91
+
+×
+
+
+
+  2JBOD55.
+
+
+
+ CNA argues that the Tribunal was incorrect because an objection based on the doctrine of res judicata can still constitute a jurisdictional objection in the appropriate circumstances.
+                   92
+
+
+
+
+Foot Note 92
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 122.
+
+
+
+ (c) In response to the defendants’ point that there is no identity of subject matter because the issues of whether CNA owed CNB any fiduciary duties, the scope of such duties and whether they were breached were not raised in the 2003 ICC Arbitration, CNA argues that issue estoppel applies to the issue preceding these issues – which is the main question on which agreements and law governed the relationship between CNA and CNB inter se.
+                   93
+
+
+
+
+Foot Note 93
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 169.
+
+
+
+ In its view, that question precedes the inquiry on fiduciary duties and had been raised and determined in the 2005 Interim Award.
+                   94
+
+
+
+
+Foot Note 94
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at paras 170–172.
+
+
+
+(d) Korean Agreements form the source of CNA’s authority. Even if this court does not find that the defendants are estopped from relitigating the issue concerning the source of CNA’s authority to renew and vary the SLA, CNA submits its authority originates from the Overseas Agreement and is now contained in the 2004 Settlement Record.
+                   95
+
+
+
+
+Foot Note 95
+
+×
+
+
+
+  Plaintiff’s Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 192.
+
+
+
+ (e) Based on CNA’s Korean law expert, Professor Park Jun Seok (“Professor Park”), the Basic Agreement shows that CNA and CNB held an “intention of a joint creation” as “co-develop[ers]” of the game [X] series.
+                   96
+
+
+
+
+Foot Note 96
+
+×
+
+
+
+  18JBOD102 – 18JBOD103.
+
+
+
+(f) The Domestic Agreement thereafter confirms the nature of the relationship between CNA and CNB as being one of joint authorship (Art 9).(g) The Overseas Agreement allocated primarily the development of games to CNB and the development of any business overseas to CNA. Although joint copyright owners cannot exercise economic rights to a joint work without the unanimous agreement to do so under Art 48 of the Copyright Act (Korea), the requirement may be waived. CNA submits that this waiver was done by CNB by virtue of an entrustment created by the Overseas Agreement.
+                   97
+
+
+
+
+Foot Note 97
+
+×
+
+
+
+  Plaintiff’s Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 203.
+
+
+
+ In this regard, CNA relies on inter alia the use of Korean terms “daehaeng” and “panmae-daehaeng” to support the existence of this entrustment. This is where the disputed translations from CNA are said to be relevant.
+                   98
+
+
+
+
+Foot Note 98
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 208.
+
+
+
+(h) The Entrustment Recitation in the 2002 Supplementary Agreement did not vary or create a source of entrustment because it was incapable of doing so as a preamble and parties did not intend it to create further rights and obligations between CNB / CNC and CNA.
+                   99
+
+
+
+
+Foot Note 99
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 213.
+
+
+
+(i) On or around the expiry of the Overseas Agreement, the 2004 Settlement Record restated and/or modified the terms of the entrustment.
+                   100
+
+
+
+
+Foot Note 100
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 277.
+
+
+
+ Clause 7(A) in particular vests the right to renew the existing agreements with CND and a Third Party in CNA and required that CNA and CNB “consult with each other when renewing any of such agreements”. CNA argues that the defendants have acknowledged the 2004 Settlement Record as being the source of CNA’s right to renew the SLA.
+                   101
+
+
+
+
+Foot Note 101
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at paras 280–294 and 300.
+
+
+
+112 In reply, the defendants refute the plaintiffs’ position that there is an implicit entrustment in the Overseas Agreement. On a proper understanding of the Korean text of the Overseas Agreement, the translation “commission for sales entrustment” was not an accurate translation. Consequently, the translations provided by CNA in the present proceedings should be disregarded as inaccurate and belated. In the context of the history of agreements, the entrustment of CNB’s rights as co-licensor in the SLA only arose in the 2002 Supplementary Agreement. Further, assuming that there were any entrustment under the Overseas Agreement, this would have been superseded by the 2002 Supplementary Agreement.
+                   102
+
+
+
+
+Foot Note 102
+
+×
+
+
+
+  Defendants’ Written Submissions (Singapore Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 115–117.
+
+
+
+ Neither did the 2004 Settlement Record, nor the 2009 Supplementary Agreement, restate, modify and/or revive the expired Overseas Agreement.
+                   103
+
+
+
+
+Foot Note 103
+
+×
+
+
+
+  Defendants’ Written Submissions (Singapore Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 120–141.
+
+
+
+ Further, the defendants emphasise that the plaintiffs themselves took the position that the source of CNA’s authority to extend and/or amend the SLA is the 2002 Supplementary Agreement.
+                   104
+
+
+
+
+Foot Note 104
+
+×
+
+
+
+  Defendants’ Written Submissions (Singapore Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 142–146.
+
+
+
+113 The defendants seek to convince this court that the contractual source of CNA’s authority is the 2002 Supplementary Agreement. To this end, CNB and CNC raise the following arguments:
+                   105
+
+
+
+
+Foot Note 105
+
+×
+
+
+
+  Defendants’ Written Submissions (Singapore Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 92–110.
+
+
+
+(a) Based on the text and commercial purpose of the agreements and the parties’ conduct, CNA’s authority originates from the Entrustment Recitation in the 2002 Supplementary Agreement. In the recital of the 2017 Extension Agreement, the 2002 Supplementary Agreement was expressly referred to as the agreement which “amended the [SLA] to add [CNB] as a co-Licensor … of [the game [X2]] and [CNB] irrevocably entrusted [CNA] to exercise all rights as a co-licensor on behalf of [CNB]”.
+                   106
+
+
+
+
+Foot Note 106
+
+×
+
+
+
+  3JBOD185.
+
+
+
+(b) In the subsequent agreements between CNA and CND / CNE to extend and/or amend the SLA (such as the 2005 Extension Agreement, the 2008 Extension Agreement, and the 2017 Extension Agreement), the parties cited the 2002 Supplementary Agreement for CNA’s authority and not the Overseas Agreement.(c) Finally, parties could not have intended for the entrustment to take place in the Overseas Agreement, as it was revocable and expired on 31 December 2004. In contrast, the 2002 Supplementary Agreement concerned an “irrevocable entrustment”.Whether issue estoppel applies in respect of the source of CNA’s authority114 It is well-established that the requirements of issue estoppel are as follows (see Lee Tat Development Pte Ltd v Management Corporation of Strata Title Plan No 301 [2005] 3 SLR(R) 157 at [14]–[15]): (a) there must be a final and conclusive judgment on the merits; (b) that judgment must be by a court of competent jurisdiction; (c) there must be identity of the parties to the two actions that are being compared; and (d) there must be an identity of subject matter in the two proceedings.115 It is well-recognised that arbitration awards can be final and conclusive determinations for the purposes of invoking res judicata: CKR Contract Services Pte Ltd v Asplenium Land Pte Ltd and others [2020] 5 SLR 665 at [62].
+                   107
+
+
+
+
+Foot Note 107
+
+×
+
+
+
+  1PBOA(CNA)704.
+
+
+
+116 The finding at [124] of the 2005 Interim Award that CNA relies upon was that:[T]he determination of the rights and reliefs sought by [CNB] against [CNA] falls properly within the scope of the Domestic Agreement and the Overseas agreement, and not the tripartite Supplementary Agreement. As such, although [CNA] and [CNB] are parties to the Supplementary Agreement and Clause 8.04 of the SLA is applicable to dispute[s] arising out of the Supplementary Agreement, Clause 8.04 could not be extended to arbitrate issues arising out of … the Domestic and Overseas Agreements entered into between [CNB] and [CNA] as co-licensors.117 However, the 2005 Interim Award at [121] and [122] characterised the basis for the claims as one between co-owners, with the Domestic and Overseas Agreements formulating and regulating their relationship concerning recognition of sales revenue, shares of commissions, royalties, development costs and other matters. This was contrasted at [123] with how “the Supplementary Agreement … is primarily concerned with the licensing arrangements by both [CNA] and [CNB] (as one interest bloc) with [CNE]”.  At [113], the arbitrator expressed his view (albeit vis-à-vis CNE) that CNA was granted the irrevocable entrustment under the 2002 Supplementary Agreement. 118 In our view, the 2005 Interim Award does not contain any finding expressly or by necessary implication that CNA’s authority to act on CNB’s behalf in relation to CND was to be found in the Domestic or Overseas Agreement. If anything, it situates the grant of entrustment in the 2002 Supplementary Agreement. Accordingly, we do not accept that an issue estoppel operates against CNB.Whether it is the Overseas Agreement and/or the 2004 Settlement Record or the 2002 Supplementary Agreement which confers upon CNA the authority to renew or vary the SLA119 The law on determining questions of agency is trite. The court adopts the evidential approach of identifying and establishing the existence and terms of any contractual instruments (express or implied) entered into by parties: Tonny Permana v One Tree Capital Management Pte Ltd and another [2021] 5 SLR 477 (“Tonny Permana”) at [103]. (1) Translations of the Overseas Agreement and their implications120 As a preliminary matter, we consider the various translations of the Overseas Agreement and the implications on the interpretation of the Overseas Agreement. The Overseas Agreement is in Korean.121 At the hearing, it became apparent that there were two sets of translations of the Domestic Agreement and Overseas Agreement that parties were seeking to rely on. We focus on the Overseas Agreement only as the plaintiffs allege it to be the originating source of CNA’s authority. First, there is a translation of the Overseas Agreement that is titled “Agreement on Joint Development of Products and Overseas Dealership” which was certified on 20 October 2003.
+                   108
+
+
+
+
+Foot Note 108
+
+×
+
+
+
+  21JBOD173–21JBOD176.
+
+
+
+ This was provided by CND and CNE, and it was used in the 2003 ICC Arbitration and the Present Arbitration. Second, there is a translation titled, “Agreement on Joint Product Development and Entrustment of Overseas Sales and Operation” that CNA alleges was used at the 2003 ICC Arbitration for which there is no certified true copy or date of translation.
+                   109
+
+
+
+
+Foot Note 109
+
+×
+
+
+
+  2JBOD229.
+
+
+
+ This was found in the firm’s archives as they had acted for CNA in the 2003 ICC Arbitration. Mr Andrew Yee, a translator, certified the translation as “true and accurate” in his affidavit filed on 18 December 2020.
+                   110
+
+
+
+
+Foot Note 110
+
+×
+
+
+
+  1st Affidavit of Yee Tuck Fai, Andrew (“Andrew Yee”) dated 18 December 2020 at paras 7–8.
+
+
+
+ 122 The defendants contend that the belated introduction of the second translation by CNA is motivated by the fact that the translation uses the word “entrustment”, which comports with the case CNA brings in these proceedings.
+                   111
+
+
+
+
+Foot Note 111
+
+×
+
+
+
+  Defendants’ Written Submissions (Singapore Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 14–15.
+
+
+
+ The first translation uses the word “dealership” instead. As the second translation was not adduced by CNA in the Present Arbitration, we must first decide whether to admit it into evidence for the purpose of these proceedings. While we accept CNA’s counsel’s word that it was found in their firm’s archives, we are not able to find on the evidence that this was the translation used in the 2003 ICC Arbitration. There were two translations proffered at the 2003 ICC Arbitration, the first translation and another one (see [19]), but it does not appear that this was the second translation as the title recorded at [121] of the Award is different even though the wording of the translation of Article 11 at [98] is consistent.
+                   112
+
+
+
+
+Foot Note 112
+
+×
+
+
+
+  See 2JBDO475, 492 and 498.
+
+
+
+ Thus, while we admit it into evidence as one of two translations, we are not satisfied on the evidence that this was a translation used in the 2003 ICC Arbitration. In any event, the task before us is to determine the true meaning of the Korean text of the Overseas Agreement by reference to the translations and expert evidence before us.123 We agree with Professor Kwon Young-joon (“Professor Kwon”) that “what ultimately matters in determining the legal nature of the overseas agreement is the substance of the contract, as well as the parties intent in validating the contract”.
+                   113
+
+
+
+
+Foot Note 113
+
+×
+
+
+
+  23 Nov NE at p 60, lines 11–14.
+
+
+
+ Professor Kwon submitted that the word used in Korean “daehaeng” really means doing something for another.
+                   114
+
+
+
+
+Foot Note 114
+
+×
+
+
+
+  23 Nov NE at pp 61–62.
+
+
+
+ This would fit with the translation “dealership”. In Article 680 of the Korean Civil Law Act, the word that is translated as “entrustment” is a different word, namely “weeim”.
+                   115
+
+
+
+
+Foot Note 115
+
+×
+
+
+
+  23 Nov NE at p 62, lines 6–9.
+
+
+
+124 CND / CNE’s Korean law expert, Professor Keechang Kim (“Professor Kim”), also noted that the Korean original of the Overseas Agreement did not contain the language of “entrustment”.
+                   116
+
+
+
+
+Foot Note 116
+
+×
+
+
+
+  2nd Expert Report of Professor Keechang Kim dated 20 January 2022, para 21, 25JBOD396.
+
+
+
+ We therefore prefer the language used in the first translation certified on 20 October 2003.125 Accordingly, in the next section, we turn to the substance of the parties’ contracts.(2) Analysis of the contractual agreements between parties126 Locating the source of CNA’s authority requires examining the contractual agreements against the backdrop of the relationship between CNA and CNB as co-owners of the copyright. Based on the submissions on Korean law by the plaintiffs’ Korean law experts and the defendant’s Korean law expert in these proceedings, we find that the Korean law experts agree, in principle, to the extent of the following:(a) Article 48(1) of the Copyright Act (Korea) adopts the unanimous agreement system and requires all joint copyright owners’ agreement for exercising the economic rights in a jointly-owned copyright (such as extending a licence to use a jointly-owned copyright to a third party).  If any one of the joint owners does not grant such agreement, it is not legally possible for any one of the joint owners to exercise the economic rights in the subject jointly-owned copyright.(b) This unanimous agreement system does not require all joint owners to jointly exercise (either directly as a principal or through an agent) the economic rights in the jointly-owned copyright, whereby all joint owners become parties to a contract exercising such economic rights (such as, for example, becoming co-licensors under a licence agreement with a third party), but it requires each joint owner’s consent with respect to any other co-licensor exercising such economic rights.(c) Accordingly, under this unanimous agreement system, in order for one of the joint owners to execute a contract exercising the economic rights in the jointly-owned copyright, it is not necessary or required for the other joint owners to entrust the other joint owner with the authority to execute such contracts on behalf of the other joint owners, but consent to exercising the economic rights in the subject jointly-owned copyright is required to be granted by every joint owner. Conceptually, a mere consent in this sense does not mean, in and of itself, entrustment.(d) If all joint owners grant their respective consent, any one of the joint owners is legally able to exercise the economic right in the jointly-owned copyright independently and unilaterally from the other joint owners under the unanimous agreement system.(e) In practice, it is possible for all joint owners to enter into a contract agreeing on the terms and conditions on how to exercise the economic rights in the jointly-owned copyright, and if such contract is entered into, the terms and conditions of such contract shall supersede Art 48(1).  It is legally possible for the joint owners to agree in such a contract that each joint owner gives its consent to exercising the economic rights in the jointly-owned copyright subject to the agreed specific terms and conditions on how to exercise the economic rights.127  Turning to the Overseas Agreement (as clarified by the later agreement defining the terms therein), based on the submissions before us, we find that the Korean law experts agree at least to the extent that the Overseas Agreement and other related agreements provide for the terms and conditions on how to exercise the economic rights in the jointly-owned copyright over the game [X2]. Further, we find that the intention underlying the Oversees Agreement was that CNA and CNB consented to the other having the right independently to extend licences to third parties in respect of the territory outside of Korea, subject to the terms and conditions in the Overseas Agreement. The text of the Overseas Agreement does not support the interpretation put forth by CNA that it provides for the entrustment of CNA with the authority to execute licence agreements with third parties outside of Korea on behalf of CNB.128 Following the execution of the Overseas Agreement, CNA granted a licence to CNE and a third party under the SLA, with implicit consent from CNB. Based on our review of the contents of the Overseas Agreement as well as the surrounding context, we noted that (a) the Overseas Agreement does not contain any text indicating that CNB entrusted CNA the authority to execute licensing agreements with third parties; and (b) the licensing agreements executed by either CNA or CNB following the Overseas Agreement were executed unilaterally by CNA or CNB, as the case may be, and independently from the other. It can be reasonably inferred that the implicit consent granted by either CNA or CNB under the Overseas Agreement to the other could not, on its own, elevate the party granting such consent to a contractual party to the licence agreement executed by either CNB or CNA pursuant to the Overseas Agreement.  Based on the foregoing, we find that the Overseas Agreement and other related agreements should be interpreted to reflect a mutual consent to either CNA or CNB proceeding separately to grant licences, on its own, outside Korea independently and unilaterally from the other, and where either CNA or CNB had granted consent under the Overseas Agreement, the grantor of the consent is not bound by the licence agreement executed by the grantee.129 The facts leading up to the execution of the SLA and the subsequent execution of the tripartite 2002 Supplementary Agreement further reinforce this finding. Under the SLA, CNA owes a contractual obligation to CNE to provide certain technical assistance, such as technical services in connection with installation and maintenance and programming services to correct defects. As it turned out, CNE became aware that CNA was not capable of performing such technical obligations by itself, and requested CNA to resolve this problem. This prompted the introduction of the tripartite 2002 Supplementary Agreement, where CNB was added as a party to the SLA with such technical obligations owed directly to CNE. The 2002 Supplementary Agreement’s recital on this point reads as follows:Whereas [CNE] is entitled to have relevant technical support in the course of the [SLA], and [CNA] proposed to engage [CNB], and [CNB] is willing to accept the proposed engagement, to perform relevant obligations in respect of the technical support. [CNA] and [CNE] have agreed to accept [CNB] as [the game [X]]’s co-Licensor, and [CNB] will entrust [CNA] with the exercise of all its rights as co-Licensor, and the entrustment is irrevocable during the term of the [SLA] and this Supplementary Agreement.130 On its face, the recital indicates that the purpose of the 2002 Supplementary Agreement is twofold, namely, (a) to impose on CNB, as a party to the SLA as amended by the 2002 Supplementary Agreement, the contractual obligation thereunder to provide technical support to CNE, with this obligation being one that is owed directly to CNE; and (b) to effect CNB’s entrustment of its rights as co-licensor to CNA. The operative provisions in the body of the 2002 Supplementary Agreement include specific clauses concerning the carrying out of the desired technical support by CNB but there is no further mention of entrustment. 131 It is worth recalling that the 2002 Supplementary Agreement is written in the Chinese language. It was drafted by the in-house lawyer of CNE. When approaching the interpretation of an agreement, the formality of the agreement as well as the frame of reference of the draftsman are relevant. In this case, the fact that it was not written in the English language by a common lawyer may be material to answering the question of why the entrustment appeared only in the recital and not in the body of the 2002 Supplementary Agreement.132 With this in mind, we return to the contentions of the plaintiffs. They contend that as CNA and CNB are Korean parties, they would define their relationship in Korean agreements (later, the 2004 Settlement Record) governed by Korean law. Further, the plaintiffs contend that a recital is not ordinarily to be treated as imposing substantive rights and obligations. As a matter of drafting practice, such substantive rights and obligations should appear in the body of the agreement.133 The first difficulty with the plaintiffs’ contentions is that neither the Korean agreements nor the 2004 Settlement Record contain any language of entrustment of co-licensor’s rights. The word “weeim” is not used. Whilst the English word “entrustment” is used in the second translation of the Domestic and Overseas Agreements, we cannot accept on the evidence that this is a proper translation of the Korean word “daehaeng”. In context, as we have found in [127] above, the Overseas Agreement concerns parties’ mutual consent to the other entering into licensing agreements in respect of overseas markets without binding the other party to perform any obligations in relation to such licensing agreements. Further the 2004 Settlement Record does not purport to alter or extinguish the irrevocable entrustment established by the 2002 Settlement Agreement.134 The second difficulty is that the recital itself is couched in the present and future tense, suggesting that the “entrustment” is not something in the past but something that is being achieved by the 2002 Supplementary Agreement. While a careful common lawyer drafting an agreement would not put a provision intended to establish an obligation on the parties in the recital only, this is certainly not an invariable rule of drafting and the court’s task is to make sense of the agreement as a whole. In this regard, it is to be noted that the Seoul High Court judgment rendered on 28 January 2021 quoted the relevant part of the recital of the 2002 Supplementary Agreement as consisting of its “principal terms”.
+                   117
+
+
+
+
+Foot Note 117
+
+×
+
+
+
+  11JBOD428.
+
+
+
+ 135 The third difficulty is that all parties apparently considered it necessary to have a tripartite agreement. CNB undertook technical obligations, and it would certainly be commercially sensible that any dispute that might arise concerning not only the performance of such obligations between CNB and CND / CNE but also the performance of any obligations of co-licensors or the licensee under the SLA should be resolved in arbitral proceedings to which they all could be parties, and under the same governing law. The same logic applies to potential disputes involving CND / CNE about extensions and amendments that CNA might agree to, based on the irrevocable entrustment. We therefore do not accept CND / CNE’s contention that we should presume that CNA and CNB intended that their relationship be governed only by bipartite agreements governed by Korean law.136 The fourth difficulty is that when CNA and CND had the opportunity to identify the source of CNA’s authority for the purpose of the 2017 Extension Agreement, they identified it as the 2002 Supplementary Agreement. The description given to the 2002 Supplementary Agreement in the second recital to the 2017 Extension Agreement was that it “amended the [SLA] to add [CNB] as a co-Licensor… and [CNB] irrevocably entrusted [CNA] to exercise all rights as a co-licensor on behalf of [CNB]”.
+                   118
+
+
+
+
+Foot Note 118
+
+×
+
+
+
+  3JBOD211.
+
+
+
+ 137 The plaintiffs explain this reference in the 2017 Extension Agreement on the basis that it concerns CNA’s apparent authority rather than its actual authority. That is an unconvincing and strained explanation. The recital clearly states that it was by the 2002 Supplementary Agreement that CNB entrusted CNA. A simpler reading is that as of 2017, CNA and CND considered that the tripartite 2002 Supplementary Agreement was the source of CNA’s authority.138 With all of these considerations in mind, we find that the entrustment of CNB’s rights as co-licensor to CNA took place in the 2002 Supplementary Agreement, is subject to the ICC Clause, and is governed by Singapore law.Issue 5: If the source of CNA’s authority is the 2002 Supplementary Agreement, whether CNA breached any duties owed to CNB / CNC under Singapore lawWhether CNA breached its fiduciary duties to CNB / CNC(1) Does CNA owe CNB / CNC fiduciary duties?139 The plaintiffs contend that CNA did not owe any fiduciary duties to CNB / CNC under Singapore law. The parties did not have a relationship of trust and confidence that warranted the intervention of equity. It is not appropriate to impose fiduciary duties on the relationship in light of the parties’ express intentions to have the 2004 Settlement Record govern their duties inter se.
+                   119
+
+
+
+
+Foot Note 119
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at pars 326–365; Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at pars 429–487.
+
+
+
+140 The defendants argue that CNA owed CNB / CNC fiduciary duties because it acted as an agent for CNB. The agency relationship, being an established fiduciary relationship, gives rise to a presumption of fiduciary duties: Tan Yok Koon v Tan Choo Suan and another and other appeals [2017] 1 SLR 654 (“Tan Yok Koon”) at [205], [207], [209]–[210].
+                   120
+
+
+
+
+Foot Note 120
+
+×
+
+
+
+  1DBOA17.
+
+
+
+ This presumption is buttressed by the evidence of the relationship between CNB and CNA. The defendants define the fiduciary duties owed by CNA as the obligation to act in the joint interests of CNA and CNB / CNC, the obligation to maximise the revenue of the game [X2]’s intellectual property and the obligation to act in good faith and with due diligence in respect of the first two obligations.
+                   121
+
+
+
+
+Foot Note 121
+
+×
+
+
+
+  Defendants’ Written Submissions (Singapore Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 161–165.
+
+
+
+141 Co-owners do not owe fiduciary duties to each other at common law simply by virtue of their co-ownership. Each is free to exploit the co-owned property. However, the relationship between CNA and CNB did not remain merely one of co-ownership. Upon CNB’s entrustment of its rights as co-licensor, CNA was empowered on CNB’s behalf to alter CNB’s legal relationship with CND / CNE by making amendments of or extensions to the SLA. Thus, CNA acquired the power to bind CNB to terms agreed by CNA with CND / CNE concerning CNB’s performance of positive obligations, such as the provision of technical support. Such terms included governing law and dispute resolution clauses.142 Thus, from the 2002 Supplementary Agreement onwards, in respect of amendments of or extensions to the SLA, CNA was CNB’s agent. The agency relationship is one of the established categories of fiduciary relationship. However, whether that fiduciary relationship does in fact give rise to fiduciary duties depends on the facts and context of the particular case: Tan Yok Koon at [210]. In the same paragraph, the Court of Appeal suggests but does not definitively conclude that “there is a presumption that an established fiduciary relationship does give rise to fiduciary duties, which presumption may be rebutted on the facts and context of the particular case.”  [emphasis in original]143 In this particular case, the facts and context support the conclusion that CNA owed fiduciary duties. 144 First, it is important to note that as the agency related to co-owned property, any fiduciary duty imposed would be to act in the joint interest of both co-owners, rather than in the sole interest of either of them.145 As part of acting in their joint interest, CNA was certainly entitled to have its own view on what that joint interest was. This exercise would necessarily entail considering its own commercial interest when deciding on amendments of and extensions to the SLA. However, this is not inconsistent with a fiduciary duty to the joint interest. In this connection it is helpful to refer to the English case of Elton John v Richard Leon James [1991] FSR 397. There, the publisher was assigned the copyright in certain musical works authored by the artist. The publisher had full control over how that copyright was to be exploited, but this was not for its benefit alone but for the joint benefit of publisher and artist. In holding that the publisher was subject to fiduciary duties, the English High Court, at 433–434, noted:I do not think that the publisher’s freedom to consult its own commercial interest in balancing expense and risk against prospects of success is inconsistent with the existence of fiduciary duties such as I have stated. The object sought to be achieved by exploitation was maximising the pool of royalties received by the publisher and in which the writers would share. In seeking to attain that object, in which the parties had a joint interest, the publisher would exercise its own commercial skill and judgement; but in doing so the publisher would not be free to pursue its own commercial interests (as distinct from the joint interest).146 We therefore reject the contention that CNA’s freedom to consult its own interest meant that it bore no fiduciary duty to the joint interest of CNA and CNB. The scope and content of fiduciary duties may vary according to the circumstances of each case. A limited fiduciary duty to another or to a joint interest with another may co-exist with the right to consider and refer to one’s own interests as well.147 The Court of Appeal in Susilawati v American Express Bank Ltd [2009] 2 SLR(R) 737 cited with approval at [41] Mason J’s identification of the critical feature of fiduciary relationships in his dissent in the High Court of Australia’s decision in Hospital Products Ltd v United States Surgical Corporation and others (1984) 55 ALR 417. Mason J said at 454:… The critical feature … is that the fiduciary undertakes or agrees to act for or on behalf of or in the interests of another person in the exercise of a power or discretion which will affect the interests of that other person in a legal or practical sense. The relationship between the parties is therefore one which gives the fiduciary a special opportunity to exercise the power or discretion to the detriment of that other person who is accordingly vulnerable to abuse by the fiduciary of his position. …148 Mason J in his dissent noted at 454–455 that “contractual and fiduciary relationships may co-exist between the same parties”, and that “[t]he fiduciary relationship, if it is to exist at all, must accommodate itself to the terms of the contract so that it is consistent with, and conforms to, them.” Mason J went on to make the point, with which we agree, that while the “capacity to make decisions and take action in some matters by reference to its own interests is inconsistent with the existence of a general fiduciary relationship … it does not exclude the existence of a more limited fiduciary relationship”. Mason J further elaborated (at 456):But entitlement to act in one’s own interests is not an answer to the existence of a fiduciary relationship, if there be an obligation to act in the interests of another. It is that obligation which is the foundation of the fiduciary relationship, even if it be subject to qualifications including the qualification that in some respects the fiduciary is entitled to act by reference to his own interests. The fiduciary duty must then accommodate itself to the relationship between the parties created by their contractual arrangements. And entitlement under the contract to act in a relevant matter solely by reference to one’s own interests will constitute an answer to an alleged breach of the fiduciary duty. The difficulty of deciding under the contract when the fiduciary is entitled to act in his own interests is not in itself a reason for rejecting the existence of a fiduciary relationship, though it may be an element in arriving at the conclusion that the person asserting the relationship has not established that there is any obligation to act in the interests of another.149 Thus, while the entirety of a relationship between two parties may not be fiduciary in nature, some activities undertaken within the overall relationship may have a fiduciary character. The exercise of power on behalf of another party may be an activity that has a fiduciary character even when the relationship as a whole is a commercial one. That is the case here.150 One contention made is that the relationship between CNA and CNB has been defined in the 2004 Settlement Record, governed by Korean law, and that consequently no question of a fiduciary relationship under Singapore law can arise. We do not agree. The example given is that the 2004 Settlement Record imposed a duty on CNA to consult CNB. In equity, a fiduciary’s duty is not to consult the other but to act in the other’s interest. However, if such a duty to consult is imposed by contract, our view is that this does not necessarily displace the fiduciary duty. It is complementary and not substitutive. Accordingly, we would not agree that the imposition of a duty to consult under the 2004 Settlement Record displaced CNA’s duty of loyalty to their joint interest, which entailed not preferring the interest of CND and CNE, the counterparty to the SLA.151 Thus, we hold that CNA in the exercise of its powers under the entrustment to extend or amend the SLA was subject to the fiduciary duty to act in the joint interest, which encompassed the equitable duty to exercise those powers in good faith and for proper purposes. 152 In support of this formulation of the equitable duty constraining CNA’s exercise of its powers, we have referred to and relied on the discussion in an article cited by CNB, namely Sarah Worthington, “Fiduciaries Then and Now” (2021) 80(S1) Cambridge Law Journal s154. In particular, Worthington, after discussing exercises of power by a fiduciary, suggests that:The crucial lesson in all of this is that it is essential to distinguish between situations where the defaulting fiduciary’s self-interested gain is in the sightlines and the remedy sought is disgorgement, and situations where improper use of discretionary powers is in the sightlines. When the focus is the latter, on abuse of power and not fiduciary gains, the goal is typically to set aside the exercise of power, and, if necessary, either recover from the third party any assets that had been improperly transferred or, more likely, seek compensation from the power-holder for their unauthorised loss. These remedies apply not only where powers are exercised in bad faith or for improper purposes, but also where the power is exercised beyond its scope (i.e. where the power-holder has no authority to exercise the power, rather than merely acts within authority but improperly). [footnotes omitted]153 This article was discussed by the Court of Appeal in Tan Teck Kee v Ratan Kumar Rai [2022] 2 SLR 1250 at [74]–[76] in the context of the question of where and when a director may owe concurrent fiduciary duties both to a third party and his principal company. In that case, the fiduciary relationship with the third party did not arise from an established category of fiduciary relationships but was an ad hoc one. At [76], the Court of Appeal made the following observation concerning the objective nature of the analysis:Indeed, as Prof Worthington goes on to observe in her article, a distinction which Prof Sealy drew between fiduciaries on one hand, and, on the other, persons not typically considered fiduciaries but possessing some discretion which needs to be exercised in good faith and for proper purposes (eg, holders of contractual discretions, mortgagees with a power of sale), is that Prof Sealy required a fiduciary (Worthington at s170): … if he acts at all, to act in accordance with the undertaking he is seen to have given not to act in his own interests. This is the legal constraint which addresses the moral hazard of having … fiduciaries in control of the principal’s property or in control of acting for and on behalf of the principal. [emphasis in original omitted; emphasis added in italics]  If it is sufficient that the putative fiduciary is seen to have given such an undertaking, that necessarily requires some degree of objectivity in the analysis.154 The Court of Appeal then went on at [84]–[86] to consider and reject the argument advanced on behalf of the putative fiduciary that a director of a company to which he owes fiduciary obligations may not voluntarily undertake a role vis-à-vis a third party giving rise to fiduciary obligations, because a director owes a duty of single-minded loyalty to his principal company, and thus, had to place the interests of the company above all others including his own. 155 That the Court of Appeal held that the existence of a concurrent fiduciary duty to one person would not in law foreclose the possibility of a fiduciary duty arising concurrently in favour of another supports our holding in this case that CNA could in law (and on the facts did) owe fiduciary duties to the joint interest of CNA and CNB notwithstanding that CNA was entitled to consider its own interests before ultimately making any decision in the joint interest that altered its and CNB’s legal relations with CND and CNE.(2) Is CNA in breach of its fiduciary duties?156 Assuming CNA owed fiduciary duties, the plaintiffs contend that it did not breach them. CNA had complied with its duty to consult, and extending the SLA by way of the 2017 Extension Agreement (including changing the ICC Clause and the governing law) cohered with commercial sense. In short, the plaintiffs’ case is that a sensible bargain was struck, or at the minimum, a deal that was not adverse to CNA and CNB / CNC had been made.
+                   122
+
+
+
+
+Foot Note 122
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at pars 366–542; Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at paras 488–539.
+
+
+
+157 Conversely, the defendants argue that CNA had breached its fiduciary duties by extending and amending the SLA by way of the 2017 Extension Agreement. They cite the Tribunal’s findings of an absence of due diligence in the conclusion of the 2017 Extension Agreement, CNA’s failure to clarify the scope of the SLA and the amendments to the arbitral institution and governing law as being strong evidence of a lack of good faith.
+                   123
+
+
+
+
+Foot Note 123
+
+×
+
+
+
+  Defendants’ Written Submissions (Singapore Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 172–173.
+
+
+
+158 For the reasons given below, we are of the view that CNA’s conduct as found at [94]–[96] clearly preferred the interest of CND and CNE to the detriment of CNB and hence was a breach of its fiduciary duty of loyalty to the joint interest. CNA did not exercise the power entrusted to it by CNB in good faith or with due diligence. Further we are satisfied that the principle of separability does not apply on the facts of this case as one of the primary breaches of duty by CNA was in executing the SHIAC Clause specifically.(3) Does the breach of fiduciary duties invalidate the 2017 Extension Agreement?159 CNA does not appear to take a position on whether the breach of fiduciary duties necessarily results in the 2017 Extension Agreement being invalidated. It argues that the Tribunal nonetheless has no jurisdiction to determine the validity of the 2017 Extension Agreement because the SHIAC Clause superseded the ICC Clause.
+                   124
+
+
+
+
+Foot Note 124
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at paras 543–579.
+
+
+
+160 CND and CNE’s position is that even if CNA breached its duties to CNB / CNC in amending and renewing the SLA, that did not invalidate the 2017 Extension Agreement because CND / CNE had no knowledge that CNA owed or breached those duties. The question of whether the 2017 Extension Agreement is not binding on CNB/CNC by reason of CND and CNE being put on notice that CNA exceeded its actual authority is governed by PRC law, because the question of whether a contractual relationship exists between the principal and the third party, including questions of apparent authority and the degree of inquiry imposed upon the third party concerning the extent of the agent’s authority, are governed by the law of the putative contract between the principal and the third party, ie, the 2017 Extension Agreement. Even if PRC law is assumed to be the same as Singapore law, CNB remains bound by the 2017 Extension Agreement because of CNA’s ostensible authority and the principle of separability means that the Tribunal had no jurisdiction to determine the validity of the 2017 Extension Agreement.
+                   125
+
+
+
+
+Foot Note 125
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at paras 540–593.
+
+
+
+ 161 The defendants refute these arguments by asserting that the extension of the SLA was wrong as a matter of law since CNA failed to act honestly and in the interests of CNB such that CNA is taken to have acted without authority and accordingly the 2017 Extension Agreement cannot bind CNB and CNC. Quite apart from CND / CNE’s knowledge being irrelevant, the defendants contend that there was evidence to show that CND / CNE were far from innocent bystanders.
+                   126
+
+
+
+
+Foot Note 126
+
+×
+
+
+
+  Defendants’ Written Submissions (Singapore Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 177–178.
+
+
+
+162 We start with the well-established principle that authority to act as agent includes only authority to act honestly in pursuit of the interests of the principal. The pertinent section of Peter Watts and F.M.B. Reynolds, Bowstead and Reynolds on Agency (Thomson Reuters, 22nd Ed, 2021) at paras 3-011 to 3-012 is reproduced below:Article 23No Authority to Act Other Than for Principal's BenefitAuthority to act as agent includes only authority to act honestly in pursuit of the interests of the principal.CommentIt is implicit in a conferral of authority that the principal intends the agent to exercise the relevant powers in the interests of the principal. An agent who deliberately or recklessly exercises powers against the interests of the principal must know that the agent acts without the principal's consent, and therefore acts without authority. A clear statement of the principle can be found in Lysaght & Co Ltd v Falk:"Every authority conferred upon an agent, whether express or implied, must be taken to be subject to a condition that the authority is to be exercised honestly and on behalf of the principal. That is a condition precedent to the right of exercising it, and, if that condition is not fulfilled, then there is no authority, and any act purporting to have been done under it, unless in dealing with innocent parties, is void."… [no] act done by an agent in excess of his actual authority is binding on the principal with respect to persons having notice that in doing the act, the agent is exceeding his authority.163 In our view, on the facts as found by us,
+                   127
+
+
+
+
+Foot Note 127
+
+×
+
+
+
+  See [94]–[96] above.
+
+
+
+ CNA’s breach of fiduciary duty in agreeing to CND / CNE’s request to change the governing law and arbitral institution was not just known to but instigated by CND / CNE well knowing that this would not be in CNB’s best interest as such change in the arbitral institution from ICC to SHIAC would enable CND / CNE to present a jurisdictional defence in their pending Answer in the Present Arbitration. This would make CNB suffer the consequence that the Present Arbitration commenced by it would be dismissed due to the lack of jurisdiction. Hence, CND / CNE are not entitled to rely on CNA’s authority to bind CNB pursuant to the entrustment under the 2002 Supplementary Agreement. Whether CNA owed CNB / CNC a duty to consult arising from its fiduciary duty to act in good faith164 The plaintiffs challenge the Tribunal’s finding on the duty to consult on the basis that it is founded on the 2004 Settlement Record, which is governed by Korean law and beyond the scope of the ICC Clause.
+                   128
+
+
+
+
+Foot Note 128
+
+×
+
+
+
+  Plaintiff’s Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at paras 610; Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at paras 594.
+
+
+
+ 165 The defendants make the argument that, based on the Tribunal’s findings, the duty to consult arose as part of CNA’s fiduciary duties and the 2004 Settlement Record, but the Tribunal had only ruled on the former basis in finding that CNA had a duty to consult CNB on the extension and/or modification of the SLA.
+                   129
+
+
+
+
+Foot Note 129
+
+×
+
+
+
+  Defendants’ Written Submissions (Singapore Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 168–171.
+
+
+
+166  In our analysis, on the facts of this case, it is clear that any good faith exercise of the power to extend or amend the SLA would entail consulting CNB. It is only with consultation that a properly informed decision could be made. This is because the question whether to extend or amend the SLA would not be simple, and had to be taken in light of market dynamics and alternative options.  In this case, the express duty to consult under 2004 Settlement Record was not merely complementary to but reinforcing of the duty to act in good faith. Issue 6: If the source of CNA’s authority is the 2004 Settlement Record, whether CNA breached any duties under Korean law167 Assuming arguendo that the source of CNA’s authority is the 2004 Settlement Record, it is undisputed that Korean law would be applicable. 168 CNA argues that under Korean law, the 2017 Extension Agreement is valid:
+                   130
+
+
+
+
+Foot Note 130
+
+×
+
+
+
+  Plaintiff’s Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at paras 305–324.
+
+
+
+ (a) There was no breach of any duties owed to CNB / CNC under Korean law.(b) The entrustment in the Overseas Agreement does not impose a duty on CNA to follow CNB’s instructions without exception. CNB / CNC’s Korean law expert, Professor Kwon, oversimplifies the general duty in Korean law known as “Seonkwan Ei-mu”
+                   131
+
+
+
+
+Foot Note 131
+
+×
+
+
+
+  See [168] below.
+
+
+
+ by taking the position that it applies regardless of the character of the entrustment. CNA’s expert, Professor Park, explains that the “good faith standard” under Art 48 of the Copyright Act (Korea) applies instead of the general duty of “Seonkwan Ei-mu” under the Civil Act (Korea). Under the “good faith standard”, the execution of the 2017 Extension Agreement by CNA does not automatically render it in breach of its duty of “Seonkwan Ei-mu”.(c) CNA’s duty to consult under the 2004 Settlement Record does not entail a duty to simply adopt CNB’s opinion. (d) The 2004 Settlement Record modified the scope of CNA’s duty owed to CNB by limiting the duty of “Seonkwan Ei-mu” to the duty to consult. This is contrary to the view taken by CNB / CNC’s Korean law expert, Professor Kwon, who contends that the 2004 Settlement Record does not affect the scope of the duty of “Seonkwan Ei-mu” but merely affirms the duty to consult, and CNA would be in breach of its duty of “Seonkwan Ei-mu” by acting against CNB / CNC’s instructions. (e) Even if CNA breached its duties owed to CNB / CNC under Korean law, the 2017 Extension Agreement is not invalidated. Under Korean law, the court will not invalidate a contract unless it finds that an agent has abused its authority or there is a breach of public policy, which are unlikely to be presumed from a mere breach of the duty of “Seonkwan Ei-mu”. The finding that CNA’s breach of duty did not render the 2017 Extension Agreement null and void had already been made in Seoul Central District Court Decision in Case No 2005 KaHap 3276
+                   132
+
+
+
+
+Foot Note 132
+
+×
+
+
+
+  9JBOD322–9JBOD324.
+
+
+
+ and Seoul High Court Decision in Case No 2019Na2049565.
+                   133
+
+
+
+
+Foot Note 133
+
+×
+
+
+
+  11JBOD442–11JBOD444.
+
+
+
+169 CND and CNE similarly contend that the 2017 Extension Agreement is valid under Korean law. To buttress this contention, they set out the following arguments:
+                   134
+
+
+
+
+Foot Note 134
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at paras 344–428.
+
+
+
+ (a) The legal relationship between CNA and CNB is similar to a partnership, and the relationship cannot be identified as an entrustment. The Overseas Agreement and/or the 2004 Settlement Record meet the requirements for a partnership agreement under Art 703 and Art 711 of the Civil Code (Korea), which is consistent with the conclusion reached by CND and CNE’s Korean law expert, Professor Kim, that the contractual relationship between joint copyright holders is similar to a partnership agreement.
+                   135
+
+
+
+
+Foot Note 135
+
+×
+
+
+
+  23JBOD24.
+
+
+
+(b) CNA owes a duty of care (ie, the “Seonkwan Ei-mu”) to the partnership, not to CNB alone. Under Korean law, a partner owes a duty of care to the partnership itself rather than to the other partners or to any particular partner pursuant to Art 681 of the Civil Code (Korea). The duty of “Seonkwan Ei-mu” must also be read together with Art 48(1) of the Copyright Act (Korea), and under the context of a partnership, CNA is only subject to the “Seonkwan Ei-mu” duty within the scope of the “good faith standard” stipulated under Art 48(1) of the Copyright Act (Korea).(c) CNA fulfilled the duty of “Seonkwan Ei-mu” by entering into the 2017 Extension Agreement, because it ensured that the partnership did not suffer lost revenues as well as other damages from terminating the SLA. (d) Even if CNA was in breach of the duty of “Seonkwan Ei-mu”, the 2017 Extension Agreement is valid. The 2004 Settlement Record does not stipulate the consequences of a breach of the duty of “Seonkwan Ei-mu” or the duty to consult. Professor Kim opines that Korean courts will deal with such a breach by considering the parties’ motives and circumstances leading to the 2004 Settlement Record, as well as its purpose. Given the parties’ mutual understanding that the consent of the other party is not required to renew the existing licence agreements under the 2004 Settlement Record, it is unlikely that a court would find that any breach of the duty of “Seonkwan Ei-mu” or the duty to consult would invalidate the renewal of the SLA through the 2017 Extension Agreement.
+                   136
+
+
+
+
+Foot Note 136
+
+×
+
+
+
+  23JBOD34–23JBOD36.
+
+
+
+170 The defendants contend that even under Korean law, the 2017 Extension Agreement is invalid:(a) There is no disagreement with CNA that CNB / CNC and CNA are joint authors who have executed an entrustment (or mandate). However, the defendants disagree with CND and CNE’s description of CNB and CNA’s relationship as akin to that of a partnership. This is incorrect because a partnership is usually established in the form of a joint venture and the relationship between CNA and CNB does not rest on an agreement to “carry on a joint undertaking by making mutual contribution thereto” which is the definition of a partnership under Art 703 of the Civil Act (Korea). Rather, from the 2002 Supplementary Agreement, CNB had entrusted CNA with the exercise of its rights as co-licensor under the SLA, which falls within the definition of a mandate. Further, CND / CNE’s conclusion on the existence of a partnership is premised on CNB and CNA being joint holders, when in actual fact, they are joint authors. 
+                   137
+
+
+
+
+Foot Note 137
+
+×
+
+
+
+  Defendants’ Written Submissions (Korean Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 4–12.
+
+
+
+(b) Under Korean law, the purpose of interpretation is to confirm the objective meaning of the contract. The defendants maintain that only the 2002 Supplementary Agreement expressly provides for CNA’s authority to exercise CNB’s rights as co-licensor, which includes the right to renew and amend the SLA. Singapore law should apply. Even if Korean law applies, the preamble is treated as an agreement that is valid and in force regardless of where it is located in the contract.
+                   138
+
+
+
+
+Foot Note 138
+
+×
+
+
+
+  Defendants’ Written Submissions (Korean Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 13–44.
+
+
+
+(c) Assuming that CNA’s rights and duties in exercising its authority to renew and amend the SLA are governed by Korean law, CNA is subject to the duty of “Seonkwan Ei-mu” under Art 681 of the Civil Act (Korea) when exercising its authority to renew and amend the SLA. The “good faith standard” under Art 48(1) of the Copyright Act (Korea) does not apply in priority over the duty of “Seonkwan Ei-mu” because the plaintiffs do not take the position that CNB / CNC withheld consent to the 2017 Extension Agreement in breach of Art 48(1) of the Copyright Act (Korea).
+                   139
+
+
+
+
+Foot Note 139
+
+×
+
+
+
+  Defendants’ Written Submissions (Korean Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 46–50.
+
+
+
+ Per Professor Kwon, the duty of “Seonkwan Ei-mu” is more akin to the duty of loyalty (ie, the fiduciary duty) than the duty of care under common law.
+                   140
+
+
+
+
+Foot Note 140
+
+×
+
+
+
+  Defendants’ Written Submissions (Korean Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 53–59.
+
+
+
+(d) Applying the duty of “Seonkwan Ei-mu”, in light of CND / CNE’s persistent breaches of the SLA, at the minimum, CNA did not comply with its duty of “Seonkwan Ei-mu” to act according to CNB’s instructions because it did not seek CNB / CNC’s views on the renewal or amendment of the SLA. CNA ought to have abided by CNB / CNC’s express and repeated opposition to the 2017 Extension Agreement. It was also not a reasonable business decision.
+                   141
+
+
+
+
+Foot Note 141
+
+×
+
+
+
+  Defendants’ Written Submissions (Korean Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 60–61.
+
+
+
+(e) The 2004 Settlement Record did not have any impact on the source of CNA’s authority to renew and amend the SLA or the scope of CNA’s duty of “Seonkwan Ei-mu” in exercising this authority.
+                   142
+
+
+
+
+Foot Note 142
+
+×
+
+
+
+  Defendants’ Written Submissions (Korean Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 62–76.
+
+
+
+(f) The duty to consult under the 2004 Settlement Record is “the obligation of mutual cooperation and effort based on good faith”.
+                   143
+
+
+
+
+Foot Note 143
+
+×
+
+
+
+  9JBOD323.
+
+
+
+ This requires mutual consultation and good faith communications. CNA was in breach of its duty to consult because it did not respect the intentions of CNB regarding the renewal nor make any effort to sincerely and faithfully reflect such intentions.
+                   144
+
+
+
+
+Foot Note 144
+
+×
+
+
+
+  Defendants’ Written Submissions (Korean Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 80–88.
+
+
+
+(g) The consequence of CNA’s breach of the duty of “Seonkwan Ei-mu” and/or the duty to consult is to render the 2017 Extension Agreement invalid on the bases of abuse of agent authority (Art 107 of the Civil Act (Korea)) and/or an act contrary to good morals and other social order (Art 103 of the Civil Act (Korea)).
+                   145
+
+
+
+
+Foot Note 145
+
+×
+
+
+
+  Defendants’ Written Submissions (Korean Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 89–108.
+
+
+
+171 The Korean law concept of “Seonkwan Ei-mu” is the duty imposed on the party entrusted to manage the affairs entrusted to him with the care of a good manager in accordance with the tenor of the mandate, under Art 681 of the Civil Act (Korea).
+                   146
+
+
+
+
+Foot Note 146
+
+×
+
+
+
+  Plaintiff’s Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at paras 306–310; Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at paras 366–367 and 376; Defendants’ Written Submissions (Korean Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 46–50.
+
+
+
+ Where parties differ is the scope and extent of the duty of “Seonkwan Ei-mu” and the interaction of the duty of “Seonkwan Ei-mu” and Art 48(1) of the Copyright Act (Korea). CNA takes the position that the person entrusted may ignore the instructions of the person who entrusts that are against the interests of the person entrusted if disobeying the instructions is not fundamentally against the nature of the mandate. Further, CNA posits that the scope of the duty of “Seonkwan Ei-mu” does not include a common law duty of loyalty and it applies only to the extent that it is consistent with Art 48(1) of the Copyright Act (Korea) (ie, on the “good faith standard”). As for CND and CNE, their interpretation of the duty of “Seonkwan Ei-mu” is that it is a duty owed by each partner to the partnership itself, and further that the duty not to prevent an agreement or refuse consent in bad faith under Art 48(1) of the Copyright Act (Korea) takes precedence over the duty of “Seonkwan Ei-mu”. On CNB’s interpretation of the “Seonkwan Ei-mu”, however, the duty of “Seonkwan Ei-mu” outweighs the duty under Art 48(1) of the Copyright Act (Korea) not to prevent the unanimous agreement between joint authors from being reached or refuse to consent in bad faith. The irreducible minimum of “Seonkwan Ei-mu”, as agreed upon by parties, is therefore a duty to act in good faith towards the partnership. 172 In our view, the key question under Korean law is the nature and content of the duty to consult contained in the 2004 Settlement Record. As noted at [32(c)] above, the duty to consult took the form of a proviso to the right to renew. Helpfully, it was considered by the Korean court in 2005.
+                   147
+
+
+
+
+Foot Note 147
+
+×
+
+
+
+  Decision of the Seoul Central District Court in 2005KaHap3276 dated 2 November 2005, 9JBOD322.
+
+
+
+ The Korean court formulated it as the “obligation of mutual cooperation and effort based on good faith”. Further, we would agree with the Tribunal’s adoption
+                   148
+
+
+
+
+Foot Note 148
+
+×
+
+
+
+  First Partial Award at para 220, 2JBOD67.
+
+
+
+ of the gloss offered by Professor Kwon to the Tribunal, namely that “such consultation between the parties means genuine consultation between the parties based on the spirit of the principle of good faith, and does not mean a virtually unilateral notification or a cursory consultation between the parties only which is intended to create the appearance of consultation.”173 CNA accepted at the oral hearing that it did not consult CNB concerning the change of governing law, seat and arbitral institution.
+                   149
+
+
+
+
+Foot Note 149
+
+×
+
+
+
+  21 Nov NE at p 100, lines 3 to 15.
+
+
+
+ Its key point is that consultation was pointless because CNB was adamant that it did not want to renew the SLA. There are two answers to this. The first is that CNB’s objections concerned clarity of scope (which would impact pricing) and the lack of engagement on the issue of alleged past breaches by CND / CNE. Both of these objections appear to have been genuinely held, and a meaningful process of consultation could have potentially resolved them. The second is that, like the Tribunal,
+                   150
+
+
+
+
+Foot Note 150
+
+×
+
+
+
+  First Partial Award at para 229, 2JBOD70.
+
+
+
+ we infer that CNA’s decision not to consult meaningfully was part of a concerted effort in the interests of CND / CNE to frustrate CNB and CNC’s reference in the Present Arbitration, “designed to put jurisdiction in a seat of arbitration and under a governing law in respect of which only [CNB] would not enjoy a home advantage”.  174 Turning to the consequences of a breach of the duty to consult, we accept that such a breach could amount to an abuse of authority under Art 107 of the Civil Act (Korea).  If, in so acting in breach of its duty, the agent acted by compromising the principal’s interests in favour of his own or a third party’s or subordinated the principal’s interests either to its own or third party’s interest, and if the counterparty knew or could have known of such abuse of authority by the agent, then the principal would not be held liable for such action of the agent, and, accordingly, the agreement so executed by the agent would be deemed void between the principal and the counterparty.175 In this case, we would find that when CNA negotiated and executed the 2017 Extension Agreement on behalf of CNB, CNA failed to consult CNB at all concerning the changes to governing law, seat and arbitral institution, and did not properly or genuinely consult CNB on the extension in general. In fact, it went along with CND’s / CNE’s desire to execute the extension quickly so that it could be raised in the latter’s Answer in the Present Arbitration. This was a breach of “Seonkwan Ei-mu” and based on our objective review of the facts and relevant circumstances presented to us, we find that CNA acted with an intent of breaching its duty in executing the 2017 Extension Agreement on behalf of CNB, whereby it abused its authority in such manner as would compromise CNB’s interest in favour of the counterparty, CND / CNE, and subordinate CNB’s interests to those of CND / CNE. It is also clear that CND / CNE instigated this breach of duty in full knowledge that this would be a breach of CNA’s duty. In particular, with respect to the change in the arbitration institution as suggested by CND / CNE and included in the 2017 Extension Agreement, CND / CNE knew or ought to have recognised that CNA's act of agreeing thereto (and executing the 2017 Extension Agreement on behalf of CNB) went against CNB’s interests, for the benefit of CND / CNE. We are of the view that, under the relevant Korean law and the Korean Supreme Court precedents included in the submissions to the court,
+                   151
+
+
+
+
+Foot Note 151
+
+×
+
+
+
+  10JBO272–10JBOD298: English translations of the Korean Supreme Court precedents annexed to Professor Kwon’s expert report dated 11 November 2021.
+
+
+
+ all requirements would be satisfied to make the 2017 Extension Agreement invalid between CNB and CND / CNE by analogy with the proviso of Art 107(1) of the Civil Code (Korea). Consequently, if this issue were not moot, we would have found that by analogy with Art 107 of the Civil Act (Korea), CNB was entitled to avoid the 2017 Extension Agreement. 176 Whether the question was an open one would depend on whether it had been already answered by the Korean Court against CNB. Our reading of the Korean decisions is that they were determined on procedural grounds, rather than the substantive law. Accordingly, there would have been no obstacle to us considering and determining this issue for ourselves.Issue 7: Scope of jurisdiction conferred on the Tribunal by the ICC Clause 177 We turn finally to deal with the alternative case brought by the plaintiffs which concerns the scope of the jurisdiction conferred on the Tribunal by the ICC Clause.Whether the Tribunal had jurisdiction to decide on the validity of the 2017 Extension Agreement178 CNA alleges that the Tribunal has no jurisdiction to determine the issue of the validity of the SHIAC Clause and the 2017 Extension Agreement. This is because the issue of the validity of the SHIAC Clause and the 2017 Extension Agreement ought to be determined by a SHIAC tribunal constituted pursuant to the SHIAC Clause in the 2017 Extension Agreement, rather than an ICC tribunal constituted pursuant to the ICC Clause in the SLA.
+                   152
+
+
+
+
+Foot Note 152
+
+×
+
+
+
+  Plaintiff’s Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 557.
+
+
+
+ Furthermore, the validity of the 2017 Extension Agreement was confirmed in the SHIAC Arbitration.
+                   153
+
+
+
+
+Foot Note 153
+
+×
+
+
+
+  Plaintiff’s Written Submissions in SIC/OS 2/2022 and SIC/OS 5/2022 dated 9 September 2022 at para 571.
+
+
+
+179 The defendants argue that the SHIAC Clause is invalid as CNA acted in breach of its fiduciary duty and/or duty to consult CNB. They reject the plaintiffs’ reliance on the SHIAC Award, which declared that the 2017 Extension Agreement was valid and effective. They argue that the SHIAC Arbitration was a “sham” and an “uncontested charade” to “cloak the purported 2017 Extension Agreement with legitimacy”.
+                   154
+
+
+
+
+Foot Note 154
+
+×
+
+
+
+  Defendants’ Written Submissions (Singapore Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 179–182.
+
+
+
+180 CNA does not contend that CNB is bound by the SHIAC Award, presumably because they recognise that CNB was not a party to the SHIAC Arbitration.181 We repeat paragraphs [106] to [109] above. The question of the validity of the 2017 Extension Agreement arose for the Tribunal’s decision as the jurisdictional question of whether, by the execution of the 2017 Extension Agreement on the part of CNA, the Present Arbitration, commenced by CNB, was terminated.182 Once the Tribunal held that the Present Arbitration was not terminated, it was entitled to proceed to determine the disputes that had been referred to it in the Present Arbitration. The next question is whether it also had jurisdiction to determine claims added after conclusion of the 2017 Extension Agreement. We now turn to that question.Whether the Tribunal had jurisdiction to determine the claims added by CNB and CNC after the 2017 Extension Agreement was concluded183 CND and CNE argue that the Tribunal did not have jurisdiction to determine the claims that CNB and CNC added to the Present Arbitration after the conclusion of the 2017 Extension Agreement. These would be the claims in CNB and CNC’s Notice of Additional Claims and Amendment to the Relief Sought filed on 3 January 2018 (the “Post-2017 Extension Agreement Claims”).
+                   155
+
+
+
+
+Foot Note 155
+
+×
+
+
+
+  9JBOD383.
+
+
+
+ The Post-2017 Extension Agreement Claims included requests for the following reliefs:(a) a declaration that the licence term under the SLA had expired on 28 September 2017 at the latest and that the SLA ceased to have effect from the same date;(b) an order that CND and CNE cease any and all use of the software relating to the game [X2] and return all versions of them;(c) an order that CND, CNE and CNA pay damages resulting from their conspiracy to injure CNB / CNC through the unlawful execution of the 2017 Extension Agreement and subsequent commencement of the SHIAC proceedings, with such damages to be assessed; and(d) an order that CNA pay damages arising from CNA’s dishonest assistance of CND and CNE’s breaches of the SLA.184 CND and CNE’s position is that the Post-2017 Extension Agreement Claims involved events after the Present Arbitration commenced, so the disputes would fall under the SHIAC Clause.
+                   156
+
+
+
+
+Foot Note 156
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at paras 599–605.
+
+
+
+185 CNB’s rebuttal is that the Post-2017 Extension Agreement Claims were advanced on the ground that the SLA expired on 28 September 2017, because it had not been validly extended.
+                   157
+
+
+
+
+Foot Note 157
+
+×
+
+
+
+  Defendants’ Written Submissions (Singapore Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at para 187.
+
+
+
+ The validity of the extension was in their submission within the Tribunal’s jurisdiction. We understand their submission to be that the rest of the relief that was added amounted to consequential relief.186 We note that CND and CNE have not contended that events after commencement of an arbitration may not form part of the dispute referred to arbitration or found claims or relief within it. It is of course necessary that “[a]ny new claim or cause of action … must require … clear identification and admission by the arbitration tribunal” and that this “is particularly so with a claim only allegedly arising after commencement of an arbitration”: per CBX and another v CBZ and others [2022] 1 SLR 47 at [51].187 The thrust of CND and CNE’s argument is not that the events relied on post-date commencement of the arbitration but that any disputes relating to them must fall under the SHIAC Clause.  We understand their submission to be that even if the Tribunal had the jurisdiction to consider whether its mandate was terminated by the 2017 Extension Agreement, including whether the extension was obtained in breach of fiduciary duty, it had no jurisdiction to consider new claims because such new claims are governed by the SHIAC Clause. Thus, even though the Tribunal held that the 2017 Extension Agreement was not valid in the course of rejecting the challenge to its mandate and even if the court agreed in its own de novo review that the Tribunal was correct to do so, this did not entitle the Tribunal to then determine on the merits claims that were governed by the SHIAC Clause.188 We do not accept CND and CNE’s argument. In this case, there was an existing relationship between principal, agent and third party which was governed by the ICC Clause. The validity of the 2017 Extension Agreement was challenged on the basis that there was a breach of fiduciary duty that arose from that existing relationship. This distinguishes this case from situations where the only question is under which of two or more valid arbitration clauses a particular dispute arises. As the 2017 Extension Agreement (including the change to the arbitration clause) did not bind CNB, the operative arbitration agreement remained the ICC Clause.Whether the Tribunal exceeded its jurisdiction in ruling on whether CNA had breached the duty to consult189 CND and CNE submit that the Tribunal exceeded its jurisdiction when it determined that CNA breached the duty to consult under the 2004 Settlement Record by entering into the 2017 Extension Agreement. The parties to the SLA did not consent to arbitrate disputes arising under the 2004 Settlement Record under the ICC Clause in the SLA. The Tribunal had no jurisdiction to consider a dispute under the 2004 Settlement Record and parties had not submitted such a dispute to the Tribunal. Despite the common understanding between parties on the ambit of the ICC Clause, the Tribunal made findings in the First Partial Award that CNA owed CNB a duty to consult as to the renewal of the SLA.
+                   158
+
+
+
+
+Foot Note 158
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at paras 606–624.
+
+
+
+190 CNB and CNC contend that the dispute arises under the SLA because the remedy sought under the claim is a declaration that the licence term under the SLA had expired.191 The Tribunal’s reasoning was as follows:
+                   159
+
+
+
+
+Foot Note 159
+
+×
+
+
+
+  First Partial Award at para 196, 2JBOD56.
+
+
+
+ In the Tribunal’s view, adopting the Fiona Trust approach … the renewal or extension of the SLA is a matter that is covered by the arbitration agreement in the SLA. The exercise of the duty to consult was closely connected to the SLA, and the parties, being rational businessmen, should be assumed to have intended the arbitration clause to apply to all disputes in relation to the SLA, including disputes in relation to its renewal or extension.192  It is important to understand that at this stage of the argument the question is whether the Tribunal had jurisdiction in an arbitration under the SLA to make findings of a breach of the duty to consult arising under the 2004 Settlement Record in relation to the renewal, extension or amendment of the SLA. Once the question is posed in this way, it is clear that the dispute arose under the SLA and hence the Tribunal had jurisdiction.Whether the Tribunal had jurisdiction to make orders and/or declarations in favour of CNB193  CNA’s objection is that, once the Tribunal found at [299] of the First Partial Award that CNB had effectively transferred its rights and obligations under the SLA to CNC, the Tribunal had no jurisdiction to make orders and declarations in favour of CNB.194 CNB / CNC’s response is that the Tribunal framed its orders generically in favour of the “Claimants” and hence the orders can be readily understood as meaning CNC rather than CNB, given the Tribunal’s findings.195 We accept that CNB / CNC’s explanation and confirmation of the meaning of the orders resolves CNA’s concern. Whether the Tribunal had jurisdiction to make the finding that the game [Y] was derived from the game [X2]196 CND and CNE argue that the Tribunal exceeded its jurisdiction by making the finding that the game [Y] was derived from the game [X2]. They contend that this finding should be set aside pursuant to Art 34(2)(a)(iii) of the Model Law.
+                   160
+
+
+
+
+Foot Note 160
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at paras 625–631.
+
+
+
+ The defendants, CNB / CNC, say that they made the allegations on which the Tribunal’s finding was based only because CND and CNE raised in their defence that certain games (labelled in the arbitration as Table A games) that CNB and CNC claimed were derived from the game [X2] were in fact derived from game [Y], in relation to which there had been a settlement.
+                   161
+
+
+
+
+Foot Note 161
+
+×
+
+
+
+  Defendants’ Written Submissions (Singapore Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 189–196.
+
+
+
+197 Thus, it was in issue before the Tribunal whether the Table A games were derived from or were an unlicensed exploitation of the game [X2]. Essentially, the Tribunal rejected CND and CNE’s defence on this issue which involved establishing an alternative and legitimate provenance for the Table A games. The Tribunal’s rejection of their defence entailed in part this finding of derivation from the game [X2]. Given this, making the finding was within the Tribunal’s jurisdiction.Whether the Tribunal had jurisdiction to determine the allegations against CND and CNE in respect of mobile games198 CND and CNE argue that the Tribunal had no jurisdiction to decide CNB / CNC’s claim that CND and CNE breached the SLA by developing / exploiting mobile versions of the game [X2] and/or authorising / facilitating third parties to do so, as this is a dispute falling under the mobile game licence agreements instead of the SLA.
+                   162
+
+
+
+
+Foot Note 162
+
+×
+
+
+
+  Plaintiffs’ Written Submissions in SIC/OS 3/2022 and SIC/OS 4/2022 dated 9 September 2022 at paras 650–664.
+
+
+
+ 199 The defendants argue that it is not accurate to suggest that the dispute could only be decided under the mobile game licence agreements and not the SLA since they only granted CND limited rights in respect of two specific mobile versions of the game [X2]. Further, CNB / CNC’s claim in relation to the unlawful exploitation of the game [X2] through developing or licensing mobile games was based on CND / CNE’s breach of an implied term of the SLA. The Tribunal had jurisdiction to decide that there was such an implied term of the SLA and that it had been breached.
+                   163
+
+
+
+
+Foot Note 163
+
+×
+
+
+
+  Defendants’ Written Submissions (Singapore Law) in SIC/OS 2/2022 to 5/2022 dated 9 September 2022 at paras 197–207.
+
+
+
+200 We accept the defendants’ argument. The claim was indeed based on implication of a term into the SLA. That there might have been alternative claims under one or other of the mobile game licence agreements does not deprive the Tribunal of jurisdiction to determine the claim as brought under the SLA. Conclusion 201 We have concluded that CNA’s authority to bind CNB in relation to CND / CNE was established by and contained in the 2002 Supplementary Agreement, which was entered into as a tripartite agreement precisely because until that agreement, CNB had not been contractually bound to perform positive obligations, such as that of technical support, in connection with the SLA. Their relationship was consequently governed by Singapore law, and, on the facts of this case, CNA owed CNB fiduciary and equitable duties in relation to the exercise of its power to alter CNB’s legal relations with CND / CNE.202 In entering into the 2017 Extension Agreement, CNA acted in haste and secrecy, without resolving important matters such as the scope of the SLA. It did so at CND / CNE’s instigation because CND / CNE wanted to rely on the change from the ICC Clause to the SHIAC Clause as a jurisdictional objection in the Present Arbitration.203 This was a breach of CNA’s fiduciary duty and CNB was entitled to and did avoid the 2017 Extension Agreement.204 Consequently, the ICC Clause remained operative and the Tribunal did not cease to have jurisdiction over the disputes referred to it.205 We dismiss both applications to set aside the First Partial Award in their entirety. The applications to set aside the Second Partial Award are therefore dismissed as well. We give the following directions for the determination and assessment of costs:(a) Within 14 days of the date of this judgment, parties are to file written submissions on costs limited to ten pages each, exclusive of any appendices setting out time spent or disbursements incurred. (b) In the 14 days thereafter, parties should seek to agree costs and disbursements. (c) If there remains disagreement, parties are to write in for an oral hearing, and are to file supplementary written submissions limited to ten pages each two clear days before such oral hearing, focused on points of disagreement. Philip JeyaretnamJudge of the High CourtSimon ThorleyInternational JudgeYuko MiyazakiInternational JudgeCavinder Bull SC, Tan Yuan Kheng (Chen Yuanqing), Lea Woon Yee, Tan Jui Yang, Benedict and Kenneth Sean Teo Hao Jin (Drew & Napier LLC), Junwoo Kim (alias Junu Kim) and Han Gil Lee (Bae, Kim & Lee LLC) (Korean law) for the plaintiff in SIC/OS 2/2022 and SIC/OS 5/2022;Toby Landau KC (Duxton Hill Chambers) (instructed), Rachel Low Tze-Lynn (Rachel Low LLC) (instructed), Zhuo Jiaxiang and Alston Yeong (Providence Law LLC), Sunyoung Kim and Yoo Lim Oh (Lee & Ko) (instructed), Ing Loong Yang and Chi Ho Kwan (Akin Gump Strauss Hauer & Feld LLP) (instructing) (Korean law) for the plaintiffs in SIC/OS 3/2022 and SIC/OS 4/2022;Chan Hock Keng, Chen Chi and Tang Xi-Rui, Charlotte (WongPartnership LLP), Prof Kwon Young Joon (Seoul National University) (instructed), Lee Eun Ngyung (KL Partners) (instructing) (Korean law) for the defendants in SIC/OS 2 to 5/2022.
