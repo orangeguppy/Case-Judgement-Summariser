@@ -1,0 +1,3186 @@
+
+In the Singapore international commercial court of the republic of singapore[2023] SGHC(I) 18Originating Application No 10 of 2023Between(1)DBX(2)DBY… Applicants And(1)DBZ… Respondentjudgment[Arbitration — Award — Recourse against award — Setting aside]This judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in LawNet and/or the Singapore Law Reports.DBX and anothervDBZ[2023] SGHC(I) 18Singapore International Commercial Court — Originating Application No 10 of 2023 Roger Giles IJ18 September 202315 November 2023 Judgment reserved.Roger Giles IJ:Introduction 1 This is an application to set aside the final awards in two Singapore seated arbitrations. In one award, the First Applicant was held liable to the Respondent as principal debtor under a margin financing facility agreement in a sum just short of HKD 80m, plus interest and costs.
+                   1
+
+
+
+
+Foot Note 1
+
+×
+
+
+
+  Final Award in relation to the First Applicant at para 104 (Case Management Bundle (“CMB”) Volume 3 at pp 636–677).
+
+
+
+ In the other award, the Second Applicant was held liable to the Respondent as guarantor for the same amount, plus interest and costs.
+                   2
+
+
+
+
+Foot Note 2
+
+×
+
+
+
+  Final Award in relation to the Second Applicant at para 123 (CMB Volume 3 at pp 679–736). 
+
+
+
+2 The application was filed in the General Division of the High Court on 19 June 2023,
+                   3
+
+
+
+
+Foot Note 3
+
+×
+
+
+
+  Originating Application HC/OA 616/2023 filed on 19 June 2023 (CMB Volume 1 at pp 4–5).
+
+
+
+ and was transferred to the Singapore International Commercial Court on 7 August 2023. At an early time, the learned Deputy Registrar made consent orders on the Respondent’s application that the court file for this application be sealed and the identity of the parties to the proceedings not be identified in any hearing lists,
+                   4
+
+
+
+
+Foot Note 4
+
+×
+
+
+
+  Order of Court HC/ORC 3584/2023 for HC/OA 616/2023 (HC/SUM 2270/2023) filed on 4 August 2023 (CMB Volume 1 at pp 10–11). 
+
+
+
+ hence the computer allocated title of this judgment. The learned Deputy Registrar reserved to the Judge hearing the application the Respondent’s prayer for an order that the “[p]arties’ identities on the case file be anonymised and any written judgments, orders, and/or grounds in the proceedings be duly amended so as not to reveal the identity of the parties to the proceedings”.
+                   5
+
+
+
+
+Foot Note 5
+
+×
+
+
+
+  Order of Court HC/ORC 3584/2023 for HC/OA 616/2023 (HC/SUM 2270/2023) filed on 4 August 2023 (CMB Volume 1 at pp 10–11); Summons (by consent) HC/SUM 2270/2023 filed on 28 July 2023 (CMB Volume 1 at pp 7–9). 
+
+
+
+3 The first part of that prayer has in practice been accommodated by the sealing of the court file and the allocated title. The Applicants did not oppose the second part of the prayer. The arbitral proceedings were subject to confidentiality, and on the materials before me no reason appears why the derivative interest in protecting their confidentiality (see The Republic of India v Deutsche Telecom AG [2023] SGCA(I) 4 at [23]) should not be recognised as an exception to the general principle of open justice. However, I am doubtful about an order effectively directed to myself, and an order is unnecessary. Avoiding the confusion of consonants in the names in the allocated title, I will refer to the First Applicant, a company, as “ACo” and to the Second Applicant, a natural person, as “A” (and to them together as the “Applicants”), and to the Respondent, a company, as “RCo”; and I will frame this judgment and any orders so as not to reveal the parties’ identities (including gender neutrality as to A). 4 The relief claimed in the application was in the form that the Applicants applied to set aside the awards in both arbitrations; that is, that ACo applied to set aside the award against A (the “A award”) as well as the award against itself (the “ACo award”), and vice versa.
+                   6
+
+
+
+
+Foot Note 6
+
+×
+
+
+
+  Originating Application HC/OA 616/2023 filed on 19 June 2023 (CMB Volume 1 at pp 4–5).
+
+
+
+ This was incorrect. The wrapped-up approach was carried through to the hearing of the application, albeit not entirely inappropriately when the grounds for setting aside and the submissions were generally directed to setting aside both awards without distinction according to the applicant and the award, although there were occasions when distinction was necessary. RCo noted the incorrect form of the application as “irregular”,
+                   7
+
+
+
+
+Foot Note 7
+
+×
+
+
+
+  Respondent’s written submissions for SIC/OA 10/2023 dated 13 September 2023 (“RWS”) at para 4. 
+
+
+
+ but no substantive point was taken and the matter need not be considered further.5 The application was brought on the following grounds:(a) that there was no valid arbitration agreement between ACo and RCo (see Art 34(2)(a)(i) of the UNCITRAL Model Law on International Commercial Arbitration (the “Model Law”) as given the force of law in Singapore by s 3 of the International Arbitration Act 1994 (2020 Rev Ed) (the “IAA”)) (“Ground (a)”);
+                   8
+
+
+
+
+Foot Note 8
+
+×
+
+
+
+  Applicants’ written submissions for SIC/OA 10/2023 dated 13 September 2023 (“AWS”) at para 1(c).
+
+
+
+(b) that the Applicants were not given proper notice of the arbitral proceedings (see Art 34(2)(a)(ii) of the Model Law and s 24(b) of the IAA) (“Ground (b)”);
+                   9
+
+
+
+
+Foot Note 9
+
+×
+
+
+
+  AWS at para 1(b). 
+
+
+
+ and      (c) that the awards are contrary to the public policy of Singapore (see Art 34(2)(b)(ii) of the Model Law) (“Ground (c)”).
+                   10
+
+
+
+
+Foot Note 10
+
+×
+
+
+
+  AWS at para 1(a). 
+
+
+
+ 6 The application was supported by two affidavits of A, one made on behalf of ACo
+                   11
+
+
+
+
+Foot Note 11
+
+×
+
+
+
+  First Applicant’s affidavit dated 19 June 2023 (“ACo’s affidavit”) (CMB Volume 1 at p 13 to Volume 2 at p 511).
+
+
+
+ and the other made on their own behalf adopting the contents of the first affidavit.
+                   12
+
+
+
+
+Foot Note 12
+
+×
+
+
+
+  Second Applicant’s affidavit dated 19 June 2023 (“A’s affidavit”) (CMB Volume 2 at pp 513–575). 
+
+
+
+ The application was opposed through an affidavit of the CEO (and also a director) of RCo. All affidavits went beyond evidence to include a deal of argumentative material.7 While the relevant sub-articles of Art 34(2) of the Model Law and the sub-sections of s 24 of the IAA underlying the grounds for setting aside can be inferred from the Applicants’ affidavits (in which Ground (a) included that there was no valid arbitration agreement between A and RCo), they were not explicitly stated in the application or the affidavits. By O 48 r 2(4)(a) of the Rules of Court 2021 (the “Rules”), the affidavit in support of an application to set aside an award must “state the grounds in support of the application”. Referring to BZW and another v BZV [2022] 1 SLR 1080 (“BZW”) at [48], where in relation to the predecessor O 69A r 2(4A) of the Rules of Court (2014 Rev Ed) the Court of Appeal said that the rule would be satisfied by a brief statement of the sub-articles of Art 34(2) of the Model Law and s 24 of the IAA which were relied on to justify the setting aside application, RCo submitted that the application was again “irregular”.
+                   13
+
+
+
+
+Foot Note 13
+
+×
+
+
+
+  RWS at para 4. 
+
+
+
+ It did not, however, submit that the application was defective, as had been the argument in BZW (at [39]–[44]), and BZW does not prescribe that express reference to the relevant sub-articles is the only way of stating the grounds. Again, while RCo noted the matter it did not take a substantive point, and again the matter need not be considered further.8 Apart from contesting the merits of the grounds, RCo contended that the application had been brought out of time, being outside the period of three months from the date of receipt of the awards stipulated in Art 34(3) of the Model Law and O 48 r 2(3) of the Rules.
+                   14
+
+
+
+
+Foot Note 14
+
+×
+
+
+
+  RWS at paras 31–35.
+
+
+
+The margin financing facility9 ACo is an investment holding company incorporated in the British Virgin Islands (the “BVI”).
+                   15
+
+
+
+
+Foot Note 15
+
+×
+
+
+
+  ACo’s affidavit at para 5 (CMB Volume 1 at p 15). 
+
+
+
+ A is its sole director and beneficial shareholder.
+                   16
+
+
+
+
+Foot Note 16
+
+×
+
+
+
+  ACo’s affidavit at para 1 (CMB Volume 1 at p 14); RCo’s affidavit at para 7 (CMB Volume 3 at p 599). 
+
+
+
+ RCo is incorporated in Singapore, and carries on the business of brokering stocks and futures.
+                   17
+
+
+
+
+Foot Note 17
+
+×
+
+
+
+  RCo’s affidavit at para 6 (CMB Volume 3 at p 598). 
+
+
+
+10 In December 2017, RCo provided to ACo a margin financing facility (the “Facility”) for its investment activities. A Margin Facility Letter (the “Letter”) dated 17 December 2017 offered the opening and operation of a Margin Financing Account (the “Account”) with a limit of HKD 200m on the terms set out therein, and was signed by A as the authorised signatory of ACo by way of acceptance.
+                   18
+
+
+
+
+Foot Note 18
+
+×
+
+
+
+  Margin Facility Letter from RCo to ACo (CMB Volume 3 at pp 788–793); ACo’s affidavit at para 7 (CMB Volume 1 at p 15); RCo’s affidavit at paras 12 and 16.
+
+
+
+ Relevantly to the application, the Letter included in cll 1.1 and 1.3 that the Account would be subject to “the provisions of all relevant Rules of Singapore Exchange Securities Trading Limited”, that is, the Singapore Stock Exchange, and to RCo’s Terms and Conditions for Trading Accounts (the “Terms”).
+                   19
+
+
+
+
+Foot Note 19
+
+×
+
+
+
+  Margin Facility Letter from RCo to ACo at cll 1.1 and 1.3 (CMB Volume 3 at pp 788 and 790); Securities Trading Account Terms and Conditions (CMB Volume 3 at pp 795–847). 
+
+
+
+ The acceptance of the Letter included that ACo had read and understood the Terms,
+                   20
+
+
+
+
+Foot Note 20
+
+×
+
+
+
+  Margin Facility Letter from RCo to ACo at p 6 (CMB Volume 3 at p 793). 
+
+
+
+ and I will return more fully to the document in these respects. The Letter also included that A would guarantee the Account, and A signed a separate Deed of Guarantee and Indemnity (the “Guarantee”).
+                   21
+
+
+
+
+Foot Note 21
+
+×
+
+
+
+  Margin Facility Letter from RCo to ACo at cl 6 (CMB Volume 3 at p 792); Deed of Guarantee and Indemnity (CMB Volume 3 at pp 849–862). 
+
+
+
+ The copies in evidence were undated. 11 The Letter and the Guarantee were in English, as were the Terms. Each of the Terms and the Guarantee contained an arbitration clause, in cl 34 and cl 33 respectively, these being the clauses on which RCo brought the arbitral proceedings.
+                   22
+
+
+
+
+Foot Note 22
+
+×
+
+
+
+  Securities Trading Account Terms and Conditions at p 50 (CMB Volume 3 at p 847); Deed of Guarantee and Indemnity at p 13 (CMB Volume 3 at p 861).
+
+
+
+ Again relevantly to the application, the arbitration clause in cl 34 of the Terms provided that submission of a dispute to arbitration was “[a]t the sole option of [RCo] and at its absolute discretion”, that is, it was a unilateral arbitration clause; and that the arbitration would be “in accordance with the UNCITRAL Arbitration Rules”, meaning the Arbitration Rules of the United Nations Commission on International Trade Law (the “UNCITRAL Rules”). The arbitration clause in cl 33 of the Guarantee provided that the arbitral proceedings would be “in accordance with the Arbitration Rules of the Singapore International Arbitration Centre” (the “SIAC Rules”). Both the Terms and the Guarantee provided for Singapore law as the governing law. 12 An Account Opening Form dated 13 December 2017 was also signed by A on behalf of ACo.
+                   23
+
+
+
+
+Foot Note 23
+
+×
+
+
+
+  Securities and Futures Trading Account Opening Form (CMB Volume 1 at pp 85–74).
+
+
+
+ It recorded ACo’s request to open and maintain a securities and a securities margin trading account on the terms and conditions in the Securities Trading Account Terms and Conditions (that is, the Terms) and the Securities Margin Trading Account Terms and Conditions.
+                   24
+
+
+
+
+Foot Note 24
+
+×
+
+
+
+  Securities and Futures Trading Account Opening Form at p 1 (CMB Volume 1 at p 85).
+
+
+
+ The signed document was also in English, and included that A acknowledged and confirmed receipt of the Terms, the Securities Margin Trading Account Terms and Conditions, a fee schedule, and a risk disclosure statement.
+                   25
+
+
+
+
+Foot Note 25
+
+×
+
+
+
+  Securities and Futures Trading Account Opening Form at p 1 (CMB Volume 1 at p 85).
+
+
+
+ 13 A also signed a Client Information Statement dated 13 December 2017 as the authorised signatory of ACo.
+                   26
+
+
+
+
+Foot Note 26
+
+×
+
+
+
+  Client Information Statement (CMB Volume 1 at pp 87–89). 
+
+
+
+ Relevantly to the application, ACo gave an address in the BVI as its “Registered Address” (the “BVI address”), an address in Hong Kong as its “Correspondence Address” (the “ACo Hong Kong address”), an email address xxx@163.com as its email address (the “163 email address”), and a Hong Kong number as its telephone number.
+                   27
+
+
+
+
+Foot Note 27
+
+×
+
+
+
+  Client Information Statement at p 1 (CMB Volume 1 at p 87). 
+
+
+
+ The form asked for the identity of the ultimate beneficial owner of the Account, and was completed with the name of A and a different Hong Kong address (the “A Hong Kong address“) as well as the same Hong Kong number as their telephone number. It also asked for the identity of the persons ultimately responsible for giving instructions in relation to transactions to be conducted through the Account, and was completed with the name of A and some particulars including the same Hong Kong number, as well as the name and some particulars of a second person, who is in fact A’s son and whom I will call “X”.14 In the Guarantee which they signed, A was said to be “of” the ACo Hong Kong address.
+                   28
+
+
+
+
+Foot Note 28
+
+×
+
+
+
+  Deed of Guarantee and Indemnity at p 1 (CMB Volume 3 at p 849).
+
+
+
+ In their affidavit made on behalf of ACo in support of the application, under “Registered Address”, they were said to be “Care Of” the BVI address.
+                   29
+
+
+
+
+Foot Note 29
+
+×
+
+
+
+  ACo’s affidavit at p 1 (CMB Volume 1 at p 13).
+
+
+
+15 No evidence explained the different dates of 13 and 17 December 2017, save perhaps for an obscure reference in ACo’s affidavit to ACo having submitted the Account Opening Form to an associated company of RCo in Hong Kong, which I will call “RCoHK”, “when making its request to open and maintain a margin securities trading account with the company”.
+                   30
+
+
+
+
+Foot Note 30
+
+×
+
+
+
+  ACo’s affidavit at para 7 (CMB Volume 1 at p 15). 
+
+
+
+ As later discussed, there was a dearth of evidence explaining the circumstances in which the Facility was provided. The facility ends in debit16 The Facility was initially for a period of 12 months.
+                   31
+
+
+
+
+Foot Note 31
+
+×
+
+
+
+  Margin Facility Letter from RCo to ACo at p 5 (CMB Volume 3 at p 792). 
+
+
+
+ It was later agreed that it would be extended to a date in June 2019, with a reduced limit of HKD 190m.
+                   32
+
+
+
+
+Foot Note 32
+
+×
+
+
+
+  ACo’s affidavit at para 9 (CMB Volume 1 at p 17); RCo’s affidavit at para 22 (CMB Volume 3 at p 606). 
+
+
+
+ At this time another person, whom I will call “Z”, also signed a guarantee of ACo’s payment obligations to RCo, with a limit of HKD 100m.
+                   33
+
+
+
+
+Foot Note 33
+
+×
+
+
+
+  RCo’s affidavit at para 17(b) (CMB Volume 3 at p 602).
+
+
+
+ 17 ACo utilised the facility for trading, with all trading on the Hong Kong Stock Exchange. There was no evidence of how the actual trading was conducted, but the Terms provided at cl 3.2 that transactions could be effected by RCo if authorised to deal on the relevant Exchange or at its option, “indirectly through any other broker or agent, which [it] may … decide to appoint”,
+                   34
+
+
+
+
+Foot Note 34
+
+×
+
+
+
+  Securities Trading Account Terms and Conditions at p 6 (CMB Volume 3 at p 803).
+
+
+
+ and it is likely that it was done through RCoHK which was appropriately licenced in Hong Kong.
+                   35
+
+
+
+
+Foot Note 35
+
+×
+
+
+
+  RCo’s affidavit at para 6 (CMB Volume 3 at p 598). 
+
+
+
+ A letter dated 28 January 2019 about the suspension of ACo’s account pending annual review was sent from RCoHK,
+                   36
+
+
+
+
+Foot Note 36
+
+×
+
+
+
+  ACo’s affidavit at para 21(b)(ii) (CMB Volume 3 at p 23); Letter on suspension of account (CMB Volume 2 at pp 355–356). 
+
+
+
+ and it was not suggested in the Applicants’ case that the trading was done by RCo itself. Monthly statements and at least some daily statements, in the period from December 2017 to May 2023, recording the portfolio and the state of the Account were sent by RCo to ACo at the ACo Hong Kong address, marked for the attention of A, and were also emailed to the 163 email address.
+                   37
+
+
+
+
+Foot Note 37
+
+×
+
+
+
+  ACo’s affidavit at para 21(c) (CMB Volume 1 at p 24); Monthly statements for the Account from December 2017 to May 2023 (CMB Volume 1 at pp 93–113 and Volume 2 at pp 347–470); RCo’s affidavit at para 50(d)(i) (CMB Volume 2 at p 618).
+
+
+
+ As recorded by the arbitrator in both awards, ACo used the 163 email address when corresponding with RCo,
+                   38
+
+
+
+
+Foot Note 38
+
+×
+
+
+
+  Final Award in relation to the Second Applicant at para 13 (CMB Volume 3 at p 685); Final Award in relation to the First Applicant at para 8 (CMB Volume 3 at pp 640–641).
+
+
+
+ and the evidence included an email sent from that email address dated 27 May 2020 in relation to RCo’s liquidation of securities as next mentioned.
+                   39
+
+
+
+
+Foot Note 39
+
+×
+
+
+
+  RCo’s affidavit at para 50(c) (CMB Volume 3 at p 618); Email dated 27 May 2020 from the 163 email address (CMB Volume 7 at pp 1716–1717).
+
+
+
+18 ACo asked to renew the facility beyond June 2019, but RCo declined.
+                   40
+
+
+
+
+Foot Note 40
+
+×
+
+
+
+  RCo’s affidavit at para 23 (CMB Volume 3 at p 607).
+
+
+
+ The Account was substantially in debit. Some partial payments in reduction of debit balance in the Account were made, and RCo liquidated some securities which it held in further reduction of the Account.
+                   41
+
+
+
+
+Foot Note 41
+
+×
+
+
+
+  RCo’s affidavit at paras 24–25(CMB Volume 3 at p 607); ACo’s affidavit at para 10–11 (CMB Volume 1 at pp 17–18).
+
+
+
+ In the arbitrations, RCo claimed the outstanding balance of the Account.
+                   42
+
+
+
+
+Foot Note 42
+
+×
+
+
+
+  RCo’s affidavit at paras 26–27 (CMB Volume 3 at p 608); ACo’s affidavit at para 10 (CMB Volume 1 at p 17). 
+
+
+
+The arbitral proceedings19 As noted above, there were two arbitrations. The arbitrations were before the same sole arbitrator (the “Tribunal”).
+                   43
+
+
+
+
+Foot Note 43
+
+×
+
+
+
+  RCo’s affidavit at para 4 (CMB Volume 3 at p 598). 
+
+
+
+ As recorded by the Tribunal, the arbitral proceedings against ACo were initiated by RCo pursuant to the arbitration clause in the Terms, incorporated by reference into the Letter, while the arbitral proceedings against A were initiated by it pursuant to the arbitration clause in the Guarantee.
+                   44
+
+
+
+
+Foot Note 44
+
+×
+
+
+
+  Final Award in relation to the First Applicant at para 1 (CMB Volume 3 at p 639); Final Award in relation to the Second Applicant at para 2 (CMB Volume 3 at p 682). 
+
+
+
+ The arbitral proceedings against A were later consolidated with separate arbitral proceedings brought against Z, and the award in that arbitration was for their joint and several liability to RCo.
+                   45
+
+
+
+
+Foot Note 45
+
+×
+
+
+
+  Final Award in relation to the Second Applicant at paras 2 (CMB Volume 3 at p 682) and 123 (CMB Volume 3 at p 707). 
+
+
+
+ Z has not applied to set aside the award.20 The two arbitral proceedings against ACo and A respectively were commenced on the same day, and they together with the subsequently consolidated proceedings against Z were conducted essentially jointly and on the same timetabling. They came to a merits hearing in the claim against ACo on one day, and in the claims against A and Z on the next day,
+                   46
+
+
+
+
+Foot Note 46
+
+×
+
+
+
+  RCo’s affidavit at para 33 (CMB Volume 3 at p 609). 
+
+
+
+ and after post-hearing submissions at the Tribunal’s request,
+                   47
+
+
+
+
+Foot Note 47
+
+×
+
+
+
+  RCo’s affidavit at para 37 (CMB Volume 3 at p 612).
+
+
+
+ awards dated the same day were issued.
+                   48
+
+
+
+
+Foot Note 48
+
+×
+
+
+
+  RCo’s affidavit at para 38 (CMB Volume 3 at p 612). 
+
+
+
+21 Neither ACo nor A (nor Z) participated in the arbitrations in any way.
+                   49
+
+
+
+
+Foot Note 49
+
+×
+
+
+
+  RCo’s affidavit at paras 33–37 (CMB Volume 3 at pp 609–612);
+
+
+
+ As recorded by the Tribunal, they did not respond to the Notices of Arbitration, attend any procedural meetings, respond to any communication from RCo or the Tribunal, or attend either merits hearing.
+                   50
+
+
+
+
+Foot Note 50
+
+×
+
+
+
+  Final Award in relation to the First Applicant at paras 21, 24–25, 28, 35, 40, 42 (CMB Volume 3 at pp 644–647); Final Award in relation to the Second Applicant at paras 24, 27–28, 35, 45, 50, 52, 57 (CMB Volume 3 at pp 689–693). 
+
+
+
+22 In both awards, the Tribunal recorded that RCo had made efforts via both email and hard copy to provide notice of the proceedings to the relevant respondent.
+                   51
+
+
+
+
+Foot Note 51
+
+×
+
+
+
+  Final Award in relation to the First Applicant at paras 7–10 (CMB Volume 3 at pp 640–641); Final Award in relation to the Second Applicant at para 11 (CMB Volume 3 at p 685).
+
+
+
+ In both arbitral proceedings, the Tribunal directed RCo to keep a detailed record of all attempts to provide notice,
+                   52
+
+
+
+
+Foot Note 52
+
+×
+
+
+
+  Final Award in relation to the First Applicant at para 7 (CMB Volume 3 at p 640); Final Award in relation to the Second Applicant at paras 11–13 (CMB Volume 3 at p 685).
+
+
+
+ and annexed the service log maintained by RCo to the awards.
+                   53
+
+
+
+
+Foot Note 53
+
+×
+
+
+
+  Final Award in relation to the First Applicant at Annex A (CMB Volume 3 at pp 661–677); Final Award in relation to the Second Applicant at Annex A (CMB Volume 3 at pp 709–736).
+
+
+
+ The emails were sent to the 163 email address,
+                   54
+
+
+
+
+Foot Note 54
+
+×
+
+
+
+  Final Award in relation to the First Applicant at para 9 (CMB Volume 3 at p 641); Final Award in relation to the Second Applicant at para 13 (CMB Volume 3 at p 685).
+
+
+
+ and the Tribunal noted in the ACo award that delivery failure messages had not been received by it in response to its emails sent to ACo.
+                   55
+
+
+
+
+Foot Note 55
+
+×
+
+
+
+  Final Award in relation to the First Applicant at para 9 (CMB Volume 3 at p 641).
+
+
+
+ Referring to notice provisions in the Letter and the Terms in the case of ACo, and in the Guarantee in the case of A, as well as to notice provisions in the Model Law and the UNCITRAL Rules in the case of ACo, and in the Model Law and the SIAC Rules in the case of A, the Tribunal recorded in both awards that “reasonable and sufficient effort” had been made to provide due notice to the relevant respondent and to provide them with a fair opportunity to be heard and participate in the relevant arbitral proceedings.
+                   56
+
+
+
+
+Foot Note 56
+
+×
+
+
+
+  Final Award in relation to the First Applicant at paras 13–15 (CMB Volume 3 at pp 641–642); Final Award in relation to the Second Applicant at para 15 (CMB Volume 3 at para 686).
+
+
+
+ The awards and their corrections23 The Tribunal issued awards dated 18 February 2023 in both arbitrations. In the ACo award, it was ordered that ACo pay to RCo HKD 79,978,911.10, plus interest and an amount for costs, subject to reduction in the event of payment by one of the guarantors A or Z or further realisation of securities.
+                   57
+
+
+
+
+Foot Note 57
+
+×
+
+
+
+  Final Award in relation to the First Applicant at para 104 (CMB Volume 3 at pp 659–660).
+
+
+
+ In the A award, it was ordered that A and Z were jointly and severally liable to RCo for the same amount, plus interest and an amount for costs, subject to a similar reduction and in the case of Z to a cap of HKD 100m.
+                   58
+
+
+
+
+Foot Note 58
+
+×
+
+
+
+  Final Award in relation to the Second Applicant at para 123 (CMB Volume 3 at p 707).
+
+
+
+ 24 The Tribunal subsequently issued corrections to both awards on its own initiative. What occurred in this respect is material to whether the application was brought out of time.25 Each of the awards issued on 18 February 2023 included, when dealing with costs, a table which included figures for the Tribunal’s and SIAC’s fees and expenses as part of a figure for the total costs of the arbitration.
+                   59
+
+
+
+
+Foot Note 59
+
+×
+
+
+
+  Final Award in relation to the First Applicant at para 102 (CMB Volume 3 at p 659); Final Award in relation to the Second Applicant at para 121 (CMB Volume 3 at pp 706–707).
+
+
+
+ SIAC’s fees and expenses had three components: (a) an administration fee; (b) SIAC expenses; and (c) GST. In the ACo award, the total costs of the arbitration were $122,868.14,
+                   60
+
+
+
+
+Foot Note 60
+
+×
+
+
+
+  Final Award in relation to the First Applicant at para 102 (CMB Volume 3 at p 659); Final Award in relation to the Second Applicant at para 121 (CMB Volume 3 at pp 706–707).
+
+
+
+ and in the A award, the total costs of the arbitration were $123,282.14. The amounts awarded for RCo’s costs included those total costs.   26 The Tribunal then issued in each case, by way of email on 20 March 2023,
+                   61
+
+
+
+
+Foot Note 61
+
+×
+
+
+
+  Email from SIAC dated 20 March 2023 for the arbitration in relation to the First Applicant (CMB Volume 6 at pp 1666–1672); Email from SIAC dated 20 March 2023 for the arbitration in relation to the Second Applicant (CMB Volume 6 at pp 1674–1680).
+
+
+
+ a document dated 19 March 2023 entitled “Correction to final award of 18 February 2023”.
+                   62
+
+
+
+
+Foot Note 62
+
+×
+
+
+
+  Correction to Final Award in relation to the First Applicant (CMB Volume 6 at pp 1669–1672); Correction to Final Award in relation to the Second Applicant (CMB Volume 6 at pp 1677–1680).
+
+
+
+ Each document recorded that the Tribunal had “[become] aware of a miscalculation of the costs of the arbitration, specifically as to the rate of the Goods and Services Tax (“GST”) applied to the Fees and Expenses of the SIAC. The Final Award imposed a rate of 7% whereas the correct rate for the year 2023 is 8%”.
+                   63
+
+
+
+
+Foot Note 63
+
+×
+
+
+
+  Correction to Final Award in relation to the First Applicant at para 3 (CMB Volume 6 at p 1671); Correction to Final Award in relation to the Second Applicant at para 3 (CMB Volume 6 at p 1679).
+
+
+
+ 27 The correction to the ACo award continued:
+                   64
+
+
+
+
+Foot Note 64
+
+×
+
+
+
+  Correction to Final Award in relation to the First Applicant at paras 4–7 (CMB Volume 6 at pp 1671–1672). 
+
+
+
+4. Pursuant to Articles 38(1) and 38(2) of the Arbitration Rules of the United Nations Commission on International Trade Law (with new article 1, paragraph 4, as adopted in 2013) (“2013 UNCITRAL Arbitration Rules”), the Tribunal may correct certain errors in an award, including errors “in computation, any clerical or typographical error or any error or omission of a similar nature,” and, “within 30 days after the communication of the award,” it may do so “on its own initiative”. Further, under Article 38(3) of the 2013 UNCITRAL Arbitration Rules, any such correction “shall form part of the award”.5. The Tribunal hereby finds that the miscalculation of the applicable GST in the 18 February 2023 Final Award was an error of computation within the meaning of Article 38 of the 2013 UNCITRAL Arbitration Rules, and thus a correction of the Final Award on the Tribunal‘s own initiative is permitted and appropriate in this case.6. Accordingly, the Final Award is hereby corrected as follows:a. The table included at paragraph 102 of the Award is hereby replaced by the following table:…7. All other portions of the Final Award remain unchanged.28 The corresponding paragraphs in the correction to the A award were similar, save that the reference to the power to correct errors was to r 33.2 of the SIAC Rules, and it was said that by r 33.1 of those Rules, any correction “shall constitute part of the Award”.
+                   65
+
+
+
+
+Foot Note 65
+
+×
+
+
+
+  Correction to Final Award in relation to the Second Applicant at paras 4–7 (CMB Volume 6 at pp 1679–1680).
+
+
+
+ 29 In each new table, there were new figures for the three components of SIAC’s fees and expenses, but they added up to the same subtotal for SIAC’s fees and expenses as in the corresponding original table. In consequence, the figures for the total costs of the arbitration of $122,868.14 or $123,282.14 remained the same, and the amounts awarded for RCo’s costs remained the same. The oddity is that SIAC’s administration fee, expenses, and GST all changed, but the sub-totals for SIAC’s fees and expenses and hence the total costs of arbitration remained the same; further, the new figures do not seem to reflect a recalculation with a different GST rate. Counsel could not explain this, or how the application of the GST rate of 8% rather than 7% was found in the figures.
+                   66
+
+
+
+
+Foot Note 66
+
+×
+
+
+
+  Minute sheet dated 18 September 2023 at pp 4 and 24.
+
+
+
+ 30 In the result, the amounts of the awards against ACo and A (and Z) respectively did not change; the changes were only in the three component figures for SIAC’s fees and expenses, but not in the total amounts for those fees and expenses, or in the amounts for the total costs of the arbitrations or the amounts awarded for RCo’s costs.Bringing the application out of timeThe question31 Article 34 of the Model Law relevantly provides:Article 34. Application for setting aside as exclusive recourse against arbitral award(1) Recourse to a court against an arbitral award may be made only by an application for setting aside in accordance with paragraphs (2) and (3) of this Article. …(3) An application for setting aside may not be made after three months have elapsed from the date on which the party making that application had received the award or, if a request had been made under Article 33, from the date on which that request had been disposed of by the arbitral tribunal.32 O 48 r 2(3) of the Rules is to the same effect. The three-month time period may not be enlarged by the Court: ABC Co v XYZ Co Ltd [2003] 3 SLR(R) 546 at [9]; BXS v BXT [2019] 4 SLR 390 at [37]–[41]; BRS v BRQ and another and another appeal [2021] 1 SLR 390 (“BRS v BRQ”) at [81].33 It will be necessary to refer to Art 33 of the Model Law, but it was common ground that the qualification of a request made under that Article did not apply in this case as the corrections were made on the Tribunal’s own initiative.
+                   67
+
+
+
+
+Foot Note 67
+
+×
+
+
+
+  AWS at para 17; RWS at para 36. 
+
+
+
+ The question was when the Applicants “had received the award” as referred to in Art 34(3). RCo said that the Applicants had received the award when they received the awards dated 18 February 2023, which it said was no later than 6 March 2023, and that the subsequent corrections did not affect the commencement of the three-month time period.
+                   68
+
+
+
+
+Foot Note 68
+
+×
+
+
+
+  RWS at paras 33 and 36–38.
+
+
+
+ The application was filed on 19 June 2023, and if that be right it was brought out of time.
+                   69
+
+
+
+
+Foot Note 69
+
+×
+
+
+
+  RWS at para 35. 
+
+
+
+ The Applicants said that the three-month time period commenced when they received the corrections, that this was necessarily on or after 19 March 2023 which was the date of the corrections, and that the application was therefore brought within time.
+                   70
+
+
+
+
+Foot Note 70
+
+×
+
+
+
+  AWS at paras 18–19.
+
+
+
+The awards dated 18 February 2023 were received on 6 March 202334 A gave no evidence, and the Applicants made no concession, as to receipt of the awards dated 18 February 2023. Mr Alfonso Ang, lead counsel for the Applicants, was carefully non-committal on the dates of receipt of those awards and of the corrections.
+                   71
+
+
+
+
+Foot Note 71
+
+×
+
+
+
+  Minute sheet dated 18 September 2023 at p 5; RWS at para 46.
+
+
+
+ On his case, it was sufficient that the date of receipt of the corrections was the material date, and it must have been on or after 19 March 2023.
+                   72
+
+
+
+
+Foot Note 72
+
+×
+
+
+
+  Minute sheet dated 18 September 2023 at p 5.
+
+
+
+ It is nonetheless necessary to find when the awards dated 18 February 2023 were received by the Applicants, as the basis for RCo’s contention that the application was brought out of time. The discussion which follows will have some bearing on Ground (b) in the application, in relation to the Applicants’ submission that they did not receive notice of the arbitral proceedings. 35 The awards dated 18 February 2023 were first distributed by SIAC.
+                   73
+
+
+
+
+Foot Note 73
+
+×
+
+
+
+  RCo’s affidavit at para 39 (CMB Volume 3 at p 614).
+
+
+
+36 On 21 February 2023, SIAC emailed the awards to ACo and A respectively, both at an email address xxx@136.com: to be noted, due to a transposition error not at the 163 email address given in the Client Information Statement.
+                   74
+
+
+
+
+Foot Note 74
+
+×
+
+
+
+  Email dated 21 February 2023 from SIAC in relation to the Final Award in relation to the First Applicant (CMB Volume 5 at pp 1229–1230); Email dated 21 February 2023 from SIAC in relation to the Final Award in relation to the Second Applicant (CMB Volume 5 at pp 1275–1276).
+
+
+
+ The covering letters stated that “[t]he original copy will be sent to you by courier”.
+                   75
+
+
+
+
+Foot Note 75
+
+×
+
+
+
+  Email dated 21 February 2023 from SIAC in relation to the Final Award in relation to the First Applicant (CMB Volume 5 at p 1231); Email dated 21 February 2023 from SIAC in relation to the Final Award in relation to the Second Applicant (CMB Volume 5 at p 1277).
+
+
+
+ On 28 February 2023, SIAC couriered the ACo award to ACo at the ACo Hong Kong address, and then on 7 March 2023, instructed the courier to redirect shipment to ACo at the BVI address.
+                   76
+
+
+
+
+Foot Note 76
+
+×
+
+
+
+  Email dated 31 July 2023 from SIAC at index 4 (CMB Volume 5 at pp 1210–1213);
+
+
+
+ Also on 28 February 2023, SIAC couriered the A award to A at the ACo Hong Kong address.
+                   77
+
+
+
+
+Foot Note 77
+
+×
+
+
+
+  Email dated 31 July 2023 from SIAC at index 3 (CMB Volume 5 at pp 1210–1213);
+
+
+
+ The SIAC delivery log recorded an undeliverable message for the emails of 21 February 2023,
+                   78
+
+
+
+
+Foot Note 78
+
+×
+
+
+
+  Email dated 31 July 2023 from SIAC at index 2 (CMB Volume 5 at pp 1210–1213); Undeliverable message to xxx@136.com in relation to the Final Award in relation to the First Applicant (CMB Volume 5 at pp 1220–1224); 
+
+
+
+ but recorded the courier delivery at the BVI address on 14 March 2023;
+                   79
+
+
+
+
+Foot Note 79
+
+×
+
+
+
+  Email dated 31 July 2023 from SIAC at index 4 (CMB Volume 5 at pp 1210–1213); Notification of courier delivery to the BVI address (CMB Volume 5 at pp 1225–1226).
+
+
+
+ it was, however, silent as to the courier delivery to A at the ACo Hong Kong address, save that from recording failure in the same courier engagement in delivery to Z on 6 March 2023, it could be inferred that that delivery to A was also successful.
+                   80
+
+
+
+
+Foot Note 80
+
+×
+
+
+
+  Email dated 31 July 2023 from SIAC at index 3 (CMB Volume 5 at pp 1210–1213);
+
+
+
+37 RCo’s lawyers realised that SIAC’s emails of 21 February 2023 had been sent to a wrong email address.
+                   81
+
+
+
+
+Foot Note 81
+
+×
+
+
+
+  RCo’s affidavit at para 41 (CMB Volume 3 at p 614); Email dated 6 March 2023 (CMB Volume 5 at p 1337).
+
+
+
+ On 6 March 2023, they transmitted both SIAC emails of 21 February 2023, including the covering letters and the awards, to the 163 email address, under cover of a letter addressed to A and stating that “by way of further notice to you, [ACo] and [Z], we attach for your attention copies of the SIAC’s emails with the Awards”.
+                   82
+
+
+
+
+Foot Note 82
+
+×
+
+
+
+  Email dated 6 March 2023 (CMB Volume 5 at p 1340 to Volume 6 at p 1446).
+
+
+
+ RCo’s lawyers also arranged the couriering of hard copies of both SIAC emails of 21 February 2023, including the covering letters and awards, to ACo at the BVI address and to the Hong Kong address of X, A’s son, as stated in the Client Information Statement.
+                   83
+
+
+
+
+Foot Note 83
+
+×
+
+
+
+  RCo’s affidavit at para 42 (CMB Volume 3 at p 615).
+
+
+
+ From the notifications from the courier, both sets of documents were delivered on 10 March 2023.
+                   84
+
+
+
+
+Foot Note 84
+
+×
+
+
+
+  Notification of courier delivery to the BVI address (CMB Volume 6 at p 1448); Notification of courier delivery to the Hong Kong address of X (CMB Volume 6 at p 1557).
+
+
+
+38 There is point in turning also to the receipt of the corrections.39  On 20 March 2023, SIAC emailed the corrections to ACo and A respectively, both at the 163 email address.
+                   85
+
+
+
+
+Foot Note 85
+
+×
+
+
+
+  Email dated 31 July 2023 from SIAC at indices 6 and 7 (CMB Volume 5 at pp 1210–1213); Email dated 20 March 2023 from SIAC in relation to the Correction to the Final Award in relation to the First Applicant (CMB Volume 6 at p 1666); Email dated 20 March 2023 from SIAC in relation to the Correction to the Final Award in relation to the Second Applicant (CMB Volume 6 at p 1674). 
+
+
+
+ RCo’s lawyers arranged the couriering of hard copies of the corrections to ACo at the BVI address and to the Hong Kong address of X, with deliveries on 24 and 22 March 2023 respectively.
+                   86
+
+
+
+
+Foot Note 86
+
+×
+
+
+
+  Notification of courier delivery to the BVI address (CMB Volume 6 at p 1682); Notification of courier delivery to the Hong Kong address of X (CMB Volume 6 at p 1699).
+
+
+
+ On 15 May 2023, SIAC sent the A award and the corresponding correction by registered post to A at the ACo Hong Kong address,
+                   87
+
+
+
+
+Foot Note 87
+
+×
+
+
+
+  Email dated 31 July 2023 from SIAC at index 8 (CMB Volume 5 at pp 1210–1213).
+
+
+
+ and it also couriered hard copies of the ACo correction to ACo at the BVI address with delivery on 22 May 2023.
+                   88
+
+
+
+
+Foot Note 88
+
+×
+
+
+
+  Email dated 31 July 2023 from SIAC at index 9 (CMB Volume 5 at pp 1210–1213); Notification of courier delivery to the BVI address (CMB Volume 5 at p 1227).
+
+
+
+ 40 In a letter dated 19 June 2023 to RCo’s lawyers enquiring as to acceptance of service, the Applicants’ lawyers said that they had filed an application to set aside “the [ACo award] dated 18 February 2023 (as subsequently corrected on 19 March 2023), and [the A award] dated 18 February 2023 (as subsequently corrected on 19 March 2023 … received by the 1st and 2nd Applicants on 20 March 2023”.
+                   89
+
+
+
+
+Foot Note 89
+
+×
+
+
+
+  Letter dated 19 June 2023 from ACo’s lawyers to RCo’s lawyers (CMB Volume 7 at p 1719).
+
+
+
+ From this, SIAC’s emails of 20 March 2023 to the 163 email address brought receipt by both ACo and A of the corrections. And since those emails sent only the corrections, ACo and A were already aware, at the very least, of the awards dated 18 February 2023; since the 163 email address had been the successful vehicle in the case of the corrections, the likelihood is that they were aware of the awards dated 18 February 2023 because of the 6 March 2023 communications from RCo’s lawyers to that email address.41 Ms Monica Chong, lead counsel for RCo, invited a finding that the awards dated 18 February 2023 were received by the Applicants on 6 March 2023.
+                   90
+
+
+
+
+Foot Note 90
+
+×
+
+
+
+  RWS at para 33. 
+
+
+
+ Mr Ang made no submission against that finding.
+                   91
+
+
+
+
+Foot Note 91
+
+×
+
+
+
+  Minute sheet dated 18 September 2023 at p 5. 
+
+
+
+ The 163 email address was listed as ACo’s email address in the Client Information Statement,
+                   92
+
+
+
+
+Foot Note 92
+
+×
+
+
+
+  Client Information Statement at p 1 (CMB Volume 1 at p 87). 
+
+
+
+ and as recorded by the Tribunal
+                   93
+
+
+
+
+Foot Note 93
+
+×
+
+
+
+  Final Award in relation to the Second Applicant at para 13 (CMB Volume 3 at p 685); Final Award in relation to the First Applicant at para 8 (CMB Volume 3 at pp 640–641).
+
+
+
+ and shown by the email of 27 May 2020,
+                   94
+
+
+
+
+Foot Note 94
+
+×
+
+
+
+  RCo’s affidavit at para 50(c) (CMB Volume 3 at p 618); Email dated 27 May 2020 from the 163 email address (CMB Volume 7 at pp 1716–1717).
+
+
+
+ was used in correspondence with RCo; it was thus plainly a functioning email address. It cannot reasonably be thought that the emails should not be regarded as received by A as well as ACo. A is the sole director of and beneficial shareholder in ACo, as well as one of the persons giving instructions in relation to transactions to be conducted through the Account and whose surname can be seen in the 163 email address. In their affidavits, A did not deny or mention at all the receipt of the awards dated 18 February 2023 or the corrections. I am satisfied on the evidence that the awards dated 18 February 2023 were received by the Applicants on 6 March 2023.The corrections did not postpone the commencement of the three-month time period42 Article 33 of the Model Law provides:Article 33.  Correction and interpretation of award; additional award.(1) Within thirty days of receipt of the award, unless another period of time has been agreed upon by the parties:(a) a party, with notice to the other party, may request the arbitral tribunal to correct in the award any errors in computation, any clerical or typographical errors or any errors of similar nature;(b) if so agreed by the parties, a party, with notice to the other party, may request the arbitral tribunal to give an interpretation of a specific point or part of the award.If the arbitral tribunal considers the request to be justified, it shall make the correction or give the interpretation within thirty days of receipt of the request. The interpretation shall form part of the award.(2) The arbitral tribunal may correct any error of the type referred to in paragraph (1)(a) of this Article on its own initiative within thirty days of the date of the award.(3) Unless otherwise agreed by the parties, a party, with notice to the other party, may request, within thirty days of receipt of the award, the arbitral tribunal to make an additional award as to claims presented in the arbitral proceedings but omitted from the award. If the arbitral tribunal considers the request to be justified, it shall make the additional award within sixty days.(4) The arbitral tribunal may extend, if necessary, the period of time within which it shall make a correction, interpretation, or an additional award under paragraph (1) or (3) of this Article.(5) The provisions of Article 31 shall apply to a correction or interpretation of the award or to an additional award.    43 As noted above, it was common ground that the corrections were not made at the request of a party (see [33]); they were corrections made on the Tribunal’s own initiative, as referred to in Art 33(2). By Art 34(3), if there is a request by a party for correction of an award, the date of commencement of the three-month period becomes the date on which the request is disposed of by the arbitral tribunal, in place of the date on which the award was received by the requesting party, so that the commencement of the three-month period is postponed to that later date. The Applicants submitted that the result is the same for a correction on the arbitral tribunal’s own initiative pursuant to Art 33(2): in that event, they said, the date of receipt of the award is the date of receipt of the correction, and the commencement of the three-month period is postponed to the later date.
+                   95
+
+
+
+
+Foot Note 95
+
+×
+
+
+
+  AWS at para 19.
+
+
+
+ 44 The thrust of the Applicants’ submissions was that when Art 34(3) referred to the date on which the party making the setting aside application had received the award, “the award” meant the award as corrected.
+                   96
+
+
+
+
+Foot Note 96
+
+×
+
+
+
+  AWS at para 22. 
+
+
+
+ They said that, as noted by the Tribunal in the corrections, the UNCITRAL Rules and the SIAC Rules applicable to the respective arbitrations (if, contrary to the Applicants’ submissions under Ground (a), there was indeed a valid arbitration agreement with ACo) provided that any correction shall form part of the award, and that by its references to the rules, the Tribunal itself was saying that the corrections formed part of its awards.
+                   97
+
+
+
+
+Foot Note 97
+
+×
+
+
+
+  AWS at paras 22–28.
+
+
+
+ If RCo sought to enforce the awards, they said, the awards it would enforce were the awards as corrected – and correction of an error in computation could have a significant effect on the bottom line of the amount awarded, although I note that in these cases it did not.
+                   98
+
+
+
+
+Foot Note 98
+
+×
+
+
+
+  AWS at paras 27–28.
+
+
+
+ They submitted that it would be “absurd” if receipt of an award without the subsequent corrections satisfied Art 34 (3) of the Model Law, because that would “defeat the express reservations of the Tribunal‘s powers to correct the award”.
+                   99
+
+
+
+
+Foot Note 99
+
+×
+
+
+
+  AWS at para 25.
+
+
+
+ And, it was also submitted, it would be “incongruous” if there was an extension of the three-month period where a request for correction was made but the request was eventually dismissed, as was held in BRS v BRQ at [66], but it was not extended even though a correction was in fact made by the arbitral tribunal on its own initiative.
+                   100
+
+
+
+
+Foot Note 100
+
+×
+
+
+
+  AWS at paras 29–33.
+
+
+
+ A correction initiated by the arbitral tribunal under Art 33(2), it was said, should have the same effect as a correction made under Art 33(1).
+                   101
+
+
+
+
+Foot Note 101
+
+×
+
+
+
+  AWS at para 34. 
+
+
+
+45 There is superficial attraction in the proposition that when the arbitral tribunal corrects an error in an award, the award as corrected becomes the award and so receipt of the award means receipt of the corrected award. The award as corrected is thenceforward the award. But that does not mean that “the award” in Art 34(3) is the award as corrected, or that the date of receipt of the award in Art 34(3) is the date of receipt of the corrected award. 46 This result is not mandated by any definition of an award: the Model Law does not have a definition, and the definition in s 2(1) of the IAA refers simply to “a decision of the arbitral tribunal on the substance of the dispute”. Nor, contrary to the Applicants’ submissions, is it mandated by the Tribunal’s references in the corrections to the corrections forming part of the awards. They do, but the statements to that effect to which the Tribunal referred, found also in the closing words of Art 33(1) in relation to an interpretation of an award, serve a different purpose and do not make the award as corrected the award for all purposes. 47 An arbitral tribunal’s authority generally expires on the issue of a final award, when it becomes functus officio: see AKN and another v ALC and others and another appeal [2016] 1 SLR 966 at [44]–[49]. In David Caron and Lee Caplan, The UNCITRAL Arbitration Rules: A Commentary (Oxford University Press, 2nd Ed, 2013), it is said in the commentary to Art 38 that the purpose is to “extend the arbitral tribunal’s authority beyond the date of the award”, and that “the ultimate status of a correction to an award will depend on the terms of the applicable national arbitration law”. This reflects the Report of Working Group II (Arbitration and Conciliation) on the work of its fifty-first session (Vienna, 14–18 September 2009) (UNCITRAL, 2009) at para 111, in its consideration of Art 36, which became Art 38, where it was said in response to the suggestion that stating that a correction would form part of the award would create difficulties “in particular with deadlines for recourse, depending on what the date of the corrected award was determined to be”, that the national arbitration law would govern the matter. In Chong et al, A Guide to the SIAC Arbitration Rules (Oxford University Press, 2nd Ed, 2013) at paras 14.55–14.56, the commentary on r 33 also treats the statement as providing an exception to the principle that the arbitral tribunal is functus officio after entering an award. That is, the statements that a correction forms part of the award give or confirm the arbitral tribunal’s authority, and do not further prescribe the effect of the correction. 48 The effect of the correction must be determined from the Model Law as part of Singapore law, as repeated in O 48 r 2(3). The statement that a correction pursuant to either Art 33(1)(a) or Art 33(2) forms part of the award is not found in Art 33 of the Model Law, which conspicuously says that only as to an interpretation of the award. 49 What is meant by “the award” in Art 34(3), and the answer to the question, is a matter of construction of the Article, together with Art 33, in its place in the Model Law. It was submitted on behalf of RCo that Art 34(3) provides for postponement of the commencement of the three-month period only in the case of a request for correction, so that without more, there was no postponement in the case of a correction on the arbitral tribunal’s own initiative.
+                   102
+
+
+
+
+Foot Note 102
+
+×
+
+
+
+  RWS at paras 36–37.
+
+
+
+ It referred to the observation in Banteaks et al, UNCITRAL Model Law on International Commercial Arbitration (Cambridge University Press, 2020) at pp 896–897:
+                   103
+
+
+
+
+Foot Note 103
+
+×
+
+
+
+  RWS at para 37.
+
+
+
+[Art 34(3)] only refers to a ‘request made under article 33’; as such, it does not seem to encompass the hypothesis of a correction made by the tribunal ex officio, pursuant to paragraph 2 of the same article. In any case, the possibility of corrections made by the tribunal on its own motion only exists for thirty days from the date of the award, and is limited to the rectification of computational, clerical, or typographical errors. For this reason, it is in practice unlikely that the existence of a potential ground for annulment may become apparent to the losing party only after the correction has been made.50 Ms Chong referred also to Daewoo Shipbuilding & Marine Engineering Co Ltd v Songa Offshore Equinox Ltd and another [2019] 1 All ER 161 (“Daewoo”),
+                   104
+
+
+
+
+Foot Note 104
+
+×
+
+
+
+  RWS at para 38 and footnote 66 at p 22. 
+
+
+
+ where it was held that under the Arbitration Act 1996 (c 23) (UK), the time for challenging an award was not automatically delayed by an application for correction, specifically in regard to the rejection by Bryan J of the submission that the date of the award when there was any correction was the date of the correction (at [56]–[62]). His Lordship said (at [56]): It is contrary to the whole ethos of the Act, and would frustrate the object and purpose of the short time limit in s 70(3). On their proper interpretation, ss 54 and 57 do not justify the conclusion that where there has been any correction the date of the correction is to be treated as the date of the award. Given the importance of speed and finality in the context of arbitration, it would have been most surprising if the statutory intention, embodied in those sections, was that any correction – no matter how trivial or irrelevant – had the effect of postponing the strict time limit set out in s 70(3).51 Other than for its highlighting the importance of speed and finality in arbitration, Daewoo is of little assistance to RCo. The context was an application to correct an award, not a correction made by an arbitral tribunal on its own initiative (at [9]). It was held that it was necessary that the correction be material, meaning that it was necessary to enable the party to know whether he had grounds to challenge the award (at [61] –[62]), and so it was recognised that where there was an application for a material correction, the date of the correction did become the date from which the time for challenging the award ran (at [60] and [62]). In Xstrata Coal Queensland Pty Ltd and others v Benxi Iron & Steel (Group) International Economic & Trading Co Ltd [2020] Bus LR 954 at [30]–[32], as cited by the Applicants,
+                   105
+
+
+
+
+Foot Note 105
+
+×
+
+
+
+  AWS at para 39(a). 
+
+
+
+ a similar observation was made that where there is a material application for a correction and a correction is indeed then made, time runs from the date of the award as corrected. But in the similar context of a request to correct an award, in that case as referred to in Art 33, in BRQ and another v BRS and another and another matter [2019] SGHC 260, Vinodh Coomaraswamy J rejected the need for materiality, pointing out in particular at [53] that the English legislative provision was not only not based on the Model Law, but also adopted “a diametrically different scheme for time limits for challenging an award from that adopted in the Model Law”. On appeal, in BRS v BRQ at [69]–[72], it was held that it was necessary that the substance of a request under Art 33 must come within the scope of Art 33 for it to have the effect of extending the initial time limit under Art 34(3), so that a mere request did not automatically bring postponement but the request could be examined for its substance to determine if time should be extended; however, the Court of Appeal arrived at this finding without reference to Daewoo. Daewoo is a very different case, and gives no support for treating the date of a correction pursuant to Art 33(2) as the date of the award, or the award as corrected as the award, for the purposes of Art 34(3).52 It is not as simple as Art 34(3) providing for postponement only in the case of a request for correction, and Ms Chong submitted also to the effect that a correction on the arbitral tribunal’s own initiative would be minor (referring in particular to the court in BRS v BRQ likening a request under Art 33(1)(a) to what is often referred to in court proceedings as the slip rule (at [70])), and had to be within thirty days, so that there was no need for postponement of the commencement of the three-month period.
+                   106
+
+
+
+
+Foot Note 106
+
+×
+
+
+
+  RWS at paras 37–38; Minute sheet dated 18 September 2023 at pp 11–12.
+
+
+
+ However, the matter can be taken further.53  Article 34(3) postpones the commencement of the three-month period not by providing that the receipt of the award becomes the receipt of the corrected award, or of a response declining correction. That is, the date on which the party making the application “had received the award”, prior to the making of any request (which necessarily means receipt of the original award), remains the date on which the original award was received. But in the case of a request for correction, a differently ascertained date, namely the date on which the request had been disposed of by the arbitral tribunal, is substituted as the commencement of the three-month period. Postponement in that way is no doubt adopted because there are three different kinds of request, and it is also necessary to accommodate when a request for correction, interpretation or an additional award is declined by the arbitral tribunal, so that there is no award as corrected, interpreted or supplemented. But it means that the determinant of the date of the receipt of the award is unchanged from the receipt of the original award itself: in Art 34(3), it remains the original award.54 The same determinant is also used in Arts 33(1) and (3) in stipulating the period of thirty days from receipt of the award within which a request for correction, interpretation or an additional award must be made. In those sub-articles, “the award” cannot mean the award as corrected, interpreted or supplemented, otherwise there would be a reopening of the period of thirty days if the arbitral tribunal acceded to the request and corrected, interpreted or supplemented the award. Similarly, in Art 33(2), “the award” in the stipulation of thirty days from the date of the award must mean the original award: the thirty days do not start to run again upon the arbitral tribunal making a correction on its own initiative simply because the award as corrected becomes the award.55 In Art 34(3), then, as in its appearances in Art 33, “the award” in the phrase “the date on which the party making that application had received the award” means the original award, which is in the present case the awards dated 18 February 2023. If postponement of the date of receipt of that award is to come from a correction on the arbitral tribunal’s initiative, it must be found elsewhere in the same manner that postponement in the case of a request for correction is found in the latter part of the sub-article. It is, however, not to be found. 56 The scheme makes good sense, in line with the attributes of speed and finality. The correction of an error in computation or a clerical or typographical error, or an error of similar nature, which the arbitral tribunal considers it can make on its own initiative, is unlikely to be contentious – and that is so even if the error in computation has an effect on the bottom line of the award, because it can readily be corrected once recognised. In a decision of the Iran–US Claims Tribunal, to which RCo referred,
+                   107
+
+
+
+
+Foot Note 107
+
+×
+
+
+
+  Minute sheet dated 18 September 2023 at p 9.
+
+
+
+ Harold Birnbaum and Islamic Republic of Iran, DEC 124-967-2 (14 December 1995), such a correction was described as “a restoration of the award’s proper contents” (at [10]). That can be seen as the reason the Model Law does not include the statement that a correction, whether pursuant to the request of a party or on the arbitral tribunal’s own initiative and as distinct from an interpretation, shall form part of the award: it is regarded as already part of the award, and by the correction is simply recognised and made apparent. 57 A party dissatisfied with an award has three months to examine it for a ground or grounds to challenge it, and its examination and decision on whether to challenge the award is unlikely to be impeded or altered by a correction made by the arbitral tribunal on its own initiative. And in any event, the correction must be made within the thirty days: the party still has two months to come to its decision. The time can therefore continue to run from the receipt of the original award, in the interests of speed and finality, without injustice to a potential challenger. In comparison, if a request is made under Art 33 it is more likely to be substantive and contentious in the case of interpretation or an additional award, or contentious even in the case of a computation, clerical, typographical or similar error where a request to the arbitral tribunal is considered necessary. The decision on the request may not be known until close to the expiry of the three-month period or until it has expired, as the tribunal may extend if necessary the period of time within which it shall made a correction, interpretation or an additional award under Art 33(4), and this may affect the party’s decision on whether to challenge the award. Therefore, there is a provision for the postponement of the commencement of the three-month period. In gist, needless passage of time in the case of a correction on the arbitral tribunal’s own initiative is avoided, but an appropriate passage of time is allowed in the case of a request for correction.58 Contrary to the Applicants’ submissions, this does not mean an absurd defeating of the arbitral tribunal’s power to correct an award. Any correction on the arbitral tribunal’s own initiative must be within 30 days of the award, well within the three-month period, and the correction is still effective: the award which is enforced, and also the award which is challenged, is the award as corrected. Nor is there incongruity by contrast with postponement of the three-month period in the case of a request for correction, but rather there is a sensible scheme as outlined in the preceding paragraph.The answer to the question59 The Applicants “had received the award” on 6 March 2023. The three-month time period commenced with the Applicants’ receipt of the awards dated 18 February 2023 on 6 March 2023, the corrections did not affect that commencement, and the application was thus brought out of time.60 This is sufficient for dismissal of the application. I nonetheless go on to consider the grounds on which it was brought.Ground (a): no valid arbitration agreement between ACo and RCoThe ground in brief61 Article 34(2)(a)(i) of the Model Law provides:(2) An arbitral award may be set aside by the court specified in Article 6 only if:(a) the party making the application furnishes proof that:(i) a party to the arbitration agreement referred to in Article 7 was under some incapacity; or the said agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law of this State; or…62 From A’s affidavits in support of the application, and in the Applicants’ written submissions in advance of the hearing, it was the Applicants’ principal case that there were no valid arbitration agreements either between ACo and RCo or between A and RCo, because the arbitration clause in the Terms had not been incorporated into the Letter.
+                   108
+
+
+
+
+Foot Note 108
+
+×
+
+
+
+  ACo’s affidavit at paras 30–35 (CMB Volume 1 at pp 27–28); A’s affidavit at paras 5–6 (CMB Volume 2 at p 515); AWS at para 87. 
+
+
+
+ In RCo’s submissions it was pointed out that, as the Tribunal had recorded, the arbitral proceedings against A were initiated by RCo pursuant to the arbitration clause in the Guarantee.
+                   109
+
+
+
+
+Foot Note 109
+
+×
+
+
+
+  RWS at para 42. 
+
+
+
+ At the hearing, Mr Ang accepted that his case was confined to a challenge by ACo to an arbitration agreement with RCo.
+                   110
+
+
+
+
+Foot Note 110
+
+×
+
+
+
+  Minute sheet dated 18 September 2023 at p 5. 
+
+
+
+ In his submissions, the ground was supported by reasons additional to failure in incorporation of the arbitration clause, to which I will come.63 A’s evidence material to this ground was limited and in part contradictory. They said that they were not given a copy of the Letter in Chinese although RCo knew that their “preferred language” was Chinese,
+                   111
+
+
+
+
+Foot Note 111
+
+×
+
+
+
+  ACo’s affidavit at para 21(b)(i) (CMB Volume 1 at p 23); AWS at para 103(b).  
+
+
+
+ which in itself suggested that they had some facility in English. They also said that they were not given a copy of the Terms and were “deprived of the opportunity to truly read and accept” them, which in itself suggests that they were at least aware of the Terms.
+                   112
+
+
+
+
+Foot Note 112
+
+×
+
+
+
+  ACo’s affidavit at para 32 (CMB Volume 1 at p 27). 
+
+
+
+ But at other points, they said that they were not informed of the existence of the Terms or provided with a copy, although RCo knew that they did not read, speak or write English.
+                   113
+
+
+
+
+Foot Note 113
+
+×
+
+
+
+  ACo’s affidavit at paras 21 (b) (CMB Volume 1 at p 23), 23 (CMB Volume 1 at p 25) and 28 (CMB Volume 1 at p 26)
+
+
+
+ They said directly that they did not read, speak, or write English.
+                   114
+
+
+
+
+Foot Note 114
+
+×
+
+
+
+  ACo’s affidavit at paras 21 (b) (CMB Volume 1 at p 23), 23 (CMB Volume 1 at p 25) and 28 (CMB Volume 1 at p 26).
+
+
+
+ They said that they “did not understand the implications of” the Letter,
+                   115
+
+
+
+
+Foot Note 115
+
+×
+
+
+
+  ACo’s affidavit at para 23 (CMB Volume 1 at p 25). 
+
+
+
+ that RCo did not draw to their attention the applicability of all the clauses in the Terms, such as choice of Singapore law, choice of English for arbitration, and ACo being deprived of the right to choose the form of dispute, 
+                   116
+
+
+
+
+Foot Note 116
+
+×
+
+
+
+  ACo’s affidavit at para 21(b)(iii) (CMB Volume 1 at pp 23–24).
+
+
+
+ and that they were not informed of the existence of the arbitration clause.
+                   117
+
+
+
+
+Foot Note 117
+
+×
+
+
+
+  ACo’s affidavit at para 33 (CMB Volume 1 at p 27). 
+
+
+
+ Had they known that the arbitration clause gave RCo the “sole option” and “sole and absolute discretion” to refer disputes to arbitration (that is, that it was a unilateral arbitration clause), they would not have agreed to it.
+                   118
+
+
+
+
+Foot Note 118
+
+×
+
+
+
+  ACo’s affidavit at para 34(a) (CMB Volume 1 at pp 27–28). 
+
+
+
+ They said also that a clause of the Letter (cl 1.3, as set out below) said that the Terms could be revised from time to time, and that had they been informed of the clause, they would not have agreed to it in view of the uncertainty surrounding the terms and conditions in the Terms.
+                   119
+
+
+
+
+Foot Note 119
+
+×
+
+
+
+  ACo’s affidavit at para 34(b) (CMB Volume 1 at pp 27–28). 
+
+
+
+The principal case: incorporation of the arbitration clause in the Terms64 I return to some further details of the Letter.65 Clause 1.3 of the Letter reads:
+                   120
+
+
+
+
+Foot Note 120
+
+×
+
+
+
+  Margin Facility Letter from RCo to ACo at p 3 (CMB Volume 3 at p 790).
+
+
+
+Your Margin Financing Account shall also be subject to the and [sic] the [RCo’s] Terms and Conditions for Trading Accounts agreed with us as may be revised from time to time in accordance with the provisions of the present edition of such terms as applicable to you. A copy each of the aforesaid terms is attached for your review and information. We will also open a sub-account in your name on the terms set out in our Security Trading Account Terms and Conditions as revised from time to time.[emphasis in original]66 At the end of the Letter was the acceptance signed by A as the authorised signatory of ACo.
+                   121
+
+
+
+
+Foot Note 121
+
+×
+
+
+
+  Margin Facility Letter from RCo to ACo at p 6 (CMB Volume 3 at p 793).
+
+
+
+ Immediately over their signature, it read:I/We, the undersigned, hereby accept your offer of a Margin Financing Account on the terms set out in your letter of offer dated [blank] and I have read and understood those terms as well as the [RCo’s] Terms and Conditions for Trading Accounts and Margin Financing Terms therein.and [sic] find the terms set out in each to be acceptable and agree to abide by the same …[emphasis in original]67 As noted earlier (see [10]), and in the Account Opening Form signed by A (see [12]), they acknowledged and confirmed receipt of the Terms amongst other documents. A’s evidence said nothing of these acknowledgments of receipt, reading and acceptance of the Terms, and their evidence was inconsistent between a denial of knowledge of the Terms and an assertion that they did not have the opportunity to “truly” read the Terms;
+                   122
+
+
+
+
+Foot Note 122
+
+×
+
+
+
+  ACo’s affidavit at para 32 (CMB Volume 1 at p 27). 
+
+
+
+ and if an opportunity to “truly” read the Terms was significant, one would think that there was sufficient facility in English to read them.68 RCo submitted that A should not be believed in their denial of receipt of the Terms,
+                   123
+
+
+
+
+Foot Note 123
+
+×
+
+
+
+  RWS at para 45. 
+
+
+
+ referring to evidence given before the Tribunal that every client who opened an account with RCo would be given a copy of the Terms.
+                   124
+
+
+
+
+Foot Note 124
+
+×
+
+
+
+  RCo’s affidavit at para 69 (CMB Volume 3 at p 627). 
+
+
+
+ This fell short of direct evidence that A was given a copy of the Terms, and there was no other direct evidence from RCo’s side of the provision of or dealing with the Terms, or in any way with the signing of the Letter or the Account Opening Form. It is not necessary to make a finding, but in the light of the clear acknowledgments in the Letter and the Account Opening Form and the unsatisfactory evidence from A, and despite the want of evidence from RCo’s side, I have reservations about a lack of at least basic facility in English and considerable reservations about the asserted lack of knowledge of the existence of the Terms as terms and conditions to which the Facility was subject. A had had a business career leading to considerable wealth, and it is unlikely that such a significant transaction as obtaining the Facility would have been undertaken with disregard of what they were committing ACo to, and it was not said that they did not know what was in the Letter or understand what they were doing in signing the Letter, only that they did not understand its “implications”.
+                   125
+
+
+
+
+Foot Note 125
+
+×
+
+
+
+  ACo’s affidavit at para 23 (CMB Volume 1 at p 25).
+
+
+
+69 As to failure in incorporation of the arbitration clause, the written submissions on behalf of the Applicants seemed to be directed to whether the arbitration clause in the Terms was incorporated into the Letter, not to whether the Terms as a whole were incorporated into the Letter.
+                   126
+
+
+
+
+Foot Note 126
+
+×
+
+
+
+  AWS at paras 87–103. 
+
+
+
+ They began that A could not read English and was not provided with a copy of the Terms,
+                   127
+
+
+
+
+Foot Note 127
+
+×
+
+
+
+  AWS at paras 91–92. 
+
+
+
+ said that “[c]onsiderable weight must be given to these 2 points in determining whether the arbitration clause contained in [the Terms] were [sic] validly incorporated into [the Letter]”,
+                   128
+
+
+
+
+Foot Note 128
+
+×
+
+
+
+  AWS at para 93. 
+
+
+
+ and submitted that in the circumstances, there was no valid arbitration agreement between ACo and RCo.
+                   129
+
+
+
+
+Foot Note 129
+
+×
+
+
+
+  AWS at para 93. 
+
+
+
+ They continued, with reference to Pittalis v Sherefettin [1986] 2 WLR 1003 (“Pittalis”) and Wilson Taylor Asia Pacific Pte Ltd v Dyna-Jet Pte Ltd [2017] 2 SLR 362 (“Dyna-Jet”), that the tests for the validity of a unilateral arbitration agreement were not satisfied – apparently as the reason for failure in incorporation.
+                   130
+
+
+
+
+Foot Note 130
+
+×
+
+
+
+  AWS at paras 95–103. 
+
+
+
+ 70 However, at the hearing Mr Ang said, upon enquiry, that his case was that the Terms as a whole had not been incorporated into the Letter.
+                   131
+
+
+
+
+Foot Note 131
+
+×
+
+
+
+  Minute sheet dated 18 September 2023 at pp 5–6.
+
+
+
+ He did not materially add to the written submissions, which left some difficulty in his case as it essentially rested upon A not knowing of the Terms.71 The contract under which the Facility was provided was not in question – unsurprisingly, since ACo had used the Facility for a number of years. It was found in the Letter, which was signed by A as the authorised signatory of ACo, and despite A’s alleged inability to read English, it was not part of ACo’s case that the contract was not binding on it. 72 It is established law that a party who signs a contractual document is bound by its terms even if the party has not read them. In Bintai Kindenko Pte Ltd v Samsung C&T Corp and another [2019] 2 SLR 295 it was said by the Court of Appeal (at [58]–[59]):58 … It is a well-established principle that in the absence of fraud or misrepresentation, a party is bound by all the terms of a contract that it signs, even if that party did not read or understand those terms: L’Estrange v F Graucob Ltd [1934] 2 KB 394 at 403 and 406; Amiri Flight Authority v BAE Systems plc [2004] 1 All ER (Comm) 385 at [16]; see also: The Law of Contract in Singapore (Andrew Phang Boon Leong gen ed) (Academy Publishing, 2012) at paras 07.015–07.020; Gerard McMeel, The Construction of Contracts: Interpretation, Implication, and Rectification (Oxford University Press, 2nd Ed, 2011) at paras 15.62–15.66); The Law of Contract (Michael Furmston gen end) (Lexis Nexis, 6th Ed, 2017) at paras 3.8–3.9.59 Therefore, if a term in a signed contract incorporated some or all the terms of a separate document by making reference to those terms, the parties to the contract would be bound by those separate terms even if they did not have any knowledge of what those terms were at the time of contracting…73 Fraud or misrepresentation was not alleged, at most failure to bring to A’s attention. In the Letter, the opening and operation of the Account was expressly subject to the Terms, and even if A was not provided with a copy of the Terms, or more widely was not aware of them or their content, they were incorporated as part of the contract. 74 More specifically as to the arbitration clause, whether the parties intended to incorporate it by making the opening and operation of the Account subject to the Terms which contained it is a question of interpretation of their contract (International Research Corp PLC v Lufthansa Systems Asia Pacific Pte Ltd and another [2014] 1 SLR 130 at [34]). Arbitration clauses are commonplace in agreements such as the contract under which the Facility was provided, and in the express subjection of the opening and operation of the Account to the Terms, there is no reason to parse the arbitration clause out and find that it was not incorporated. Nor was it necessary to draw particular attention to the arbitration clause: it is sufficient to refer to the decision of the Court of Appeal in Marty Ltd v Hualon Corp (Malaysia) Sdn Bhd (receiver and manager appointed) [2018] 2 SLR 1207 at [77]:As a response to this approach, the respondent submits that it is necessary for the appellant to go one step further, and show, positively, that Mr Oung Da Ming had actual knowledge of the arbitration clause, for instance, by pointing to a statement made by Mr Oung Da Ming to that effect. We do not accept this submission because to do so would severely undermine the efficacy of arbitration agreements. If the respondent is right, then each time a party enters into a contract containing an arbitration agreement, it would have to enquire into whether the agent or officer who signed the agreement on behalf of the counterparty had actual knowledge of the arbitration clause, and obtain a statement from that person to that effect, or risk stymying future arbitration proceedings because of an assertion by the counterparty that despite being done by the underlying contract, it did not have knowledge of the arbitration clause specifically. This would place too onerous a burden on contracting parties seeking to arbitrate their disputes, and would run counter to our courts’ approach towards arbitration (see Sundaresh Menon ed, Arbitration in Singapore: A Practical Guide (Sweet & Maxwell, 2014) at para 2.002). It would also be completely contradictory to the well-established doctrine that a party who signs a document is deemed to know the contents of the same. In our view, a party who is bound by the underlying contract must also be taken to have actual knowledge of the contents of the same, including any arbitration clause contained therein.75  It does not matter that A says now that they would not have agreed to the arbitration clause in the Terms, or indeed to cl 1.3 in the Letter.76 In so far as it was independently said that the arbitration clause was not incorporated because it failed the tests for a unilateral arbitration clause, there is also no substance in the submission. 77 In Pittalis, the question was whether a rent review clause which contemplated that only one of the parties could refer the matter to arbitration was an arbitration clause. Fox LJ held that it was an arbitration clause, saying (at 875):There is a fully bilateral agreement which constitutes a contract to refer. The fact that the option is exerciseable by one of the parties only seems to me to be irrelevant. The arrangement suits both parties. The reason why that is so in case such as the present and in the Tote Bookmakers case [1985] Ch 261 is because the landlord is protected, if there is no arbitration, by his own assessment of the rent, as stated in his notice; and the tenant is protected, if he is dissatisfied with the landlord’s assessment of the rent, by his right to refer the matter to arbitration. Both sides, therefore, have accepted the arrangement, and there is no question of any lack of mutuality. [emphasis added]78 The Applicants’ submissions took from the emphasised sentence above that for a unilateral arbitration clause, it was necessary that both sides had agreed to the clause being a unilateral arbitration clause, so that there was mutuality in that respect; and, as I understand the argument, it was that ACo had not agreed because, even if the Terms in general were incorporated into the Letter, attention had not been specifically drawn to the arbitration clause. However, his Lordship was not saying that there is an additional need for agreement in the case of a unilateral arbitration clause, but was noting that the arrangement to which the parties had agreed, which happened to be a clause under which only one party could refer the matter to arbitration, suited both parties. The only question here is whether the Terms were incorporated in the Letter; if they were, the arbitration clause was incorporated together with the other terms and conditions. 79 In Dyna-Jet, the question was whether there should be a stay of court proceedings said to have been brought in breach of an arbitration agreement. Under the arbitration clause, a dispute could be referred to arbitration “at the election of” Dyna-Jet, which was described as asymmetrical. The Court of Appeal said (at [13]), referring to the requirement that there be a valid arbitration agreement:In respect of the first of the three requirements outlined at [11] above, we agree with the Judge and also the Appellant that the Clause constituted a valid arbitration agreement between the Appellant and the Respondent. It was immaterial for this purpose that the Clause: (a) entitled only the Respondent (but not the Appellant) to compel its counterparty to arbitrate a dispute (the “lack of mutuality” characteristic); and (b) made arbitration of a future dispute entirely optional, instead of placing parties under an immediate obligation to arbitrate their disputes (the “optionality” characteristic). On the weight of modern, Commonwealth authority, which the Judge considered, neither of these features prevented the court from finding that there was a valid arbitration agreement between the present parties. And before us, neither party contended otherwise.80 The Court went on to hold that the dispute was not within the arbitration clause because Dyna-Jet had elected to litigate by commencing the court proceedings. It did not state a particular requirement for the validity of a unilateral or an asymmetrical arbitration clause; on the contrary, it recognised the accepted validity of such a clause. Again, the only question is whether the Terms were incorporated into the Letter. If they were, the arbitration clause was incorporated together with the other terms and conditions in the Terms.The other reasons81 I go to the Applicants’ reasons in addition to failure in incorporation of the Terms. Two submissions were made.82 The first was that the arbitration clause was void because the contract under which the Facility was provided was an illegal contract; the contract was unenforceable, and so was the arbitration clause if part of the contract. The illegality was the same illegality as was asserted under Ground (c) for the awards being contrary to the public policy of Singapore.
+                   132
+
+
+
+
+Foot Note 132
+
+×
+
+
+
+  AWS at para 103(a). 
+
+
+
+ It is sufficient to state here that for the reasons given when dealing with that ground, the contract was not illegal.83 The second was that the Letter was “unreasonable” in that cl 1.3 gave RCo the ability to revise the Terms, including the arbitration clause, placing ACo in great uncertainty; it was said that “well-informed consent” had not been given to “such an unreasonable arbitration clause”, apparently treating the arbitration clause as something which could be revised.
+                   133
+
+
+
+
+Foot Note 133
+
+×
+
+
+
+  AWS at para 103(b). 
+
+
+
+ Provisions such as cl 1.3, so far as it permitted revision of the Terms, are commonplace, and ACo agreed to it by A’s signature. They are valid, although generally subject to reasonableness or prevention of caprice. Whether cl 1.3 would extend to revision of the arbitration clause, if the question arose, could be a matter for decision, but that does not, in some manner unexplained in the submissions, mean failure in incorporation of the arbitration clause. The submission is without substance. Ground (b): notice of the arbitration proceedingsThe ground in brief84 Article 34(2)(a)(ii) of the Model Law provides:(2) An arbitral award may be set aside by the court specified in Article 6 only if:(a) the party making the application furnishes proof that: …(ii) the party making the application was not given proper notice of the appointment of an arbitrator or of the arbitral proceedings or was otherwise unable to present his case; or…85 The Applicants’ case was that A, who was also the sole director of ACo, did not have notice of the arbitration proceedings and was not aware that the proceedings were taking place.
+                   134
+
+
+
+
+Foot Note 134
+
+×
+
+
+
+  AWS at para 84. 
+
+
+
+ 86 A’s evidence in support of this ground was brief:
+                   135
+
+
+
+
+Foot Note 135
+
+×
+
+
+
+  ACo’s affidavit at paras 27–28 (CMB Volume 1 at p 26). 
+
+
+
+27. To the best of my knowledge, the 1st Applicant and I did not receive any notice of the Arbitration Proceedings.28. I do not read or understand English. Even if I had received email notices, I could not understand such emails or notices. Physically, I have been in Saipan, United States of America since February 2020 and have not received any notices from the Respondent that were sent to Hong Kong.87 Copies of passport pages were provided in support of A’s presence in Saipan, but were in part illegible and in any event inconclusive.
+                   136
+
+
+
+
+Foot Note 136
+
+×
+
+
+
+  Copies of A’s passport pages (CMB Volume 2 at pp 484–510).
+
+
+
+88 It will be noted that the statement that notice of the arbitration proceedings was not received is qualified: “[t]o the best of my knowledge”. This was not explained, and detracts from the weight to be given to the statement. Nothing is said about notice through the 163 email address, which during the arbitrations, was a functioning address used in communications from the Tribunal and RCo’s lawyers (see [41]), and from the earlier discussion of whether the application was brought within time, was later the means of effective delivery of the corrections to the Applicants (see [40]). It will be noted also that, while A says they have not received any notices from RCo that were sent to Hong Kong, which must mean the hard copy notices, there is no such denial in relation to notices sent to the BVI address.89 As earlier mentioned, in each award the Tribunal recorded satisfaction that reasonable and sufficient efforts had been made to provide due notice to the relevant Applicant, and to provide them with a fair opportunity to be heard and participate (see [22]). RCo submitted that these were findings of fact, fully analysed and supported in the awards, which it was not open to the Applicants to contest, citing Jiangsu Overseas Group Co Ltd v Concord Energy Pte Ltd and another matter [2016] 4 SLR 1336 at [43] and Beijing Sinozonto Mining Investment Co Ltd v Goldenray Consortium (Singapore) Pte Ltd [2014] 1 SLR 814 at [52].
+                   137
+
+
+
+
+Foot Note 137
+
+×
+
+
+
+  RWS at para 53. 
+
+
+
+ Perhaps making an unnecessarily cautious distinction, it may be thought that the question is not whether RCo made reasonable and sufficient efforts to give notice of the arbitral proceedings, but whether it did give notice of the arbitral proceedings. Most probably the Tribunal meant that it did, but in the circumstances, I will pass on from the Tribunal’s satisfaction and consider whether the Applicants have furnished proof that they were not given notice of the arbitral proceedings.Actual notice90 The Notice of Arbitration was served on ACo at the BVI address, its registered address as a BVI company according to the Client Information Statement and not denied in the evidence, by courier on 14 August 2020.
+                   138
+
+
+
+
+Foot Note 138
+
+×
+
+
+
+  RCo’s affidavit at para 33(a)(i) (CMB Volume 3 at p 610); Delivery receipt of the Notice of Arbitration for the arbitration in relation to the First Applicant (CMB Volume 4 at pp 1061 and 1063).
+
+
+
+ It was also sent by hand and by post to the ACo Hong Kong address on 14 August 2020, and by email to the 163 email address, both as in the Client Information Statement.
+                   139
+
+
+
+
+Foot Note 139
+
+×
+
+
+
+  RCo’s affidavit at paras 33(a)(ii) and 33(a)(iii) (CMB Volume 3 at p 610); Email dated 14 August 2020 from RCo to the 163 email address (CMB Volume 4 at p 1062); Letter dated 14 August 2020 from RCo to the ACo Hong Kong address (CMB Volume 4 at p 1063).
+
+
+
+ As the arbitral proceedings then progressed, together with numerous other communications concerning their progress, there were served on ACo in the same manner copies of RCo’s pleadings, written submissions, and other filings in the arbitration.
+                   140
+
+
+
+
+Foot Note 140
+
+×
+
+
+
+  RCo’s affidavit at para 35 (CMB Volume 3 at p 611).
+
+
+
+ According to the service log annexed to ACo’s award, there were no less than 122 occasions of service on ACo.
+                   141
+
+
+
+
+Foot Note 141
+
+×
+
+
+
+  Final Award in relation to the First Applicant at Annex A (CMB Volume 3 at pp 661–677).
+
+
+
+91 While it was not the subject of evidence, the BVI registered address must have been an official address for communications such as service of process on ACo. As earlier indicated, the 163 email address was a functioning address, and the ACo Hong Kong address was also a functioning address being the address to which monthly statements for the Account were sent by RCo, which were clearly received because they were exhibited to one of A’s affidavits (see [17]).
+                   142
+
+
+
+
+Foot Note 142
+
+×
+
+
+
+  ACo’s affidavit at para 21(c) (CMB Volume 1 at p 24); Monthly statements for the Account from December 2017 to May 2023 (CMB Volume 1 at pp 93–113 and Volume 2 at pp 347–470).
+
+
+
+ I do not think that extended discussion is warranted. It is sufficient for disposal of the ground that, particularly given the unsatisfactory evidence from A as described above, I am not satisfied that ACo has furnished proof that it was not given proper notice of the arbitral proceedings. On the contrary, I am satisfied that actual notice was given to ACo whereby it was well aware of the arbitral proceedings and had full opportunity to present its case.92 The Notice of Arbitration was served on A by hand and by post to the ACo Hong Kong address on 14 August 2020, and by email to the 163 email address on 17 August 2023.
+                   143
+
+
+
+
+Foot Note 143
+
+×
+
+
+
+  RCo’s affidavit at paras 33 and 35 (CMB Volume 1 at pp 610–611); Email dated 14 August 2020 from RCo to the 163 email address (CMB Volume 5 at p 1124); Letter dated 14 August 2020 from RCo to the ACo Hong Kong address (CMB Volume 5 a p 1125).
+
+
+
+ The pleadings, written submissions, and other filings were sent to the 163 email address, and for the correspondence up to 2 March 2021, to the A Hong Kong address.
+                   144
+
+
+
+
+Foot Note 144
+
+×
+
+
+
+  RCo’s affidavit at para 35 (CMB Volume 3 at p 611); Letter dated 2 March 2021 from RCo to the A Hong Kong address (CMB Volume 5 at p 1204).
+
+
+
+ According to the service log, there were no less than 153 occasions of such service.
+                   145
+
+
+
+
+Foot Note 145
+
+×
+
+
+
+  Final Award in relation to the Second Applicant at Annex A (CMB Volume 3 at pp 709–736).
+
+
+
+ As with notice to ACo, I am not satisfied that A has furnished proof that they were not given proper notice of the arbitral proceedings, and on the contrary, am satisfied they were given actual notice whereby they were well aware of the arbitral proceedings and had full opportunity to present their case. 93 A sufficient basis for these findings is that the BVI address was ACo’s registered address and the 163 email address was a functioning email address, used by A on behalf of ACo. In any event, the various addresses are given in the Client Information Statement (see [13]). The purpose of the Client Information Statement was to tell RCo the means of communication with ACo, and with A as a person giving instructions in relation to the Facility and the Account, to which the Guarantee must be added as a part of the provision of the Facility. The observations in Re Shanghai Xinan Screenwall Building & Decoration Co Ltd [2022] 5 SLR 393 (“Re Shanghai”) at [32], holding that that delivery of a notice of arbitration to the address stated in the contract between the parties was proper notice of the arbitration, are applicable:Thirdly, the address to which the various documents were delivered was the address indicated in the Contract. Where an address is given in a contract, it is a simple inference that the address has been included to facilitate communication between the parties. Thus, in the absence of any manifestation of a contrary intention, service of a notice of arbitration in respect of that contract at that address will usually amount to proper notice of the arbitration unless prior to the date of service the respondent has notified the claimant of a change of address.94 In the present case, there is also not just an inference from giving addresses in the Client Information Statement. By cl 7 of the Letter, a communication to ACo in connection with the Account “shall be … made”, inter alia, by post or otherwise in writing to the address set out in the application for the Account “or such other address … as you may from time to time notify us in writing”.
+                   146
+
+
+
+
+Foot Note 146
+
+×
+
+
+
+  Margin Facility Letter from RCo to ACo at p 5 (CMB Volume 3 at p 792).
+
+
+
+Deemed notice95 It is unnecessary to go to the provisions for deemed service to which the Tribunal also referred, but they also are a basis for proper notice of the arbitral proceedings, and I should do so albeit briefly.96 In cl 7 of the Letter, it was provided that any communication made in the manner there described would be effective notwithstanding that it was returned undelivered, and would be deemed to be received by ACo within a stated number of days if posted or when left at the address.
+                   147
+
+
+
+
+Foot Note 147
+
+×
+
+
+
+  Margin Facility Letter from RCo to ACo at p 5 (CMB Volume 3 at p 792).
+
+
+
+ Article 3(1) of the Model Law provides, inter alia, that unless otherwise agreed, a written communication is deemed to have been received if it is delivered to the addressee personally or if it is delivered at his place of business, habitual residence, or mailing address. The UNCITRAL Rules, which by the arbitration clause in the Terms were the rules for the ACo arbitration, provide, inter alia, that notice provided by any means to an address designated by the party for the purpose of receiving notifications, or delivered to the addressee’s place of business, habitual, residence, or mailing address is deemed to have been received. The SIAC Rules, which by the arbitration clause in the Guarantee were the rules for the A arbitration, provide, inter alia, that any notice shall be deemed to have been received if it is delivered to the addressee personally or to the addressee’s habitual residence, place of business or designated address, or any address agreed by the parties, and specifically permits electronic communication. 97 In Re Shanghai, it was said (at [33]) that deemed service may be rebutted by appropriate evidence of non-receipt, but in the absence of such evidence, service in a manner satisfying Art 3(1) of the Model Law was held to be proper notice of the arbitral proceedings. In the present case, there is the evidence of A referred to above. I do not regard it as acceptable evidence of non-receipt. The direct assertion that ACo and A did not receive any notice of the arbitral proceedings is qualified, but even if the qualification is put aside, it is plainly incorrect in the light of the mass of evidence from which there must have been actual knowledge of the arbitral proceedings. Without going into detail, by force of these provisions also ACo and A received proper notice of the arbitral proceedings.98 It remains to refer to A’s assertion that even if they had received email notices, they could not understand them because they did not read or understand English. I have expressed reservations about the lack of at least a basic facility in English (see [68]), and the contention that inability to read or understand English would make service of notice of the arbitral proceedings ineffective does not sit well with effective provision and use of the Facility by signature of the Letter in English. Nonetheless, Mr Ang submitted that if the Notice of Arbitration was served on A via their email address, they would not have been validly notified given that they cannot read or write English.
+                   148
+
+
+
+
+Foot Note 148
+
+×
+
+
+
+  AWS at para 86(b).
+
+
+
+ A similar submission was not made as to notice to ACo, but I take that to have been intended.99 The short answer to the submission is that both arbitration clauses provided that the language to be used in the arbitral proceedings shall be English. For the reasons given above, ACo was bound by the arbitration clause in the Terms, and A did not dispute the validity of the arbitration agreement in the Guarantee. For the longer answer, it is not reasonably to be thought that A would not recognise the Notice of Arbitration or the rest of the numerous communications as documents written in English, and as significant documents from RCo (for example, at the very least, RCo’s name in English in the Notices of Arbitration would have been recognised from the same name in English in the monthly and daily statements, and by the time of the Notices of Arbitration, action by RCo to recover the outstanding balance of the Account must have been anticipated). If indeed A did not have a sufficient facility in English to read and understand the Notice of Arbitration or other documents, it was open to them to obtain assistance. The Applicants cannot deny notice of the arbitral proceedings by turning a blind eye to the documents received by email or by delivery in hard copy.100 To sum up, the Applicants have not proved that they were not given proper notice of the arbitral proceedings. On the contrary, they were given proper notice and had full opportunity to present their cases, but chose not to participate in the proceedings.Ground (c): contrary to the public policy of SingaporeThe ground in brief101 Article 34(2)(b)(ii) of the Model Law provides:(2) An arbitral award may be set aside by the court specified in Article 6 only if:…(b) the court finds that:…(ii) the award is in conflict with the public policy of this State.102  The Applicants’ principal basis for this ground was that in providing the Facility, RCo carried on a business in a regulated activity as referred to in the Securities and Futures Ordinance (Cap. 571) of Hong Kong (the “Ordinance”) without the licence required under the Ordinance; and that this was an offence under the Ordinance, so that the provision of the Facility was illegal in Hong Kong.
+                   149
+
+
+
+
+Foot Note 149
+
+×
+
+
+
+  AWS at paras 49–64. 
+
+
+
+ The Applicants said also that the provision of the Facility contravened Hong Kong’s Code of Conduct for Persons Licensed by or Registered with the Securities and Future Commission (the “Code”),
+                   150
+
+
+
+
+Foot Note 150
+
+×
+
+
+
+  AWS at para 65. 
+
+
+
+ and that the choices in the Letter of the rules of the Singapore Stock Exchange, and in the Terms and the Guarantee of Singapore law, were “improper” and “unfair”.
+                   151
+
+
+
+
+Foot Note 151
+
+×
+
+
+
+  AWS at paras 78–82. 
+
+
+
+ 103 For completeness, it should be noted that in the absence of the Applicants, none of these matters was considered by the Tribunal.The expert evidence104 No order was made for submissions on foreign law, and the law of Hong Kong and its application was a matter for expert evidence. The Applicants relied on the evidence of Mr Chan Suk Ching. RCo relied on the evidence of Mr Stephen Tisdall. 105 The function of the expert witness on foreign law was described in MCC Proceeds Inc v Bishopsgate Investment Trust plc [1999] CLC 417 at [23], cited in Pacific Recreation Pte Ltd v S Y Technology Inc and another appeal [2008] 2 SLR(R) 491 (“Pacific Recreation”) at [76], as(1)     to inform the court of the relevant contents of the foreign law; identifying statutes or other legislation and explaining where necessary the foreign court’s approach to their construction;(2)     to identify judgments or other authorities, explaining what status they have as sources of the foreign law; and(3)     where there is no authority directly in point, to assist [the court] in making a finding as to what the foreign court’s ruling would be if the issue was to arise for decision there.106 As made clear in Pacific Recreation at [77] –[78], the expert should first place the relevant raw sources of foreign law before the court, which is a requirement under O 40A r 3(2)(b) of the Rules, and the purpose of obtaining expert evidence is not only to place the content of the foreign law before the court, but also to obtain the expert’s opinion as to such law’s effect. In this regard, the Court of Appeal in Pacific Recreation cited (at [78]) Baron de Bode’s Case (1845) 8 QB 208 at 251; 115 ER 854 at 870:Properly speaking, the nature of such evidence is not to set forth the contents of the written law, but its effect and the state of law resulting from it. The mere contents, indeed, might often mislead persons not familiar with the particular system of law…107 Mr Chan is a solicitor of the High Court of Hong Kong,
+                   152
+
+
+
+
+Foot Note 152
+
+×
+
+
+
+  Mr Chan Suk Ching’s affidavit dated 19 June 2023 (“Mr Chan’s affidavit”) at para 1 (CMB Volume 3 at p 577) and Mr Chan’s practising certificate (CMB Volume 3 at p 580).
+
+
+
+ a consultant to the firm Lim & Lok.
+                   153
+
+
+
+
+Foot Note 153
+
+×
+
+
+
+  Mr Chan Suk Ching’s curriculum vitae (CMB Volume 3 at p 581).
+
+
+
+ In Pacific Recreation, it was said at [67] that the expert’s curriculum vitae should detail the expert’s relevant experience, with special regard to the issue on which the expert’s opinion is sought. However, Mr Chan’s curriculum vitae does not refer to any particular expertise or experience in securities or regulatory law. 108 Leaving aside any lack of particular expertise or experience, there are difficulties in the Applicants’ reliance on Mr Chan’s evidence. Neither his letter nor his affidavit includes the mandatory statement, as required by O 12 r 5(2)(b) of the Rules and O 14 r 4(3)(b) of the Singapore International Commercial Court Rules 2021, that he understands that his duty is to assist the Court and that the duty to the Court overrides any obligation to the person from whom he receives instructions or by whom he is paid. But it is worse. The report or “legal opinion” exhibited in his affidavit is in the form of a Lim & Lok letter dated 15 June 2023.
+                   154
+
+
+
+
+Foot Note 154
+
+×
+
+
+
+  Letter dated 15 June 2023 from Lim & Lok Solicitors to the Applicants (CMB Volume 3 at pp 582–594).
+
+
+
+ It is not addressed to any particular person, but records instructions to “provide a legal opinion in connection with the various issues in dispute between [RCo] and [ACo] and [A] respectively under the final awards…”.
+                   155
+
+
+
+
+Foot Note 155
+
+×
+
+
+
+  Letter dated 15 June 2023 from Lim & Lok Solicitors to the Applicants at p 1 (CMB Volume 3 at p 582).
+
+
+
+ It includes, under the heading “Qualifications”, that “[t]he provision of this opinion is not to be taken as implying that we owe any duty of care to anyone other than our client in relation to the content of the issues stated in this opinion” and that “[t]his opinion is limited for the purpose of facilitating our client to appraise the Hong Kong laws issue in respect of the issues stated in this opinion”.
+                   156
+
+
+
+
+Foot Note 156
+
+×
+
+
+
+  Letter dated 15 June 2023 from Lim & Lok Solicitors to the Applicants at p 3 (CMB Volume 3 at p 584).
+
+
+
+ These qualifications are not overcome in the affidavit, which simply says that it “enclose[s] my opinion in support of the Applicants’ application to set aside the Final Awards…”.
+                   157
+
+
+
+
+Foot Note 157
+
+×
+
+
+
+  Mr Chan’s affidavit at para 4 (CMB Volume 3 at p 578). 
+
+
+
+ I do not intend any offence to Mr Chan, but I do not think that his report can be regarded as an independent expert opinion on which I am able to act.109 In any event, Mr Chan’s report is of little assistance. With identification of relevant legislation, he says that the Ordinance “imposes an obligation to be licensed upon corporations which in Hong Kong carry on business in a regulated activity”, and identifies securities margin financing as a regulated activity.
+                   158
+
+
+
+
+Foot Note 158
+
+×
+
+
+
+  Letter dated 15 June 2023 from Lim & Lok Solicitors to the Applicants at p 4 (CMB Volume 3 at p 585).
+
+
+
+ He does not enter upon the law’s effect by venturing a conclusion on whether RCo’s provision of the Facility was carrying on business in Hong Kong in a regulated activity. The furthest he goes is to say that it is “noted that margin financing provided by [RCo] to [ACo] has the following features which are related to determine the substance of the margin financing whether was carried on in Hong Kong or otherwise [sic]”.
+                   159
+
+
+
+
+Foot Note 159
+
+×
+
+
+
+  Letter dated 15 June 2023 from Lim & Lok Solicitors to the Applicants at pp 4–5 (CMB Volume 3 at pp 585–586).
+
+
+
+ He later says that “[a]ssuming that the securities margin financing activities carried out by [RCo] is [sic] regulated by the laws of Hong Kong … then there is an issue of illegality principle”,
+                   160
+
+
+
+
+Foot Note 160
+
+×
+
+
+
+  Letter dated 15 June 2023 from Lim & Lok Solicitors to the Applicants at p 8 (CMB Volume 3 at p 589).
+
+
+
+ and then gives a lengthy quotation from the judgment of Ryder Industries Ltd (formerly Saitek Ltd) v Chan Shui Woo [2016] 1 HKC 323 at [39], without expressing a view on the application of the matters in the quotation or a conclusion on illegality.
+                   161
+
+
+
+
+Foot Note 161
+
+×
+
+
+
+  Letter dated 15 June 2023 from Lim & Lok Solicitors to the Applicants at pp 9–10 (CMB Volume 3 at pp 590–591).
+
+
+
+ I will however come to the features of the margin financing identified by Mr Chan.110 Mr Tisdall is Counsel at Deacons, a firm in Hong Kong. He is qualified to practice law in Hong Kong, England and Wales, and New Zealand.
+                   162
+
+
+
+
+Foot Note 162
+
+×
+
+
+
+  Mr Stephen Tisdall’s affidavit dated 17 August 2023 (“Mr Tisdall’s affidavit”) at para 2 (CMB Volume 8 at p 1778). 
+
+
+
+ His current practice in Deacons includes contentious and non-contentious financial services regulatory matters, and his curriculum vitae shows that he has had extensive experience in that field including periods as the Senior Director and Head of Licensing and Conduct, Intermediaries Division, at the Hong Kong Securities and Futures Commission (the “Commission”) and Senior Counsel at the Commission advising each of its Divisions in respect of the functions performed by them.
+                   163
+
+
+
+
+Foot Note 163
+
+×
+
+
+
+  Mr Stephen Tisdall’s curriculum vitae (CMB Volume 8 at p 1790). 
+
+
+
+111 In a comprehensive discussion in which he also identifies relevant legislation, Mr Tisdall comes to a summary that a person is obliged to be licensed under the Ordinance if he carries on a business in a regulated activity (which includes margin financing) or holds himself out as carrying on a business in a regulated activity; and that if he actively markets services to the public of Hong Kong, which services would constitute regulated activity were they to be conducted in Hong Kong, he will be deemed to be holding himself out as carrying on a business in a regulated activity and/or to be carrying on a business in a regulated activity, and therefore will also be obliged to be licensed under the Ordinance. If he is not so licensed, he will commit a criminal offence.
+                   164
+
+
+
+
+Foot Note 164
+
+×
+
+
+
+  Mr Stephen Tisdall’s report at para 28 (CMB Volume 8 at p 1786). 
+
+
+
+ For reasons then given, Mr Tisdall says that Hong Kong law is clear that a person cannot come under an obligation to be licensed under the Ordinance if he carries on a business in the equivalent of a regulated activity outside Hong Kong, or holds himself out as carrying on a business in a regulated activity in Hong Kong while he is outside Hong Kong (and he adds that this is the well-understood position of the market in Hong Kong and the position adopted by the Commission).
+                   165
+
+
+
+
+Foot Note 165
+
+×
+
+
+
+  Mr Stephen Tisdall’s report at para 33 (CMB Volume 8 at p 1787). 
+
+
+
+ 112 Specifically as to margin financing, Mr Tisdall says that the position is clear under Hong Kong law that a person who conducts margin financing business outside Hong Kong is not to be regarded as carrying on a business in the relevant regulated activity by virtue of the fact that he provides margin financing services to clients in Hong Kong. He adds that it is very common for members of the public in Hong Kong to be the clients of international firms which have no presence in Hong Kong, and which are neither licensed under the Ordinance nor required to be licensed under the Ordinance. The clients may have taken the initiative to seek out the services of the overseas firms or may have been referred to them on the recommendation of third parties, and these circumstances, he says, involve no holding out or active marketing in Hong Kong on the part of such overseas firms.
+                   166
+
+
+
+
+Foot Note 166
+
+×
+
+
+
+  Mr Stephen Tisdall’s report at para 35 (CMB Volume 8 at pp 1787–1788).
+
+
+
+113  Mr Tisdall concludes that RCo could only have come under an obligation to be licensed under the Ordinance if it was physically carrying on a business in a regulated activity in Hong Kong, or holding itself out in Hong Kong as carrying on such a business.
+                   167
+
+
+
+
+Foot Note 167
+
+×
+
+
+
+  Mr Stephen Tisdall’s report at para 36 (CMB Volume 8 at p 1788).
+
+
+
+ Implicitly, I understand him to include deemed carrying on or holding out through active marketing to the public of Hong Kong. He said that, as he understood the position, neither of those activities occurred in Hong Kong, and therefore he considers that RCo was not required to be licensed in Hong Kong under the Ordinance and did not commit an offence when it provided margin financing services to ACo.
+                   168
+
+
+
+
+Foot Note 168
+
+×
+
+
+
+  Mr Stephen Tisdall’s report at para 36 (CMB Volume 8 at p 1788).
+
+
+
+ As it was neither licensed under the Ordinance nor required to be licensed, RCo was not under any obligation to comply with the provisions of the Ordinance or with any rules, codes or guidelines made or issued under or pursuant to the provisions of the Ordinance when providing its services to ACo.
+                   169
+
+
+
+
+Foot Note 169
+
+×
+
+
+
+  Mr Stephen Tisdall’s report at para 37 (CMB Volume 8 at p 1788).
+
+
+
+114 Mr Tisdall concludes his report:
+                   170
+
+
+
+
+Foot Note 170
+
+×
+
+
+
+  Mr Stephen Tisdall’s report at para 39 (CMB Volume 8 at p 1788).
+
+
+
+For completeness, I should add that, even in the event of [RCo] having to be licensed under [the Ordinance], there is no provision in [the Ordinance] which would render the transaction under the Margin Facility Letter (and consequently, the claims brought by [RCo] in the underlying arbitrations), illegal or unenforceable by virtue of [RCo’s] unlicensed status in Hong Kong.115 Mr Tisdall is highly qualified in the field, his analysis of when RCo would come under an obligation to be licenced under the Ordinance appears sound, and I accept it. However, his understanding of the position that RCo was not physically carrying on a business in a regulated activity in Hong Kong or holding itself out in Hong Kong as carrying on such a business came from the matters he assumed for the purposes of his report.
+                   171
+
+
+
+
+Foot Note 171
+
+×
+
+
+
+  Mr Stephen Tisdall’s report at para 8(a) (CMB Volume 8 at p 1782).
+
+
+
+ It should therefore be asked whether it is correct on the evidence before me.Illegality of provision of the Facility116 The assumptions in Mr Tisdall’s report were set out in paragraphs 8(a) to 8(i).
+                   172
+
+
+
+
+Foot Note 172
+
+×
+
+
+
+  Mr Stephen Tisdall’s report at para 8 (CMB Volume 8 at p 1782).
+
+
+
+ Those bearing directly on carrying on a business in Hong Kong, holding out as carrying on a business, and active marketing to the public of Hong Kong, were that: (a) RCo was a company incorporated in Singapore where it conducted business, principally for Singaporean clients, and that although it also had clients in Hong Kong, it had no physical or business presence there;
+                   173
+
+
+
+
+Foot Note 173
+
+×
+
+
+
+  Mr Stephen Tisdall’s report at para 8(a) (CMB Volume 8 at p 1782).
+
+
+
+ (b) ACo had been referred to RCo by RCoHK which was a Hong Kong incorporated affiliate of RCo;
+                   174
+
+
+
+
+Foot Note 174
+
+×
+
+
+
+  Mr Stephen Tisdall’s report at para 8(d) (CMB Volume 8 at p 1782).
+
+
+
+ (c) ACo had a correspondence address in Hong Kong;
+                   175
+
+
+
+
+Foot Note 175
+
+×
+
+
+
+  Mr Stephen Tisdall’s report at para 8(e) (CMB Volume 8 at p 1782).
+
+
+
+ and (d) the margin financing activities conducted by RCo for ACo involved the listed securities of certain companies which were listed on the Hong Kong Stock Exchange.
+                   176
+
+
+
+
+Foot Note 176
+
+×
+
+
+
+  Mr Stephen Tisdall’s report at para 8(i) (CMB Volume 8 at p 1782).
+
+
+
+117 The features noted by Mr Chan as related to determining whether the margin financing was carried on in Hong Kong were that: (a) ACo was a limited company with an address in Hong Kong; (b) the currency of the Account was denominated in Hong Kong dollars; and (c) the securities provided by ACo to RCo included some shares in Hong Kong companies.
+                   177
+
+
+
+
+Foot Note 177
+
+×
+
+
+
+  Letter dated 15 June 2023 from Lim & Lok Solicitors to the Applicants at pp 4–5 (CMB Volume 3 at pp 585–586).
+
+
+
+ This is patently inadequate for provision of the Facility to constitute RCo carrying on a business in Hong Kong or holding itself out as carrying on a business in Hong Kong, including by active marketing.118 In his submissions, Mr Ang proffered a more extensive list of features, saying that “all available evidence supports that [RCo] must be regarded as having carried out business in Hong Kong”.
+                   178
+
+
+
+
+Foot Note 178
+
+×
+
+
+
+  AWS at para 56.
+
+
+
+ Not all his features were on point or soundly based in the evidence. In a summary of those that could be, they were that: (a) ACo had an address in Hong Kong; (b) the Letter was signed in Hong Kong; (c) the Hong Kong dollar was the nominated currency in the Letter and the Account was conducted in Hong Kong dollars (at least until April 2018, when it became Singapore dollars); (d) the securities provided by ACo included shares in Hong Kong listed companies; (e) correspondence with A was in Chinese, the official language of Hong Kong; and (f) ACo had no business presence in Singapore, and according to A's passport pages, A had not been to Singapore at all material times.119 As earlier indicated, there was a dearth of evidence of the circumstances in which the Facility was provided. In their affidavits, A gave none, save for saying that the copies of the pages of their passport showed that they were not in Singapore when the Letter was executed
+                   179
+
+
+
+
+Foot Note 179
+
+×
+
+
+
+  ACo’s affidavit at para 36 (CMB Volume 1 at p 28); Copies of A’s passport pages (CMB Volume 2 at pp 484–510).
+
+
+
+ and an indirect indication that ACo approached RCo from the reference to ACo submitting the Account Opening Form to RCoHK “when making its request to open and maintain a margin securities trading account with the company.”
+                   180
+
+
+
+
+Foot Note 180
+
+×
+
+
+
+  ACo’s affidavit at para 7 (CMB Volume 1 at p 15). 
+
+
+
+ In his affidavit, RCo’s CEO said that to the best of his knowledge, ACo and A were clients referred to RCo by RCoHK, its Hong Kong associated company.
+                   181
+
+
+
+
+Foot Note 181
+
+×
+
+
+
+  RCo’s affidavit at para 59(d) (CMB Volume 3 at p 622). 
+
+
+
+ Mr Ang’s submissions included that the Letter was signed in Hong Kong,
+                   182
+
+
+
+
+Foot Note 182
+
+×
+
+
+
+  AWS at para 56(a). 
+
+
+
+ which could only be an inference from A not being in Singapore; Ms Chong contested this, referring to the obscurity of the passport and pointing to the Singapore address written adjacent to the signature of the RCo signatory to the Account Opening Form,
+                   183
+
+
+
+
+Foot Note 183
+
+×
+
+
+
+  Minute sheet dated 18 September 2023 at pp 16–17; Securities and Futures Trading Account Opening Form at p 2 (CMB Volume 1 at p 86).
+
+
+
+ but in the absence of more direct evidence from RCo’s side, that is a weak point. In the incomplete state of the evidence, the likelihood is that ACo was indeed referred by RCoHK to RCo for provision of the Facility, and that the Letter was signed in Hong Kong, and I proceed on that basis. 120  RCo’s business premises were in Singapore, and it did not have any business premises in Hong Kong. There was no evidence of any other business activity by RCo (as distinct from RCoHK) in Hong Kong, of margin financing or anything else, including any holding itself out in a business activity. Indeed, RCo’s CEO said squarely in his evidence that RCo “does not conduct any business in Hong Kong and does not conduct marketing activities for its services in Hong Kong”.
+                   184
+
+
+
+
+Foot Note 184
+
+×
+
+
+
+  RCo’s affidavit at para 59(b) (CMB Volume 3 at p 621). 
+
+
+
+121 Even if the Letter was signed in Hong Kong, there is no proper basis for concluding that there was marketing by RCo of its margin financing services to ACo, let alone to the public of Hong Kong, or that in agreeing to provide the Facility, RCo was carrying on a business in Hong Kong in that regulated activity or holding itself out as carrying on that business. The designation and use of Hong Kong dollars does not change that, nor the use of the Chinese language. Nor does the fact that ACo used the Facility for trading on the Hong Kong Stock Exchange help to make provision of the Facility an unlicensed business activity of RCo in Hong Kong (and I do not think that Mr Ang submitted that it did): that was ACo’s business, not RCo’s, as permitted but not required under the terms of the Facility. That ACo had an address in Hong Kong but no business premises in Singapore is not of material significance when asking where the business of the international financing transaction was carried out; of more significance is what was done in that transaction and where, but the fact that the Letter in a one-off transaction was signed in Hong Kong is not enough. 122 To the assumptions on which Mr Tisdall came to his opinion that it was not necessary that RCo be licensed should be added that the Letter was signed in Hong Kong, but I do not think that materially affects his opinion. I conclude independently that in providing the Facility, RCo was not carrying on a business in a regulated activity in Hong Kong, or holding itself out in Hong Kong as carrying on such a business, including by active marketing to the public of Hong Kong.123 It follows that the provision of the Facility was not illegal in Hong Kong, and that that basis for the ground falls away. I nonetheless go on to consider whether, if the provision of the Facility had been illegal in Hong Kong, there would have been conflict with the public policy of Singapore warranting setting the awards aside.124 It is well established that the ground in Art 34(2)(b)(ii) of the Model Law is a narrow ground. In PT Asuransi Jana Indonesia (Persero) v Dexia Bank SA [2007] 1 SLR(R) 597 (“PT Asuransi”) at [59], the Court of Appeal said:Although the concept of public policy of the State is not defined in the Act or the Model Law, the general consensus of judicial and expert opinion is that public policy under the Act encompasses a narrow scope. In our view, it should only operate in instances where the upholding of an arbitral award would “shock the conscience” (see Downer Connect ([58] supra) at [136]) or is “clearly injurious to the public good or … wholly offensive to the ordinary reasonable and fully informed member of the public” (see Deutsche Schachbau v Shell International Petroleum Co Ltd [1987] 2 Lloyds’ Rep 246 at 254, per Sir John Donaldson MR), or where it violates the forum’s most basic notion of morality and justice: see Parsons & Whittemore Overseas Co Inc v Societe Generale de L’Industrie du Papier (RAKTA) 508 F 2d 969 (2nd Cir, 1974) at 974. This would be consistent with the concept of public policy that can be ascertained from the preparatory materials to the Model Law. As was highlighted in the Commission Report (A/40/17), at para 297 (referred to in A Guide to the UNCITRAL Model Law on International Commercial Arbitration: Legislative History and Commentary by Howard M Holtzmann and Joseph E Neuhaus (Kluwer, 1989) at p 914): In discussing the term “public policy”, it was understood that it was not equivalent to the political stance or international policies of a State but comprised the fundamental notions and principles of justice… It was understood that the term “public policy”, which was used in the 1958 New York Convention and many other treaties, covered fundamental principles of law and justice in substantive as well as procedural respects. Thus, instances such as corruption, bribery or fraud and similar serious cases would constitute a ground for setting aside. 125 In Sui Southern Gas Co Ltd v Habibullah Coastal Power Co (Pte) Ltd [2010] 3 SLR 1 at [48], Judith Prakash J referred to a party having to cross a “very high threshold” and demonstrate “egregious circumstances such as corruption, bribery or fraud, which would violate the most basic notions of morality and justice” (see also BAZ v BBA and others and other matters [2020] 5 SLR 266 at [156]–[159]).126 While in their submissions, the Applicants recognised the authority of PT Asuransi, they submitted that what they called the principles in Ralli Brothers v Companiera Naviera Sota Y Aznar [1920] 2 KB 287 (“Ralli Bros”) and Soleimany v Soleimany [1991] 1 QB 785 (“Soleimany”) should be applied in the present case.
+                   185
+
+
+
+
+Foot Note 185
+
+×
+
+
+
+  AWS at paras 66–68 and 72.
+
+
+
+ Just what those principles were said to be was not made clear. 127 Ralli Bros was not concerned with setting aside an award for conflict with the public policy of the forum state pursuant to Art 34(2)(b)(ii) of the Model Law. It was a case of refusal under English law to enforce part of a contract the performance of which was illegal under Spanish law. 128 Soleimany was a case of an English court refusing on English public policy grounds to enforce an award made by a Jewish religious court, the Beth Din, giving effect to an underlying contract that was illegal under the law of Iran, which was the law of the place of performance; under Jewish law, however, the illegality of that contract did not affect the rights of the parties. It was held that the English court could reopen the Beth Din’s position as to illegality and that the interposition of an award despite illegality could not exclude consideration of illegality as going to English public policy. However, in AJU v AJT [2011] 4 SLR 739 (“AJU v AJT”), the Court of Appeal rejected the approach in Soleimany as to the more liberal circumstances in which the court may reopen an arbitral tribunal’s decision that an underlying contract is legal (at [58]–[60]); while the court is entitled to decide for itself whether the underlying contract is illegal and to set aside the award if tainted by illegality, it cannot correct findings of fact going to illegality (at [59] and [70]). 129 As I understand the submission, it was that the principles in these cases were that the court should not assist or sanction the breach of the laws of other independent states (Ralli Bros), including by declining to enforce an award made on a contract that was illegal under the laws of such a state (Soleimany) and so also by setting aside such an award. But Ralli Bros was a case on English domestic law, and Soleimany also was not concerned with setting aside an award for conflict with the public policy of the forum state pursuant to Art 34(2)(b)(ii) of the Model Law. The issue in that case was not the present issue, and the dominance of the policy of refusal to enforce an illegal contract underlying the reasoning of Waller LJ in Soleimany (at 823–824) is undermined by AJU v AJT. Neither case warrants departure from the established law in PT Asuransi and like cases: it must be asked whether the very high threshold has been crossed.130 The Applicants referred to Z v Y [2018] HKCFI 2342 as an instance of refusal to enforce an award on the ground, amongst others, of illegality in a foreign jurisdiction.
+                   186
+
+
+
+
+Foot Note 186
+
+×
+
+
+
+  AWS at para 76. 
+
+
+
+ The award was made by the China Guangzhou Arbitration Commission, on a guarantee of certain sale contracts (at [3]). In the arbitration, the respondent alleged that the sale contracts were shams and were a façade for illegal moneylending, but the claim was upheld (at [4]). Section 95(3)(b) of the Arbitration Ordinance Cap 609 provided for refusal of enforcement if enforcement would be “contrary to public policy”. While acknowledging that the court of enforcement should not review the merits of the award, the Court considered it unclear whether the tribunal had thoroughly considered the issues of illegality raised by the respondent, and expressed “serious reservations” as to the reasons given by the tribunal for dismissing the respondent’s allegations (at [10]). The Court said (at [14]):The important issue of whether the underlying HD Contracts and MD Contracts were illegal and unenforceable under PRC law, so as to render the Guarantee void and unenforceable against the Respondent, is not in my view addressed in the Award with adequate reasons, and it would offend our Court’s notions of fairness and justice to enforce the Award when it might be tainted by illegality, and when a significant issue brought before the tribunal for determination has not been seen to be properly considered and determined, contrary to the parties’ legitimate and reasonable expectations.131  I do not think that this case assists the Applicants. Whatever may otherwise be said of the decision, it was not a refusal to enforce the award because of illegality of the underlying contracts under PRC law; the offence to public policy was in the way the issue was dealt with. 132 A decision of more assistance, to which RCo referred, is Gokul Patnaik v Nine Rivers Capital Ltd [2021] 3 SLR 22.
+                   187
+
+
+
+
+Foot Note 187
+
+×
+
+
+
+  RWS at para 60. 
+
+
+
+ An issue in the arbitration was whether a contract was illegal because it was in contravention of the Indian Foreign Exchange Management (Transfer or Issue of Security by a Person Resident Outside India) Regulations (India) (at [129]). The tribunal held that they were not, and in an application to set the award aside Sir Vivian Ramsay IJ declined to intervene in that holding (at [192]). His Honour went on, however, to deal with the public policy ground in the Model Law on the assumption that the contracts were illegal. His discussion included (at [202]) that international comity did not mean that a contract illegal by the law of the country of performance would always not be enforced, or set aside, as a matter of Singapore public policy, and concluded, at [205]–[206]: 205. The relevant question is whether the illegality in the foreign state would demonstrate sufficiently egregious circumstances that would “shock the conscience” or violate the most basic notions of morality and justice so as to amount to a breach of Singapore public policy.206. In the present case, there is no reason why a breach of the FEMA Regulations or the laws of India, without more, would “shock the conscience” or violate the “most basic notions of morality and justice”. If Mr Patnaik’s submissions are taken to their logical conclusion, then any minor illegality or regulatory infringement by a contract in its place of performance would ipso facto lead to the conclusion that international comity, and thus Singapore public policy, would be breached so that the arbitral award would have to be set aside. The public policy ground under Art 34(2)(b)(ii) of the Model Law is a narrow ground and does not lead to that conclusion…133 It bears emphasis that simply to find illegality of some kind under the foreign law is not enough. If illegality is found, it must be assessed for the offence to the public policy of Singapore of enforcement nonetheless, with the very high threshold to which the authorities refer. Mr Ang submitted that conducting a regulated activity without a licence is a criminal offence, and can bring a substantial penalty up to imprisonment for seven years or a fine of HKD 5m if there is conviction on indictment; and he said (although I think without a proper basis) that the illegality on RCo’s part was intentional.
+                   188
+
+
+
+
+Foot Note 188
+
+×
+
+
+
+  AWS at para 108. 
+
+
+
+ But on Mr Tisdall’s evidence, unanswered by Mr Chan, nothing in the Ordinance renders the transaction under the Letter illegal or unenforceable if RCo were required to be licensed but was not.
+                   189
+
+
+
+
+Foot Note 189
+
+×
+
+
+
+  Mr Stephen Tisdall’s report at para 39 (CMB Volume 8 at p 1788).
+
+
+
+ Where the law of Hong Kong, on the evidence before me, does not invalidate the provision of margin financing by an unlicensed provider, there is insufficient reason to hold that upholding the awards despite the illegality of the provision of the margin financing without a licence would shock the conscience, be clearly injurious to the public good, be wholly offensive to the reasonable and fully informed member of the public, violate Singapore’s most basic notion of morality and justice, or otherwise conflict with the public policy of Singapore in accordance with the authorities.134 Accordingly, had the provision of the Facility been illegal in Hong Kong, I would nonetheless not have set aside the awards on the ground of conflict with the public policy of Singapore.Convention of the Code135 A’s affidavit on behalf of ACo foreshadowed a considerable number of contraventions of the Code,
+                   190
+
+
+
+
+Foot Note 190
+
+×
+
+
+
+  ACo’s affidavit at para 21 (CMB Volume 1 at pp 22–24).
+
+
+
+ but in Mr Ang’s submissions they were more confined. It was submitted that the Code had been breached by:
+                   191
+
+
+
+
+Foot Note 191
+
+×
+
+
+
+  AWS at para 65.
+
+
+
+ (a) failing to provide a copy of the Letter to A in Chinese, despite knowing that their preferred language was Chinese; (b) failing to inform either ACo or A of the existence of the Terms or the Securities Margin Trading Account Terms and Conditions, or to provide a copy of them prior to execution of the Letter; (c) failing to draw to the Applicants’ attention what were said to be a number of “risks” under the Letter, some being the choice of Singapore law instead of Hong Kong law, the choice of English for arbitration instead of Chinese, and the deprivation of the right to choose the forum of dispute (which I take to mean that the arbitration clause was a unilateral arbitration clause); and (d) prescribing a margin ratio of 140% in the Letter instead of the maximum allowable of 120%.136 I do not explore the validity of the submissions of contravention of the Code, which required some reliance on the report of Mr Chan. The short answer is that, unless RCo was licensed or had to be licensed because it was carrying on a business in a regulated activity, the Code did not apply and require its compliance. That may be self-evident, but in any event was in the evidence of Mr Tisdall. RCo was not licensed or required to be licensed, so there could not be the contraventions of the Code as the basis for the ground.137  It is unnecessary to consider in detail whether, if there had been the contraventions, they would have brought conflict with the public policy of Singapore so as to warrant setting aside the awards. The only evidence of the consequences under Hong Kong law of a breach of the Code was in Mr Chan’s report,
+                   192
+
+
+
+
+Foot Note 192
+
+×
+
+
+
+  Letter dated 15 June 2023 from Lim & Lok Solicitors to the Applicants at pp 5–6 (CMB Volume 3 at pp 587–588).
+
+
+
+ and was that by its Article 1.4(a) a failure by any person to comply with any provision of the Code that applies to it “shall not by itself render it liable to any judicial or other proceedings, but in any proceedings under the SFO before any court the Code shall be admissible in evidence, and if any provision in the Code appears to the court to be relevant to any questions arising in the proceedings it shall be taken into account in determining the question”. So far as the evidence went, a contravention of the Code would not affect the transaction to which compliance with the Code related, or even give rise to an offence. Taking up the preceding discussion in relation to illegality through carrying on a business in a regulated activity, the threshold for conflict with the public policy of Singapore would not have been approached, and certainly would not have been crossed.138 There was no illegality in Hong Kong through contravention of the Code, and if there had been I would nonetheless not have set the awards aside on the ground of conflict with the public policy of Singapore.  Choice of the rules of the Singapore Stock Exchange and of Singapore law139 The submission was that the choices were “improper” and “unfair”: they are the words used by Mr Ang.
+                   193
+
+
+
+
+Foot Note 193
+
+×
+
+
+
+  AWS at paras 78–82.
+
+
+
+ At a Case Management Conference, it was said that the improper choice of Singapore law, at that point the only complaint, meant that there was no agreement for the provision of the Facility, and therefore no arbitration agreement,
+                   194
+
+
+
+
+Foot Note 194
+
+×
+
+
+
+  Minute sheet dated 4 September 2023 at p 3. 
+
+
+
+ but that was not maintained subsequently. At the hearing, the complaint was put forward under the present Ground (c), joined by the improper and unfair choice of the rules of the Singapore Stock Exchange. What was meant by “improper” and “unfair”, and the legal significance of the terms, was obscure, and why either led to sufficient conflict with the public policy of Singapore was not explained.140 The submission of impropriety seemed to have two limbs. 141 In one limb, it was said that because the Letter was signed in Hong Kong, the trading was in stocks on the Hong Kong Stock Exchange, and the Account was kept in Hong Kong dollars until April 2018, the Facility had “nothing to do with” the rules of the Singapore Stock Exchange or Singapore law; rather, it had connections with Hong Kong as the Letter was signed in Hong Kong and the Hong Kong dollar was the currency in the Letter and of the Account.
+                   195
+
+
+
+
+Foot Note 195
+
+×
+
+
+
+  AWS at para 78.
+
+
+
+ There the submission was left.142 However, the Facility was available to ACo for margin trading on the Singapore Stock Exchange or on another exchange – nothing limited it to trading on the Hong Kong Stock Exchange. In the Letter, the Account was made subject to “all relevant rules” of the Singapore Stock Exchange,
+                   196
+
+
+
+
+Foot Note 196
+
+×
+
+
+
+  Margin Facility Letter from RCo to ACo at cll 1.1 and 1.3 (CMB Volume 3 at pp 788 and 790).
+
+
+
+ and there is no reason why such of the rules as were relevant should not be incorporated into the contract under which the Facility was provided; it would be a matter of interpretation whether and how the rules applied in the event of trading on some other exchange. There is also no reason why the parties to the contract could not choose Singapore law as the governing law, or some other law as is often done in commercial contracts even if the law is but remotely connected with the subject matter of the contract. There was nothing improper in these respects even remotely apt to bring conflict with the public policy of Singapore.143 As I understand the other limb, it was said that the Code stated that the client agreement could not remove, exclude or restrict any rights of the client or obligations of the licensed or registered person under Hong Kong law; that the Code thereby denied the operation of the rules of the Singapore Stock Exchange or Singapore law to the extent that they did so; and therefore that the choices of the rules of the Singapore Stock Exchange and of Singapore law were improper.
+                   197
+
+
+
+
+Foot Note 197
+
+×
+
+
+
+  AWS at para 79.
+
+
+
+ There is nothing to this limb of the submission either. To begin with, as earlier explained, the Code did not apply to RCo’s provision of the Facility. If it had applied, the consequence may have been to negate such terms of the contract under which the Facility was provided as in conflict with the Code; but the choice of law would not have been wholesale struck down, and again there was nothing improper even remotely apt to bring conflict with the public policy of Singapore. 144 The submission of unfairness seemed to rest upon there being a number of requirements of the Code which it was said were not found in the rules of the Singapore Stock Exchange: for example, it was said that the Code required a licensed or registered person to give the client a copy of the written agreement and all supporting documents in either English or Chinese according to the language preference of the client, and to draw the client’s attention to relevant risks, but the rules of the Singapore Stock Exchange did not have similar requirements.
+                   198
+
+
+
+
+Foot Note 198
+
+×
+
+
+
+  AWS at paras 80–81.
+
+
+
+ It was said that RCo had not done as the Code required.
+                   199
+
+
+
+
+Foot Note 199
+
+×
+
+
+
+  AWS at para 82.
+
+
+
+ As I understand the submission, it was that choosing to subject the margin financing to the Singapore Stock Exchange rules (and Singapore law was referred to as one of the risks) was therefore not fair to the Applicants. 145 This again assumed that the Code applied to RCo’s provision of the Facility, but it did not. The submission therefore falls away. And if the Code had applied, there would not be unfairness, because it would impose the relevant requirements; the Hong Kong legislative requirements would have applied on top of the contractual importation of the rules of the Singapore Stock Exchange. The submission is flawed, and there is no basis at all for conflict with Singaporean public policy.Conclusion146  The application was brought out of time, and in any event, none of the grounds for setting the awards aside has been made out. The application is dismissed.147 It is difficult to see any order as to costs other than that the Applicants pay RCo’s costs of the application, and that also is ordered; however, since the parties have not been heard on costs, with liberty to apply within 10 days for any other or additional order as to costs. The liberty may be exercised by letter to the Registry. If the parties are unable to agree on the amount of costs within 30 days, they should so inform the Registry, and directions will be given for determination of the amount of costs.Roger GilesInternational JudgeAng Cheng Ann Alfonso and James Ch’ng Chin Leong (A.Ang, Seah & Hoe) for the applicants;Chong Wan Yee Monica, Leau Jun Li, Wong Chun Mun and Foo Hsien Weng (WongPartnership LLP) for the respondent.
