@@ -1,0 +1,1250 @@
+
+In the GENERAL DIVISION OF THE high court of the republic of singapore[2022] SGHC 128Suit No 258 of 2021BetweenAsia Petworld Pte Ltd… PlaintiffAnd(1)Sivabalan s/o Ramasami(2)Global Pet Company Pte Ltd… Defendantsjudgment[Intellectual Property — Law of confidence — Breach of confidence — Information possessing quality of confidence][Tort — Conspiracy to injure — Pre-incorporation acts]This judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in LawNet and/or the Singapore Law Reports.Asia Petworld Pte Ltd vSivabalan s/o Ramasami and another[2022] SGHC 128General Division of the High Court — Suit No 258 of 2021 Philip Jeyaretnam J1–4 March, 23 May 202226 May 2022 Judgment reserved.Philip Jeyaretnam J:Introduction1 It is difficult for an employer when a good employee leaves to set up his own business, especially if he plans to do so with an erstwhile customer of the company. In the absence of restrictive covenants negotiated and agreed by the employee for the legitimate protection of the employer, there is nothing to stop the employee from doing so. The employer must simply adapt and find a replacement. The question may arise, however, of whether the employee has taken confidential information of the employer for use in the new business. In the present case, the employee was indeed very good at his job, having built up experience with his employer in procurement for drop shipping of veterinary and other pet products. The principal issue in this case is whether he had simply honed a skill and legitimately acquired knowledge that he was entitled to carry with him, or instead was wrongfully exploiting confidential information of his previous employer.  Facts The parties2 The plaintiff is Asia Petworld Pte Ltd, a Singapore-based drop shipper of pet products. The plaintiff procures products from authorised dealers, generally for reduced prices, and then sells those products to online retailers. When a customer of the online retailer places an order on its website, the order is relayed to the plaintiff who fulfils the order by sending the product directly to the customer.
+                   1
+
+
+
+
+Foot Note 1
+
+×
+
+
+
+  Wiradharma’s AEIC at para 7; Plaintiff’s Opening Statement at para 1. 
+
+
+
+ Mr Sebastian Wiradharma (“Mr Wiradharma”) is the plaintiff’s CEO and director, while his wife, Ms Jeanette Marhalim (“Ms Marhalim”) is the plaintiff’s sole shareholder.
+                   2
+
+
+
+
+Foot Note 2
+
+×
+
+
+
+  Wiradharma’s AEIC at para 1; Marhalim’s AEIC at para 4.
+
+
+
+3 In addition to Mr Wiradharma and Ms Marhalim, two employees of the plaintiff gave evidence, namely Ms Naik Jagruti Jigar (“Ms Jagruti”) and Mr Zahid Alware (“Mr Alware”).4 The first defendant, Mr Sivabalan s/o Ramasami, is a former employee of the plaintiff. He was employed by the plaintiff, from around January 2015 to 28 February 2021, as a warehouse manager.
+                   3
+
+
+
+
+Foot Note 3
+
+×
+
+
+
+  Plaintiff’s Opening Statement at para 2; First defendant’s AEIC at paras 8 and 10(b).
+
+
+
+5 The second defendant, Global Pet Company Pte Ltd, is a Singapore company which provides wholesale supplies to Sierra Nevada Pet Company (“SNPC”), an online retailer.
+                   4
+
+
+
+
+Foot Note 4
+
+×
+
+
+
+  Foley’s AEIC at paras 17 and 22.
+
+
+
+ The second defendant was set up by the first defendant and Mr John Robert Foley (“Mr Foley”), who is a director and shareholder of SNPC.
+                   5
+
+
+
+
+Foot Note 5
+
+×
+
+
+
+  3 March 2022 Transcript p 40 lines 2–4.
+
+
+
+ The first defendant and Mr Foley are each 50% shareholders and directors of the second defendant. The second defendant was incorporated on 16 February 2021.
+                   6
+
+
+
+
+Foot Note 6
+
+×
+
+
+
+  Wiradharma’s AEIC at p 13.
+
+
+
+Background to the dispute6 In August 2012, the first defendant was first employed by Singpet Pte Ltd (“Singpet”), which is another company run by Mr Wiradharma. The first defendant signed a contract of employment with Singpet dated 7 August 2012 (the “Singpet Contract”).
+                   7
+
+
+
+
+Foot Note 7
+
+×
+
+
+
+  Plaintiff’s written submissions dated 30 April 2021 (“PWS”) at para 3. 
+
+
+
+ On 3 April 2014, the plaintiff was incorporated, and the first defendant began working for the plaintiff some time thereafter. However, the first defendant did not sign a new written contract of employment with the plaintiff. There is therefore some disagreement concerning the precise start date and terms of his employment with the plaintiff. However, it is agreed that the plaintiff started paying the first defendant’s salary and making payments to the first defendant’s CPF account in January 2015. It is also agreed that from that point onwards, the first defendant was an employee of the plaintiff.
+                   8
+
+
+
+
+Foot Note 8
+
+×
+
+
+
+  Defendants’ written submissions dated 8 April 2022 (“DWS”) at para 237.
+
+
+
+7 It is worth setting out the plaintiff’s business model in detail. The manufacturers of the pet products which the plaintiff deals with will only sell them to authorised dealers. Thus, the plaintiff acquires pet products from these authorised dealers. There are different authorised dealers in different countries, and the different authorised dealers sell the pet products at different prices. Online retailers prefer to acquire pet products from authorised dealers with lower prices but are not always able to do so. This allows the plaintiff to interpose itself between authorised dealer and online retailer.
+                   9
+
+
+
+
+Foot Note 9
+
+×
+
+
+
+  Wiradharma’s AEIC at paras 5–15.
+
+
+
+ 8 As an illustration, let us assume that the authorised dealer in Country A sells pet products at a lower price than the authorised dealer in Country B. An online retailer in Country B would therefore prefer to acquire its products from the authorised dealer in Country A. However, due to the regulations in Country B, it is not able to import a large quantity of products from Country A. The online retailer wants to purchase a large quantity, because the price of the products decreases as the quantity increases. In order to do so, the online retailer from Country B approaches the plaintiff, who, being in Singapore, is able to receive the products wholesale from Country A. The plaintiff receives the products wholesale from the authorised dealer in Country A, packs them into smaller individual packages, and sends them directly to the retail customers who have placed orders with the online retailer in Country B.9 In this business model, the retail customer benefits because they are able to acquire products at lower prices. The online retailer benefits because they are able to sell the products at lower prices than their competition, who purchase their products from authorised dealers in their own country. The plaintiff benefits because they charge the online retailer a fulfilment fee on each order.10 The plaintiff refers to the cost at which it acquires products from authorised dealers as the “true cost”. In order to account for various factors such as cost of freight and exchange rate fluctuations, the plaintiff applies a multiplier to true cost to obtain a figure which it calls “landed cost”. Finally, the fee that is charged to the online retailer is the landed cost plus a further “fulfilment fee”. The fulfilment fee varies based on the volume of orders that the online retailer places with the plaintiff. The larger the volume, the lower the unit fulfilment fee.11 The suppliers of the plaintiff are the authorised dealers. The customers of the plaintiff are the online retailers, who use the plaintiff’s services to send the pet products directly from the plaintiff to the individuals who ultimately receive the pet products. SNPC was one of the online retailers in Australia that made use of the plaintiff’s services. Another online retailer that was responsible for a significant part of the plaintiff’s business was PetBucket.12 The first defendant was the warehouse manager for the plaintiff. He was responsible for overseeing the process whereby products were received wholesale from an authorised dealer in a foreign country, packed into smaller packages, and then sent to retail customers in a different foreign country to fulfil orders which had been conveyed to the plaintiff by online retailers.13 On 1 February 2021, the first defendant e-mailed his letter of resignation to Ms Marhalim, stating that his last day of work would be 28 February 2021.
+                   10
+
+
+
+
+Foot Note 10
+
+×
+
+
+
+  Wiradharma’s AEIC at para 19.7.
+
+
+
+ His letter of resignation was addressed to the plaintiff, and served as notice of his “formal resignation from [his] role as warehouse manager at [the plaintiff]”.
+                   11
+
+
+
+
+Foot Note 11
+
+×
+
+
+
+  Agreed Bundle of Documents (“AB”) at p 173. 
+
+
+
+14 On 1 March 2021, the first defendant began working for the second defendant as a warehouse manager. The second defendant now performs for SNPC the role that the plaintiff used to, namely receiving products wholesale from a supplier and servicing individual orders that SNPC receives from retail customers.
+                   12
+
+
+
+
+Foot Note 12
+
+×
+
+
+
+  Foley’s AEIC at para 17.
+
+
+
+15 SNPC therefore stopped using the plaintiff’s services from April 2021 onwards. PetBucket continues to use the plaintiff’s services from time to time, but the volume of orders that the plaintiff receives from them has decreased significantly. The significant decreases in volume occurred in July and August 2021.
+                   13
+
+
+
+
+Foot Note 13
+
+×
+
+
+
+  Wiradharma’s AEIC at paras 37–39.
+
+
+
+ Procedural history16 On 15 March 2021, the plaintiff applied to the High Court for an interim injunction against the defendants. The interim injunction sought was to restrain the defendants until trial or further order from:
+                   14
+
+
+
+
+Foot Note 14
+
+×
+
+
+
+  Summons for Injunction in HC/SUM 1200/2021, filed 15 March 2021.
+
+
+
+ (a) disclosing, using or misusing certain information which it deemed confidential that had been acquired in the course of the first defendant’s employment;(b) soliciting the plaintiff’s customers; and(c) soliciting the plaintiff’s employees. 17 The interim injunction was granted on 16 June 2021, but only in respect of the prayers concerning solicitation of the plaintiff’s customers and employees.
+                   15
+
+
+
+
+Foot Note 15
+
+×
+
+
+
+  Order of Court in HC/SUM 1200/2021, dated 16 June 2021.
+
+
+
+18 In oral submissions, the plaintiff confirmed that it was no longer seeking injunctive relief at trial.
+                   16
+
+
+
+
+Foot Note 16
+
+×
+
+
+
+  4 March 2022 Transcript p 67 lines 4–16.
+
+
+
+ Thus, the interim injunction ceases to have effect from date of judgment. The question of whether the interim injunction should not have been sought, and thus whether an inquiry as to damages should be ordered, remains. The parties’ casesPlaintiff’s case19 The plaintiff is seeking damages and an account of profits from the defendants for breach of confidence and conspiracy.20 The plaintiff argues that the first defendant’s employment with it is governed by the terms of the Singpet Contract. While the plaintiff is not a party to the Singpet Contract, the Singpet Contract was transferred to the plaintiff pursuant to s 18A(2) of the Employment Act (Cap 91, 2009 Rev Ed) (“Employment Act”).
+                   17
+
+
+
+
+Foot Note 17
+
+×
+
+
+
+  Plaintiff’s Opening Statement at para 3.
+
+
+
+ The first defendant is therefore obliged to comply with clause 9 of the Singpet Contract (“Clause 9”) which reads:
+                   18
+
+
+
+
+Foot Note 18
+
+×
+
+
+
+  First defendant’s AEIC at p 39–40.
+
+
+
+ 9 CONFIDENTIALITY9.1 You shall not disclose to any third party any confidential information obtained during your course of employment unless expressly authorised by the Company. 9.2 Confidential information for the purposes of this contract includes and is not limited to trade secrets, business plans, strategies, financial information and any other information that will affect the Company’s competitive position. 9.3 Your obligations to maintain confidentiality and secrecy shall apply after your employment until such time that the information is no longer confidential or has been made public by the Company. 9.4 You shall not without prior written consent of the Company destroy, make copies, duplicate or reproduce in any form the Company’s confidential information.Alternatively, the first defendant’s employment with the plaintiff was subject to an implied duty of fidelity, trust and confidence to the plaintiff, which required the first defendant not to disclose or misuse the plaintiff’s confidential information.
+                   19
+
+
+
+
+Foot Note 19
+
+×
+
+
+
+  SOC at para 15.
+
+
+
+ 21 In its Statement of Claim (“SOC”), the plaintiff alleged that the following information, which the first defendant had access to, was confidential:
+                   20
+
+
+
+
+Foot Note 20
+
+×
+
+
+
+  SOC at para 11.
+
+
+
+ (a) the plaintiff’s Customer List and Database, which contained customer information such as contract details, products purchased, sales information, costs of products, markups and margins, and other important information found in its contracts with customers (the “CLD”);(b) the plaintiff’s management dashboard, which displayed its performance and top ten customers, vendors and products;(c) an international online dropship programme based on a declining fulfilment rate over increased volume purchase; (d) pricing lists containing vendor’s costs information, landed costs, and the secret formula used to calculate landed costs; and(e) inventory, which showed the plaintiff’s bestselling products.During oral submissions, the plaintiff narrowed the allegedly confidential information to four categories, which I will refer to collectively as the “Information”:
+                   21
+
+
+
+
+Foot Note 21
+
+×
+
+
+
+  4 March 2022 Transcript p 3 lines 4–9.
+
+
+
+ (a) supplier information; (b) true costs; (c) cost factoring; and(d) fulfilment rate fees.22 According to the plaintiff, the Information is confidential and was misused by the defendants. Shortly before leaving the plaintiff’s employment, the first defendant had told Ms Jagruti that he would be leaving the plaintiff and that the plaintiff’s main customers would be giving their business to him.
+                   22
+
+
+
+
+Foot Note 22
+
+×
+
+
+
+  PWS at para 32.
+
+
+
+ He asked Ms Jagruti to join him. The plaintiff contends that first defendant would only have done this with such confidence if he had used the Information to persuade the plaintiff’s customers to transfer their business to his new company, the second defendant. Also, there was a general uptrend in SNPC’s business with the plaintiff until it disappeared completely when the second defendant was formed. The only explanation for this sudden change is that it was never possible for SNPC to create its own supplier until it finally was in possession of the Information through the first defendant.
+                   23
+
+
+
+
+Foot Note 23
+
+×
+
+
+
+  4 March 2022 Transcript p 23 line 21 to p 24 line 3.
+
+
+
+ The plaintiff relies on I-Admin (Singapore) Pte Ltd v Hong Ying Ting and others [2020] 1 SLR 1130 (“I-Admin”) at [61] for the proposition that once it establishes that the Information bears the quality of confidence, and that the Information was imparted in circumstances importing an obligation of confidence, the burden is on the defendants to prove that they did not misuse the Information.
+                   24
+
+
+
+
+Foot Note 24
+
+×
+
+
+
+  PWS at paras 23–24.
+
+
+
+ The defendants have not discharged this burden.23 The plaintiff contends that the defendants also conspired to injure it. In furtherance of this conspiracy, the first defendant approached PetBucket in or around the first week of February 2021 to convince PetBucket to move its business to the second defendant. Around the same time, the first defendant also approached various employees, including Ms Jagruti, to convince them to join the second defendant.
+                   25
+
+
+
+
+Foot Note 25
+
+×
+
+
+
+  SOC at paras 24 and 26.
+
+
+
+24 The defendants’ misuse of the Information and conspiracy caused the plaintiff to suffer a loss of profits, which is estimated to be in the region of $150,000 a month since February 2021.
+                   26
+
+
+
+
+Foot Note 26
+
+×
+
+
+
+  Plaintiff’s opening statement at para 6.
+
+
+
+ Thus, the plaintiff seeks damages from the defendants.Defendants’ case25 The defendants deny that the first defendant’s employment with the plaintiff was subject to the terms of the Singpet Contract. Section 18A of the Employment Act requires that the employee is notified of his transfer of employment, and that was never done in this case. The first defendant’s employment with the plaintiff was therefore a “loose work arrangement” that was not subject to any written terms.
+                   27
+
+
+
+
+Foot Note 27
+
+×
+
+
+
+  DWS at para 23.
+
+
+
+ 26 That said, the defendants accept that the first defendant was under a duty of confidence to the plaintiff. This duty was implied in law as part of the duty of good faith and fidelity which is implied in any employment contract.
+                   28
+
+
+
+
+Foot Note 28
+
+×
+
+
+
+  DWS at para 76.
+
+
+
+ 27 However, there has been no breach of that duty by the defendants. The Information does not possess the quality of confidence, and thus cannot form the basis for a claim in breach of confidence. The plaintiff has also failed to provide any evidence that the Information was misused by the defendants.
+                   29
+
+
+
+
+Foot Note 29
+
+×
+
+
+
+  DWS at para 77.
+
+
+
+ 28 There was also no conspiracy between the defendants, because the second defendant was not even incorporated at the time that the alleged acts of conspiracy were carried out by the first defendant.
+                   30
+
+
+
+
+Foot Note 30
+
+×
+
+
+
+  DWS at para 80.
+
+
+
+29 In any case, the second defendant was not set up to compete with the plaintiff. It has a different business model, and its primary business is serving one customer, namely SNPC. Further, SNPC has been in the business of pet products for a long time, and the second defendant was set up using the resources and connections which SNPC had built up in that time. Thus, there was no need for the defendants to misuse the Information, and no incentive for them to conspire to injure the plaintiff.
+                   31
+
+
+
+
+Foot Note 31
+
+×
+
+
+
+  DWS at para 78.
+
+
+
+30 The real reason that the second defendant was set up is that SNPC had long been dissatisfied with the plaintiff’s services.
+                   32
+
+
+
+
+Foot Note 32
+
+×
+
+
+
+  Foley’s AEIC at para 26.
+
+
+
+ SNPC therefore started looking for alternatives in 2016 or 2017, and Mr Foley and his wife discussed the possibility of hiring the first defendant should he ever leave the plaintiff. When the first defendant informed Mr Foley that he was leaving the plaintiff in January 2021, they discussed the possibility of forming the second defendant to handle SNPC’s orders.
+                   33
+
+
+
+
+Foot Note 33
+
+×
+
+
+
+  Foley’s AEIC at paras 43–47, 3 March 2022 Transcript at p 98 lines 1–6.
+
+
+
+31 Finally, the defendants argue that the plaintiff has not proven that they caused it any loss. The plaintiff’s pleaded case is that its loss arises from the loss of PetBucket and SNPC’s business. However, the defendants contend that both companies stopped business with the plaintiff for commercial reasons which had nothing to do with either of the defendants. SNPC decided to leave the plaintiff because of the issues that it had with the service provided by the plaintiff. The same was true of PetBucket. In any case, PetBucket could not have left the plaintiff as a result of a conversation with the first defendant in February 2021, because the evidence shows that they continued doing business with the plaintiff until August 2021. PetBucket left the plaintiff because, like SNPC, they had found a better alternative (which, in PetBucket’s case, was not even the second defendant).
+                   34
+
+
+
+
+Foot Note 34
+
+×
+
+
+
+  DWS at paras 81–82.
+
+
+
+Court’s invitation for further submissions32 The oral hearing took place on 4 March 2022 during which the plaintiff made submissions concerning the shifting of the burden of proof.
+                   35
+
+
+
+
+Foot Note 35
+
+×
+
+
+
+  4 March 2022 Transcript at pp 26–28.
+
+
+
+ On 4 April 2022, the Court of Appeal in Lim Oon Kuin and others v Rajah & Tann Singapore LLP and another appeal [2022] SGCA 29 (“Lim Oon Kuin”), at [40] to [42], clarified that the modified approach outlined in I-Admin (and described below at [37]) was limited to cases of unauthorised acquisition.33 In light of Lim Oon Kuin, I invited counsel to make further submissions on this point. I also invited submissions on an English case, namely E Worsley & Co Ltd v Cooper [1939] 1 All ER 290 (“E Worsley”), in particular pages 307 to 309, concerning an ex-employee’s use of his knowledge of suppliers obtained in his previous employ.34 Both counsel duly filed submissions on these two cases.Issues to be determined35 I will address the issues in the following order: (a) What was the nature of the first defendant’s duty of confidentiality to the plaintiff?(b) Did the Information possess the necessary quality of confidence?(c) If so, did the first defendant and/or the second defendant misuse the Information?(d) Did the defendants conspire to injure the plaintiff?(e) Did the first defendant breach his duty of good faith and fidelity to the plaintiff during his employment?(f) What loss did the defendants cause to the plaintiff by their breaches?(g) Should there be an inquiry as to damages in respect of the interim injunction?Issue 1: What was the nature of the first defendant’s duty of confidentiality to the plaintiff?36 The interplay between an express contractual duty of confidentiality and obligations of confidentiality in equity has been explained by the Court of Appeal in Adinop Co Ltd v Rovithai Ltd [2019] 2 SLR 808, at [37] to [41]. Briefly, it can be summarised as follows:(a) An express contractual confidentiality obligation is to be construed in accordance with the usual principles of contractual interpretation to determine the extent of confidentiality obligations.(b) The express contractual obligation may be more extensive than an equitable duty, for example where certain information is agreed to be treated as confidential even though it would not be so treated if considered only under equitable principles. (c) In general, where the express contractual obligation is more limited than that which may arise under equity, the court will not impose those additional or more extensive obligations in equity. Ordinarily, the parties will be viewed as having defined or limited the confidentiality obligations between them by agreement. However, this is not always the case, and there may be occasions where equity may still step in to impose a duty of confidence to give force to the demands of conscience.(d) Where there is no express term in the contract (or no contract at all), equity may impose a duty of confidence whenever a person receives information in circumstances importing an obligation of confidentiality. Three basic elements must be met:(i) the information must possess the necessary quality of confidence;(ii) the information must have been imparted or received in circumstances such as to give rise to an obligation of confidentiality; and (iii) there must have been unauthorised use and detriment to the party who disclosed the information to the recipient who misused it.37 A modified approach is now adopted in respect of the third element, following I-Admin at [61] and Lim Oon Kuin at [40] to [42], namely that where confidential information has been accessed or acquired without a plaintiff’s knowledge or consent, an action for breach of confidence is presumed and the legal burden is then on the defendant to prove that its conscience was unaffected, for example because it came across the information by accident, was unaware of its confidential nature or believed that there was a strong public interest in disclosing it. It is only where the acquisition of confidential information is unauthorised that the shift in the burden of proof is triggered: Lim Oon Kuin at [41].38 The relationship of employer and employee, which entails good faith, loyalty and fidelity, establishes the circumstances required by the second element, at [36(d)(ii)] above. The first defendant, through his counsel (although not during cross examination), rightly conceded that even if there were no express duty of confidentiality, he would owe the plaintiff a duty of confidentiality pursuant to his duty of good faith and fidelity as the plaintiff’s employee.
+                   36
+
+
+
+
+Foot Note 36
+
+×
+
+
+
+  DWS at para 76.
+
+
+
+ 39 As it happens, on the issue of confidentiality, the Singpet Contract defines confidential information in an inclusive fashion and in general terms that adds little, if anything, to the implied duty of confidentiality. None of the identified items of Information were specified in the Singpet Contract, but they would potentially be covered by the sweep up provision of “any other information that will affect the Company’s competitive position” (see [20] above). In order to come within the sweep up provision, such information would have to possess the necessary quality of confidence in much the same way as required for the imposition of a duty of confidence in equity.40 Clause 9.3 of the Singpet Contract also provides that the obligation to maintain confidentiality applies after his employment ended, but this was only “until such time that the information is no longer confidential”. 41 Thus, it would not make a difference to my analysis if the first defendant’s employment by the plaintiff was on the same terms and conditions of service as his employment by Singpet, by virtue of a transfer of Singpet’s business to the plaintiff within the meaning of Employment Act s 18A. For completeness, however, given the absence of documentation of the transfer of the business and the transfer of the first defendant’s employment, the plaintiff has failed to discharge its burden of proof that it employed the first defendant on the same terms and conditions as those in the Singpet Contract. I therefore proceed on the basis that the first defendant was subject to an equitable duty of confidence derived from his implied duty of good faith and fidelity, and discuss whether the plaintiff has established the elements set out at [36(d)(i)] and [36(d)(iii)] above.Issue 2: Did the Information possess the necessary quality of confidence?42 I start with two observations about information that possesses the quality of confidence. First, not all information that an employee is obliged to keep confidential during his employment is information that is protectable as confidential information after he ceases to be employed. The Court of Appeal in Tang Siew Choy and others v Certact Pte Ltd [1993] 1 SLR(R) 835 at [16] cited the following remarks from Faccenda Chicken Ltd v Fowler [1986] 1 All ER 617:… The implied term which imposes an obligation on the employee as to his conduct after the determination of the employment is more restricted in its scope than that which imposes a general duty of good faith. It is clear that the obligation not to use or disclose information may cover … information which is of a sufficiently high degree of confidentiality as to amount to a trade secret.…The obligation does not extend, however, to cover all information which is given to or acquired by the employee while in his employment, and in particular may not cover information which is only ‘confidential’ in the sense that an unauthorized disclosure of such information to a third party while the employment subsisted would be a clear breach of the duty of good faith.…The same distinction is to be found in E Worsley & Co Ltd v Cooper [1939] 1 All ER 290, where it was held that the defendant was entitled, after he had ceased to be employed, to make use of his knowledge of the source of the paper supplied to his previous employer. In our view it is quite plain that this knowledge was nevertheless ‘confidential’ in the sense that it would have been a breach of the duty of good faith for the employee, while the employment subsisted, to have used it for his own purposes or to have disclosed it to a competitor of his employer.43 Secondly, the knowledge and experience that an employee acquires during his employment is not protectable confidential information. In Asia Business Forum Pte Ltd v Long Ai Sin and another [2003] 4 SLR(R) 658 (“Asia Business Forum”) at [15] and [17], the court agreed with Farwell LJ’s remarks in Sir W C Leng & Co Limited v Andrews [1909] 1 Ch 763 at 773: [An employer cannot] prevent his employee from using the skill and knowledge in his trade or profession which he has learnt in the course of his employment by means of directions or instructions from the employer. … 44 With these observations in mind, I will assess whether the Information possesses the necessary quality of confidence.Supplier information45 The first contention of the plaintiff is that its supplier information possesses the necessary quality of confidence. By supplier information, the plaintiff simply means “who the suppliers are”.
+                   37
+
+
+
+
+Foot Note 37
+
+×
+
+
+
+  4 March 2022 Transcript, p 3 lines 4–9.
+
+
+
+ Mr Wiradharma testified that the “supply chain” was confidential.
+                   38
+
+
+
+
+Foot Note 38
+
+×
+
+
+
+  1 March 2022 Transcript, p 69 line 31.
+
+
+
+ He then said that the first defendant would know how to buy Nexguard Spectra (a pet product) at the best price.
+                   39
+
+
+
+
+Foot Note 39
+
+×
+
+
+
+  1 March 2022 Transcript, p 71 lines 20–22.
+
+
+
+ I therefore gather that the plaintiff’s case is that the confidential information is the information of where one can find the lowest price for a product.46 The difficulty with the plaintiff’s position is that this supply chain information was simply information acquired by the first defendant over the years in the course of working for the plaintiff. It is not the plaintiff’s case that it keeps a list of customers which the first defendant took with him when he left. While the plaintiff referred to the CLD in its SOC, no evidence was adduced to suggest that the first defendant took such a list from the plaintiff, nor was any such list produced in evidence. Thus, the plaintiff’s case on this point rests solely on information in the first defendant’s head which he acquired through the course of his employment. This is not information that possesses the quality of confidence.47 In E Worsley (which is cited in the passage at [42] above), the defendants were former employees of the plaintiff company, a firm of paper merchants. One of the defendants had prepared a price list which contained the names of various types of papers while he worked for the plaintiff. While the names of the mills were kept secret and were not included in this price list, the defendant knew which mill each type of paper was from. The court decided that the information concerning the mills from which the papers sold by the plaintiff came and the price list itself were not confidential information or trade secrets. Two of the court’s reasons at 307 and 308 are especially relevant: The information as to the source from which the various papers came was information which was in Mr Cooper's head, and which formed part of his knowledge acquired in the course of the business.…… [the] information [was] of that kind, which was not information which the paper merchant would desire to be spread about to his competitors, but it was not, I think, in the nature of a trade secret, in the way in which that phrase is used in the case. It is quite clear that the defendants were entitled to stock the same papers as the plaintiffs did, and it cannot be any breach of duty, I think, if an ex-employee, knowing the source of a particular paper, goes to that particular mill and says: “I want to buy some.”48 The plaintiff submits that its business model is unique, and that it is unique because this supply chain information is so confidential. The plaintiff relies on this argument to distinguish E Worsley from the present case.
+                   40
+
+
+
+
+Foot Note 40
+
+×
+
+
+
+  Plaintiff’s further written submissions dated 23 May 2022 at para 18.
+
+
+
+  It argues that the defendants’ inability to point to a single competitor that provided a similar service to the plaintiff shows that the plaintiff’s supply chain information constituted a trade secret.
+                   41
+
+
+
+
+Foot Note 41
+
+×
+
+
+
+  PWS at para 12.
+
+
+
+ I cannot accept this argument. There could be a variety of reasons why a business has no direct competitors, and only one of them is that the business possesses confidential information that is not available to anybody else. Moreover, drop shipping that takes advantage of differential pricing in different geographies is not unusual. That the first defendant did not name any specific competitor does not mean that there are no other companies using this strategy in relation to the supply of pet products. Based on my analysis above, the supply chain information does not possess the necessary quality of confidence such that it was protectable after the first defendant ceased to be employed by the plaintiff. True costs49 The true cost of a pet product is simply the price that the supplier charges the plaintiff. The plaintiff confirmed that the suppliers’ prices can be found with the suppliers themselves, as one would expect.
+                   42
+
+
+
+
+Foot Note 42
+
+×
+
+
+
+  4 March 2022 Transcript p 4 lines 1–5.
+
+
+
+ As I have concluded above at [48], neither the identity of the plaintiff’s suppliers nor the information as to which supplier provided the lowest price is confidential information. Thus, obtaining the true cost from a supplier is a simple matter of approaching that supplier. This cannot be confidential information protectable by the plaintiff.Cost factoring50 According to the plaintiff, cost factoring refers to the method it uses to calculate landed costs.
+                   43
+
+
+
+
+Foot Note 43
+
+×
+
+
+
+  4 March 2022 Transcript, p 3 lines 19–20.
+
+
+
+ The plaintiff claims that it has a formula which it uses to calculate landed cost. It was described by Mr Wiradharma as “top secret”.
+                   44
+
+
+
+
+Foot Note 44
+
+×
+
+
+
+  2 March 2022 Transcript p 15 lines 28–29.
+
+
+
+ According to the first defendant, there is no such formula.
+                   45
+
+
+
+
+Foot Note 45
+
+×
+
+
+
+  3 March 2022 Transcript p 5 lines 3–4.
+
+
+
+51 The plaintiff submits that this formula is confidential because the plaintiff operates in an extremely price-sensitive industry, and the knowledge of the formula could be used to undercut the plaintiff.
+                   46
+
+
+
+
+Foot Note 46
+
+×
+
+
+
+  4 March 2022 Transcript p 15 lines 16–19.
+
+
+
+ It is therefore clear that what the plaintiff refers to as confidential is not the formula itself, but the factor or percentage by which it multiplies true cost to obtain landed cost. Again, this information is not confidential. The knowledge acquired by the first defendant about how to account for factors such as foreign exchange fluctuations, price variations between suppliers and cost of freight in arriving at landed cost would be knowledge and experience acquired by him in the course of his work. As per Asia Business Forum at [43] above, this is not protectable confidential information.Fulfilment fee rate52 The fulfilment fee is the percentage of the landed cost which is charged to the plaintiff’s customers per order. The plaintiff makes use of a system whereby the percentage decreases as the volume of orders increase.
+                   47
+
+
+
+
+Foot Note 47
+
+×
+
+
+
+  Wiradharma’s AEIC at para 14.
+
+
+
+ This is a widely used and commonly understood system. 53 The fulfilment fee rate is no different from the general pricing rates of any business selling into a market. That its unit rate reduces the higher the volume of sales is neither unusual nor special. When a salesman leaves a company, he may well be able to remember how that company priced its products. While it would be wrong for him to take with him unpublished price lists, he is not prevented from using his knowledge and recollection of company’s prices in his new business. Thus, the fulfilment fee rate is also not information possessing the requisite quality of confidence. It would be a different matter if the plaintiff alleged that the first defendant printed out documents which set out its fulfilment fee schedule and took them with him when his employment ended. However, there is no evidence that this happened, nor was it pleaded.Conclusion54 Thus, the plaintiff has failed to point to any information that the first defendant took or had with him that bears the necessary quality of confidence. Returning to my first observation at [42] above, it is evident that the Information is confidential only in the sense that it would be a breach of the first defendant’s duty of good faith to reveal it to a competitor while he was still an employee and such information was current and of value. The Information is not confidential in that it constitutes trade secrets which are protectable after he ceased to be an employee. Also, because there is no evidence of documents or information being taken from the plaintiff by the first defendant at the end of his employment, the Information is simply knowledge and experience in his head that he legitimately acquired while working for the plaintiff. As per my observation at [43], this is not information possessing the requisite quality of confidence.Issue 3: If so, did the first defendant and/or the second defendant misuse the Information?55 Given my conclusion on the second issue, this issue, which is the third element in an action for breach of confidence, is moot. However, I will deal with it briefly.Burden of proof56 The first question is, who bears the burden of proof? This depends on whether the first defendant’s acquisition of confidential information was authorised: see [37] above. The plaintiff points to instances of alleged misuse of confidential information by the first defendant to argue that this case is a “taker” case as per Lim Oon Kuin at [41].
+                   48
+
+
+
+
+Foot Note 48
+
+×
+
+
+
+  Plaintiff’s further written submissions dated 23 May 2022 at para 11.
+
+
+
+ This is plainly incorrect, because a “taker” case is one which involves unauthorised acquisition, not unauthorised use. A departing employee who accesses confidential information and memorises it or downloads it when he is not authorised to do so is a “taker” and therefore will bear the burden of showing that his conscience is nonetheless unaffected. However, an employee who has through his work in the company over the years acquired knowledge of the procurement or sales market has not done so in an unauthorised manner. This is evident from [41] of Lim Oon Kuin, where the Court of Appeal endorsed the view that a lawyer who had acquired confidential information in the course of acting for a client was not a “taker”. Thus, in the present case, the legal burden of proof remains on the plaintiff to establish misuse by the first defendant. Review of the evidenceApproaches to PetBucket and SNPC57 The plaintiff’s plea is that the first defendant “disclosed and/or provided copies [of the Information] to the [second] defendant or misused the same for his own personal benefit”
+                   49
+
+
+
+
+Foot Note 49
+
+×
+
+
+
+  SOC at para 18.
+
+
+
+ and “on the basis of [the Information] made approaches to … SNPC and PB”.
+                   50
+
+
+
+
+Foot Note 50
+
+×
+
+
+
+  SOC at para 20.
+
+
+
+58 The first alleged instance of misuse of confidential information by the first defendant is unauthorised disclosure of the Information to customers while he remained employed by the plaintiff. Ultimately, the plaintiff points to the fact that the first defendant was confident about the success of his intended venture when speaking to other employees, and invites me to infer that he could only have been so confident if he intended to make use of the Information on behalf of the second defendant.
+                   51
+
+
+
+
+Foot Note 51
+
+×
+
+
+
+  4 March 2022 Transcript, p 33 lines 18–32.
+
+
+
+ The plaintiff also contends that because PetBucket eventually moved its business elsewhere, it must have learned from the first defendant how to take advantage of differential pricing through drop shipping.
+                   52
+
+
+
+
+Foot Note 52
+
+×
+
+
+
+  4 March 2022 Transcript, p 30 lines 3–9.
+
+
+
+ 59 I am unable to draw either inference. First, the evidence shows that the first defendant had found Mr Wiradharma a difficult boss and had wanted to leave the plaintiff’s employ for some time. I accept that in 2013 and again in 2015, following his feeling insulted by Mr Wiradharma, he had tendered his resignation, only for Mr Wiradharma on both occasions to apologise and, with the help of Ms Marhalim, persuade him not to leave.
+                   53
+
+
+
+
+Foot Note 53
+
+×
+
+
+
+  First defendant’s AEIC at paras 62–64; 2 March 2022 Transcript, p 100.
+
+
+
+ I find that Mr Wiradharma did so because the first defendant was generally a diligent and conscientious worker, and that the first defendant continued working for the plaintiff because he felt it was difficult to find another job, given his job experience and level of education.
+                   54
+
+
+
+
+Foot Note 54
+
+×
+
+
+
+  First defendant’s AEIC at para 66.
+
+
+
+ I also accept that with the COVID-19 pandemic, things became harder for the first defendant, with an increase in orders and a lack of packers to help with the packing, and that Mr Wiradharma did not help, causing the first defendant to complain to Ms Marhalim.
+                   55
+
+
+
+
+Foot Note 55
+
+×
+
+
+
+  First defendant’s AEIC at paras 67–69.
+
+
+
+ I accept that the first defendant decided to resign on 1 February 2021 and, having decided to do so, informed Mr Foley of his intention on around 28 January 2021. It was then that Mr Foley suggested that he could employ the first defendant in relation to procurement for SNPC.
+                   56
+
+
+
+
+Foot Note 56
+
+×
+
+
+
+  First defendant’s AEIC at paras 71–72.
+
+
+
+ I accept Mr Foley’s evidence that he had not been very happy with the plaintiff’s service for some time.
+                   57
+
+
+
+
+Foot Note 57
+
+×
+
+
+
+  Mr Foley’s AEIC paras 26, 27, 31, 34. 
+
+
+
+ It was supported by contemporary documents, which showed Mr Foley communicating his complaints to the plaintiff.
+                   58
+
+
+
+
+Foot Note 58
+
+×
+
+
+
+  AB 257–260.
+
+
+
+ I do not need to determine whether his concerns were justified, only that they were genuinely held, which I find to be the case.60 The plaintiff has suggested that if Mr Foley was truly dissatisfied with the plaintiff, he would not have wanted to work with the first defendant who occupied a key role within the plaintiff,
+                   59
+
+
+
+
+Foot Note 59
+
+×
+
+
+
+  PWS at para 38.
+
+
+
+ but I am not able to accept this. Mr Foley could well have perceived that the first defendant was doing his best under difficult circumstances of high turnover and a lack of responsiveness from Mr Wiradharma. Thus, to adopt the colloquial phrase, it was a push factor and not a pull factor that operated in relation to the first defendant’s departure from the plaintiff. Similarly, it was a push factor that operated in relation to SNPC’s decision to move its business from the plaintiff, rather than a pull factor being the first defendant’s possession of confidential information.61 I do, however, accept that the first defendant spoke to Ms Jagruti while he was serving out his notice period, boasting that his new company would take away business from the plaintiff, and that he also invited her to leave the plaintiff and join him. That said, I do not accept that his doing so showed that he planned to misuse the Information. Ms Jagruti confirmed that she did not understand that there was any specific job offer from Mr Foley and that there was no serious discussion on salary.
+                   60
+
+
+
+
+Foot Note 60
+
+×
+
+
+
+  2 March 2022 Transcript, p 75 lines 30–32. 
+
+
+
+ As is evident from [59] to [60] above, the first defendant had reached a point where he wanted to show that he could succeed outside the plaintiff and put one up over Mr Wiradharma, whom he disliked. He was simply expressing this to Ms Jagruti.62 In any event, the first defendant was not asking Ms Jagruti to break her contract of employment but only to give notice in accordance with it. Hence, her departure from the plaintiff and her joining the second defendant would have taken place only after the first defendant’s departure from the plaintiff. In fact, she did not accept his invitation and remained with the plaintiff for some time, although she had left by the time of the trial.63 I also accept Ms Jagruti’s evidence that the first defendant told her he was reaching out to other customers of the plaintiff to inform them of his departure, and did boast that they would move their business to him.
+                   61
+
+
+
+
+Foot Note 61
+
+×
+
+
+
+  Ms Jagruti’s Affidavit at paras 11 and 12.
+
+
+
+ Such  conduct in relation to customers suggests that he probably also informed suppliers to the plaintiff of his planned departure. This would include PetBucket.64 This leads me to the second inference, which I am also unable to accept. It does not follow from the fact that the first defendant spoke to PetBucket prior to his departure that he then, or at any other time, provided PetBucket with the Information. In fact, there was no reason for the first defendant to do so. If his intention was to persuade PetBucket to give their business to his new company, he would not want to give PetBucket the information that would enable PetBucket to undertake its own procurement, taking advantage of geographical pricing differences. For this reason, counsel for the plaintiff did not put his case to the first defendant on the basis of a deliberate disclosure to PetBucket but on the basis that he “inadvertently leaked the confidential information of APW to PetBucket”.
+                   62
+
+
+
+
+Foot Note 62
+
+×
+
+
+
+  2 March 2022 Transcript, p 150 lines 9–12.
+
+
+
+65 I do not accept that the first defendant leaked the Information at all, even inadvertently. I would go further. It is hard to see how, during the conversation, the first defendant could have gone into such detail as to give PetBucket a primer on how to compete with the plaintiff. Putting the case on the basis of inadvertency additionally diminishes the force of any argument that so much of the Information that resided in the first defendant’s head was significant or detailed. PetBucket would need to be told what to buy from whom and at what price, as well as how to then charge customers for the service. I find that, at most, the first defendant told PetBucket that whatever he had done for them as an employee of the plaintiff he would be able to do for them in his new company. This would not involve any divulging of the Information.Use of Information for the second defendant’s business66 The next question is whether the first defendant improperly made use of the Information for the second defendant’s business. Naturally, the first defendant must have drawn on his knowledge and experience acquired over the years in procuring products. But it has not been proved by the plaintiff that the first defendant used any specific item of information, such as what the plaintiff paid for a particular product in one market for drop shipping into another market, for the second defendant’s benefit or to the plaintiff’s detriment. Additional observations67 I would add two further observations. First, any knowledge the first defendant carried in his head concerning the prices paid or charged by the plaintiff would have quickly lost its relevance. Markets are not static. This applies both to the markets for purchase and sale of the products and to currency exchange. The relative movement of currencies would obviously play a part in this kind of arbitrage. That is why, even where an employer legitimately protects itself by a restrictive covenant in contracts of employment, these are invariably limited in time. Here, there were no restrictive covenants, and yet the plaintiff has proceeded as if the passage of time has no impact on the utility of the Information, even obtaining an interim injunction that did not include any time limit.68 Secondly, it is telling that even though Mr Wiradharma knew from a message sent to him by Ms Jagruti on 3 February 2021
+                   63
+
+
+
+
+Foot Note 63
+
+×
+
+
+
+  BAEIC 83.
+
+
+
+ (within days of the first defendant’s resignation on 1 February 2021) that the first defendant was starting his own business, and had been speaking to clients, he did not himself or via Ms Marhalim (who had a better relationship with the first defendant) seek any assurances from the first defendant concerning confidential information of the plaintiff. That would be the natural immediate step if he had a genuine concern about the possibility of misuse of confidential information. Nor did the plaintiff immediately commence any legal proceedings to protect the Information. Instead, proceedings appear to have been triggered when the first defendant made a police report concerning the plaintiff’s failure, despite repeated requests, to cancel the poisons licence that was in his name for the plaintiff’s business (the “poisons license”), as he needed to obtain a new poisons licence for the second defendant and could not do so because he remained the plaintiff’s licence holder. The sequence of events was as follows:(a) The first defendant resigned on 1 February 2021.(b) Ms Jagruti messaged Mr Wiradharma on 3 February 2021 that the first defendant would be starting his own business and had spoken to the plaintiff’s clients.(c) Mr Wiradharma did not take any steps to limit the first defendant’s access to the plaintiff’s information.
+                   64
+
+
+
+
+Foot Note 64
+
+×
+
+
+
+  2 March 2022 Transcript, pp 20–22.
+
+
+
+(d) The first defendant’s last day was 28 February 2021. There was a farewell lunch at which Mr Wiradharma and Ms Marhalim prayed for the first defendant’s future.
+                   65
+
+
+
+
+Foot Note 65
+
+×
+
+
+
+  AB 425. 
+
+
+
+(e) On 28 February 2021, Ms Marhalim promised the first defendant that she would cancel the poisons licence.
+                   66
+
+
+
+
+Foot Note 66
+
+×
+
+
+
+  AB 425.
+
+
+
+ (f) When this did not happen, the first defendant emailed her on 9 March 2021, requesting that she cancel the poisons licence, and warning that he did “not want to blow the whistle”.
+                   67
+
+
+
+
+Foot Note 67
+
+×
+
+
+
+  AB 425.
+
+
+
+ He also complained that Mr Wiradharma had been spreading “negative and false information” about him.(g) On 10 March 2021, the first defendant made a police report concerning the failure to cancel the poisons licence.
+                   68
+
+
+
+
+Foot Note 68
+
+×
+
+
+
+  AB 426-427.
+
+
+
+(h) On 11 March 2021, the Health Sciences Authority informed him that the poisons licence was cancelled.
+                   69
+
+
+
+
+Foot Note 69
+
+×
+
+
+
+  AB 429.
+
+
+
+(i) On 16 March 2021, the plaintiff filed these proceedings together with an application for an interim injunction.69 I infer from this sequence of events that these proceedings were commenced in retaliation for the first defendant’s police report, which was itself made as a last resort when the plaintiff unreasonably failed to cancel the poisons licence. While the fact that proceedings were commenced belatedly and for questionable motives does not necessarily mean that they are without merit, such conduct can be material to how the evidence is to be assessed. In this case, the questions for the court include how significant the Information was and how likely it was to be misused. The plaintiff’s own approach in not taking steps to protect itself at the relevant time strengthens the inference (based on the evidence) that the Information was neither significant nor likely to be misused. In other words, if the Information was truly significant and the risks of misuse were truly real and potentially damaging to the plaintiff, the plaintiff would not have waited until after the first defendant’s police report before taking steps to protect itself. It would, at a minimum, have immediately restricted the first defendant’s access to the alleged confidential information upon Mr Wiradharma’s receiving Ms Jagruti’s message or confronted the first defendant with a view to obtaining specific assurances. It did none of this.Conclusion70 Thus, the plaintiff has also failed to prove that the Information was ever misused by the defendants, whether in the second defendant’s business or through approaching the plaintiff’s customers, SNPC and PetBucket.Issue 4: Did the defendants conspire to injure the plaintiff?71 The case in conspiracy rests on the same conversations and actions of the first defendant during his notice period, namely speaking to PetBucket, Ms Jagruti and others in the plaintiff’s employ.72 There are many difficulties in this claim. One is that these conversations and actions of the first defendant happened prior to incorporation of the second defendant. This fact drove counsel for the plaintiff to rely on s 41 of the Companies Act 1967 (2020 Rev Ed), which permits ratification by a company of contracts or other transactions entered into on its behalf prior to incorporation.
+                   70
+
+
+
+
+Foot Note 70
+
+×
+
+
+
+  4 March 2022 Transcript, pp 38–39.
+
+
+
+ Section 41(1) provides:Any contract or other transaction purporting to be entered into by a company prior to its formation or by any person on behalf of a company prior to its formation may be ratified by the company after its formation and thereupon the company becomes bound by and entitled to the benefit thereof as if it had been in existence at the date of the contract or other transaction and had been a party thereto.73 I do not agree that an overt act relied on for the purpose of conspiracy can be ratified in reliance on this section unless it is the entry into a contract or transaction purportedly by or on the company’s behalf. The acts complained of in this case were not entry into contracts or transactions, but only at most solicitation for the future that never resulted in any contract or transaction with the second defendant.74 There is another fundamental problem with the claim in conspiracy to injure. The pleadings do not make clear whether the plaintiff’s case is that there was an unlawful means conspiracy to injure or a lawful means conspiracy to injure. In any case, the former would fail because there were no unlawful means. A departing employee who suggests to other employees that they consider coming to work for his new company or informs customers that he is setting up his own business and hopes for their support after he has left his employer is not breaching his contract of employment, as I explain further in the next section at [78]–[79].75 As for a lawful means conspiracy, one necessary element is the predominant purpose to injure the plaintiff: Quah Kay Tee v Ong and Co Pte Ltd [1996] 3 SLR(R) 637 at [45]. Notwithstanding that the first defendant had come to dislike Mr Wiradharma, I find that his expressions of loyalty to the plaintiff in his email of 9 March 2021 to Ms Marhalim were sincere. His intention in resigning and starting the second defendant with Mr Foley was entirely legitimate, namely to further his own career. As for Mr Foley who was the other director of the second defendant, it would be quite fanciful to suggest that he shared any purpose of injuring the plaintiff, as opposed to proceeding in the best interests of the second defendant and SNPC.Issue 5: Did the first defendant breach his duty of good faith and fidelity to the plaintiff during his employment?76 Had the defendant disclosed the Information to PetBucket while he remained employed by the plaintiff, he would have been in breach of his duty of good faith and fidelity. However, I have found at [70] above that this did not take place. The question that remains is, was it a breach of the first defendant’s duty of good faith and fidelity to incorporate the second defendant during his notice period and to register the second defendant’s website the day before he gave notice of his resignation?
+                   71
+
+
+
+
+Foot Note 71
+
+×
+
+
+
+  SOC para 21; Mr Wiradharma’s AEIC paras 27 to 31.
+
+
+
+77 The plaintiff relies on what the first defendant told Mr Alware after his resignation. On 2 February 2021 and again on 26 February 2021, the first defendant communicated by Skype with Mr Alware.
+                   72
+
+
+
+
+Foot Note 72
+
+×
+
+
+
+  AB 135 to 140.
+
+
+
+ The messages are generally consistent with the first defendant’s account, including that it was only when he told Mr Foley that he wanted to leave the plaintiff that Mr Foley offered him “an opportunity”.
+                   73
+
+
+
+
+Foot Note 73
+
+×
+
+
+
+  AB 135, date/time stamp 2/26/2021 2:00:26 PM and 2:01:00 PM
+
+
+
+ However, the first defendant also told Mr Alware on 26 February 2021 that he had already set up the company, that he had been working on it for the past two to three weeks, that everything was done and he was waiting for a shipment to come in two weeks’ time.
+                   74
+
+
+
+
+Foot Note 74
+
+×
+
+
+
+  AB 136 date/time stamp 2/26/2021 1:47:31 PM, 1:48:15 PM and 1:51:45 PM.
+
+
+
+78 It is well-established, as held by the Court of Appeal in Smile Inc Dental Surgeons Pte Ltd v Lui Andrew Stewart [2012] 4 SLR 308 at [65] that “taking preparatory steps to compete with a former employer… will not constitute a breach of the implied duty of good faith and fidelity on the part of the employee concerned” [emphasis in original]. The Court of Appeal also noted at [67] that it is a question of fact “whether or not steps taken by an employee can be considered as preparatory to future competition (which is permissible), or instead constitute actual competitive activity (which is not permissible)” [emphasis in original].79 The pleaded conduct of incorporating the second defendant and registering its website would not of itself cross the line into competitive activity. The suggestion that the first defendant was waiting for a shipment is questionable, but this point was not pleaded nor was the first defendant cross-examined on it. As the evidence shows that the second defendant’s only customer was Mr Foley’s SNPC, it would seem to follow that SNPC had already placed an order with the second defendant prior to the first defendant’s last day with the plaintiff. At the same time, the shipment would only arrive after the first defendant’s last day with the plaintiff, and it would only be upon its arrival that the first defendant as an employee of the second defendant would do the actual drop shipping on SNPC’s behalf. In any event, as it was not pleaded or taken up in cross-examination, I say nothing further about it.Issue 6: What loss did the defendants cause to the plaintiff by their breaches?80 If I had found for the plaintiff on any of the earlier issues, the question would then be, what profits had it lost as a result of the defendants’ conduct? The evidence adduced by the plaintiff on damages was limited, and even that was unclear its purport and effect. I am also of the view that Mr Foley (and thus SNPC) was dissatisfied with the plaintiff’s service and would likely not have continued to use the plaintiff if the first defendant had simply left its employ, without starting or joining the second defendant. In determining loss of profits, the correct comparator would be the profits the plaintiff would have been able to make without the first defendant. It would be wrong to assess damages against a projection of profits dependent on the continued assistance of the first defendant. This is because the first defendant was not obligated to continue working for the plaintiff. He was entitled to resign and remove his skills from the service of the plaintiff. Additionally, in this case, he had already decided prior to the alleged misuse of confidential information that he could no longer work for Mr Wiradharma (see [59]–[60] above). However, as I have found against the plaintiff on liability, this issue is moot and I say nothing further on it.  Issue 7: Should there be an inquiry as to damages in respect of the interim injunction? 81 The plaintiff conceded on the second day of the hearing that its interim injunction, notwithstanding that it contained no end date prior to trial, ought not to be made permanent.
+                   75
+
+
+
+
+Foot Note 75
+
+×
+
+
+
+  2 March 2022 Transcript, p 2 lines 20–21.
+
+
+
+ It stopped the first defendant  from soliciting business from the plaintiff’s customers or inviting its employees to join the second defendant. However, it was not sought on the basis of any restrictive covenant (none such ever having been agreed), but on the ground that such activities on the first defendant’s part would entail the use of the plaintiff’s confidential information, thus affording him an illegitimate advantage if not restrained.
+                   76
+
+
+
+
+Foot Note 76
+
+×
+
+
+
+  Wiradharma’s Affidavit dated 12 March 2021 at paras 29 and 59.
+
+
+
+ Given that it took the form of a “springboard” injunction, the plaintiff ought in the first place to have limited it temporally on the basis of two considerations:(a) the time after which the alleged misuser of confidential information would have been able to achieve his objective lawfully without misuse of confidential information; and(b) the time after which the confidential information would lose currency and value.82  Moreover, the plaintiff at trial has failed to establish either that the Information possessed the necessary quality of confidence or that the first defendant misused it. Accordingly, the plaintiff has not justified his seeking and obtaining the interim injunction. There is, however, an additional element that an injunctee must show in order to obtain an order for an inquiry as to damages, namely an arguable case that it had in fact sustained loss falling within the terms of the plaintiff’s undertaking as to damages: Tribune Investment Trust Inc v Soosan Trading Co Ltd [2000] 2 SLR(R) 407 at [55]. The defendants have taken the position that the second defendant was not set up to be a direct competitor of the plaintiff
+                   77
+
+
+
+
+Foot Note 77
+
+×
+
+
+
+  Mr Foley’s AEIC at para 10.
+
+
+
+ but instead only to fulfil orders for SNPC (which it has been able to do while the injunction was in place). They also submit that the second defendant had no need to employ the plaintiff’s staff or do business for any of the plaintiff’s customers.
+                   78
+
+
+
+
+Foot Note 78
+
+×
+
+
+
+  Mr Foley’s AEIC at para 21.
+
+
+
+ Thus, the defendants have not shown an arguable case that they have suffered loss as a result of the interim injunction. Accordingly, I discharge the interim injunction but decline to grant an order for an inquiry as to damages, and consequently release the plaintiff from its undertaking as to damage.Conclusion83 Ultimately, this dispute was something of a storm in the proverbial tea cup: whipped up by slights, resentments and general animosity between the main protagonists. The first defendant did not remove lists or other documents from the plaintiff. The knowledge and skill that he had developed in his time with the plaintiff was something he was entitled to carry with him. I dismiss the plaintiff’s claim against both defendants in its entirety. I will hear counsel on costs.Philip Jeyaretnam Judge of the High CourtNandwani Manoj Prakash and Quah Chun En Joel (Gabriel Law Corporation) for the plaintiff;Narayanan Vijya Kumar (Vijay & Co) for the defendants.
