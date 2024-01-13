@@ -4,12 +4,15 @@ from bs4 import BeautifulSoup
 # Scrape all pages (930), collect and combine all urls leading to individual judgement cases from all the pages
 # Link being scraped: https://www.elitigation.sg/gd (this code iterates through all pages in this link by changing the CurrentPage variable in the url)
 def scrape_all_pages(num_pages):
+    print("Scraping URLs")
     urls = []
     for i in range(1, num_pages + 1):
+        print(i)
         # ...CurrentPage={i}...: i represents the page number to scrape from
-        url = "https://www.elitigation.sg/gd/Home/Index?Filter=SUPCT&YearOfDecision=All&SortBy=DateOfDecision&CurrentPage={i}&SortAscending=False&PageSize=0&Verbose=False&SearchQueryTime=0&SearchTotalHits=0&SearchMode=True&SpanMultiplePages=False"
+        url = f"https://www.elitigation.sg/gd/Home/Index?Filter=SUPCT&YearOfDecision=All&SortBy=DateOfDecision&CurrentPage={i}&SortAscending=False&PageSize=0&Verbose=False&SearchQueryTime=0&SearchTotalHits=0&SearchMode=True&SpanMultiplePages=False"
         scraped_urls = extract_urls_from_page(url)
         urls.extend(scraped_urls)
+    print("Done scraping URLs")
     return urls
 
 # Get all links to judgement cases on a single page, this page contains a list of links linking to individual judgement cases
@@ -28,19 +31,31 @@ def extract_urls_from_page(url):
 def scrape_judgement(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
-    judgement = soup.find("div", id="divJudgement").text
-    return judgement
+    case_summary = soup.find("div", id="divCaseSummary")
+    if case_summary.find("div", class_="row") is not None: # If there is no case summary, don't return anything
+        print("Summary")
+        print(url)
+        judgement = soup.find("div", id="divJudgement").text
+        return judgement, case_summary.text
+    else:
+        return None
 
 # Scrape all judgements from a set of urls
 def compile_judgements(urls):
     judgements = []
-    for url in urls:
-        judgement = scrape_judgement("https://www.elitigation.sg" + url)
-        judgements.append(judgement)
+    for i in range(len(urls)):
+        judgement = scrape_judgement("https://www.elitigation.sg" + urls[i])
+        if (judgement is not None):
+            # Write to dataset
+            with open(f"dataset/sg/judgement/{i}.txt", 'w', encoding='utf-8') as file:
+                file.write(judgement[0])
+            with open(f"dataset/sg/summary/{i}.txt", 'w', encoding='utf-8') as file:
+                file.write(judgement[1])
+            judgements.append(judgement)
     return judgements
 
 # Scrape a specified number of pages (includes pagination)
-num_pages_to_scrape = 2
+num_pages_to_scrape = 931
 urls = scrape_all_pages(num_pages_to_scrape)
+print(urls)
 judgements = compile_judgements(urls)
-print(judgements[2])
