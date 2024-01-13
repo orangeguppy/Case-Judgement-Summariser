@@ -1,0 +1,1250 @@
+
+In the COURT OF APPEAL of the republic of singapore[2023] SGCA(I) 1Civil Appeal No 10 of 2022Between(1)BCBC Singapore Pte Ltd(2)Binderless Coal Briquetting Company Pty Limited… AppellantsAnd(1)PT Bayan Resources TBK(2)Bayan International Pte Ltd… RespondentsIn the matter of Suit No 1 of 2015Between(1)BCBC Singapore Pte Ltd(2)Binderless Coal Briquetting Company Pty Limited… PlaintiffsAnd(1)PT Bayan Resources TBK(2)Bayan International Pte Ltd… DefendantsJudgment[Contract — Remedies — Damages]This judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in LawNet and/or the Singapore Law Reports.BCBC Singapore Pte Ltd and anothervPT Bayan Resources TBK and another[2023] SGCA(I) 1Court of Appeal — Civil Appeal No 10 of 2022Sundaresh Menon CJ, Judith Prakash JCA and Jonathan Hugh Mance IJ17 October 202210 February 2023 Judgment reserved.Sundaresh Menon CJ (delivering the judgment of the court):Introduction1 This appeal is against the decision of the Singapore International Commercial Court (the “SICC”) in BCBC Singapore Pte Ltd and another v PT Bayan Resources TBK and another [2022] SGHC(I) 2 (the “Judgment”). The underlying disputes concern a joint venture between the parties that ended acrimoniously. In earlier tranches of the SICC proceedings, the respondents in the present appeal had been found to have breached the contract between the parties. The present appeal arose out of the third tranche of proceedings before the SICC, which concerned the assessment of loss and damage. The SICC determined that, notwithstanding the first respondent’s breaches of contract, the appellants had not proved that they were entitled to receive any damages, or other remedy, and if upheld, this would bring this suit to an ultimately unproductive end for the appellants. The present appeal is concerned with this issue only. Background2 Because the litigation to this point has been long-running and somewhat complex, it is useful to first outline the case and its procedural history.3 The first appellant, BCBC Singapore Pte Ltd (“BCBCS”), a company incorporated in Singapore, is an associate of the second appellant, Binderless Coal Briquetting Company Pty Limited (“BCBC”), which is a company incorporated in Australia. BCBC is the exclusive licensee of a patented technology capable of processing low-value sub-bituminous coal to yield a higher-value coal suitable for commercial sale. The process, which has given the appellants their names, is known as “Binderless Coal Briquetting” (the “BCB Process”). Both appellants are indirectly wholly-owned subsidiaries of White Energy Company Limited (“WEC”), an energy and technology company listed on the Australian Securities Exchange. The first respondent, PT Bayan Resources TBK (“BR”), is a coal mining company listed on the Indonesian Stock Exchange; its subsidiaries operate sub-bituminous coal mines in Tabang, Indonesia. The second respondent, Bayan International Pte Ltd (“BI”), is its associate incorporated in Singapore.4 In May 2005, the respondents learnt about the BCB Process and entered into discussions with BCBC regarding a possible joint venture to construct and commission a plant in Tabang (the “Tabang Plant”). It was contemplated that the Tabang Plant would process sub-bituminous coal supplied by BR’s subsidiaries, using the BCB Process to upgrade such coal. The resulting higher-value coal would then be sold at a higher profit. Eventually, a joint venture deed (the “JV Deed”) was executed on 7 June 2006 between BCBC and BI. The corporate vehicle used for the venture was PT Kaltim Supacoal (“KSC”), an Indonesian company in which BCBCS held a 51% stake, and BI held the remaining 49%. In 2008, BI sold its 49% share to BR, and, in 2009, by a deed of novation, BCBC and BI were replaced by BCBCS and BR as the parties to the JV Deed. This had the effect of aligning the named parties to the JV Deed and the shareholders of KSC.5 In the meantime, the construction of the Tabang Plant had commenced. However, the venture ran into issues that increased its cost. To sustain KSC and the joint venture, BCBCS and BR entered into three sets of agreements at various times between April 2007 and December 2010 to extend loans to KSC. These agreements, especially those relating to BR’s loans to KSC, are central to this appeal.6 The first two sets were shareholder loan agreements that KSC entered into with BCBCS and BR separately. We will refer to the loan agreements between BCBCS and KSC as the “1SLA (BCBCS)”
+                   1
+
+
+
+
+Foot Note 1
+
+×
+
+
+
+  ROA (Vol 3, Part 11) at p 121.
+
+
+
+ and the “2SLA (BCBCS)”;
+                   2
+
+
+
+
+Foot Note 2
+
+×
+
+
+
+  ROA (Vol 5) at p 133.
+
+
+
+ and those between BR and KSC as the “1SLA (BR)”
+                   3
+
+
+
+
+Foot Note 3
+
+×
+
+
+
+  ROA (Vol 5) at p 86.
+
+
+
+ and “2SLA (BR)”.
+                   4
+
+
+
+
+Foot Note 4
+
+×
+
+
+
+  ROA (Vol 5) at p 148.
+
+
+
+ The first pair of agreements (1SLA (BCBCS) and 1SLA (BR)) are dated 16 April 2007 and the second pair of agreements (2SLA (BCBCS) and 2SLA (BR)) are dated 25 November 2008. The third is referred to as the “priority loan funding agreement” (“PLFA”). It was executed by KSC, BCBCS and BR on 17 December 2010, but backdated to 22 April 2010.
+                   5
+
+
+
+
+Foot Note 5
+
+×
+
+
+
+  ROA (Vol 5) at p 176; the First Tranche Judgment at [58].
+
+
+
+ 7 By the 1SLA (BCBCS) and 1SLA (BR), BCBCS and BR each agreed to loan KSC up to US$25m.
+                   6
+
+
+
+
+Foot Note 6
+
+×
+
+
+
+  ROA (Vol 3, Part 11) at p 123; ROA (Vol 5) at p 88.
+
+
+
+ Hence, pursuant to this pair of agreements, a total of US$50m was made available to KSC, which KSC ultimately fully utilised (see the Judgment at [18(a)]).
+                   7
+
+
+
+
+Foot Note 7
+
+×
+
+
+
+  Also see ROA (Vol 3, Part 137) at p 65; ROA (Vol 3, Part 142) at p 81.
+
+
+
+ This loan agreement did not have any addenda. These agreements had a particular repayment structure under which KSC’s repayment obligations were to commence one year from the date on which the Tabang Plant commenced “Commercial Production”.
+                   8
+
+
+
+
+Foot Note 8
+
+×
+
+
+
+  ROA (Vol 3, Part 11) at p 122; ROA (Vol 5) at p 87.
+
+
+
+ Thereafter, KSC was to make annual repayments and complete all repayments within five years from the date on which the Tabang Plant commenced “Commercial Production”. Before us, there is no dispute that the Tabang Plant may be taken to have commenced commercial production at the end of June 2012.
+                   9
+
+
+
+
+Foot Note 9
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at para 5; Respondents’ Case (6 July 2022) at para 8.
+
+
+
+ Thus, it is agreed that KSC’s first repayment obligation to BCBCS and BR would have been due on 30 June 2013 and its final repayment obligation, on 30 June 2017 (also see the Judgment at [146]).8 By the 2SLA (BR), BR agreed to loan KSC a further sum of up to US$15m. This loan agreement had four addenda. The first was effected on 11 December 2008 to increase the loan to up to US$25m. The second, third and fourth addenda were executed on 30 June 2009, 24 December 2009 and 3 January 2011 respectively, and these postponed the repayment date of the loan, which was originally the earlier of 31 December 2009 (unless extended) or on written demand by BR, to 31 December 2010, 2011, and finally 2012, on each instance, on the earlier of the applicable date (unless extended) or on written demand by BR.
+                   10
+
+
+
+
+Foot Note 10
+
+×
+
+
+
+  ROA (Vol 5) at pp 162, 172, 174 and 241.
+
+
+
+ The terms of the 2SLA (BCBCS) were essentially identical with the 2SLA (BR) to begin with. However, there were two addenda to the 2SLA (BCBCS). The first, dated 11 December 2008, increased the loan to up to US$25m.
+                   11
+
+
+
+
+Foot Note 11
+
+×
+
+
+
+  ROA (Vol 3, Part 14) at p 257; ROA (Vol 3, Part 8) at p 170 (AEIC of Ivan Maras).
+
+
+
+ The second, dated 30 June 2009, further increased this to up to US$35m and also extended the date by which BCBCS was to be repaid from 31 December 2009 to the earlier of 31 December 2011 (unless extended) or on written demand by BCBCS.
+                   12
+
+
+
+
+Foot Note 12
+
+×
+
+
+
+  ROA (Vol 3, Part 14) at p 259; ROA (Vol 3, Part 8) at p 171 (AEIC of Ivan Maras).
+
+
+
+ No written demand was made by BCBCS prior to 31 December 2011. For completeness, we also note that BCBCS extended US$26,591,206.88
+                   13
+
+
+
+
+Foot Note 13
+
+×
+
+
+
+  Also see ROA (Vol 3, Part 136) at pp 88–92 (paras 3.1–3.21); ROA (Vol 3, Part 142) at p 74 (Figure 10) and pp 132–135 (paras A5.1–A5.8).
+
+
+
+ to KSC under the 2SLA (BCBCS) (see the Judgment at [18(b)]). BR did not advance the full US$25m made available to KSC under the 2SLA (BR), but rather advanced the sum of US$14,600,678.
+                   14
+
+
+
+
+Foot Note 14
+
+×
+
+
+
+  Also see ROA (Vol 3, Part 137) at p 65; ROA (Vol 3, Part 142) at p 81.
+
+
+
+9 Lastly, by the PLFA, BCBCS agreed to make available to KSC a loan facility of US$20m (the “Priority Facility”).
+                   15
+
+
+
+
+Foot Note 15
+
+×
+
+
+
+  ROA (Vol 5) at p 176.
+
+
+
+ KSC was to repay the sum drawn down on this facility by 31 December 2011 unless this was extended.
+                   16
+
+
+
+
+Foot Note 16
+
+×
+
+
+
+  ROA (Vol 5) at p 180.
+
+
+
+ BR did not agree to loan funds to KSC under the PLFA; instead, it undertook to ensure that its subsidiaries would supply sub-bituminous coal to KSC in accordance with other supply agreements already in place, but on terms that would only require KSC to pay US$8 per tonne of such coal on delivery.
+                   17
+
+
+
+
+Foot Note 17
+
+×
+
+
+
+  ROA (Vol 5) at p 181.
+
+
+
+ KSC was then required to settle the balance (being the market price per tonne of coal less US$8 per tonne of coal, applied to the total volume of coal supplied) by 31 December 2011 (the “Coal Advance”). On 29 June 2011, KSC, BCBCS and BR executed an addendum by which it was agreed that the sum which BCBCS would make available to KSC under the Priority Facility would be increased to US$40m. The addendum also postponed KSC’s payment obligations in respect of both the Priority Facility as well as the Coal Advance to 30 June 2012, unless further extended.
+                   18
+
+
+
+
+Foot Note 18
+
+×
+
+
+
+  ROA (Vol 5) at pp 250–251.
+
+
+
+ Article 11.1 of the PLFA suggests that such extensions were subject to the mutual agreement of BCBCS and BR.
+                   19
+
+
+
+
+Foot Note 19
+
+×
+
+
+
+  ROA (Vol 5) at p 183.
+
+
+
+ 10 In summary, based on the terms of the three sets of agreements set out above, the chronological order in which KSC was obliged to settle its debts with BCBCS and BR was as follows:(a) By 31 December 2011, KSC was to repay BCBCS the sums it borrowed under the 2SLA (BCBCS). (b) By 30 June 2012, KSC was to repay BCBCS the sums it borrowed under the PLFA’s Priority Facility and pay BR the balance it owed for the Coal Advance. (c) By 31 December 2012, KSC was to repay BR the sums it borrowed under the 2SLA (BR). (d) On 30 June 2013, KSC was to make its first annual repayment under both the 1SLA (BCBCS) and 1SLA (BR) and it needed to complete these repayments by 30 June 2017.11 However, on 17 December 2010, which was the day on which KSC, BCBCS and BR executed the PLFA (see [6] above), the three parties also agreed to vary the order in which KSC was to settle these debts. This agreement was set out in a letter backdated to 3 December 2010 (the “Subordination Letter”) (see the Judgment at [19]), which provided as follows:
+                   20
+
+
+
+
+Foot Note 20
+
+×
+
+
+
+  ROA (Vol 5) at pp 222–223.
+
+
+
+KSC, BCBCS and BR hereby agree that the [loan agreements] will be repaid in the following order:1. The [PLFA] will be repaid by KSC first, ahead of all other [loan agreements] but concurrently with the Coal Advance, pursuant to the terms of such agreement.2. Following full repayment of the [PLFA], KSC will then repay the [1SLA (BCBCS)] and the [1SLA (BR)], each loan to rank equally to the other and each will be repaid in equal proportions. 3. Following full repayment of the [loan agreements] referred to in (1) and (2) above, KSC will then repay the [2SLA (BCBCS)] and the [2SLA (BR)], each loan to rank equally to the other and will be repaid by KSC in proportion to that party’s shareholding interest in KSC.The above repayment schedule will not affect the repayment terms of any financing arrangement entered into between KSC and a third party financier.The effect of the Subordination Letter has a bearing on this appeal. The parties dispute how – if at all – these terms affect BCBCS’s and BR’s rights to enforce repayment by KSC. We return to this at [49] below.12 In the event, however, the loans advanced to KSC did not save the joint venture. Following various delays and substantial cost overruns with which we need not be concerned for the purposes of this appeal, the relationship between BCBCS and BR soured, and on 21 February 2012, BR sent a letter to BCBCS purporting to terminate the JV Deed. On 2 March 2012, BCBCS responded with its own letter which stated that BR did not have any ground to terminate the JV Deed. BCBCS treated BR’s letter as a repudiation of the JV Deed and purported to accept such repudiation. At about this time, the appellants commenced proceedings against the respondents in the High Court.
+                   21
+
+
+
+
+Foot Note 21
+
+×
+
+
+
+  ROA (Vol 5) at p 80.
+
+
+
+ In response, the respondents brought a counterclaim. In 2015, the suit was transferred to the SICC.13 The issues of liability were determined in two tranches before the SICC. The first tranche was heard in November 2015 and January 2016. Judgment was handed down on 12 May 2016 in BCBC Singapore Pte Ltd and another v PT Bayan Resources TBK and another [2016] 4 SLR 1 (the “First Tranche Judgment”). No appeal was brought against this judgment. In January and April 2017, the second tranche of trial was conducted. On 26 July 2017, the SICC handed down its decision in BCBC Singapore Pte Ltd and another v PT Bayan Resources TBK and another [2017] 5 SLR 77 (the “Second Tranche Judgment”). The respondents appealed the Second Tranche Judgment, but that appeal was dismissed wholly by this court on 29 August 2018 in PT Bayan Resources TBK and another v BCBC Singapore Pte Ltd and another [2019] 1 SLR 30 (the “Second Tranche Appeal Judgment”). However, in the Second Tranche Appeal Judgment, this court also held that the SICC should have determined an issue which it did not in the Second Tranche Judgment. The matter was thus remitted to the SICC to resolve that issue. The SICC heard evidence on the remitted issue in October and November 2018. On 9 January 2019, it handed down its decision in BCBC Singapore Pte Ltd and another v PT Bayan Resources TBK and another [2019] 3 SLR 1 (the “Remittal Judgment”). The Remittal Judgment was appealed but that was dismissed without written grounds.14 In essence, the SICC found, and this court upheld, that BR had by various means breached its obligation to supply sub-bituminous coal to KSC, this being a condition of the JV Deed (see the Second Tranche Judgment at [136]–[144] and [182]; the Second Tranche Appeal Judgment at [74]–[82] and [103]–[113]). The respondents’ counterclaim was also dismissed, and it was held that BCBCS had not breached the JV Deed (see the Second Tranche Judgment at [147]–[177]; the Second Tranche Appeal Judgment at [119]–[156]). BR therefore had no lawful basis upon which to terminate the JV Deed on 21 February 2012 and its purported termination was wrongful (see the Second Tranche Judgment at [193]; the Second Tranche Appeal Judgment at [157]). It followed that BR’s letter dated 21 February 2012 operated as a repudiation of the JV Deed, and, by its 2 March 2012 letter, BCBCS validly accepted BR’s repudiation, thereby bringing the venture to an end on that date (see the Second Tranche Judgment at [195]).15 On the footing that BR had breached its obligation to supply coal to KSC under the JV Deed (referred to as the “coal supply obligations” in the earlier judgments), the matter proceeded to a third tranche of trial for the SICC to assess the losses suffered by the appellants as a consequence of such breach. The appellants sought to recover damages under two heads. The first was for wasted expenditure of around US$91 million comprising the various loans which they had extended to KSC in connection with the venture (the “First Head of Loss”). The essence of the appellants’ claim was that they would have recouped these loans had BR not breached and wrongfully terminated the JV Deed. The second head was for the chance they lost to increase the production capacity of the Tabang Plant to three times its nameplate capacity and, consequently, to profit therefrom (the “Second Head of Loss”).The decision below16 As stated at the outset, the SICC ruled against the appellants. In respect of the First Head of Loss, the SICC made various findings and concluded that even if BR had not acted in breach of its coal supply obligations, the appellants would not have been able to recoup their wasted expenditure (see the Judgment at [194]–[195]). Three findings were crucial.17 First, the SICC held that the BCB Process “would have worked”, that the Tabang Plant would have achieved its nameplate capacity of one million metric tonnes per annum (“MTPA”) by June 2012 at the very latest (we refer to this as “commercial production”), and that the upgraded coal briquettes would have been saleable (see the Judgment at [144]). However, notwithstanding this finding, the SICC found that KSC would not, in any case have been able to generate a positive cash flow until 2028, and, therefore, would not have been able to begin repaying any of the loans due, whether to BCBCS or BR, until such time. Indeed, the fact that KSC would not have had a positive cash flow until 2028 was not even in dispute, having been accepted by the appellants’ own quantum expert, Mr James Nicholson (“Mr Nicholson”). Mr Nicholson’s own calculations showed that the interest due on the three loans would only have been paid from 2028 onwards, and KSC would only have been able to repay the principal sum due under the PLFA (which was prioritised by the Subordination Letter) starting from 2037. On this footing, Mr Nicholson’s conclusion was that BCBCS would only have been able to recoup its wasted expenditure (this being the First Head of Loss) in 2043 (see the Judgment at [147]).
+                   22
+
+
+
+
+Foot Note 22
+
+×
+
+
+
+  Also see ROA (Vol 3, Part 137) at pp 39–42.
+
+
+
+18 Second, as KSC would not have been able to repay the loans it took from either BCBCS or BR, the SICC accepted the respondents’ claim (as described in the Judgment at [145]) that BR would have brought the joint venture to an end by winding up KSC before 2028. This was a step which BR would have been legally entitled to take as an unpaid creditor under the 1SLA (BR), 2SLA (BR) or PLFA (see the Judgment at [149]). The winding up of KSC would inevitably have prevented the appellants from recouping their expenditure through the anticipated operations of KSC (see the Judgment at [154]).19 Third, the SICC determined in the alternative that, even if the appellants’ claim was assessed on the footing that KSC would not have been wound up by BR ahead of 2028, the terms of the JV Deed read with the connected coal supply agreements only obliged BR (through its subsidiaries) to supply KSC with sub-bituminous coal until 7 April 2028, which was when all their mining concessions would have expired. Given that KSC would still not be profitable at this time, BR could have reasonably formed the view that the joint venture would take too long to turn a profit, and BR could also have reasonably decided not to renew its subsidiaries’ mining concessions without acting in breach of the JV Deed. Accordingly, it could be taken that, by 7 April 2028, the supply of sub-bituminous coal to KSC could and would have ceased in any event (see the Judgment at [157]–[160]).20 On this basis, even if KSC’s business had continued, in order for the appellants to prove that they would have recovered their wasted expenditure had BR not acted in breach of its coal supply obligations, they needed to show that such expenditure would have been recovered by April 2028. Absent a supply of coal from April 2028 onwards, such recoupment would not have been possible in any event. Following a detailed analysis of various matters which bore on the quantification of KSC’s potential earnings from June 2012 (when the Tabang Plant would have reached its nameplate capacity of one MTPA) until April 2028, the SICC found that the appellants would not have been able to recoup their wasted expenditure even if KSC had not been wound up by BR before then (see the Judgment at [155], [161]–[191] and [194]–[195]).21 In respect of the Second Head of Loss, the SICC’s dispositive finding was that the appellants’ claim for damages resulting from their alleged “loss of chance” was not compensable because there was nothing in the JV Deed which obliged BR to expand the production capacity of the Tabang Plant from one MTPA to three MTPA. As a loss of chance claim requires, at the very least, the appellants to show that BR was obliged under the JV Deed to proceed with such expansion (see, for example, Tembusu Growth Fund Ltd v ACTAtek, Inc and others [2018] 4 SLR 1213 at [123]), their claim necessarily failed in the absence of such an obligation (see the Judgment at [196]–[199]).22 The SICC also justified its conclusion in respect of this head of loss on several alternative bases. First, it held that the loss of chance doctrine only applies in situations where the chance to acquire the benefit which had allegedly been lost is dependent on the actions of a third party. The doctrine does not apply in cases like the present, where the chance alleged to have been lost was dependent on the defendant’s own actions (see the Judgment at [200]–[207]). Second, given the breakdown of BCBCS and BR’s working relationship, there did not exist a real and substantial chance that BR would have separately agreed to increase the Tabang Plant’s production capacity to three MTPA (see the Judgment at [210]–[213]). Lastly, the evidence did not support a finding that the requisite funding could have been secured to perform the works needed to expand the Tabang Plant’s production capacity to three MTPA (see the Judgment at [214]–[219]).The grounds of appeal23 The appellants appeal the Judgment, but before us, they have abandoned their claim for the Second Head of Loss and their appeal therefore focuses only on the First Head of Loss. In this connection, the appellants raise two grounds of appeal.
+                   23
+
+
+
+
+Foot Note 23
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at para 4.
+
+
+
+24 As to the first ground of appeal, there are several points the appellants take. First, they contend that the SICC erred in finding that BR would have taken steps to wind up KSC as an unpaid creditor. Second, and in any case, they contend the SICC erred in finding that BR would have been able to wind up KSC. There were, according to the appellants, both factual and legal barriers which would have prevented BR from unilaterally winding up KSC as an unpaid creditor. Third, they contend that, even if BR was inclined to take steps to wind up KSC as an unpaid creditor, doing so would have put BR in breach of obligations it owed under the JV Deed. It appears to be the appellants’ case, as we outline later, that BR would not be allowed to avoid liability for damages on this basis since this would entail BR benefitting from its own wrongful conduct. The appellants advance five alternative arguments in support of these contentions. We have reordered their sequence in a manner we find more logical as follows:(a) First, even assuming KSC would have defaulted on its payment obligations to BR under the 1SLA (BR), 2SLA (BR), or in respect of the Coal Advance, the appellants contend that the respondents have not established that BR, in its capacity as an unpaid creditor, would in fact have taken steps to wind up KSC. On the appellants’ account, this assertion was: (i) not pleaded, (ii) only raised at the doorstep of the third tranche of the trial thus indicating that it was an afterthought, and (iii) in any event, not substantiated by the facts.
+                   24
+
+
+
+
+Foot Note 24
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 56–65.
+
+
+
+ Indeed, it would have been uncommercial for BR to wind up KSC given that, if it did, it would have lost the opportunity to recover its own outstanding loans.
+                   25
+
+
+
+
+Foot Note 25
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 35–36.
+
+
+
+ Thus, the appellants say, the respondents should not now be allowed to take the point that BR would have wound up KSC as an unpaid creditor.(b) Second, at trial, the appellants gave evidence that they would have funded KSC the amount it needed to settle its debt to BR for the Coal Advance (which amounted to around US$4.19 million).
+                   26
+
+
+
+
+Foot Note 26
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at para 70; ROA (Vol 3, Part 126) at p 237 (para 8). 
+
+
+
+ The SICC also found that the appellants would have provided up to US$20 million in gift-funding to KSC in order to meet its cash needs until June 2012 (see the Judgment at [185]–[186]), and neither of these points are challenged on appeal.
+                   27
+
+
+
+
+Foot Note 27
+
+×
+
+
+
+  Respondents’ Case (6 July 2022) at paras 59–60.
+
+
+
+ Such gift-funding would have enabled KSC to settle its debt to BR for the Coal Advance and at least a part of KSC’s debt under the 1SLA (BR) and 2SLA (BR). The appellants would further have funded KSC beyond this US$20 million to help it fully repay the 1SLA (BR) and 2SLA (BR).
+                   28
+
+
+
+
+Foot Note 28
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 69–74.
+
+
+
+ Therefore, even if it is accepted that BR would have taken steps to try to wind up KSC as an unpaid creditor, BR would not have succeeded in doing so because the appellants – backed by WEC
+                   29
+
+
+
+
+Foot Note 29
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 75–78.
+
+
+
+ – would have gifted the required funds to KSC to repay the sums due to BR. KSC would therefore have been shielded from falling into default, and BR would not have become entitled to wind up KSC.(c) Third, in any case, BR would not have succeeded in winding up KSC because of the Subordination Letter. Even if it is not accepted that the appellants would have gift-funded KSC beyond the US$20 million accepted by the SICC, the obligations under the 1SLA (BR) and 2SLA (BR) would not have entitled BR to wind up KSC. This is because the Subordination Letter had the effect of deferring KSC’s obligation to repay BR under these two shareholder loans until such time as KSC had fully repaid the sums owing under the PLFA (meaning the sums drawn down on the Priority Facility as well as the balance owing for the Coal Advance). Put another way, the Subordination Letter rendered the full payment of the PLFA a condition precedent to the accrual of KSC’s payment obligations under the shareholder loans. Further, Art 9.2 of the PLFA provided that KSC’s obligation to settle the debts it owed under the PLFA could only be triggered by a joint written demand issued by both BCBCS and BR.
+                   30
+
+
+
+
+Foot Note 30
+
+×
+
+
+
+  ROA (Vol 5) at p 183.
+
+
+
+ As BCBCS would not have agreed to issue such a demand, KSC’s obligation to repay the PLFA would not even have been triggered.
+                   31
+
+
+
+
+Foot Note 31
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 40–55.
+
+
+
+ Thus, in summary, there were two related impediments in the way of BR enforcing KSC’s payment obligations under the 1SLA (BR) and 2SLA (BR). First, KSC’s payment obligations thereunder would not arise until the PLFA was fully repaid and, second, KSC’s payment obligations under the PLFA could only be triggered with BCBCS’s consent, which would not have been forthcoming.(d) Fourth, even if BR would have taken steps to wind up KSC as an unpaid creditor and this court does not accept that BR would have been prevented from achieving its ends by either the appellants’ gift-funding or by the Subordination Letter, BR’s attempt would nonetheless not have been legally effective because this would have caused KSC’s business to cease, contrary to cl 7.1(x) of the JV Deed which provides that the consent of both BCBCS and BR would be required to cease KSC’s business. In short, the appellants contend that cl 7.1(x) deprived BR of the legal power to wind up KSC unilaterally.
+                   32
+
+
+
+
+Foot Note 32
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 9–12; ROA (Vol 5) at pp 59–61.
+
+
+
+(e) Finally, even if it is accepted that BR would have taken steps to wind up KSC as an unpaid creditor, and, further, that BR would not have been prevented by any of the above reasons from doing so effectively, this nevertheless would have entailed BR acting in breach of: (i) its duty under the JV Deed to use all reasonable endeavours to promote KSC’s business (cl 17.1), and (ii) its duty to perform the JV Deed in a spirit of mutual co-operation, good faith, trust and confidence (cl 17.3).
+                   33
+
+
+
+
+Foot Note 33
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 13–39.
+
+
+
+ Although the appellants do not expressly state in their written case what the import of such breaches would be, it seems to us that they seek to rely on the principle that a contracting party will not generally be entitled to take advantage of his own breach of contract as against the other party (see, for instance, Chitty on Contracts (Hugh Beale gen ed) (Sweet & Maxwell, 34th Ed, 2021) at para 15-113).25 The second ground of appeal concerns the SICC’s alternative finding that, even if BR did not take steps to wind up KSC, the appellants would nonetheless not have been able to recover their wasted expenditure (see [19]–[20] above). In essence, they contend that the SICC erred in reaching certain findings which reduced the appellants’ notional ability to recoup their wasted expenditure in the event that BR did not wind up KSC. For example, the SICC did not accept the historical and forecasted coal prices suggested by the appellants’ industry expert, Mr Lloyd Hain, which were higher than those put forth by Mr Peter Ball, the respondents’ expert. Lower prices naturally affected the appellants’ claim that they would have been able to recoup their expenditure (see the Judgment at [166]–[177]).
+                   34
+
+
+
+
+Foot Note 34
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 80–85 and 102–119.
+
+
+
+ Another example is the SICC’s finding that BR was not obliged to supply coal to KSC after April 2028 (see the Judgment at [157]–[160]). On appeal, the appellants argue that BR’s coal supply obligations extended beyond April 2028, and, therefore, the appellants would have had a longer period over which to recoup their dues through KSC’s business operations.
+                   35
+
+
+
+
+Foot Note 35
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 120–129.
+
+
+
+26 We see no need to restate each of the technical arguments that were raised in connection with the appellants’ second ground of appeal. This is because, if the appellants do not succeed on their first ground, the second does not arise for consideration. As the respondents rightly point out,
+                   36
+
+
+
+
+Foot Note 36
+
+×
+
+
+
+  Respondents’ Case (6 July 2022) at para 8. 
+
+
+
+ if we accept that BR could and would have taken steps to wind up KSC when KSC defaulted on its payment obligations under the 1SLA (BR), 2SLA (BR) or PLFA (see [5]–[11] above), and would have succeeded in doing so, then the appeal must fail. The application to adduce additional evidence on appeal27 We should mention that, in the lead up to the appeal, the appellants applied to adduce additional evidence by CA/SUM 11/2022 (“SUM 11”). Specifically, they sought to admit five documents into evidence. The first three related to the price of coal; the fourth was an additional report from the appellants’ quantum expert, Mr Nicholson; and the last was an update issued by BR to its investors as to the state of its business as at the end of the first quarter of 2022. We allowed SUM 11 applying the principles set out in Foo Peow Yong Douglas v ERC Prime II Pte Ltd and another appeal and other matters [2018] 2 SLR 1337 at [38], BNX v BOE [2018] 2 SLR 215 at [99]–[100], and iVenture Card Ltd and others v Big Bus Singapore City Sightseeing Pte Ltd and others [2022] 1 SLR 302 at [149]–[151].28 There is no need, however, for us to delve into the contents of these documents at this stage, because they are only relevant to the appellants’ second ground of appeal, and, as just stated at [26] above, if we do not find for the appellants in respect of their first ground, there is no need for us to visit their second. Our decision on the first ground of appeal 29 To determine the first ground of appeal, we will address each of the five arguments raised by the appellants (set out at [24(a)]–[24(e)] above). These five arguments may be distilled into five issues:(a) First, whether the respondents properly pleaded and proved that BR would have wound up KSC, such that the appellants’ expenditure (by way of the loans extended to KSC) would have been wasted irrespective of whether BR had breached the JV Deed.(b) Second, whether the appellants have established that they would have gift-funded KSC an amount beyond the sum of US$20 million that the SICC determined they would have given, which would prevent KSC’s winding up.(c) Third, whether the Subordination Letter ought to be interpreted in the manner suggested by the appellants, such that it had the effect of postponing KSC’s payment obligations under the 1SLA (BR) and 2SLA (BR). (d) Fourth, whether cl 7.1(x) of the JV Deed should be construed in the way suggested by the appellants, such that it deprived BR of the legal power to wind up KSC unilaterally, even as an unpaid creditor.(e) Lastly, on the footing that BR would have unilaterally wound up KSC – and been successful in doing so – whether doing so would have amounted to breaches of cll 17.1 or 17.3 of the JV Deed.30 We address each in turn.Was it properly pleaded and proven that BR would have wound up KSC?31 The first question comprises two sub-issues: first, whether the respondents had properly pleaded their claim that BR would have wound up KSC for defaulting on its payment obligations under the 1SLA (BR), 2SLA (BR) or for the Coal Advance; and second, whether this claim was substantiated on the facts. 32 In respect of the first sub-issue, we agree with the SICC that the respondents had, in their Defence and Counterclaim, “signalled the possibility” that BR would likely have taken steps to liquidate KSC even if BR’s coal supply obligations had not been breached, and, therefore, that this would have affected the viability of the joint venture as well as the appellants’ ability to recover their expenditure (we refer to this as the “Winding Up Defence”). In all fairness, however, we think it may be putting it somewhat higher than warranted to say, as the SICC did, that the respondents had “squarely indicated” in their pleadings that BR would have specifically taken steps to wind up KSC on the basis that KSC would have defaulted on the various loans due to be repaid to BR (see the Judgment at [150]).33 The respondents’ pleaded position on this issue is not of the highest quality. Despite the long procedural history of the parties’ dispute, it was only on 21 January 2020, in the sixth amendment to the Defence and Counterclaim, that the following pleading at paragraph 197D
+                   37
+
+
+
+
+Foot Note 37
+
+×
+
+
+
+  ROA (Vol 2, Part 2) at pp 105 and 204.
+
+
+
+ was added to respond to the appellants’ allegation that they “suffered substantial loss and damage”
+                   38
+
+
+
+
+Foot Note 38
+
+×
+
+
+
+  ROA (Vol 2, Part 1) at p 148.
+
+
+
+ as a consequence of BR’s breaches of the JV Deed:197D Further, it is also denied that any breach by BR of the JV Deed caused or was the effective cause of the alleged loss and damage in paragraph 59G of the Statement of Claim. … In this regard:…(b) By November 2011, the relationship between BR and BCBCS had broken down, BR no longer had any faith in the viability of the Project, and the Tabang Plant had become an environmental and health hazard that was undermining BR’s relationship with the local villagers. Further, on 2 November 2011, BR told the representatives of WEC and/or BCBCS that it wished to liquidate [KSC].…[emphasis added in italics]34 Before this point, the respondents’ pleading was simply to not admit that the appellants had incurred wasted expenditure, and an assertion that the appellants’ wasted expenditure was in any event “not incurred by reason of and/or caused by the [respondents’] conduct”.
+                   39
+
+
+
+
+Foot Note 39
+
+×
+
+
+
+  ROA (Vol 2, Part 2) at p 198.
+
+
+
+ Although it is clear from this pleading that the respondents intended to rely on causal arguments to refute any liability for damages, the particulars of any such arguments were not stated.35 In this appeal, the appellants submit in writing
+                   40
+
+
+
+
+Foot Note 40
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 56–65.
+
+
+
+ – though they did not press the point at the hearing before us – that paragraph 197D(b) of the amended Defence and Counterclaim did not contain the material facts necessary to properly put the Winding Up Defence into issue. Their main contentions are as follows. (a) First, the basis on which BR would have wound up KSC was a material fact which should have been pleaded because, without notice of such basis, the appellants could not effectively meet the respondents’ case. It should thus have been pleaded and proved that the respondents could and would have wound up KSC specifically as an unpaid creditor.
+                   41
+
+
+
+
+Foot Note 41
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 59–60.
+
+
+
+ (b) Second, this fact was not pleaded, and at paragraph 197D, the respondents only referred to their intention to wind up KSC expressed at a meeting between the parties on 2 November 2011. However, at the time of that meeting, none of KSC’s loans to BR had even fallen due, and, furthermore, at no point during that meeting was it even suggested that BR would have wound up KSC on the basis of the 1SLA (BR), 2SLA (BR) or PLFA.
+                   42
+
+
+
+
+Foot Note 42
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at para 61.
+
+
+
+ Therefore, the question of whether BR would have wound up KSC as an unpaid creditor was not properly put into issue, and the respondents are accordingly precluded from relying on this assertion to avoid liability for damages. (c) Third, in any case, even if the respondents were allowed to rely on the Winding Up Defence on the specific basis that BR would have wound up KSC as an unpaid creditor, this claim is not borne out by the facts,
+                   43
+
+
+
+
+Foot Note 43
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 62–64.
+
+
+
+ and is further weakened – evidentially – by the fact that it would have been wholly uncommercial for BR to wind up KSC.
+                   44
+
+
+
+
+Foot Note 44
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 35–36.
+
+
+
+36 The respondents have three main answers to this. First, they argue that paragraph 197D(b) was sufficient to put the Winding Up Defence into issue.
+                   45
+
+
+
+
+Foot Note 45
+
+×
+
+
+
+  Respondents’ Case (6 July 2022) at para 16.
+
+
+
+ Second, the specific basis on which BR would have wound up KSC – that is, as an unpaid creditor following KSC’s default of the 1SLA (BR), 2SLA (BR) or PLFA – was put beyond doubt by the respondents’ opening statement
+                   46
+
+
+
+
+Foot Note 46
+
+×
+
+
+
+  ROA (Vol 4, Part 46) at p 203 (para 32) and p 207 (para 43).
+
+
+
+ at the third tranche of trial,
+                   47
+
+
+
+
+Foot Note 47
+
+×
+
+
+
+  Respondents’ Case (6 July 2022) at para 18.
+
+
+
+which in turn followed from an indication in the report of the respondents’ quantum expert, Mr Greig Taylor (“Mr Taylor”).
+                   48
+
+
+
+
+Foot Note 48
+
+×
+
+
+
+  ROA (Vol 3, Part 142) at pp 75–81 (paras 5.4–5.35)
+
+
+
+ Indeed, on the second day of the third tranche of trial, this position was reiterated orally by counsel for the respondents.
+                   49
+
+
+
+
+Foot Note 49
+
+×
+
+
+
+  ROA (Vol 3, Part 130) at p 116 line 17 to p 118 line 5.
+
+
+
+ Yet, despite having clear notice of the respondents’ position, it was only at the end of trial that the appellants faintly objected to such position being taken on the basis that it had not been pleaded.
+                   50
+
+
+
+
+Foot Note 50
+
+×
+
+
+
+  ROA (Vol 4, Part 61) at p 69 (para 84).
+
+
+
+ The appellants’ primary response was to lead evidence in order to demonstrate that BR would not have had a basis to wind up KSC. They did not adduce evidence to show that BR would not in fact have taken steps to do so. Equally, they also did not put to the respondents’ witnesses that it would have been “uncommercial” for BR to wind up KSC, a finding of fact which the SICC was not invited to make. Thus, it is now too late for the appellants to raise and rely on such fact.
+                   51
+
+
+
+
+Foot Note 51
+
+×
+
+
+
+  Respondents’ Case (6 July 2022) at para 88.
+
+
+
+ Third, none of the arguments raised by the appellants address how they expected the joint venture to continue in light of the fundamental breakdown of the parties’ working relationship.
+                   52
+
+
+
+
+Foot Note 52
+
+×
+
+
+
+  Respondents’ Case (6 July 2022) at paras 89–92.
+
+
+
+37 While we do not think the respondents’ pleading was a model of clarity, we disagree with the appellants that the respondents should not now be allowed to take the point that BR would have taken steps to wind up KSC upon it defaulting on the payments due under the various loans. 38 In the circumstances of this case, we are satisfied that Mr Taylor’s report and the respondents’ opening statement at trial, coupled with the appellants’ failure to take a more substantive objection, were enough to put the point in issue. Thus, the SICC did not err in considering the respondents’ defence on its merits, nor did it err in determining the ultimate issue – that is, whether BR would have taken steps to wind up KSC – in the respondents’ favour. In our judgment, the SICC was correct to find against the appellants on this issue, and we agree with this conclusion for three essential reasons. First, as noted in the Second Tranche Appeal Judgment at [9]–[33], the relationship between the parties deteriorated from November 2011 and had basically broken down by February 2012 when BR issued its letter of termination (also see [12] above). In the face of this finding – which remains undisturbed before us – it is artificial to suggest that BR would nonetheless have held out for the many years that would have been necessary for the appellants to have some chance to recover the money that had been loaned to KSC. As stated above, even on Mr Nicholson’s calculations, the appellants would only have started seeing any payments from 2028 and, even then, only of interest, and not yet of the principal sums of the loans (see [17] above).39 Second, against this backdrop, we do not accept that there was no evidence to support the respondents’ claim that BR would have wound up KSC as an unpaid creditor. At the 2 November 2011 meeting, the respondents made clear that they wished to bring the joint venture to an end (see the Second Tranche Judgment at [24]), and, although BR chiefly proposed that this end be brought about by BCBCS buying over BR’s 49% interest in KSC, at a further meeting on 6 December 2011, BR also made clear that unless BCBCS had an acceptable counter-proposal, KSC would have to be liquidated (see the Second Tranche Judgment at [50(f)]; the Second Tranche Appeal Judgment at [23]). That this discussion did not concern BR winding up KSC as an unpaid creditor is beside the point. Given the state of the parties’ relationship, coupled with the fact that the liquidation of KSC was envisioned, it is more probable than not that BR would have used the means available to it, to achieve its desired objective. 40 As regards the appellants’ contention that winding up KSC would have been uncommercial, we do not agree that this tilts the balance back in the appellants’ favour. To the appellants, it might have been sensible to keep the venture going, but it would not have been unreasonable for BR to have taken the view that it was better off cutting its losses.41 Finally, it seems to us that the appellants also realised that they probably could not effectively dispute that BR would have taken steps to wind up KSC. In their closing submissions at trial, they began with a brief assertion that the respondents’ Winding Up Defence was unpleaded and without factual basis.
+                   53
+
+
+
+
+Foot Note 53
+
+×
+
+
+
+  ROA (Vol 4, Part 61) at pp 69–70 (paras 84–87).
+
+
+
+ As just stated, we do not agree with this. 42 But thereafter, the closing submissions turned and paid more attention to: (a) the funding that the appellants would have provided to KSC to allow it to pay BR the sums it owed for the Coal Advance (see [24(b)] above);
+                   54
+
+
+
+
+Foot Note 54
+
+×
+
+
+
+  ROA (Vol 4, Part 61) at p 72 (para 93).
+
+
+
+ (b) arguments premised on the Subordination Letter to support the conclusion that KSC’s obligation to repay the 1SLA (BR) and 2SLA (BR) would not have been triggered (see [24(c)] above);
+                   55
+
+
+
+
+Foot Note 55
+
+×
+
+
+
+  ROA (Vol 4, Part 61) at pp 70–71 (paras 88–90), p 72 (para 92), p 73 (paras 96–97).
+
+
+
+ and (c) the breaches of cll 17.1 and 17.3 of the JV Deed which BR would have committed if it successfully wound up KSC (see [24(e)] above).
+                   56
+
+
+
+
+Foot Note 56
+
+×
+
+
+
+  ROA (Vol 4, Part 61) at pp 71–72 (para 91).
+
+
+
+ These arguments, as we note at [44]–[45], [49]–[50] and [61]–[63] below, sought to establish that there were factual and legal barriers which would have prevented BR from either unilaterally winding up KSC as an unpaid creditor or relying on the fact of such winding up to avoid liability for damages. The appellants offered no serious opposition to the claim that BR was ready, willing and going at least to try to end the joint venture, irrespective of whether it would have been successful in this regard.43 On a balance of probabilities, we are therefore satisfied that BR would at least have attempted to wind up KSC as an unpaid creditor, and the questions which remain are whether it would have been successful in doing so in fact and in law, and, whether it should be precluded from relying on this to avoid liability for damages.Would gift-funding have been made to prevent KSC’s winding up?44 As mentioned at [24(b)] above, the respondents do not dispute that the appellants would have gifted KSC: (a) US$4.19 million in order to settle its debt for the Coal Advance; and (b) a further US$20 million to cover its cash needs until June 2012. In respect of the latter, however, the respondents call to attention that the appellants’ evidence was that the US$20 million to be gifted to KSC was to fund its “operating costs”; the appellants’ evidence was not that such funds would have been gifted to KSC for the purposes of repaying its loans under the 1SLA (BR) and 2SLA (BR).
+                   57
+
+
+
+
+Foot Note 57
+
+×
+
+
+
+  Respondents’ Case (6 July 2022) at para 64.
+
+
+
+ The respondents also highlight that, in any event, the appellants did not adduce evidence to support their claim in this appeal that they would have funded KSC to the tune of US$56.4 million, which is what the respondents say (and the appellants have not disputed) it needed to repay BR under the 1SLA (BR) and 2SLA (BR).
+                   58
+
+
+
+
+Foot Note 58
+
+×
+
+
+
+  Respondents’ Case (6 July 2022) at para 60.
+
+
+
+45 Having reviewed the record of the proceedings below, we are unable to accept the appellants’ contention that they would have gift-funded KSC the sum of US$56.4 million in order to stave off its winding up. The evidence simply does not bear this out, and this is of the appellants’ own doing. 46 At trial, the appellants were mindful of the respondents’ claim that BR would have wound up KSC as an unpaid creditor. This is evident from the fact that the appellants specifically adduced evidence that KSC would have been gifted US$4.19 million to settle its debt to BR for the Coal Advance.
+                   59
+
+
+
+
+Foot Note 59
+
+×
+
+
+
+  ROA (Vol 3, Part 126) at p 237 (para 8).
+
+
+
+ Indeed, the appellants also made submissions on this specific gift.
+                   60
+
+
+
+
+Foot Note 60
+
+×
+
+
+
+  ROA (Vol 4, Part 61) at p 72 (para 93). 
+
+
+
+ However, they chose to deal with the remainder of KSC’s debts to BR (namely those under the 1SLA (BR) and 2SLA (BR)) on the basis that the Subordination Letter postponed KSC’s obligation to repay those loans, and that winding up KSC would also in any event have been a breach of BR’s duties under cl 17 of the JV Deed.
+                   61
+
+
+
+
+Foot Note 61
+
+×
+
+
+
+  ROA (Vol 4, Part 61) at pp 70–73 (paras 87–92 and 96–97).
+
+
+
+ Though they could have done so, the appellants chose not to adduce evidence that, if the Subordination Letter and cl 17 of the JV Deed did not have the effect proposed, they would – in any event – have fully settled KSC’s debt to BR under the shareholder loans so as to keep the venture going. 47 Nevertheless, the appellants say that there is enough factual material for us to conclude that they could and would have provided the additional funds necessary to keep KSC afloat vis-à-vis BR.
+                   62
+
+
+
+
+Foot Note 62
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 69–78.
+
+
+
+ We disagree. That the appellants would have gifted US$20 million to sustain KSC’s cash needs until June 2012 is one matter. To say that they would have provided up to US$56.4 million is quite another. The principal difficulty here is that there must, at the very least, be evidence that the appellants would have specifically provided the required sum to KSC, and, further, some explanation for why sinking up to US$56.4 million into the venture in these circumstances would have been a sensible commercial decision. Such explanation would also need to account for the appellants’ poor relationship with the respondents and, consequently, the risk of BR breaching and wrongfully terminating the JV Deed, particularly given that BR’s supply of coal to KSC was essential to its very viability as a business. 48 No such evidence or explanation was placed before the SICC and none is before us. We therefore reject the appellants’ contention that KSC would have been protected from falling into default of its payment obligations under the 1SLA (BR) and 2SLA (BR) through further gift-funding from the appellants.Did the Subordination Letter preclude BR from winding up KSC?49 We also do not accept the appellants’ argument that the Subordination Letter (set out at [11] above) had the effect of postponing KSC’s obligation to repay BR under the 1SLA (BR) and 2SLA (BR) until it had fully repaid the sums due under the PLFA. The Subordination Letter merely set out, in rather general terms, the order in which BCBCS and BR agreed KSC would repay the various loans made. Neither the text of the letter, nor the context in which it was prepared (as to which the appellants made detailed submissions),
+                   63
+
+
+
+
+Foot Note 63
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 48–53.
+
+
+
+ suggested with sufficient clarity that the parties objectively intended for KSC’s full repayment of the PLFA to operate as a condition precedent
+                   64
+
+
+
+
+Foot Note 64
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at para 45.
+
+
+
+ to KSC’s obligation to repay the shareholder loans made by both BCBCS and BR. To read into the terms of the Subordination Letter such an effect would, in our view, stretch its language too far.50 In particular, the contextual points raised by the appellants need to be addressed. The appellants submit that during the negotiations leading to the PLFA and Subordination Letter (which, as stated at [11] above, were signed on the same day), the parties anticipated that KSC would not have been able to pay off its debts under the PLFA by 31 December 2011 (the original repayment date before it was extended to 30 June 2012), let alone the aggregate due under the PLFA and the shareholder loans that were due thereafter. This, the appellants say, led to the inclusion of Art 9.3 of the PLFA which provided that, if KSC “does not have the requisite funds available to repay BCBCS and BR in full, [KSC], BCBCS and BR will agree an alternative repayment schedule”.
+                   65
+
+
+
+
+Foot Note 65
+
+×
+
+
+
+  ROA (Vol 5) at p 183.
+
+
+
+ By this, the appellants submit that the parties were required to agree to the postponement of KSC’s repayment obligations under the PLFA. This, it is said, supports the conclusion that the parties agreed by way of the Subordination Letter to suspend KSC’s repayment obligations under the shareholder loans until the PLFA had been fully repaid. If the Subordination Letter did not have such effect, and KSC’s obligations to repay the shareholder loans would have fallen due irrespective of whether the PLFA had been fully paid, the parties’ obligation to agree to an alternative repayment schedule for the sums due under the PLFA would be rendered wholly otiose.
+                   66
+
+
+
+
+Foot Note 66
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 48–50.
+
+
+
+51 We do not agree for the following reasons:(a) First, if the parties in fact anticipated that KSC would not have been able to make payment on the PLFA by 31 December 2011, it makes no sense that they nonetheless agreed that KSC’s payment obligations would accrue on that date. They would, logically, have instead agreed that KSC would be obliged to make payment in accordance with the schedule to be agreed under Art 9.3, and, in the absence of such agreement, on some fixed date later than 31 December 2011. Yet, this is not what the PLFA provided. Article 9.1 of the PLFA unambiguously stated that KSC was obliged to pay BCBCS and BR on the “Repayment Date”, meaning 31 December 2011 “unless extended”.
+                   67
+
+
+
+
+Foot Note 67
+
+×
+
+
+
+  ROA (Vol 5) at p 183 (read with p 180). 
+
+
+
+ (b) Second, although Art 9.3 of the PLFA obliges the parties to agree an alternative repayment schedule in the event KSC is unable to make full repayment, that does not do away with KSC’s clear obligation to repay BCBCS and BR on the date referenced in Art 9.1. If no alternative schedule is agreed under Art 9.3, KSC’s obligation under Art 9.1 stands, and, at most, the question would arise as to whether either party wrongfully obstructed an alternative schedule from being agreed under Art 9.3. If, for example, BR had wrongfully prevented an alternative repayment schedule from being agreed, that might constitute a separate breach of contract, but that cannot have the effect of displacing the obligation to repay BCBCS and BR on the date referred to in Art 9.1. (c) Third, in this light, the fact that Art 9.3 was included in the PLFA is not determinative in so far as we are concerned with the effect of the Subordination Letter. Whether KSC was able to make payment or not, its obligation to repay the sums it owed under the PLFA simply fell due in accordance with Art 9.1 unless such due date was extended under Art 11.1 (see [9] above), or unless an alternative repayment schedule was agreed under Art 9.3. If the Subordination Letter was intended to effect the significant changes to KSC’s payment obligations suggested by the appellants, the terms of the letter could, should and would have been drafted more clearly. That they were not indicates to us that the parties did not objectively intend for the letter to have such effect.52 Finally, we accept that the precise effect of the Subordination Letter remains somewhat obscure. While the language and context of the Subordination Letter do not support the conclusion that the parties intended that the repayment dates earlier agreed upon would be affected or varied in the way suggested by the appellants, it is not entirely satisfactory to suggest that the Subordination Letter did nothing to vary the parties’ legal positions. Neither the appellants nor respondents were able to satisfactorily account for the terms of the Subordination Letter in the light of the surrounding facts. While we were clear that the appellants’ contention (that KSC’s payment obligations under the 1SLA (BR) and 2SLA (BR) had been deferred indefinitely until the PLFA had been repaid) was not correct for the reasons set out at [49]–[51] above, we think the best sense we can make of it is that the Subordination Letter was concerned with rearranging the sequence in which payments would be made if and to the extent the outstanding amounts under the PLFA’s Priority Facility and the Coal Advance were going to be repaid when due, subject to any agreed extensions. Once that date had passed, there could be no logical basis for further deferring KSC’s payment obligations under the other loan agreements. As at the date of the termination, the sums outstanding under the PLFA’s Priority Facility, and the Coal Advance were due for payment a few months later, on 30 June 2012 and there is no question that KSC would not have been able to make those payments on that date. Absent evidence that the date for repayment would have been further extended, we can see no basis for holding that BR could not have enforced KSC’s other debts when they fell due.Did cl 7.1(x) of the JV Deed preclude BR from winding up KSC?53 Clause 7.1(x) of the JV Deed provides as follows:
+                   68
+
+
+
+
+Foot Note 68
+
+×
+
+
+
+  ROA (Vol 5) at pp 59–61.
+
+
+
+7.1 Matters requiring unanimous consentThe Members agree that despite anything to the contrary in this Deed, or in the Constitution, the unanimous consent of the Members or Directors (as appropriate as the case may be in accordance with the Applicable Law) is required for the Company to do any of the following, unless such act, matter or thing is dealt with in an approved Business Plan:…(x)  cease the Company’s business, terminate its operations or wind up the Company; …[emphasis in original omitted; emphasis added in italics]54 In our judgment, cl 7.1(x) does not answer the respondents’ claim that BR would have been able to wind up KSC as an unpaid creditor. The words emphasised above show that the provision concerned the decision-making of KSC internally, with BCBCS and BR acting either in their capacity as members of KSC or through the directors they each nominated to the board of KSC. This becomes even more apparent when we examine some of the other sub-clauses within cl 7.1 of the JV Deed. For example, cl 7.1(o), (v) and (kk), respectively, concern KSC: changing its name; changing its registered office, and determining its directors’ remuneration and fees.
+                   69
+
+
+
+
+Foot Note 69
+
+×
+
+
+
+  ROA (Vol 5) at pp 60–61.
+
+
+
+ The inclusion of these purely administrative functions within cl 7.1, in our view, strongly supports the conclusion that cl 7.1 concerns decision-making matters internal to KSC and does not affect BR’s external right to wind up KSC as an unpaid creditor.55 The appellants advance another means by which they seek to bring BR’s conduct as a creditor within cl 7.1(x) of the JV Deed. They submit that the 1SLA (BR) and 2SLA (BR) were “member loans” made pursuant to cl 8 of the JV Deed. Accordingly, allowing BR to unilaterally wind up KSC for defaulting on these types of loans would undercut the following finding made by this court in the Second Tranche Appeal Judgment (at [76]–[77]):
+                   70
+
+
+
+
+Foot Note 70
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 11–12.
+
+
+
+76 We begin with cl 7.1(x) of the JV Deed, which required BCBCS’s and BR’s unanimous consent to (among other things) ‘cease the Company’s business’. We also highlight cl 11 of the JV Deed, which provided a mechanism to break deadlocks. The latter is significant because this was the agreed mechanism that would apply if the parties disagreed on whether KSC should stop its business, instead of either party acting unilaterally to force this outcome by starving KSC of funding. It is significant that the definition of ‘deadlock’ under the JV Deed contemplated impasses on any of the matters under cl 7.1, including the cessation of the business.77 The foregoing undercuts [BR’s] position that [it was] able to unilaterally bring about the cessation of KSC’s operations and business simply by withholding consent to provide further funding. We therefore agree with [BCBCS] that the business was in operation during the Relevant Period.[emphasis in original omitted; emphasis added in italics]56 We do not accept this argument. The appellants have taken these two paragraphs of the Second Tranche Appeal Judgment out of context. The question with which we were concerned there was whether BR remained obliged to supply coal to KSC after 15 December 2011 given that the Tabang Plant had been placed into care and maintenance and was not in operation. The respondents’ position was that BR’s coal supply obligations had ceased because cl 3.8(b)(iii) of the JV Deed only obliged it to supply coal “for the operation of the Business”.
+                   71
+
+
+
+
+Foot Note 71
+
+×
+
+
+
+  ROA (Vol 5) at pp 53–54.
+
+
+
+ Against this, the appellants submitted that KSC’s “business” was still in operation because cl 7.1(x) of the JV Deed required both BCBCS’s and BR’s consent to cease KSC’s business, and such consent had not been obtained. The respondents countered that cl 7.1(x) was irrelevant because the parties could not sensibly have intended such a formalistic operation of the terms. As there was no dispute that KSC required further funding in order to restart its operations, and that BR had withheld its consent to provide the necessary further funding, the respondents contended – as a matter of fact – that KSC’s operations and business had ceased, which, in turn, obviated BR’s coal supply obligations. We rejected the respondents’ contentions, taking the view that BR could not unilaterally have brought about the cessation of KSC’s business by its own decision to withhold funding (see the Second Tranche Appeal Judgment at [77]). Put simply, we held BR to the formality imposed by cl 7.1(x). This reasoning, which concerned the performance of various duties under the joint venture, is of no relevance here where we are concerned with each party’s separate and individual right to enforce a debt. We therefore find, for the reasons given at [54] above, that cl 7.1(x) does not support the appellants’ first ground of appeal.An ancillary issue arising from cl 8.2 of the JV Deed57 While we did not accept the appellants’ arguments premised on cl 7.1(x) of the JV Deed, their reference to cl 8 (see [55] above), however, does raise a potentially salient question relevant to whether BR would have been able to wind up KSC. This is because cl 8.2 of the JV Deed provides:
+                   72
+
+
+
+
+Foot Note 72
+
+×
+
+
+
+  ROA (Vol 5) at p 62.
+
+
+
+8 Finance…Member loans8.2 Unless agreed otherwise in advance by each of the Members, if the Relevant Amount cannot [sic] be raised by the Board on reasonable terms by borrowing from third parties then the Members will provide to the Company the Relevant Amount through member loans. [emphasis in original omitted; emphasis added in italics]The JV Deed defines “Relevant Amount” to mean “any amount in excess of [KSC’s] own resources to satisfy its needs under the Business Plan”.58 We should highlight that although the appellants do not rely on cl 8.2 in mounting their appeal, the effect of the clause was a matter that arose at the hearing before us. In essence, it appeared that the phrase “will provide” in cl 8.2 could have obliged BR not only to advance “member loans” to KSC, but also to maintain them through a default such that BR would have been precluded from taking steps to wind up KSC even if it had failed to make repayments. 59 Ultimately, however, having reviewed the First Tranche Judgment, we do not think that such a reading of cl 8.2 is tenable. Clause 20.13 of the JV Deed provided that BCBCS or BR could “give [their] consent conditionally or unconditionally or withhold [their] approval or consent in [their] absolute discretion unless this Deed expressly provides otherwise”.
+                   73
+
+
+
+
+Foot Note 73
+
+×
+
+
+
+  ROA (Vol 5) at p 80.
+
+
+
+ Reading this clause alongside cll 7 and 8, the SICC determined that, “[i]n their natural and ordinary meaning, the combined effect” of these three clauses was that “BCBCS and BR could refuse to provide additional funding for KSC in their absolute discretion (cl 20.13)” (see the First Tranche Judgment at [109]). This interpretation of the clauses has not been challenged by either party since the first tranche of trial and may thus be taken as settled. 60 On this interpretation, if BR could refuse to provide additional funding to KSC, it cannot reasonably be contended that, once BR provided such funding, it was obliged to maintain the loan even if KSC defaulted thereon. In this light, cl 8.2 would not have precluded BR from taking steps to wind up KSC as an unpaid creditor.Would BR have breached cll 17.1 and 17.3 by winding up KSC?61 Clauses 17.1 and 17.3 of the JV Deed provide:
+                   74
+
+
+
+
+Foot Note 74
+
+×
+
+
+
+  ROA (Vol 5) at p 76.
+
+
+
+17 Mutual Co-operationPrimary obligation17.1 Each of the Members agrees that it will use all reasonable endeavours to promote the Business and the profitability of the Company.…Obligations of Members17.3 Each of the Members agrees with the other that this Deed is entered into between them and will be performed by each of them in a spirit of mutual cooperation, Good Faith, trust and confidence and that it will use all means reasonably available to it (including its voting power whether direct or indirect, about the Company) to give effect to the objectives of this Deed and to ensure that the Company complies with its obligations.[emphasis in original omitted]62 The appellants made lengthy submissions contending that, even if BR managed to wind up KSC as an unpaid creditor, it would have been acting in breach of cll 17.1 and 17.3 of the JV Deed.
+                   75
+
+
+
+
+Foot Note 75
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 13–34.
+
+
+
+ It should be noted that the appellants accept that such breaches were only pleaded in the sense that they set out the terms of cll 17.1 and 17.3 and asserted that they would be “relying on the full terms of the JV Deed”.
+                   76
+
+
+
+
+Foot Note 76
+
+×
+
+
+
+  ROA (Vol 2, Part 1) at p 79 (para 15).
+
+
+
+ To the extent that the pleading was not more specific, the appellants argue that this was a result of the respondents’ failure to properly plead that BR would have wound up KSC as an unpaid creditor. In the alternative, the appellants also contend that, notwithstanding any inadequacy of the pleadings, the question of whether cll 17.1 and 17.3 had been breached was “specifically ventilated” at the third tranche of trial.
+                   77
+
+
+
+
+Foot Note 77
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 37–39.
+
+
+
+63 As we have stated at [31]–[43] above, although the respondents’ pleaded case was not a model of clarity, there was enough to put the Winding Up Defence into issue. Indeed, it is apparent that the appellants appreciated that the matter was in issue because, as stated at [46] above, they led evidence specifically in support of their position that they would have covered KSC’s obligation to pay BR for the Coal Advance and raised various arguments to refute the Winding Up Defence. However, there was little or no exploration of cll 17.1 and 17.3 at the third tranche of trial. The appellants only point us to scant mentions of the point before the SICC.
+                   78
+
+
+
+
+Foot Note 78
+
+×
+
+
+
+  Appellants’ Case (24 May 2022) at paras 38–39.
+
+
+
+64 That is not sufficient. It should not be surprising that determining whether there have been breaches of one’s contractual obligations to use all reasonable endeavours, to co-operate, to act in good faith, or not to act in breach of trust and confidence, are intensely fact-sensitive inquiries. They depend not only on the character of the contract in question but also on the circumstances of the parties’ interactions, the stage at which the contract is, and, of course, the particular act or course of conduct which is said to result in a breach (see, for instance, the recent decision of the Appellate Division of the High Court in Ng Koon Yee Mickey v Mah Sau Cheong [2022] SGHC(A) 33 at [105]–[133] which concerned a duty to co-operate). Having decided that they would rely on cll 17.1 and 17.3 (as evident from their closing submissions at trial), the appellants ought to have approached the third tranche of trial with a view to securing the factual premises necessary to establish breaches of cll 17.1 and 17.3. They did not do so, and it is now too late for them to rely on these clauses as they do. The second ground of appeal65 In light of our decision on the first ground of appeal, we need not turn to the appellants’ second ground.Conclusion 66 For these reasons, we dismiss the appeal. That said, we recognise that the appellants were successful, in the first and second tranches, in establishing that BR acted in breach of the coal supply obligations they owed under the JV Deed. Even though they were not able to prove that they suffered substantial damages as a consequence, that does not detract from their success in establishing BR’s liability for breach of contract. We therefore award the appellants S$1,000 in nominal damages. 67 As to the costs of the appeal, unless the parties are able to come to an agreement, we direct them to file written submissions, limited to ten pages each, setting out their positions on the appropriate costs orders we should make together with the supporting grounds. These are to be filed within three weeks of the date of this judgment. We note that the costs of the trial have been determined by the SICC: see BCBC Singapore Pte Ltd and another v PT Bayan Resources TBK and another [2022] SGHC(I) 17 (the “Costs Judgment”). As we have affirmed the Judgment, and as there is a pending application before us by which the appellants seek permission to appeal the SICC’s Costs Judgment, we expressly make no order or observations in respect of trial costs. The usual consequential orders will apply.Sundaresh MenonChief Justice Judith PrakashJustice of the Court of AppealJonathan Hugh ManceInternational JudgeFrancis Xavier SC, Chia Xin Ran Alina, Gani Hui Ying Tracy and Tay Bok Chong Alvin (Rajah & Tann Singapore LLP) for the appellants;Davinder Singh s/o Amar Singh SC, Jaikanth Shankar, Tan Ruo Yu, Amarpall Singh and Ayana Ki (Davinder Singh Chambers LLC) for the respondents.
