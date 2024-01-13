@@ -1,0 +1,802 @@
+
+In the GENERAL DIVISION OF THE high court of the republic of singapore[2023] SGHC 188Magistrate’s Appeal No 9134 of 2022BetweenPublic Prosecutor… Appellant AndTan Teck Leong Melvin (Chen Deliang Melvin)… Respondentjudgment[Criminal Law — Statutory offences — Customs Act][Criminal Procedure and Sentencing — Appeal][Criminal Procedure and Sentencing — Sentencing — Sentencing framework]This judgment is subject to final editorial corrections to be approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in LawNet and/or the Singapore Law Reports.Public Prosecutor vTan Teck Leong Melvin [2023] SGHC 188General Division of the High Court — Magistrate’s Appeal No 9134 of 2022Sundaresh Menon CJ, Tay Yong Kwang JCA and Vincent Hoong J9 February, 2 March 202314 July 2023 Judgment reserved.Tay Yong Kwang JCA (delivering the judgment of the court):Introduction1 The respondent is a male Singapore citizen, aged 44. He pleaded guilty to three charges under s 128D of the Customs Act (Cap 70, 2004 Rev Ed) (“Customs Act”) for fraudulently evading Goods and Services Tax (“GST”) on imported goods. He also admitted to six other similar offences and consented to having them taken into consideration for the purpose of sentencing (“the TIC charges”). 2 The District Judge (“DJ”) sentenced him to a fine of $1m, in default eight months’ imprisonment, for each of the three charges. The aggregate sentence was therefore a fine of $3m, in default 24 months’ imprisonment. The DJ’s grounds of decision are set out in Public Prosecutor v Tan Teck Leong, Melvin (Chen Deliang, Melvin) [2022] SGDC 162 (“GD”). 3 The Prosecution appealed against the sentence imposed by the DJ on the ground that it is manifestly inadequate. This appeal entails our consideration of what the appropriate sentencing framework should be for offences under s 128D of the Customs Act. We also consider the related issue of the appropriate default imprisonment term in the event of failure to pay the fine imposed. FactsUndisputed facts 4 The respondent was the sole proprietor of T.L Freight (“TL”), which was a freight forwarder that shipped consolidated cargoes from China to Singapore. As the sole proprietor of TL, the respondent was responsible for creating a consolidated packing list for each shipment. The Singapore importers or their suppliers would send the respondent a copy of their individual packing lists and invoices. The respondent would then create a consolidated packing list by collating the individual packing lists.
+                   1
+
+
+
+
+Foot Note 1
+
+×
+
+
+
+  Record of Appeal (“ROA”) p 19 (Statement of Facts (“SOF”) paras 1 and 4).
+
+
+
+ 5 Between January 2016 and December 2019, the respondent falsified various consolidated packing lists by lowering the value of the goods in the consolidated packing lists at random.
+                   2
+
+
+
+
+Foot Note 2
+
+×
+
+
+
+  ROA pp 20–22 (SOF paras 6, 11 and 14).
+
+
+
+ The falsified consolidated packing lists were then provided to TL’s declaring agents. Relying on these falsified consolidated packing lists, the declaring agents under-declared to Singapore Customs (“Customs”) the value of the goods imported by TL. The respondent was aware that by declaring a lower value, he would pay less GST for the imported goods. The respondent prepaid the lower amounts of GST to his declaring agents who then paid the amounts to Customs. 6 After the imported goods were received in Singapore, the respondent sent the buyers separate invoices for sea freight charges and for GST reimbursements based on the actual higher value of the goods instead of the falsified lower value in the consolidated packing lists. The respondent pocketed the difference between the higher amount of GST that he received from the buyers and the lower amount of GST that he had prepaid to his declaring agents.
+                   3
+
+
+
+
+Foot Note 3
+
+×
+
+
+
+  ROA pp 20–23 (SOF paras 6–18).
+
+
+
+ The total amount of GST evaded by the respondent (in relation to the three charges proceeded with) was as follows:Charge NumberTime Period GST payable based on actual value of goodsGST paid to CustomsAmount of GST evaded / pocketed by respondent DAC-911649-20214 January 2016 to 30 December 2016$299,984.93$117,188.47$182,796.46DAC-911650-20218 January 2017 to 27 December 2017$321,954.81 $102,070.41$219,884.40DAC-911652-20212 January 2019 to 31 December 2019$282,115$80,568.79$201,546.21TOTAL$604,227.077 The goods imported by the respondent consisted of miscellaneous goods such as clothing, furniture, food and stationery.
+                   4
+
+
+
+
+Foot Note 4
+
+×
+
+
+
+  ROA p 116 (Plea-in-mitigation para 48).
+
+
+
+ He committed the offences for his own personal gain as he was deep in debt from various loans that he had obtained from banks and from his family in Singapore and in China.
+                   5
+
+
+
+
+Foot Note 5
+
+×
+
+
+
+  ROA p 23 (SOF para 19).
+
+
+
+Proceedings in the District Court 8 As mentioned earlier, the respondent pleaded guilty to three charges under s 128D of the Customs Act for fraudulently evading GST. These charges were amalgamated charges under s 124(4) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) (“CPC”) and were framed to reflect the amounts of GST evaded collectively in the years 2016, 2017 and 2019 respectively (as set out in the table at [6] above). It suffices to reproduce the wording of one of the three charges that the Prosecution proceeded on:
+                   6
+
+
+
+
+Foot Note 6
+
+×
+
+
+
+  ROA p 5.
+
+
+
+DAC-911649-2021… are charged that you, between sometime around 4 January 2016 and 30 December 2016, in Singapore, being the sole proprietor of T.L Freight (‘TL’), did embark on a course of conduct to fraudulently evade Goods and Services Tax (GST) relating to miscellaneous goods imported by TL into Singapore from China vide 135 Cargo Clearance Permits contained in the attached Annex, to wit, you provided packing lists which contained untrue value of the miscellaneous goods to Intertrans Network (S) Pte. Ltd., Jazce International and V-Global Services for the purposes of making declarations of the 135 Cargo Clearance Permits, resulting in the fraudulent evasion of GST amounting to $182,796.46, and you have thereby, by virtue of Sections 26 and 77 of the Goods and Services Tax Act (Cap. 117A), paragraph 3 of the Goods and Services Tax (Application of Legislation Relating to Customs and Excise Duties) Order (Cap. 117A, Order 4) and paragraph 2 of the Goods and Services Tax (Application of Customs Act) (Provisions on Trials, Proceedings, Offences and Penalties) Order (Cap. 117A, Order 5), committed an offence under Section 128D of the Customs Act (Cap. 70), punishable under Section 128L(2) of the same Act, which is an amalgamated charge pursuant to Section 124(4) of the Criminal Procedure Code (Cap. 68).9 The respondent pleaded guilty to the above charge as well as two other similar charges. He also consented to the six TIC charges being taken into consideration for the purposes of sentencing.
+                   7
+
+
+
+
+Foot Note 7
+
+×
+
+
+
+  ROA p 63 (GD at [1]).
+
+
+
+ The six TIC charges were also amalgamated charges for the fraudulent evasion of GST under s 128D of the Customs Act and they covered the period from 11 October 2016 to 14 January 2020.
+                   8
+
+
+
+
+Foot Note 8
+
+×
+
+
+
+  ROA pp 24–43.
+
+
+
+Decision of the DJ10 The DJ sentenced the respondent to a total fine of $3m with a default imprisonment term of 24 months.
+                   9
+
+
+
+
+Foot Note 9
+
+×
+
+
+
+  ROA pp 97–98 (GD at [33] and [38]).
+
+
+
+ The DJ noted that the amount of GST evaded for each charge was around $200,000, the period of offending was long and the respondent was the only one who profited from his offences.
+                   10
+
+
+
+
+Foot Note 10
+
+×
+
+
+
+  ROA p 93 (GD at [28(a)]–[28(c)]. 
+
+
+
+ However, the DJ was mindful that there was a need to avoid double-counting the period of offending and the amount of GST evaded because the amount evaded had accumulated to a large sum because the respondent’s period of offending was long. Further, the DJ observed that the respondent’s offending did not involve harmful goods such as tobacco and liquors and was not sophisticated.
+                   11
+
+
+
+
+Foot Note 11
+
+×
+
+
+
+  ROA pp 93–94 (GD at [27] and [28(e)].
+
+
+
+ The respondent was a first offender who had pleaded guilty and he had also made partial restitution of $50,000, which might not be substantial in amount but was still significant when seen in the light of his annual income. This was stated in the mitigation plea to be an annual average of $30,489.50 for 2019 and 2020.
+                   12
+
+
+
+
+Foot Note 12
+
+×
+
+
+
+  ROA p 94 (GD at [28(d)]) and p 117 (Plea-in-mitigation para 53).
+
+
+
+ The DJ concluded that a fine equivalent to five times the amount evaded was appropriate. As the amount evaded for each of the three charges was about $200,000, this worked out to be a fine of $1m for each charge, making a total fine of $3m.
+                   13
+
+
+
+
+Foot Note 13
+
+×
+
+
+
+  ROA p 96 (GD at [31]). 
+
+
+
+ Applying a rate of approximately one week’s imprisonment for every $28,800 of fine imposed, the DJ imposed a default imprisonment term of eight months for each charge, making a total of 24 months’ imprisonment.
+                   14
+
+
+
+
+Foot Note 14
+
+×
+
+
+
+  ROA p 97 (GD at [33]).
+
+
+
+ The respondent was not able to pay the fine and started serving his default sentence on 30 June 2022.
+                   15
+
+
+
+
+Foot Note 15
+
+×
+
+
+
+  ROA p 98 (GD at [38]).
+
+
+
+The Prosecution’s appeal and the appointment of Young Independent Counsel11 The Prosecution appealed on the ground that the sentence imposed by the DJ was manifestly inadequate. The Prosecution submits that the State Courts have not been adopting a consistent sentencing approach for offences under s 128D of the Customs Act and invites this court to provide sentencing guidance.
+                   16
+
+
+
+
+Foot Note 16
+
+×
+
+
+
+  Letter from AGC dated 30 August 2022 para 5.
+
+
+
+ To assist us in our deliberations, we appointed a Young Independent Counsel (“YIC”), Ms Wong Pei Ting (“Ms Wong”). The relevant legislative provisions12 Before we turn to the parties’ submissions, we set out the relevant legislative provisions that are relevant to the present case.13 Section 128D of the Customs Act covers the fraudulent evasion of customs or excise duties. It reads:Offences in relation to fraudulent evasion128D. Any person who is in any way concerned in any fraudulent evasion of, or attempt to fraudulently evade, any customs duty or excise duty shall be guilty of an offence.The scope of s 128D is extended to include the fraudulent evasion of GST on imported goods by s 26 of the Goods and Services Tax Act (Cap 117A, 2005 Rev Ed) and para 3 of the Goods and Services Tax (Application of Legislation Relating to Customs and Excise Duties) Order (2009 Rev Ed). Offences under s 128D are punishable by a fine only under s 128L(2) of the Customs Act, which provides as follows:(2) Subject to subsection (3), any person who is guilty of a specified offence shall be liable on conviction to a fine of —(a) not less than 10 times the amount of the customs duty, excise duty or tax the payment of which would have been evaded by the commission of the offence or $5,000, whichever is the lesser amount, subject to a minimum of $1,000 where the specified offence involves goods consisting wholly or partly of relevant tobacco products; and(b) not more than 20 times the amount of the customs duty, excise duty or tax the payment of which would have been so evaded or $5,000, whichever is the greater amount,except that where the amount of customs duty or excise duty cannot be ascertained, the penalty may amount to a fine not exceeding $5,000, subject to a minimum of $1,000 where the specified offence involves goods consisting wholly or partly of relevant tobacco products.14 Section 128L(7) of the Customs Act defines “specified offence” to include an offence under s 128D. As can be seen from the text of s 128L(2), the minimum and maximum fines are expressed as a multiple of the amount evaded or $5,000, whichever is the lesser or the greater amount respectively. 15 As noted earlier, the charges in the present case were framed as amalgamated charges under s 124(4) of the CPC. Sections 124(4) and 124(5)(d) of the CPC provide as follows:(4) Despite subsections (1) and (2) and section 132, where 2 or more incidents of the commission of the same offence by the accused are alleged, and those alleged incidents taken together amount to a course of conduct (having regard to the time, place or purpose of each alleged incident) —(a) it is sufficient to frame one charge for all of those alleged incidents, if all of the following conditions are satisfied:(i) the charge —(A) contains a statement that the charge is amalgamated under this subsection;(B) either —(BA) specifies the number of separate incidents of the commission of that offence that are alleged, without specifying each particular alleged incident; or(BB) if the causing of a particular outcome is an element of that offence, contains details of the aggregate outcome caused by all of those alleged incidents, without specifying the particular outcome caused by each particular alleged incident;(C) contains a statement that all of those alleged incidents taken together amount to a course of conduct; and(D) specifies the dates between which all of those incidents are alleged to have occurred, without specifying the exact date for each particular alleged incident;(ii) if a separate charge had been framed in respect of each of those incidents, the maximum punishment for the offence specified in each separate charge would be the same maximum punishment;(iii) the charge so framed does not specify any offence punishable with death; and(b) the charge so framed is deemed to be a charge of one offence.…(5) For the purposes of subsection (4), 2 or more alleged incidents of the commission of an offence, taken together, may amount to a course of conduct, if one or more of the following circumstances exist:…(d) all of the alleged incidents occurred within a defined period that does not exceed 12 months.16 The charges in the present case were framed to cover the amount of GST evaded within the span of one year to comply with s 124(5)(d) of the CPC. It is also pertinent to note that where charges are amalgamated under s 124(4) of the CPC, s 124(8)(a)(ii) increases the maximum punishment as follows:(8) Subject to subsection (7), where a charge is framed under subsection (2) or (4), and a person is convicted of the offence specified in that charge —(a) the court may sentence that person —…(ii) in any case where the charge is framed under subsection (4) — to 2 times the amount of punishment to which that person would otherwise have been liable if that person had been charged with and convicted of any one of the incidents of commission of the offence mentioned in that subsection; …17 As for the corresponding default imprisonment term, s 119 of the Customs Act states:Imprisonment for non-payment of fine119. Notwithstanding the provisions of the Criminal Procedure Code (Cap. 68), the period of imprisonment imposed by any court in respect of the non-payment of any fine under this Act, or in respect of the default of a sufficient distress to satisfy any such fine, shall be such period as in the opinion of the court will satisfy the justice of the case, but shall not exceed in any case the maximum fixed by the following scale:Where the fineThe period may extend todoes not exceed $502 monthsexceeds $50 but does not exceed $1004 monthsexceeds $100 but does not exceed $2006 monthswith one additional month for every $100 after the first $200 of the fine until a maximum period of 6 years is reached.18 Finally, s 319(1)(b)(v) of the CPC provides that default imprisonment terms must run consecutively:Provisions as to sentence of fine319.—(1) Where any fine is imposed and there is no express provision in the law relating to the fine, the following provisions apply:…(b) the court which imposed the fine may choose to do all or any of the following things at any time before the fine is paid in full:…(v) direct that in default of payment of the fine, the offender must suffer imprisonment for a certain term which must be consecutive with any other imprisonment to which he may be sentenced, including any other imprisonment term or terms imposed on the offender under this section in default of payment of fine, or to which he may be liable under a commutation of a sentence; …The parties’ submissions19 Having set out the applicable legislative provisions, we now set out the parties’ submissions.Prosecution’s submissions20 The Prosecution submits that a sentencing framework for the offence under s 128D is desirable as there has been no consistency in the fines imposed by the State Courts.
+                   17
+
+
+
+
+Foot Note 17
+
+×
+
+
+
+  Appellant’s Submissions dated 9 January 2023 (“Prosecution’s Submissions”) para 18.
+
+
+
+ The Prosecution contends that the appropriate sentencing framework should recognise the amount of GST evaded as the single factor that “assumes primacy” in the sentencing analysis.
+                   18
+
+
+
+
+Foot Note 18
+
+×
+
+
+
+  Prosecution’s Submissions para 21.
+
+
+
+ Further, the appropriate fine should be derived by applying a multiplier to the amount evaded, to reflect the fact that the minimum and the maximum fines under s 128L(2) are expressed as multiples of the amount evaded.
+                   19
+
+
+
+
+Foot Note 19
+
+×
+
+
+
+  Prosecution’s Submissions para 26.
+
+
+
+ On this premise, the Prosecution proposes the following framework:
+                   20
+
+
+
+
+Foot Note 20
+
+×
+
+
+
+  Prosecution’s Submissions para 34.
+
+
+
+Bracket of GST evadedMultiplier applied to each bracketRange of indicative fine$1 to $250× 20$20 to $10,000$251 to $500× 20$501 to $100,000× 10$10,010 to $1,005,000$100,001 to $1m× 5$1,005,005 to $5,505,000>$1m× 1>$5,505,00021 We highlight several salient features of the Prosecution’s proposed framework:(a) First, the framework applies to first-time offenders who claim trial.
+                   21
+
+
+
+
+Foot Note 21
+
+×
+
+
+
+  Prosecution’s Submissions para 29.
+
+
+
+(b) Second, in order to derive the indicative fine, the court first looks at the total amount evaded across all the charges that the Prosecution is proceeding on. The court then refers to the table above to determine the applicable multiplier. The multiplier values are applied cumulatively, similar to the method of calculation of income tax liability in Singapore.
+                   22
+
+
+
+
+Foot Note 22
+
+×
+
+
+
+  Prosecution’s Submissions paras 29 and 34.
+
+
+
+ For instance, if the total amount evaded is $100,000, a multiplier of 20 would be applied to the first $250 and the next $250, while a multiplier of 10 would be applied to the remaining $99,500. The total indicative fine would therefore be (20 × $250) + (20 × $250) + (10 × $99,500) = $1,005,000. The ranges of indicative fines, calculated by applying the multiplier values cumulatively, are set out in the third column of the table above.(c) The multiplier values decrease as the amount of GST evaded increases. This is to avoid an exponential increase in the amount of fine imposed and to maintain a degree of proportionality in sentencing.
+                   23
+
+
+
+
+Foot Note 23
+
+×
+
+
+
+  Prosecution’s Submissions para 33.
+
+
+
+(d) After calculating the indicative fine, the court adjusts the sentence on account of aggravating or mitigating factors to arrive at the total fine for all the proceeded charges. The court then breaks down the total fine amount proportionately across the charges proceeded on so as to arrive at the individual fine for each charge.
+                   24
+
+
+
+
+Foot Note 24
+
+×
+
+
+
+  Prosecution’s Submissions paras 39–40.
+
+
+
+22 As for the appropriate default imprisonment term, the Prosecution proposes the following framework:
+                   25
+
+
+
+
+Foot Note 25
+
+×
+
+
+
+  Prosecution’s Submissions para 53.
+
+
+
+Range of total fine quantumRange of default imprisonment term$6,800 to $1mUp to 24 months$1m to $5m24 to 48 months$5m to $10m 48 to 72 months>$10m72 months (statutory maximum)23 As will be seen subsequently, the Prosecution’s framework for the default imprisonment term is similar to that proposed by Ms Wong, except that the Prosecution’s proposed framework determines the total default imprisonment term instead of the default imprisonment term for each charge. Applying the above proposed frameworks to the present case, the Prosecution submits that the respondent should be sentenced to a total fine of $3.5m to $4m (or 39 to 42 months’ imprisonment in default of payment). The Prosecution computes the individual sentences for the three charges that it proceeded on to be as follows:ChargeTotal amount of GST evadedProposed sentenceDAC-911649-2021$182,796.46$1m to $1.2m fine(12 to 13 months’ imprisonment in default)DAC-911650-2021$219,884.40$1.3m to $1.5m fine(14 to 15 months’ imprisonment in default)DAC-911652-2021$201,546.21$1.2 to $1.3m fine(13 to 14 months’ imprisonment in default)Total $604,227.07$3.5m to $4m fine(39 to 42 months’ imprisonment in default)On this basis, the Prosecution urges this court to allow its appeal and to enhance the respondent’s sentence accordingly.
+                   26
+
+
+
+
+Foot Note 26
+
+×
+
+
+
+  Prosecution’s Submissions paras 63 and 64.
+
+
+
+Respondent’s submissions24 The respondent supports the adoption of the framework proposed by the Prosecution for the offence under s 128D of the Customs Act.
+                   27
+
+
+
+
+Foot Note 27
+
+×
+
+
+
+  Notes of Evidence dated 9 February 2023 (“NEs”) p 31 lines 2–4.
+
+
+
+ However, the respondent suggests that the brackets of GST evaded – particularly the bracket for GST amounts ranging from $501 to $100,000 – should be broken up into smaller bands as the majority of cases fall into that bracket.
+                   28
+
+
+
+
+Foot Note 28
+
+×
+
+
+
+  NEs p 31 lines 12–22.
+
+
+
+ As for the appropriate default imprisonment term, the respondent submits that the framework proposed by Ms Wong should be preferred as it does not set a lower limit on the indicative default term and therefore gives the court more discretion in calibrating the appropriate default imprisonment term.
+                   29
+
+
+
+
+Foot Note 29
+
+×
+
+
+
+  NEs p 32 lines 1–8.
+
+
+
+ 25 However, the respondent urges this court to apply the sentencing framework prospectively and not to the present appeal. The respondent contends that the sentence imposed by the DJ is not manifestly inadequate and therefore should not be disturbed.
+                   30
+
+
+
+
+Foot Note 30
+
+×
+
+
+
+  NEs p 40 lines 14–19.
+
+
+
+YIC’s submissions26 Ms Wong agrees with the Prosecution that the appropriate sentencing framework for the offence under s 128D should involve the application of a multiplier to the amount evaded.
+                   31
+
+
+
+
+Foot Note 31
+
+×
+
+
+
+  Amicus Curiae’s Written Submissions dated 5 December 2022 (“YIC’s Submissions”) para 32.
+
+
+
+ However, she does not align herself with the Prosecution’s proposed framework as she considers it inappropriate to tie the sentencing range to the amount of GST evaded.
+                   32
+
+
+
+
+Foot Note 32
+
+×
+
+
+
+  YIC’s Submissions para 68.
+
+
+
+ Instead, Ms Wong proposes adopting a framework based on a “two-step sentencing bands” approach. Under this framework, the court first identifies the relevant offence-specific factors going toward harm and culpability, as follows:
+                   33
+
+
+
+
+Foot Note 33
+
+×
+
+
+
+  YIC’s Submissions para 77.
+
+
+
+Offence-specific factors (non-exhaustive)Factors going toward harmFactors going toward culpabilityInvolvement of a syndicate Degree of planning and premeditation Involvement of a transnational elementSophistication of the systems and methods used to evade GST or to avoid detection (ie, the scale of deception)Involvement of harmful goodsEvidence of a sustained period of offendingAbuse of GST exemption or tax reliefOffender’s roleAbuse of position and breach of trust (including a breach of professional responsibilities)Whether the goods were for commercial sale or personal consumption27 Notably, the amount of GST evaded is not considered as an offence-specific factor. Ms Wong contends that the incremental severity of each case of tax evasion attributable to the incremental quantum of tax evaded is inherently in-built into the multiplier mechanism, whereby the quantum of tax evaded is the multiplicand. She argues that if the amount of GST evaded were additionally considered in identifying the seriousness of the offence for the purpose of determining the appropriate sentencing band, this would be tantamount to the amount of GST being double counted in the sentencing analysis.
+                   34
+
+
+
+
+Foot Note 34
+
+×
+
+
+
+  YIC’s Submissions para 78(1).
+
+
+
+ 28 At the next step of Ms Wong’s framework, the court identifies the indicative sentencing range based on the number of offence-specific factors present:
+                   35
+
+
+
+
+Foot Note 35
+
+×
+
+
+
+  YIC’s Submissions para 81.
+
+
+
+BandDescriptionFine quantumBand 1No offence-specific factors or factors present to a very limited extent1 to 6 times GST evadedBand 2Two or more offence-specific factors6 to 14 times GST evadedBand 3High number and intensity of offence-specific aggravating factors14 to 20 times GST evaded29 Next, the court calibrates the indicative sentence based on the following offender-specific aggravating and mitigating factors:
+                   36
+
+
+
+
+Foot Note 36
+
+×
+
+
+
+  YIC’s Submissions para 86.
+
+
+
+Offender-specific factors (non-exhaustive)Aggravating factorsMitigating factorsOffences taken into consideration for the purposes of sentencingTimely guilty pleaRelevant antecedentsVoluntary restitutionLack of remorseCooperation with authorities30 Finally, the court considers whether further adjustments should be made in line with the totality principle.
+                   37
+
+
+
+
+Foot Note 37
+
+×
+
+
+
+  YIC’s Submissions paras 89 and 91.
+
+
+
+ This principle can have a limiting function to guard against an excessive total sentence but can also have a boosting effect to ensure that the total sentence is not inadequate.31 As for the appropriate default imprisonment term, Ms Wong proposes that the court adopt the following ranges for the maximum default imprisonment term:
+                   38
+
+
+
+
+Foot Note 38
+
+×
+
+
+
+  YIC’s Submissions para 104.
+
+
+
+BandFine quantum per chargeMaximum default termBand 1< $10,00024 months Band 2$10,000 to $1m48 monthsBand 3> $1m72 monthsIssues to be determined 32 Based on the parties’ submissions, we consider that the following issues arise for our determination:(a) What is the appropriate sentencing framework for the offence of fraudulent evasion of GST under s 128D of the Customs Act?(b) What is the appropriate sentencing framework for default imprisonment terms under s 128L(2) of the Customs Act?(c) Should the abovementioned frameworks apply to the present appeal?The sentencing framework for fraudulent evasion of GST under s 128D of the Customs Act33 At the outset, we highlight two considerations in our analysis. First, we confine our analysis to offences under s 128D of the Customs Act involving the fraudulent evasion of GST on imported goods, where no harmful goods (such as tobacco products) are involved. While Ms Wong suggests that the sentencing framework adopted by this court could also apply to other offences under s 128D involving the fraudulent evasion of GST on harmful goods or the fraudulent evasion of customs or excise duties,
+                   39
+
+
+
+
+Foot Note 39
+
+×
+
+
+
+  YIC’s Submissions paras 42 and 80(1).
+
+
+
+ these are not the offences before us in the present appeal. Further, we note that there are special punishment provisions for offences involving goods consisting wholly or partly of relevant tobacco products (see ss 128L(4), 128L(5) and 128L(5A)). We therefore prefer to leave the issue of a sentencing framework for these other offences to be considered in a future suitable case.34  Second, any sentencing framework adopted by this court must clearly be subject to the minimum fine of $5,000 or 10 times the amount evaded (whichever is lesser) and the maximum fine of $5,000 or 20 times the amount evaded (whichever is greater) as set out in s 128L(2) of the Customs Act. Therefore, while the frameworks proposed by the Prosecution and Ms Wong rely on multipliers ranging from one to 20 to derive the appropriate fine, the sentencing court must bear in mind the applicable minimum and maximum fines on the facts of the case. 35 We are not inclined to adopt the “two-step sentencing bands” framework proposed by Ms Wong for two reasons. First, as noted above, Ms Wong’s framework is premised on the notion that the amount of GST evaded should not take primacy in the sentencing analysis. Consequently, Ms Wong’s framework does not feature the amount of GST evaded as a separate offence-specific factor. Instead, it determines the applicable multiplier based on other offence-specific factors. However, s 128L(2) of the Customs Act provides that offences under s 128D are punishable by fine only and that the range of possible fines is determined as a multiple of the amount of GST evaded (subject to the relevant minimum or maximum fine of $5,000). This is a clear indication that Parliament intended that the amount of GST evaded should be the dominant, or at least a significant, consideration in the calibration of sentences for such offences. The sentencing framework must therefore reflect legislative intention by including the amount of GST evaded as one of the considerations at the very least.36 The parties were largely in agreement that the offence under s 128D of the Customs Act has two aims. The first is the prevention of loss of revenue to the State. The second is that it is in the public interest to reduce the consumption of harmful goods by raising their cost to the user (see Yap Ah Lai v Public Prosecutor [2014] 3 SLR 180 (“Yap Ah Lai”) at [23]).
+                   40
+
+
+
+
+Foot Note 40
+
+×
+
+
+
+  YIC’s Submissions para 43; ROA p 111 (Plea-in-mitigation para 21).
+
+
+
+ It follows that where the facts of a case do not involve the importation of harmful goods, only the first aim of the prevention of the loss of revenue to the State is relevant. Clearly, the extent of revenue lost by the State will correspond to the amount of GST evaded. To borrow the language used in Wong Kai Chuen Philip v Public Prosecutor [1990] 2 SLR(R) 361 at [18] in the context of other financial offences, all other things being equal, it is a matter of common sense that the larger the amount of GST evaded, the greater the culpability of the offender and the more severe the sentence of the court ought to be. The amount of GST evaded therefore must be a primary factor in the sentencing analysis. 37 The second difficulty with Ms Wong’s framework is that it does not guard against the risk of disproportionately high fines when the amount of GST evaded is high. As the respondent observes, particularly serious cases involving a high amount of GST evaded would tend to involve a higher number of aggravating factors (such as the involvement of a syndicate, a high degree of premeditation or sophistication in the methodology of evasion).
+                   41
+
+
+
+
+Foot Note 41
+
+×
+
+
+
+  Respondent’s Submissions dated 9 January 2023 (“Respondent’s Submissions”) para 105.
+
+
+
+ Under Ms Wong’s proposed framework, cases falling into the most severe category would attract a multiplier of 14 to 20. Therefore, if the amount evaded is high, this would almost always result in a potentially crushing fine. While the fine may be adjusted downwards on account of the totality principle, the Prosecution highlights that the overall utility of the sentencing framework would be limited if the sentencing court has to regularly make significant discretionary adjustments to the indicative sentence.
+                   42
+
+
+
+
+Foot Note 42
+
+×
+
+
+
+  Prosecution’s Submissions para 44. 
+
+
+
+ We consider these to be valid concerns. In our view, the appropriate sentencing framework must be able to provide guidance on the indicative fines for offences under s 128D of the Customs Act, while ensuring that the fines meted out are not crushingly disproportionate when the amount of GST evaded is high.38 We now consider the Prosecution’s proposed framework. The Prosecution’s framework places the amount of GST evaded at the forefront of the analysis since the indicative fine is determined as a mathematical product of the amount of GST evaded. The Prosecution’s framework also incorporates a regressive multiplier where the applicable multiplier decreases as the amount of GST evaded increases. This helps to maintain a degree of proportionality in sentencing. We therefore consider the Prosecution’s framework to be a viable working model on which a sentencing framework for the offence under s 128D can be formulated.Step 1: Deriving the indicative fine39 At the first step, the court derives the indicative fine based on the amount of GST evaded. While the Prosecution’s framework divides the amount evaded into five possible brackets, we agree with the respondent that these brackets should be broken down into smaller bands. In our view, the Prosecution’s proposed brackets on the amount of GST evaded do not distinguish sufficiently between cases of varying severity. For instance, the same multiplier values apply regardless of whether the amount evaded is the relatively small amount of $501 or the much larger amount of $100,000. 40 We think the framework set out below will provide a good working guide for the court when sentencing offenders who have fraudulently evaded the payment of GST: Amount of GST evadedMultiplier applied to each bracketRange of indicative fine$1 to $250× 12$12 to $3,000$251 to $1,000× 10$3,010 to $10,500$1,001 to $10,000× 8$10,508 to $82,500$10,001 to $100,000× 6$82,506 to $622,500$100,001 to $500,000× 4$622,504 to $2,222,500$500,001 to $1m× 3$2,222,503 to $3,722,500>$1m× 2> $3,722,50041 Similar to the Prosecution’s framework, the multiplier values set out at each level are to be applied cumulatively, in the same way that income tax is computed in Singapore. The obvious difference between the multipliers here and the tax rate for income tax is that the multiplier here decreases as the amount of GST evaded increases, while the income tax rate increases as the amount of income increases. The decreasing rate in the multiplier guards against the risk of disproportionately high fines as the amount of GST evaded increases.42 We give an illustration of how the above framework is to function. In a case where the amount of GST evaded is $10,000, the indicative fine would be (12 × $250) + (10 × $750) + (8 × $9,000) = $82,500. The cumulative method of computation prevents an offender from getting a more lenient sentence simply because he crosses over fortuitously into the next higher level on the scale. If the amount of fine is not computed cumulatively but a single multiplier is applied to the entire amount of GST evaded, an offender who evades $250 in GST would be subject to a multiplier of 12 (resulting in a fine of $3,000). However, an offender who evades $251 would be subject to a multiplier of 10 (resulting in a fine of $2,510). This would result in a perverse outcome where the fine is lower for the second offender although the amount of GST that he evaded is higher, even if only marginally. 43 In deriving the ranges set out above, we have also borne in mind that indicative sentences should utilise the full spectrum of possible sentences but generally should stop short of the statutory maximum sentence as maximum sentences are usually reserved for the “worst type of cases falling within the prohibition”: Vasentha d/o Joseph v Public Prosecutor [2015] 5 SLR 122 at [45]–[46]. We therefore leave the range of multipliers from 13 to the maximum of 20 for cases where aggravating factors make it necessary for the sentencing court to apply a higher multiplier than that indicated in the above framework. 44 Where the lower end of the multiplier range is concerned, we have stopped at a multiplier of two because a multiplier of one would effectively leave the offender unpunished for his evasion of GST beyond that level, in that he would merely be paying as a fine the amount of GST that he evaded paying. Further, while the multipliers have been indicated as integers in the framework, we see no objection if the sentencing court should decide that the appropriate multiplier in the case before it should also include a fraction, for example, 4.5 times the amount of GST evaded, if a multiplier of four is considered too low and a multiplier of five too high in the circumstances. 45 The above framework is intended to apply to first-time offenders who plead guilty at the earliest available opportunity. This would be consistent with the sentencing frameworks that have been laid down for similar offences (see for instance, Yap Ah Lai at [40]) and for offences under various statutes. For repeat offenders, s 128L(3)(a) provides that such offenders shall be liable to the fine set out in s 128L(2) or to imprisonment for up to two years or to both. 46 While the Prosecution proposes that the indicative fine should be calculated based on the total amount of GST evaded in all the charges proceeded on, we are of the view that the framework should apply to the amount evaded in each charge. In the present appeal, the three amalgamated charges in issue each covers a span of a different year. The charges were framed in this manner to comply with s 124(5)(d) of the CPC which states that two or more alleged incidents of the commission of an offence, taken together, may amount to a course of conduct if all of the alleged incidents occurred within a defined period that does not exceed 12 months (see [15] above). To proceed as suggested by the Prosecution and calculate the indicative fine based on the total amount of GST evaded in all three charges would be tantamount to treating all three charges as if they were a single amalgamated charge. This would appear to circumvent the restriction set out in s 124(5)(d) of the CPC.47 We pause at this juncture to note that a consequence of our analysis above is that the indicative sentence faced by an offender may differ depending on whether the charges against him are framed as multiple charges or as a single amalgamated charge. To illustrate, because the ranges in the framework apply to individual charges, an offender convicted on ten charges of evading $250 in GST would be subject to a multiplier of 12 on each charge. The total indicative fine for the 10 charges would be $250 × 12 × 10 = $30,000. In comparison, an offender who is convicted on a single amalgamated charge of evading $2,500 in GST would be subject to a multiplier of 12 on the first $250 evaded, a multiplier of 10 on the next $750 evaded and a multiplier of 8 on the remaining $1,500 evaded. The indicative fine would therefore be (12 × $250) + (10 × $750) + (8 × $1,500) = $22,500. While the framing of charges is ultimately a matter of prosecutorial discretion, we make this observation to underscore that the Prosecution should be mindful of the potentially different outcomes if individual charges are preferred against an offender instead of an amalgamated charge in cases where s 124 of the CPC permits the charges to be amalgamated. In any case, in the context of the sentencing framework discussed further below, the sentencing court will have the discretion to make adjustments to the eventual fine to be imposed to ameliorate any aberration that may be occasioned by the Prosecution’s decision to proceed on individual charges instead of amalgamated charges. In our view, this would be part of the application of the totality principle, which serves to ensure that the overall sentence is proportionate to and appropriate for the facts of the case.Step 2: Adjustments for aggravating/mitigating factors48 At the second step, the court identifies the aggravating and mitigating factors present in the case. We set out below a non-exhaustive list of factors that the court may consider, which we have adapted from the offence-specific and offender-specific factors proposed by Ms Wong for the purposes of her proposed framework: Aggravating factors(a) Involvement of a syndicate(b) Involvement of a transnational element(c) Degree of planning and premeditation(d) Sophistication of the methods used to evade GST or to avoid detection(e) Evidence of a sustained period of offending(f) Offender’s role(g) Abuse of position and breach of trust (including a breach of professional responsibilities)(h) Evidence of offender making a personal monetary gain(i) Offences taken into consideration for the purposes of sentencing(j) Relevant antecedents(k) Lack of remorseMitigating factors(a) Voluntary restitution (b) Cooperation with authorities49 We make a number of observations in relation to the factors listed above. First, the respondent submits that in sole offender cases, the fact that the offender has profited from his offending should not be a separate aggravating factor as this is “inherent in the criminality of the offence”.
+                   43
+
+
+
+
+Foot Note 43
+
+×
+
+
+
+  Respondent’s Further Submissions dated 23 February 2023 (“Respondent’s Further Submissions”) para 7.
+
+
+
+ We disagree. It is not invariably the case that a sole offender will profit from his offending. As the Prosecution has pointed out, the respondent would not have made a profit if he had charged his customers the lower amount of GST that was paid to Customs.
+                   44
+
+
+
+
+Foot Note 44
+
+×
+
+
+
+  Appellant’s Further Submissions dated 2 March 2023 para 6.
+
+
+
+ However, by charging his customers GST based on the full price of the goods imported, the respondent pocketed the difference between the GST payments he received from his customers and the lower amount of GST that he actually paid. We therefore regard it appropriate to consider whether the offender has made a personal monetary gain from his offending as a separate aggravating factor.50 Second, while the involvement of a transnational element has been included as a potentially relevant aggravating factor, we agree with Ms Wong that care should be taken to ensure that undue weight is not ascribed to this factor. 
+                   45
+
+
+
+
+Foot Note 45
+
+×
+
+
+
+  YIC’s Submissions para 79(2).
+
+
+
+ For instance, given that the offence in question is the fraudulent evasion of GST on imported goods, the fact that the offender obtains goods from another country or has suppliers located in another country should not be considered as separate aggravating factors since they are features inherent in the offence.51 Third, the framework is based on a timely guilty plea on the basis that this would reflect a willingness to cooperate and this is a sign of real remorse. If there is no remorse reflected in an unduly late guilty plea or no guilty plea or if there is otherwise reason to conclude that there is an absence of remorse, then this may be taken into account against the accused.52 Based on the relevant aggravating and mitigating factors identified, the court then adjusts the indicative fine upwards or downwards accordingly. The court may do so by making a lump sum adjustment to the indicative fine or by modifying the applicable multiplier, which, as we have indicated earlier, may include fractions when these are considered to be appropriate.Step 3: Totality principle53 At the final step, the court considers whether further adjustments should be made on account of the totality principle. It is well established that the totality principle requires the court to take a “last look” at all the facts and circumstances of the case and assess whether the sentence looks wrong: Mohamed Shouffee bin Adam v Public Prosecutor [2014] 2 SLR 998 at [58]. In the context of the present offence, where a fine is the only prescribed punishment and in a case where there are multiple charges, it may be relevant to consider whether the overall fine quantum is just and appropriate, especially if the offender is of limited financial means. As observed in Chia Kah Boon v Public Prosecutor [1999] 2 SLR(R) 1163 at [15], a court must take into account the competing considerations of ensuring that on one hand, the fine imposed is sufficiently high to achieve the objectives of deterrence and retribution but, on the other hand, that the fine is of an amount that the offender can reasonably pay given his financial means. Similarly, the totality principle is equally capable of having a boosting effect on individual sentences where they would otherwise result in a manifestly inadequate overall sentence: Gan Chai Bee Anne v Public Prosecutor [2019] 4 SLR 838 at [20]. Conclusion on the sentencing framework for fraudulent evasion of GST under s 128D of the Customs Act54 To summarise:(a) In cases where:(i) the offender is convicted of the offence under s 128D of the Customs Act of fraudulently evading GST on imported goods;(ii) the offences do not involve harmful goods such as tobacco products or liquor; and(iii) the offender is a first-time offender who pleads guilty at the earliest available opportunity;the court should derive the indicative fine for each charge based on the multipliers in the framework set out above. The multipliers are to apply cumulatively for each level, similar to the method of calculating income tax in Singapore. The court should also bear in mind the applicable minimum and maximum fines set out in s 128L(2) of the Customs Act.(b) Having computed the indicative fine, the court should then identify the aggravating and mitigating factors present on the facts of the case and adjust the indicative sentence accordingly. It can do this by adjusting the amount of the fine or by modifying the multiplier, which may include fractions if appropriate.(c) Finally, the court considers if any further adjustments should be made on account of the totality principle, especially in cases involving multiple charges.55 We make one final observation on the framework. The framework we have set out above does not take into account the increased punishment provided for amalgamated charges in s 124(8)(a)(ii) of the CPC. As noted earlier, s 124(8)(a)(ii) provides that where an offender is convicted of a charge amalgamated under s 124(4) of the CPC, the court may sentence him to two times the amount of punishment that he would otherwise have been liable for, had he been convicted for any one incident of the offence. In cases such as the present where an offender is convicted of an amalgamated charge under s 128D of the Customs Act, the full sentencing range would therefore be twice the amount of fines stated in s 128L(2) of the Customs Act.56 At the hearing before us, the Prosecution acknowledged candidly that it had not taken this into account in its submissions.
+                   46
+
+
+
+
+Foot Note 46
+
+×
+
+
+
+  NEs p 24 lines 19–21.
+
+
+
+ Nevertheless, the Prosecution suggested that there may not ordinarily be a need to invoke s 124(8)(a)(ii) of the CPC for amalgamated offences under s 128D of the Customs Act, as the usual punishment ranges take into account already the totality of the accused person’s offending.
+                   47
+
+
+
+
+Foot Note 47
+
+×
+
+
+
+  NEs p 27 lines 1–8.
+
+
+
+ 57 In our view, this argument has some force. By augmenting the available sentencing range, s 124(8)(a)(ii) of the CPC serves to ensure that an offender convicted of an amalgamated offence does not receive a discount in sentencing. In a public consultation conducted by the Ministry of Law prior to the enactment of ss 124(4) and 124(8) of the CPC, the proposed legislative changes were explained as follows:Allowing amalgamation of charges in more circumstances…In addition to these changes, it is proposed to create a new general provision permitting the amalgamation of any offence where multiple instances of the same offence constitute a course of conduct, having regard to the time, place or purpose of commission. To avoid amalgamation resulting in sentencing discounts for multiple offending, charges amalgamated under this general provision will have their maximum sentences doubled. …(See Ministry of Law, “Public Consultation on Proposed Amendments to the Criminal Procedure Code and Evidence Act” (24 July 2017) at Annex B pp 18–19 <https://www.mlaw.gov.sg/news/public-consultations/public-consultation-on-proposed-amendments-to-the-criminal-proce>).58 In the context of the offence under s 128D of the Customs Act, since the maximum fine is determined by a multiplier of the amount of GST evaded, it follows that an offender who evades a larger amount consolidated from several incidents of evasion will be subject to a higher maximum fine anyway. The issue of an offender receiving a “discount” because he was convicted on an amalgamated charge therefore would not arise. Accordingly, we take the provisional view that it should not be necessary to have recourse to the enhanced sentencing powers provided for in s 124(8)(a)(ii) of the CPC in most cases involving amalgamated charges under s 128D of the Customs Act. In any case, in this appeal, the Prosecution is not asking the court to exercise its powers under s 124(8)(a)(ii) of the CPC. The framework for default imprisonment terms under s 128L(2) of the Customs ActThree preliminary observations59 The next issue that arises for our consideration is the appropriate framework for default imprisonment terms under s 128L(2) of the Customs Act. We begin by making three preliminary observations.-60 First, the purpose of a default imprisonment term is to prevent evasion of the fine imposed. It is not to serve as a proxy for the punishment imposed for the original offence: Yap Ah Lai at [18].61 Second, default imprisonment terms under the Customs Act are capped at a maximum of six years pursuant to s 119 of the Customs Act. The question that arises is whether the statutory cap applies to the default imprisonment term imposed for each charge or to the total default imprisonment term imposed in respect of all the charges. A plain reading of s 119 suggests that the former interpretation is to be preferred and the Prosecution appears to have adopted this interpretation as well.
+                   48
+
+
+
+
+Foot Note 48
+
+×
+
+
+
+  Prosecution’s Submissions para 57.
+
+
+
+ 62 This is an interesting question regarding the proper interpretation of s 119 of the Customs Act which may require determination in a future case where the global default imprisonment term exceeds six years. For the present appeal, the individual and collective default imprisonment terms ordered by the DJ and those that we will be ordering do not come up to the statutory maximum of six years. We therefore do not propose to rule in this judgment on the proper interpretation of s 119 regarding the maximum default imprisonment term in cases involving multiple charges.63 The third observation relates to whether the framework for default imprisonment terms should make a distinction between harmful and non-harmful imported goods. In this case, there is no dispute that no harmful goods were imported by the respondent. The respondent submits that a distinction should be drawn between the indicative default imprisonment terms for cases involving tobacco products and those that do not. The respondent relies on the fact that the maximum default imprisonment term under s 119 of the Customs Act was increased from three to six years in 1996 as part of the amendments to the Customs Act to combat cigarette smuggling: Singapore Parliamentary Debates, Official Report (12 July 1996) vol 66 at col 427 (Koo Tsai Kee, Parliamentary Secretary to the Minister for Finance).
+                   49
+
+
+
+
+Foot Note 49
+
+×
+
+
+
+  Respondent’s Further Submissions para 2.
+
+
+
+ 64 However, there is nothing in the wording of s 119 of the Customs Act to suggest that default imprisonment terms for the evasion of GST involving tobacco products should be higher than those involving non-harmful products. The relevant parliamentary debates also do not support the respondent’s contention. In the circumstances, we do not see any reason why the framework on default imprisonment terms should not apply also to offences under s 128D involving the importation of harmful goods or to other specified offences punishable under s 128L(2) of the Customs Act.65 We now turn to consider the frameworks proposed by the parties. Step 1: Deriving the indicative default imprisonment term66 As noted earlier, the Prosecution and Ms Wong have both proposed that the sentencing court should first determine the indicative default imprisonment term based on the quantum of fine imposed. The main difference in their approaches is that the Prosecution’s proposed framework sets out the total indicative default imprisonment term for all the charges while Ms Wong’s framework sets out the indicative default imprisonment term for each charge. In our judgment, it would not be appropriate as a matter of principle to determine the default imprisonment term based on the total fine imposed for all the charges as this would have the effect of treating the three amalgamated charges as a single amalgamated charge, thereby circumventing the 12-month restriction in s 124(5)(d) of the CPC. We therefore think the proper approach should be to calibrate the default imprisonment term based on the fine imposed for each charge.67 Bearing in mind that s 119 of the Customs Act provides that any default term of imprisonment “shall be such period as in the opinion of the court will satisfy the justice of the case”, we consider that the appropriate indicative default imprisonment terms should be worked out in the following manner:Fine quantum imposed per chargeIndicative default sentenceUp to $500,000Up to 6 months$500,000 to $1m6 to 12 months$1m to $2m 12 to 24 months$2m to $3m24 to 36 months$3m to $5m36 to 48 months$5m to $10m48 to 72 months$10m and above72 months (statutory maximum)Step 2: Totality principle68 Having determined the indicative default imprisonment term for each charge, the sentencing court in cases involving multiple charges should then consider whether the aggregate default imprisonment term offends the totality principle. As s 319(1)(b)(v) of the CPC mandates that default imprisonment terms must run consecutively, the court should be mindful that the total default imprisonment term is not crushing for a particular offender.The present appealWhether the doctrine of prospective overruling applies69 We now consider the merits of the present appeal. As noted earlier, a preliminary contention raised by the respondent is that the sentencing frameworks that this court sets out should apply prospectively and not to the case at hand. 70 The doctrine of prospective overruling was explained by the High Court in Public Prosecutor v Hue An Li [2014] 4 SLR 661 at [124]. The court there observed that judicial pronouncements are, by default, retroactive in nature. Appellate courts, however, have the discretion to restrict the retroactive effect of their pronouncements in exceptional circumstances. The exercise of this discretion is to be guided by four factors, namely: (a) the extent to which the law or legal principle concerned is entrenched; (b) the extent of change to the law; (c) the extent to which the change to the law is foreseeable; and (d) the extent of reliance on the law or legal principle concerned. 71 In Adri Anton Kalangie v Public Prosecutor [2018] 2 SLR 557, the Court of Appeal stated that given the exceptionality of the doctrine of prospective overruling, it should only be invoked in circumstances where a departure from the ordinary retroactivity of a judgment is necessary to avoid “serious and demonstrable injustice to the parties or to the administration of justice” (at [40]). One such instance where the doctrine was invoked was Poh Boon Kiat v Public Prosecutor [2014] 4 SLR 892 (“Poh Boon Kiat”), where the High Court set out new sentencing frameworks for vice and other offences under ss 140 and 146 of the Women’s Charter (Cap 353, 2009 Rev Ed). The court in Poh Boon Kiat observed that (a) the previous sentencing precedents had entrenched the starting point for first-time offenders without any aggravating factors as a fine; (b) the shift in the sentencing starting point constituted a fundamental and unforeseeable change in the law from the offender’s perspective; and (c) the new sentencing frameworks were influenced by the shift in the sentencing starting point (at [113]). Given the “unique circumstances” of the case, it was therefore appropriate in that case to invoke the doctrine of prospective overruling. 72 In the present case, it is not the respondent’s position that there was an entrenched starting point or sentencing norm in relation to offences under s 128D of the Customs Act or in respect of the corresponding default imprisonment terms. The respondent has not made any submission to this effect and in fact rejects the Prosecution’s submission that the sentencing norm is a fine of ten times the amount evaded.
+                   50
+
+
+
+
+Foot Note 50
+
+×
+
+
+
+  Respondent’s Submissions para 69.
+
+
+
+ In any event, we do not consider that the frameworks that we have set out in this judgment constitute a fundamental and unforeseeable change in the law. In our view, these frameworks merely provide coherence to the sentencing practice and do not represent an abandonment of or radical departure from past precedents. In the circumstances, it is difficult to see what “serious and demonstrable injustice” would be occasioned by the retroactive application of the frameworks that we have set out. We therefore do not regard the present case as being sufficiently exceptional to warrant invoking the doctrine of prospective overruling.Whether the sentence imposed was manifestly inadequate73 We now evaluate the sentences imposed on the respondent in the light of the frameworks that we have set out. The respondent was convicted on three charges of evading $182,000, $219,000 and $201,000 (rounded up for simplicity in computation) respectively. Based on the applicable multipliers in the framework set out earlier at [40], the indicative fines in respect of these charges are $950,500, $1,098,500 and $1,026,500. 74 As for the relevant aggravating and mitigating factors, we do not see any reason to disagree with the DJ’s analysis. The respondent profited from his offending, the offences took place over several years (2016 to 2019) and he had six similar charges taken into consideration for the purposes of sentencing (one of the TIC charges involved evasion of GST payment in January 2020). The DJ considered the respondent’s voluntary partial restitution of $50,000 to be significant, considering that his average annual income for 2019 and 2020 was only some $30,400. We would only make a passing comment on the respondent’s stated income. We note that the average was derived from his stated income for only two years ($40,990 for 2019 and $19,989 for 2020). 2020 was the year that COVID-19 became a full-blown pandemic that affected commerce adversely and it was only natural that the respondent’s income from his business that year decreased. However, for the three charges in issue here which covered 2016, 2017 and 2019, the respondent pocketed an average of $200,000 in evaded GST for each of the three years.75 In any case, the fines of $1m for each charge imposed by the DJ are close to the indicative fines set out in [73] above ($950,500, $1,098,500 and $1,026,500). Taken together with all the factors highlighted by the DJ in arriving at his decision, the fines imposed cannot be said to be manifestly inadequate. We would add that the aggregate sentence of $3m also does not offend the totality principle bearing in mind that the respondent benefited from the evasion of GST by more than $600,000. We therefore agree with the individual and collective fines imposed by the DJ and we affirm his decision on the fines.76 Turning to the respondent’s default imprisonment term, it follows from the framework we have set out that the indicative default imprisonment term should be 12 months for each charge, adding up to 36 months for the three charges. We think that such a default imprisonment term, individually and collectively, accords with the respondent’s overall criminality and satisfies the justice of this case. We consider the total default imprisonment term of 24 months imposed by the DJ to be manifestly inadequate. Accordingly, we order the default imprisonment term to be 12 months for each of the three charges. The respondent will therefore have to serve a total of 36 months’ imprisonment in default of paying the aggregate fine of $3m.Conclusion77 For the reasons set out above, we allow the Prosecution’s appeal in part. The fine of $1m for each charge imposed by the DJ is to stand. However, the respondent is to serve 12 months’ imprisonment (instead of eight months) in default of payment for each charge or 36 months’ imprisonment in total.78 We thank Ms Wong for her able assistance in this appeal. We were assisted greatly by her meticulous research, particularly on the legislative history of the Customs Act, as well as her analysis of the sentencing precedents for the offence in this appeal.Sundaresh MenonChief JusticeTay Yong KwangJustice of the Court of AppealVincent HoongJudge of the High CourtDeputy Attorney-General Tai Wei Shyong SC, Deputy Public Prosecutors Agnes Chan and Lim Shin Hui (Attorney-General’s Chambers) for the appellant;Bhaskaran s/o Sivasamy, Jai Prakash and Darryl Ho Jun Han (Skandan Law LLC) for the respondent;Wong Pei Ting (Allen & Gledhill LLP) as Young Independent Counsel. 
