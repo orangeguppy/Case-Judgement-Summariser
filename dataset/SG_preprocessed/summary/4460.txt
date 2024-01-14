@@ -1,0 +1,282 @@
+supreme court of singapore
+
+27
+
+december 2017
+media
+
+summary
+singapore
+
+international commercial court suit no 7 of 2017 
+b2c2 ltd v quoine pte ltd [2017] sghc(i) 11
+
+
+
+the facts 
+1                   
+
+the present dispute arises from
+
+an alleged wrongful reversal of trades of two virtual currencies bitcoin
+
+(“btc”) and ethereum (“eth”). the plaintiff is an
+
+electronic market maker incorporated in england and wales. it carried out the
+
+trades in question via an account which it had opened on a virtual currency
+
+exchange platform (“the platform”) operated by the defendant, a singapore
+
+registered company. 
+2                   
+
+the platform uses order books to record orders from buyers
+
+and sellers for each pair of currencies being traded on the platform. these are
+
+all displayed electronically on a dashboard which displays real time pricing
+
+data both for completed trades on the platform and for trades on several other
+
+major virtual currency exchanges. this is achieved through a software programme
+
+used by the platform (“the quoter program”). 
+3                   
+
+margin trading is done on the platform. in the event that the
+
+margin trader’s equity (calculated as a certain percentage of the total market
+
+value of his collateral) falls below a certain percentage of the value of his loans,
+
+the platform will automatically respond by force closing all or part of the
+
+trader’s positions to prevent further loss. this is achieved by making stop
+
+loss orders to sell the margin trader’s assets at the best available price. the
+
+platform relies on the data provided by the quoter
+
+program to assess the margin trader’s position at any given time. 
+4                   
+
+on 19 april 2017, the plaintiff
+
+sought to buy and sell eth for btc on the platform. to that end, it placed
+
+12,617 eth/btc orders of which only 15 were filled, including seven which
+
+formed the subject of the dispute. other than the disputed orders, buy or sell
+
+orders were transacted at a price of around 0.04 btc for 1 eth. 
+5                   
+
+the defendant contends that sometime
+
+after 23:30 on the same day, the platform experienced a technical glitch.
+
+changes had been made to the passwords and cryptographic keys to some of the
+
+plaintiff’s critical systems but due to an oversight, the defendant’s
+
+operations team did not implement the changes on the login credentials for the quoter program. this caused the quoter
+
+program to cease working. all the orders which were on the eth/btc order book thus
+
+ceased to be available and no true market price was available.
+6                   
+
+between 23:52:52 and 23:54:33, while the quoter program was not functioning, the plaintiff placed
+
+seven orders for the sale of eth for btc at an exchange rate of between 9.99999
+
+and 10 btc for 1 eth. this was approximately 250 times the rate at which the
+
+other orders made by the plaintiff were transacted. 
+7                   
+
+there were some market traders (“the force-closed customers”)
+
+involved in the eth/btc market at the time using eth borrowed from the defendant.
+
+because the quoter program could not access all the
+
+data necessary to establish a true market price, it sought to do so by
+
+reference to the only data available to it, namely, the data arising out of the
+
+plaintiff’s seven orders. these new data caused the platform to reassess the
+
+force-closed customers’ leveraged positions and detect that the force-closed
+
+customers’ collateral had fallen below the maintenance margins. the platform
+
+thus automatically placed stop loss orders to sell the force-closed customers’
+
+assets.
+8                   
+
+however, because of the technical glitch, the only available
+
+price on the platform was the price offered by the plaintiff. hence, the
+
+computer matched the plaintiff’s seven orders (see [6] above) with the btc held by the forced-closed
+
+customers. an aggregate of 3092.517116 btc was credited to the plaintiff’s
+
+account and 309.2518 eth debited from that account with corresponding amounts
+
+being debited from and credited to the force-closed customers’ accounts.
+9                   
+
+the following day, the defendant became aware of the
+
+technical glitch and unilaterally reversed the trades, returning the btc to the
+
+force-closed customers’ accounts and the eth to the plaintiff’s account.
+the dispute 
+10               
+
+the plaintiff contends that
+
+this reversal, which denied them the fruits of the highly advantageous
+
+transactions on 19 april 2017, was in breach of the terms and conditions of the
+
+platform (“the agreement”) and in breach of trust. on 18 may 2017, it commenced
+
+proceedings in the high court seeking relief for those breaches. the action was
+
+transferred to the singapore international commercial court on 24 august 2017. on
+
+8 september 2017, the plaintiff filed an application for summary judgment.
+the decision and reasons 
+11               
+
+the court found that the
+
+plaintiff had a prima facie case. the
+
+agreement expressly provided that “once an order is filled, [the user will be]
+
+notified via the platform and such an action is irreversible”. this provision
+
+was unqualified and, read in the context of the other terms of the agreement, was
+
+included to ensure certainty for all parties including the defendant. 
+12               
+
+the defendant raised several
+
+issues which they argue merit a trial. two were acknowledged by the court to be
+
+appropriately arguable defences. 
+13               
+
+first, the defendant argued
+
+that the incorporation of terms in a risk disclosure statement uploaded on the
+
+platform’s website on 22 march 2017 gave the defendant the right to reverse the
+
+trades. 
+(a)               
+
+the “representations and
+
+warranties” section of the agreement contained a clause (“clause (h)”) which
+
+provided that the defendant could change any terms, rights, obligations and
+
+privileges without providing notice of such changes and that users of the
+
+platform accepted responsibility for reviewing the information and terms of
+
+usage from time to time. 
+(b)              
+
+the risk disclosure statement
+
+provided that “if [the defendant found] that a transaction took effect based on
+
+an aberrant value, the [defendant] may cancel the transaction”. 
+the defendant contends
+
+that the risk disclosure statement introduced a new term expressly permitting
+
+the defendant to cancel a transaction if it had taken place based on an
+
+aberrant value. there was an issue therefore as to the effect of clause (h),
+
+and whether it incorporated what was provided for in the risk disclosure statement.
+
+
+14               
+
+second, the defendant argued
+
+that the trades were void because of a unilateral mistake at common law as
+
+there was a sufficiently fundamental mistake as to a term of the contract and
+
+the plaintiff had actual knowledge of it. according to the defendant, the force-closed
+
+customers were mistaken as to both the need for the contract and the sale price,
+
+which was a fundamental term of the contract. as for actual knowledge on the
+
+part of the plaintiff, the defendant submitted that however the abnormally high
+
+limit order price came to be offered, it could not have represented a genuine
+
+offer to sell in a realistic market.  the
+
+plaintiff must have known that the price was wholly out of line with all the
+
+other prices it had been seeking to trade at during that day (all of which were
+
+more than 250 times lower). the plaintiff explained that the orders were placed
+
+automatically by the plaintiff’s “proprietary system which seeks to quote
+
+prices which are at or near the best available prices on the platform at a particular
+
+point in time”. the court did not find this explanation wholly satisfactory and
+
+expressed the view that an investigation at trial was necessary to understand
+
+why the system quoted a high price and specifically, why it selected 10 btc for
+
+1 eth as the exchange rate.
+15               
+
+the court also observed that
+
+the present case was atypical because of the involvement of computer systems.
+
+while it was human error that caused the quoter
+
+program to malfunction, it was the plaintiff who offered to sell at an abnormal
+
+rate. further, the platform wrongly identified the force-closed customers as
+
+being in default and thus wrongly instituted stop loss orders selling the btc
+
+held by the force-closed customers not at a true market price as would have
+
+happened in normal circumstances, but at the plaintiff’s abnormal rate. 
+16               
+
+given that the plaintiff had
+
+made out a prima facie case and the
+
+defendant had convinced the court that there were two arguable defences, the
+
+plaintiff’s application for summary judgment was dismissed. 
+this summary is provided to
+
+assist in the understanding of the court’s judgment. it is not intended to be a
+
+substitute for the reasons of the court.

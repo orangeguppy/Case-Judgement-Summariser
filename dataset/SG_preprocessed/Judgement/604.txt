@@ -1,0 +1,663 @@
+in the appellate division of the high court of the republic of singapore[2022] sghc(a) 39civil appeal no 1 of 2022betweenaquarius corporation… appellant andharibo asia pacific pte ltd… respondentcivil appeal no 2 of 2022betweenharibo asia pacific pte ltd… appellant andaquarius corporation… respondentin the matter of suit no 331 of 2018betweenharibo asia pacific pte ltd… plaintiff andaquarius corporation… defendantjudgment[contract — breach][evidence — admissibility of evidence — hearsay]this judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.aquarius corporation vharibo asia pacific pte ltd and another appeal [2022] sghc(a) 39appellate division of the high court — civil appeals nos 1 of 2022 and 2 of 2022woo bih li jad, quentin loh jad and hoo sheau peng j14 july 202228 november 2022 judgment reserved.quentin loh jad (delivering the judgment of the court):introduction1 this is a case involving cross-appeals by parties against the decision of the high court judge (the “judge”) in suit no 331 of 2018 (“suit 331”), in which haribo asia pacific pte ltd (“hap”) sued aquarius corporation (“aquarius”) to recover payment for outstanding invoices, and aquarius counterclaimed against hap for breaches of a distributorship agreement (the “2016 da”). the 2016 da was entered into between the parties on 23 may 2016 for hap to supply confectionary products and for aquarius to distribute the same in south korea. the cross-appeals pertain only to aquarius’ counterclaim and not hap’s claim. 2 with regard to aquarius’ counterclaim, the judge found that hap was obliged by cl 9.3 of the 2016 da to deliver seven orders placed by aquarius between july and december 2016 (the “orders”) and none of the defences hap raised applied. in failing to deliver the orders, hap’s breach of cl 9.3 was actionable. the judge allowed aquarius’ counterclaim in part, finding that hap was liable to aquarius for lost profits suffered by the latter until 30 april 2017, but not for aquarius’ lost profits after 30 april 2017. 3 civil appeal no 1 of 2022 (“ca 1”) is aquarius’ appeal against the judge’s decision that it is not entitled to claim for lost profits after 30 april 2017. civil appeal no 2 of 2022 (“ca 2”) is hap’s appeal against the judge’s decision that it is liable to aquarius for lost profits until 30 april 2017. 4 having considered the respective cases on appeal and having heard counsel, we are of the view that ca 1 should be dismissed. the judge’s findings that are being appealed against cannot be said to be plainly wrong or against the weight of the evidence. as for ca 2, however, we allow hap’s appeal as, with respect, the judge erred in finding that aquarius had proved the quantum of its alleged lost profits until 30 april 2017. in particular, the judge failed to consider hap’s valid objection that aquarius’ computations of its alleged lost profits have not been established by admissible evidence and aquarius had therefore failed to prove the quantum of its alleged lost profits until 30 april 2017.facts the parties 5 hap is a company incorporated in singapore. it is part of the haribo group, a group of companies in the business of manufacturing and selling confectionaries. hap is responsible for the sale and distribution of the haribo group’s products in the southeast, west and east asian markets. nikolay karpuzov (“mr karpuzov”) is a director of hap and gave evidence on its behalf. on the other hand, aquarius is a company incorporated in south korea. it is in the business of distributing food and beverage products in south korea. evidence for aquarius was given by eric hahn (“mr hahn”), its sole shareholder and until april 2016, its president. background to the dispute6 the 2016 da
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  core bundle (“cb”) vol ii-b (part 7) 71–108.
+
+
+
+ is governed by german law and lies at the heart of the present dispute. in the course of the 2016 da, at least two issues arose as between the parties. sometime in august 2016, aquarius claims to have discovered that hap’s associate in the haribo group, haribo gmbh & co kg (“haribo gmbh”), had been positively supporting and supplying parallel importers from as early as 2012 (the “parallel imports issue”). shortly after and in response to aquarius’ requests for assistance for, amongst others, the parallel imports issue, aquarius claims that hap deliberately halted product deliveries and cancelled production of goods aquarius had ordered (the “product delivery issue”). this resulted in the orders being entirely unfulfilled or, if they were partially fulfilled, delayed (the “undelivered portions”). 7  hap took the first step to bring their contractual relationship to an end by invoking cl 7.2 of the 2016 da which states that parties may terminate the contract “with six (6) months’ notice to the end of a calendar month”. hap gave notice under cl 7.2 (“hap’s first termination notice”) on 25 october 2016,
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  cb vol ii-b (part 4) 11. 
+
+
+
+ and given the notice period defined, the last day of the contract would have been 30 april 2017. aquarius disputed the validity of hap’s first termination notice. on 1 december 2016, aquarius issued a cure notice to hap pursuant to cl 7.5 of the 2016 da (the “cure notice”),
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  cb vol ii-b (part 4) 12–14.
+
+
+
+ requesting inter alia that hap remedy certain fundamental breaches of the 2016 da. on 2 february 2017, hap, through its lawyers at the time, refuted each of aquarius’ allegations that hap had breached the 2016 da. in light of this response, aquarius exercised its right under cll 7.3 and 7.5 to terminate the 2016 da with immediate effect on 3 february 2017 (ie, by issuing its own termination notice (“aquarius’ termination notice”)).
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  cb vol ii-b (part 7) 153.
+
+
+
+ on 9 february 2017, hap issued a second termination notice primarily on the ground that aquarius’ termination notice was itself a repudiatory breach of the 2016 da.
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  cb vol ii-b (part 4) 15–17.
+
+
+
+ 8 for some time thereafter, hap demanded that aquarius make payment for outstanding invoices totalling €1,526,224.76 for products delivered. however, its demand was not met and hap thus brought suit 331 on 2 april 2018 to recover this outstanding sum with interest. parties do not appeal against the judge’s findings on hap’s claim (see [1] above). instead, the cross-appeals pertain only to aquarius’ counterclaim (see [2] above). procedural history9 in addition to the two factual witnesses (see [5] above), parties called experts to give evidence on: (a) the quantification of the counterclaim; and (b) issues of german law. in relation to (a), james nicholson (“mr nicholson”) and jenny teo (“ms teo”) respectively gave evidence for hap and aquarius. for the purposes of this appeal, we note the following procedural history: date description of event26 march 2020aquarius filed the affidavit of evidence-in chief (“aeic”) of ms teo.27 may 2020hap filed the aeic of mr nicholson. 5 june 2020parties filed their lead counsel statements.22 june 2020parties filed and exchanged the aeics of their respective factual witnesses, mr karpuzov (for hap) and mr hahn (for aquarius). for mr hahn’s aeic, it first came annexed as a draft in a solicitor’s affidavit on 22 june 2020. mr hahn’s affirmed affidavit was filed later on 1 july 2020.27 june 2020parties filed their respective notice of objections to the contents of the aeics. in particular, hap filed a notice of objections to the contents of ms teo’s aeic (“hap’s notice of objections to ms teo’s aeic”).
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  cb vol ii-b (part 2) 265–270.
+
+
+
+ 30 june 2020first tranche of the trial from 30 june 2020 to 17 july 2020. the witness conferencing session for mr nicholson and ms teo was from 16 july 2020 to 17 july 2020. 19 october 2020second tranche of the trial on 19 october 2020.12 july 2021third tranche of the trial from 12 to 15 july 2021.the parties’ cases  10 aquarius argues inter alia that the way in which hap effected the termination on 25 october 2016 was in violation of restrictions imposed by sections 138, 226 and 242 of the bürgerliches gesetzbuch (the “bgb”) – the german civil code – on the exercise of contractual rights, including termination rights such as that under cl 7.2 of the 2016 da. namely, that a contractual right cannot be exercised in a manner which: (i) is contrary to good morals; (ii) amounts to “unlawful chicanery” (ie, effected for no reason other than to cause damage to the other party); or (iii) is objectionable according to the standards of good faith and fair dealing. in particular, aquarius claims that hap committed contractual breaches of the 2016 da when it failed inter alia to assist it in investigating the parallel imports issue. further, hap breached cl 9.3 of the 2016 da, when it delayed or failed to make product deliveries (see [6] above). in response, hap denies committing any contractual breaches. instead, hap submits that hap’s first termination notice was valid. 11 flowing from hap’s purported breaches of its obligations under the 2016 da, aquarius claims that it suffered damages (in the form of lost profits). according to aquarius, had hap not acted in the way it did, aquarius would have continued making profits from the distribution of haribo group’s products for the remaining period that the 2016 da could have run (ie, until may 2021). in response, hap disputes every aspect of aquarius’ counterclaim. in particular, hap claims that the quantification of aquarius’ lost profits is based on incorrect assumptions and unsupported by evidence. decision below12 on aquarius’ counterclaim, the judge found that hap’s first termination notice was legally valid. hap’s first termination notice is not invalidated by the application of any of the three provisions of the bgb (see [7] and [10] above). aquarius’ claim for lost profits after 30 april 2017 failed.13  on hap’s purported breaches of its obligations under the 2016 da, the judge found that hap was obliged by cl 9.3 to deliver the orders and none of the defences hap raised applied (see [2] above). hap’s breach of cl 9.3 was actionable. the judge found that aquarius suffered a loss from hap’s failure to deliver the undelivered portions of the orders. had those deliveries been completed in a timely manner, the judge found that aquarius would have been able to completely sell the undelivered portions of the orders, and accordingly, ought to be compensated on that basis. the judge found hap liable in damages for aquarius’ lost profits until 30 april 2017 and relied on ms teo’s calculations to derive hap’s liability in damages.  issues on appeal14 in ca 1, aquarius avers that hap’s first termination notice should have been ruled invalid as the notice was issued in breach of hap’s duty of good faith owed to aquarius under s 242 of the bgb. 15 in ca 2, hap appeals against the judge’s finding that it is liable in damages for failing to deliver the undelivered portions of the orders. hap disputes that it breached its obligations under the 2016 da.
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  hap’s case in ca 2 at [17], [24].
+
+
+
+ in any event, hap submits that aquarius has not proven the fact or quantum of its alleged lost profits.
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  hap’s case in ca 2 at [78].
+
+
+
+ 16 the issues for determination are as follows: (a) for ca 1, did the judge err in finding that hap’s first termination notice was legally valid and that aquarius’ claim for lost profits after 30 april 2017 fails? (b) for ca 2, did the judge err in finding that hap was liable to aquarius for breach of its obligation to deliver the orders? if hap was liable, did the judge err in finding that aquarius has proved the fact and quantum of its alleged lost profits up until 30 april 2017?issue 1: legal validity of hap’s first termination notice17 in ca 1, aquarius argues that hap breached its duty of good faith under s 242 of the bgb when (a) it refused to cooperate with aquarius and investigate the parallel imports issue, and (b) it deliberately and intentionally breached its delivery obligations owed under cl 9.3 of the 2016 da. according to aquarius, these actions of hap render hap’s first termination notice invalid. 18 dealing first with the parallel imports issue, aquarius’ complaint is directed at hap’s failure to investigate haribo gmbh’s support of parallel importers.
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  aquarius’ case in ca 1 at [52]–[53], [58], [60].
+
+
+
+ the judge understood aquarius’ complaint as such and carefully analysed the complaint, ultimately finding that there was no evidence that hap breached its duty of cooperation under the 2016 da in respect of the parallel imports issue. we do not see any reason to disturb the judge’s finding. as the judge had observed, the existence of a duty of cooperation cannot mean that the obligor must cooperate with all requests, whether grounded or not. this is a finding which accords with logic and common sense. in so far as aquarius argues otherwise, aquarius has not shown that the duty to cooperate at law requires hap to cooperate with all requests of aquarius regardless of the legitimacy or validity of the requests. further, we see no reason to disturb the judge’s finding that haribo gmbh’s alleged support of parallel importers was a bare claim insufficient to engage hap’s duty of cooperation. hap’s awareness of the issue of parallel imports generally
+10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  aquarius’ case in ca 1 at [54], [56]–[57]; aquarius skeletal submissions at [28(a)].
+
+
+
+ is insufficient to show that haribo gmbh had been supporting parallel importers. likewise, aquarius’ reference to the existence (and not the contents) of certain internal memos of the haribo group
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  aquarius’ case in ca 1 at [56].
+
+
+
+ is unhelpful in evidencing haribo gmbh’s alleged support of parallel importers without more. furthermore, aquarius’ cure notice to hap did not ask hap to investigate the support of parallel importers. given the sparse evidence (if at all) of haribo gmbh’s alleged support of parallel importers, the judge’s finding that hap’s duty of cooperation was not engaged and that hap did not breach its duty of cooperation is not plainly wrong or against the weight of the evidence. for the above reasons, aquarius’ appeal that hap breached its duty of good faith under s 242 of the bgb when it refused to cooperate with aquarius and investigate the parallel imports issue fails. 19 moving next to the product delivery issue, although the judge had found hap to have been in breach of cl 9.3 of the 2016 da, the judge did not accept that hap’s conduct was contrary to good morals, amounted to unlawful chicanery or objectionable according to the german standards of good faith and fair dealing. aquarius appeals on the ground that hap’s failure to deliver arose from improper motives. in particular, aquarius argues that hap’s lack of good faith can be seen from how hap had conveyed the impression to aquarius in early october 2016 that it was business as usual, when in actual fact, hap was taking unilateral steps to terminate the business relationship.
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  aquarius’ case in ca 1 at [65]–[67]; aquarius’ skeletal submissions at [31].
+
+
+
+ we disagree with aquarius’ submission. we do not think that there is any inconsistency in hap’s internal and external correspondence or that such inconsistency is sufficiently indicative of hap’s lack of good faith. 20 looking at hap’s internal emails in early october 2016, they suggest at best that hap was still in discussions internally as to whether to terminate the business relationship. for instance, aquarius takes issue with certain internal emails of 3 october 2016 and 5 october 2016 in which hap gave instructions internally that production of aquarius’ orders and shipments to korea should be stopped. as evident from the wording of the emails, however, these were temporary measures – “i will let you know if and when we can resume the production”
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  cb vol ii-a 150–151 (p3slod7).
+
+
+
+ and “[p]lease hold on to the korea shipments for a week”.
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  cb vol ii-a 152–153 (p3slod11).
+
+
+
+ the fact that aquarius itself contends merely that these decisions could well have been permanent
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  aquarius’ skeletal submissions at [31], footnote 75.
+
+
+
+ suggest that these emails are equivocal, being in the nature of a review of the parties’ business relationship rather than an intentional and contumelious breach of its delivery obligations under the 2016 da. we note hap’s first termination notice was communicated to aquarius on 25 october 2016. consequently, even if we were to accept that the decision to terminate had been made internally some three weeks earlier in early october 2016, we do not think that much can be made of the fact that the decision to terminate was only communicated to aquarius on 25 october 2016. in the short intervening period, we do not see it objectionable for hap to convey the impression that it was business as usual. we also note that hap’s first termination notice envisaged a six months’ notice period (see [7] above). given that parties still had to work together for some time even after the decision to terminate was communicated to aquarius, hap’s external emails to aquarius in early october 2016 may be viewed as not inconsistent with its decision to terminate the contractual relationship. in the circumstances, we do not think that the judge’s finding that hap’s breach of cl 9.3 was not in bad faith should be disturbed. 21 finally, we note that the judge had also considered the exchanges between the parties and had expressed the view that the acrimony between the parties can, and in the judge’s view does, explain why hap exercised its right to terminate under cl 7.2 shortly thereafter. having examined those exchanges, we are in agreement with the judge’s findings. given the acrimony between the parties, it should have come as no surprise to mr hahn when hap wanted to terminate the business relationship shortly after. at the hearing of the appeal, counsel for aquarius, mr gregory vijayendran sc (“mr vijayendran sc”), tried to explain that the language which mr hahn used in his emails should be viewed in the context of a long-term partnership and parties being direct with each other. however, mr hahn’s language goes far beyond that. mr hahn made broad ranging allegations, inter alia, that the haribo group, hap and/or its representatives had lied, were dishonest and unethical and were motivated by “uncontrolled greed and selfishness”.
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  cb vol ii-b (part 7) 123–128 (dlod 101).
+
+
+
+ to say that mr hahn was being direct or  used strong language is a mischaracterisation. given the acrimony between the parties, it should have come as no surprise to mr hahn when hap wanted to terminate the business relationship shortly after. rather than an internal plan to exact vengeance, we are in agreement with the judge that the internal email in which one of the haribo group’s representatives described its relationship with aquarius as having “reached the end of the road” was more an exasperated declaration that the parties could no longer continue working together. 22 in sum, we find that aquarius has not shown that hap breached its duty of good faith under s 242 of the bgb. we uphold the judge’s findings that hap’s first termination notice was legally valid and that aquarius’ claim for lost profits after 30 april 2017 fails. we dismiss aquarius’ appeal in ca 1. issue 2: hap’s failure to deliver and proof of loss of profits liability for hap’s failure to deliver23 moving to ca 2, hap appeals against the judge’s finding that it is liable in damages for failing to deliver the undelivered portions of the orders. hap mounts several challenges against the said finding, which we find to be without merit. we will deal with each of hap’s challenges in turn. confirmation of the orders24 first, hap appeals against the judge’s finding that it had confirmed the orders. in this regard, hap’s case turns on the absence of written confirmation on its part. as a preliminary point, it is not clear to us that written confirmation is even required. looking at cl 6.1 of the 2016 da,
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  cb vol ii-b (part 7) 83.
+
+
+
+ it states that:the distributor shall purchase the products in his own name and his own account directly from the principal at prices to be mutually agreed in good faith. every and each purchase order shall become binding upon the principal for the sale of products in accordance with the terms of this agreement (including clause 6.2). the principal shall acknowledge receipt of each purchase order within three (3) german business days of receipt.no mention is made in cl 6.1 of the need for written confirmation of the orders. while we note that appendix 2, condition 2 of the 2016 da
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+  cb vol ii-b (part 7) 105.
+
+
+
+ states that “[o]ur offers are subject to change until the time that the order is confirmed”, we highlighted to counsel for hap, mr chou sean yu (“mr chou”), that it is not clear from the wording whether the word “our” refers to hap or aquarius. in any event, one possible interpretation is that in so far as appendix 2, condition 2 of the 2016 da is contrary to cl 6.1 of the 2016 da in requiring written confirmation of the orders, cl 6.2 of the 2016 da states that the provisions of the 2016 da shall prevail. if written confirmation is not required in the first place, hap’s appeal on the basis that it did not provide written confirmation of the orders does not even get off the ground. 25 be that as it may, parties did not canvass this argument. taking hap’s case at its highest and even if we were to assume that written confirmation is required, we see no reason to depart from the judge’s decision that hap had confirmed the orders. the judge found that the orders can be sub-grouped into those placed in july to october 2016, and those placed in november and december 2016. the former pertained to orders 6 to 10 while the latter pertained to orders 11 and 12. for the earlier set of orders, the judge found that they were confirmed in writing by way of hap’s pro forma invoices. on appeal, hap contends that its pro forma invoices were not written confirmations, and as such, they do not give rise to a binding contract for hap to deliver and for aquarius to make payment. the issue with hap’s case that its pro forma invoices were not written confirmations is that it is contradicted by contemporaneous email correspondence. as the judge had noted, in an email from mr karpuzov on 23 january 2017,
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+  cb vol ii-b (part 7) 141–142.
+
+
+
+ mr karpuzov stated in no uncertain terms that hap has issued pro forma invoices for the first group of orders and that hap will deliver all the ordered quantities. in cross-examination, mr karpuzov himself suggested that the first group of orders were confirmed in writing, by way of the pro forma invoices. in the circumstances, we see no reason to disturb the judge’s finding that the first group of orders had been confirmed and hap was obliged to deliver. 26 it is perhaps unsurprising that in mr chou’s oral submissions on appeal, he focused on the second group of orders. in particular, mr chou highlighted that in that same email from mr karpuzov on 23 january 2017 (see [25] above), mr karpuzov stated that the second group of orders were not confirmed. as we had pointed out to mr chou, however, this does not bring hap very far:(a) on 14 december 2016, aquarius sent an email to hap to say that it had not received a pro forma invoice in respect of order 11.(b) on 19 december 2016, hap asked why aquarius needed such an invoice since payment terms had changed from advance payment.(c) aquarius replied on 19 december 2016 to say it wanted the pro forma invoice as a sort of acknowledgement.(d) hap then responded on 19 december 2016 to say that as no advance payment was required, it would not be sending such invoices. (e) on 20 december 2016, aquarius replied to say that it would accept hap’s response as an acknowledgement of order 11 and that for order 12, aquarius would not expect a pro forma invoice as hap stated that such an invoice was no longer needed.27 there was no response by hap to aquarius’ email dated 20 december 2016 at that time. 28 on 5 january 2017, hap sent an email to aquarius to say that the 2016 da was coming to an end by 30 april 2017. the orders up to order 10 had been received and acknowledged. 29 aquarius replied on 6 january 2017 to say that all orders through to order 12 had been “well received and acknowledged”. aquarius reminded hap that hap had even said that for order 11, no pro forma invoice would be needed. as for order 12, too much time had passed for hap to pretend that it was not “well received and acknowledged”. 30 it was not until 23 january 2017 that hap sent another email on the orders. we have mentioned this email above at [25] and [26]. it was only in this 23 january 2017 email did hap state for the first time that there was no written confirmation for orders 11 and 12. 31 aquarius replied on 24 january 2017 to remind hap that hap had confirmed that no pro forma invoices were required on the latest orders from aquarius. 32 in our view, it was too late for hap to say that there was no order confirmation for orders 11 and 12. we agree with the judge’s interpretation of hap’s email on 19 december 2016 (at [26(b)] above), namely that it seemed implied that the orders had been confirmed save without pro forma invoices. we add that this interpretation is supported by hap’s further email on 19 december 2016 (at [26(d)] above) and the surrounding correspondence.33 in the circumstances, we see no reason to disturb the judge’s finding that the second group of orders had been confirmed. as such, we affirm the judge’s decision that a binding contract had arisen, and that hap was obliged to deliver the orders. delivery of the orders34 second, hap appeals against the judge’s finding that it was obliged under cl 9.3 of the 2016 da to deliver within a period of four months to the end of the month from the date on which the order was placed. hap argues that aquarius has not pleaded or proven a four-month custom, much less shown that there is a strict obligation on hap to deliver within four months. we do not accept hap’s appeal on its delivery obligations. 35 on the issue of aquarius’ pleaded case, the judge rightly noted that aquarius’ case was that the orders were each supposed to be delivered from october 2016 to april 2017.
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+  aquarius’ case in ca 2 at [29]; respondents’ supplemental core bundle (“rscb”) vol i-a 10–13 (aquarius’ defence and counterclaim at [41(a)] and [57a]). 
+
+
+
+ as mentioned earlier (see [2] above), the orders were placed between july and december 2016. in the cross-examination of hap’s witness, mr karpuzov, he accepted that it was “a rule of thumb” for aquarius to place its orders four months in advance of the expected delivery.
+
+                   21
+
+
+
+
+foot note 21
+
+×
+
+
+
+  record of appeal (“roa”) vol iii (part 26) 23–24.
+
+
+
+ in view of the above, we find that aquarius had sufficiently pleaded and pursued the issue of hap’s delivery obligations and it cannot be said that hap was taken by surprise by this claim (see in this regard v nithia (co-administratrix of the estate of ponnusamy sivapakiam, deceased) v buthmanaban s/o vaithilingam and another [2015] 5 slr 1422 at [38]–[40]). 36 we see no reason to disturb the judge’s finding that there was a four-month custom and that there is a strict obligation on hap to deliver within four months. the judge had carefully considered the evidence, including the testimony of mr karpuzov where he had acknowledged a practice of aquarius submitting its orders four months in advance of the expected delivery.
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+  roa vol iii (part 26) 23–25.
+
+
+
+ as mr karpuzov’s evidence showed that hap regarded this as customary and as hap must make timely deliveries (as prescribed by cl 9.3), the judge rightly found that hap was obliged to deliver within a period of four months to the end of the month from the date on which the order was placed. 37 notably, hap does not challenge the judge’s finding that cl 9.3 should be interpreted in line with the requirements of good faith and any custom existing between the parties. hap merely argues that a custom may not overwrite the express text of the contractual clause (ie, cl 9.3).
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+  hap’s skeletal submissions at [50].
+
+
+
+ it appears that hap’s argument here is based on the second sentence of cl 9.3 which states that “[hap] shall use reasonable best endeavours to ensure compliance with production lead times to ensure such timely delivery of the products and shall inform [aquarius] as soon as possible if such lead times may not be reached”. in so far as hap’s argument is that the judge’s finding on hap’s delivery obligation is inconsistent with this second sentence of cl 9.3, we disagree. while cl 9.3 provides that hap is to use reasonable best endeavours to comply with production lead times and in the event that such lead times may not be reached, hap is to inform aquarius as soon as possible, it does not mean that hap cannot at the same time be under an obligation to deliver within four months. indeed, it would appear that there must be such an obligation to deliver within a specified time in the first place, such that hap is then obliged to use reasonable best endeavours to comply with its obligation to deliver within a specified time. put another way, the second sentence of cl 9.3 excuses hap’s non-compliance with its delivery obligations where hap had used reasonable best endeavours and informed aquarius as soon as possible once it knew it could not produce the products in time, but it does not preclude an obligation to deliver within four months from arising in the first place. 38 for the above reasons, we do not disturb the judge’s finding that hap was obliged to deliver within a period of four months to the end of the month from the date on which the orders were placed.defences for its failure to deliver the orders39 hap also appeals against the judge’s findings with regard to its defences for its failure to deliver the undelivered portions of the orders. 40 first, hap argues that the judge erred in rejecting its argument that appendix 2, condition 7 of the 2016 da excludes aquarius’ claim for lost profits. appendix 2, condition 7 of the 2016 da provides:
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+  cb vol ii-b (part 7) 106.
+
+
+
+ 7. disclaimerall claims for damages on the part of the customer against us or our vicarious agents, particularly due to impossibility of delivery for which we are at fault, breach of contractual and pre-contractual duties and claims based on tort, are excluded, particularly in respect of damage not resulting from the goods delivered by us or for consequential damage such as lost profit or other financial loss. this does not apply in the event that we or our vicarious agents have acted intentionally or with gross negligence, in cases of death or personal injury and in cases where strict liability is imposed by statute. the duty to pay damages will however be limited to reasonably foreseeable damages. disclaimers and limitations on liability will apply likewise in respect of the personal liability of our employees and vicarious agents.41 hap contends that the judge erred in finding that this condition of the 2016 da is invalid under german law and naturally, aquarius disagrees. on appeal, parties do not dispute that whether this condition is valid or not is determined by reference to sections 307(1) and (2) of the bgb:307. test of reasonableness of contents(1) provisions in standard terms are ineffective if, contrary to the requirement of good faith, they unreasonably disadvantage the other party to the contract with the user. an unreasonable disadvantage may also arise from the term not being clear and comprehensible.(2) an unreasonable disadvantage is, in case of doubt, to be assumed to exist if a term:1. is not compatible with essential principles of the statutory provision from which it deviates, or2. limits essential rights or duties inherent in the nature of the contract to such an extent that attainment of the purpose of the contract is jeopardised.42 the judge had found that condition 7 is invalid as it unreasonably disadvantages aquarius and in particular limits an essential right of aquarius which is inherent in the nature of the 2016 da to such an extent that attainment of the purpose of the contract is jeopardised. we see no reason to disturb the judge’s findings. the judge had considered that the plain words of condition 7 clearly excludes “all claims for damages” and this has the effect of depriving aquarius of recourse for all remedies, not just for lost profits. to the extent that hap maintains its argument on appeal that condition 7 should not be deemed invalid as it only excludes intangible losses, ie, a loss of profits, we do not agree. in any event, as the judge had rightly pointed out, even taking hap’s argument at its highest, there is no reason why “intangible loss” and “lost profits” should be treated lightly when concerned with a distributorship agreement. 43 as to hap’s argument that it would still be liable for damage arising from intentional acts and gross negligence even if condition 7 is deemed valid,
+
+                   25
+
+
+
+
+foot note 25
+
+×
+
+
+
+  hap’s case in ca 2 at [30]; hap’s skeletal submissions at [59]. 
+
+
+
+ the judge had carefully considered this point in two ways. first, the judge reasoned that this argument is beside the point as hap cannot, as a matter of law, exclude such liability in any case. secondly, where a distributor suffers damages, it more likely than not arises from his principal’s inadvertent rather than deliberate conduct. in the circumstances, we affirm the judge’s finding that excluding hap’s liability for simple negligence does limit an essential right of aquarius and accordingly, condition 7 is invalid. it therefore cannot operate as a defence to hap’s liability to aquarius for loss of profits.44 secondly, hap argues that the judge erred in rejecting its defence that it was under no obligation to fulfil the orders as aquarius would not have been able to sell the stock it had ordered before the end of the 2016 da, ie, 30 april 2017. we find that the judge did not so err. the judge had carefully considered and rejected hap’s submissions below that, under german law, “where a distribution contract is coming to an end, the principal is ‘at the most’ obliged to deliver products that can be sold until this moment”. hap argues that it had the legal right to withhold deliveries on the basis that aquarius in fact had sufficient stock. while hap reiterates its reliance on a case heard by the oberlandesgericht frankfurt am main (the court of appeal of frankfurt) to establish such a legal right, we are of the view that the judge had rightly rejected the suggestion of hap’s german law expert that the frankfurt court of appeal case establishes such a legal right, absent more information on the facts and reasoning in that case. to the extent that hap argues on appeal that its german law expert had provided that information, we do not agree with hap. 45 in any event, we do not see any reason to disturb the judge’s finding that hap has not shown that aquarius in fact had sufficient stock, such that hap was then entitled to withhold deliveries. hap relies on a document
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+  hap’s case in ca 2 at [66]; cb vol ii-b (part 1) 88; cb vol ii-b (part 2) 215–216 (at [463]). 
+
+
+
+ which purportedly shows aquarius selling haribo group’s products even in january 2018, the point being that aquarius had sufficient stock up to the end of the 2016 da. the issue with this point, however,
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+  aquarius’ case in ca 2 at [42(c)]; rscb vol i-a 104 (at [103], footnote 157). 
+
+
+
+ is that this did not appear to have been taken by hap in its cross-examination of mr hahn and to which mr hahn may have had a specific explanation (see sudha natrajan v the bank of east asia ltd [2017] 1 slr 141 at [48]). in addition, hap also relies on a portion of mr karpuzov’s testimony to show that aquarius in fact had sufficient stock.
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+  hap’s case in ca 2 at [67]; cb vol ii-b (part 1) 192–195.
+
+
+
+ the problem with mr karpuzov’s testimony, as the judge had pointed out, is that he did not explain how hap calculated aquarius’ actual stock levels based on the information in aquarius’ sales reports, such that it may then be said that aquarius in fact had sufficient stock. hap’s attempt to shore up the evidential deficiencies in its case, by explaining in its appellant’s case how aquarius’ sales reports should be read,
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+  hap’s case in ca 2 at [67].
+
+
+
+ is impermissible when such explanation did not come from mr karpuzov. 46 thirdly, hap argues that the judge erred in rejecting its defence that it was not obliged to make deliveries of the orders given the “unusually high” volume of aquarius’ orders compared to previous dealings. in the first place, we agree with the judge that hap has not established any clear rule or principle in german law which allows a principal to refuse to fulfil orders on the basis that the ordered quantities were “unusually high” compared to previous dealings. on appeal, hap seeks to argue that such a rule is established on a proper interpretation of cl 9.3 itself.
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+  hap’s case in ca 2 at [68]. 
+
+
+
+ we are unable to accept hap’s argument. hap’s reliance on the text of cl 9.3, and in particular the second sentence of cl 9.3, is misplaced as the sentence plainly relates to timelines, not quantities (see [37] above). in fact, the entire provision of cl 9.3 relates to timelines, not quantities. there is no basis to read in a right to refuse to fulfil orders on the basis that the ordered quantities were “unusually high” compared to previous dealings. instead, we agree with the judge that once orders are accepted – and hap did accept the orders in this case (see [24]–[33] above) – the parties ought to be bound by their contractual obligations. 47 in any event, we agree with the judge that hap’s defence lacks the necessary factual grounding. hap has not proved that aquarius ordered unusually high volumes. while hap attempts to refer to certain sales reports of aquarius as being evidence of the unusually high volumes, the judge had rightly noted that it was not explained how the spreadsheets therein were to be read, whether hap’s calculations relied on them, and if so, how. as before (see [45] above), hap’s attempt to shore up the evidential deficiencies in its case, by explaining in its appellant’s case how hap’s assertions of aquarius’ usual sales volume (used to compute the percentage increases in aquarius’ orders) correspond to the underlying figures in aquarius’ sales reports,
+
+                   31
+
+
+
+
+foot note 31
+
+×
+
+
+
+  hap’s case in ca 2 at [74(b)].
+
+
+
+ is impermissible when such explanation was not before the judge below. given that the burden lies on hap to establish its defence, we are of the view that the judge did not err in finding that hap has not established its assertions (a) as to the percentage increases in aquarius’ orders and (b) that aquarius’ orders were unusually high.aquarius’ proof of loss of profits48 having considered and rejected hap’s appeal against the judge’s finding that it is liable in damages for failing to deliver the undelivered portions of the orders, we now consider hap’s appeal that aquarius has failed to prove the fact and quantum of its alleged lost profits until 30 april 2017. 49 as a preliminary point, we do not think that the judge erred in finding that aquarius has proved the fact of its alleged lost profits. in our view, the judge rightly found that aquarius would have been able to make greater profits had hap completed delivery of the orders. the judge’s reasoning that aquarius would not have acted against its own interests by incurring debts for purchases on which it had no hope of turning a profit and acceptance of mr hahn’s evidence on inter alia anticipated growth and expected increases in orders cannot be said to be plainly wrong or against the weight of the evidence. we would add that it is not clear to us that the judge correctly interpreted cl 7.7 of the 2016 da
+
+                   32
+
+
+
+
+foot note 32
+
+×
+
+
+
+  cb vol ii-b (part 7) 87.
+
+
+
+ as a prohibition on aquarius selling haribo group’s products after the end of the 2016 da, but this was not a point raised by parties. in any event, even if the judge did so err and cl 7.7 contained no such prohibition, it would arguably provide further support for the judge’s finding that aquarius has proved the fact of damage. if cl 7.7 is interpreted as containing no such prohibition, hap would have been able to sell haribo group’s products even after the end of the 2016 da and make greater profits.50 on the quantum of aquarius’ alleged lost profits, the judge accepted certain calculations prepared by ms teo and found hap liable for a certain sum in damages for aquarius’ lost profits. on appeal, hap contends that the judge erred as the relevant facts, documents and assumptions relied upon by ms teo for her calculations have not been established by admissible evidence.
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+  hap’s case in ca 2 at [104].
+
+
+
+ for instance, hap argues that the numbers used by ms teo to derive the lost profits (eg, the prices at which aquarius sold haribo group’s products in the past and the costs that aquarius incurred in making those sales) were not supported by primary documents properly admitted into evidence. we find that the judge erred in failing to address this point of admissibility. aquarius has not established the quantum of its alleged lost profits as the primary documents supporting ms teo’s calculations were not properly admitted into evidence. 51 for instance, to establish the freight and transportation costs, ms teo appears to have relied on a document described in aquarius’ 3rd supplementary list of documents (“d3slod”)
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+  cb vol ii-b (part 8) 158–162.
+
+
+
+ as a “table of monthly freight and transportation costs relating to incoming shipments of haribo products for the period of may 2014 to march 2017”.
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+  appellant’s supplemental core bundle (part 2) 160.
+
+
+
+ as we had pointed out to mr vijayendran sc, however, one of the issues with this document is that it appears to be a summary. when we asked whether the source documents of aquarius used to produce this summary was in evidence, mr vijayendran sc acknowledged that the source documents were not produced by way of either the maker of the document or a witness of fact; instead, the summaries were essentially tabulated and thereafter given to ms teo. with respect, this is unsatisfactory. without the source documents and a witness of fact or the maker of the document testifying as to the authenticity and accuracy of the source documents, the summary, which was premised on the source documents, cannot be relied on. moreover, it does not even appear to be the case that the summary was properly admitted into evidence by a factual witness from aquarius. 52 we would add that this appears to be an issue which pervades the other documents on which ms teo relies, as set out in section e of appendix b to her expert report
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+  roa vol iii (part 19) 244–245.
+
+
+
+ – some of these documents also appear to be summaries, and in so far as these documents are the source documents themselves, they do not appear to have been produced by way of either the maker of the document or a witness of fact. aquarius has two responses to this issue. 53 first, aquarius argues that this objection on admissibility was taken late in the day and only crystallised in hap’s closing submissions. we are of the view that this argument cannot get off the ground. mr vijayendran sc himself acknowledged that he is not submitting that aquarius was caught by surprise. mr vijayendran sc also acknowledged that it is open to aquarius to run the objection and that aquarius did not at any point forfeit or waive its right to raise the objection on admissibility. it is not clear therefore how this argument by aquarius affects the issue of admissibility, even if we accept that hap’s objection on admissibility was taken late in the day. mr vijayendran sc may well characterise this objection as a tactical one, but as we had pointed out at the oral hearing, the consequences of this objection succeeding is clear. 54 in any event, we do not accept that hap’s objection on admissibility was taken late in the day or that it only crystallised in hap’s closing submissions. as the aeics of the parties’ factual witnesses were only filed and exchanged on 22 june 2020, we accept hap’s argument that it could not have taken the objection any earlier (eg, at the time of the filing of hap’s lead counsel statement) and indeed, it did so just five days later, when it filed the notice of objections, including hap’s notice of objections to ms teo’s aeic, on 27 june 2020 (see [9] above). hap’s objection was clear and unambiguous, namely that “the relevant facts, documents and assumptions relied upon by ms jenny teo for her computations have not been established by admissible evidence”. once hap had objected to the contents of ms teo’s expert report, the ball was now in aquarius’ court to meet that objection. as we had pointed out at the oral hearing, there are various ways of meeting hap’s objection, one of which is for hap to call a factual witness to testify on the authenticity and accuracy of the source documents supporting ms teo’s computations. what aquarius could not do was to leave the objection standing and not take any step to meet hap’s objection. 55 we would add that at the start of the witness conferencing sessions for mr nicholson and ms teo on 16 july 2020, counsel for hap reiterated the point in its notice of objections, ie, that hap was making the objection that “no primary evidence has been adduced from [aquarius’] witness to support the numbers that are being put forward”.
+
+                   37
+
+
+
+
+foot note 37
+
+×
+
+
+
+  cb vol ii-b (part 2) 51.
+
+
+
+ in so far as aquarius suggests that hap should have gone further to register its objection on the second day of the witness conferencing session on 17 july 2020 or cross-examined ms teo on the lack of source documents supporting her computations, we are unable to agree. by this time, hap had already registered its objection on the basis of admissibility on no less than two occasions. as counsel for hap pointed out and we agree, once hap had registered those objections, hap did not have to go further to cross-examine ms teo, or for that matter, mr hahn and in so doing, risk undermining its own objection on admissibility. it is also no answer for aquarius to argue that hap’s own expert witness, mr nicholson, had critiqued the analysis of ms teo on the basis of certain numbers being put forward and some of the allegedly inadmissible documents. as we had pointed out during the oral hearing, it was prudent of hap to deal with aquarius’ case on several levels. this includes challenging ms teo’s analysis on the quantum of the lost profits and the assumptions she made in reaching her conclusions, in the event that the court did not accept its challenge on admissibility. doing so, however, did not constitute a waiver of its challenge on admissibility. we reiterate that it was for aquarius to meet hap’s challenge on admissibility. despite the trial ending some one year later on 15 july 2021, aquarius did not appear to have taken any step to meet hap’s challenge on admissibility (see [9] above). 56 secondly, aquarius relies on the business records exception under s 32(1)(b)(iv) of the evidence act 1893 (2020 rev ed) (the “evidence act”). as a preliminary point, this argument does not bring aquarius very far. even if we accept that aquarius may rely on the business records exception, some of the source documents do not appear to have been produced to the court in the first place (see [51] above). if the evidence is not even before the court, there is no way the court may decide on issues of hearsay, whether the business records exception applies and rule on its admissibility. 57 in any event, the bigger problem aquarius runs into with its reliance on the business records exception is that aquarius would need to show that the documents upon which ms teo relied to compute aquarius’ loss of profits were documents “constituting, or forming part of, the records (whether past or present) of [aquarius’ business] that are recorded, owned or kept by [aquarius]”. to prove this, aquarius appears to be relying on the wording of the documents themselves, the description of the documents in d3slod and the description of the documents in appendix b to ms teo’s expert report. this is unsatisfactory. as mr vijayendran sc himself acknowledged, he cannot prove that the documents are likely to have been prepared by aquarius’ employees in the ordinary course of business as aquarius does not have any employee saying that. for instance, mr vijayendran sc acknowledged that there was a gap in the evidence as there was no factual witness stating that some of the spreadsheets relied on by ms teo were taken out from the computerised system of aquarius. as hap has pointed out, the source documents on which aquarius relies were not even exhibited or referred to in the aeic of aquarius’ only factual witness, mr hahn.
+
+                   38
+
+
+
+
+foot note 38
+
+×
+
+
+
+  hap’s case in ca 2 at [91].
+
+
+
+ absent any evidence to show that the said documents constituted or formed part of the records of its business, aquarius cannot establish the business records exception. 58 for the avoidance of doubt, we find that neither the documents themselves nor the description of them in d3slod or in appendix b to ms teo’s expert report can establish that the documents constituted or formed part of the records of aquarius’ business, without any factual witness adducing those documents and testifying as to the contents therein. this is quite unlike the situation in brian ihaea toki and others v betty lena rewi and another [2021] sgca 37 at [13]–[14], which aquarius has referred to.
+
+                   39
+
+
+
+
+foot note 39
+
+×
+
+
+
+  aquarius’ skeletal submissions at [19], footnote 40.
+
+
+
+ in that case, the email argued to be hearsay evidence was admitted as evidence at trial by a factual witness (“mr toki”) without any objections. even though mr toki did not appear to be party to that email, the court noted that mr toki had accepted the email as a serious offer and responded to it on that basis. it was in that context that the court took the view that the said email would have been admissible under the business records exception, even though the parties to the email did not appear to have been called as factual witnesses at the trial. in the present case, the documents alleged to be hearsay evidence were not even admitted as evidence by a factual witness and as mentioned earlier, hap made it clear that it was objecting to the admissibility of the documents (see [54]–[55] above). 59 in sum, absent properly adduced source documents to support ms teo’s calculations on the loss of profits, we find that the judge erred in accepting that aquarius has proven the quantum of its alleged lost profits.conclusion60 for the reasons set out above, we dismiss ca 1 and allow ca 2. the judge’s finding that hap is liable to aquarius on the counterclaim for the sum of ₩2,311,179,383 (which is approximately €1.7 million) is set aside and we award nominal damages of $1,000 instead. 61 as hap has succeeded in the appeals, it should be awarded the costs of the appeals. we order aquarius to pay the sum of $60,000 (all-in) to hap as the costs of the appeals. the usual consequential orders will apply.62 neither party has addressed us on the issue of the costs below. the costs of the trial are to be determined by the trial judge, failing which we will determine the same.woo bih lijudge of the appellate divisionquentin lohjudge of the appellate divisionhoo sheau pengjudge of the high courtgregory vijayendran sc, devathas satianathan and evelyn chua (rajah & tann singapore llp) for aquarius corporation, the appellant in ca 1/2022 and respondent in ca 2/2022;chou sean yu, oh sheng loong frank and wong zheng hui daryl (wongpartnership llp) for haribo asia pacific pte ltd, the respondent in ca 1/2022 and appellant in ca 2/2022.

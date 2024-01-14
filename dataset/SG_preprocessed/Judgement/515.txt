@@ -1,0 +1,2636 @@
+in the appellate division ofthe high court of the republic of singapore[2023] sghc(a) 9civil appeal no 87 of 2021betweencrescendas bionics pte ltd… appellant andjurong primewide pte ltd… respondentcivil appeal no 88 of 2021betweenjurong primewide pte ltd… appellant andcrescendas bionics pte ltd… respondentcivil appeal no 128 of 2021betweencrescendas bionics pte ltd… appellant andjurong primewide pte ltd… respondentin the matter of suit no 477 of 2015betweencrescendas bionics pte ltd… plaintiff andjurong primewide pte ltd… defendantand betweenjurong primewide pte ltd… plaintiff in counterclaimandcrescendas bionics pte ltd … defendant in counterclaimjudgment[building and construction law — damages — delay in completion][contract — remedies — loss of chance][contract — remedies — damages — causation][contract — remedies — remoteness of damage][damages — assessment][damages — measure of damages — contract][damages — quantum][damages — remoteness]this judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.crescendas bionics pte ltdvjurong primewide pte ltd and other appeals[2023] sghc(a) 9appellate division of the high court — civil appeals nos 87, 88 and 128 of 2021woo bih li jad, hoo sheau peng j and quentin loh sj28 july 20229 february 2023  judgment reserved.woo bih li jad (delivering the judgment of the court):introduction1 before us are three appeals (the “appeals”) arising from the trial in hc/s 477/2015 (the “suit”): (a) ad/ca 87/2021 (“ca 87”), which is crescendas bionics pte ltd’s (“crescendas”) appeal against the award of damages by a judge of the general division of the high court (the “judge”) in crescendas bionics pte ltd v jurong primewide pte ltd [2021] sghc 189 (the “damages judgment (hc)”);(b) ad/ca 88/2021 (“ca 88”), which is jurong primewide pte ltd’s (“jp”) cross-appeal against the judge’s award of damages in the damages judgment (hc); and(c) ad/ca 128/2021 (“ca 128”), which is crescendas’ appeal against part of the judge’s decision on pre-judgment interest and costs for both the liability and assessment of damages tranches of the trial.facts background to the dispute2 crescendas is a property developer.
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  roa vol ii part i at pp 4–119 (plaintiff’s statement of claim (amendment no 5) (“psoc”)) at para 1.
+
+
+
+ jp is a general building contractor registered as a grade a1 contractor with the building and construction authority (“bca”).
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  psoc at para 4.
+
+
+
+3 on 30 june 2008, the parties signed a letter of intent dated 26 june 2008 (the “loi”) under which crescendas engaged jp as the management contractor to build biopolis 3. this is a seven-storey multi-tenanted business park development in one-north
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  psoc at paras 2, 5.2 and 11; first affidavit of evidence-in-chief of annie woo yen lee (“awyl-1”), p 32 at table 2.1 and paras 17–19. 
+
+
+
+ envisaged as a research and development (“r&d”) hub for biomedical sciences (“bms”) institutes and organisations, offering specialised facilities such as wet laboratories, chemistry laboratories and an animal facility.
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  awyl-1, p 76 (annex 1) and p 77 (annex 2).
+
+
+
+4 under cl 5.0 of the loi, jp was obliged to complete biopolis 3 in 18 months, ie, by 22 january 2010.
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  agreed statement of facts (second tranche) (amendment no 1) (“asof”) at s/n 1.
+
+
+
+ however, the time taken for completion exceeded the 18 months stipulated in the loi – bca directed the superintending officer to apply for the temporary occupation permit (“top”) only on 22 december 2010.
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  asof at s/n 2.
+
+
+
+ the top was obtained only on 12 january 2011.procedural history5 in the light of the delay, crescendas commenced the suit against jp, which in turn brought various counterclaims against crescendas.6 the trial was bifurcated, such that issues of liability and assessment of damages were decided separately in two tranches.
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  hc/orc 1483/2018 in hc/sum 401/2018.
+
+
+
+7 following the first tranche of the trial, the judge reached a decision on liability in crescendas bionics pte ltd v jurong primewide pte ltd [2019] sghc 4 (the “liability judgment (hc)”), which was affirmed on appeal in jurong primewide pte ltd v crescendas bionics pte ltd and another appeal [2019] sgca 63 (the “liability judgment (ca)”), save in relation to the arithmetic computation of the days of delay for which jp was responsible and the time taken for capping beams work (see the liability judgment (ca) at [14]–[20]).8 in gist, the liability judgment (hc) and the liability judgment (ca) found that for the purpose of cl 5.0 of the loi, biopolis 3 was deemed to be completed on 22 december 2010 when biopolis 3 was considered by bca to be ready for top application (see the liability judgment (hc) at [223]–[244]). on this basis, the completion of biopolis 3 was deemed to be delayed by a total of 334 days, from 23 january 2010 (ie, the day after the contractual completion date) to 22 december 2010 (the “combined delay”).
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  asof at s/n 2 and s/n 3.
+
+
+
+ of these 334 days, crescendas was responsible for an aggregate of 173 days of delay caused by its own acts of prevention. as a result, time for biopolis 3’s completion was set at large, and jp was only liable to complete biopolis 3 within a reasonable time of 18 months (the original period) plus 173 days. 14 july 2010 was the reasonable date of completion. jp exceeded the reasonable time for completion by 161 days (see the liability judgment (hc) at [352] and [392], and the liability judgment (ca) at [14]–[20]). jp was liable to crescendas in general damages rather than under the liquidated damages clause in cl 6.0 of the loi, as the latter, in the absence of an extension of time clause, had been rendered inoperative by crescendas’ acts of prevention (liability judgment (hc) at [353]).9 whilst each party’s delay was treated as a singular block of time for the purpose of computing the reasonable time for completion and the delay beyond this reasonable period, the days of delay which each party was responsible for were spread out over the period of the combined delay, both before and after the reasonable date of completion of 14 july 2010. the actual periods of delay attributable to crescendas were six days from 26 to 31 december 2008; 147 days from 4 january 2009 to 1 june 2009; seven days in november 2010; and 13 days in december 2010. the actual periods of delay attributable to jp were interspersed between the periods of delay caused by crescendas (see damages judgment (hc) at [12]–[23] and [79]; liability judgment (hc) at [76]–[77], [268], [327], [345] and [349]).10 in the second tranche of the trial, crescendas sought an assessment of general damages in respect of the 161 days of delay for which jp was responsible. the judge delivered his decision on damages in damages judgment (hc). undisputed facts11 for the second tranche of the trial, parties submitted an agreed statement of facts setting out some of the variables for calculating the loss suffered by crescendas. the net lettable area (“nla”) of biopolis 3 was 357,154 square feet.
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  asof at s/n 10.
+
+
+
+ the quantum of holding costs incurred by crescendas from 23 january 2010 to 12 january 2011 was $2,340,102.37 (“holding costs”).
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  asof at s/n 7.
+
+
+
+ the quantum of site staff costs (“site staff costs”) incurred by crescendas from 23 january 2010 to 12 january 2011 was $284,142.14.
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  asof at s/n 8.
+
+
+
+parties’ cases before the judge12 crescendas claimed general damages for the delayed completion in respect of three heads of loss:
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  psoc at paras 46.2.3(d) and 46.2.3(f); roa vol iv part df at pp 195–196 (crescendas’ high court closing submissions (second tranche) (“pcs”)) at paras 3, 5 and 6.
+
+
+
+ (a) “loss of chance” to earn net rental revenue;(b) holding costs; and(c) site staff costs.jp accepted that it should be liable for site staff costs incurred during the 161-day period from 15 july 2010 (ie, the day after the reasonable date of completion) to 22 december 2010, amounting to $132,157.12.
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  roa vol iv part dp at p 195 (jp’s written closing submissions (second tranche) (“dcs”)) at para 11.
+
+
+
+ the dispute between parties therefore revolved around the quantum and recoverability of damages for the “loss of chance” to earn net rental revenue and holding costs.13 crescendas’ claim in respect of the “loss of chance” to earn net rental revenue was made on an expectation basis. according to crescendas, three forms of net rental revenue loss flowed from the combined delay:
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  see roa vol iv part da at p 35 (crescendas’ written opening statement (second tranche) (“pos”)) at para 7.
+
+
+
+(a) loss of net rental revenue for the period of the combined delay itself;(b) loss of net rental revenue from each year of a tenancy that a pre-commitment tenant (as referred to below at [14]) would have entered into if not for the combined delay and whose lease term would have been longer than the combined delay; and(c) all other loss of net rental revenue from the additional time required for biopolis 3 to achieve stabilised occupancy due to the combined delay (the concept of stabilised occupancy is elaborated below at [114]).crescendas referred to the first as “pre-completion losses” and the next two as “post-completion losses”.14 in particular, crescendas argued that the combined delay resulted in the loss of five pre-commitment tenants which would have otherwise taken up a lease in biopolis 3 at the start of 2010. these five pre-commitment tenants were the institute of chemical and engineering sciences (“ices”) under the agency for science, technology and research, abbott laboratories (singapore) pte ltd (“abbott”), the nanyang technological university (“ntu”), petnet solutions pte ltd (“petnet”), and philip morris products sa (“philip morris”).
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  roa vol iv part df at pp 193 and 204 (pcs table of abbreviations and at para 26).
+
+
+
+15 in quantifying its net rental revenue loss, crescendas submitted that the appropriate method of quantification was the “multi-year model”, which computed the difference between the projected net rental revenue it would have earned had there been no combined delay and the actual net rental revenue it had earned, over the span of multiple years stretching from the period of the combined delay to the years thereafter. a discount rate of 8% was then applied to this difference. crescendas contended that the multi-year model reflected the full loss it suffered and was preferable to the “single-year model”, which only calculated crescendas’ loss of net rental revenue in the year of 2010.
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  roa vol iv part df at pp 240–241 (pcs at paras 117–118 and 120).
+
+
+
+ using the multi-year model, crescendas claimed net rental revenue loss of $10.2m from jp.16 next, in addition to the “loss of chance” to earn net rental revenue, crescendas claimed holding costs as reliance loss. it argued that there would be no double recovery as the former covers net rental revenue loss (and not gross rental revenue loss).
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  roa vol iv part da at pp 45–46 (pos at paras 40–43).
+
+
+
+17 in response, jp raised various issues of causation and remoteness to deny the recoverability of damages for net rental revenue loss. as to quantum, jp argued that the maximum amount of damages that crescendas could claim should be limited to the amount of liquidated damages it would have been liable for under cl 6.0 of the loi.
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+  roa vol iv part dp at p 205 (dcs at para 35).
+
+
+
+ further, the single-year model should be used in lieu of the multi-year model because the former had fewer speculative elements.
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+  roa vol iv part dp at p 225, 259 and 266–267 (dcs at paras 88, 188 and 205–208).
+
+
+
+ using the single-year model, jp submitted that it should only be liable for a sum between $308,045.33 and $627,987.17 (depending on the parameters adopted by the court).
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+  roa vol iv part dp at pp 269–270 (dcs at para 215 (table on p 82)).
+
+
+
+ jp further argued that a settlement sum of $4.75m paid to crescendas by one of the pre-commitment tenants, petnet (the “settlement sum”), should be deducted from any damages awarded for net rental revenue loss.
+
+                   21
+
+
+
+
+foot note 21
+
+×
+
+
+
+  roa vol iv part dp at p 195 (dcs at para 12).
+
+
+
+18 in respect of crescendas’ claim for holding costs, jp again contested its recoverability on the grounds of causation and remoteness. further, jp argued that crescendas could not claim holding costs in addition to its alleged net rental revenue loss because it had to incur holding costs in order to earn the alleged net rental revenue.
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+  roa vol iv part dk at p 39 (jp’s written opening statement (second tranche) (“dos”) at para 36).
+
+
+
+ in relation to quantum, jp accepted that crescendas incurred holding costs amounting to $2,340,102.37, but argued that the amount recoverable should exclude the holding costs incurred during the rent-free fitting-out period which crescendas would have granted its tenants even if biopolis 3 had been completed on time.
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+  dcs at para 10.
+
+
+
+the decision below19 on 10 august 2021, the judge delivered the damages judgment (hc) setting out his detailed reasoning. it is sufficient for the purposes of these appeals to summarise the judge’s key findings which were appealed against. 20 to begin with, the judge held that both crescendas’ and jp’s delays were effective causes of crescendas’ loss (damages judgment (hc) at [72]), and that the loss caused by the entire period of delay should be apportioned proportionately between the parties, based on the duration of delay attributable to each (damages judgment (hc) at [81]). given that jp was accountable for 161 out of 334 days of the combined delay, it was liable for 48.2% of the total recoverable loss (damages judgment (hc) at [82]). in the judge’s opinion, the maximum amount of general damages that jp was liable for was also not limited to the amount of liquidated damages it would have otherwise been liable for under cl 6.0 of the loi (damages judgment (hc) at [57]–[62]). 21 as regards crescendas’ claim for its “loss of chance” to earn net rental revenue, the judge characterised this claim as a claim for “loss of net rental revenue” (damages judgment (hc) at [85]). he proceeded to observe that this claim comprised two distinct categories of loss. first, the “loss of net rental revenue” during the period of the combined delay (“pre-completion net rental revenue loss”). secondly, the “loss of net rental revenue” after the completion of biopolis 3 (“post-completion net rental revenue loss”) (damages judgment (hc) at [93]). this is similar to crescendas’ claims for pre-completion and post-completion loss mentioned at [13] above.22 on remoteness, the judge held that pre-completion net rental revenue loss was not too remote as it was a natural consequence of the combined delay. as for post-completion net rental revenue loss, the judge was of the view that crescendas had accepted it as “indirect loss”. on this premise, the judge found that the latter was too remote to be recoverable as crescendas had not shown that jp had actual knowledge that the delay would cause further net rental revenue loss even after completion (damages judgment (hc) at [96]–[102]).23 on the issue of quantifying crescendas’ net rental revenue loss, the judge preferred the single-year model to the multi-year model even though the latter was preferred by crescendas’ experts, as well as the court’s expert adjunct assoc prof tay kah poh (“assoc prof tay”). the judge held that the single-year model provided the “fairest and most appropriate method of quantifying [crescendas’] loss of net rental revenue” (damages judgment (hc) at [104]–[128]).24 the judge adopted the following formula in the single-year model to derive net rental revenue loss amounting to $4,056,711.62 for the whole of 2010 (damages judgment (hc) at [131] and [227]):(first-year occupancy rate in 2010) × nla ×  of rent) × the judge pro-rated $4,056,711.62 to reflect the 334 days of the combined delay, and arrived at $3,712,168.99:(334/365) × $4,056,711.62 = $3,712,168.99the judge then apportioned $3,712,168.99 based on 161 out of 334 days to reflect jp’s liability. this amounted to $1,789,398.82 (damages judgment (hc) at [228]).25 the judge found that the settlement sum paid by petnet to crescendas should not be deducted from the award of damages for net rental revenue loss (damages judgment (hc) at [164]–[170]), and therefore found jp liable for $1,789,398.82 in this regard.26 although the judge was of the view that crescendas’ net rental revenue loss should be calculated based on the single-year model, he also considered the quantum of net rental revenue loss based on the multi-year model as an alternative. after apportionment, he found that jp would have been liable for $4,641,300.23 if the multi-year model were used (damages judgment (hc) at [231] and [319]).27 as regards holding costs, the judge held that these were not too remote and had flowed directly from the combined delay. however, he held that holding costs incurred during the rent-free fitting-out period were not wasted expenditure caused by the combined delay because they would have been wasted expenditure even if biopolis 3 was completed on time (damages judgment (hc) at [341]–[342]). on this basis, he reduced the award of damages for holding costs and found jp liable for $775,310.63 in respect of this head of loss (damages judgment (hc) at [343]–[345]).the parties’ cases28 in relation to the quantification of its net rental revenue loss, crescendas’ main contention was that the judge had erred in adopting the single-year model as opposed to the multi-year model.
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+  crescendas’ case in ca 87 (“ac(87)”) at paras 2–3 and 35–72. 
+
+
+
+ even if the judge was right in preferring the single-year model, crescendas submitted that he had erred in some aspects of his application of that model.
+
+                   25
+
+
+
+
+foot note 25
+
+×
+
+
+
+  ac(87) at paras 85–107.
+
+
+
+ on recoverability, crescendas argued that its post-completion net rental revenue loss was not too remote. crescendas also appealed against the judge’s decision to reduce the award of damages for holding costs to account for the rent-free fitting-out period.
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+  ac(87) at paras 108–136.
+
+
+
+29 on the other hand, jp argued that the judge was justified in rejecting the multi-year model as being too remote and speculative.
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+  jp’s case in ca 87 (“rc(87)”) at paras 39–40 and 48 (see also paras 42–27).
+
+
+
+ however, it took issue with some aspects of the judge’s application of the single-year model.
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+  jp’s case in ca 88 (“ac(88)”) at paras 9–42.
+
+
+
+ in so far as the judge had made an alternative finding on the quantum of loss if the multi-year model was applied, jp had limited grounds of challenge which we elaborate on later (see below at [192]–[195]).
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+  ac(88) at paras 67–74.
+
+
+
+ jp also submitted that the settlement sum that crescendas had obtained from petnet should be deducted from the net rental revenue loss recoverable by crescendas.
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+  ac(88) at paras 43–50.
+
+
+
+ further, it argued that the judge erred in finding that there was a causal link between its delay and crescendas’ alleged loss, and that the loss of two of its pre-commitment tenants, philip morris and petnet, were due to the combined delay.
+
+                   31
+
+
+
+
+foot note 31
+
+×
+
+
+
+  ac(88) at paras 51–61.
+
+
+
+30 separately, as mentioned, crescendas also filed ca 128 against the judge’s decision concerning the date from which pre-judgment interest should run, and costs for both the liability and assessment of damages phases of the trial.issues on appeal31 there are two preliminary issues that we will consider before addressing the substantive appeals against the judge’s findings. the first concerns the applicability of the liquidated damages clause in the loi. the second relates to whether crescendas is really claiming for a “loss of chance” to earn net rental revenue arising from its use of that expression. as we explain below, crescendas was in substance claiming for net rental revenue loss.32 in addition, there are four main areas of issues to be determined:(a) causation;(b) remoteness of crescendas’ net rental revenue loss;(c) quantification of crescendas’ net rental revenue loss; and(d) whether the judge was correct in reducing the award for holding costs to exclude the portion incurred during the rent-free fitting-out period.33 as the issue in ca 128 pertaining to the date on which pre-judgment interest ought to commence stands alone, we will address it after dealing with the four areas of substantive issues above. as for the issue of costs raised in ca 128, we will defer our decision on that point to a later date pending submissions thereon.preliminary issue 1: the applicability of the liquidated damages clause34 notwithstanding that the loi contained a liquidated damages clause, the judge in the liability judgment (hc) at [353] held that it was inapplicable, because crescendas had committed acts of prevention and there was no extension of time clause in the loi:it is axiomatic that where there is no eot clause, and the employer commits an act of prevention, the contractor is no longer bound by the original contractual completion date, and the time for the completion of the project will be set at large. thus, any liquidated damages clauses entered into between the parties is rendered inoperative. nonetheless, the contractor is under an obligation to complete the project within reasonable time and failure to complete the project within reasonable time will render the defendant liable for general damages (see fongsoon at [24]–[25] and kwang in tong chinese temple v fong choon hung construction pte ltd [1997] 1 slr(r) 907 at [18]; see also law and practice of construction contracts, chow kok fong (5th ed, sweet & maxwell) at para 9.084). the parties are in agreement with these legal principles.parties did not appeal against this finding at the liability stage. we agree that the principles set out at [353] of the liability judgment (hc) are correct as a matter of law, and therefore proceed on the basis that crescendas cannot rely on the liquidated damages clause and is only entitled to general damages. neither can jp rely on it to restrict the quantum which crescendas may claim in general damages. preliminary issue 2: is crescendas’ claim truly premised on a loss of chance?35 before the judge, crescendas claimed that it lost the chance to earn net rental revenue due to the combined delay.
+
+                   32
+
+
+
+
+foot note 32
+
+×
+
+
+
+  psoc at para 46.2.3(d); pos at para 57.
+
+
+
+ in particular, it submitted that it was claiming for a loss of chance “to earn the net rental revenues that it [said] it could have [otherwise] achieved”.
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+  pcs at para 5.
+
+
+
+ in this connection, it used a discount rate of 8% to account for the “uncertainty in [biopolis 3’s] cashflows”
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+  roa vol iii part bd at p 42 (mr toh’s 1st report at para 6.89); see also ac(87) at para 46.
+
+
+
+ and to “account for this loss of chance”.
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+  pcs at para 178.
+
+
+
+ notwithstanding this, the judge adjudged that crescendas was claiming for the “loss of net rental revenue” caused by the combined delay (damages judgment (hc) at [93]). this difference is not one of semantics. the loss in question is substantively different. the loss that crescendas appeared to be alluding to was the chance to earn net rental revenue, whereas the judge recharacterised the loss as the net rental revenue which crescendas did not earn due to the combined delay. on appeal before us, crescendas once again used the expression “loss of chance” in its claim.
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+  ac(87) at para 2.
+
+
+
+36 accordingly, a preliminary question arises as to whether crescendas was in substance seeking damages for a loss of chance or whether it was in substance claiming for the loss of net rental revenue, as held by the judge. in our view, the judge had correctly recognised that crescendas’ claim was in substance a claim for loss of net rental revenue and not a claim for loss of chance, as such. we add that notwithstanding crescendas’ use of the phrase “loss of chance”, it had in substance proceeded on the basis that it was claiming for loss of net rental revenue. likewise, jp also proceeded along the line that that was the claim of crescendas. indeed, neither side really identified what the chance was that was purportedly lost. 37 it is pertinent to first set the context in which the loss of chance doctrine arises. this doctrine has to be understood against the compensatory principle which undergirds the award of damages for a breach of contract. this principle is enshrined in the famous english decision of robinson v harman (1848) 1 exch 850 (“robinson”), where parke b said at 855:the rule of the common law is that where a party sustains loss by reason of a breach of contract, he is, so far as money can do it, to be placed in the same situation with respect to damages, as if the contract had been performed.it follows that to give effect to the compensatory principle, the court has to compare the position the claimant would have been in had the contract not been breached (ie, the “hypothetical no-breach position”), and the position the claimant is currently in given that the contract has been breached (ie, the “breach position”). where the claimant is worse off in the latter, the difference between the two positions represents the claimant’s loss: see adam kramer kc, the law of contract damages (hart publishing, 3rd ed, 2022) at paras 1-39 and 1-46 to 1-48; the law of contract in singapore (andrew phang boon leong gen ed) (academy publishing, 2nd ed, 2022) at para 21.002 (“the law of contract in singapore”).38 closely connected to the compensatory principle and the identification of loss is the issue of whether that loss is in fact a result of the defendant’s contractual breach. factual causation is determined by reference to the “but for” test, which requires the claimant to prove on a balance of probabilities that but for the defendant’s breach, it would not have suffered loss (sunny metal & engineering pte ltd v ng khim ming eric [2007] 3 slr(r) 782 (“sunny metal”) at [63] and [71]). implicit in this is once again a comparison between the hypothetical no-breach position and the breach position. if the balance of probabilities tips in the claimant’s favour in respect of the “but for” test for causation, the claimant is taken as having shown, as a matter of fact, the causal link between the defendant’s contractual breach and the claimant’s loss, and that entitles the claimant to recover in full from the defendant, with no account being taken of the degree of strength of the proof. if, on the other hand, the claimant fails to persuade the court of the causal link on a balance of probabilities, the claim will fail regardless of how close the strength of proof came to overcoming the balance of probabilities: sunny metal at [74]. it is for this reason that the “but for” test is described as taking an all-or-nothing approach to factual causation.39 this all-or-nothing approach is particularly problematic in situations where the occurrence of loss is contingent upon the acts of third parties to the contract that has been breached. in these circumstances, the claimant is saddled with the difficult task of having to establish on a balance of probabilities that the third party would have acted in a relevant manner to confer on the claimant a favourable outcome if not for the defendant’s contractual breach: see the law of contract in singapore at para 21.154.40 these problems are ameliorated by the loss of chance doctrine, which allows a claimant to claim for the loss of a chance of a favourable outcome (rather than the favourable outcome itself), where that favourable outcome is contingent on the action of a third party: see sunny metal at [74]; justlogin pte ltd and another v oversea-chinese banking corp ltd and another [2007] 1 slr(r) 425 at [38]; auston international group ltd and another v ng swee hua [2009] 4 slr(r) 628 at [38]; bcbc singapore pte ltd and another v pt bayan resources tbk and another [2022] sghc(i) 2 at [200]–[207]. where the claim is premised on a loss of chance, the claimant needs to show that the defendant’s contractual breach caused it to lose a chance of acquiring a favourable outcome, and that this chance is a real and substantial one. in other words, there is a real and substantial chance (which may well be less than 50%) of the third party acting in such a way as to confer the favourable outcome on the claimant in the hypothetical no-breach position: see asia hotel investments ltd v starwood asia pacific management pte ltd and another [2005] 1 slr(r) 661 (“asia hotel”) at [139]; mk distripark pte ltd v pedder warehousing & logistics (s) pte ltd [2013] 3 slr 433 (“mk distripark”) at [58]. however, the claimant need not go further and undertake the more challenging task of showing on a balance of probabilities (ie, a more than 50% likelihood) that the third party would have behaved so as to confer the favourable outcome in the hypothetical no-breach position. this is because the loss is not the favourable outcome per se but the loss of the chance to obtain that foreseeable outcome (see asia hotel at [133]). in other words, the loss of chance doctrine allows the claimant to avert the difficulty of proving that the claimant would have acquired the favourable outcome, by allowing the claimant to claim that he could (not would) have obtained the favourable outcome but for the breach.41 a claim on a loss of chance basis also avoids an all-or-nothing outcome. this is illustrated in vinodh coomaraswamy j’s analysis in akm v akn and another and other matters [2014] 4 slr 245 (“akm”) at [184]–[186], where he compared a claim for the loss of actual profits with a claim for the loss of a chance to earn profits (this point was not overturned on appeal in akn and another v alc and others and other appeals [2015] 3 slr 488):184 … [t]here is to my mind a substantive distinction between the two ways of looking at loss. in a claim for the loss of actual profits, the plaintiff asserts that but for the breach of contract, he would (not could) have earned profits. in other words, the plaintiff is asserting a direct link between the breach and the loss. if the plaintiff succeeds in proving that link, he is entitled to full compensation for his loss. if, on the other hand, the plaintiff fails to prove that direct link, he recovers nothing.185 damages assessed on the basis of actual lost profits is thus an all or nothing exercise. this is an important point. even if the finder of fact is of the view that there is only a 51% chance that the plaintiff would have gone on to earn the profits claimed if the breach had not occurred, the plaintiff recovers full compensation. he does not recover 51% of his loss. by the same token, even if the finder of fact is satisfied that the plaintiff’s chance of going on to earn the profits claimed is as high as 49%, the plaintiff recovers nothing. he does not recover 49% of his loss.186 the position is completely different when a plaintiff presents his loss as a lost opportunity to earn profits. on that analysis, the plaintiff asserts that but for the breach of contract, he could (not would) have earned profits. on this analysis, the plaintiff concedes that his ability to earn profits is subject to events beyond his control (for example, because of the actions of a third party). …[emphasis in original]42 in sum, a claimant must ordinarily establish a causal link between the contractual breach and the alleged loss. this, however, is an uphill task where the loss consists of a favourable outcome which is dependent on third party action, and the claimant, who has no control over what the third party chooses to do, has to prove the causal link on an all-or-nothing basis. to relieve the burden on the claimant, the loss of chance doctrine allows the claimant to characterise the loss as being the chance of securing the favourable outcome, thus making it easier for the claimant to prove the causal link between the loss and the contractual breach. 43 it follows that for the purpose of the loss of chance doctrine, the favourable outcome should not be identified by reference to the exact quantity of the value lost. instead, it should be characterised at a lower level (eg, the chance of winning a beauty contest or of securing a contract with a third party) upon a comparison between the state of affairs in the breach position and the hypothetical no-breach position, this being part and parcel of the loss identification and factual causation assessment.44 once that is kept in focus, it becomes clear that crescendas’ case was not for the loss of chance to earn net rental revenue but rather for the loss of the revenue itself. in the present case, the favourable outcome is the gain of additional net rental revenue in the hypothetical no-breach position which was not earned in the breach position. had crescendas’ claim truly been for a loss of chance to earn net rental revenue, it would have said that it might or might not have earned additional net rental revenue in the hypothetical no-breach position, but that this chance was lost due to the breach. but that was not how crescendas ran its case. instead, crescendas ran its entire case on the basis that but for jp’s breach, it would (not could) have earned additional net rental revenue. crescendas’ experts projected that its net rental revenue in the hypothetical no-breach position would exceed what it actually earned in the breach position, and crescendas relied on the difference between the two to compute the additional net rental revenue it would have earned.
+
+                   37
+
+
+
+
+foot note 37
+
+×
+
+
+
+  see psoc at para 46.2.3; pos at paras 10–11; pcs at para 4.
+
+
+
+ thus, crescendas’ “loss of chance” claim was really a misnomer. the pith and marrow of crescendas’ claim was, in truth, for the loss of net rental revenue. we are reinforced in our view by the fact that jp, in its written closing submissions before the judge, perceived crescendas’ claim as one relating to the loss of net rental revenue.
+
+                   38
+
+
+
+
+foot note 38
+
+×
+
+
+
+  see dcs at para 6.
+
+
+
+ further, the dispute between parties did not revolve around the likelihood of crescendas earning additional net rental revenue.45 it appears that crescendas had thought that because it was difficult to calculate the precise amount of additional net rental revenue that it would have earned in the hypothetical no-breach position, there was uncertainty which led it to use the expression “loss of chance”. for the reasons we have explained, that was not correct. difficulty in calculating the quantum of loss is different from saying that there might not have been a loss of a favourable outcome in the first place and that there was only a loss of a chance to secure that outcome. 46 in sum, the expression “loss of chance” is incompatible with the substance of crescendas’ claim for the loss of net rental revenue simpliciter and should not have been used. it is on this footing that we will now turn to consider the issues canvassed by parties in ca 87 and ca 88.issue 1: causation47 there are two sub-issues in respect of causation, leaving aside remoteness for the time being which we address later.sub-issue 1: whether there was uncertainty in causation background and the parties’ arguments 48 in the proceedings below, jp had argued that crescendas must demonstrate a causal link between the specific periods of delay attributable to jp (amounting to 161 days) and the alleged loss suffered by crescendas. it submitted that crescendas had failed to do so, as the periods of delay attributable to crescendas were spread out and intertwined with the periods of delay caused by jp. as such, both parties had jointly contributed to the combined delay and neither was principally responsible for crescendas’ alleged loss (see damages judgment (hc) at [67]). in the alternative, jp argued that since the court of appeal had found that the reasonable date for the completion of biopolis 3 was 14 july 2010 in the liability judgment (ca), crescendas had to prove that jp’s delay during the specific period from 15 july 2010 to 22 december 2010 caused crescendas’ loss (damages judgment (hc) at [68]).49 the judge held that it was not appropriate to adopt jp’s approach of clearly delineating each specific period of delay to one party and the consequent damage caused. in this regard, the periods of delay caused by each party were “almost evenly balanced” and there was nothing to indicate that either jp’s delay or crescendas’ delay was the more efficacious cause. accordingly, the judge found that jp’s delay was an “effective cause” of crescendas’ loss (damages judgment (hc) at [73]–[76]). 50 as regards the court of appeal’s finding on the reasonable date for the completion of biopolis 3 made in the liability judgment (ca), the judge agreed with crescendas that it was not the court of appeal’s holding that jp had specifically been responsible for the delay between 15 july 2010 to 22 december 2010 (damages judgment (hc) at [77]–[80]).51 on appeal, jp argued that the judge had erred in finding that the “but for” test for causation was satisfied for two reasons.
+
+                   39
+
+
+
+
+foot note 39
+
+×
+
+
+
+  ac(88) at paras 51–61.
+
+
+
+ first, there was no demonstratable causal link between the specific periods of delay attributable to jp and the loss allegedly suffered by crescendas. not only was crescendas the dominant cause of the delay, the delays caused by crescendas were also spread out throughout the entire duration of the project (both before and after the reasonable date for completion on 14 july 2010) and were so closely intertwined with the delays caused by jp that a clear causal link could not be drawn between crescendas’ loss and jp’s delay.
+
+                   40
+
+
+
+
+foot note 40
+
+×
+
+
+
+  ac(88) at para 54.
+
+
+
+52 secondly, jp argued that the judge had erred in rejecting its alternative case that jp was only responsible for the delay between 15 july 2010 and 22 december 2010. on this premise, jp submitted that crescendas must establish a causal link between this period of delay and its alleged loss. since crescendas had not done so, its claim for loss should be dismissed.
+
+                   41
+
+
+
+
+foot note 41
+
+×
+
+
+
+  ac(88) at paras 57–60.
+
+
+
+ 53 in response, crescendas submitted that the judge’s rejection of jp’s case on causation should be upheld.
+
+                   42
+
+
+
+
+foot note 42
+
+×
+
+
+
+  rc(88) at paras 91–124.
+
+
+
+applicable legal principles 54 it is a basic proposition of law that causation must be proven, linking the act or omission of a defendant with the loss caused, in order for a claim for damages to be established. as stated by the court of appeal in sunny metal at [60], “[a] claimant may recover damages for a loss only where the breach of contract was the ‘effective’ or ‘dominant’ cause of that loss”. 55 the following cases illustrate what happens when the loss caused is not solely attributable to the defendant (or defendants as the case may be) against whom the claim is being pursued. 56 in heskell v continental express ltd and another [1950] 1 all er 1033 (“heskell”), the plaintiff had entered into an agreement to sell goods to a persian buyer. the plaintiff instructed the first defendant, in whose warehouse the goods were, to despatch the goods. the first defendant failed to despatch the goods, but the second defendant (the shipowner’s loading brokers) issued a bill of lading for the goods which were never shipped. the first defendant argued that it was only responsible for any loss up till the time the false bill of lading was issued, and the second defendant was responsible for any loss incurred after that. devlin j (as he then was) held that the second defendant’s issuance of a false bill of lading did not extinguish the first defendant’s breach of duty as a causative event and that the first defendant’s breach, being a continuing one, was a continuous source of damage. the two causes of damage were equally operative, in the sense that if either had ceased the damage would have ceased. accordingly, the first defendant’s breach was held to be sufficiently causative of the plaintiff’s loss (heskell at 1047). 57 in the case of great eastern hotel company ltd v john laing construction ltd and another [2005] ewhc 181 (tcc) (“great eastern”), the claimant sought damages against the construction managers for delays in the completion of works to a hotel. similar to jp, the defendants in great eastern argued that the causal link had not been established as the entire delay might not have been solely attributable to them (at [65]). however, the court held at [314] that: if a breach of contract is one of the causes both co-operating and of equal efficiency in causing loss to the claimant the party responsible for breach is liable to the claimant for that loss. the contract breaker is liable for as long as his breach was an ‘effective cause’ of his loss. see heskell v continental express limited [1995] 1 all eng 1033 at page 1047a. the court need not choose which cause was the more effective. … [emphasis added]58 in the case of smile inc dental surgeons pte ltd v op3 international pte ltd [2020] 3 slr 1234 (“smile inc”), the plaintiff had appointed the defendant to carry out fitting-out works at its clinic in a shopping mall. due to the defendant’s breach in providing defective works, the clinic was flooded. this prevented the plaintiff from resuming business at the clinic. as a result of the plaintiff not resuming business as well as the plaintiff’s failure to pay rent timeously, the landlord charged the plaintiff rent for what would otherwise have been a rent-free period. chan seng onn j (as he then was) held that the defendant was still liable for the amount of rent paid even though both its breach and the plaintiff’s failure to pay rent on time were causes of this particular loss, citing at [25] the case of heskell: when the breach of a contract is one of two causes, ‘[t]he contract-breaker is liable so long as his breach was ‘an’ effective cause of [the plaintiff’s] loss: the court need not choose which cause was the more effective’ (chitty on contracts vol 1 (h g beale gen ed) (sweet & maxwell, 33rd ed, 2018) (‘chitty on contracts’) at para 26-076). similarly, in heskell v continental express ltd and another [1950] 1 all er 1033 (‘heskell’) at 1048, devlin j observed that ‘[i]f a breach of contract is one of two causes, both co-operating and both of equal efficacy, … it is sufficient to carry judgment for damages’.59 the passages from heskell and smile inc above were cited with approval in the recent court of appeal decision of iventure card ltd and others v big bus singapore city sightseeing pte ltd and others [2022] 1 slr 302 (“iventure”), although, as it was held that there was only one operative causative factor on the facts of iventure, the discussion that ensued was technically obiter. with the above principles in mind, we turn to consider if causation had been established between the delay attributable to jp and the loss suffered by crescendas. whether causation was established60 on the facts, the judge held that both crescendas’ and jp’s delays were the effective causes of crescendas’ loss (damages judgment (hc) at [72]). we agree, given that the length of the delay attributable to crescendas and jp respectively were almost evenly balanced, with 161 days attributable to jp and 173 days attributable to crescendas. the delay attributable to each party was each an independent and effective cause of the loss suffered by crescendas. 61 in our judgment, jp’s assertion that crescendas must prove a causal link between the delay from 15 july 2010 to 22 december 2010 and the loss crescendas suffered, misses the point. to recapitulate, the court of appeal in the liability judgment (ca) had upheld the judge’s decision in liability judgment (hc) apart from an agreed calculation error and an additional period of 25 days’ delay attributable to jp arising from the sole issue of capping beams work (see liability judgment (ca) at [14]–[20]). turning to the liability judgment (hc) at [373] and [375], the judge had held: 373 without the acts of prevention from the plaintiff, the reasonable time for this project to complete is 18 months and 25 days. if the plaintiff’s acts of prevention are taken into account then, adopting the fongsoon method to ensure that an appropriate balance is struck between not allowing the employer to take advantage of its own fault and not giving the contractor any other additional time, other than that caused by the employer’s delay, the reasonable time for the project to complete would be 18 months plus 25 days and 173 days (a total of 18 months and 198 days of delay).…375 it is undisputed that the project’s start date under cl 5.0 of the loi is 23 july 2008. for the project to be completed within reasonable time, it should have been completed by 9 august 2010 (adding 18 months and 198 days to the project’s start date). however, the project was only completed on 22 december 2010 (see [244] above). thus, the delay to the project that is attributable to the defendant is 133 days (this being the difference between the new completion date of 9 august 2010 and the date on which the project was completed, 22 december 2010). the defendant’s expert witness, dw4, opined that the defendant had also caused delay to the project’s completion albeit for 120 days.[emphasis added]62 while at first glance the methodology adopted by the judge to calculate the period of delay attributable to jp might appear to attribute to jp an exact period between the “new” contractual completion date and the actual completion date, a closer examination of the liability judgment (hc) reveals that this was just a mathematical formula adopted by the judge. as the judge had explained, he did not hold that jp was responsible for a specific period of delay between the “new” contractual completion date and the actual completion date, but was merely stating the aggregate period of delay attributable to jp (damages judgment (hc) at [79]). jp’s alternative case glossed over the fact that the judge had found, in the liability phase, that the periods of delay attributable to crescendas had been interspersed throughout the period of construction (see liability judgment (hc) at [268], [327], [345] and [349]). 63 in our judgment, jp’s case that crescendas’ delay was the dominant cause as well as its alternative case on causation are unmeritorious. causation was clearly made out on the facts.sub-issue 2: whether the combined delay caused crescendas to lose philip morris and/or petnet as pre-commitment tenants64 the judge held that the combined delay caused crescendas to lose five pre-commitment tenants – ices, abbott, ntu, petnet, and philip morris – which would have otherwise leased 35.7% of biopolis 3’s nla at the start of 2010 (damages judgment (hc) at [171]). he thus used a starting occupancy level of 35.7% at the start of 2010. he also projected that biopolis 3 was likely to have achieved an occupancy level of 49.3% at the start of 2011 (damages judgment (hc) at [185]–[186] and [274]). using the average of the two values, he found that the average first-year occupancy level over the course of 2010 would be 42.5% if there had been no combined delay (damages judgment (hc) at [193] and [273]).65 jp contested the judge’s finding that the combined delay caused crescendas to lose petnet and philip morris as pre-commitment tenants. in relation to philip morris, jp argued that the judge’s finding was inconsistent with the evidence. in particular, it was submitted that philip morris had decided to take up a lease at another business park (ie, the kendall) for reasons other than the combined delay.
+
+                   43
+
+
+
+
+foot note 43
+
+×
+
+
+
+  ac(88) at paras 19–31.
+
+
+
+ 66 as for petnet, jp had put forward two antithetical arguments on whether the combined delay had caused crescendas to lose petnet as a pre-commitment tenant. the “primary” position adopted by jp was that the combined delay had caused crescendas to lose petnet as a pre-commitment tenant, and that therefore the settlement sum should be deducted from any damages for net rental revenue loss.
+
+                   44
+
+
+
+
+foot note 44
+
+×
+
+
+
+  ac(88) at paras 32 and 43.
+
+
+
+ the “secondary” position adopted by jp was that the combined delay had not caused crescendas to lose petnet as a pre-commitment tenant; petnet walked away from its lease agreement due to a change of its business plans.
+
+                   45
+
+
+
+
+foot note 45
+
+×
+
+
+
+  ac(88) at paras 33–38.
+
+
+
+ even on its “secondary” position, jp submitted that the settlement sum was a windfall crescendas had received as a result of the combined delay and should be deducted from any damages awarded to crescendas for loss of net rental revenue.
+
+                   46
+
+
+
+
+foot note 46
+
+×
+
+
+
+  ac(88) at paras 43–50.
+
+
+
+philip morris67 we turn first to consider whether the combined delay had caused crescendas to lose philip morris as a pre-commitment tenant. 68 philip morris had been placed in communication with crescendas through the economic development board (“edb”) sometime in 2008.
+
+                   47
+
+
+
+
+foot note 47
+
+×
+
+
+
+  roa vol v part c at p 75. 
+
+
+
+ a memorandum of understanding (“mou”) was signed by philip morris and crescendas on 29 april 2009, granting a period of exclusivity to philip morris during which time the space intended for philip morris could not be marketed to other prospective tenants in return for an exclusivity fee which was refundable if the parties did not enter into a binding lease agreement.
+
+                   48
+
+
+
+
+foot note 48
+
+×
+
+
+
+  roa vol v part c at pp 118–129.
+
+
+
+ despite entering into discussions on the specifics of the lease agreement, crescendas and philip morris did not come to an agreement. on 1 august 2009, philip morris informed crescendas that the exclusivity period had expired and that it would not be extended and requested for the return of the exclusivity fee.
+
+                   49
+
+
+
+
+foot note 49
+
+×
+
+
+
+  roa vol v part d at p 128.
+
+
+
+69 while it was not apparent on the face of the email correspondence between philip morris and crescendas as to why the former had decided to end its negotiations for a lease,
+
+                   50
+
+
+
+
+foot note 50
+
+×
+
+
+
+  roa vol v part d at pp 120–131. 
+
+
+
+ it would appear that the timing of completion of biopolis 3 was an important factor in philip morris’ decision to lease premises there. on 18 may 2009, despite philip morris already asking for and receiving a list of key milestones on the building construction from crescendas, it requested a “more detailed schedule”.
+
+                   51
+
+
+
+
+foot note 51
+
+×
+
+
+
+  roa vol v part c at p 133.
+
+
+
+ on 5 june 2009, philip morris had informed crescendas that it intended to commence fitting out works in january 2010 and start full operations in january 2011.
+
+                   52
+
+
+
+
+foot note 52
+
+×
+
+
+
+  roa vol v part c at pp 142–143.
+
+
+
+ in amendments made on 16 june 2009 to the draft lease agreement, philip morris’ solicitors had inserted a cl 3 which detailed crescendas’ obligations to keep it apprised of the expected date the top would be obtained as well as the progress of the construction.
+
+                   53
+
+
+
+
+foot note 53
+
+×
+
+
+
+  roa vol v part d at pp 29–30. 
+
+
+
+ on 26 june 2009, philip morris asked crescendas for an update as to the construction progress.
+
+                   54
+
+
+
+
+foot note 54
+
+×
+
+
+
+  roa vol v part d at p 123.
+
+
+
+ there does not appear to have been a documented reply to the above-mentioned email. however, after philip morris had indicated on 1 august 2009 its request for the return of the exclusivity fee,
+
+                   55
+
+
+
+
+foot note 55
+
+×
+
+
+
+  roa vol v part d at p 128.
+
+
+
+ crescendas stated in an email dated 4 august 2009:
+
+                   56
+
+
+
+
+foot note 56
+
+×
+
+
+
+  roa vol v part d at pp 130–131.
+
+
+
+ during our meetings in singapore, we had discussed in length and depth on the various critical time-line and also the associated penalty structure in the event if crescendas bionics failed to deliver the agreed mile-stones. other essential points such as the rates for rental of space and service charge, as well as the mechanism for rental review and service charge adjustment, were also put forth for your consideration and concurrence. we have yet to hear from you on the above matters. would there be any further clarifications required by you? [emphasis added]70 therefore, there was some objective evidence to show that the timeline of completion was an important factor in philip morris’ decision to lease premises in biopolis 3. there was also little merit in jp’s attempt to draw an inference that philip morris had reserved a space at biopolis 3 “at no significant cost”
+
+                   57
+
+
+
+
+foot note 57
+
+×
+
+
+
+  ac(88) at para 26.
+
+
+
+ as an mou instead of a letter of offer was signed by crescendas and philip morris. this submission ignores the fact that a significant exclusivity fee of $250,000 was in fact paid by philip morris, which was under an obligation to negotiate in good faith.71 the threshold for appellate intervention is a high one, and we see no basis to disturb the judge’s finding on this issue, ie, that the combined delay caused the loss of philip morris as a tenant. petnet72 we turn next to consider whether the combined delay had caused crescendas to lose petnet as a pre-commitment tenant. 73 crescendas had started negotiations with siemens pte ltd (“siemens”) sometime in july 2008, to set up a facility in biopolis 3. the discussions were held primarily between petnet (which was a subsidiary of siemens) and crescendas, but the initial drafts of the lease agreement and letter of offer were between siemens and crescendas. in june 2010, it was decided that the lease agreement and letter of offer were to be signed between a new private limited company set up by petnet in singapore and crescendas.
+
+                   58
+
+
+
+
+foot note 58
+
+×
+
+
+
+  roa vol v part d at p 248.
+
+
+
+74 in the meantime, in november 2008, petnet informed crescendas that it wanted to rig a cyclotron into the building, which required specific modifications to the structure of the building.
+
+                   59
+
+
+
+
+foot note 59
+
+×
+
+
+
+  roa vol v part d at p 138.
+
+
+
+ on 6 january 2009, petnet requested for an update on the status of biopolis 3’s construction and when the structural modifications to the space were scheduled for.
+
+                   60
+
+
+
+
+foot note 60
+
+×
+
+
+
+  roa vol v part d at p 139.
+
+
+
+ following an exchange of e-mails, on 8 january 2009, petnet replied:
+
+                   61
+
+
+
+
+foot note 61
+
+×
+
+
+
+  roa vol v part d at p 140.
+
+
+
+ thank you. i'm becoming increasingly nervous about the potential delay in the biopolis 3's construction schedule, negatively effecting [sic] our project plan's timeline. can you relieve me of this worry? 75 however, despite stating that it was nervous about the delay in the completion of biopolis 3 on 8 january 2009,
+
+                   62
+
+
+
+
+foot note 62
+
+×
+
+
+
+  roa vol v part d at p 140. 
+
+
+
+ petnet continued to negotiate the terms of the lease agreement and letter of offer with crescendas even after biopolis 3 was completed in january 2011.
+
+                   63
+
+
+
+
+foot note 63
+
+×
+
+
+
+  roa vol v part d at pp 250–256.
+
+
+
+ in a contemporaneous record of a meeting held between crescendas and petnet on 8 august 2011, petnet had informed crescendas of a possible change to its business plans and had asked crescendas if it could reduce the space to be leased. crescendas refused, stating that it had incurred significant costs in building the space to accommodate the cyclotron which petnet planned to install and that the space planned for petnet had been left uncompleted for petnet to complete its fitting out works.
+
+                   64
+
+
+
+
+foot note 64
+
+×
+
+
+
+  roa vol v part d at p 267; roa vol iii part bs at p 134.
+
+
+
+ in a subsequent meeting on 14 september 2011, petnet informed crescendas that a representative from its finance office would be in singapore within the next six weeks to “deal with the lease”.
+
+                   65
+
+
+
+
+foot note 65
+
+×
+
+
+
+  roa vol v part d at p 265.
+
+
+
+76 petnet did not eventually take up a lease at biopolis 3, although there were invoices issued by crescendas to petnet for rent from august 2011 to september 2012.
+
+                   66
+
+
+
+
+foot note 66
+
+×
+
+
+
+  roa vol v part i at pp 183–195.
+
+
+
+ in this regard, jp did not dispute that crescendas did not receive any payment on the invoices and instead argued that the invoices had evidenced a binding lease agreement between crescendas and petnet.
+
+                   67
+
+
+
+
+foot note 67
+
+×
+
+
+
+  ac(88) at para 34. 
+
+
+
+ we add that there is no suggestion that petnet had disputed crescendas’ right to issue the invoices and this in turn suggests that notwithstanding the combined delay, petnet acknowledged that there was already a binding commitment on its part to rent premises at biopolis 3. 77 furthermore, in the course of the trial it belatedly emerged that when petnet decided not to take up a lease at biopolis 3, it agreed to pay crescendas the settlement sum.
+
+                   68
+
+
+
+
+foot note 68
+
+×
+
+
+
+  roa vol iii part ci at pp 201 and 210–211 (24 march 2021 transcript at p 62 lines 13–25 and p 71 line 20 to p 72 line 2).
+
+
+
+ prior to this disclosure, the only hint that crescendas had received this sum was a comment made in its financial statement for the financial year 2015, that a sum of $4.75m was received pursuant to the terms of a settlement agreement from “a prospective tenant”.
+
+                   69
+
+
+
+
+foot note 69
+
+×
+
+
+
+  bundle of documents subjected to a sealing order vol ii at p 26. 
+
+
+
+ notwithstanding this disclosure, the settlement agreement itself was not adduced in evidence nor was any representative from petnet called as a witness. 78 we have mentioned jp's alternative arguments, ie, as to whether the combined delay had caused the loss of petnet as a tenant. at the hearing, we asked counsel for jp to clarify jp’s position. counsel confirmed that jp’s position was to assert that the combined delay had not caused the loss of petnet. hence, this is the primary focus for the analysis that follows. 79 although the judge had been of the view that the correspondence between petnet and crescendas did not clearly indicate the reason for petnet’s decision not to lease premises at biopolis 3, he went on to find that the combined delay had caused petnet not to take up the lease due to its expressed concerns about the delay in construction affecting its project plans (damages judgment (hc) at [163]). however, in our judgment, apart from the isolated incident in january 2009 detailed above (at [74]), petnet did not bring up the issue of delay in its negotiations with crescendas up to and including in its last documented discussion with crescendas in september 2011.
+
+                   70
+
+
+
+
+foot note 70
+
+×
+
+
+
+  roa vol v part d at pp 263–268.
+
+
+
+ in fact, up till the last meeting between parties in september 2011, nine months after biopolis 3 was completed, petnet still appeared to be interested in negotiating the terms of the lease agreement. 80 furthermore, the judge had based part of his finding on the evidence of mr lawrence leow chin hin (“mr leow”), crescendas’ director, that petnet had to change its business plans because its business was no longer competitive due to the delay in biopolis 3 (damages judgment (hc) at [162]–[163]). in our view, as set out below, this was hearsay evidence which should not have been relied upon:
+
+                   71
+
+
+
+
+foot note 71
+
+×
+
+
+
+  roa vol iii part cl at pp 95–96 (31 march 2021 transcript at p 91 line 9 to p 92 line 17).
+
+
+
+ q. but i think, as you’ve just said, you, as the plaintiff –a. we’re not ready, yes.q.  -- were not in a position to sign. now, you told the court that petnet changed their position because their business plans for singapore changed? a.  yes. q.  and how do you know that, mr leow? a.  they told my staff, bryant. q.  was there any other intimation to you or to anyone else in the plaintiff's company as to why petnet would have changed their business plans or as to the fact that petnet changed their business plans? a.  counsel, i am in business for a long time, you know, and if you look at the conduct of this company, they are, of course, a very big company, siemens. if you look at the conduct, they came into singapore. we incur millions of dollars building a cyclotron for them, and the negotiation was actually quite long, as we can see; almost -- i don't know -- one and a half, two years. and suddenly they have to say, okay -- almost, like, wind down and say, ‘okay, i'm not going to sign your agreement; i'm going off.’ you know, i mean, look at all this. i think it is -- in my mind, right, it is not something that i'm imagining and something that's wild, you know. it's a genuine company coming here, and because of the long delay and they were brought to a timeline where their business -- their type of business no longer is competitive, and they have to go. so, to me, just look at the conduct, the events. i think we all can appreciate that it's not just simply a company coming in and change their mind, say, ‘since i did not sign a contract, i'm going off.’[emphasis added]81 more importantly, if the combined delay had been the reason for petnet declining to lease premises at biopolis 3, then there would be no logical reason for petnet to agree to pay crescendas any sum as a settlement. the fact that petnet agreed to and did pay the settlement sum strongly suggested that it was not walking away because of any delay in the construction.82 in our view, the judge had erred in not giving due weight to the correspondence between the parties, the invoices from crescendas to petnet and the fact that it was petnet who paid crescendas the settlement sum. 83 accordingly, crescendas has not discharged its evidential burden to show that it lost petnet as a tenant because of the combined delay. 84 for completeness, we would also make some observations about the way in which the issue of the settlement sum had been brought up in the proceedings below. as discussed above at [77], the only documentary evidence of the settlement sum was an anonymous reference to “a prospective tenant”. it was not until the cross-examination of mr leow that it was disclosed that petnet had made a payment to crescendas for forgoing a lease at biopolis 3.
+
+                   72
+
+
+
+
+foot note 72
+
+×
+
+
+
+  roa vol iii part ci at pp 201 and 210–211 (24 march 2021 transcript at p 62 lines 13–25 and p 71 line 20 to p 72 line 2).
+
+
+
+ in our view, the late disclosure of the settlement sum was unsatisfactory. the audited financial statement which did not even provide any details as to the settlement sum or the identity of the prospective tenant was inadequate. if there was concern about other confidential information in the settlement agreement which was not relevant to the trial, those parts of the settlement agreement could have been redacted. since crescendas was claiming that it had lost petnet as a tenant because of the combined delay, it was obliged to disclose the settlement agreement even if it took the view that the settlement sum was paid by petnet for a reason other than the omission to proceed with a lease. it was for crescendas to disclose and state its position and for the court to decide whether the settlement agreement was relevant and indeed material.85 since crescendas has not shown that it lost petnet as a tenant because of the combined delay (see above at [83]), jp is not liable to crescendas for any loss of rent from petnet. the settlement sum associated with petnet’s departure is not to be taken into account to reduce any other loss that jp is liable to crescendas for.issue 2: remoteness of crescendas’ claim for loss of net rental revenuelaw on the remoteness of damages86 the remoteness rule in hadley v baxendale (1854) 9 exch 341 (“hadley v baxendale”) imposes a horizon on the extent of the contract breaker’s liability. that rule has two limbs (out of the box pte ltd v wanin industries pte ltd [2013] 2 slr 363 (“out of the box”) at [13]–[15] and [17]–[18]; robertson quay investment pte ltd v steen consultants pte ltd and another [2008] 2 slr(r) 623 (“robertson quay”) at [55] and [81]–[82]):(a) damage falling under the first limb of hadley v baxendale (the “first limb of hadley v baxendale”) may be termed “ordinary” damage. ordinary damage is awarded for consequences which may be seen as arising naturally (ie, according to the usual course of things) from the breach of contract itself or flowing from what may reasonably be supposed to be in the contemplation of both parties at the time they made the contract, having regard to the knowledge of the relevant surrounding circumstances that the contract breaker would generally be taken to have had.(b) damage falling under the second limb of hadley v baxendale (the “second limb of hadley v baxendale”) may be termed “extraordinary” damage. such damage is not by its very nature within the reasonable contemplation of contracting parties. neither does it flow naturally from the breach of contract. rather, it arises due to special circumstances which are outside the usual course of things. for there to be liability for extraordinary damage, the contract breaker must have had actual knowledge of these special circumstances.87 the overarching criterion of the loss being in “reasonable contemplation” applies to both limbs. for the first limb of hadley v baxendale, the horizon of contemplation is confined to loss which arises naturally (ie, in the usual course of things) and which is therefore presumed to have been in the contemplation of parties. for the second limb of hadley v baxendale, by reason of the actual knowledge possessed by the contract breaker of the special circumstances giving rise to the extraordinary damage, the horizon of contemplation is extended to loss that does not arise in the usual course of things (robertson quay at [59]).preliminary issue: whether crescendas’ case on appeal is inconsistent with its case in the proceedings below88 before going into the remoteness analysis proper, a preliminary issue which arises is whether crescendas’ case on appeal departed from its case in the proceedings below in so far as the remoteness of post-completion net rental revenue loss is concerned. the judge understood crescendas as having argued that pre-completion net rental revenue loss constituted ordinary damage but post-completion net rental revenue loss constituted extraordinary damage (see damages judgment (hc) at [90] and [97]). however, crescendas argued before us that the entirety of its claim, for pre- and post-completion net rental revenue loss, constituted ordinary damage. jp pointed out the discrepancy in crescendas’ position below and on appeal in relation to post-completion net rental revenue loss, and submitted that crescendas was precluded by the doctrine of approbation and reprobation from submitting that post-completion net rental revenue loss was ordinary damage.
+
+                   73
+
+
+
+
+foot note 73
+
+×
+
+
+
+  rc(87) at paras 4–6.
+
+
+
+89 having reviewed parties’ pleadings and submissions before the judge, we note that crescendas’ case, from its statement of claim up to its written closing submissions, was that its entire claim for net rental revenue loss would not be too remote as the entirety of that claim would satisfy either limb of the hadley v baxendale rule.
+
+                   74
+
+
+
+
+foot note 74
+
+×
+
+
+
+  psoc at para 46.2; jp’s reply and defence to counterclaim (amendment no 5) (“r&dcc”) at para 44a; pcs at paras 215–229.
+
+
+
+ crescendas’ written closing submissions dated 17 may 2021 are particularly significant. there, crescendas expressly submitted that its post-completion net rental revenue loss satisfied the first limb of hadley v baxendale.
+
+                   75
+
+
+
+
+foot note 75
+
+×
+
+
+
+  pcs at para 224.
+
+
+
+ it then proceeded to consider the second limb of hadley v baxendale, but only as an alternative in the event its net rental revenue loss was not within jp’s reasonable contemplation at the time of contracting.
+
+                   76
+
+
+
+
+foot note 76
+
+×
+
+
+
+  pcs at para 225.
+
+
+
+90 curiously, however, crescendas’ written reply submissions to the judge dated 31 may 2021 suggested that its case was that its pre-completion net rental revenue loss fell within the first limb of hadley v baxendale whilst its post-completion net rental revenue loss fell within the second limb of hadley v baxendale.
+
+                   77
+
+
+
+
+foot note 77
+
+×
+
+
+
+  roa vol iv part di at p 19 (crescendas’ high court reply submissions (second tranche) (“prs”)) at paras 10 and 11.
+
+
+
+ indeed, it was crescendas’ written reply submissions which led the judge to the view that crescendas had proceeded on the basis that pre-completion net rental revenue loss constituted ordinary damage but post-completion net rental revenue loss constituted extraordinary damage.91 oral submissions before the judge took place on 28 june 2021. counsel for crescendas did not clarify the situation. his oral submissions were reconcilable with both its initial case (as enunciated in its pleadings and written closing submissions) as well as what appears to have been its modified case (as suggested in its written reply submissions). no explanation was given for this strange turn of events. following crescendas’ oral submissions, counsel for jp in his oral submissions before the judge on the same day noted that crescendas’ written reply submissions “now seems to accept that loss … of revenue claim is [extraordinary damage] after [biopolis 3] was completed”, but caveated that he was unsure if this was the correct interpretation of crescendas’ case.
+
+                   78
+
+
+
+
+foot note 78
+
+×
+
+
+
+  roa vol iii part cv at pp 114–115 (28 june 2021 transcript at p 108 line 6 to p 109 line 7); see also roa vol iv part dr at p 204 (jp’s high court aide-memoire dated 28 june 2021 at para 3(vii)).
+
+
+
+ unfortunately, counsel for crescendas did not attempt to clarify the situation in reply oral submissions then.92 having regard to the way in which both sides ran their cases below, we are of the view that crescendas had carelessly miscommunicated its primary case in its written reply submissions. this mistake only came about after crescendas had consistently maintained from its pleadings to its written closing submissions that its entire claim (in respect of pre- and post-completion net rental revenue loss) would satisfy either limb of the hadley v baxendale rule,
+
+                   79
+
+
+
+
+foot note 79
+
+×
+
+
+
+  psoc at para 46.2; r&dcc at para 44a; pcs at paras 215–225.
+
+
+
+ and had expressly submitted in its written closing submissions that its post-completion net rental revenue loss satisfied the first limb of hadley v baxendale.
+
+                   80
+
+
+
+
+foot note 80
+
+×
+
+
+
+  pcs at para 224.
+
+
+
+ as a result, jp had ample opportunity in the proceedings below to meet crescendas’ case that its post-completion net rental revenue loss satisfied the first limb of hadley v baxendale. in our view, if crescendas were permitted to argue on appeal, as it did, that its post-completion net rental revenue loss satisfied the first limb of hadley v baxendale, jp would not be prejudiced.93 in truth, the only party which had suffered prejudice was crescendas itself. it had led the judge into thinking that its primary case was that its post-completion net rental revenue loss was extraordinary damage falling within the second limb of hadley v baxendale. the judge then agreed with crescendas’ “concession” that the post-completion net rental revenue loss fell within the second limb of hadley v baxendale, and found that crescendas had not shown that jp had actual knowledge that the delay in completion would cause crescendas to suffer post-completion net rental revenue loss. the judge therefore held that crescendas’ post-completion net rental revenue loss was too remote to be recoverable (damages judgment (hc) at [97]). 94 as mentioned, jp argued that crescendas was precluded by the doctrine of approbation and reprobation from arguing on appeal that post-completion net rental revenue loss fell within the first limb of hadley v baxendale. we note that the doctrine of approbation and reprobation bars a claimant from running a case on appeal that is inconsistent with its case in the proceedings below, if that claimant had in fact obtained some benefit from its chosen course in the proceedings below (see recovery vehicle 1 pte ltd v industries chimiques du senegal and another appeal and another matter [2021] 1 slr 342 at [100]). jp submitted that crescendas had obtained a benefit from the wrongful position it had adopted below.
+
+                   81
+
+
+
+
+foot note 81
+
+×
+
+
+
+  rc(87) at para 6.
+
+
+
+ however, crescendas clearly did not benefit from taking the position that its case was that its post-completion net rental revenue loss was extraordinary damage falling within the second limb of hadley v baxendale. on the contrary, it was jp who obtained the benefit of the judge’s ruling based on that concession. in our view, the doctrine of approbation and reprobation will not stand in the way of permitting crescendas to argue in these appeals that its post-completion net rental revenue loss constitutes ordinary damage for the purposes of the remoteness analysis.95 for the above reasons, we allow crescendas to argue in these appeals that its post-completion net rental revenue loss satisfied the first limb of hadley v baxendale. nevertheless, crescendas deserves to be criticised for its inconsistent positions and for not being immediately candid that its argument on appeal was inconsistent with its written reply submissions below. whether crescendas’ pre- and post-completion net rental revenue loss satisfy the first limb of hadley v baxendale96 before the judge, jp argued that the loss of net rental revenue is the “most remote” form of loss. it submitted that crescendas’ entire claim for net rental revenue loss fell within the second limb instead of the first limb of hadley v baxendale because this loss did not flow naturally from a breach of contract but arose from circumstances outside of jp’s control, such as crescendas’ pricing strategy, negotiations between crescendas and prospective tenants, each prospective tenant’s decision-making calculus, and the global financial crisis back in late 2008. it stressed that jp, a management contractor, was only responsible for building biopolis 3 and would not be aware of how crescendas would deal with biopolis 3 upon completion, what the negotiated rental rates with prospective tenants would be and what the market conditions would be following completion.
+
+                   82
+
+
+
+
+foot note 82
+
+×
+
+
+
+  roa vol iv part dp at p 202 (dcs at para 29); roa vol iii part cv at pp 104 and 107–109 (28 june 2021 transcript at p 98 lines 24–32 and p 101 line 22 to p 103 line 10).
+
+
+
+ jp also submitted that loss of profits have been recognised by the courts as extraordinary damage falling within the second limb of hadley v baxendale.
+
+                   83
+
+
+
+
+foot note 83
+
+×
+
+
+
+  roa vol iv part dp at p 203 (dcs at para 30).
+
+
+
+ we highlight that before the judge, jp did not draw a distinction between crescendas’ pre- and post-completion net rental revenue loss. its case was that the entirety of crescendas’ loss of chance claim fell within the second limb of hadley v baxendale.
+
+                   84
+
+
+
+
+foot note 84
+
+×
+
+
+
+  roa vol iii part cv at pp 113 and 115 (28 june 2021 transcript at p 107 lines 29–32 and p 109 lines 5–11); roa vol iv part dr at pp 203–204 (jp’s high court aide-memoire dated 28 june 2021 at para 3(vi)).
+
+
+
+97 crescendas’ case before the judge and the judge’s decision on the issue of remoteness have been canvassed above and we will not repeat these, save to mention that the judge did not elaborate as to why he concluded that crescendas’ post-completion net rental revenue loss failed to satisfy the first limb of hadley v baxendale in the light of crescendas’ apparent concession then. 98 in these appeals, jp did not contest the judge’s finding that crescendas’ pre-completion net rental revenue loss satisfied the first limb of hadley v baxendale. instead, it sought to defend the judge’s conclusion that crescendas’ post-completion net rental revenue loss fell under the second limb of hadley v baxendale. it cited two cases, ph hydraulics & engineering pte ltd v airtrust (hong kong) ltd and another appeal [2017] 2 slr 129 (“ph hydraulics”) and multiplex constructions pty ltd v abgarus pty ltd (1992) 33 nswlr 504 (“multiplex”), to support the proposition that courts have recognised that loss of revenue or profits falls under the second limb of hadley v baxendale.
+
+                   85
+
+
+
+
+foot note 85
+
+×
+
+
+
+  rc(87) at para 7.
+
+
+
+ counsel for jp also made the point in oral submissions that holding costs form a more foreseeable head of loss than the loss of net rental revenue.99 we are of the view that the two cases cited by jp do not assist it. in ph hydraulics, the claimant bought a reel drive unit (“rdu”) from the defendant pursuant to a sale and purchase agreement. the defendant breached the agreement by not delivering an rdu that was of merchantable quality and fit for its purpose, and the claimant sought damages in respect of loss of revenue or profit which the rdu would have made over a period of normal utility (ie, 15 years) if it had been properly designed and manufactured. the court of appeal in ph hydraulics at [155] found that this claim for loss of revenue or profit did not fall within the first limb of hadley v baxendale because there was insufficient evidence that the parties knew that the rdu would be rented out by the claimant for its entire period of normal utility. in our view, the court of appeal was not setting out or applying a general proposition of law that loss of profits or revenue can never fall within the first limb of hadley v baxendale. it was simply applying rules on remoteness to the evidence before it. further, in so far as the facts are concerned, the court of appeal in ph hydraulics was dealing with a situation where the breach consisted of a failure to supply a machine of merchantable quality that was fit for purpose, whereas the breach in the case at hand concerns a delay in completing a building which jp must have known would be rented to multiple tenants. the kind of loss that would naturally flow from these two breaches, which are distinctively different in character, would necessarily be different. a factual finding on the issue of remoteness in one does not necessarily apply to the other.100 in multiplex, the builder sought a declaration from the common law division of the supreme court of new south wales that the liquidated damages clause in its agreement with the proprietor should be unenforceable for being a penalty clause, on the ground that the liquidated damages clause required the builder to pay the proprietor holding costs for the period of delay attributable to the builder (at 505–506) instead of loss of rent. the builder, in support of this declaration, argued (amongst other arguments) that a proprietor that retains the project after completion for leasing purposes would only suffer loss in the form of delayed cash flow from rental in consequence of the builder’s delay. it argued that using the holding costs of the project during the period of delay as a pre-estimate of the proprietor’s damage is accordingly inappropriate (at 517). the ratio decidendi of that case is that liquidated damages payable for tardy performance need not encompass all damage which the proprietor may, although not necessarily will, suffer from such late performance. if holding charges for the duration of delay is damage which will be suffered by a proprietor, although it may not be the entirety of such damage, a liquidated damages clause providing for full payment of holding charges would not be a penalty (at 519–520).101 in the course of his analysis, however, cole j also observed (at 519–521):… [an] agreement between the proprietor and the builder in the building contract regarding liquidated damages payable for tardy performance need not encompass all damages which in truth the proprietor may, although not necessarily will, suffer from such late performance. an agreement for damages limited to a segment of possible total damage may itself indicate an acceptance by the parties that other aspects of loss might occur but were treated by the parties, implicitly or explicitly, as not being losses which would arise in ‘the ordinary course of things’ as contemplated by the [first limb of hadley v baxendale], and may, by design or default, not have been brought to sufficient attention of the builder by the proprietor so as to satisfy the [second limb of] hadley v baxendale.…… [t]he builder knows that if it delays completion the proprietor will, or more accurately may, suffer loss resulting from deferred receipt of the benefit of [realising the project], be it sale price or lease payments. whether in truth such late completion produces loss, or as perceived at the date of contract, is likely to produce loss, will depend upon many factors. at the date of contract, which may be two or three years before completion …, the parties will in all probability not know … whether the whole or only part of the development will be able to be leased from the date of practical completion or from varying dates thereafter, and what rents will be able to be achieved for differing portions of the development. questions of incidents of lease, including the possibility of inducements relating to fit-out, and of rental holidays will be unresolved. …[s]uch matters would usually not be finalised at the date of the construction contract. common experience alerts one to the uncertainty surrounding many of these factors. …unless a major city high rise project such as this is either pre-sold or pre-let at the date of the construction contract, there is no reason in my view to assume, particularly in modern times, that ‘in the ordinary course of things’ the project will be sold or let, in whole or in part, from the contractual date for practical completion. certainly the proprietor will endeavour to achieve that — but that is entirely different to the law contemplating as the ‘usual thing’ that such endeavours will be achieved. in consequence, i do not think it can be said without a significant body of evidence to establish it, that a proprietor and a builder usually contemplate at the date of the construction contract that delay in completion of a major city development will necessarily result in delayed receipt of the benefits of the realisation stage. it may or it may not, depending upon such changes as may occur …in a large modern commercial development, as a result of the uncertainties relating to the timing of any sale or lease, the quantum of any sale price or rental, the extent to which a large modern development comprising multiple tenancies for varying uses can be let, and the uncertainty regarding final terms and conditions of all or any of such leases — all judged or considered at the date of the construction contract some years earlier — it cannot be said, in my view, that at the date of contract mere knowledge of the intended use of such a building results in it being able to be said that the delayed performance by a contractor in achieving practical completion results in delayed receipt of rentals … being damages [falling within the first limb of hadley v baxendale].nor do i think that, without more, knowledge of the proposed use of such development satisfies the [second limb of hadley v baxendale]. it will be a question for determination in each case whether special circumstances relating to prospective loss were sufficiently drawn to attention to satisfy that rule.the parties to the construction contract do, however, know at the date of contract that delay in achieving practical completion will necessarily result in additional holding costs. such damages in my view fall within the [first limb] of hadley v baxendale.i have dwelt upon this at some length because of the builder’s submission that cl 10.14 addressed wrong aspects for determining a pre-estimate of the damage from breach of contract consisting of delayed completion. …102 we have set out passages from this decision at length because jp has sought to rely on cole j’s views for the proposition that the loss of rental revenue arising from a breach of a large commercial construction contract would not fall within the first limb of hadley v baxendale.
+
+                   86
+
+
+
+
+foot note 86
+
+×
+
+
+
+  rc(87) at para 7(b).
+
+
+
+ it is important to bear in mind that, interestingly, in that case, the contract-breaker proceeded on the basis that the ordinary damage from delayed completion was loss of rent and not holding costs. it disputed the plaintiff’s claim because the plaintiff was claiming holding costs and not loss of rent. it was in that context that cole j expressed the view that holding costs, and not loss of rent, was ordinary damage. in our case, unlike the contract-breaker in multiplex, jp had argued below that loss of net rental revenue was not ordinary damage.103 in any event, we depart from the views of cole j. in our view, the loss of rent is an ordinary, and thus foreseeable, loss arising from delayed completion especially when the main contractor must have been aware that the building will be let out. holding costs may also be claimable as an alternative, or in addition, to loss of rent depending on how the loss of rent is calculated. cole j had erred in thinking that holding costs was ordinary damage but not loss of rent. it could be either or both. 104 on the facts, the pre-completion net rental revenue loss came within the first limb of hadley v baxendale. this was no longer disputed by jp. 105 we are also of the view that post-completion net rental revenue loss came within the first limb of hadley v baxendale in principle. as will be explained below at [146]–[148], the combined delay had a multi-year impact on crescendas’ net rental revenue stream and caused crescendas to suffer post-completion net rental revenue loss in the years following the combined delay. briefly, this is because biopolis 3 was a multi-tenanted development which would have taken several years to fill up, and the lost prospective leases would have been for multi-year terms.106 here, both parties were aware that biopolis 3 was a multi-tenanted development at the time of contracting.
+
+                   87
+
+
+
+
+foot note 87
+
+×
+
+
+
+  see roa vol iii part cv at pp 108–109 (28 june 2021 transcript at p 102 line 28 to p 103 line 2).
+
+
+
+ the fact that such a development would take multiple years to fill up was within the reasonable contemplation of parties at the time of contracting, and this is demonstrated by the fact that it is agreed between the parties and their experts that even in the absence of the combined delay, the reasonable time taken for biopolis 3 to reach stabilised occupancy would have been four years (the concept of stabilised occupancy is elaborated below at [114]).
+
+                   88
+
+
+
+
+foot note 88
+
+×
+
+
+
+  roa vol iv part da at p 27 (agreed statement of facts (amendment no 1) dated 12 april 2021 at s/n 9); roa vol iii part by at p 202 (tay kah poh’s 1st affidavit dated 22 march 2021 at p 8, s/n 3).
+
+
+
+ in light of this, it must have been within parties’ reasonable contemplation that a considerable delay in completion of biopolis 3 would disrupt crescendas’ net rental revenue stream over multiple years, thus giving rise to post-completion net rental revenue loss.107 additionally, it would have been within the reasonable contemplation of parties that a not insubstantial delay in completion would, in the usual course of things, cause potential tenants to walk away from biopolis 3 and that tenancies in the bms r&d industry would run for several years, instead of for one year, since costs would be incurred in the fitting-out and relocation. this was reinforced by the fact that all the experts who gave their view on which model should or can be used in this case agreed that tenancies in biopolis 3 would be for multiple years. hence, it must have been in parties’ reasonable contemplation that crescendas would lose tenants, and hence rental revenue for several years across the term of these lost tenancies, as a result of a considerable delay in completion. 108 jp argued that the post-completion net rental revenue loss arose from circumstances outside of its knowledge and control, such as the terms of each specific lease, crescendas’ marketing and pricing strategy and market conditions.
+
+                   89
+
+
+
+
+foot note 89
+
+×
+
+
+
+  rc(87) at paras 9 and 11.
+
+
+
+ be that as it may, this does not preclude the recoverability of post-completion net rental revenue loss under the first limb of hadley v baxendale. the conventional principle is that the contract breaker will be held liable for the full extent of the loss as long as the type or kind of loss that has occurred was reasonably contemplated at the time of the contract, even if its precise detail or extent were not: out of the box at [41]. the circumstances enumerated by jp affect the precise quantum of post-completion net rental revenue loss sustained by crescendas. the fact that jp could not reasonably contemplate the precise quantum of loss does not take away from the point that post-completion net rental revenue loss, as a category of loss, was within jp’s reasonable contemplation for the reasons given above.109 thus, crescendas’ entire claim for loss of net rental revenue comes within the first limb of hadley v baxendale and is not too remote to be recoverable. it is therefore not necessary to address crescendas’ alternative argument about jp’s actual knowledge of the net rental revenue loss crescendas would suffer if there was a delay in completion.
+
+                   90
+
+
+
+
+foot note 90
+
+×
+
+
+
+  ac(87) at paras 26–31.
+
+
+
+issue 3: quantification of net rental revenue loss110 to justify an award of substantial damages, a claimant must satisfy the court as to the fact of damage and its amount. if the claimant satisfies the court on neither, his action will fail, or at the most he will be awarded nominal damages where a right has been infringed: robertson quay at [27].111 in this case, crescendas is claiming damages for lost net rental revenue as a result of jp’s delay. it has sought to compute its damages through the following method:(a) first, determine the loss in net rental revenue suffered by crescendas as a result of the combined delay.(b) secondly, apply a discount factor to the figure at (a) above to account for uncertainties.(c) thirdly, apportion the loss in net rental revenue to reflect jp’s share of the combined delay.112 the first step is the most contentious and turns on the issue of whether crescendas’ loss in net rental revenue should be assessed only with respect to the period of the combined delay (which is approximately one year) (ie, the single-year model) or over a longer timeframe spanning a number of years beyond the combined delay (ie, the multi-year model).sub-issue 1: whether the single-year model or the multi-year model should be useda comparison of the single-year model and the multi-year model113 we begin by comparing the key features of each model.114 first, the main difference, as already alluded to above, is that the multi-year model assesses crescendas’ net rental revenue loss over a longer timeframe. the multi-year model assesses the net rental revenue loss suffered by crescendas over multiple years, beginning from 23 january 2010 (ie, the day after the contractual completion date)
+
+                   91
+
+
+
+
+foot note 91
+
+×
+
+
+
+  see psoc at para 46.2.3(g).
+
+
+
+ to the date on which stabilised occupancy is attained. the stabilised occupancy level refers to the percentage of nla that would be leased once biopolis 3 achieved its market potential, and the percentage at which the occupancy level would remain steady over a long period of time. accordingly, the attainment of stabilised occupancy signifies the dissipation of the economic effect of the combined delay.
+
+                   92
+
+
+
+
+foot note 92
+
+×
+
+
+
+  roa vol iii part cu at pp 28–31 (19 april 2021 transcript at p 24 line 16 to p 27 line 20); roa vol iii part by at p 252 (assoc prof tay’s 2nd report at para 19); roa vol iii part bz at p 99 (assoc prof tay’s 4th report at para 4(ii)); first affidavit of evidence-in-chief of andre toh sern, p 23 at para 6.11 and p 645; pcs at para 140; plaintiff’s reply and defence to counterclaim (amendment no 5) (“prdc”) at para 44d.3.
+
+
+
+ on appeal, parties did not dispute that net rental revenue loss under the multi-year model would be calculated from 23 january 2010 to january 2015. in contrast, the single-year model assesses the net rental revenue loss suffered by crescendas during the period of the combined delay (ie, from 23 january 2010 to 22 december 2010).115 secondly, both models are similar in that they put into practice the compensatory principle which undergirds the entire assessment of damages exercise. both models do so by finding the difference between (a) the net rental revenue that crescendas would have earned if the combined delay had not occurred (the “no-delay scenario”) and (b) the net rental revenue that crescendas would have earned had it taken reasonable mitigatory steps in light of the combined delay (the “delay scenario”). ordinarily, the delay scenario should have been based on crescendas’ actual net rental revenue. 116 however, in the proceedings below, the parties were at odds as to whether the delay scenario in the multi-year model should reflect net rental revenue that crescendas actually earned, or net rental revenue which crescendas would have earned had it taken reasonable mitigatory steps. the judge held that crescendas did not take all reasonable steps to mitigate its loss of net rental revenue, and thus, the actual net rental revenue which crescendas earned from january 2010 to january 2015 was in part due to the combined delay, and in part due to crescendas’ failure to take all reasonable steps to mitigate its loss of net rental revenue. to remove the effect of crescendas’ failure to take reasonable mitigatory steps, the judge based the delay scenario on the projected net rental revenue reflecting what crescendas would have earned had it taken reasonable mitigatory steps, rather than the actual net rental revenue earned by crescendas subsequent to the combined delay (damages judgment (hc) at [236]–[237] and [246]–[247]). the judge’s findings on this point are undisputed on appeal. hence, the multi-year model requires (a) a computation of what crescendas would have earned in the delay scenario if it had taken reasonable mitigatory steps, (b) a computation of what crescendas would have earned in the no-delay scenario, and (c) a comparison of both figures to determine the loss in net rental revenue suffered by crescendas as a result of the combined delay.117 the same comparison is made in the single-year model. however, as the single-year model is only confined to the period of the combined delay during which biopolis 3 had not been completed and no leasing could have taken place, the net rental revenue that crescendas would have earned in the delay scenario would necessarily be zero. any difference between the delay and the no-delay scenarios would thus be entirely dependent on the net rental revenue which would have been earned in the no-delay scenario. accordingly, the computation under the single-year model focuses solely on the net rental revenue that crescendas would have earned in the no-delay scenario during the combined delay in 2010.118 thirdly, both models utilise the same variables to determine the projected net rental revenue in a particular year (see damages judgment (hc) at [227] and [307]). the input variables for each model are:(a) occupancy level;(b) gross monthly rental rate; and(c) net rental revenue margin.however, because the multi-year model assesses net rental revenue loss over multiple years and involves a comparison of the delay and no-delay scenarios, these variables have to be computed across several years and for both scenarios. this is unlike the single-year model, which only requires a computation of these variables for the period of the combined delay, and only in respect of the no-delay scenario. this is because, as mentioned at [117] above, the net rental revenue in the delay scenario would necessarily be zero. thus, as assoc prof tay pointed out, the single-year model is effectively a truncated multi-year model which focuses only on one year, viz, 2010.
+
+                   93
+
+
+
+
+foot note 93
+
+×
+
+
+
+  roa vol iii part bz at p 100 (assoc prof tay’s 4th report at para 7).
+
+
+
+119 having elaborated on the key features of the single-year model and the multi-year model, we will now set out an overview of the experts’ positions on which model should be adopted in a chronological order. interestingly, experts on both sides had initially prepared their reports based on the multi-year model, and it was the judge who had invited the experts to consider the single-year model.the experts’ respective positions in chronological order120 expert evidence on crescendas’ loss of net rental revenue claim was led from five experts:(a) engaged by crescendas:(i) mr andre toh sern (“mr toh”); (ii) dr annie woo yen lee (“dr woo”); and (iii) mr dennis yeo huang kiat (“mr yeo”).(b) engaged by jp: assoc prof yu shi ming (“assoc prof yu”).(c) court’s expert: assoc prof tay.121 before trial, the experts on both sides proposed a version of the multi-year model to compute the loss of net rental revenue over multiple years. this was reflected in mr toh’s first report dated 16 february 2021 (revised 2 march 2021), dr woo’s and mr yeo’s first report dated 16 february 2021, and assoc prof yu’s first report dated 16 february 2021.
+
+                   94
+
+
+
+
+foot note 94
+
+×
+
+
+
+  roa vol iii part au at pp 4–203 (dr woo’s 1st affidavit dated 1 march 2021 at paras 14–22 and dr woo’s and mr yeo’s 1st report at paras 117–121); roa vol iii part bd at pp 4–50 (mr toh’s 1st report at paras 5.15–5.16); roa vol iii part bf at pp 105 and 124–126 (assoc prof yu’s 1st report at paras 35 and 104–109).
+
+
+
+ assoc prof tay issued his first report dated 22 march 2021, summarising the various experts’ views and giving his own views on the issues raised.122 on 23 march 2021, which was the first day of trial for the second tranche on assessment of damages, the judge invited the experts to consider whether the single-year model should be used instead of the multi-year model.
+
+                   95
+
+
+
+
+foot note 95
+
+×
+
+
+
+  see roa vol iii part ci at pp 71–73 (23 march 2021 transcript at p 67 line 17 to p 69 line 22).
+
+
+
+123 in response to this invitation, the experts held a caucus on 29 march 2021 (the “29 march caucus”) and put forward their respective positions on the matter. assoc prof tay’s second report dated 30 march 2021 recorded the views of the various experts expressed during the 29 march caucus, and set out assoc prof tay’s own opinion on which model should be used:(a) crescendas’ experts, mr toh, dr woo and mr yeo, concurred that the multi-year method was the most appropriate in the present case.
+
+                   96
+
+
+
+
+foot note 96
+
+×
+
+
+
+  roa vol iii part by at p 251 (assoc prof tay’s 2nd report at paras 14(a) and (b)).
+
+
+
+(b) jp’s expert, assoc prof yu, pointed out that “while the [single-year model] does yield a measure of loss, the one year does not fully reflect the typical tenancy period of 3 or more years”.
+
+                   97
+
+
+
+
+foot note 97
+
+×
+
+
+
+  roa vol iii part by at p 251 (assoc prof tay’s 2nd report at para 14(c)).
+
+
+
+ in other words, assoc prof yu merely acknowledged the possibility of using the single-year model and observed a shortcoming of the single-year model. assoc prof yu did not take a clear position as to whether the loss should be assessed under the single-year model or the multi-year model.(c) assoc prof tay opined that the single-year model failed to do justice to the loss suffered by crescendas, and that the multi-year model was preferable.
+
+                   98
+
+
+
+
+foot note 98
+
+×
+
+
+
+  roa vol iii part by at pp 251–254 (assoc prof tay’s 2nd report at paras 15–24).
+
+
+
+124 following the 29 march caucus, mr toh, assoc prof yu and assoc prof tay supplemented their views in the following reports:(a) mr toh’s second report dated 5 april 2021 unequivocally opined that the multi-year model should be used.
+
+                   99
+
+
+
+
+foot note 99
+
+×
+
+
+
+  roa vol iii part bz at pp 18–22 (mr toh’s 2nd report at paras 7.1–8.1).
+
+
+
+(b) assoc prof yu’s second report dated 5 april 2021 concluded that “focusing the estimation of rental loss to the period when it is most impacted by the delay can be considered since it is clearer and has less assumptions and contention” [emphasis added].
+
+                   100
+
+
+
+
+foot note 100
+
+×
+
+
+
+  roa vol iii part bz at p 65 (assoc prof yu’s 2nd report at para 44).
+
+
+
+ the contents of assoc prof yu’s second report did not shed much light on whether assoc prof yu thought that the multi-year model or the single-year model was more appropriate. assoc prof yu merely reiterated the possibility of using the single-year model, but did not take a position on which model should be used. this is notwithstanding that he was specifically instructed to consider how the loss of net rental revenue should be quantified.
+
+                   101
+
+
+
+
+foot note 101
+
+×
+
+
+
+  roa vol iii part bz at p 48 (assoc prof yu’s 2nd report at paras 1.1. and 1.2).
+
+
+
+(c) assoc prof tay’s third report dated 5 april 2021 strongly criticised the single-year model.
+
+                   102
+
+
+
+
+foot note 102
+
+×
+
+
+
+  roa vol iii part bz at pp 90–91 (assoc prof tay’s 3rd report at para 4).
+
+
+
+125 the experts testified at trial on 6 to 9 april, 13 to 16 april and 19 april 2021. during trial, the judge asked each expert (save for mr yeo) if the single-year model was a possible approach and pointed out his concerns with the multi-year model which we mention later. parties also questioned the experts (save for mr yeo) on the suitability of the multi-year model versus the single-year model. this is an overview of the positions they took at trial:(a) mr toh expressly disagreed with the use of the single-year model and opined that the multi-year model was the only method which could reflect crescendas’ loss of net rental revenue given the nature of biopolis 3.
+
+                   103
+
+
+
+
+foot note 103
+
+×
+
+
+
+  roa vol iii part cr at p 110 (14 april 2021 transcript at p 106 lines 12–18); roa vol iii part cs at p 23 (15 april 2021 transcript at p 19 lines 6–10) and pp 25–28 (15 april 2021 transcript at p 21 line 17 to p 24 line 2).
+
+
+
+(b) when the judge asked dr woo why she used the multi-year model, dr woo emphasised the multi-year nature of tenancies, how the loss of a prospective tenant would generate loss over the term of the prospective lease, and the difficulty with finding a replacement tenant after losing the business of a prospective tenant.
+
+                   104
+
+
+
+
+foot note 104
+
+×
+
+
+
+  roa vol iii part cp at p 111 (9 april 2021 transcript at p 107 lines 2–19) and pp 113–114 (9 april 2021 transcript at p 109 line 12 to p 110 line 4).
+
+
+
+(c) assoc prof yu opined that the single-year model can be considered and gave an overview of the pros and cons of the single-year model.
+
+                   105
+
+
+
+
+foot note 105
+
+×
+
+
+
+  roa vol iii part ct at pp 210–212 (16 april 2021 transcript at p 206 line 15 to p 208 line 15).
+
+
+
+ (d) assoc prof tay opined that both the single-year model and the multi-year model were “legitimate methods” but indicated a strong preference for the multi-year model.
+
+                   106
+
+
+
+
+foot note 106
+
+×
+
+
+
+  roa vol iii part cu at p 19 (19 april 2021 transcript at p 15 lines 21–23) and pp 38–39 (19 april 2021 transcript at p 34 line 9 to p 35 line 2).
+
+
+
+126 on the last day of trial, 19 april 2021, assoc prof tay submitted a fourth report dated 19 april 2021 (“assoc prof tay’s fourth report”) opining that the multi-year model was the “superior” method and should be preferred over the single-year model.
+
+                   107
+
+
+
+
+foot note 107
+
+×
+
+
+
+  roa vol iii part bz at pp 99–100 (assoc prof tay’s 4th report at paras 2–7 and 11).
+
+
+
+an overview of the judge’s decision127 the judge observed that all the experts who were asked to consider the single-year model, except for mr toh and dr woo, agreed that the single-year model “can be” [emphasis added] an alternative method of calculating net rental revenue loss (damages judgment (hc) at [104]). in this regard, he noted assoc prof tay’s view that the single-year model was a legitimate method, and assoc prof yu’s view that the single-year model involved fewer assumptions and complications in arriving at a more precise quantum. on the other hand, mr toh opined that the multi-year model was the only method of ascertaining crescendas’ net rental revenue loss in this case (damages judgment (hc) at [105]). dr woo did not expressly accept the single-year model (damages judgment (hc) at [104]). in the light of the conflicting expert evidence, the judge turned to evaluate which of the two models is more appropriate.128 the judge accepted that the multi-year model was a valuable tool for the purposes of accounting, financial planning and real estate valuation because it reflected the multi-year nature of real estate projects and leases. he also acknowledged that accounting and financial standards were instructive in the assessment of damages (damages judgment (hc) at [111] and [125]).129 however, the judge’s overarching considerations were that of fairness and equity. he found that the multi-year model suffered from three shortcomings which did not satisfy the fundamental and cardinal pillar of fairness and equity for the purposes of assessing damages (damages judgment (hc) at [111] and [125]). the three shortcomings were:(a) the speculative nature of the multi-year model, which depended on a multitude of variables that were uncertain, subjective, and which could be endlessly contested (damages judgment (hc) at [112]).(b) the multi-year model depended primarily on variables, such as the stabilised occupancy level, which were outside jp’s control (damages judgment (hc) at [116]).(c) the multi-year model was capable of yielding illogical and plainly inequitable outcomes. in particular, it was conceptually possible for the difference in net rental revenue between the no-delay and delay scenarios to yield a negative figure (damages judgment (hc) at [121]).we will address each of these shortcomings identified by the judge later.130 in addition to these shortcomings, the judge was also of the view that the multi-year model infringed the principles on remoteness of damage (damages judgment (hc) at [126]–[127]). the judge reiterated that crescendas was only entitled to recover pre-completion net rental revenue loss, as the post-completion net rental revenue loss was too remote to be recoverable (damages judgment (hc) at [127]). in contrast, the single-year model had a direct nexus to the loss of net rental revenue during the combined delay in 2010 and as a result, had taken into account the principles of remoteness and mitigation.131 the judge concluded that the single-year model provided “the fairest and most appropriate method of quantifying [crescendas’] loss of net rental revenue” (damages judgment (hc) at [128]).parties’ cases on appeal132 the crux of crescendas’ case on appeal was that the single-year model led to undercompensation because it focused only on net rental revenue loss sustained during the combined delay (ie, pre-completion net rental revenue loss), when the combined delay had also caused post-completion net rental revenue loss over multiple years. in particular, the combined delay caused crescendas to lose the pre-commitment tenants, and given that tenancies span over several years, the loss of these tenants alone meant that crescendas missed out on a multi-year revenue stream over the term of each tenancy. even if crescendas subsequently secured other tenants to mitigate its loss, it would still suffer a multi-year loss because biopolis 3 was a multi-tenanted building that would take time to fill up. until stabilised occupancy was reached, there would still be “excess” capacity in biopolis 3 which would otherwise have been filled up earlier if not for the combined delay.
+
+                   108
+
+
+
+
+foot note 108
+
+×
+
+
+
+  appellant’s skeletal submissions in ca 87 at paras 1–2; ac(87) at paras 36, 64, 69 and 72; ar(87) at paras 56, 60, 62 and 77.
+
+
+
+ crescendas pointed out that all the experts had proposed a form of the multi-year model to compute its loss of net rental revenue.
+
+                   109
+
+
+
+
+foot note 109
+
+×
+
+
+
+  ac(87) at paras 37 and 58.
+
+
+
+133 as regards the judge’s various criticisms of the multi-year model, viz, (a) it was speculative, (b) it was dependent on factors outside jp’s control and (c) it could possibly yield illogical outcomes, crescendas argued that these did not constitute valid reasons to reject the multi-year model. during the oral hearing, counsel for crescendas argued that the judge, by rejecting the multi-year model on the basis that it was dependent on parameters which were uncertain and outside of jp’s control, had erred by forgoing full compensation for greater certainty. in crescendas’ view, what the judge should have done was to make allowance for these uncertainties when applying a discount to the net rental revenue loss computed under the multi-year model.134 on the other hand, jp contended that the judge correctly found that the evidence did not show that jp was liable for the extent of loss claimed, given that the multi-year model used highly speculative variables outside jp’s control.
+
+                   110
+
+
+
+
+foot note 110
+
+×
+
+
+
+  rc(87) at paras 39–48.
+
+
+
+ jp also submitted that crescendas had not demonstrated that the post-completion net rental revenue loss was a result of the combined delay rather than crescendas’ own marketing and pricing strategies.
+
+                   111
+
+
+
+
+foot note 111
+
+×
+
+
+
+  rc(87) at para 56.
+
+
+
+ jp acknowledged that the fact that the multi-year model was capable of yielding illogical and inequitable outcomes might not be a good enough reason on its own to reject the multi-year model, but it nevertheless contended that it was still a valid consideration to be taken in the round when considering the extent to which it should be liable for the breach. it emphasised that anything could happen following the completion of biopolis 3, and venturing into what could happen and what crescendas could have done to mitigate its loss would be to venture into the realm of speculation over several years.
+
+                   112
+
+
+
+
+foot note 112
+
+×
+
+
+
+  rc(87) at para 52.
+
+
+
+our decision(1) crescendas suffered post-completion net rental revenue loss over multiple years135 we first consider the issue of whether there was sufficient evidence that crescendas had, because of the combined delay, suffered post-completion net rental revenue loss over multiple years. this relates to proof as to the fact of damage.136 on this point, even if the multi-year model computations involved speculative variables outside jp’s control, that is a point going towards quantification of damage, which is distinct from the existence of damage. we are for the moment concerned with the existence of damage, in particular, whether crescendas had in fact suffered post-completion net rental revenue loss over multiple years. in this connection, we turn to consider the expert evidence given by assoc prof tay, mr toh, dr woo and assoc prof yu. we have left out mr yeo, as he did not comment on this issue.(a) assoc prof tay (court’s expert)137 in assoc prof tay’s view, biopolis 3 would take many years to fill up due to its high nla. real-estate tenancies, which are the source of crescendas’ net rental revenue, are also multi-year in nature. given that both the asset and the income are multi-year in nature, he opined that the multi-year model provides the more appropriate method as it would be able to take into account the trajectory of the income stream.
+
+                   113
+
+
+
+
+foot note 113
+
+×
+
+
+
+  roa vol iii part by at pp 251–252 and 257 (assoc prof tay’s 2nd report at paras 15–16 and “conclusion” section); roa vol iii part bz at p 99 (assoc prof tay’s 4th report at para 3); roa vol iii part cu at p 20 (19 april 2021 transcript at p 16 lines 1–14).
+
+
+
+138 assoc prof tay criticised the single-year model for failing to respect the fundamental time-based nature of real estate assets and investment by simplifying the cash flow assessment to a single year and ignoring the contributions of subsequent years, whether they are positive or negative.
+
+                   114
+
+
+
+
+foot note 114
+
+×
+
+
+
+  roa vol iii part bz at p 91 (assoc prof tay’s 3rd report at para 4).
+
+
+
+ he thus opined that the single-year method does not adequately account for the multi-year effect caused by the combined delay.
+
+                   115
+
+
+
+
+foot note 115
+
+×
+
+
+
+  roa vol iii part cu at p 20 (19 april 2021 transcript at p 16 lines 15–17); roa vol iii part bz at pp 99–100 (assoc prof tay’s 4th report at paras 3 and 11).
+
+
+
+(b) mr toh (crescendas’ expert)139 mr toh opined that the multi-year model is the more appropriate model in the present case because the combined delay resulted in post-completion net rental revenue loss over multiple years, up to the point where stabilised occupancy is achieved. this is primarily because of the nature of the asset (ie, biopolis 3) and the nature of the business.
+
+                   116
+
+
+
+
+foot note 116
+
+×
+
+
+
+  roa vol iii part bz at p 18 (assoc prof tay’s 2nd report at para 7.3)
+
+
+
+140 first, the nature of biopolis 3 is such that the combined delay would reduce biopolis 3’s occupancy levels over multiple years.
+
+                   117
+
+
+
+
+foot note 117
+
+×
+
+
+
+  roa vol iii part bz at p 20 (mr toh’s 2nd report at para 7.11).
+
+
+
+ biopolis 3 was a specialised building which could only host tenants in the bms r&d industry. as a result, replacement tenants might not come by readily once potential tenants were lost due to the combined delay.
+
+                   118
+
+
+
+
+foot note 118
+
+×
+
+
+
+  roa vol iii part bz at p 20 (mr toh’s 2nd report at paras 7.7 and 7.9).
+
+
+
+ further, as a multi-tenanted development, there was no single occupant which could immediately fill up the building once it was completed, and crescendas would need multiple years to source for tenants to fill up the building, especially given its specialised nature.
+
+                   119
+
+
+
+
+foot note 119
+
+×
+
+
+
+  roa vol iii part bz at p 20 (mr toh’s 2nd report at para 7.8); roa vol iii part cs at p 23 (15 april 2021 transcript at p 19 lines 16–21).
+
+
+
+ biopolis 3 is to be contrasted with a commodity asset or a strata development (eg, hdb flat or private condominium) for which the number of applicants vying for units exceed the number of units and which can be fully occupied once the delay ends.
+
+                   120
+
+
+
+
+foot note 120
+
+×
+
+
+
+  roa vol iii part bz at p 20 (mr toh’s 2nd report at para 7.10).
+
+
+
+ that biopolis 3 would need time to fill up and achieve stabilised occupancy is supported by the fact that other comparable multi-tenanted properties had taken up to five years to reach stabilised occupancy.
+
+                   121
+
+
+
+
+foot note 121
+
+×
+
+
+
+  roa vol iii part bz at p 22 (mr toh’s 2nd report at paras 7.16–7.18).
+
+
+
+ the combined delay would cause biopolis 3 to reach stabilised occupancy later down the road, and as a result, impact occupancy levels over multiple years.
+
+                   122
+
+
+
+
+foot note 122
+
+×
+
+
+
+  roa vol iii part cs at p 23 (15 april 2021 transcript at p 19 lines 11–21).
+
+
+
+141 secondly, crescendas’ leasing business in respect of biopolis 3 involved generating rental revenues from multi-year tenancy agreements. thus, where the combined delay caused the loss of a potential tenant, the loss in rental revenue would be suffered over the entire duration of the expected tenancy, which would extend beyond the period of the combined delay.
+
+                   123
+
+
+
+
+foot note 123
+
+×
+
+
+
+  roa vol iii part bz at p 21 (mr toh’s 2nd report at paras 7.12–7.15); roa vol iii part cs at p 23 (15 april 2021 transcript at p 19 lines 6–16).
+
+
+
+142 therefore, damages should be assessed over multiple years to properly reflect the actual loss suffered.
+
+                   124
+
+
+
+
+foot note 124
+
+×
+
+
+
+  roa vol iii part bz at p 22 (mr toh’s 2nd report at para 8.1); roa vol iii part cs at p 23 (15 april 2021 transcript at p 19 lines 11–21).
+
+
+
+(c) dr woo (crescendas’ expert)143 when asked by the court why the multi-year model was used in her report, dr woo pointed to the nature of lease agreements. she explained that a tenancy would usually be for a minimum period of three years. if a tenant was secured, that tenant would stay through for multiple years and there would be a revenue stream over the multi-year term of the tenancy. therefore, if a prospective tenant was lost, the developer would lose the first year’s income stream, plus the income stream from the remaining years of that prospective tenancy.
+
+                   125
+
+
+
+
+foot note 125
+
+×
+
+
+
+  roa vol iii part cp at p 111 (9 april 2021 transcript at p 107 lines 2–19).
+
+
+
+ dr woo also emphasised that in light of the restricted pool of tenants available for biopolis 3, it would be difficult to replace a prospective tenant who walked away from the deal.
+
+                   126
+
+
+
+
+foot note 126
+
+×
+
+
+
+  roa vol iii part cp at pp 113–114 (9 april 2021 transcript at p 109 line 12 to p 110 line 4).
+
+
+
+(d) assoc prof yu (jp’s expert)144 assoc prof yu did not take a position as to which model should be used, and merely opined that the single-year model can be considered.145 during his examination-in-chief, assoc prof yu was asked to list the pros and cons of the multi-year model and the single-year model. assoc prof yu explained that the multi-year model involves too many parameters and permutations. this is unlike the single-year model, which involves fewer assumptions,
+
+                   127
+
+
+
+
+foot note 127
+
+×
+
+
+
+  roa vol iii part ct at pp 210–211 (16 april 2021 transcript at p 206 line 15 to p 207 line 7).
+
+
+
+ and parties’ differences as to the parameters result in a smaller difference in the final quantum since the computation only relates to a one-year period.
+
+                   128
+
+
+
+
+foot note 128
+
+×
+
+
+
+  roa vol iii part cs at pp 50–51 (15 april 2021 transcript at p 46 line 17 to p 47 line 18).
+
+
+
+ notwithstanding these, assoc prof yu recognised that as leases typically “run at least on a three-year cycle … the effect of the delay probably could extend beyond the one year [under the single-year model]”.
+
+                   129
+
+
+
+
+foot note 129
+
+×
+
+
+
+  roa vol iii part cs at pp 49–50 (15 april 2021 transcript at p 45 line 10 to p 46 line 16).
+
+
+
+(e) evaluating the expert evidence146 the expert evidence before us supports a finding that the combined delay had resulted in post-completion net rental revenue loss over multiple years. such loss would result even if crescendas had taken reasonable efforts to mitigate its loss. the key reason for this is that biopolis 3 was a multi-tenanted development which would take several years to fill up. this, coupled with the fact that crescendas’ income stream arose from multi-year leases with tenants in biopolis 3, meant that the combined delay had as a matter of fact impacted crescendas’ net rental revenue stream over several years. we elaborate.147 first, as mr toh and assoc prof tay rightly pointed out, biopolis 3 was a multi-tenanted development which would take several years to fill up because it was a large development which could only be leased out to a very specific type of tenant. it was not a building which could be filled up immediately once it was completed. indeed, all parties agreed that biopolis 3 would have taken four years to achieve stabilised occupancy in the no-delay scenario,
+
+                   130
+
+
+
+
+foot note 130
+
+×
+
+
+
+  asof at s/n 9); roa vol iii part by at p 202 (tay kah poh’s 1st affidavit dated 22 march 2021 at p 8, s/n 3).
+
+
+
+ and it was no longer disputed on appeal that biopolis 3 would take four years to attain stabilised occupancy in the delay scenario. this feature of biopolis 3 meant that a combined delay of approximately one year would impact the occupancy profile of biopolis 3 over several years, and therefore result in post-completion net rental revenue loss over multiple years. to elaborate, in the absence of the combined delay, biopolis 3 would have enjoyed a base level of 31.64% starting occupancy
+
+                   131
+
+
+
+
+foot note 131
+
+×
+
+
+
+  tkqp’s letter dated 12 august 2022 (annex b, tables 6 and 7).
+
+
+
+ and crescendas could focus its efforts on filling up the remainder of the building. however, when potential starting tenants were lost due to the combined delay, the specialised nature of biopolis 3 meant that it would take some time to find other tenants to bring the occupancy level back up to 31.64% even with reasonable mitigatory efforts. the result is that biopolis 3’s occupancy growth profile in the delay scenario would lag behind its occupancy growth profile in the no-delay scenario. the multi-year impact on biopolis 3’s occupancy levels translated into a multi-year loss for crescendas.148 secondly, each tenancy ran on a multi-year cycle, as recognised by assoc prof tay, mr toh, dr woo and assoc prof yu. each tenancy thus supplied crescendas with a multi-year rental revenue stream, such that the loss of a prospective starting tenant caused by the combined delay would lead to net rental revenue loss throughout the multi-year term of the lost prospective tenancy. this multi-year loss would not be stemmed even if crescendas had taken reasonable mitigatory steps by securing another tenant, as the other tenant would not truly be a replacement tenant. this was attributable to the fact that biopolis 3 was a multi-tenanted development which would take time to fill up. as biopolis 3 would still have empty spaces for lease even after completion, securing another tenant would still leave crescendas with an empty space in biopolis 3 which would otherwise have been occupied by the lost prospective starting tenant. put another way, without the combined delay, the additional tenant which crescendas found would have been in addition to the lost tenant since there was space in biopolis 3 to accommodate both. 149 for the above reasons, we find that the combined delay caused crescendas to suffer post-completion net rental revenue loss over multiple years. this points strongly in favour of using the multi-year model to compute crescendas’ multi-year loss. the single-year model, on the other hand, was defective in that it only reflected crescendas’ loss during the period of the combined delay in the year 2010 (ie, pre-completion net rental revenue loss).150 we are reinforced in our view by the fact that none of the experts endorsed the single-year model as the more appropriate method on the facts of this case. as mentioned, even assoc prof yu eventually did not take a position as to which model should be used on the present facts. moreover, we note that in his first expert report, he had computed crescendas’ loss based on the multi-year model and did not mention the single-year model. he suggested that this was because he had been asked to address the computations of crescendas’ experts, which were performed using the multi-year model.
+
+                   132
+
+
+
+
+foot note 132
+
+×
+
+
+
+  roa vol iii part cs at p 63 (15 april 2021 transcript at p 59 lines 18–21).
+
+
+
+ however, this was not a good reason. if he had genuinely believed that the single-year model was a better approach, he should have said so in his first report.151 to the extent that the judge was of the view that both assoc prof yu and assoc prof tay were of the view that the single-year model was a legitimate model (damages judgment (hc) at [104]–[105]), we respectfully say that this was a gloss which gave the impression that they were of the view that the single-year model was a suitable alternative to the multi-year model. 152 as we mentioned above, assoc prof yu did not quite say that the single-year model was a suitable alternative to the multi-year model.153 more importantly, assoc prof tay’s fourth report, which was dated 19 april 2021 (ie, the day on which assoc prof tay gave oral evidence), emphasised that the multi-year model was superior to the single-year model because real estate leases run for multiple years. in that report, he considered the single-year model to be effectively a truncated multi-year model, a point which he repeated in oral evidence. indeed, as mentioned above at [125(d)], while he orally opined that the single-year model was a legitimate method, he still preferred the multi-year model. this was consistent with assoc prof tay’s fourth report. in fact, the judge was aware that he preferred the multi-year model and the judge was simply trying to establish that assoc prof tay was not ruling out the single-year model. however, there is a significant difference between saying that the single-year model was a legitimate method and saying that it was not the preferred method. in our view, the real question is which was the better method and the expert evidence was overwhelmingly in favour of the multi-year model.154 this is not the end of the matter. whilst the expert evidence indicates that the combined delay would cause crescendas to suffer post-completion net rental revenue loss over several years, the judge identified three main shortcomings of the multi-year model, which, if valid, may mean that the threshold for appellate intervention has not been crossed. having examined the shortcomings identified by the judge with the benefit of parties’ submissions on appeal, we respectfully disagree with the judge’s reasons for not adopting the multi-year model. we will address each reason in turn.(2) the multi-year model is not too speculative155 one reason the judge gave for rejecting the multi-year model was that it was too speculative. while some degree of uncertainty was inevitable in the assessment of expectation loss, this was compounded in the multi-year model because it involved projecting occupancy rates, rental rates and net rental revenue margin over several years. the number of years over which the projection was to be made was in turn dependent on the time taken to reach stabilised occupancy. further, the multi-year model involved a multitude of variables which by themselves were uncertain and subjective, and parties disagreed on each variable, resulting in disparate positions being taken on the final quantum (damages judgment (hc) at [112]–[114]). even though crescendas proposed a discount of 8% to take into account the risks of biopolis 3 not achieving its revenue projections, the judge found it unsatisfactory as this discount rate, whilst accounting for some uncertainties in revenue projections, failed to account for other uncertainties, including in particular the uncertainty in the time required for biopolis 3 to achieve stabilised occupancy (damages judgment (hc) at [115] and [305]). the judge was of the view that the single-year model was a more straightforward method which does not require the court to project variables over several years, and which is dependent on only two main variables – the first-year occupancy rate which biopolis 3 would have achieved in 2010 if the combined delay had not occurred and the monthly rental rate in 2010. the reliance on assumptions and estimations about projected occupancies and rental rates were reduced, and so was the disagreement on the variables (damages judgment (hc) at [126]).156 crescendas submitted that as a matter of principle, the difficulty in assessing damages was no reason for not awarding damages where substantial loss had been incurred. the court must do the best that it can in quantifying the loss claimed. citing mfm restaurants pte ltd and another v fish & co restaurants pte ltd and another appeal [2011] 1 slr 150 (“mfm (ca)”) as an example, crescendas submitted that courts had awarded damages for revenue loss suffered over a period of time following a contractual breach, despite the uncertainty in projecting the expected revenue which could have been earned if there had been no breach.
+
+                   133
+
+
+
+
+foot note 133
+
+×
+
+
+
+  ac(87) at para 43.
+
+
+
+ in response, jp sought to distinguish mfm (ca), primarily on the basis that the claimant there already had an established income stream prior to the defendant’s breach, and revenue loss could be quantified with less speculation than in the present case, where the absence of an established income stream from biopolis 3 prior to the combined delay rendered the assessment of damages under the multi-year model highly speculative.
+
+                   134
+
+
+
+
+foot note 134
+
+×
+
+
+
+  rc(87) at paras 20–27.
+
+
+
+157 as for the facts, crescendas submitted that the speculative aspects of the multi-year model had been minimised
+
+                   135
+
+
+
+
+foot note 135
+
+×
+
+
+
+  ac(87) at para 45; ar(87) at paras 59 and 61.
+
+
+
+ by relying on actual data from comparable multi-tenanted biomedical buildings in other business parks.
+
+                   136
+
+
+
+
+foot note 136
+
+×
+
+
+
+  ac(87) at para 51; ar(87) at para 59(b).
+
+
+
+ rental rates were also corroborated by actual, independent data such as annual values from the inland revenue authority of singapore (“iras”).
+
+                   137
+
+
+
+
+foot note 137
+
+×
+
+
+
+  ac(87) at para 53.
+
+
+
+ additionally, all the experts concurred that the stabilised occupancy level for biopolis 3 was between 85% and 90%, and it would take four years to achieve stabilised occupancy in the no-delay scenario.
+
+                   138
+
+
+
+
+foot note 138
+
+×
+
+
+
+  ac(87) at para 52.
+
+
+
+ uncertainties in the projections could be taken into account by applying an 8% exponential discount rate.
+
+                   139
+
+
+
+
+foot note 139
+
+×
+
+
+
+  ac(87) at para 46; ar(87) at para 43.
+
+
+
+158 on the other hand, jp reiterated the speculative nature of the multi-year model. it contended that the market data which crescendas relied on was of limited probative value because every development was different and was subject to different market conditions.
+
+                   140
+
+
+
+
+foot note 140
+
+×
+
+
+
+  rc(87) at para 20.
+
+
+
+ it also argued that the speculation was magnified by the judge’s finding that crescendas did not take all reasonable steps to mitigate its net rental revenue loss (a finding which crescendas was not challenging on appeal). given this finding, projected (as opposed to actual) net rental revenue had to be used in the delay scenario to determine what crescendas could have achieved had all reasonable steps been taken to mitigate its loss. this “doubles the speculation required in the [m]ulti-[y]ear [m]odel” since net rental revenue was also projected in the no-delay scenario.
+
+                   141
+
+
+
+
+foot note 141
+
+×
+
+
+
+  rc(87) at paras 30–33 and 38.
+
+
+
+159 in the light of parties’ submissions, it is appropriate at this juncture to re-visit the law with regard to certainty of proof of damage.160 as mentioned, a claimant must satisfy the court as to the fact of damage and its amount to justify an award of substantial damages: robertson quay at [27].161 if the fact of damage is shown but no evidence is given as to its amount such that it is virtually impossible to assess damages, this will generally permit only an award of nominal damages. such a situation may arise where the nature and effect of the breach render the assessment of damages far too speculative an enterprise for the claimant to adduce evidence of its loss and for the court to quantify the same in any meaningful way: turf club auto emporium pte ltd and others v yeo boong hua and others and another appeal [2018] 2 slr 655 (“turf club”) at [225]. experience hendrix llc v ppx enterprises inc [2003] 1 all er (comm) 830 (“experience hendrix”) was one such case. there, in breach of a settlement agreement, the defendant licensed various master recordings by the late artist jimi hendrix without his estate’s consent. the claimant, a company effectively owned by the sole beneficiary of jimi hendrix’s estate, conceded that it had no evidence, and it could not ever possibly get evidence, to quantify the financial loss it suffered as a result of these breaches (experience hendrix at [14]), and mance lj accepted that it was a “practical impossibility” to demonstrate “the effect of [the] defendant’s undoubted breaches on the [claimant’s] general programme of promoting their product” (experience hendrix at [38]).162 outside such situations, where the claimant has “attempted its level best to prove its loss and the evidence is cogent, the court should allow it to recover the damages claimed” [emphasis in original omitted]: robertson quay at [31]. indeed, the law does not demand that the claimant prove with complete certainty the exact amount of damage suffered; it only requires the claimant to attempt its level best, as far as the circumstances permit, to put forward cogent evidence of its loss: robertson quay at [28] and [31]. this encapsulates the flexible approach the law takes towards proof of damage. different occasions may call for different evidence with regard to certainty of proof, depending on the circumstances of the case and the nature of the damages claimed. where precise evidence of the quantum of loss is obtainable, such as where the claim is for expenses already incurred, the court will naturally expect to have such evidence: robertson quay at [30]. however, where precision and certainty as to the quantum of loss is impossible due to the circumstances and the nature of the claim, a claimant’s inability to prove the precise amount of loss will not be held against it as long as the claimant has put forward cogent evidence in an attempt to do its level best to prove its loss. in which case, the court will allow the claim and do the best it can to assess the loss suffered by the claimant: lim chong poon v chiang sing jeong [2020] sgca 27 at [27]; robertson quay at [30]–[31]. where it is clear that substantial loss has been incurred, the fact that an assessment is difficult because of the nature of the loss is no reason for awarding no damages or merely nominal damages: robertson quay at [28]. as eloquently put by the court of appeal in mfm (ca) at [62]:… [b]earing in mind the fact that damages are not ascertained in an abstract vacuum but must necessarily involve considering many other factors that ought not to be taken into account for the purposes of the assessment of damages but are simultaneously present in the context of the entire factual matrix before the court, some educated guesses have to be made – regardless of the precise methodology ultimately adopted by the court. to state this is merely to acknowledge the very real fact that life is far more complex than simple law school hypotheticals and even textbooks would have us believe. however, that has never prevented the courts from awarding what, in their view, were just and fair sums to plaintiffs if the legal rules and principles justified them. indeed, as we have acknowledged (realistically) above (at [57]), the court will simply do the best that it can, having regard to all the circumstances before it. … [emphasis in original omitted; emphasis added in italics and bold italics]163 the case of mfm (ca) is an instance where the claimant and the court did their best in the circumstances to quantify the claimant’s lost profits during the period of the defendants’ breaches (“breach period”) and after the period of the defendants’ breaches (“post-breach period”), despite the presence of numerous extraneous factors obscuring the precise quantum of loss attributable to the defendants’ breaches. in that case, low theng yong dickson (“dickson”), a former operations manager of a chain of seafood restaurants, “fish & co”, allegedly divulged fish & co’s confidential information to its rival, the manhattan fish market (“mfm”). fish & co, dickson and mfm thereafter entered into a settlement deed, pursuant to which mfm made various undertakings, including an undertaking to use sauces which were completely different from fish & co’s. five months later, fish & co sued mfm and dickson, claiming that their breaches of the undertakings caused fish & co to lose customers and profits during the breach and post-breach periods. mfm and dickson consented to a judgment on liability. in the assessment of the quantum of damages, the expert witness on each side proposed different approaches to calculate fish & co’s loss of profits in the breach and post-breach periods.164 in fish & co restaurants pte ltd v mfm restaurants pte ltd and another [2010] 1 slr 1104 (“mfm (hc)”), belinda ang j (as she then was) endorsed one of the methods of quantification put forward by fish & co (at [51]) and awarded damages for loss of profits using that method in respect of the breach and post-breach periods notwithstanding evidential issues concerning quantification. as regards fish & co’s loss of profits claim in the breach period, there was uncertainty in the amount of loss attributable to mfm’s and dickson’s breaches as the loss could be attributable to other factors such as the tight competition in the food and beverage market (at [56]). nevertheless, having noted the principle that “[t]he court will have to do its best to determine the loss of profits given the available material” (at [52]), ang j proceeded to find a rational way of assessing lost profits that would alleviate the speculative element of the exercise and discount the influence of factors (at [56]). 165 as regards fish & co’s loss of profits claim in the post-breach period, ang j found that this category of loss was in fact suffered because the cessation of the breach did not necessarily mean the end of fish & co’s loss. some of fish & co’s customers would continue to patronise mfm’s outlet after mfm had begun using its own sauces. she characterised this as a “gradual trailing off” of the effect of the breach (mfm (hc) at [63]). notwithstanding that the trailing off effect was “subject to unknown factors operating in relation to the acts of third parties or other events independent of the defendants’ breach” [emphasis added] and that it was “difficult evidentially to say whether how long and to what extent customers will continue to patronise mfm’s outlet after the defendants had begun using mfm sauces”, ang j proceeded to award fish & co loss of profits for the post-breach period and discounted the eventual award to take into account these uncertainties (mfm (hc) at [63] and [67]–[68]).166 the court of appeal in mfm (ca) upheld ang j’s decision to award loss of profits suffered in the breach and post-breach periods (but used a different method of quantification). the court of appeal observed that it was difficult to quantify fish & co’s lost profits as a result of mfm’s and dickson’s breaches because there were numerous factors which could potentially affect the reasons for fish & co’s decline in sales (mfm (ca) at [57]). nonetheless, it proceeded to accept what in its view was a reasonable estimation of the projected percentage change in gross sales to ascertain the projected gross sales fish & co would have earned had there been no breach. the award for the post-breach period was also discounted to make allowance for a gradual decrease of the effect of the breaches. all these were done in the light of the court’s duty to do the best it could to compensate fish & co for loss which it had in fact sustained (see mfm (ca) at [68]–[69] and [146]).167 on the other hand, jp relied on the canadian case of grandison v novagold resources inc [2007] bcsc 1780 (“grandison”) to support its argument that the court should not adopt a method of assessment where too many variables are at play.
+
+                   142
+
+
+
+
+foot note 142
+
+×
+
+
+
+  rc(87) at paras 35–38.
+
+
+
+ jp submitted:36. regarding the expert evidence, the petitioners’ expert, mr tidball, testified that the fair value was between $6.135 and $8.51 per share. in contrast, the respondents’ expert, mr harder, opined that the fair value was between $1.00 to $2.25 per share. both experts used the discounted cash flow (‘dcf’) method of valuation. the court noted that the experts agreed that minimal adjustments in any of the material components of a dcf analysis were likely to produce substantial variations in result. pertinently, the court stated at [80]: ‘it goes without saying that a dcf valuation is particularly difficult in the case of a company such as coast mountain where the project is in the development stages, there is no operating history, the components of revenue and cost are uncertain, and the manner in which and time within which the undertaking is likely to be brought to fruition by is affected by a variety of objective and subjective factors. mr harder aptly described it as an exercise in ‘educated speculation’.’37. the court then listed the significant assumptions made by both experts and noted that they led to extremely different results. the court eventually declined to apply their dcf valuations as they were ‘rife with speculation and uncertainty’. instead, the court held that the appropriate starting point for the determination of value in this case was found to be the transaction itself, with other indices of value then being used to confirm the indicated value or to justify any adjustment to it. this is because market transactions, like the plan of arrangement, are ‘indicators of prices at which parties have been prepared to buy and sell the shares’, and ‘depending on the circumstances, it may be the best evidence of fair value’.168 we do not think that grandison is authority for a general proposition that a court should eschew a method of assessment just because there are many variables. indeed, as mentioned, the court has embarked on such an assessment in the face of multiple variables.169 turning to the facts of this case, with respect to the judge, the fact that there will be a wider range of variables when assessing post-completion net rental revenue loss over multiple years, for which differences of opinion exist, is not a good reason by itself for preferring the single-year model.170 first, the judge’s concerns regarding the speculative nature of the multi-year model are overstated. crescendas had put forward a copious amount of empirical data relating to biopolis 3, market data of comparable buildings and island-wide market trends, which collectively provided a foundation upon which multi-year projections of net rental revenue in both the delay and no-delay scenarios could be rationally made. for a detailed overview of the data and evidence before the court, see the damages judgment (hc) at [134]–[306]. these, along with market data collected by jp’s expert (assoc prof yu), gave the court sufficient material to make reasoned estimates after sifting through the evidence with care. the experts used different methodologies and different assumptions in arriving at their respective conclusions, but the court was well-placed to resolve any disagreements between the experts by evaluating the relative strength of each expert’s methodology and validating their underlying assumptions with reference to the evidence, as it is often done in other cases. in fact, this was what the judge did when applying the multi-year model as an alternative. the level of speculation entailed in this endeavour to project crescendas’ post-completion net rental revenue loss over several years did not rise to the level of rendering it virtually or practically impossible to meaningfully ascertain this loss. we also note in passing that parties agreed on the quantum of certain parameters on appeal, which further reduced the uncertainty involved.171 jp pointed out that mfm (ca) is a case where the claimant had an established income stream prior to the defendants’ breaches, but crescendas did not. having an established track record in the form of past revenue figures may assist the court in so far as it may provide some form of starting point for revenue projections, but the absence of historical data does not necessarily render it impossible for the court to make reasoned estimations. it all depends on whether the claimant has supplied sufficient material that can form the evidential basis on which the court arrives at a reasoned estimate. in our judgment, crescendas has done so.172 secondly, and more fundamentally, in rejecting the multi-year model for being speculative and thus denying compensation for post-completion net rental revenue loss, the judge overlooked the expert evidence which proved the existence of such loss (see above at [146]–[148]). given the fact of damage, the court should, as a matter of principle, allow the claim for damages and do its best to quantify such loss if the claimant had likewise attempted its level best in placing cogent evidence before the court. in our judgment, crescendas had discharged this onus and should not be denied recovery of such loss. 173 finally, the judge’s criticism that the multi-year model was speculative overlooked the point that the speculative aspects of ascertaining quantum flow from the nature of the post-completion net rental revenue loss, and the circumstances in which they were sustained on the facts of this case. net rental revenue projections in the no-delay scenario have to be made on the basis of many parameters over several years. this is compounded by the fact that the parameters are uncertain as they are influenced by market factors. we note that this uncertainty is not unique to the present case. similar uncertainty arises for many loss of profit claims where the extent of the loss is not based entirely on existing facts, but by reference to projected earnings which are influenced by market conditions. the fact that post-completion net rental revenue loss was sustained in circumstances where there was inadequate mitigation on the part of crescendas only made a workable multi-year model more difficult but did not render it unworkable. 174 by rejecting the multi-year model as being too speculative and denying compensation for post-completion net rental revenue loss, the judge effectively held the nature and circumstances of the loss against crescendas even when it had done its best in the proof of quantum and there was sufficient material for the court to make a reasoned estimate of such loss. this is unfair, since the uncertainty arises not for want of effort on crescendas’ part to assist the court in quantification, but is inherent in the quantification process of such loss.175 for completeness, we note that a discount on the final award can be applied to account for uncertainty in determining the multi-year net rental revenue loss. the judge found that crescendas’ proposed discount rate did not adequately account for the uncertainty in the time required for biopolis 3 to achieve stabilised occupancy in the multi-year model (damages judgment (hc) at [115] and [305]). this is true. however, this is not a valid reason for rejecting the multi-year model. the judge could have adjusted the discount factor to fairly and reasonably accommodate additional uncertainties, rather than to reject the multi-year model and deny crescendas compensation in respect of its post-completion net rental revenue loss. as it turned out, the judge accepted a discount factor of 8% as suggested by mr toh but wrongly applied it. we elaborate on this later at [192] below. (3) the multi-year model should not be rejected on the basis that it depended on variables outside the contract-breaker’s control176 the judge seriously doubted the fairness of the multi-year model in quantifying the loss for which jp can fairly be held liable for, given that it is dependent primarily on variables outside jp’s control and which operate long after the period of delay caused by jp (damages judgment (hc) at [120]). in particular, he found that the parameter of stabilised occupancy, which is critical in the quantification of loss under the multi-year model, does not furnish a “principled basis for quantifying the loss of net rental revenue for which [jp] should be held liable” because jp had no control over biopolis 3’s stabilised occupancy level. this was entirely dependent on crescendas’ actions (eg, marketing and pricing strategies) and could be anywhere between 0% to 100%. biopolis 3’s occupancy levels in the years following the combined delay were also beyond jp’s control (damages judgment (hc) at [116]–[118]). even if using parameters aligned with market expectations could fairly and reasonably estimate what crescendas would have achieved, the fact remained that jp did not have control over biopolis 3’s rental rates and occupancy rates, amongst other parameters, in the years subsequent to the combined delay (damages judgment (hc) at [119]–[120]).177 on appeal, crescendas contended that the use of parameters outside of jp’s control was not a valid reason to reject the multi-year model, because the extent of a contract-breaker’s control could not be a limiting factor to the recovery of damages.
+
+                   143
+
+
+
+
+foot note 143
+
+×
+
+
+
+  ac(87) at para 50; ar(87) at para 61.
+
+
+
+ it also reiterated that the parameters for the multi-year model were based on objective and reasonable market data, which would reflect what was achievable by a comparable development managed by a reasonable developer as opposed to being dependent on crescendas’ own actions.
+
+                   144
+
+
+
+
+foot note 144
+
+×
+
+
+
+  ac(87) at paras 51 and 78; ar(87) at paras 50–52.
+
+
+
+ in turn, jp submitted that the judge did not make such a “blanket ruling” that a contract-breaker’s lack of control is a limiting factor to the recovery of damages, but simply found that the evidence did not show that jp was liable for the extent of loss claimed.
+
+                   145
+
+
+
+
+foot note 145
+
+×
+
+
+
+  rc(87) at paras 40 and 48.
+
+
+
+178 as a preliminary point, we disagree with jp’s attempt to characterise the judge’s decision as a ruling directed towards whether the evidence shows that jp is liable for the extent of loss claimed. quite clearly, the judge was directing his mind to the issue of whether jp should as a matter of fairness be held liable for net rental revenue loss quantified under the multi-year model, where the method of quantification relies on variables lying entirely outside jp’s control.179 we accept that jp has no control over parameters such as the stabilised occupancy level and rental rates employed in the multi-year model. however, we respectfully disagree with the judge that this reason justifies the rejection of the multi-year model. 180 it must first be appreciated that the multi-year model is a means to reflect the multi-year net rental revenue loss suffered by crescendas as a result of the combined delay. given that the loss pertains to crescendas’ net rental revenue, the extent of the loss suffered would naturally be contingent on crescendas’ own actions in relation to its leasing business. the fact that this loss concerns net rental revenue, a head of loss which is dependent on custom from potential tenants, also necessarily means that the extent of loss is dependent on variable market conditions which influence the actions of third-party tenants. it is due to the nature of the loss and the circumstances in which it arises that the multi-year model has to rely on parameters which are influenced by variables beyond jp’s control. 181 the fact that the quantum of contractual loss is influenced by variables beyond the contract-breaker’s control does not by itself preclude recovery. it is quite often the case that the extent of a claimant’s loss is beyond the control of a contract-breaker. however, the latter is not at the mercy of the claimant as the claimant has to prove the quantum of loss and that he had taken reasonable steps to mitigate his loss, where applicable. the concept of remoteness also applies. 182 this point is illustrated by the decisions of the high court and the court of appeal in mfm (hc) and mfm (ca) respectively to allow an award for damages in respect of fish & co’s lost profits sustained in the post-breach period, even though such loss was “subject to unknown factors operating in relation to the acts of third parties or other events independent of the defendants’ breaches” (mfm (hc) at [67]) and “numerous factors [could] potentially affect the … reasons for fish & co’s decline in sales” (mfm (ca) at [57]). instead of analysing the recoverability of this head of loss based on the control mfm and dickson had over the quantum of loss fish & co suffered, the high court and the court of appeal applied the principle of remoteness.(4) the multi-year model does not lead to “illogical” or “inequitable” outcomes183 finally, the judge was concerned that the multi-year model could potentially yield illogical and inequitable outcomes (damages judgment (hc) at [122]). as the multi-year model quantified the loss suffered by the plaintiff based on subtracting the net rental revenue earned in the delay scenario (“x”) from the net rental revenue earned in the no-delay scenario (“y”), it was conceptually possible for the difference between the two figures to yield a negative figure (damages judgment (hc) at [121]). he gave two hypotheticals where the (y–x) figure could be negative:(a) the first hypothetical involved a building contractor who caused a one-year delay in the completion of a building, from january 2020 (the contractual completion date) to january 2021 (the actual completion date). in a delay scenario, if the demand for unit space in the building was highly exuberant and the marketing and pricing strategy was attractive to the tenants, stabilised occupancy of 90% could possibly be reached in the very first year of the building’s operation (ie, by the end of 2021). in a no-delay scenario, assuming the marketing and pricing strategy was unattractive to the tenants, the building might take four years to reach stabilised occupancy of 90% in 2024. therefore, the net rental revenue for such a delay scenario would be higher than the net rental revenue in such a no-delay scenario. this would mean that the developer suffered no loss. the judge was of the view that such an outcome “is illogical in principle because it suggests that the contractor is not liable for any loss of net rental revenue” [emphasis in original], when the contractor had undoubtedly caused the developer to suffer a loss of net rental revenue for the year of delay itself (ie, 2020) (damages judgment (hc) at [122]).(b) the second hypothetical involved an industrious property developer who made special efforts during the period of delay to actively promote the building to counteract the impact of the delay, eventually resulting in an even higher occupancy rate and hence higher net rental revenue in the delay scenario. the judge was of the view that “this would penalise the industrious property developer for trying to make the best out of a bad situation”, and was of the view that this outcome “yielded by the [m]ulti-[y]ear [m]odel [would] … run counter to the principle that the innocent party should take all reasonable steps to mitigate its loss” (damages judgment (hc) at [123]).the judge then drew a comparison with the single-year model, which avoided the possibility of illogical and inequitable outcomes because it focused strictly on the loss caused to crescendas in the year of delay, ie, 2010, and would therefore always yield a positive figure (damages judgment (hc) at [127]).184 the judge noted that the facts of this case would yield a positive figure for the difference between (y–x) but took the view that as a matter of principle, the possibility of such illogical and inequitable outcomes undermined the robustness of the multi-year model as a fair and equitable measure of crescendas’ loss of net rental revenue (damages judgment (hc) at [124]).185 we respectfully disagree with the judge that these two hypotheticals show that the multi-year model should not be adopted. the outcomes in these hypotheticals are a result of the application of settled legal principles and are not attributable to any particular defect in the method of quantification employed by the multi-year model. 186 indeed, it is consistent with the compensatory principle not to award damages in the first hypothetical scenario. pursuant to the compensatory principle, damages are meant to place the party who sustains loss by reason of a breach, in the same situation as if the contract had been performed: robinson at 855. in determining whether loss has been suffered, the promisee’s “overall position is taken into account” [emphasis added] (edwin peel, treitel on the law of contract (sweet & maxwell, 15th ed, 2020) (“treitel”) at para 20-006). if it is ascertained that the breach has not affected the promisee’s position, then he cannot claim substantial damages: treitel at para 20-008. hence, treitel at para 20-008 states:… this aspect of the [compensatory] principle is most readily illustrated by the case in which a seller of goods wrongfully fails to deliver on a falling market. if the buyer has not paid and if, at the time fixed for delivery, he can buy substitute goods more cheaply elsewhere, the breach will prima facie have had no adverse effect on him, so that he will not be entitled to substantial damages. similarly, a shipowner cannot get substantial damages for breach of the charterer’s obligation to load if he finds alternative and more profitable employment for the ship. … [emphasis added]187 the potential for loss arises upon the occurrence of the delay in the first hypothetical scenario. but this in itself would not justify compensation. there must be actual loss. if “highly exuberant” demand for unit space following the delay fortuitously enabled the developer to earn more rental revenue overall than if there had been no delay, no actual loss would have been suffered. this outcome, in the judge’s view, is unsatisfactory because the contractor had undoubtedly caused the developer loss in the year of the delay itself. however, as a matter of principle, the court must have regard to both the absence of rent in the first year and the gains in the subsequent years. this is an outcome that flows from the application of the compensatory principle, which requires the claimant’s overall position in the breach and hypothetical no-breach positions to be taken into account, rather than any particular quirk in the multi-year model.188 indeed, the legal position would remain the same even if the single-year model were used. the fallacy in the judge’s approach is that he had assumed that it was correct as a matter of principle to exclude the earnings in the subsequent years just because the single-year model was used. on the contrary, a court would still have to consider the claimant’s overall position, as mentioned above, even for the single-year model. 189 in the second hypothetical scenario, the industrious property developer would not be awarded damages, in the light of the rule that “the aggrieved party who goes beyond what the law requires of it and avoids incurring any loss at all will not be entitled to recover any damages”, as stated by the court of appeal in the “asia star” [2010] 2 slr 1154 at [24]. the judge took the view that this is an inequitable outcome as it penalises the industrious property developer and goes against the principle that the innocent party should take all reasonable steps to mitigate its loss. again, this criticism is more properly directed towards the state of the law as opposed to the multi-year model per se.(5) sub-conclusion190 we therefore conclude that the judge erred in rejecting the multi-year model. the multi-year model should be used.191 two further steps need to be taken to quantify crescendas’ loss of net rental revenue: (a) the application of a discount factor to account for uncertainties in quantification, and (b) the apportionment of loss to reflect jp’s liability. these two issues will be explored in the following sections, which we now turn to.sub-issue 2: ascertaining the applicable discount rate192 in these appeals, the parties agreed with mr toh’s proposed method for discounting crescendas’ net rental revenue loss. this method involves applying an 8% discount rate on a compounded basis to the difference in net rental revenue between the delay and no-delay scenarios for a particular year, before summing up the discounted difference in each year from january 2010 to january 2015. we agree with the parties that this approach should be used, instead of the simple 8% discount rate which the judge applied to the overall difference in net rental revenue from january 2010 to january 2015 (damages judgment (hc) at [308]).sub-issue 3: apportioning the loss to reflect jp’s share of the combined delay193 after computing the total net rental revenue loss under the multi-year model and applying the 8% discount rate, the judge held that the resulting value should be apportioned based on 161 out of 334 days to reflect jp’s liability (damages judgment (hc) at [81]–[82] and [319]). on appeal, both parties agreed that the apportionment should be based on 161 out of 355 days.
+
+                   146
+
+
+
+
+foot note 146
+
+×
+
+
+
+  ac(88) at paras 73–74; rc(88) at para 135.
+
+
+
+194 the 355 days consist of delays attributable to three sources:(a) 161 days of delay for which jp was responsible;(b) 173 days of delay for which crescendas was responsible; and(c) 21 days of delay from the time biopolis 3 was ready for top application and the date on which top was obtained.the 161 days of delay by jp and 173 days of delay by crescendas aggregate to 334 days of combined delay.195 we agree with the parties that the apportionment should be based on 161 out of 355 days. we therefore allow the appeal on this point as well.conclusion on quantification196 drawing all the threads together, the multi-year model should be used. fortunately, as an alternative to the single-year model, the judge had calculated crescendas’ net rental revenue loss based on the multi-year model. the parties agreed with his calculations subject to two adjustments: (a) the application of the discount rate should be on a compounded basis; and (b) the loss should be apportioned based on 161 out of 355 days (the “two adjustments”). furthermore, as we have found (contrary to the judge’s findings) that the combined delay did not cause the loss of petnet as a tenant, there are consequential adjustments to be made. at our request, parties provided calculations for a situation where the multi-year model was applied subject to the two adjustments and an adjustment for the fact that the combined delay did not cause the loss of petnet as a tenant. they agreed that jp would be liable for $4,185,802.60 in this scenario.197 we accept this figure and therefore find that jp is liable for $4,185,802.60 in general damages in respect of crescendas’ net rental revenue loss.issue 4: holding coststhe decision below198 it is not disputed that crescendas had incurred holding costs of $2,340,102.37 as land rent payable to jtc corporation and property tax payable to iras from 23 january 2010 to 12 january 2011 (see damages judgment (hc) at [321]).
+
+                   147
+
+
+
+
+foot note 147
+
+×
+
+
+
+  asof at s/n 7.
+
+
+
+ before the judge, crescendas sought to recover holding costs for a period of 355 days as reliance loss (ie, wasted expenditure) in addition to its claim for loss of net rental revenue as expectation loss.
+
+                   148
+
+
+
+
+foot note 148
+
+×
+
+
+
+  roa vol iv part df at p 288 (pcs at para 251).
+
+
+
+199 the judge held that loss in respect of the holding costs was caused directly by the delay. reliance was placed on the court of appeal’s decision in alvin nicholas nathan v raffles assets (singapore) pte ltd [2016] 2 slr 1056 (“alvin nicholas nathan”). there, the court of appeal held that reliance loss is “the costs and expenses the claimant incurred in reliance on the defendant’s contracted-for performance, but which were wasted because of the breach of contract”. the award for reliance loss is based on “the assumption that were the contract performed, the claimant would have at least fully recovered the costs and expenditure incurred” (alvin nicholas nathan at [24]). on the facts, the judge found that the holding costs incurred by crescendas fell squarely within this description. he found that crescendas had committed to paying annual land rent to jtc corporation in the building agreement for biopolis 3 after the loi was signed. if the delay in completion had not occurred, crescendas would have begun earning rental revenue from january 2010 onwards and any rental revenue which would have been earned from january 2010 would have offset the holding costs incurred by crescendas. however, as a result of the delay, crescendas’ payments in respect of the holding costs were wasted (damages judgment (hc) at [327]).200  the judge also held that the holding costs were not too remote and would have fallen within both limbs of hadley v baxendale, as these costs flowed naturally from the delay, were common industry knowledge, and had been brought to jp’s attention in the course of discussions (damages judgment (hc) at [332]).201 further, the judge found that since crescendas’ claim for expectation loss was for net rental revenue, allowing it to recover the holding costs as reliance loss would not have been a case of double-claiming (damages judgment (hc) at [339]–[340]).202 however, the judge noted that with or without the combined delay, crescendas would have granted rent-free periods to its tenants at the start of their tenancies, so as to allow them to complete the necessary fitting-out works in the rented space (damages judgment (hc) at [206]). he held that holding costs incurred during what would have been the rent-free fitting-out period, set at an average of three months (90 days), should not be claimable by crescendas because they were not wasted expenditure caused by the combined delay (damages judgment (hc) at [341]–[342]).203 as the holding costs of $2,340,102.37 were incurred in respect of a period of 355 days, the judge pro-rated it to $2,201,673.78 to reflect the sum incurred during the 334 days of combined delay. this was further pro-rated to $1,608,408.39 to reflect holding costs incurred during the 244 rent-paying days and leaving out holding costs incurred during the 90-day rent-free period. of the $1,608,408.39, jp was only held liable for $775,310.63 as it was responsible only for 161 days of delay (damages judgment (hc) at [343]–[345]).parties’ cases on appeal204 crescendas challenged the judge’s decision to exclude the holding costs incurred during the rent-free period. crescendas emphasised that awarding damages for the holding costs incurred during the rent-free period would not impinge on the compensatory principle. so long as it would have been able to earn rental revenue equivalent to or in excess of the wasted expenditure over the period of the combined delay, it should be compensated for the full amount of the wasted expenditure. here, as it was undisputed that crescendas would have recovered more than the total holding costs if there had been no combined delay, the full holding costs should be awarded as reliance loss without any allowance made for the rent-free period.
+
+                   149
+
+
+
+
+foot note 149
+
+×
+
+
+
+  ac(87) at paras 115–118; ar(87) at para 80.
+
+
+
+ on the other hand, jp did not challenge the judge’s finding that crescendas was entitled to claim holding costs in addition to its net rental revenue loss, and it agreed with the judge that holding costs incurred during what would have been the 90-day rent-free period should be left out. it submitted that crescendas’ failure to recoup holding costs during this period was not the result of the combined delay but crescendas’ own decision to grant rent-free periods to its tenants.
+
+                   150
+
+
+
+
+foot note 150
+
+×
+
+
+
+  rc(87) at para 79.
+
+
+
+our decision205 we make two preliminary points. first, to avoid double compensation, the law precludes a claimant from recovering gross profits it has lost as a result of the breach, alongside expenditure wasted as a result of the breach. a claimant usually has to elect between the two. otherwise, there would be double compensation. however, double compensation is avoided when the lost profits are claimed on a net basis, in which case the claimant can claim damages for both his wasted expenditure and loss of net profits (smile inc at [52]–[54], citing alvin nicholas nathan at [24]–[25]). this concept can be explained with reference to the illustration given by smile inc at [56]:a hypothetical scenario aptly demonstrates this. in the hypothetical, an entity owns a shop. the cost of the entity’s permanent staff and its rental is $8 per month. for expending the fixed expenses of $8 a month, the entity makes $10 per month in total revenue, thereby earning a monthly net profit of $2. if, due to another entity’s breach (eg, defective works), the entity is unable to open its shop for a month, the entity would still have to expend $8 a month in paying its permanent staff and rental, as such expenses are fixed expenses which do not depend on whether the shop is opened or not. this $8 would be wasted fixed expenditure, as the entity would not be able to generate any revenue while its shop is closed due to the other entity’s defective works. if the entity is only allowed to claim for its loss of net profit in this case, the entity’s claim would be $2, which would not even cover the entity’s wasted fixed expenditure of $8. hence, to ensure that the entity is put in the same position as it would have been but for the breach, the damages due to the entity ought to be $10, being the sum of the entity’s net profits and wasted fixed expenditure. this $10 would be used to offset the entity’s wasted fixed expenditure of $8, leaving the entity with the $2 net profit which it would have earned but for the other entity’s breach.in the above illustration, the gross profit of $10 would have covered the wasted expenditure of $8, leaving a remainder of $2 as net profit. if the entity is allowed to claim both its loss of gross profit of $10 and wasted expenditure of $8, it would be awarded $18 in damages. this would result in over-compensation because the gross profit of $10, when broken down, already includes the wasted expenditure of $8 and a remaining portion consisting of net profit of $2. however, if the entity is allowed to claim its net profit of $2 and its wasted expenditure of $8, there is no overlap between the two heads of damage and the entity is only awarded $10 in damages, which nicely places the entity in a position as if there had been no breach. here, crescendas was not making a claim in respect of gross rental revenue it would have earned and the wasted expenditure in the form of holding costs at the same time.206 secondly, it must be borne in mind that there is a distinction between saying that crescendas would have incurred expenses in respect of holding costs regardless of whether there was a combined delay and saying that crescendas’ expenses in respect of the holding costs would have been wasted regardless of whether there was a combined delay. the former concerns crescendas’ payment of the holding costs. the concept of reliance loss is concerned with the latter situation, viz, crescendas’ ability to recoup the payments it made in respect of holding costs using the gross rental revenue it would have earned. where payments made in respect of holding costs cannot be recouped, crescendas’ expenditure on holding costs would be “wasted” (see alvin nicholas nathan at [24]).207 in our view, bearing in mind the compensatory principle, crescendas is entitled to claim holding costs incurred during the 90-day rent-free period. during the 334 days of combined delay, crescendas was unable to recoup any part of the holding costs incurred because it was unable to carry out its leasing business. had there been no combined delay during this same 334-day period, it was common ground that crescendas would have earned enough gross rental revenue to recoup the holding costs incurred in these 334 days and have excess sums in the form of net rental revenue. in particular, holding costs incurred during the 90-day rent-free period would have been recouped from gross rental revenue earned in the remaining 244 rent-paying days. thus, contrary to the judge’s finding and jp’s argument, the failure to recoup holding costs incurred during the 90-day rent-free period was attributable to the combined delay. accordingly, to place crescendas in a position as if the combined delay did not occur, crescendas should be awarded the gross rental revenue it would have otherwise earned during the 334 days of combined delay. this would be an aggregate of the net rental revenue which would have been earned and the holding costs incurred during these 334 days (inclusive of the 90 rent-free days).208 crescendas had claimed for net rental revenue. when computing this, it had deducted holding costs incurred during the 334 days of combined delay from the gross rental revenue it would have earned during this same period. accordingly, to compensate crescendas in full, holding costs incurred during the 334 days of combined delay, inclusive of the 90-day rent-free periods, must be added back.209 in any event, it must not be forgotten that the judge was of the view that crescendas could in principle claim both the holding costs and net rental revenue loss incurred during the combined delay. in other words, he found that crescendas was entitled to “add back” the holding costs to its net rental revenue. jp did not challenge the judge’s finding. it was only the period for the holding costs to be added back that was in dispute. crescendas claimed 334 days whereas jp agreed with the judge that only 244 days should be added back. however, the underlying premise as to why holding costs had to be added back in the first place was that crescendas had deducted holding costs from gross rental revenue when it claimed net rental revenue, as explained above. thus, it was not open to jp to argue that holding costs incurred during the 90-day rent-free period were not claimable in principle because they would have been wasted in any event. the shoe is on the other foot. since crescendas is entitled in principle to claim holding costs in addition to the net rent, there is no reason to confine it to 244 days instead of 334 days.210 we observe that this issue of whether 244 or 334 days of holding costs could be claimed would have been irrelevant if crescendas had simply claimed gross rental revenue in the first place. there would then have been no need to deduct and then add back the holding costs. 211 it will be appreciated that so far we have discussed whether the holding costs for 334 days or 244 days should be added back to crescendas’ claim in respect of loss sustained during the combined delay. we did pause to consider whether crescendas was also entitled to claim holding costs for the four years after the combined delay. however, since crescendas did not make such a claim, we say no more about it.212 for the above reasons, we overturn the judge’s decision to exclude the holding costs incurred during the 90-day rent-free period. we note that the holding costs of $2,340,102.37 were incurred over 355 days, which consists of 334 days of combined delay as well as 21 days of waiting for the top to be granted. it is common ground that of these 355 days, crescendas can only claim for the amount incurred during the 334 days of combined delay; of these 334 days, only 161 days were attributable to jp. thus, holding costs of $2,340,102.37 have to be apportioned based on 161 out of 355 days. this amounts to $1,061,285.86. we therefore find jp liable for a sum of $1,061,285.86 instead of $775,310.63 as found by the judge.ca 128background213 when the damages judgment (hc) was released on 10 august 2021, there were three outstanding issues before the judge in the suit: (a) the pre-judgment interest in respect of: (a) crescendas’ claim for a refund of the additional preliminaries which the parties had agreed to fix at $2.75m; and (b) jp’s counterclaim of $2.5m for unpaid shared savings (“the shared savings”) which had been allowed (and is not the subject of any appeal);(b) the costs in respect of the first tranche of the trial; and(c) the costs in respect of the second tranche of the trial. 214 after parties filed written submissions, the judge rendered his decision, holding: (a) that pre-judgment interest in respect of crescendas’ claim for the additional preliminaries was to be fixed at 5.33% per annum and to commence on 15 may 2015 (ie, the date of the writ); (b) that pre-judgment interest in respect of jp’s counterclaim for the shared savings was to be fixed at 5.33% per annum, to commence on 15 may 2015 (ie, the date of the writ); (c) that costs in the first tranche were to be awarded to jp at 70% as it had substantially succeeded in the first tranche; (d) that costs in the second tranche were to be awarded to jp at 80% as crescendas’ claims had been “extremely excessive and it [was] remote”. 215 on 22 december 2021, crescendas filed ca 128 appealing against the judge’s decision in respect of the following: (a) his finding that the pre-judgment interest in respect of the shared savings was to commence from the date of crescendas’ writ, as well as (b) the costs awarded to jp for both the first and second tranches of the trial. following the oral hearing on 28 july 2022, we indicated to parties that we would adjourn our decision on the latter pending the outcome of ca 87 and ca 88.our decision on the pre-judgment interest in respect of the shared savings 216 crescendas argued that the date from which pre-judgment interest in respect of the shared savings should run ought to be the date of jp’s counterclaim (ie, 20 november 2015), instead of the date of crescendas’ writ (ie, 15 may 2015).
+
+                   151
+
+
+
+
+foot note 151
+
+×
+
+
+
+  ac(128) at para 10.
+
+
+
+217 first, crescendas argued that the court must have found that there had been an inordinate delay on the part of jp in commencing proceedings as the court had placed the operative date at the date of the writ rather than the date when the shared savings should have been paid, which was earlier than the date of the writ.
+
+                   152
+
+
+
+
+foot note 152
+
+×
+
+
+
+  ac(128) at para 11. 
+
+
+
+ secondly, as jp had only pursued the shared savings in its counterclaim, there was no serious or real intention to recover the monies and there was therefore no loss of use of the counterclaimed monies for the period before its counterclaim was filed.
+
+                   153
+
+
+
+
+foot note 153
+
+×
+
+
+
+  ac(128) at paras 13–16.
+
+
+
+218 in response, jp argued that costs and interest are ultimately in the discretion of the judge, and that an appellate court should not interfere with the judge’s exercise of discretion, unless the decision below was manifestly wrong or was exercised on wrong principles. further, jp submitted that crescendas was incorrect in arguing that pre-judgment interest for the shared savings should run from 20 november 2015 (the date of the counterclaim) for two reasons. first, crescendas’ submission disregarded the fact that the shared savings should have been paid to jp from as early as 12 december 2013, and payment of the same was wrongfully withheld by crescendas since then. in this connection, jp asserted that the judge had been fair to have ordered the pre-judgment interest to run from 15 may 2015 rather than from an earlier time.
+
+                   154
+
+
+
+
+foot note 154
+
+×
+
+
+
+  rc(128) at para 13.
+
+
+
+ second, jp had only filed its counterclaim in november 2015 as it was taking steps in earnest to avoid litigation given the various claims and counterclaims involved.
+
+                   155
+
+
+
+
+foot note 155
+
+×
+
+
+
+  rc(128) at para 12.
+
+
+
+219 in our view, the judge’s decision to commence the pre-judgment interest from the date of the writ was neither plainly wrong nor unprincipled since the shared savings should have been paid even before the writ was filed. first, crescendas did not dispute the fact that while the writ was filed on 15 may 2015, it was only served on jp on 4 september 2015. this meant that jp’s counterclaim was filed about two months after it was notified of the suit. second, under s 12(1) of the civil law act 1909 (2020 rev ed), the court has a wide discretion to grant interest for any part of the period between the date when the cause of action arose and the date of the judgment. in robertson quay at [100]–[103] the court of appeal held that, in general, interest awarded should run from the date of accrual of loss, although where there was an unjustifiable delay on the part of the claimant to bring his action the court may choose to award interest from a later date. on the facts, the judge could have justifiably ordered the interest to run from the date the debt arose (ie, 12 december 2013).220 accordingly, we dismiss crescendas’ appeal in ca 128 as regards the pre-judgment interest on the shared savings.conclusion221 as discussed, we allow ca 87 in part, in so far as the use of the multi-year model (subject to the two adjustments), the issue of remoteness and holding costs are concerned. we also allow ca 88 in part, on the point that the combined delay did not cause the loss of petnet as a tenant. accordingly, we allow crescendas’ claim for net rental revenue loss assessed at $4,185,802.60, instead of $1,789,398.82 as held by the judge. we also allow crescendas to claim $1,061,285.86 in holding costs from jp instead of $775,310.63 as awarded by the judge. parties have challenged some aspects of the judge’s application of the single-year model in ca 87 and ca 88, but it is unnecessary to deal with these issues since we have decided against using the single-year model.222 we dismiss ca 128 in so far as the issue of pre-judgment interest is concerned. for the avoidance of doubt, we set aside the costs orders of the judge in respect of the first and second tranches of the trial in the light of our substantive decisions mentioned at [221] above. therefore, the remaining issue in ca 128 concerning such costs has become academic as an appeal.223 we will address the question of costs separately. parties are to agree on the costs of the appeals and of the trial, failing which they are to file and serve their written submissions on costs within 14 days after the date of this decision, limited to 15 pages each, excluding the cover page.224 to assist parties, it must be obvious that crescendas is the main successful party both for the appeals before us and the trial below. if parties cannot agree on the quantum for the latter, their submissions on costs should also address the question as to whether such costs should be determined by the judge or this court.225 consequential orders in respect of security for costs will be made after the issue of costs is addressed.woo bih lijudge of the appellate divisionhoo sheau pengjudge of the high courtquentin lohsenior judgekaram singh parmar and leong lijie (tan kok quan partnership) for crescendas bionics pte ltd, the appellant in ad/ca 87/2021 and ad/ca 128/2021 and the respondent in ad/ca 88/2021;koh kia jeng, lau wen jin and alexander choo wei wen (dentons rodyk & davidson llp) for jurong primewide pte ltd, the respondent in ad/ca 87/2021 and ad/ca 128/2021 and the appellant in ad/ca 88/2021.

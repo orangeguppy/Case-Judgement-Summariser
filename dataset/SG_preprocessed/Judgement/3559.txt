@@ -1,0 +1,899 @@
+in the court of appeal of the republic of singapore[2019] sgca 78civil appeal no 115 of 2018 between(1)liew kit fah(2)liew chiew woon(3)pang kok lian(4)soh kim seng(5)soh soon jooh(6)poh teck chuan… appellants and(1)koh keng chew(2)koh oon bin(3)koh hoon lye… respondents judgment [companies] — [oppression] — [minority shareholders]this judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.liew kit fah and others vkoh keng chew and others [2019] sgca 78court of appeal — civil appeal no 115 of 2018 steven chong ja, belinda ang saw ean j and quentin loh j5 july 201927 november 2019 judgment reserved.steven chong ja (delivering the judgment of the majority consisting of quentin loh j and himself):introduction1 section 216 of the companies act (cap 50, 2006 rev ed) (“companies act”) provides a statutory remedy for an oppressed minority shareholder to exit from the company in question. one of the most common remedies ordered by the court pursuant to its powers under s 216(2), where a case of minority oppression has been established, is for the delinquent majority shareholder to buy out the oppressed minority shareholder. 2 less common, although not unheard of, is where parties agree to dispense with the issue of liability for oppression on condition that the majority shareholder makes no admission of liability, and proceed instead on the question of valuation of the subject shares. when this happens, there has been some suggestion in the authorities that the court’s powers under s 216(2) of the companies act are not engaged. however, for such cases, it is typically agreed between the parties that the majority will buy out the minority leaving only the question of valuation to be contested. this appeal concerns an atypical situation. while the minority agreed to dispense with the oppression suit and to part company with the majority, both parties wanted to buy out the other. under these circumstances, the parties agreed to contest the buy-out issue both as regards the valuation of the shares as well as to decide on the party to buy out the other. 3 this appeal thus gives us occasion to consider the principles that apply in valuing the subject shares in the event when the court’s powers under s 216(2) are not engaged. in particular, in the absence of a finding or admission of liability for minority oppression, if the parties agree that there has been a breakdown of the relationship of mutual trust and confidence between the shareholders, and that a parting of ways is inevitable, will a minority shareholder, irrespective whether he agrees to sell out or is ordered to sell out,  be treated nonetheless as an unwilling seller of his shares such that the value of those shares should ordinarily not be discounted for lack of control and lack of marketability?  4 in the decision from which this appeal arises, the high court judge (“the judge”) directed an independent valuer appointed by the parties not to apply a discount for the lack of control and lack of marketability in valuing the shares of the respondents in various companies. the judge’s grounds of decision are set out in koh keng chew and others v liew kit fah and others [2018] sghc 262 (“the gd”).
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  acb i tab 1.
+
+
+
+facts the parties 5 the respondents hold 28.125% of the shares in the 7th to 16th defendants (the “samwoh group”) in suit no 125 of 2014 (“suit 125”); the appellants collectively hold the remaining 71.875%. suit 125 is the respondents’ action, under s 216 of the companies act, against the appellants and the samwoh group for minority oppression.background to the dispute6 suit 125 was compromised shortly before the commencement of the trial. it was common ground that the relationship of mutual trust and confidence between the parties had broken down, and that a parting of ways was inevitable.
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  gd at [23].
+
+
+
+ although the parties agreed to part company, they were unable to agree as to who should buy out whom. both the respondents and the appellants wanted to buy out the other party. under these circumstances, on 17 february 2016, the parties recorded a consent order (the “consent order”) in which they agreed that the remaining issues to be determined by the court were as follows:
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  acb ii tab 3.
+
+
+
+(a) without admission of liability by the appellants in respect of any alleged acts of oppression committed against the respondents in relation to the affairs of the samwoh group, the court is to order either that:(i) the appellants purchase the respondents’ shares in the samwoh group, or(ii) the respondents purchase the appellants’ shares in the samwoh group;(the “buyout issue”)at a price to be determined by an independent valuer who shall be appointed by parties’ mutual agreement, or failing such agreement, by the court;(b) failing an agreement between the parties, the reference date for such independent valuation shall be determined by the court;(c) failing an agreement between the parties, the costs arising from and in relation to the independent valuation shall be determined by the court; (d) the court shall determine the appointment of the independent valuer, the reference date for the independent valuation and the costs arising from and in relation to the independent valuation in the event that the parties are unable to agree on these matters within 30 days of the date of the order of court in respect of the buyout issue;(e) parties be granted liberty to apply; and(f) costs of the action to be provided for.7 thus, by consent, the parties agreed that there was no need to explore the issue of liability for oppression at the trial. the court below only had to concern itself with the buyout issue. significantly, this issue was to be determined without admission of liability by the appellants in respect of any of the alleged acts of oppression complained of. 8 on 29 july 2016, the learned judicial commissioner (as he then was) delivered his judgment ordering the appellants to buy out the respondents (the “buyout order”): see koh keng chew and others v liew kit fah and others [2016] sghc 140 (“koh keng chew (no 1)”).
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  aboa i tab 16.
+
+
+
+ subsequently, the parties agreed on and appointed the independent valuer to determine the price of the respondents’ shares. the parties could not agree, however, on various issues, including the reference date for the valuation of those shares. on 23 january 2017, the judge gave certain directions as to the reference date for the valuation as well as its process, and decided against a reasoned valuation: see koh keng chew and others v liew kit fah and others [2018] 3 slr 312 (“koh keng chew (no 2)”).
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  aboa i tab 17.
+
+
+
+9 the genesis of this appeal lies in what transpired after koh keng chew (no 1) and koh keng chew (no 2). the appellants’ position is that for the purchase of the respondents’ shareholding pursuant to the buyout order, that shareholding ought to be discounted for two reasons:(a) the shares lack control because they are minority shares; and/or(b) the shares lack marketability because, being shares in privately held companies, they are subject to share transfer restrictions.10 the respondents disagreed. the valuer thus requested the parties to obtain the court’s directions as to whether any of the discounts should be applied to his valuation of the respondents’ shares in the samwoh group.
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  gd at [3].
+
+
+
+ on 5 july 2018, the judge, after considering the parties’ respective written submissions, directed that the value of the respondents’ shares was not to be discounted for either of the above reasons.
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  gd at [4].
+
+
+
+ following this decision, the independent valuer, on 3 august 2018, issued its report valuing the respondents’ shareholding at about $66m, which was a pro-rated value of the samwoh group based on the respondents’ shareholding without the application of any discount. on 10 september 2018, the appellants bought out the respondents at that value.
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  appellants’ case at [11].
+
+
+
+ civil appeal no 115 of 2018 is the appellants’ appeal against the judge’s direction to the independent valuer that the relevant discounts ought not to be applied in valuing the respondents’ shares.the parties’ arguments the appellants’ submissions11 the appellants make two principal submissions in this appeal:
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  appellants’ case at [14].
+
+
+
+ (a) first, they submit that the judge erred in holding that the buyout order was made under s 216(2) of the companies act. the power to grant relief for oppression under s 216(2) is enlivened only on a finding of oppression; the judge made no such finding. instead, the buyout order was based on an agreed sale between the parties under the consent order. accordingly, the shares ought to have been valued based on their fair market value, as would be the case in a sale between a willing seller and a willing buyer. this means that the relevant discounts ought to have applied in the valuation of the respondents’ shares in the samwoh group.(b) second, even if the judge is correct in holding that the buyout order was made under s 216(2), the appellants submit that a discount on the basis of both lack of control and lack of marketability ought, nonetheless, to apply. (i) beginning with a discount for lack of control, the appellants submit that there is no applicable presumption as to whether a discount ought to apply as a starting point. this is because the judge did not find that the shareholders of the samwoh group were in a quasi-partnership.
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  appellants’ case at [64].
+
+
+
+ further, the parties had agreed that suit 125 was to proceed on the basis that the appellants would make no admission of liability for minority oppression. the judge thus made no finding on liability. consequently, although a discount for lack of control is often not applied where the majority’s oppressive conduct is directed at worsening the position of the minority as shareholders, there was no such finding by the judge here to warrant such an approach.
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  appellants’ case at [67].
+
+
+
+ in any event, by virtue of the consent order, the parties had fundamentally agreed that there should be a buyout order, even if they disagree as to who should buy out whom. this is sufficient to render the sale of the respondents’ shares akin to a transaction entered into on a willing buyer-willing seller basis, which accordingly justifies the application of the discount for lack of control.
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  appellants’ case at [70].
+
+
+
+ (ii) as to the discount for lack of marketability, the judge ought to have ordered that it applied because the respondents’ shares, being shares in a private company, are an illiquid asset subject to transfer restrictions.
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  appellants’ case at [75(b)].
+
+
+
+ additionally, since there was no finding on liability for oppression, it follows that there is no unfairness to the respondents that needs to be remedied. accordingly, the discount should not have been disapplied.
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  appellants’ case at [75(c)].
+
+
+
+the respondents’ submissions12 the respondents make the following submissions:(a) the appellants’ first submission is a new argument on appeal that should not be allowed.
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  respondents’ case at [6], [39]–[77].
+
+
+
+ the appellants had not raised this argument before the judge, with the result that the court is now deprived of any findings or reasoning of the judge on this point.
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  respondents’ case at [7].
+
+
+
+(b) if, however, the appellants are permitted to pursue the first submission, the judge’s decision that the relevant discounts ought not to apply would be premised on the consent order. that being so, the judge’s decision would be non-appealable, as it would have been made extra cursum curiae (ie, outside the practice of the court),
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  respondents’ case at [80].
+
+
+
+ or alternatively, persona designata (ie, by a person designated by the parties).
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+  respondents’ case at [89].
+
+
+
+(c) further and/or alternatively, the judge’s decision would have been rendered ex aequo et bono (ie, from equity and conscience), and as a result, the judge cannot be said to have erred in his application of the law. the appellants can only challenge the decision on the footing that the judge exceeded the terms of the consent order.
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+  respondents’ case at [95]–[96].
+
+
+
+ (d) in any event, the discounts ought not to apply because the consent order does not record an agreed sale between the parties. the consent order only records the agreement between the parties that the trial shall proceed with the view to determining the buyout issue (see [7] above). parties could not agree on who was to buy out whom, and the buyout order is therefore still a compelled sale that cannot be likened to a sale between a willing seller and willing buyer. this accordingly weighs against applying the relevant discounts, as it would be unfair for the respondents to be bought out on the fictional basis of a voluntary sale.
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+  respondents’ case at [110]–[147].
+
+
+
+issues to be determined 13 from the parties’ submissions, the following issues arise in this appeal:(a) whether the buyout order was made pursuant to the court’s powers under s 216(2) of the companies act (“issue 1”).(b) whether the terms of the consent order rendered the sale of the respondents’ shares in the samwoh group to the appellants akin to a sale between a willing seller and a willing buyer (“issue 2”).(c) whether discounts for lack of control and lack of marketability ought to be applied to the valuation of the respondents’ shares in the samwoh group (“issue 3”).issue 1: the buyout order14 at the hearing on 5 july 2019, we expressed our view that the appellants’ first submission (see [11(a)] above) is not a new point on appeal. it was raised below in the appellants’ written submissions that the buyout order “was made on the basis of the agreement that the parties had reached by way of the consent order dated 17 february 2016” instead of under s 216(2) of the companies act.
+
+                   21
+
+
+
+
+foot note 21
+
+×
+
+
+
+  appellants’ case at [34].
+
+
+
+ further, it seems to us that the argument arises as a direct consequence of the decision appealed against. finally, there is no absolute bar against new arguments being raised on appeal. an appellate court will generally be open to consider new arguments where these involve questions of law that can be answered without further evidence: abhilash s/o kunchian krishnan v yeo hock huat and another [2019] 1 slr 873 (“abhilash”) at [42]. 15 it is evident, from the outset, that the judge had treated the entire exercise as one that had engaged the court’s powers under s 216(2) of the companies act. this can be seen from his analysis in koh keng chew (no 1). on that occasion, it should be recalled that the respondents in seeking to persuade the judge that a minority buyout order is not an exceptional remedy, had relied on the opinion of fitzgerald ja in fexuto pty ltd v bosnjak holdings pty ltd and others [2001] nswca 97 at [705] to the effect that “[m]ajorities should not be encouraged to think that oppression is unlikely to have any more adverse consequences than an obligation to purchase the oppressed minority’s shares”.
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+  aboa i tab 16 at [115].
+
+
+
+ at [116], the judge stated in response that:the caution in fitzgerald ja’s opinion is a valid one. however, in my respectful opinion, that has to be balanced against, and greater weight given to, the intent of a s 216 remedy and the expropriatory nature of a minority buyout order. a s 216 remedy is not meant to punish the majority shareholder for his misconduct by dispossessing him of his shares. [emphasis added]      16 hence, when the judge was called on to determine whether the relevant discounts ought to apply in this case, he likewise proceeded on the basis that the powers granted to him under s 216(2) of the companies act had been invoked. this is evident when he began his analysis of the law, stating that if a disillusioned minority shareholder “can establish one or more of the grounds set out in s 216(1) of the [companies] act, then the remedies under s 216(2) are available to him” (gd at [7]). he then referred to the court’s powers under s 216(2) to “make such order as it thinks fit” with a view to bringing to an end or remedying the matters complained of (at [7]). one such order, the judge noted, is “a buyout order under which the delinquent shareholder … may be ordered to purchase the innocent shareholder’s shares” (at [8]). in making such a buyout order, “the court has a wide and unfettered discretion to reach a just and equitable result” especially “[w]ith respect to the price of the shares” that are to be bought out (at [9]). in this regard, the judge stated that “where a buyout order has been made under s 216(2), fixing the price for the shares pro rata, according to the value of all the shares in the company as a whole, is generally fair” (at [11]). the judge provided two key reasons. first, the buyout order is the only way for “the innocent shareholder [to] exit from his investment in the company”, and thus, “[i]t is only fair that in exiting his investment in the company, he should recover the full value of his interest in the company” (at [11]). second, a discount for lack of control reflects the realities of a freely negotiated transaction between a willing seller and a willing buyer, but “a buyout order under s 216(2) is an exercise of the coercive power of the court” (at [12]). it is clear to us, from these parts of the judge’s reasoning, that he had proceeded on the basis that he was exercising his powers under s 216(2) of the companies act. indeed, the judge himself concluded that the buyout order he had made “was an order made in the exercise of the court’s coercive power pursuant to s 216(2)” (at [26]).17 from this premise, the judge inevitably viewed the sale of the respondents’ shares to the appellants as a compelled sale akin to the usual sale pursuant to a court-ordered buyout of shares under s 216(2). it drew him into a discourse involving an innocent minority-delinquent majority binary. thus, he considered, in such a context, that it “would be inconsistent with the purpose of the buyout order” if a court were to apply a discount to the value of the minority shareholding, as it “gives the delinquent shareholder a reward which he does not deserve” (at [14]). the court’s powers under s 216(2) of the companies act18 in our judgment, and with respect, the judge fell into error the moment he considered that he was exercising the powers conferred under s 216(2) of the companies act in the circumstances of the present case. in order to appreciate the court’s powers under s 216(2), the starting point must be the express language of the relevant statutory provisions:personal remedies in cases of oppression or injustice216.—(1) any member … of a company … may apply to the court for an order under this section on the ground —(a) that the affairs of the company are being conducted or the powers of the directors are being exercised in a manner oppressive to one or more of the members or holders of debentures including himself or in disregard of his or their interests as members, shareholders or holders of debentures of the company; or(b) that some act of the company has been done or is threatened or that some resolution of the members, holders of debentures or any class of them has been passed or is proposed which unfairly discriminates against or is otherwise prejudicial to one or more of the members or holders of debentures (including himself).(2) if on such application the court is of the opinion that either of such grounds is established the court may, with a view to bringing to an end or remedying the matters complained of, make such order as it thinks fit and, without prejudice to the generality of the foregoing, the order may —…(d) provide for the purchase of the shares or debentures of the company by other members or holders of debentures of the company or by the company itself…[emphasis added in bold italics]19 the phrase “either of such grounds” under s 216(2) refers to the grounds listed under s 216(1), ie, the ground of oppression under sub-paragraph (a) and the ground of unfair discrimination under sub-paragraph (b). the court may order a buyout of shares under s 216(2)(d), but that is only upon the court being satisfied that either s 216(1)(a) or s 216(1)(b) is established. see hoban steven maurice dixon and another v scanlon graeme john and others [2005] 2 slr(r) 632 (“hoban”)
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+  aboa i tab 11.
+
+
+
+ at [12] for this analysis of the provisions, which was not disturbed on appeal, and which was followed in abhilash s/o kunchian krishnan v yeo hock huat and another [2018] sghc 107 (“abhilash”) at [13]. 20 it is clear, therefore, that the court’s powers under s 216(2) are only enlivened where the court is satisfied that minority oppression under s 216(1) has been established. the correctness of this view is further buttressed by the fact that the court’s order under s 216(2) is to be made “with a view to bringing to an end or remedying the matters complained of”. there is, however, no complaint to bring to an end or remedy if the court is not satisfied, in the first place, that a case of minority oppression under s 216(1) has been established.application to the facts21 a key feature of the instant case is the consent order under which the parties agreed to dispense with the trial of suit 125 for the purpose of ascertaining the appellants’ liability for minority oppression. in fact, that consent order recorded the parties’ agreement that suit 125 would proceed without the appellants admitting to liability for minority oppression. consequently, the judge never made any finding in this regard. in the circumstances, there would be no proper legal basis to invoke the court’s powers under s 216(2).22 moreover, it is significant that the trial of the remaining issues in suit 125 took place after the consent order was recorded. by its terms, the parties agreed that there would be a court-ordered buyout of shares, come what may, without any admission of liability for minority oppression. the only dispute, apart from valuation, was to determine the identities of the buyer and the seller under such a buyout. in the event, the oppression action, which was initially commenced for the purpose of seeking the remedy of a buyout in order to put an end to the matters the respondents complained of, became spent the moment the consent order was recorded on those terms.  23 in the gd, the judge recorded the parties’ agreement that the buyout order was to be made on the basis that the court’s powers under s 216(2) were invoked (at [25]). however, the mere fact that the parties had so agreed does not change the fact that no finding of oppression was made and hence, no buy-out order can be validly made under s 216(2). 24 it is relevant to highlight that, notwithstanding the respondents’ decision not to pursue the oppression grounds to secure a buy-out order, the respondents had, in fact, largely relied on the same alleged oppressive acts to demonstrate misconduct on the part of the appellants for the purpose of determining whether the appellants, as the majority shareholders, were unfit to manage the affairs of the samwoh group such that they ought to be bought out by the minority, an admittedly exceptional remedy. viewed in this context and in the light of the express statutory requirement, when the parties agreed that the “principles on when minority buy-out order would be made will be those under s216” [emphasis added],
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+  minute sheet in hc/s 125/2014 dated 16 february 2016 p 2.
+
+
+
+ what they meant was that the principles on minority oppression can be used as a proxy to determine whether the appellants, as the majority shareholders, should be bought out by the respondents, the minority shareholders. it appears that the parties, including the appellants, had agreed that those principles are relevant in assisting the court to decide who should buy out whom in the present case. that the parties had chosen to refer to principles laid down in the cases on minority oppression as a framework for the judge’s analysis does not change the fact that the decision in koh keng chew (no 1) did not turn on a finding of minority oppression under s 216(1). that parties agreed to have reference to those principles does not, and indeed cannot, change the legal position that absent a finding of oppression, the court cannot make any buy-out order under s 216(2). in other words, the mere fact that the parties had agreed to adopt the principles governing s 216(2) did not permit the judge to examine the case on an innocent minority-delinquent majority premise as he did. indeed, the source of the court’s jurisdiction to determine the buyout issue, in the absence of any oppression finding, emanates from the consent order.25 accordingly, we disagree with the respondents’ submissions that the judge’s decision below was made extra cursum curiae (ie, outside the practice of the court), or alternatively, that it was made persona designata (ie, by a person designated by the parties). 26 where, at the request of the parties, a judge decides a question outside the regular course of judicial proceedings (ie, extra cursum curiae) no appeal lies (burgess v morton [1896] ac 136 (“burgess”)); nor does an appeal lie from an administrative decision (hoare & co v moreshead [1903] 2 kb 359): singapore civil procedure 2019: vol 1 (chua lee ming, gen ed) (sweet & maxwell, 2018) at para 57/1/22. the doctrine of extra cursum curiae is rarely discussed. the principle behind it however, is that where parties by consent invite a court to decide an exceptional matter that severely departs from the court’s regular procedure, they will be taken to have excluded review of that decision by another tribunal: henry peter pisani v her majesty’s attorney-general for gibraltar and others (1974) lr 5 pc 516 at 522. thus, the parties in burgess
+25
+
+
+
+
+foot note 25
+
+×
+
+
+
+  rboa tab 2.
+
+
+
+ had used the special case procedure (a procedure properly meant for decisions on questions of law when parties are practically agreed upon the facts) to submit what was essentially a question of fact to the divisional court for decision. the house of lords reversed the court of appeal’s decision to allow the appeal from the divisional court’s decision, reasoning that the court of appeal had no jurisdiction to entertain an appeal from a decision rendered extra cursum curiae: at 145.  27 in the present case, there is no question of the court undertaking “an exceptional matter that severely departs from the court’s regular procedure”. the genesis of this appeal began with an oppression petition brought by the respondents themselves. although parties compromised on the issue of liability for oppression, the trial nonetheless proceeded for the court to decide the buyout issue. the judge heard evidence, considered the parties’ submissions and certainly did not regard any part of his decisions as not subject to appeal. there is also no suggestion that any of the parties intended for the judge’s decision on the buyout issue to be final and that they will waive all rights of appeal against it. in fact, the respondents themselves filed a notice of appeal against the decision in koh keng chew (no 1),
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+  appellants’ reply at [18].
+
+
+
+ although this was subsequently withdrawn. for very much the same reasons, we also disagree that the judge’s decision was made persona designata. 28 finally, we disagree with the respondents’ submission that the judge’s decision was made ex aequo et bono. as we found at [24] above, the parties agreed that the principles on minority oppression can be used as a proxy to determine whether the appellants should be bought out by the respondents. it was on that footing that the judge, in our view, erroneously proceeded to view the case from the innocent minority-delinquent majority premise to arrive at his decision. those principles therefore supplied the legal framework for the judge’s decision, which decision cannot then be said to have been rendered ex aequo et bono.     issue 2: the effect of the consent order 29 as evident from the decision below as well as the parties’ submissions before us, whether the relevant discounts ought to apply largely turns on the question whether the respondents can be treated as willing sellers of their shares in the samwoh group. essentially, the appellants submit that the respondents are willing sellers, or, at least, ought to be treated as akin to willing sellers. this is because the parties had entered into the consent order without any admission of liability for the alleged acts of oppression on the part of the appellants, and consequently, the judge did not make any finding on the liability question. as against this, the respondents align themselves with the judge’s reasoning that whichever way the decision on the buyout issue went, the sellers would not be treated as willing sellers, since each side wanted to buy the other out (see gd at [26]). indeed, it was because parties could not agree on who was to buy out whom that the matter was brought before the court to be resolved. 30 at the outset, it is important to stress that in examining whether a seller of shares should be treated as a willing or unwilling seller, the relevant inquiry is not to simply examine whether, given a choice, that shareholder would prefer to be a buyer instead of a seller. in other words, the mere fact that a shareholder would prefer to be the buyer does not, per se, render him to be an unwilling seller should the court decide otherwise. instead, the authorities suggest that a shareholder should only be regarded as an unwilling seller if his minority interests have been unfairly prejudiced by the conduct of the majority thereby making it no longer tolerable for him to retain his interest in the company. this is borne out by the oft-quoted passage from in re bird precision bellows ltd [1984] ch 419 at 430, per nourse j, cited by oliver lj on appeal:i would expect that in a majority of cases where purchase orders are made under section 75 in relation to quasi-partnerships the vendor is unwilling in the sense that the sale has been forced upon him. usually he will be a minority shareholder whose interests have been unfairly prejudiced by the manner in which the affairs of the company have been conducted by the majority. on the assumption that the unfair prejudice has made it no longer tolerable for him to retain his interest in the company, a sale of his shares will invariably be his only practical way out short of a winding up. in that kind of case it seems to me that it would not merely not be fair, but most unfair, that he should be bought out on the fictional basis applicable to a free election to sell his shares in accordance with the company’s articles of association, or indeed on any other basis which involved a discounted price. in my judgment the correct course would be to fix the price pro rata according to the value of the shares as a whole and without any discount, as being the only fair method of compensating an unwilling vendor of the equivalent of a partnership share … [emphasis added]       31 it seems from this passage that the element of unwillingness or involuntariness is an aspect that stems from the unfair prejudice suffered by the minority shareholder, who is almost invariably the eventual seller of the shares under a court-ordered buyout. thus, in re a company (no 006834 of 1988), ex parte kremer [1989] bclc 365 at 369, hoffmann j commented on nourse j’s decision in in re bird precision bellows ltd as follows:… the principal ground on which nourse j decided that no discount was appropriate was that the petitioner was an involuntary seller. he had been driven to sell his shares by the unfairly prejudicial conduct of the respondent. of course, it is true that in most ordinary cases of breakdown of the relationship the petitioner is an involuntary seller, in the sense that he would rather it had not broken down … [emphasis added]32 similarly, in cvc/opportunity equity partners ltd and another v demarco almeida [2002] 2 bclc 108 (“cvc”) at [40],
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+  aboa i tab 9.
+
+
+
+ lord millett observed that the oppressed minority shareholder in that case “is not desirous of disposing of his shares; he would rather keep them and continue to participate in the management of the company”. it is “[the majority shareholder’s] conduct in excluding him from management that has driven him, however reluctantly, to seek to realise the value of his investment”. in those circumstances:[t]o require [the oppressed minority shareholder] to submit not only to his exclusion from the company but to the acquisition of his shares at less than their going concern value by a purchaser which intends to carry on the business is hardly less unfair. 33 thus, the authorities have consistently adopted the position that the unwillingness or involuntariness of a seller in this context stems from the unfair prejudice suffered by the minority shareholder. it further bears mention that this principle applies whether or not the company concerned is a quasi-partnership: thio syn kym wendy and others v thio syn pyn and another [2018] sghc 54 (“thio syn kym (hc)”)
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+  aboa ii tab 27.
+
+
+
+ at [29], affirmed on appeal in thio syn pyn v thio syn kym wendy and others and another appeal [2019] 1 slr 1065 (“thio syn kym (ca)”)
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+  rboa tab 15.
+
+
+
+ at [17]. where, eventually, a court orders the shares of the oppressed minority shareholder to be bought out, he is rightly treated as an unwilling seller of his shares because, but for the unfair prejudice suffered which makes it no longer tolerable for him to remain in the company, he would have much preferred to continue participating in the affairs of the business. 34 in our judgment, it is thus clear that whether a party should be treated as an unwilling seller is not a question to be answered by examining whether the sale was willingly entered into without any complaint whatsoever by the affected party. instead, the relevant inquiry in the context of a consent order is whether the party, who the court eventually decides will be the seller, is able to establish any proven misconduct on the part of the other party in relation to the affairs of the company, which misconduct makes it no longer tolerable for the seller to continue on in business as a fellow shareholder. if so, a seller under such circumstances can legitimately be classified as an unwilling seller. conversely, a court-ordered buyout of shares that is made in the absence of a finding of minority oppression is not, in and of itself, a sufficient basis for regarding the seller as an unwilling seller of shares. it remains relevant to examine how the buy-out issue came to be decided by the court under such circumstances.application to the facts35 against those principles, it is plain to us that the sale of the respondents’ shares to the appellants under the buyout order should be treated as a transaction akin to one between a willing seller and a willing buyer. to the extent that the judge did not view it in those terms, we respectfully hold that he had erred. 36 the judge’s conclusion that the sale under the buyout order was not akin to a transaction on a voluntary basis was predicated on his view that he was exercising the powers under s 216(2) of the companies act. this is plain when he considered that, although a discount for lack of control reflects the realities of a freely negotiated transaction between a willing seller and a willing buyer, “a buyout order under s 216(2) is an exercise of the coercive power of the court” (gd at [12]). the judge reiterated this point when he concluded (gd at [26]) that the buyout order he had made “was an order made in the exercise of the court’s coercive power pursuant to s 216(2)”, and that accordingly, the sale of the respondents’ shares was not akin to a freely negotiated commercial transaction that warranted the application of the relevant discounts.37 it appears that the judge also arrived at his conclusion that the sale was effectively compelled by a court order because“[e]ach side wanted to buy out the other” (gd at [24]). consequently, “whichever way [he] decided [on the buyout issue], it was clear that the selling parties would not be willing sellers” (gd at [26]). 38 the respondents submit that despite the consent order, the sale of their shares to the appellants is not an agreed sale, for the reasons given by the judge. they point out, that unlike the consent orders in hoban and abhilash, the parties had not agreed that one side was to buy out the other. instead in those cases, which likewise started off as minority oppression suits under s 216, the parties had compromised on the issue of liability and had recorded consent orders to the effect that the majority shareholder would buy out the minority shareholder: see hoban at [5] and abhilash at [2]. the trials in those cases therefore were only for the purpose of determining the price to be paid for the minority’s shares. the consent order in the present case was different, as each side wanted to buy out the other, and the parties who were ordered to sell would necessarily be unwilling sellers.39 in our judgment, this submission fails. it merely highlights a distinction which has no legal bearing to the analysis. as we have concluded at [33] above from our examination of the authorities, the unwillingness or involuntariness of a seller in the context of a court-ordered buy-out of his shares stems from the unfair prejudice suffered by the minority shareholder. it is that unfair prejudice that makes it no longer tolerable for him to continue in business as a fellow shareholder of the oppressing majority. if it were otherwise, the minority shareholder would have much preferred to stay on in business instead of disposing of his shares. but the unfair prejudice he suffers compels him to dispose of those shares; it is through the court and s 216 of the companies act that he is able to do so. the fact that a selling shareholder may be subject to a court-ordered buyout on terms he does not like has no bearing on the question whether he ought to be treated as akin to a willing seller. thus, although each party wanted to buy out the other in the present case, this fact is irrelevant for the purpose of ascertaining whether the respondents are akin to willing sellers of their shares under the buyout order. by entering into the consent order and dispensing with the need for the court to make any finding on the alleged oppressive acts, the respondents had, in effect, agreed that they were no longer willing to remain as shareholders with the majority. in other words, the parting of ways, either through the sale of the respondents’ shares to the appellants or vice versa, was inevitable. it was therefore clearly within the contemplation of the respondents that by entering into the consent order on those terms, the court could order the respondents to sell out their minority shareholding despite their preference to the contrary. 40 in any event, we do not think there is any real distinction between the situation in hoban or abhilash where the minority agreed to settle the oppression suit without any finding of oppression by agreeing to sell out to the majority and the present case. in both situations, it could well be said that the oppression action by the minority was commenced on the premise of some alleged misconduct by the majority. however, once the minority agrees to dispense with the issue of oppression but wishes nonetheless to proceed to solely contest the issue as to who should buy out whom, the question of unfair prejudice (which is essential for a court-ordered buyout under s 216(2)) would be taken out of the equation. in our view, there is no real distinction between these two situations. both sellers should be regarded as willing sellers for the purposes of deciding on the applicability of any relevant discounts. in both situations, given their decision to dispense with any finding of oppression, the eventual sellers had a choice to remain in the company but elected to consent to the court deciding on the buyout issue. without such consent, the court would not have the jurisdiction to make any buyout order in the first place. it bears noting that we are not concerned with a case where the appellants were actively seeking to buy out the respondents’ minority shares. instead, the consent order owes its origin to the respondents seeking to exit the samwoh group by way of a court buy-out order under s 216(2) which it subsequently elected to abandon. in short, the buy-out process was in truth placed into motion by the respondents which reinforces our finding that the respondents should rightly be treated as willing sellers under such circumstances.41 not only did the judge make no finding on minority oppression, he in fact found that the 2nd respondent was prepared to be replaced as managing director of samwoh corporation pte ltd, the 7th defendant in suit 125, and the mainstay of the samwoh group’s business:
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+  aboa i tab 16 at [4].
+
+
+
+ see koh keng chew (no 1) at [93(a)]. although the 2nd respondent was also removed from his position as a director, something the judge found the 2nd respondent had not indicated he was prepared to do, there was never any common understanding amongst the shareholders that the 2nd respondent was to remain as managing director and/or a director of samwoh corporation pte ltd. as majority shareholders, the appellants were hence entitled to remove him from those positions. in the circumstances, the respondents plainly cannot identify any instances of unfair prejudice suffered such as to render them akin to unwilling sellers of their shares. we accordingly hold that the respondents are to be treated as willing sellers of their shares under the buyout order for the purposes of ascertaining whether the relevant discounts ought to apply.issue 3: whether the relevant discounts ought to apply 42 we should state at the outset that we do not disagree that any valuation of shares should be “fair, just and equitable”. however, in order to decide what is “fair, just and equitable”, the facts of each case, in particular the precise circumstances which led to the sale and the ensuing need for valuation must be closely examined. the expression “fair, just and equitable” in itself provides no real assistance in deciding whether any discount should be applied to the valuation. further, while “fair value” and market value” may bear different meanings in different contexts, neither of them by definition excludes the application of discounts for the purposes of valuation. it remains necessary to examine the events which led to the sale of the shares and valuation. on that note, we turn now to consider the question that the independent valuer had referred the court to in the first place, that is, whether a discount for lack of control and lack of marketability ought to be applied in valuing the respondents’ shares in the samwoh group. these discounts are potentially applicable because, as we have held, the sale of the respondents’ shares under the buyout order is to be treated as akin to a voluntary commercial transaction for those shares.  this finding is of crucial significance in our evaluation as to what is “fair, just and equitable” as it seems clear to us that the judge’s decision not to apply the minority discounts was largely influenced by his view that to do so would be “most unfair” (gd at [12]), and to “[give a] delinquent shareholder a reward which he does not deserve” (gd at [14]). in fact, based on the gd at [12], the judge correctly acknowledged that “a discount for lack of control reflects the realities of a freely negotiated transaction, ie, a transaction between a willing buyer and a willing seller.” the question remains whether the minority discounts should apply independent of our disagreement with the judge’s reasoning.the terminology43 we begin with a point of clarification on the relevant concepts and terminology. although the courts have on occasion referred to the terms “lack of control” and “lack of marketability” in the context of share valuation (see, eg, thio syn kym (hc)
+31
+
+
+
+
+foot note 31
+
+×
+
+
+
+  aboa ii tab 27.
+
+
+
+ and on appeal in thio syn kym (ca)
+32
+
+
+
+
+foot note 32
+
+×
+
+
+
+  rboa tab 15.
+
+
+
+; chong barbara v commissioner of estate duties [2005] 4 slr(r) 771 (“chong barbara”)), these are not legal terms of art. consequently, different users of the terms have different conceptions of what they stand for, even though none are necessarily wrong in their own conceptions of the terms. thus, judith prakash ja in thio syn kym (hc) at [21] formulated the discount for lack of control as one that arose from the minority shareholder’s inability to exert control over the management decisions of the company, while the discount for lack of marketability accounted for the difficulties one would face in selling the shares of a private company with share transfer restrictions:the defendants’ submissions begin by emphasising the distinction between a discount for lack of control and that for lack of marketability. the former refers to a discount that accounts for a minority shareholder’s lack of control over the management of the company, while the latter reflects the difficulty in selling the shares of a private company in general due to share transfer restrictions and the narrowness of the market. [emphasis added]    the judge below did not disagree with prakash ja’s formulation of the discount for lack of control. however, he considered that the discount for lack of marketability, which accounted for the difficulty of selling shares in a narrow market, would additionally have to be affected by the unattractiveness of a bloc of shares that does not confer upon its holder control over the management decisions of the company. in other words, he took the view that a discount for lack of marketability would necessarily take into account certain matters that would already have been taken into account when one applies a discount for lack of control, namely, the minority status of the subject shares. he accordingly thought that the term “lack of free transferability” better describes the considerations that arise from the narrowness of the market for the shares in a private company, independent of any minority status of the sale shares (gd at [5]):as a preliminary point, i note that the [appellants] have used the expression “lack of marketability” to refer to the fact that the shares are subject to share transfer restrictions. it seems to me that the expression “lack of marketability” has a broader meaning. a lack of marketability suggests that it is more difficult to sell the shares. it is true that share transfer restrictions give rise to a lack of marketability in that such restrictions make it more difficult to sell the shares compared to, for example, listed shares. however, the lack of control can also give rise to a lack of marketability. it is more difficult to sell minority shares because such shares have no influence on the company or say in the management of the company. in these grounds of decision, i shall refer to the effect of share transfer restrictions as a “lack of free transferability”. [emphasis added]44 as we have explained, there is no right or wrong answer when it comes to choice of labels, since these are not terms of art that the court is concerned with. in our view, the formulation of the relevant discounts in thio syn kym (hc) as well as in the decision below were both strictly correct. 45 that said, for the purposes of this present appeal, we adopt prakash ja’s formulation in thio syn kym (hc) of the discount for lack of control, which the judge below adopted as well. this discount refers to the one that applies as a result of the minority status of the bloc of shares being sold, which consequently do not confer on its holder any ability to exert control over the management decisions of the company.46 as to the discount for lack of marketability, we use this term, advisedly, to refer to the difficulty of selling shares in a private company as a result of the typical transfer restrictions that apply in this context. this difficulty is independent of the status of the bloc of shares being sold, and thus applies regardless whether the shares constitute a minority or majority shareholding in the company concerned. see re blue index ltd; murrell v swallow and others [2014] ewhc 2680 (ch) at [48]–[49],
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+  aboa ii tab 23.
+
+
+
+ where mr r hollington qc (sitting as deputy judge of the high court) distinguished between a discount for lack of control and a discount for non-marketability in the same manner. after all, considerations as to the minority status of the bloc of shares on sale are already accounted for by the discount for lack of control. it appears to us that the judge intended to adopt the same formulation that prakash ja adopted in thio syn kym (hc) at [32] when she stated that the discount for lack of marketability “arises from the difficulty of selling shares due to share transfer restrictions and the narrowness of the market, regardless of whether the shares are majority or minority shares”. the judge, however, chose to describe this discount as a discount for lack of free transferability because he thought it better captured, without any overlap, the matters that are respectively accounted for by the discount for lack of control and the discount for lack of marketability. nonetheless, for the sake of consistency with the authorities that have employed the term (see [43] above), we shall stick with the “lack of marketability” label. indeed, the use of this label to refer purely to the difficulty of selling shares in a private company (unrelated to the minority status of the bloc of shares being sold) finds traction in one of the foremost authorities on the valuation of shares in private companies: christopher g glover, valuation of unquoted companies (gee publishing, 4th ed, 2004) (“glover”) at p 188:unquoted shares lack marketability. this arises in two ways. first, most unquoted companies have few shareholders. the resulting narrow market for a company’s shares makes it difficult, and sometimes impossible, to deal. secondly, many private companies’ articles of association contain share transfer restrictions. these typically provide that an intending seller must offer his shares to existing members who, if they do not like the intending seller’s offer price, can elect to have the fair value of the shares determined by the company’s auditors. only if there are no buyers among existing members is the intending seller free to find a buyer outside the company. and in all private companies the directors usually have the right to refuse to register a transfer of shares. [emphasis added] lack of control47 most of the cases dealing with the applicability of discounts arose from a finding of oppression leading to a court-ordered buyout of the minority shareholders. in some cases, the disputes concerned the question whether the company was a quasi-partnership in aid of a perceived presumption that no minority discount should apply. here, we are concerned with a case where the usual battlegrounds on the application of discounts are absent. instead, we are concerned with a rather unique situation where there is neither a finding of oppression or quasi-partnership and where the sellers ie, the respondents, pursuant to the consent order are treated as akin to willing sellers of their minority shareholding.  how then should the minority shareholding under such circumstances be valued – with or without the relevant minority discounts? in a typical voluntary commercial sale of a minority bloc of shares in a private company, a discount for lack of control is common, and indeed, expected: pearlie koh in ch 11 of hans tjio, pearlie koh & lee pey woan, corporate law (academy publishing, 2015) at para 11.097. this follows from the fact that the bloc does not confer on the shareholder control over the management decisions of the company in question. that much is clear from chong barbara at [56]:as a minority shareholder would not have any control or influence on the company, nor have a say in the management of the company, it is usually more difficult to dispose of minority shareholdings. consequently, such shareholdings are typically discounted to reflect this disadvantage.  48 hence, in the context of a buyout of a minority shareholding pursuant to a consent order where the seller is to be treated as akin to a willing seller, the discount for lack of control should typically apply. see thio syn kym (ca) at [19],
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+  rboa tab 15.
+
+
+
+ where this court referenced the rule that a free election by the minority shareholder to sell its shares may, albeit not necessarily, mandate applying a discount in contrast to a situation where there is no choice on the part of the minority shareholder which would justify not applying discount. we acknowledge that this court in thio syn kym (ca) observed at [19] that there is no presumption as regards the application or non-application of minority discounts though we should add that it was made in the context of a case where minority oppression was established. as we have observed at [42] above, the judge himself acknowledged that “a discount for lack of control reflects the realities of a freely negotiated transaction, ie, a transaction between a willing seller and a willing buyer”. we should mention that there is no principle that minority discount for lack of control applies only in respect of a sale to an external party. it can apply and has been applied to a sale to existing shareholders: see, eg, irvine v irvine (no 2) [2007] 1 bclc 445 at [9]–[11].49 conversely, cases in which the courts have declined to apply a minority discount for lack of control are often cases where there has been a finding of minority oppression. as we have observed above, if it is established that the minority shareholder has unjustifiably been on the receiving end of unfairly prejudicial conduct, the courts will almost invariably order a buy-out on terms that do not include a minority discount for lack of control. this is to reflect the fact that it would not be “fair, just or equitable” in these circumstances for the minority shareholder to be bought out on terms that do not allow him to realise the full value of his investment; that it would also not be “fair, just or equitable” for the oppressor to benefit from a buy-out on discounted terms is but the flip side of the same coin.      50 as we have held, the respondents in this case are to be regarded as willing sellers of their minority shareholding in the samwoh group pursuant to the buyout order. once the respondents elected not to pursue the oppression action, the consent order was in essence a freely negotiated transaction. in such a case, in our view, a discount for lack of control is to be expected. having said that we recognise that in determining the application of the discount for lack of control, there may well be situations that can justify valuing the minority’s shares on a pro-rated basis even where the minority shareholder is regarded as a willing seller (see partia hemmati & charles mitchell, “section 461 share buy-outs: principles of valuation” (2003) 14 kclj 199 at 205):
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+  bundle of documents for judgment v2 tab 1.
+
+
+
+(a) where the purchasing majority consolidates control of the company: see thio syn kym (ca) at [38]–[39], over & over ltd v bonvests holdings ltd and another [2010] 2 slr 776 at [132], re edwardian group ltd; estera trust (jersey) ltd and another v singh and others [2019] 1 bclc 171 at [639]. it should be highlighted that in each of these decisions, the observations were made in the context of  a finding of oppression or unfair prejudice against the majority shareholders unlike the present case.(b) where the purchaser obtains synergistic benefits from acquiring a company (or, as is the case here, existing shares in the company), arising out of cost savings or future trade between the company and other businesses which he already owns.(c) where the purchaser may be prepared to pay a premium in order to prevent a business competitor from acquiring control of the company.the common denominator of the three situations set out above is that the purchaser of the shares would be enjoying some tangible or collateral benefit from the purchase such as consolidation of control, business synergy or in preventing a competitor from acquiring control. it is this collateral benefit that provides the principled basis to explain why such a purchaser should not enjoy a further benefit through the discounts. this rationale is entirely consistent with the principle that in a setting where there is a finding of oppression, the delinquent majority should likewise not benefit from a buy-out on discounted terms.51 it is clear from the outset that neither of the scenarios in (b) or (c) above apply in the circumstances of this case. scenario (a) likewise does not apply. it does not seem to us that the sale of the respondents’ shares will lead to any of the other shareholders consolidating control of the samwoh group. the judge found that the respective shareholdings of the appellants and the respondents in the samwoh group are as set out below (see koh keng chew (no 1) at [8]):shareholderproportion of issued share capital of samwoh corp (%)plaintiffs 1st respondent 22.52nd respondent3.3753rd respondent2.25defendants 1st appellant 22.52nd appellant11.253rd appellant3.3754th appellant22.55th appellant2.256th appellant10.052 as evident, the “majority shareholders” in this case do not actually form a concrete bloc that will invariably vote in support of one another all the time. the respondents acknowledge as much in their submissions.
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+  respondents’ case at [154(c)].
+
+
+
+ instead, the majority shareholders in the present case comprise disparate individual shareholders who are only in the majority in respect of this specific dispute against the respondents. they have found themselves to be in this position out of rather adventitious circumstances in the instant case, arising out of a falling-out, as it were, with the respondents. in other words, they are collectively and conveniently described as the “majority” in contradistinction from the “minority” only for the purposes of the suit. there is no assurance, however, that alliances within and amongst the appellants will never shift in respect of other matters that may arise in the future. it cannot therefore be said that any of the appellants in this case will be consolidating their control of the samwoh group through the purchase of the respondents’ shares. 53 accordingly, in our judgment, a minority discount for lack of control ought to apply in the valuation of the respondents’ shares in the samwoh group.          lack of marketability54 the respondents submit that the sale of their shares to the appellants under the buyout order should not be treated as a sale of those shares to an external party, because it is in reality a sale of those shares to existing shareholders in the samwoh group. the purchasers will now collectively hold 100% of the shares in the samwoh group, and the discount for lack of marketability therefore should not apply.
+
+                   37
+
+
+
+
+foot note 37
+
+×
+
+
+
+  respondents’ case at [134]–[136].
+
+
+
+ 55 this submission is premised on the assumption that the appellants will consolidate control in the samwoh group. but, as the respondents themselves acknowledge, the appellants are not a monolithic majority shareholder.
+
+                   38
+
+
+
+
+foot note 38
+
+×
+
+
+
+  respondents’ case at [154(c)].
+
+
+
+ also for the reasons as stated at [52] above, we do not agree with this submission. 56 the respondents also submit that the breakdown of the relationship of mutual trust and confidence between the parties had forced them to exit the samwoh group. in the circumstances, where it is clear that the business relationship simply cannot go on, it would be unfair for any party seeking an exit to do so on terms involving a discounted sale of their shares.
+
+                   39
+
+
+
+
+foot note 39
+
+×
+
+
+
+  respondents’ case at [154(b)].
+
+
+
+ 57 we reject this submission as well. where the relationship of mutual trust and confidence between the shareholders has broken down because of the oppressive acts of the majority, the minority who seeks an exit from the company can have recourse to the courts by virtue of the statutory minority oppression remedy. if the court is satisfied that liability for oppression has been established, and if it orders a buy-out of the minority’s shares under s 216(2)(d) of the companies act, it may choose not to apply any discount to the valuation of the minority’s shares, on the basis that the minority has been forced by the oppressive acts of the majority out of the company. 58 as we have held at [20] above however, the court is empowered to order a buy-out under s 216(2)(d) only where it is satisfied that a case of minority oppression has been established. where, as in the present case, there is no finding of minority oppression, the only way out for the disenchanted shareholder would be through the established processes for the sale of shares under the company’s articles. those processes invariably contain restrictions on the transfer of shares, which, as explained at [46] above, give rise to the lack of marketability of the subject shares. liquidity, after all, “is a valuable attribute of an investment and the lack of it is a depreciatory factor … [that] has given rise to the practice of applying a discount for lack of marketability in the valuation of unquoted shares”: glover at p 188. this applies even where the sale of shares is to existing shareholders in the company, who will very often have the option of calling on the company auditor to fix a fair value for the subject shares if they are not satisfied with the offered price. we note, in the instant case, that such an option for the purchasing shareholders is explicitly provided for in the articles of some, but not all, of the 7th–16th defendants in suit 125.
+
+                   40
+
+
+
+
+foot note 40
+
+×
+
+
+
+  see bundle of documents for judgment v2 tabs 2–11.
+
+
+
+ even in those instances where the option to call on the company auditor to fix a fair value is not explicitly provided for, one would expect that the seller would have to factor in a discount for lack of marketability into the offer price so as to attract buyers, whether they be existing shareholders or buyers on the open market. 59 however, we accept that the discount for lack of marketability should not invariably be treated in the same way as minority discount for lack of control. lack of marketability would be industry specific and therefore we think that an appropriate order, as was done in thio syn kym (hc), would be to leave it to the expertise of the independent valuer to decide whether to apply the lack of marketability discount for the respondents’ shares.60 we conclude by stating that outside the minority oppression context, the courts cannot be an avenue through which a minority shareholder obtains a price higher than what he could have obtained had he gone through the usual process of selling his shares to the remaining shareholders. when a minority shareholder is dissatisfied with the manner in which the company is managed by the majority, he essentially has three options – (a) accept the status quo and remain in the company; (b) invoke the articles of the company and offer to sell out; and (c) commence a minority oppression action under s 216(2) to secure a court-ordered buyout. clearly, the third option is the most difficult to establish but it typically comes with certain benefits such as the non-application of minority discounts in order not to confer any windfall on the delinquent majority shareholder. it seems to us to be somewhat incongruous that a minority shareholder such as the respondents should be placed in the same favourable position as regards the application of minority discounts having abandoned their case for minority oppression. if this is endorsed, it may encourage a disgruntled minority shareholder to tactically commence an oppression action and subsequently compromise the action by way of a similar consent order with a view to improve his position had he invoked the process under the company’s articles instead. that cannot be right as a matter of principle. 61 in the light of our holding above that the sale of the respondents’ shares under the buyout order is to be treated as akin to a voluntary commercial transaction, and in the absence of a finding of oppression or any other extraordinary circumstances that justify the disapplication of the discounts for lack of control and lack of marketability, it necessarily follows, in our judgment, that the independent valuer is entitled to take into account those discounts in the valuation of the respondents’ shares in the samwoh group.62 moving forward, shareholders who seek to resolve their differences by way of a similar consent buy-out order should be aware that it carries the risk that the valuation of the shares may be subject to minority discounts for lack of control and/or lack of marketability or both. it is entirely open to shareholders to address such risks by expressly providing for their application or disapplication in the consent buy-out order. however, if they are unable to reach consensus on the discount issue which is within the prerogative of the shareholders, then they will have to learn to work together or the disgruntled minority shareholder would have to continue with the oppression action. there is nothing inherently unfair or objectionable to such an outcome. here, the judge dealt with the buy-out order and the issues arising in three separate judgments. it may not be entirely satisfactory to deal with attendant valuation issues in tranches. for future cases, shareholders should be encouraged to agree on the identity of the independent valuer, the reference date for the valuation and the application or disapplication of discounts prior to concluding any such consent buy-out order. a failure or omission to do so would lead to additional costs being incurred and may eventually create problems for the shareholders as it occurred in this case.conclusion   63 for those reasons, we allow the appeal on the following terms:(a) the independent valuer is to re-value the respondents’ shares in the samwoh group taking into account the discount for lack of control. (b) the independent valuer is free to decide whether the discount for lack of marketability should apply in re-valuing the respondents’ shares in the samwoh group. (c) in the event the independent valuer’s re-valuation of the respondents’ shares in the samwoh group returns a value less than that in its 3 august 2018 report, the respondents are to refund the appellants the difference between the sum that they were bought out with and the re-valued price of their shares in the samwoh group. (d) the respondents are ordered to pay the costs of the appellants which we fix at $40,000 inclusive of disbursements. steven chong     quentin loh          judge of appeal    judge            belinda ang saw ean j (delivering the dissenting judgment):introduction64 i have had the advantage of reading in draft the judgment of steven chong ja, with which quentin loh j concurs, allowing the appeal on terms. essentially, the majority judgment reverses the decision of the judge who held that the value of the respondents’ shares in the 7th to 16th defendants in suit 125 (ie, the samwoh group) are not to be discounted at all despite the fact that the shares represent a minority holding. in the context in which the minority shares are to be valued on the basis of a court-ordered buyout, with the greatest of respect, i depart from the views of my esteemed brother judges and accordingly, would dismiss the appeal and uphold the conclusion of the judge for the reasons set out below. 65 as stated, in july 2016, the parties arrived at an understanding that did away with the need to resort to s 216(1) proceedings on the issue of oppression. the parties instead required the court to resolve and determine the question of who was to buy out the other (ie, the consent order). on 29 july 2016, the judge ordered the appellants to purchase the respondents’ shares in the samwoh group (ie, the buyout order). 66 the appellants’ contention is that the buyout order is pursuant to the consent order. hence, the buyout order is tantamount to an agreed sale between a willing buyer and a willing seller such that the price of the shares should be determined according their fair market value, which attracts the application of the relevant discounts to reflect the fact that the shares represent a minority holding. the respondents’ substantive response to the appellants’ argument is that the sale was undeniably involuntary. even if  the consent order is the source of the court’s power to make the buyout order, that did not make the share buyout akin to a voluntary transaction between a willing buyer and a willing seller. critically, the consent order did not provide for the respondents to sell their shares to the appellants, but recognised the respondents’ desire to buy the appellants’ majority shareholding in the samwoh group. 67 the lengthy discourse on the “willing seller and willing buyer” adage distracts from the actual position the parties got to after the buyout order in july 2016. after the buyout order, the parties moved on to valuation issues. as to the valuation issues, there are two pertinent issues, whether a discount ought to apply and the date for it. both issues are closely connected, and this close connection is significant. as to the latter issue, in january 2017, the judge decided on the valuation date of the shareholding (see koh keng chew (no 2)). while the appellants filed an appeal against the judge’s ruling on the valuation date, they later withdrew their appeal. as to the former issue, the present appeal is against the judge’s decision on 5 july 2018, which determined that the share price should not be discounted. in other words, in determining the share price, the valuer is not to take into consideration lack of control or lack of transferability (the judge preferred the nomenclature “transferability” rather than “marketability”).68 i accept that the buyout order concerns what may be termed a “no-fault buyout” of minority shareholding. the nub of the dispute, in this appeal, concerns the appropriate basis of the valuation of the shares of a no-fault buyout. in my respectful view, the legal basis on which the minority’s shares should be valued in such a situation is governed by the overriding principle that the price should be fair, just and equitable as between the parties. there is no rigid rule for the court has a discretion, depending on the facts and circumstances of the case, to decide on whether the price of a minority holding should be fixed on a pro rata basis or, alternatively, that the price should be discounted to reflect the fact that the shares are a minority holding. i will elaborate on these matters below. suffice to say here that the valuation of the respondents’ shares is not on the basis that the respondents was a willing seller and the appellants was a willing buyer. the question that arises is what principle(s) and factors ought to guide the court’s valuation of the respondents’ shares in a no-fault buyout. i note that the majority judgment has identified three factors. while recognising that these factors are not exhaustive, in my view, the factors do guide the court in determining a just and fair price for the minority shares. however, as regards the application of the factors to the facts of this case, i respectfully disagree with the majority judgment for the reasons stated below. 69 finally, i should preface my analysis and discussion below by saying that for the purposes of this appeal, i am content to address the appellants’ contentions on the premise that the consent order was the basis of the court’s power to make the court-ordered buyout. similarly, i adopt the same premise in respect of the subsequent orders that followed the buyout order. nonetheless, i propose to make some comments on the basis of the court’s power to make the buyout order later on in my judgment. valuing the minority shareholding: with or without discount no-fault buyout 70 as stated earlier, the nub of the dispute is the appropriate treatment to be given to the valuation of a minority holding of shares in a private limited company (like the companies in the samwoh group) in a no-fault buyout (ie, where the issue of oppression was dispensed with), and where the buyout order was made applying as proxy s 216 principles. should the shares be valued as a rateable proportion of the total value of the company as a going concern without any discount to reflect the fact that the buyout order pertains to the purchase of a minority holding or, with a discount as the case may be. the minority discounts are: (a) discount for lack of control; and (b) for lack of marketability (adopting the explanation of this nomenclature in the majority judgment). relatedly, what are the relevant principles of valuation that a court would look to and apply in a no-fault buyout? 71 the majority judgment queried whether the respondents, irrespective of whether they agreed to sell pursuant to the consent order or were ordered to sell pursuant to the buyout order, should be treated, nonetheless, as an unwilling seller such that the value of their minority holding should not be discounted at all. i foreshadowed in [67] above that the competing arguments over the status of the respondents as either willing or unwilling seller are distracting. the “willing seller and willing buyer” adage is for the purpose of valuation of the shares. the concept of market value is a determinative price after negotiations as between a willing buyer and a willing seller in the open market. in a no-fault buyout like in this case, what counts is whether the purchase at a fair value is fair, just and equitable as between the parties. the distinction between market value and fair value will be examined below. suffice to say for now, in my view, the court looks at the overriding principle governing valuation issues. specifically, there are two valuation issues – the applicability of a discount and the reference date for the valuation. importantly, both valuation issues are closely connected, in that they both affect the final price at which the shares will be bought out. as such, the appropriate legal approach to determining whether a discount ought to be applied to the respondents’ shares would follow the same principle as that applied by the judge to determine the valuation date of the shares, that is to say, the court would reach a price that is fair, just and equitable as between the parties (see koh keng chew (no 2) at [5]–[6]). to be clear, this is distinct from saying that the court-ordered buyout was in fact made pursuant to s 216(2) of the companies act.72 in the decision under appeal, the judge determined the buyout of the minority shareholding should be on an undiscounted basis having regard to the fact that the buyout order was made pursuant to s 216(2) of the companies act. in this regard, i disagree with the judge’s reasoning. the judge held that discounts of lack of control and lack of free transferability were not to be applied to the valuation of the respondents’ shares for the following reasons:(a) the parties had agreed to the buyout order being made on the basis that s 216(2) of the companies act had been invoked (gd at [25]). (b) consequently, the buyout order was an order made in the exercise of the court’s coercive power pursuant to s 216(2) of the companies act, and was not a freely negotiated commercial transaction. in fact, the judge noted that whichever way he decided, it was clear that the selling parties would not be willing sellers (gd at [26]).(c) there was no basis to leave the question of whether a discount should be applied for lack of free transferability to the valuer. after all, it was the valuer who had expressly requested the parties to seek the court’s discretions on the very issue (gd at [27]). 73 strictly speaking, the no-fault buyout was not made pursuant to s 216(2) of the companies act. in the buyout order of 29 july 2016, the judge ordered that the appellants buy the shares of the respondents. in so ordering, the judge adopted the conventional default legal position applicable to share buyouts that the majority buys the minority’s shares being satisfied that no exceptional circumstances exist to depart from the norm. 74 furthermore, to the extent that the judge considered that the coercive nature of the buyout order was in and of itself a sufficient reason not to apply a minority discount, i respectfully disagree with his view. such a proposition is not the accepted position in law even in the clear situation where there has been a finding of a minority oppression, and it therefore cannot be a sufficient reason in the present appeal where there is no decision on minority oppression. that said, taking into consideration all the facts and circumstances of the present appeal, i agree with the result arrived at by the judge, ie, that no minority discount should be imposed. 75 in my view, the valuation of the respondents’ shares in a no-fault buyout is not to be carried out on the basis that the respondents was a willing seller and the appellants was a willing buyer, as that is an inquiry directed at the market value of the shares. instead, the overriding principle governing the valuation of the price of the minority holding is a consideration of what is fair, just and equitable between the parties. in my judgment, fairness between the parties in the circumstances of this case would be a pro rata valuation of the shares without any discount despite the fact that the shares represent a minority holding. 76 i propose to look first to the terms of the consent order. it is evident that the consent order is silent as to the principles that ought to be applied in the valuation of the shares that are to be bought out. paragraph 1 of the consent order merely prescribes that the price of the shares is to be determined by an independent valuer (see majority judgment at [6]). crucially, however, the parties indicated, in response to the judge’s query, that the “[p]rinciples on when [a] minority buy-out order would be made will be those under [s 216 of the companies act]”. while admittedly the agreement was that s 216 principles would apply to determining when a buyout order would be made in circumstances where a minority seeks to buy out the majority, it must follow, in my judgment, that the same principles apply to the determination of the price of those shares, if any subsequent dispute were to arise. evidently, that was the view the judge held as well in koh keng chew (no 2). the judge applied the overriding principle governing share buyouts, and held that it would be “eminently fair” to use as the reference date for the valuation the date the buyout order was made (at [11]). it is clear to me that in taking this approach, the judge was applying s 216 principles. 77 as pointed out earlier, there was no appeal heard against the judge’s decision of the valuation date; the appellants withdrew their notice of appeal vide civil appeal no 30 of 2017 on 15 may 2017, and consequently, the appellants would be hard-pressed to take a contrary position on the applicable overriding principle governing the valuation of the share buyout. in fact, the appellants in this appeal appear to agree that the overriding principle is to achieve a price that is fair, just and equitable as between the parties – stating in their written submissions in reply that they “do not disagree with the respondents that the valuation should be fair, just and equitable”
+
+                   41
+
+
+
+
+foot note 41
+
+×
+
+
+
+  appellants’ reply at para 28.
+
+
+
+ – although their view is that that fair, just and equitable in the circumstances means a “fair market value” and therefore a minority discount ought to be imposed. there is no contradiction in accepting the appellants’ views on the guiding principle that ought to be applied, while disagreeing with their application of that principle to the facts of the present appeal. 78 finally, this court in thio syn kym (ca) simply looked at all the facts and circumstances of the case in arriving at its decision as to whether a discount ought to be applied (at [33]). although minority oppression was found on the facts in thio syn kym (ca), the overall aim is to ensure that the price of the minority holding is fair, just and equitable, and broadly speaking, the imposing of a minority discount is fact-specific. fair value and market value79 i now turn to the difference between fair value and market value. the argument advanced by the appellants in this appeal is that since the judge had made no finding of oppression, the price of the respondents’ shares should be determined according to their fair market value, which attracts the application of the relevant discounts for lack of control and lack of marketability.
+
+                   42
+
+
+
+
+foot note 42
+
+×
+
+
+
+  appellants’ case at para 14(a). 
+
+
+
+ 80 i make two points. first, the appellants’ position that the purchase of the respondents’ shares should be determined according to their fair market value is a change from the position taken previously. in their defence filed in suit 125 and in their open offers made in correspondence prior to the consent order the appellants said that they would cause or procure the samwoh group and/or their nominee to purchase all of the minority’s shareholding at a stipulated offer price or “at a fair value to be determined by an independent valuer” [emphasis added]. at this time, the open offers were not for the appellants to buy the respondents’ shares. equally, the appellants’ offered a different person from that provided in the articles of association to value the shares (ie, not company’s auditor but an independent valuer). pausing here, i refer to art 31 of the memorandum and articles of association of samwoh corporation pte ltd (“samwoh’s articles”). article 31 provides that if any dispute arises between the proposing seller and the purchasing member as to the fair value of a share, the auditor shall certify the sum which in his opinion is the “fair value”. therefore, it is not surprising to find reference to “fair value” in the appellants’ open offers made in correspondence sent prior to the consent order.  81 second, the appellants’ reference to a “fair value” in their open offers is in contradistinction to “market value” and, the terminology “fair value” suggests that the appellants desire the price to be fair and equitable to both parties. this notion of a fair value coheres with the principle of valuation stated in koh keng chew (no 2) at [5] back in 2017. significantly, in reaching his decision on the valuation date, the judge noted that it was “common ground that the overriding principle governing share buyouts is that the price should be fair, just and equitable as between the parties” (at [5]). 82 glover explains the “willing seller and willing buyer” adage as follows (at p 30):finally, valuations are sometimes stated to be as between a willing buyer and a willing seller in the open market. … in the author’s opinion, this verbal formula in commercial valuations tends to confuse and is best avoided. market value is purchaser oriented; it is what buyers are prepared to pay. some individuals may be willing to sell at his price; others may not. it is nevertheless market value. in so far as the ‘willing seller, willing buyer’ appendage indicates that the forced seller and the reluctant purchaser are excluded, it is a harmless, though reluctant, qualification to the market value concept. but if it is used to assume the existence of a market where no such market exists in reality – this may also be reinforced by the use of the word ‘open’ as in open market – then it is a dangerous and potentially misleading excursion into the realms of fantasy. if no buyer or seller can be envisaged, it makes no commercial sense to invent one. [emphasis added in italics]83 continuing on what constitutes fair value in the context of share transfer provisions of private companies’ articles of association, glover said (at p 31):first, fair value is distinct from market value. … secondly, the essence of the fair value concept is the desire to be equitable to both parties. it recognises that the transaction is not in the open market. buyer and seller have been brought together by the operation of a legally binding agreement in a way which excludes other potential buyers and sellers. … in these circumstances, the fair value must take into account as a minimum requirement what the seller gives up in value and what the buyer acquires in value through the transaction. the valuer must therefore assess the owner value of the shares to both vendor and purchaser. [emphasis added in italics]84 lord hoffmann in o’neill and another v phillips and others, re a company (no 00709 of 1992) [1999] 2 bclc 1 (“o’neill v phillips”) also took the view that the fair value of shares is ordinarily the pro rata value of such shares without a discount,  and in that regard was distinct from the market value of such shares (at 16):in the first place, the offer must be to purchase the shares at a fair value. this will ordinarily be a value representing an equivalent proportion of the total issued share capital, that is, without a discount for its being a minority holding. the law commission (paras 3.57 to 3.62) has recommended a statutory presumption that in cases to which the presumption of unfairly prejudicial conduct applies, the fair value of the shares should be determined on a pro rata basis. this too reflects the existing practice. this is not to say that there may not be cases in which it will be fair to take a discounted value. but such cases will be based upon special circumstances and it will seldom be possible for the court to say that an offer to buy on a discounted basis is plainly reasonable, so that the petition should be struck out. [emphasis added]85 finally, as mentioned above, the fair value concept is reflected in art 31 of the samwoh articles. factors militating against the imposition of a minority discount86 in my judgment, the facts of the case militate against the imposition of a minority discount. i elaborate on each in turn. unwilling exit87 i start with the point that the judge placed significant weight on in reaching his conclusion – that the buyout order was made in the exercise of the court’s coercive power pursuant to s 216(2) of the companies act, and the respondents cannot be said to be willing sellers (gd at [26]). the judge’s reasoning is evidently premised on s 216(2) of the companies act, as opposed to the consent order, forming the basis of the court’s power to make the buyout order. the appellants submit that the judge erred in this regard, as the basis of the court’s power to make the buyout order was the consent order. consequently, the appellants submit, the judge was wrong to characterise the share buyout as an exercise of the court’s coercive power. 88 for present purposes, it is possible that a no-fault buyout is likened to a forced sale – a sale in which one party is an unwilling seller. the majority judgment takes the contrary view – it is only the oppressed minority shareholder who is forced to exit the company because of the majority’s oppression who can be said to be an unwilling seller. in other words, the minority shareholder who succeeds in a minority oppression, and obtains an order compelling the buyout of his shares, is an unwilling seller as he is nonetheless being forced out of the company by virtue of the circumstances. had the circumstances been otherwise, the minority shareholder would not have needed to exit the company. this analysis coheres with glover’s explanation of market value which excludes the unwilling buyer from the concept of market value (see [82] above).89 in the present case, the lack of a finding of oppression was because the parties chose not to litigate that issue. it does not mean that in a no-fault buyout, a minority discount must inevitably be imposed. i have explained that what counts is that the minority shares are purchased at a fair price applying the overriding principle governing the valuation of share buyout. where principles of fairness, justice and equity are engaged, the court is permitted to consider an even wider array of factors in determining whether a minority discount ought to be imposed.90 here, weight can still be given to the circumstances of the present case, which show that the respondents did not wish to exit the samwoh group. this was reflected in the respondents’ position taken in suit 125, their offer to buy out the appellants, and culminated in the consent order which, as i shall explain below, crystallised the parties’ impasse and left the issue of which side should be bought out to the court. it is also pertinent to note that this was not a case of the respondents seeking to exit frivolously. it was common ground between the parties that there had been an irretrievable breakdown of mutual trust and confidence between the parties, and that each side wanted the other out (koh keng chew (no 1) at [12]). i am therefore of the view that although the judge may have erred in his reasoning that the buyout order was coercive because it was made pursuant to s 216(2) of the companies act, i nonetheless agree that weight can be given to the general circumstances surrounding the respondents’ exit. 91 i respectfully disagree with the judge’s suggestion that the coercive nature of the buyout order was a sufficient reason not to impose a minority discount (see [74] above). this court’s decision in thio syn kym (ca) makes clear that the issue must be decided in the light of all the facts and circumstances of the case. nonetheless, having considered all the facts and circumstances of the present case, i am of the view that the result arrived at by the judge was correct – no minority discount ought to be imposed because there are further circumstances which militate against it. i now turn to address these other circumstances. usual reasons for imposing minority discount do not arise92 thus far i have referred to the discount sought to be imposed on the respondents’ shares as a “minority discount”. specifically, this encapsulates two distinct concepts, and two distinct reasons for imposing a discount on minority shareholding. the first is a discount for lack of control, while the second is a discount for lack of marketability (adopting the same terminology as in the majority judgment). such discounts are commonly applied in the context of a sale of a minority stake in a company to an outsider. where, however, the sale is to an existing shareholder in the company, it is difficult to see why these discounts ought still to apply. in my judgment, it is critical that the buyout order was between the respondents and the appellants and the buyout was between existing shareholders in the samwoh group. this is a significant circumstance that militates against the imposition of a minority discount, given that the rationale underpinning the usual application of each type of minority discount does not apply here.93 taking first the discount for lack of marketability, as the judge noted, such a discount is commonly applied because, being shares in privately held companies, they are subject to share transfer restrictions. indeed, as i elaborate below, samwoh’s articles
+
+                   43
+
+
+
+
+foot note 43
+
+×
+
+
+
+  roa vol iii (part j), p 30.
+
+
+
+ make clear that such restrictions would apply to any attempt by the respondents to sell their shares had they intended to sell them in a private sale to an external party. however, the buyout order here is not a private sale. instead, the appellants were ordered to buy the shares of the respondents. by all accounts, the appellants desire to purchase the respondents’ shares – the first tranche of litigation was precisely over which side would get the right to buy out the other. in the circumstances, it would be entirely fictional to suppose that there would be share transfer restrictions in this context. it is not imaginable that the appellants would enforce any restrictions on the transfer of the respondents’ shares to themselves. consequently, there is no basis to apply a discount for lack of marketability in this transaction.94 as for the discount for lack of control, the rationale underpinning the imposition of such a discount is well understood: when an external party buys a minority stake into a company, that investor is taking on certain risks due to the lack of control that he would have over the way the company is run. it is, however, obvious that these considerations would not arise in the present transaction between the appellants and the respondents. the respondents are not selling their shares to an external party, or a stranger, to the company. further, in the present transaction between the appellants and the respondents, the appellants are not acquiring just a minority interest in the samwoh group. in fact, as i shall elaborate on below, the appellants are even gaining an additional benefit from the shares, namely, consolidating their shareholding in the samwoh group and gaining a meaningful increase in control. this leads me to the further benefit of control from the purchase. meaningful increase in control95 acquisition of the respondents’ shares would give the appellants a meaningful increase in control over the samwoh group, which they otherwise would not have had – it increases the shareholding of the appellants’ block over the 75% threshold that is required for, effectively, full control over the companies in the samwoh group by means of passing special resolutions (see s 184 of the companies act). the respondents hold 28.125% of the shares while the appellants hold 71.875% of the shares.96 an increase in control over the companies in the samwoh group in such a manner has been recognised by this court to be of significance. in thio syn kym (ca), this court noted, in deciding not to apply a minority discount in the context of a minority oppression claim, the following (at [38]): we note further that the result of the buyout in this case is that there will be a direct impact on the control that the appellants will gain. in point of fact, they will control 76% of the shareholdings in the company, up from 56%. such significantly increased control over the company after the buyout further justifies, in our view, an order of no discount. more specifically, the buyout will take the appellants’ control of mdi’s shareholding over the 75% threshold necessary to pass special resolutions. this will enable them to alter or add to the constitution of mdi (see s 26(1) of the companies act (cap 50, 2006 rev ed)). for instance, share transfer restrictions in arts 4a–4c and 6a–6b of the articles of association of mdi may be amended, while the prohibition on the issue of shares to the public in art 3 may be deleted to facilitate an initial public offering. the appellants will also have the power to amend the articles governing the alteration of share capital (arts 46–49) and the appointment and dismissal of directors (arts 82–90). in our view, these benefits which the appellants will obtain from the buyout should be reflected in the price of the shares. [emphasis in original]97 this court in thio syn kym (ca) cited the decision of the english high court in re edwardian group ltd; estera trust (jersey) ltd and another v singh and others [2019] 1 bclc 171 (“estera trust”)
+
+                   44
+
+
+
+
+foot note 44
+
+×
+
+
+
+  jlc bundle of documents and authorities, tab 19.
+
+
+
+ in support of its views. in estera trust, fancourt j noted that the market value of shares may be significantly higher “particularly if the holding in question would be of special value to another shareholder”. in this regard, he observed that “a 2% shareholding will be considerably more valuable to an existing shareholder with 49% or 74% of a company’s shares than it will be to an outside investor” [emphasis added] (at [639]). on the facts of the case before him, fancourt j noted that the shares were not being purchased by an “unconnected investor in the market”; instead, the shares were more valuable to the shareholders ordered to make the buyout because the purchase would have the effect of “raising their combined shareholding above 75%” (at [646]). in my judgment, these observations by fancourt j are eminently sound. 98 returning to the facts of this case, the appellants, prior to the acquisition of the shares from the respondents, have a shareholding of 71.875%. the purchase of the respondents’ shares therefore not only allows the appellants to consolidate their position, it gives the latter complete control over the samwoh group which they previously did not have. in particular, it collectively brings the appellants’ shareholding over the 75% threshold required to pass special resolutions. this in turn brings with it a suite of control measures that were previously not available to the appellants, including: (a) altering the company’s constitution (see s 26(1) of the companies act); (b) varying the rights of shares by classes (see art 6 of samwoh’s articles);
+
+                   45
+
+
+
+
+foot note 45
+
+×
+
+
+
+  roa vol iii (part j), p 28 [jlc bundle of documents and authorities, tab 20].
+
+
+
+ and (c) reducing the company’s share capital (see art 52 of samwoh’s articles)
+
+                   46
+
+
+
+
+foot note 46
+
+×
+
+
+
+  roa vol iii (part j), p 33.
+
+
+
+. 99 an objection may be taken that the appellants are in truth made up of several individuals, rather than a single entity holding a monolithic block of 71.875% of the shares in the samwoh group. in my judgment, however, this does not change the legal analysis, for the following reasons:(a) in the context of minority oppression, the court is necessarily presented with two factions – the majority shareholders and the minority shareholders. for the purposes of determining whether a minority discount is to be imposed, the court must consider the advantages and disadvantages that would accrue to each side. the shareholders making up the majority together wanted to buy out the minority’s shares, and therefore the consequences of that buyout must be analysed on the same basis. it was as a monolithic block that enabled the appellants to mount the share buyout taking advantage of the default legal position applicable to share buyouts that the majority buys the minority’s shares as a norm (see [73] above). it is thus fair to continue to treat the appellants’ consolidation of shares as a block. (b) even if the appellants are not considered as a monolithic block, it is difficult to see the respondents other than as a collective group. the undeniable fact is that the respondents, voting as a block, can effectively veto any special resolutions sought to be passed. thus, even if one does not consider the appellants collectively gaining control, it is clear that the sale would have the effect of avoiding the potential hampering of business matters by the respondents. (c) in any event, it is also clear that this court in thio syn kym (ca) did not see a difficulty in treating majority shareholders collectively. notwithstanding that the majority shareholders there were two brothers, this court considered it appropriate to treat their collective increase in control as a factor militating against the imposition of a minority discount (at [2] and [38]). respondents’ shares were not acquired at a discount100 a final factor that is significant, in my view, is that the respondents had not originally acquired their shares at a discounted price to reflect their minority status. in the court’s consideration of all the circumstances of the case, it is relevant to consider whether the minority had originally purchased their shares at a discounted price to reflect their minority status, or if the shares had been purchased for full value: thio syn kym (hc) at [31].101 in the present case, it is not disputed that mr koh keng chew was an initial investor in samwoh corporation pte ltd (“samwoh corp”). indeed, as the judge noted in koh keng chew (no 1), mr koh keng chew was one of the first-generation directors who first started the business as a partnership named samwoh transport and trading, and later moved to incorporate samwoh corp  so as to move the into the business of manufacturing asphalt premix concrete. since then, samwoh corp has expanded into other businesses, for which the other companies in the samwoh group were incorporated (koh keng chew (no 1) at [3]–[4]). the judge also found that the respondents had contributed to the success of the samwoh group (koh keng chew (no 1) at [16]). it is true that the other two of the respondents (ie, mr koh keng chew’s sons) only came to acquire their shares in samwoh corp sometime later, and the judge made no finding as to whether these shares had been acquired at a discount. nonetheless, the manner in which the sons acquired their shares is not dispositive in this case, given that mr koh keng chew owns a substantial proportion of the minority’s shareholdings – 22.5% of the shares in samwoh corp, as compared to the 28.125% that the respondents together hold. given that the large part of the respondents’ shares was not acquired at a discount, but were part of the original investment in samwoh corp, it would be unfair to now impose a minority discount on the respondents’ sale of those shares. relevance of samwoh’s articles102 finally, i address the relevance of the position under samwoh’s articles. the majority judgment is premised, at least in part, on the view that samwoh’s articles are relevant because, in the absence of any court action, samwoh’s articles form the default position should any shareholder wish to sell his shares. the position under samwoh’s articles is as follows:
+
+                   47
+
+
+
+
+foot note 47
+
+×
+
+
+
+  roa vol iii (part j), pp 30–31.
+
+
+
+(a) article 24 provides that the directors may in their “absolute discretion and without giving any reason” decline to register any transfer of shares to a person whom they do not approve. (b) article 28 provides that shares may be freely transferred by a shareholder, but existing shareholders have a right of first refusal. (c) article 29 sets out the procedure for a shareholder to sell his shares. the shareholder is required to give notice of his intention to sell, and in that notice specify the sum he fixes as fair value, or have the fair value fixed by the auditor. (d) article 31 provides if any dispute arises between the proposing seller and the purchasing member as to the fair value of a share, the auditor shall certify the sum which in his opinion is the “fair value”. article 31 does not elaborate on what is meant by “fair value”. (e) article 33 provides that if within three months of service of the sale notice the directors cannot find a purchaser for the shares intended to be sold, then the shareholder would be at liberty to sell the shares to any person and at any price.  103 the upshot is that samwoh’s articles set out what is commonly seen in privately held companies, namely, that existing shareholders have a right of first refusal when another shareholder wishes to sell his shares in the company. practically speaking, therefore, the shareholder intending to sell must notify the other shareholders of such intention, and the price at which he intends to sell. if a dispute over the price of the shares arises, the matter is referred to the auditor for the auditor to certify the fair value of the shares. only if none of the existing shareholders wish to buy those shares can the intending seller then be free to sell the shares to an external buyer. 104 article 31 enables the auditor to determine the fair value of the shares. i have referred to glover on what fair value means (see [83] above). i make two other points. first, samwoh’s articles are relevant only in the absence of court action. in this case, the parties have entered into the consent order which had the effect of creating a completely new exit mechanism for the respondents. whereas prior to the consent order the respondents were faced with arguably only two options – (a) seeking an exit in accordance with samwoh’s articles; and (b) succeeding in an oppression action – the consent order created a third option, namely, the possibility of getting an exit or acquiring the appellants’ shares without a full trial on the issue of liability for minority oppression. 105 second, the respondents’ position under samwoh’s articles cannot be compared to their present position which is that the respondents did not wish to exit the samwoh group. as has been previously noted, the respondents had openly stated their desire to remain in the samwoh group, and to buy out the majority’s shares instead. samwoh’s articles therefore would have provided no recourse for the respondents.conclusion106 for all of the above reasons, i am of the view that the circumstances of the present case militate against the imposition of a minority discount on the respondents’ shares. other matterseffect of the consent order107 taking the appellants’ case at its highest – accepting for present purposes that the basis of the court’s power to make the buyout order was the consent order – i am not persuaded that the buyout order is nothing more than an agreed sale.
+
+                   48
+
+
+
+
+foot note 48
+
+×
+
+
+
+  respondents’ case at paras 107, 110 and 114.
+
+
+
+ in my judgment, the appellants’ submission mischaracterises the effect of the consent order; it also omits to take into account the text of the consent order and the context surrounding the parties’ decision to enter into the consent order in the first place. in reality, the consent order reflected the impasse in existence between the parties as to which party should be forced to exit the samwoh group. the relevant exchanges of correspondence bear out this impasse and the consent order further showed how the parties have decided to resolve the impasse. 108 it is evident from the text of the consent order that the respondents wanted to remain in the company and is normatively not a willing seller. the consent order provided that the judge had to decide whether: (a) the appellants would purchase the respondents’ shares; or (b) the respondents would purchase the appellants’ shares (see majority judgment at [6]). it is plain, therefore, that the respondents desired to buyout the appellants’ shares. indeed, that was the entire purpose behind the first tranche of the parties’ litigation, culminating in the buyout order in 2016. in koh keng chew (no 1), the judge ordered that the appellants buy the shares of the respondents.109 it might be said that taking such a view ignores the fact that the respondents must have accepted the possibility of being bought out by their very own decision of entering into the consent order. however, there is a distinction between accepting the possibility of being ordered to sell one’s shares despite desiring not to be bought out, and agreeing wholeheartedly to selling one’s shares. further, such criticism overlooks the consent order in its proper context, which is the second point i now address. 110 further, perhaps more fundamentally, the consent order cannot be viewed in isolation from the broader context in which it was entered into, which is as follows:(a) in the initial statement of claim filed by the respondents in suit 125, there was no pleaded claim for the buyout of the appellants’ shares. this was, however, added on 18 august 2015 when the respondents’ filed their third amendment to the statement of claim.
+
+                   49
+
+
+
+
+foot note 49
+
+×
+
+
+
+  statement of claim (amendment no 3): roa vol 2 (part d), pp 122–123.
+
+
+
+(b) shortly after, the respondents made an offer by way of a letter, on 23 november 2015, to: (a) acquire the appellants’ shares in the samwoh group for approximately $107m; or (b) have an independent valuer value the shares after which either party may make an offer to buy the other’s shares (koh keng chew (no 2) at [12(a)]). (c) on 22 december 2015, the appellants replied by way of letter, reiterating that the appellants did not wish to sell their shares, and maintained their prior offer to buyout the respondents instead at $40m (koh keng chew (no 2) at [12(b)]).  (d) on 22 january 2016, the appellants issued a further open offer to the respondents. although there were revisions to some of the terms previously offered, the key terms remained the same, ie, the appellants offered to purchase the respondents’ shares for $40m or at a value to be determined by an independent valuer (koh keng chew (no 2) at [12(c)]). (e) it was in this context that, on 15 february 2016, counsel for the appellants informed the judge that the parties had agreed to limit the issues to be determined at the trial upon certain terms. the consent order was thus entered into on 17 february 2016.111 i pause here to point to the judge’s narration of the chronology of the offers above which is not quite accurate. from the exchanges of correspondence leading up to the consent order, the appellants were offering to cause or procure the samwoh group to buy the respondents’ shares. this is quite different from the position in the consent order where the appellants asked to buyout the respondents and vice versa. for present purposes, nothing turns on this change.112 it cannot be denied that the consent order was entered into in the context of suit 125, which was the action for minority oppression against the appellants. more specifically, the consent order was a crystallisation of the impasse, or the remaining dispute, between the parties, as to which side would be bought out. at the time of the exchanges of correspondence, neither side wanted to exit the samwoh group. so, neither side wanted to sell. the state of affairs was the impasse that the parties had arrived yet. true it is that the respondents later voluntarily entered into the consent order; but that does not mean that they desired that circumstances were such that the consent order had to be entered into. it is clear that the consent order was simply a sensible and practicable mode of expediting the resolution of the parties’ dispute. at that point, the parties agreed that there was no longer any mutual trust and confidence in their relationship. the consent order was the solution arrived at by both parties to break this deadlock. in the circumstances, i do not see how it can be said that the respondents willingly consented to being bought out merely by virtue of them entering into the consent order which contemplated such a possibility. i cannot see anything tactical in the respondents’ conduct in this case, nor should litigants in general be discouraged from genuine attempts at settling their disputes, whether in whole or in part. 113 i can accept, as a general proposition, that if a minority shareholder commences a minority oppression action purely for tactical reasons and as a device to withdraw from the company by selling his shares at their full price – for instance, by avoiding the application of a minority discount – that is not something that the court should countenance. such a course of conduct could amount to an abuse of the court’s process, and the appropriate response in a proper case would be to strike out the action. 114 that the respondents did not initially seek a buyout of the appellants’ shares is neither here nor there. the mere fact that a party amended its pleading cannot, without more, lead to an inference that the party is seeking to abuse the court’s process. in addition, the respondents have, since the amendment, acted consistently with the indicated intention to buy out the appellants – from their offer in correspondence, to the terms agreed in the consent order, and their position taken at the buyout hearing before the judge. 115 that no finding of oppression was made is also inconclusive evidence of the respondents having commenced suit 125 for purely tactical reasons. in this regard, i appreciate that many of the pleaded instances of oppressive conduct were found by the judge not to amount to oppressive conduct by the appellants. yet that cannot be sufficient to found an inference that the respondents never had a genuine case and therefore sought to compromise it by a consent order so as to improve their position. simply put, a weak case does not mean that a party never had any genuine intention of litigating the matter. one may well take the view now, with the benefit of hindsight, that had the parties not compromised the dispute, the respondents’ claim in minority oppression may have failed. but that was not known to the parties at the time they entered into the consent order.116 perhaps most critically, i would be reluctant to draw adverse inference from the respondents’ conduct in agreeing to enter into the consent order. specifically, to the extent that the majority judgment suggests that the consent order should be viewed as an election by the respondents to abandon their s 216 action, i would respectfully disagree. the parties were merely narrowing the scope of issues to be litigated at the trial. the parties, very sensibly, realised that neither side wanted the other to remain in the company. to that extent, if they could oust the other party from the company without having to go through a full trial on whether there had been minority oppression, it was in both sides’ interests to agree to dispense with the litigation of that issue, so as to save time and costs. as i have already noted, the consent order thus did not more than reflect the impasse that the parties were at, and was an agreement that their disagreement be decided by the court. i therefore find it exceedingly difficult to construe the consent order in any other way than this, much less as an “election” by the respondents to abandon their action in minority oppression. to the contrary, the consent order was a means to allow the respondents to advance the proceedings, while saving time and costs. in form, suit 125 remained alive and was not discontinued. in substance, the respondents were obtaining the very remedy that it had sought – either an order to buy out the appellants or to be bought out.117 my difficulty with construing the mere entering by the parties into the consent order as tantamount to an abandonment of the respondents’ action, with adverse consequences on the value to be obtained on the minority shareholding, is compounded by the fact that such an approach would invariably operate as a dampener on genuine attempts by parties to compromise their disputes. such an approach would have the effect of creating a rule that parties who compromise liability and consent to a court order for a share buyout de jure have their shares assessed on a “willing seller and willing buyer” basis, such that minority shareholders invariably receive minority discounts on their valuations. such a rule would only serve to work against the policy of the court to encourage parties to settle. litigants, in particular minority shareholders, would henceforth be required to stipulate in every consent order that a minority discount ought not to apply, because the legal default would be that the discount applies. this would only create an additional hurdle for litigants seeking to compromise on the issue of liability for minority oppression – majority shareholders may not wish to agree to such a term, while minority shareholders may not agree to any compromise on liability at all without the assurance of such a term. in my judgment, the policy of encouraging settlements would be better facilitated if litigants had comfort in the knowledge that they could compromise the issue of liability for minority oppression without that determining conclusively, one way or the other, whether a minority discount could apply.118 for all these reasons, i disagree with the appellants’ submission that the buyout order should be construed as an agreed sale, or is akin to a freely negotiated commercial transaction, between a willing seller and willing buyer. observations on the basis of the court’s power to order a share buyout119 i have, until this point, been content to deal with the appeal on the premise that i accept the appellants’ submission that the consent order was the basis of the court’s power to make the buyout order. for my part, however, i have some doubts as to the correctness of such a position. specifically, it seems to me that there is some difficulty with the view that the parties could have conferred on the court the power to make a share buyout order solely by their consent. as i noted, the point was not squarely argued before us. future courts may therefore wish to explore the issue in greater detail, and i therefore only put forth some provisional observations on the matter here.120 it is the appellants’ submission that the judge erred in finding that the buyout was made pursuant to s 216(2) of the companies act, as it was instead made pursuant to the consent order. the appellants attack the judge’s reasoning on the basis that as there was no finding of oppression, the power conferred by s 216(2) of the companies act could not have been enlivened. this is so because the very wording of s 216(2) of the companies act is that the court’s powers to grant relief is predicated on the court first being of the opinion that minority oppression has been established. by a process of elimination, it would seem, the appellants contend that the source of the court’s power to make the buyout order therefore must have been the consent order. no other argument from principle is advanced in support. 121 the appellants’ submission seems, however, to run contrary to the well established principle that parties cannot confer jurisdiction upon the court. as the authoritative text foskett on compromise (david foskett gen ed, sweet & maxwell, 8th ed, 2015) (“foskett”) notes, “it is clear that parties cannot by consent confer upon a court a jurisdiction which it does not otherwise possess” (at para 9-11). elsewhere, it is noted that “[i]f the court is asked to make an order outside its jurisdiction, or which it is illegal, then it can properly decline to do so” (at para 10-02). 122 in support of this proposition, foskett cites the decision of the english court of appeal in hinde v hinde [1953] 1 all er 175 (“hinde”). the decision in hinde is a useful illustration of the principle. in hinde, the court was essentially faced with a consent order that stipulated that a wife was entitled to receive maintenance from her husband until her remarriage. as it turned out, the husband passed away before the wife remarried. as no further maintenance was forthcoming, the wife brought an action against the husband’s estate claiming continuing payments of maintenance. the estate resisted the claim on the ground that the order was to be construed as for the parties’ joint lives, and therefore it ceased on the death of the husband. it was clear that the court had no power to grant the wife a right to maintenance payments even after the husband’s death.123 birkett lj expressed his views as follows (at 176):the conclusions to which i come, therefore, are these: (i) if this order is to have validity as an order of the court, it must be construed as an order made for joint lives, and (ii) on the construction of the order, the use of the name of the husband simply, the absence of any reference to the life of the wife as the period for which maintenance is to be paid, the use of the words “until re-marriage” in the context of the order, the provisions for maintenance of the child of the marriage contained in the same order, all seem to me to point to the order being one in which the liabilities of the husband were limited to the joint lives of the husband and wife. for these reasons, i think that the decision of barnard j was right and the order of 25 march 1936, imposed liability on the husband for joint lives only. in my opinion, therefore, this appeal ought to be dismissed. [emphasis added]124 morris lj put the position more strongly (at 177–179): it follows that the only jurisdiction which the court had to order the husband to pay £300 per annum to the wife was limited to the period of the joint lives. though parties may agree on amounts or may make agreements as to payments, they cannot by consent confer on the court a jurisdiction which it does not possess. thus, in re aylmer, ex p bischoffsheim lord esher mr in the course of his judgment (20 qbd 262), referred to the “well known rule” that“the consent of parties cannot give the court a jurisdiction which it does not otherwise possess.”…the words “by consent” in the order of 25 march 1936, may denote that the parties agreed the amounts which the court, acting within its jurisdiction, could order the husband to pay, or they may denote that the parties agreed to the terms extending beyond those which the court, acting within its jurisdiction, could order. a consent order may amount to a contract, or may be evidence of, or corroboration of, some contract which has already been made, but, if the court is invited to make an order by consent and an order is then drawn up which, according to one construction, is within the powers of the court, while, according to another construction, it is not, the court will proceed on the basis that the order is made within the powers of the court until it is shown that the position was that the parties merely made a contract and that the consent order was intended to be the embodiment or the evidence of the terms agreed.[emphasis added]125 the upshot therefore is that it is not a good answer simply to point at a consent order and say that its terms was the source of the court’s power to make the order sought to be enforced. the court can only make an order that is within the jurisdiction of the court to begin with; powers cannot be conferred by virtue of the parties’ consent alone.126 the appellants also make an argument from authority, citing, among others, hoban steven maurice dixon and another v scanlon graeme john and others [2005] 2 slr(r) 632 (“hoban (hc)”)
+
+                   50
+
+
+
+
+foot note 50
+
+×
+
+
+
+  appellants’ boa at tab 11.
+
+
+
+ and abhilash s/o kunchian krishnan v yeo hock huat and another [2018] sghc 107 (“abhilash (hc)”).
+
+                   51
+
+
+
+
+foot note 51
+
+×
+
+
+
+  appellants’ boa at tab 4. 
+
+
+
+ these cases, the appellants submit, show that under our law, the court’s jurisdiction to make a buyout order can be founded on a consent order entered into by the parties. further, the appellants recognise that the position in england is different, primarily due to the decision by the english court of appeal in re bird precision bellows ltd [1986] 1 ch 658, but urge us not to follow the english approach.127 the appellants relied on the cases of hoban (hc) and abhilash (hc). in my judgment, these decisions merely demonstrate that factually the court has countenanced such a compromise before. crucially, the source of the court’s power to make a share buyout order was never questioned or closely examined in those cases. having examined in some detail the decisions in the hoban and the abhilash cases, it is clear to me that there is a limit on how much weight can be placed on these decisions as explanations of the source of the court’s power to make a buyout order when parties compromise on the issue of liability for minority oppression. 128 the hoban cases provide no explanation as to the source of the court’s power to make a buyout order. although rajah j (as he then was) held in hoban (hc) that the court had no power to order a buyout under s 216(2) of the companies act in the absence of any finding of oppression (at [12]), he did not positively identify the source of the power in making the buyout order. i accept that it may well be argued that the implicit reasoning to be drawn from the decision is that the source of the court’s power must therefore have been the consent order in hoban. however, the reasoning is just that – implicit. crucially, the point was never put before rajah j that if he took the view that the court had no power under s 216(2) of the companies act to grant a buyout order, then the court had no power to make any buyout order at all in the circumstances. it is therefore evident that rajah j had not considered, at least not explicitly, the question of the source of the court’s power to make such an order. put differently, the court’s power to make a buyout order in hoban was assumed rather than rationalised on some concrete ground. 129 further, when this court heard the appeal from hoban (hc), the matter was remitted back to rajah j for him to consider, in the exercise of his discretion as provided for in para (b) of the consent order in hoban, whether there should be an adjustment to the valuation of the shares (see hoban steven maurice dixon v scanlon graeme john [2007] 2 slr(r) 770 (“hoban (ca)”) at [12]). seen in this light, because this court had an alternative route open to it (ie, of remitting the matter to rajah j to exercise his discretion on the basis of the order that he had made), this court did not have to decide the issue of whether the court’s discretion under s 216(2) of the companies act was extinguished by virtue of a compromise on liability for minority oppression. evidently, therefore, this court’s decision in hoban (ca) does not stand for the proposition that the court’s power to make a buyout order can be derived from a consent order alone.130 there is also now a further reason to doubt even the implicit reasoning in hoban, if that was indeed the case, that the court’s power came from the consent of the parties. in the recent decision of turf club auto emporium pte ltd and others v yeo boong hua and others and another appeal and other matters [2017] 2 slr 12 (“turf club”),
+
+                   52
+
+
+
+
+foot note 52
+
+×
+
+
+
+  jlc bundle of documents and authorities, tab 4.
+
+
+
+ this court had the opportunity to consider hoban (ca) for the proposition that a court could set aside a consent order on the ground that it was unworkable. the appellants in turf club had sought to set aside a consent order, which provided for a bidding exercise to be carried out (at [29]), on the ground that it had become inoperative because there was nothing left to bid for (at [166]). 131 this court in turf club, after considering the hoban line of cases, held that hoban was distinguishable from the case before it, as the order in hoban was an “order made by the trial judge, albeit premised on a broad agreement between the parties, as opposed to a truly contractual consent order” (at [172]). further, it was noted that in hoban (ca), what had been taken into account was the intentions of the trial judge, rather than the intentions of the parties, as would be expected if the order were truly a contractual consent order. this court in turf club thus concluded that if the order were not a contractual consent order but an “ordinary order of court”, the court’s decision that it was empowered to set it aside would be uncontroversial. that, as this court noted, was the “true basis of the decision in hoban” (at [172]).132 i add three reasons which appear not to have been mentioned explicitly in the reasoning of the court in turf club, which lend further support to this analysis of hoban:(a) first, taking a look at the actual wording of the order by rajah j, it is evident that the words “by consent” are absent. instead, the order reads as it would an “ordinary order of court”; namely, that the judge, having read the affidavits, heard the evidence and considered the submission, made the orders that followed. (b) second, the order made by rajah j is not actually referred to as a consent order in any of his decisions, nor in hoban (ca). (c) third, that this court in hoban (ca) viewed the order made by rajah j as an “ordinary order of court” as opposed to a consent order is fortified by the fact that it cited haw par bros (pte) ltd v dato aw kow [1971–1973] slr(r) 813 (“haw par bros”)
+
+                   53
+
+
+
+
+foot note 53
+
+×
+
+
+
+  jlc bundle of documents and authorities, tab 5.
+
+
+
+ as authority for the proposition that a court could set aside a court order on the ground that it was unworkable. haw par bros concerned a case where an order was made, upon the application of a director, that the accounting and other records of the defendant company be open to inspection by a company auditor appointed by the director. the director’s application was resisted by the company (at [4]). shortly after, the director was removed from his position as director, and the defendant company took the position that the order granting him access to records had lapsed (at [5]). choor singh j held that the director’s right to inspect the records did not ipso facto lapse upon his ceasing to be a director (at [28]). in this regard, while it is not clear how the decision in haw par bros was construed as having been that “the court order ceased to have effect as it was granted on the basis of the respondent being a director”, the point remains that haw par bros clearly did not concern a consent order. on that footing, it presents some indication as to the court’s view of the order made by rajah j – ie, that it was more akin to an “ordinary order of court” than a consent order.133 seen in this light, it is evident that the decision in abhilash (hc) is of no greater assistance. thean j expressly relied upon the approach taken in hoban to hold that the court had the power to make a buyout order where liability for minority oppression had been compromised. however, for the reasons i have given above, none of the decisions in the hoban line of cases in fact decided such a point. to this extent, thean j’s approach in abhilash (hc) merely perpetuated the assumption first made in hoban (hc). indeed, the court’s power to make the buyout order was not the subject of any challenge on appeal, as the sole issue before this court then was a matter of valuation of the shares (see abhilash s/o kunchian krishnan v yeo hock huat and another [2019] 1 slr 873 at [4]). 134 having closely examined the reasoning adopted in the hoban and the abhilash cases in the manner above, i have serious difficulty with concluding that they stand for the proposition that the court may derive its power to make a buyout order solely from the parties’ consent. the most recent views expressed by this court in turf club – that the order in hoban was not even a consent order – places even greater strain on the implicit reasoning in hoban (and which was, by this token, misunderstood in abhilash (hc)) that the court’s jurisdiction to order the buyout came from the consent of the parties. as it was only an “ordinary order of court”, the question is even more starkly presented – under what jurisdiction did the court make this order in each case? 135 to conclude, it appears to me that the position in singapore is not conclusively settled. in some future case therefore, it would be open to this court, and indeed necessary for this court, to determine a sound juridical basis for the exercise of its powers in making a buyout order where parties have compromised on the issue of minority oppression. the approach advocated by the appellants, namely, that a consent order can be the source of the court’s power is, as i have explained, lacks both authority and principle. in the interim, parties keen on compromising their disputes, without admitting that there had been minority oppression, ought to consider alternative routes to overcome any jurisdictional difficulty that may arise due to the lack of a finding of minority oppression. one possibility is, as lord hoffmann intimated in o’neill v phillips, for the alleged oppressive shareholder to make a reasonable offer to buy out the other party, and apply to strike out the minority oppression application (at 16).  conclusion136 for the reasons already canvassed above, i would hold that no minority discount ought to be imposed on the respondents’ shares. i would therefore dismiss the appeal. belinda ang saw ean  judge  patrick ang, jared kok, derek on and torsten cheong (rajah & tann singapore llp) for the appellants;nish shetty, jordan tan, elan krishna and sarah hew (cavenagh law llp) for the respondents.

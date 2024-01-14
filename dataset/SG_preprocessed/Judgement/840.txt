@@ -1,0 +1,1582 @@
+in the singapore international commercial courtof the republic of singapore[2022] sghc(i) 9originating summons no 6 of 2022 (summons no 5882 of 2021)between(1)the government of the lao people’s democratic republic (2)san marco capital partners llc(3)kelly gass… plaintiffsand(1)sanum investments limited(2)lao holdings nv… defendantsoriginating summons no 7 of 2022between(1)sanum investments limited(2)lao holdings nv… plaintiffs and(1)san marco capital partners llc(2)kelly gass(3)the government of the lao people’s democratic republic… defendantsjudgment[arbitration — award — recourse against award — setting aside][arbitration — enforcement] this judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.sanum investments ltd and another vgovernment of the lao people’s democratic republic and others and another matter [2022] sghc(i) 9singapore international commercial court — originating summons no 6 of 2022 (summons no 5882 of 2021) and originating summons no 7 of 2022philip jeyaretnam j, vivian ramsey ij and douglas jones ij18 may 20221 june 2022 judgment reserved.philip jeyaretnam j (delivering the judgment of the court):introduction1 this matter principally concerns an arbitral tribunal’s invocation of the doctrine of collateral estoppel under new york law, which precluded the reopening of certain issues in a singapore seated arbitration. we consider, in accordance with established case law, that even if the tribunal had been wrong to do so, this would amount to no more than an error on the merits of the claim, and would not ground any challenge to the award. in this judgment, we explain why we have concluded this, as well as deal with arguments put forward to resist enforcement of part of the costs order made by the tribunal.background2 lao holdings nv (“lh”) and sanum investments ltd (“sanum”) (collectively, the “investors”) took out sic/os 7/2022 (“os 7”) to set aside an arbitral award (the “award”) which found in favour of the government of the lao people’s democratic republic (“gol”), san marco capital partners llc (“sm”) and kelly gass (“gass”) (collectively, the “gol parties”). the investors also filed a related application in sic/os 6/2022 (“os 6”), hc/sum 5882/2021 (“sum 5882”), to set aside an ex parte order of court (hc/orc 4993/2021 (“orc 4993”)) which granted the gol parties leave to enforce the award.3 os 7 and sum 5882 are continuations of a long-running dispute relating to the investors’ investments in the lao people’s democratic republic (“laos”), which has been the subject of numerous decisions from the singapore courts: see, eg, government of the lao people’s democratic republic v sanum investments ltd [2015] 2 slr 322, sanum investments ltd v government of the lao people’s democratic republic [2016] 5 slr 536, sanum investments ltd v st group co, ltd and others [2020] 3 slr 225, st group co ltd and others v sanum investments ltd and another appeal [2020] 1 slr 1 and lao holdings nv v government of the lao people’s democratic republic and another matter [2021] 5 slr 228 (“lao holdings (hc)”). the lengthy and fraught history between parties has been described at length in these prior decisions, and we will only set out the salient facts which provide context to and have a bearing on the present applications.the parties 4 sanum, a company incorporated under the laws of the macau special administrative region of china (“macau”), is a wholly-owned subsidiary of lh. lh is incorporated in the netherlands.
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  case management bundle dated 14 march 2022 (“cmb”) at p 238 (john k. baldwin’s 1st affidavit dated 12 november 2021 (“jkb-1”) at para 2).
+
+
+
+ both companies made investments in gaming assets (the “gaming assets”) in laos. the gaming assets included the savan vegas hotel and casino complex (“sv casino”).
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  cmb at p 241 (jkb-1 at para 12).
+
+
+
+5 prior to events in 2015, the sv casino was operated by a laotian joint venture company, savan vegas and casino co. ltd. (“svcc”), which was 80% owned by sanum and 20% owned by gol.
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  cmb at p 241 (jkb-1 at para 12).
+
+
+
+ following the breakdown of the relationship between gol and the investors, gol appointed sm in 2015 to manage, sell and market the gaming assets, including the sv casino. gass is the president of sm.
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  cmb at pp 243–244 (jkb-1 at para 22), pp 516–530 (the “management and sales and marketing contract”) and p 1243 (tan yuan kheng’s 1st affidavit dated 20 december 2021 (“tyk-1”) at para 10).
+
+
+
+dispute history6 on 14 august 2012, the investors each commenced arbitration against gol pursuant to a prc-laos bilateral investment treaty and a laos-netherlands bilateral investment treaty respectively. the arbitral proceeding between sanum and gol was administered by the permanent court of arbitration (“pca”) while the arbitral proceeding between lh and gol was administered by the international centre for settlement of investment disputes (“icsid”). these arbitrations are collectively referred to as the “bit arbitrations”.
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  cmb at p 241 (jkb-1 at para 13).
+
+
+
+7 to put an end to these disputes, a settlement deed (the “settlement deed”) was executed on 15 june 2014 under which the investors agreed to take steps to sell the gaming assets, including the sv casino, to a third party.
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  cmb at p 358 (clause 10).
+
+
+
+ the sale was to be effected within ten months after 15 june 2014 (ie, by 15 april 2015), failing which a third-party gaming operator could be appointed to (a) manage and operate the gaming assets and (b) complete the sale.
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  cmb at pp 358–359 (clauses 11–12).
+
+
+
+ the settlement deed also provided for the suspension of the bit arbitrations and their revival on certain conditions.
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  cmb at pp 364–365 (clauses 31–32).
+
+
+
+8 the investors failed to sell the gaming assets by 15 april 2015. pursuant to the settlement deed, gol entered into a contract (the “contract”) with sm on 16 april 2015 for the management, sale and marketing of the gaming assets. the contract, which was effective from 15 march 2015, was signed by gass on behalf of sm.
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  cmb at p 243–244 (jkb-1 at para 22), pp 516–530 (the contract) and p 1243 (tyk-1 at para 10).
+
+
+
+ on 28 september 2015, gol issued a decree transferring all the assets owned by the svcc to savan lao, a new entity that was solely owned by gol, in order to accomplish the sale of the sv casino. the sv casino was eventually sold to macau legend on 30 august 2016 for us$42 million.
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  cmb at p 244 (jkb-1 at para 23) and p 272 (siac 414 award at para 81).
+
+
+
+9 the settlement deed failed to resolve parties’ differences and itself spawned protracted legal battles in multiple forums.(a) on 11 august 2014, gol initiated siac arbitration case no. arb 143/14/mv (the “prior siac arbitration”) against the investors for alleged breaches of the settlement deed. in turn, the investors advanced counterclaims against gol for allegedly breaching the settlement deed.
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  cmb at p 1243 (tyk-1 at para 9).
+
+
+
+ sm and gass were not parties in this arbitral proceeding.
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  cmb at p 243 (jkb-1 at para 20).
+
+
+
+ a final award (the “prior siac award”) was rendered on 29 june 2017. by a majority, the tribunal found in favour of gol and dismissed the investors’ counterclaims in their entirety.
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  cmb at p 243 (jkb-1 at para 21), p 1244 (tyk-1 at para 13) and pp 547–719 (dissenting opinion at 686–719).
+
+
+
+ on 2 august 2019, the prior siac award was enforced as a judgment of the singapore court.
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  cmb at p 239 (jkb-1 at para 7), p 243 (jkb-1 at para 21) and p 1244 (tyk-1 at para 13).
+
+
+
+(b) on 3 may 2016, the investors commenced a lawsuit against sm and gass in the united states district court for the district of delaware (the “delaware district court”), asserting, inter alia, claims for breach of fiduciary duties in the course of their management of the sv casino (the “delaware action”).
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  cmb at p 244 (jkb-1 at para 24) and p 1244 (tyk-1 at para 12).
+
+
+
+ on 21 june 2016, sm and gass filed a motion to dismiss the delaware action on the ground that the disputes should be submitted to siac arbitration in singapore pursuant to the settlement deed.
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  cmb at pp 22–23 (gerui lim’s 1st affidavit dated 16 august 2021 (“gl-1”) at para 14) and pp 436–471.
+
+
+
+ in support of their motion to dismiss, gass filed a declaration which contained the following statement:
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  cmb at p 380 (clause 29).
+
+
+
+i, in my individual capacity and as the sole member and manager of [sm], consent and submit to siac arbitration in singapore, where [the investors] agreed to arbitrate disputes pursuant to the settlement deed.the delaware district court granted sm’s and gass’ motion to dismiss on 12 july 2017, holding that the investors’ claims were intertwined with the settlement deed, which required those claims to be submitted to arbitration.
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+  cmb at p 1244 (tyk-1 at para 12) and pp 384–393.
+
+
+
+(c) the bit arbitrations were subsequently revived on 15 december 2017, resulting in two arbitral awards each rendered by the respective pca and icsid tribunal. these two arbitral awards are presently the subject of setting aside proceedings before the singapore courts: see lao holdings (hc) (which is currently on appeal).these form the backdrop of siac arbitration case no. arb 414/17/qw (“siac arbitration 414”), which gave rise to the award in question.procedural history of siac arbitration 41410 siac arbitration 414 was commenced by the investors on 19 december 2017. in this proceeding, the investors asserted claims for breach of fiduciary duty, breach of contract and conversion of property against sm and gass.
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+  cmb at p 1244 (tyk-1 at para 14) and pp 411–422.
+
+
+
+11 gol filed an application for joinder on 3 february 2018. this application was granted by the court of arbitration of the siac on 9 april 2018 (despite the investors’ opposition) and gol was thereafter joined as the third respondent.
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+  cmb at p 1244 (tyk-1 at para 15).
+
+
+
+ after the tribunal (the “tribunal”) for siac arbitration 414 was constituted, the investors raised a jurisdictional objection to the joinder of gol, claiming that the tribunal did not have jurisdiction over gol. this was met with opposition from sm and gass.
+
+                   21
+
+
+
+
+foot note 21
+
+×
+
+
+
+  cmb at pp 398–399 (tribunal’s decision on jurisdiction over gol at section ii and at para 18).
+
+
+
+ after hearing both sides, the tribunal issued its decision on 25 october 2018 concluding that it had jurisdiction over gol.
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+  cmb at p 24 (gl-1 at para 19) and pp 395–409 (tribunal’s decision on jurisdiction over gol).
+
+
+
+12 a procession of pleadings followed:(a) the investors filed their statement of claim on 29 march 2019;
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+  cmb at pp 720–815.
+
+
+
+(b) the gol parties filed their statement of defence on 16 october 2019;
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+  cmb at pp 816–886 (sm’s and gass’ statement of defence) and pp 887–930 (gol’s statement of defence).
+
+
+
+(c) the investors filed their reply on 10 april 2020;
+
+                   25
+
+
+
+
+foot note 25
+
+×
+
+
+
+  cmb at pp 931–995.
+
+
+
+ and(d) the gol parties filed their rejoinder on 22 may 2020.
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+  cmb at pp 996–1059 (sm’s and gass’ rejoinder) and pp 1060–1069 (gol’s rejoinder).
+
+
+
+13 in between the filing of the statement of claim and statement of defence, the gol parties filed an application for security for costs on 22 august 2019.
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+  cmb at pp 1638–1656.
+
+
+
+ the investors filed their response on 5 september 2019.
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+  cmb at pp 1723–1755.
+
+
+
+ on 23 september 2019, the tribunal denied the application for security for costs.
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+  cmb at pp 1706–1721.
+
+
+
+14 the merits hearing of siac arbitration 414 took place from 26 july to 1 august 2020,
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+  cmb at p 24 (gl-1 at para 20), p 267 (siac 414 award at para 48).
+
+
+
+ and issues of costs were dealt with thereafter:(a) on 25 september 2020, three sets of costs submissions – sm’s and gass’ costs submissions, gol’s costs submissions and the investors’ costs submissions – were filed.
+
+                   31
+
+
+
+
+foot note 31
+
+×
+
+
+
+  cmb at pp 1540–1547 (sm’s and gass’ costs submissions), pp 1549–1553 (gol’s costs submissions) and pp 1555–1570 (investors’ costs submissions).
+
+
+
+(b) on 16 october 2020, the gol parties submitted a collective reply submissions on costs, and so did the investors.
+
+                   32
+
+
+
+
+foot note 32
+
+×
+
+
+
+  cmb at pp 1572–1580 (gol parties’ reply costs submissions) and pp 1582–1606 (investors’ reply costs submissions).
+
+
+
+(c) on 31 may 2021, the tribunal invited parties to update their costs figures, and parties gave their replies on 7 june 2021.
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+  cmb at pp 1608–1616; cmb at pp 269–270 (award at paras 62–63).
+
+
+
+15 on 9 june 2021, the tribunal closed the proceedings.
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+  cmb at p 270 (award at para 64).
+
+
+
+16 on 11 august 2021, the tribunal issued the award dismissing the investors’ claims in their entirety.
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+  cmb at p 24 (gl-1 at paras 21–22) and p 352 (award at para 350(i)).
+
+
+
+ in particular, the tribunal dismissed the investors’ claims against sm and gass for breach of fiduciary and contractual duties, and a portion of their conversion claims (the “estopped claims”), on the basis that they were barred by the defence of collateral estoppel under new york law.
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+  cmb at pp 320 and 341–342 (award at paras 246, 318 and 322).
+
+
+
+ the remaining conversion claims were dismissed on separate grounds.
+
+                   37
+
+
+
+
+foot note 37
+
+×
+
+
+
+  cmb at pp 339–342 (award at paras 311–323).
+
+
+
+ as for costs, the tribunal ordered the investors to pay usd513,655.00 in costs to gol, representing approximately 60% of gol’s legal costs and disbursements (the “gol costs order”).
+
+                   38
+
+
+
+
+foot note 38
+
+×
+
+
+
+  cmb at p 352 (award at para 350(iii)(b)).
+
+
+
+ the tribunal also made other orders, but they are not material to the present applications.
+
+                   39
+
+
+
+
+foot note 39
+
+×
+
+
+
+  cmb at p 352 (award at para 350).
+
+
+
+procedural history of these proceedings17 on 16 august 2021, the gol parties filed hc/os 834/2021 (which was later converted to os 6) seeking leave to enforce the award,
+
+                   40
+
+
+
+
+foot note 40
+
+×
+
+
+
+  cmb at pp 5–7.
+
+
+
+ and on 2 september 2021, an ex parte order of court (orc 4993) granted the gol parties leave to enforce the award.
+
+                   41
+
+
+
+
+foot note 41
+
+×
+
+
+
+  cmb at pp 13–14.
+
+
+
+18 on 12 november 2021, the investors filed hc/os 1158/2021 (which was later converted to os 7) to set aside the award in its entirety or in part,
+
+                   42
+
+
+
+
+foot note 42
+
+×
+
+
+
+  cmb at pp 9–11.
+
+
+
+ and on 20 december 2021, the same two parties filed sum 5882 to set aside orc 4993.
+
+                   43
+
+
+
+
+foot note 43
+
+×
+
+
+
+  cmb at pp 16–17.
+
+
+
+19 the investors sought orders for the anonymisation and redaction of parties’ identities. having invited written submissions from parties, we decided on 18 may 2022 to dismiss those prayers. we considered that the dispute was, in broad terms, already in the public domain, including by virtue of various prior court proceedings.the parties’ cases20 in os 7, the investors seek to set aside the award, in whole or in part, on two grounds:
+
+                   44
+
+
+
+
+foot note 44
+
+×
+
+
+
+  investors’ written submissions dated 29 april 2022 (“investors’ written submissions”) at para 5.
+
+
+
+(a) the investors were not given a reasonable opportunity to be heard on their claims against sm and gass (article 34(2)(a)(ii) uncitral model law on international commercial arbitration (the “model law”) and/or s 24(b) international arbitration act (cap 143a, 2002 rev ed) (“iaa”)).(b) the award was in conflict with singapore’s public policy of ensuring that parties to a dispute have fair access to justice (article 34(2)(b)(ii) model law).21 the investors’ case on both grounds are predicated on the same factual substratum, on the basis that an award that is liable to be set aside for a breach of natural justice under s 24(b) iaa necessarily falls within the wider public policy ground in article 34(2)(b)(ii) model law.
+
+                   45
+
+
+
+
+foot note 45
+
+×
+
+
+
+  investors’ written submissions at paras 34 and 51.
+
+
+
+ it is the investors’ case that the tribunal, on the erroneous basis that the doctrine of collateral estoppel under new york law barred the estopped claims, failed to consider the merits of those claims. this failure, according to the investors, is a clear violation of their respective rights to be heard.
+
+                   46
+
+
+
+
+foot note 46
+
+×
+
+
+
+  investors’ written submissions at paras 36 and 46; investors’ reply submissions dated 13 may 2022 (“investors’ reply submissions”) at paras 2(a)–2(c).
+
+
+
+ had the tribunal considered the merits of the investors’ estopped claims, the award could reasonably have resulted in their favour.
+
+                   47
+
+
+
+
+foot note 47
+
+×
+
+
+
+  investors’ written submissions at paras 47–50.
+
+
+
+22 the gol parties in turn contend that the investors’ case on a breach of natural justice is a thinly disguised complaint about the merits of the tribunal’s finding that the doctrine of collateral estoppel under new york law was established.
+
+                   48
+
+
+
+
+foot note 48
+
+×
+
+
+
+  gol parties’ written submissions dated 29 april 2022 (“gol parties’ written submissions”) at para 37.
+
+
+
+ that doctrine was properly submitted to the tribunal for determination as a substantive defence, and the tribunal did not breach natural justice in the course of coming to its decision.
+
+                   49
+
+
+
+
+foot note 49
+
+×
+
+
+
+  gol parties’ written submissions at paras 39–40.
+
+
+
+ in support of its case, the gol parties cite the court of appeal’s decision in btn and another v btp and another [2021] 1 slr 276 (“btn”).
+
+                   50
+
+
+
+
+foot note 50
+
+×
+
+
+
+  gol parties’ written submissions at paras 55–60.
+
+
+
+ in reply, the investors submit that this court is entitled to examine the tribunal’s reasons for not addressing an important pleaded issue when assessing whether there had been a breach of the right to be heard,
+
+                   51
+
+
+
+
+foot note 51
+
+×
+
+
+
+  investors’ reply submissions at paras 3–9.
+
+
+
+ and in this regard, the tribunal’s reasons for shutting out the estopped claims without considering the investors’ submissions were not reasonable and fair because there was no basis for the tribunal to find that the estopped claims were barred.
+
+                   52
+
+
+
+
+foot note 52
+
+×
+
+
+
+  investors’ reply submissions at paras 10–13.
+
+
+
+ the investors also contend that the decision in btn is distinguishable.
+
+                   53
+
+
+
+
+foot note 53
+
+×
+
+
+
+  investors’ reply submissions at para 12.
+
+
+
+23 as regards the investors’ case on the public policy ground, the gol parties make three points. first, there was no denial of the investors’ right of access to justice: the tribunal found that the requirements for the doctrine of collateral estoppel were satisfied because the determinative issues in siac arbitration 414 had already been considered and decided against the investors by another arbitral tribunal in a previous arbitral proceeding, ie, the prior siac arbitration.
+
+                   54
+
+
+
+
+foot note 54
+
+×
+
+
+
+  gol parties’ written submissions at paras 79–80.
+
+
+
+ secondly, the investors’ submission on the correctness of the tribunal’s decision is beyond the remit of the public policy ground under article 34(2)(b)(ii) model law.
+
+                   55
+
+
+
+
+foot note 55
+
+×
+
+
+
+  gol parties’ written submissions at para 81.
+
+
+
+ finally, the investors’ case fails to identify the public policy allegedly breached by the award, and in any event, the tribunal’s application of new york collateral estoppel law to dismiss the investors’ claims, being a matter of foreign law and a specific finding of fact, would not engage singapore’s public policy.
+
+                   56
+
+
+
+
+foot note 56
+
+×
+
+
+
+  gol parties’ written submissions at paras 83–85.
+
+
+
+24 turning now to sum 5882, the investors rely on the same two grounds above to resist enforcement of the award, along with the following additional grounds which attacked the gol costs order:
+
+                   57
+
+
+
+
+foot note 57
+
+×
+
+
+
+  investors’ written submissions at paras 6 and 53–54.
+
+
+
+(a) the investors were unable to present their case on the gol costs order (s 19 iaa read with article 36(1)(a)(ii) model law).(b) the enforcement of the gol costs order would be contrary to the public policy of singapore (s 19 iaa read with article 36(1)(b)(ii) model law).(c) the arbitral procedure was not in accordance with parties’ agreement (s 19 iaa read with article 36(1)(a)(iv) model law).(d) the gol costs order was a decision on a matter beyond the scope of the submission to arbitration (s 19 iaa read with article 36(1)(a)(iii) model law).25 on the first ground, the investors claim that they were not given the opportunity to address a belated assertion made in the gol parties’ reply costs submissions dated 16 october 2020, viz, gol was obliged to pay its attorneys above the fee cap if it were “able to obtain and/or collect costs from the [investors]” [emphasis added].
+
+                   58
+
+
+
+
+foot note 58
+
+×
+
+
+
+  cmb at p 1578 (gol parties’ reply costs submissions at para 14).
+
+
+
+ the investors complain that this assertion relating to gol’s fee arrangement (“gol’s fee arrangement”) was raised for the first time, and represented a marked departure from the original position taken in gol’s costs submissions dated 25 september 2020, viz, gol would be liable for above-cap fees “if awarded and collected by piercing the corporate veil” [emphasis added].
+
+                   59
+
+
+
+
+foot note 59
+
+×
+
+
+
+  investors’ written submissions at paras 61–62; cmb at p 1550 (gol’s costs submissions, footnote 1).
+
+
+
+ in the investors’ view, the tribunal should have therefore rejected this belated assertion, or alternatively, indicated that it intended to accept or rely on that assertion and request for an additional response from the investors. these the tribunal did not do, and they were taken by surprise when the tribunal accepted gol’s belated assertion without having parties address it on this issue.
+
+                   60
+
+
+
+
+foot note 60
+
+×
+
+
+
+  investors’ written submissions at paras 61(e) and 62–63; investors’ reply submissions at para 26.
+
+
+
+26 against this, the gol parties submit that the investors did not inform the tribunal that there was anything new or unexpected in the reply costs submissions, or request for a third round of costs submissions.
+
+                   61
+
+
+
+
+foot note 61
+
+×
+
+
+
+  gol parties’ written submissions at paras 127(f) and 131.
+
+
+
+ moreover, the investors were able to and did in fact present their objections regarding gol’s fee arrangement. the tribunal was not required to “warn” the investors that they were going to reject their argument on gol’s fee arrangement.
+
+                   62
+
+
+
+
+foot note 62
+
+×
+
+
+
+  gol parties’ written submissions at paras 128–130.
+
+
+
+ in the gol parties’ view, the investors are merely attacking the merits of the siac’s decision to award gol costs.
+
+                   63
+
+
+
+
+foot note 63
+
+×
+
+
+
+  gol parties’ written submissions at para 133.
+
+
+
+ in reply, the investors contend that gol’s belated assertion was made so late in the proceedings that until the award was issued, there was no way of knowing whether the tribunal had accepted that assertion. hence, the duty to object to any failure of process or give fair intimation to the tribunal did not arise.
+
+                   64
+
+
+
+
+foot note 64
+
+×
+
+
+
+  investors’ reply submissions at para 27; oral hearing on 18 may 2022.
+
+
+
+27 in relation to their second ground on public policy, the investors rely on the same alleged breach of their respective rights to be heard,
+
+                   65
+
+
+
+
+foot note 65
+
+×
+
+
+
+  investors’ written submissions at para 72.
+
+
+
+ and additionally assert that the gol costs order made pursuant to gol’s fee arrangement is contrary to singapore’s laws and public policy on maintenance and champerty.
+
+                   66
+
+
+
+
+foot note 66
+
+×
+
+
+
+  cmb at p 1433 (jkb-1 at para 23).
+
+
+
+ this prompted a response from the gol parties, who contend that gol’s fee arrangement is not champertous and does not savour of maintenance. rather, it ensured that gol, which represent one of the world’s poorest sovereign states, had access to justice to defend itself against the investors’ legal proceedings.
+
+                   67
+
+
+
+
+foot note 67
+
+×
+
+
+
+  gol parties’ written submissions at paras 138–143.
+
+
+
+ even if there were some uncertainty as to whether the gol costs order was permissible from a public policy standpoint, the gol parties submit that the degree and consequences of any potential violation would hardly shock the conscience, and the court, when weighing the pro-enforcement policy against the public policy allegedly violated, should give effect to the former.
+
+                   68
+
+
+
+
+foot note 68
+
+×
+
+
+
+  gol parties’ written submissions at paras 144–147.
+
+
+
+28 as to their third ground, the investors complain that the gol costs order obliged the investors to bear a part of gol’s fees which had not been incurred by gol. this is allegedly contrary to parties’ agreed arbitral procedure as encapsulated in r 37 of the siac rules of the singapore international arbitration centre (6th edition, 1 august 2016) (the “siac rules”). rule 37 only permits the tribunal to order that the legal or other costs which have been incurred by a party be paid by another party, and according to the investors, that means that the tribunal can only order costs which the former party has incurred a liability or obligation to pay.
+
+                   69
+
+
+
+
+foot note 69
+
+×
+
+
+
+  investors’ written submissions at paras 65–69.
+
+
+
+ 29 the gol parties on the other hand submit that the procedural agreement as to costs does not limit the tribunal’s authority to order only costs that have been “incurred” in the narrow and technical sense as advocated for by the investors.
+
+                   70
+
+
+
+
+foot note 70
+
+×
+
+
+
+  gol parties’ written submissions at paras 96–99.
+
+
+
+ even if the investors’ interpretation of r 37 of the siac rule were correct, the gol costs order would not be contrary to r 37. the tribunal was correct in finding that gol had incurred all the costs awarded in the gol costs order, and the investors cannot reopen the tribunal’s factual ruling on its merits.
+
+                   71
+
+
+
+
+foot note 71
+
+×
+
+
+
+  gol parties’ written submissions at paras 93 and 100–114.
+
+
+
+ in response to this particular point, the investors claim that the language of article 36(1)(a)(iv) of the model law makes it plain that the court must come to its own view on whether the arbitral procedure was in accordance with the parties’ agreement, and this entails considering whether costs claimed by gol have in fact been incurred. the investors also remark that it would be illogical for this court to not be able to review the tribunal’s findings of fact made in the course of applying the agreed procedure: if this were the case, procedural challenges would virtually never succeed since the courts would have to mechanically defer to the tribunals’ application of the procedural rules.
+
+                   72
+
+
+
+
+foot note 72
+
+×
+
+
+
+  investors’ reply submissions at para 32.
+
+
+
+30 the investors’ fourth ground is connected to the third: the tribunal’s jurisdiction was limited to awarding only costs that were incurred by a party, but it exceeded its jurisdiction by awarding costs that cannot be said to have been incurred by gol.
+
+                   73
+
+
+
+
+foot note 73
+
+×
+
+
+
+  investors’ written submissions at paras 70–71.
+
+
+
+ in response to this, the gol parties reiterate that the tribunal was right in finding that gol had incurred all the costs awarded in the gol costs order, and add that in any case, an error of fact and/or law is insufficient to take the tribunal outside the scope of submission. further, and taking a broader view of the matter, the issue of costs was expressly pleaded by parties and gol’s fee arrangement was put into issue by the investors themselves.
+
+                   74
+
+
+
+
+foot note 74
+
+×
+
+
+
+  gol parties’ written submissions at paras 122–125.
+
+
+
+issues to be determined 31 therefore, the issues which the present applications raise are:(a) in relation to the estopped claims:(i) whether there was a breach of natural justice in that the investors were not heard on the merits of their estopped claims against sm and gass because of the tribunal’s findings on collateral estoppel; and(ii) whether the award was in conflict with singapore’s public policy of access to justice, given that the investors were not heard on the merits of their estopped claims against sm and gass;(b) in relation to the gol costs order:(i) whether there was a breach of natural justice arising from the tribunal’s reliance on the clarification of gol’s fee arrangement only in the gol parties’ reply costs submissions;(ii) whether the enforcement of the gol costs order would be contrary to the laws and public policy of singapore against maintenance and champerty;(iii) whether the gol costs order was contrary to parties’ agreed arbitral procedure; and(iv) whether the tribunal exceeded the scope of parties’ submission to arbitration by awarding costs that have not been incurred by gol in the gol costs order.issue a1: whether there was a breach of natural justice in that the investors were not heard on the merits of their estopped claims against sm and gass because of the tribunal’s findings on collateral estoppel 32 under s 24(b) of the iaa, an arbitration award may be set aside if a breach of the rules of natural justice occurred in connection with the making of the award, by which the rights of any party have been prejudiced. as set out by the court of appeal in soh beng tee & co pte ltd v fairmount development pte ltd [2007] 3 slr(r) 86 at [29], the party who challenges the award on this ground must: (a) identify the rule of natural justice which was breached; (b) establish how the rule was breached; (c) establish the way the breach was connected to the making of the award; and (d) show that the breach prejudiced its rights. the rule said to have been breached in the present case is the right to be heard. this right requires each party to have a “full opportunity” of presenting its case, subject to considerations of reasonableness and fairness. the result is that what constitutes “full opportunity” is a contextual inquiry of whether the proceedings were conducted in a manner which was fair, and the approach a court should take is to ask itself if what the tribunal did (or decided not to do) falls within the range of what a reasonable and fair-minded tribunal in those circumstances might have done: china machine new energy corp v jaguar energy guatemala llc and another [2020] 1 slr 695 at [104].33 in light of the foregoing principles, it is evident to us that the investors’ respective rights to be heard were not breached in the manner alleged. we elaborate.34 the tribunal did not examine the merits of the investors’ estopped claims because it held that those claims were precluded by the doctrine of collateral estoppel under new york law, a defence which was raised by the gol parties and contested by the investors during the arbitral proceedings. collateral estoppel in new york law is a similar doctrine to that of issue estoppel in singapore law. as the tribunal noted,
+
+                   75
+
+
+
+
+foot note 75
+
+×
+
+
+
+  cmb at p 60 (award at para 137).
+
+
+
+ parties were in partial agreement concerning its nature, reach and effect:the parties agree that, under new york law, collateral estoppel is substantive in nature. the parties also appear to agree that collateral estoppel prevents “re-litigation of an issue of law or fact that was raised, litigated, and actually decided by a judgment in a prior proceeding between the parties […] regardless of whether or not the two proceedings are based on the same claim”. the tribunal finds that these propositions accurately reflect new york law.35  the principal point of difference on the legal position under new york law concerned whether and how it applied to entities that were not directly parties to the earlier litigation.
+
+                   76
+
+
+
+
+foot note 76
+
+×
+
+
+
+  cmb at pp 55 and 58–59 (award at paras 118–119 and 130–131).
+
+
+
+ this was identified and determined by the tribunal under the heading: “does the doctrine of collateral estoppel only apply to parties to the prior action? were [sm] and [gass] ‘agents’ of gol or otherwise in privity with the result that the doctrine applies to them?”.
+
+                   77
+
+
+
+
+foot note 77
+
+×
+
+
+
+  cmb at pp 61–65.
+
+
+
+36 after a review of the facts as well as several new york court decisions relating to the doctrine of collateral estoppel,
+
+                   78
+
+
+
+
+foot note 78
+
+×
+
+
+
+  cmb at pp 61–64 (award at paras 142–153).
+
+
+
+ the tribunal agreed with sm and gass that they were in privity with gol for the purpose of that doctrine, and that this was the case even on the assumption that they owed fiduciary duties to the investors as well as gol.
+
+                   79
+
+
+
+
+foot note 79
+
+×
+
+
+
+  cmb at pp 64–65 (award at paras 154–156).
+
+
+
+37 the tribunal then considered the further requirements for the application of the doctrine of collateral estoppel and concluded that they were all satisfied.
+
+                   80
+
+
+
+
+foot note 80
+
+×
+
+
+
+  cmb pp 65–86 (award at paras 157–223).
+
+
+
+ when considering one of those requirements, namely identity of issues, the tribunal had regard to a preclusion chart that all parties provided input on. it is worth quoting the award on this aspect:
+
+                   81
+
+
+
+
+foot note 81
+
+×
+
+
+
+  cmb at p 66 (award at para 161).
+
+
+
+as recounted in the procedural history, [sm] and [gass] presented a preclusion chart seeking to show the identity between the issues in the prior siac arbitration and those in this arbitration. the [investors] inserted their comments into the same chart, to which [sm and gass] replied, after which the completed preclusion chart was filed on 28 august 2020. an examination of this chart reveals that the issues before this tribunal are identical (identity being understood in the manner just described) to those before the prior siac arbitration. the content of the chart is discussed below.38 it can be seen then that the tribunal made determinations of law and fact in relation to a doctrine of substantive law under the governing law, namely new york law. it was these determinations that in turn led to the conclusion that the doctrine of collateral estoppel applied so as to preclude the investors from arguing the merits of the estopped claims.39 this is very different from a tribunal mistaking its procedural powers or the scope of issues in play before it, and on the basis of such a mistake either proceeding to an award without hearing one party or excluding evidence. it is instead the tribunal doing what it was tasked to do, namely, to determine the dispute referred to it, including determining the application of any preclusionary or exclusionary doctrines raised by a party before it. whether the tribunal made an error of law or fact in its decision that the doctrine of collateral estoppel applied goes only to the merits, and cannot found a challenge to the award.40 at this juncture, we reiterate the well-settled position that curial intervention in arbitral proceedings is generally limited to process failures and does not extend to a merits-based review of the award. it has been said time and again that courts must resist the temptation to engage with what is substantially an attack on the merits of an award, but which may be disguised or presented as a challenge to process failures: see akn and another v alc and others and other appeals [2015] 3 slr 488 at [37]–[39] and blc and others v blb and another [2014] 4 slr 79 at [3]–[4]. in support of their case that this court is entitled to review the tribunal’s reasoning, the investors brought our attention to aju v ajt [2011] 4 slr 739 at [65] and beijing sinozonto mining investment co ltd v goldenray consortium (singapore) pte ltd [2014] 1 slr 814 at [52].
+
+                   82
+
+
+
+
+foot note 82
+
+×
+
+
+
+  investors’ reply submissions at paras 4–5.
+
+
+
+ but these cases in fact reinforce this general principle on the limited extent of curial intervention.41 we agree with the investors that when dealing with an allegation of a breach of natural justice of the type in question, the court should inquire into the tribunal’s reasons for not addressing a pleaded issue which was at play (see above at [22]).
+
+                   83
+
+
+
+
+foot note 83
+
+×
+
+
+
+  investors’ reply submissions at paras 6–8.
+
+
+
+ however, in light of the general principle expounded above, where those reasons are premised on certain determinations of fact and law made by the tribunal, those determinations must be taken as they are unless they have been tainted by process failures. it is not open to the court to examine the correctness of those determinations. here, the tribunal’s reason for not dealing with the investors’ estopped claims is that they have been precluded by the new york doctrine of collateral estoppel, a finding underpinned by various factual and legal determinations made by the tribunal. the investors are not alleging that they have not been heard on the collateral estoppel issue.
+
+                   84
+
+
+
+
+foot note 84
+
+×
+
+
+
+  investors’ reply submissions at para 11.
+
+
+
+ the applicability of this doctrine therefore supplies a proper and reasonable basis for the tribunal to not address the merits of the estopped claims.42 finally, the mere fact that the investors were precluded by the collateral estoppel doctrine from advancing the estopped claims cannot found a natural justice challenge. in this connection, both counsel addressed the court on the recent court of appeal decision in btn.
+
+                   85
+
+
+
+
+foot note 85
+
+×
+
+
+
+  gol parties’ written submissions at para 55; investors’ reply submissions at para 12.
+
+
+
+ that case concerned an award in which the tribunal had determined that res judicata applied in relation to findings of the malaysian industrial court (“mic”) which therefore bound parties in relation to the dispute in arbitration (at [33]). the court of appeal, at [1], made the following opening observation:… in brief, the appellants are aggrieved because the arbitral tribunal before which they appeared held that they were prevented by the doctrine of res judicata from litigating on a vital component of their defence to the respondents’ claim in the arbitration. they say there is nothing more repugnant to the most basic notions of justice than to deny it to one party. that may be so, but whether “denial of justice” is an appropriate way in which to label what happened in the arbitration proceedings is another matter. litigants affected adversely by the application of the res judicata doctrine, a long-established common law doctrine, often consider themselves to have been unfairly deprived of their right to a hearing.43 in btn, it was first argued unsuccessfully that there was a breach of justice concerning the hearing on the res judicata issue, for example whether the tribunal had based its decision on res judicata on factual matters even though parties had agreed that disputed matters of fact would not be taken into account by the tribunal (at [44]). the challenge has not been mounted in this way in the present case, and the investors have confirmed that it is not their case that they were not heard on the collateral estoppel defence.
+
+                   86
+
+
+
+
+foot note 86
+
+×
+
+
+
+  investors’ reply submissions at para 11.
+
+
+
+ the investors do not raise any denial of justice in how the issue of possible preclusion was heard and determined. rather the investors contend that the fact of preclusion gives rise to the breach of natural justice. there is no merit in this argument. the invocation of any preclusionary doctrine means that a party will not be heard on the aspects of the case that it is precluded from re-opening. such doctrines serve the cause of justice by promoting finality in litigation, and their existence not only in singapore law but in many if not most legal systems demonstrates that they are not in and of themselves objectionable. 44 public policy was also raised in btn and likewise in the present case. we now turn to that ground of challenge.issue a2: whether the award was in conflict with singapore’s public policy of access to justice, given that the investors were not heard on the merits of their estopped claims against sm and gass 45  it is helpful to start with btn. in introducing the public policy challenge in that matter, the court of appeal explained, at [56]:the public policy ground for setting aside provided by art 34(2) of the model law is a narrow one. this court has held that the ground should only succeed in cases where upholding or enforcing the arbitral award would “shock the conscience”, or be “clearly injurious to the public good or … wholly offensive to the ordinary reasonable and fully informed member of the public”, or violate “the forum’s most basic notion of morality and justice”: pt asuransi jasa indonesia (persero) v dexia bank sa [2007] 1 slr(r) 597 (“pt asuransi”) at [59]. in this respect, we reiterate that the doctrine of res judicata has long been part of the law of singapore and its invocation in cases brought in the singapore courts is not unusual. accordingly, a decision based on res judicata principles can never in itself be described as shocking the conscience or wholly offensive to informed members of the public. recognising this, the appellants aim their attack at erroneous applications of the doctrine. importantly, however, the general principle is that even if an arbitral tribunal’s findings of law and/or fact are wrong, such errors would not per se engage the public policy of singapore: aju v ajt [2011] 4 slr 739 at [66]; pt asuransi at [57].46 thus, an award that is made based on res judicata principles is not for that reason contrary to public policy. the appellants in btn raised two arguments why the award in that case contravened public policy. the first rested on the premise that they had not been aware of the mic proceedings (at [57(a)]). the second rested on the claim that the respondents had breached the arbitration agreement by instituting the proceedings before the mic (at [57(b)]). first of all, the court of appeal was not persuaded on the facts, noting at [59] that the appellants have been served with eight notices relating to the mic proceedings and at [63] that they had neither commenced arbitration proceedings themselves nor sought to restrain the mic proceedings.47 the court of appeal went further, however, at [72] and [73], and held that even an erroneous ruling of res judicata would not found a challenge to the award on the basis of public policy. such errors are not to be treated any differently from other errors that a tribunal might make on the merits of the case before it.48 the investors seek to distinguish btn on the ground that they had not had the opportunity to pursue their claims against sm and gass in the prior siac arbitration, as they were unable to join them without their consent. they point out that the declaration filed by gass in the delaware action does not contain a specific consent to be joined to the prior siac arbitration,
+
+                   87
+
+
+
+
+foot note 87
+
+×
+
+
+
+  investors’ written submissions at para 41.
+
+
+
+ and note that the tribunal had accepted this point in the part of the award rejecting sm’s and gass’ reliance on the rule in henderson v henderson, which is sometimes referred to as extended res judicata.
+
+                   88
+
+
+
+
+foot note 88
+
+×
+
+
+
+  investors’ reply submissions at paras 10(a) and 12(a); 18 may 2022 transcript at p 10 line 4 to p 13 line 13 and 17 line 27 to p 18 line 9; cmb at pp 331–334 (award at paras 284–290).
+
+
+
+ for context, the tribunal found that henderson v henderson was a procedural doctrine under singapore law,
+
+                   89
+
+
+
+
+foot note 89
+
+×
+
+
+
+  cmb at p 101 (award at para 272).
+
+
+
+ which applied by virtue of the choice of singapore as the seat of the arbitration.
+
+                   90
+
+
+
+
+foot note 90
+
+×
+
+
+
+  cmb at p 102 (award at paras 275–277).
+
+
+
+ however, the tribunal held that one of the conditions for its application, namely that the claim could have been brought in the prior proceeding, was not established.
+
+                   91
+
+
+
+
+foot note 91
+
+×
+
+
+
+  cmb at p 107 (award at para 290).
+
+
+
+ 49 the investors’ argument conflates two distinct doctrines, namely collateral estoppel under new york law and the rule in henderson v henderson under singapore law. they have different requirements. the tribunal was tasked to decide what the requirements were under each of the doctrines and whether those requirements had been fulfilled. not only was it within the tribunal’s purview to decide that it was not a condition for the application of collateral estoppel that the claims against sm and gass could have been brought in the prior siac arbitration, the investors never argued that it was.50 further, while it is true that the investors did not have the opportunity to pursue their claims against sm and gass, this is beside the point. the collateral estoppel that the tribunal accepted concerned issues common to the prior siac arbitration and to the dispute before it, as shown by the preclusion chart. the investors had had the opportunity to run their case regarding those common issues in the prior siac arbitration. the effect of the finding of collateral estoppel was that the investors could not reopen those matters, and this finding was based on the tribunal’s view that sm and gass were gol’s privies for this purpose. thus, the investors did argue those common issues, but only once, ie in the prior siac arbitration. there is nothing repugnant about their not being allowed to argue the same issues a second time. issue b1: whether there was a breach of natural justice arising from the tribunal’s reliance on the clarification of gol’s fee arrangement only in the gol parties’ reply costs submissions51  to recap, the investors say that they were taken by surprise when the tribunal accepted the clarification in the gol parties’ reply costs submissions that its obligation to pay costs over a certain fee cap was triggered so long as costs were awarded in their favour and there was no need for such costs to actually be collected. they complain that they did not have the opportunity to address this clarification made in gol parties’ reply costs submissions.52 the first difficulty in the investors’ argument is that the issues of how much costs should be awarded and whether any award was to be limited by reason of funding arrangements were in play.
+
+                   92
+
+
+
+
+foot note 92
+
+×
+
+
+
+  cmb at p 814 (investors’ statement of claim at paras 200–201), at p 886 (sm’s and gass’ statement of defence at para 201), p 930 (gol’s statement of defence at para 124(b)), pp 1540–1547 (sm’s and gass’ costs submissions) and pp 1549–1553 (gol’s costs submissions), pp 1555–1570 (investors’ costs submissions), pp 1572–1580 (gol parties’ reply costs submissions, in particular, paras 14–16), pp 1582–1606 (investors’ reply costs submissions, in particular, paras 10 and 14) and p 1674.
+
+
+
+ the tribunal afforded parties the opportunity to exchange two rounds of submissions (see above at [14]). it is not unexpected for reply submissions to clarify or refine a party’s position. upon receipt of the gol parties’ reply costs submissions, the investors did not raise any issue about this allegedly belated assertion, make any request for disclosure or seek any further round of submissions.53 secondly, and more fundamentally, the investors have not fairly represented the tribunal’s decision on this point. in fact, the tribunal noted that gol’s fee arrangement remained unclear, and included this lack of clarity as one of the factors that it bore in mind in allocating only 60% of the costs.
+
+                   93
+
+
+
+
+foot note 93
+
+×
+
+
+
+  cmb at p 124 (award at para 347).
+
+
+
+ thus, it is not even correct that the tribunal simply accepted what was said in the gol parties’ reply costs submissions at face value. for the same reason, it cannot be said that the alleged breach of natural justice had prejudiced the investors.issue b2: whether the enforcement of the gol costs order would be contrary to the laws and public policy of singapore against maintenance and champerty54  the investors urge the court to find on the evidence before us that gol’s fee arrangement is champertous and savours of maintenance. first, we do not accept that the concepts of champerty or maintenance are engaged by an agreement between a defendant and its lawyer that the defendant need only pay the lawyer’s costs above a certain fee cap to the extent that that defendant succeeded in its defence and obtained a costs order in its favour. champerty and maintenance concern intermeddling that encourages lawsuits by financing them, and are not engaged where defence of a lawsuit is concerned. 55 secondly, the arrangement as described is in form much like a conditional fee arrangement. such arrangements are now permitted even for singapore lawyers representing parties in international arbitrations: ss 115a(1) and 115b(1) of the legal profession act 1966 (2020 rev ed) read with reg 3(a) of the legal profession (conditional fee agreement) regulations 2022. at the second reading of the legal profession (amendment) bill on 12 january 2022, the second minister for law, mr edwin tong chun fai, noted that conditional fee arrangements “can also enhance access to justice”, and “can also discourage the pursuit of weak cases and frivolous claims”: singapore parliamentary debates, official report (12 january 2022), vol 95 (edwin tong chun fai, second minister for law).56 it must be kept in mind that the tribunal did not award an amount of costs that could by any measure be considered exorbitant, or not in keeping with the scope and scale of legal work done for the arbitration. we do not accept that gol’s fee arrangement shocks the conscience or is otherwise contrary to public policy.issue b3: whether the gol costs order was contrary to parties’ agreed arbitral procedure57  this issue turns on whether the gol costs order did not fall within the tribunal’s “authority to order in its award that all or a part of the legal or other costs of a party be paid by another party”: rule 37 of the siac rules.58 the investors argue that the costs of a party must be costs that it has incurred in the sense of being obliged to pay. they say that to the extent that gol was not obliged to pay costs above the fee cap then those excess costs could not be awarded by the tribunal. 59 the parties agreed on the application of the siac rules. the tribunal did not disregard the siac rules but followed those rules on the basis of its interpretation of them and its views and findings on the evidence before it. we do not agree that siac rules rule 37 is limited in the way contended for by the investors. gol engaged lawyers who incurred time in its defence. the value of that time spent forms part of gol’s costs and so comes within rule 37. rule 37 vests arbitrators with a broad discretion to allocate and award costs.issue b4: whether the tribunal exceeded the scope of parties’ submission to arbitration by awarding costs that have not been incurred by gol in the gol costs order60  this issue also depends on the investors’ interpretation of rule 37 as outlined in the preceding issue. we do not accept the investors’ interpretation and thus reject the investors’ contention under this head as well.conclusion 61 we dismiss os 7 and sum 5882. parties are to file written submissions on costs limited to ten pages each, and unless either party requests an oral hearing we will proceed to fix and award costs based on those written submissions.philip jeyaretnamjudge of the high courtsir vivian ramseyinternational judgedouglas jones aointernational judgelin weiqi wendy, chong wan yee monica (zhang wanyu), leau jun li (wongpartnership llp) for the plaintiffs in originating summons no 7 of 2022 and applicants in summons no 5882 of 2021;lim gerui, tan yuan kheng (chen yuanqing) and tan sih si (chen shisi) (drew & napier llc) for the defendants in originating summons no 7 of 2022 and respondents in summons no 5882 of 2021.

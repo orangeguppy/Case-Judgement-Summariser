@@ -1,0 +1,647 @@
+in the court of appeal of the republic of singapore[2018] sgca 52civil appeal no 138 of 2016betweencicada cube pte ltd… appellantandnational university hospital (singapore) pte ltd… respondentcivil appeal no 139 of 2016betweennational university hospital (singapore) pte ltd… appellantandcicada cube pte ltd… respondentjudgment[patents and inventions] — [ownership] this judgment is subject to final editorial corrections to be approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.cicada cube pte ltdvnational university hospital (singapore) pte ltd and another appeal[2018] sgca 52court of appeal — civil appeal nos 138 and 139 of 2016andrew phang ja, tay yong kwang ja and steven chong ja1 december 2017, 10 april 201828 august 2018  judgment reserved.tay yong kwang ja (delivering the judgment of the court):1 these are two cross-appeals relating to the ownership of a patent (“the patent”). the invention disclosed in the patent is a system which allows patient specimens to be ordered and collected in an automated manner for laboratory testing. cicada cube pte ltd (“cicada”), a software engineering company, applied for and was granted the patent in 2010. it is not disputed that both parties, namely cicada and national university hospital (singapore) pte ltd (“nuh”), worked together in developing this system. after the patent was granted to cicada, nuh challenged cicada’s entitlement to the patent through a reference (“the reference”) to the registrar of patents (“the registrar”) and subsequently to the high court. the high court judge (“the judge”) found that both parties contributed to the invention and were entitled jointly to the patent. each party now appeals to this court on the basis that only their respective employees were responsible for the heart of the invention disclosed in the patent, thereby entitling it to sole ownership of the patent to the exclusion of the other.2 these appeals thus involve an examination into the inventive concepts in the patent and the respective contributions of each party to these inventive concepts. apart from this, they also raise procedural issues relating to patent entitlement proceedings, in particular, the time restrictions on a party’s right to bring entitlement proceedings before the registrar or the court under s 47 of the patents act (cap 221, 2005 rev ed) (“the act”).factsparties and background3 cicada is a singapore-incorporated software engineering company and is the registered proprietor of the patent. it was founded by dr danny poo chiang choon (“dr poo”) and dr anil kumar ratty (“dr ratty”) who are the company’s directors. dr poo holds a phd in computation
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  joint record of appeal (“jra”) vol iii part b p 5.
+
+
+
+ and dr ratty holds a phd in biochemistry.
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  jra vol iii part j p 259.
+
+
+
+4 nuh is a singapore-incorporated company which operates a hospital. prior to 2008, it was part of the national healthcare group (“nhg”). since then, it has become part of the national university health system. at the material time, dr sunil kumar sethi (“dr sethi”) was chief of the department of laboratory medicine and senior consultant chemical pathologist at nuh, while mr peter lim (“mr lim”) was the principal medical technologist with nuh’s department of laboratory medicine.
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  jra vol iii part k p 132.
+
+
+
+5 in 2004, nhg embarked on a project to digitise the clinical care processes in its hospitals. nuh initially had a combination of manual and electronic processes for its clinical care workflows. doctors ordered laboratory tests for patients on hard copy forms. the information was then keyed into an electronic system known as the laboratory information system (“lis”). the digitisation project contemplated the development of an electronic medical records (“emr”) system to computerise the records kept by nhg’s hospitals. for specimen testing in the laboratory, nhg envisioned a computerised physician order entry (“cpoe”) system which would enable doctors to order medical tests electronically.
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  joint core bundle (“jcb”) vol ii part a p 7 at para 12.
+
+
+
+ in november 2004, nhg called for proposals for these processes and systems and appointed a vendor in june 2005 for the supply and implementation of the emr system.
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  jcb vol ii part a p 7 at para 12.
+
+
+
+6 however, an additional component pertaining to sample collection was still required in order for nuh to have a complete electronic laboratory trail from test-ordering through to result-reporting.
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  jcb vol ii part a p 7 at para 15.
+
+
+
+ nuh decided that a software should be developed for this purpose. one of the workflows that needed to be coded and made to work with both the emr and the lis was the printing of test tube labels when specimens were taken from patients and the specimens were registered in the lis.7 cicada was appointed by nuh to develop the software for this purpose in a project called the advanced test ordering management system (“atoms”).
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  jcb vol ii part a p 8 at para 16.
+
+
+
+ nhg and cicada entered into a memorandum of understanding on 16 december 2005 to develop atoms. it is not disputed that dr sethi, mr lim, dr poo and dr ratty were each involved in the project in some capacity. as nuh lacked the funds for the project, cicada applied for external funding from the prime minister’s office (“pmo”) through its “the enterprise challenge” (“tec”) programme. dr sethi, dr poo and dr ratty worked together on the proposal for the tec programme (“the tec proposal”)
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  jcb vol ii part a p 9 at para 21.
+
+
+
+ and subsequently obtained the funding. on 1 march 2006, cicada, nhg and the pmo entered into a tripartite agreement (“the tec agreement”) under which pilot trials of atoms were to be conducted.the patent8 on 14 august 2007, cicada filed an application for the patent, naming itself as the sole proprietor of the patent and dr poo and dr ratty as the inventors. on 30 july 2010, the patent was granted by the registrar to cicada as the sole proprietor.
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  jcb vol ii part b p 7.
+
+
+
+9 the patent is titled “laboratory specimen collection management system”.
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  jcb vol ii part b p 12.
+
+
+
+ the invention disclosed in the patent (“the invention”) facilitates the automation of the specimen ordering and collection process, from the point of physician-patient contact until specimen delivery to the laboratory.
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  jcb vol ii part b p 180.
+
+
+
+ its specification describes it as “a laboratory specimen collection management system for the clinical laboratory, and especially, a system to identify the type and number of tubes to use to collect patient specimens for testing by the laboratory analyser and to facilitate the collection of the specimens at the point of care”.
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  jcb vol ii part b p 12 at para 0001.
+
+
+
+10 the invention works broadly as follows.
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  jcb vol ii part b pp 12–13 at paras 0005–0010.
+
+
+
+ specimen tests are first ordered by the doctor in charge of the patients. specimen collection stations (either mobile or stationary) are then used by the clinicians to collect specimens from the patients. the specimen collection station contains a bar-code scanner that can electronically identify and verify patients and the corresponding tests ordered for them. the station is linked to a specimen processing system which does two things. first, the system determines and relays the requirements for the specimen to be taken from the patient for the particular test ordered. this includes the type, the number and the colour of the tubes and the amount of specimen to collect from the patient. second, the processing system aggregates information relating to the specimen, such as the patient identification code, patient name, the unique laboratory analyser test accession number for a specimen, etc, and relays them to the specimen collection system such that a label is printed onsite for the tube and to be affixed to the specimen tube.entitlement proceedings11 on 27 july 2012, three days before the expiry of two years from the date of grant of the patent, nuh filed the reference with the registrar under s 47(1) of the act for a determination of entitlement to the patent. nuh applied to be named as the sole proprietor of the patent in place of cicada and for dr sethi to be named the inventor of the patent in place of dr poo and dr ratty.12 about two and a half years later, on 18 february 2015, the registrar declined to deal with the reference on the basis that the matter was relatively complex and involved contractual issues between the parties. the matter was therefore left to the court to decide. consequently, on 17 march 2015, nuh filed originating summons no 239 of 2015 (“the high court proceedings”) in the high court pursuant to o 87a r 8 of the rules of court (cap 322, r 5, 2014 rev ed) (“roc”), which allows the referral of entitlement proceedings to the high court. nuh sought two main orders:(a) that nuh be named as the sole proprietor of the patent, or alternatively, as a joint proprietor of the patent together with cicada; and(b) that dr sethi and/or mr lim be named as the rightful inventor(s) of the patent in place of dr poo and dr ratty, or alternatively, as joint inventor(s) of the patent together with dr poo and dr ratty.13 cicada opposed nuh’s application on three main grounds. first, it contended that nuh was out of time under s 47(9) of the act, which required an application to the court for determination be commenced within two years from the date of grant of the patent. second, it argued that dr ratty and dr poo of cicada were the sole inventors of the inventive concepts disclosed in the patent. third, it argued that even if dr sethi were the inventor, he was not an employee of nuh but was employed by the national university of singapore (“nus”). accordingly, nuh was not entitled to ownership of the patent.the judge’s decision14 the judge found that both cicada and nuh were jointly entitled to the ownership of the patent. his decision is published as national university hospital (singapore) pte ltd v cicada cube pte ltd [2017] sghc 53 (“gd”). first, as a preliminary point, he held that nuh was not prevented by s 47(9) of the act from applying to the court for the determination of patent entitlement because s 47(9) did not apply to the facts of the case. he interpreted the phrase “the proceedings in which the jurisdiction is invoked” in s 47(9) of the act to refer to the reference that nuh brought to the registrar pursuant to s 47(1), rather than the high court proceedings. therefore, even though the high court proceedings were commenced more than two years after the date of grant of the patent, the applicable date was the filing of the reference, which was within two years of the date of grant of the patent (gd at [44]–[45]).15 second, the judge found that there were two inventive concepts in the patent. he identified the inventive concepts as being (gd at [37]):(a) the linkage or interaction between what was done in the ordering of a medical test (ie, the processes for ordering tests) and what was done at the specimen-taking side (ie, the processes for collecting specimens), so that, adopting the language of operations management or quality assurance, errors or mistakes were prevented (“the 1st inventive concept”); and(b) the specification for the taking of specimens, ie, among other things, how the system actually ensured identification or determination of relevant constraints (such as the type of tube, the number of tubes and the amount of specimen to be collected in each tube) in each case and the process of actual interaction or communication of different components of the system, including information processing and the display of the specification to the clinician taking the specimens (“the 2nd inventive concept”).16 the judge found that the 1st inventive concept was invented by dr sethi. while there was an absence of a single contemporaneous record clearly showing a specific point by which dr sethi came up with the 1st inventive concept, he was satisfied that this was before the involvement of dr ratty and dr poo (gd at [38]). as for the 2nd inventive concept, the judge was not persuaded that dr ratty or dr poo had not come up with it. the judge remarked that the focus of the arguments and the evidence before him was elsewhere (at [39]). in contrast, mr lim’s contribution was not to the inventive concepts but only to “a particular mode of facilitating the working of these inventive concepts” (at [40]). as such, the judge considered that only dr sethi, dr poo and dr ratty were the rightful inventors of the patent.17 third, on dr sethi’s employment status, the judge was satisfied (gd at [93]) that dr sethi was employed by nuh at the material time. dr sethi was in a contract of employment with nuh and answerable to nuh’s control and supervision. it was in the course of performing his duty that he came up with the 1st inventive concept (at [94]–[96]). the judge also rejected cicada’s argument that dr sethi was bound by nus’ intellectual property policy that precluded nuh’s alleged entitlement to the invention. he found that the said policy on intellectual property did not apply as dr sethi came up with the 1st inventive concept in his capacity as an employee of nuh and not in the course or furtherance of university research (at [97]–[98]).18 in view of the above, the judge ordered (gd at [99]) that dr sethi, dr ratty and dr poo be named as joint inventors of the invention and that nuh be named as a joint proprietor of the patent together with cicada. the judge also awarded to nuh costs fixed at $77,500 and disbursements amounting to $22,072.90.the appeal19 on appeal, both cicada and nuh argue that each of them is solely entitled to the ownership of the patent. cicada is the appellant in civil appeal no 138 of 2016 (“cicada’s appeal”). in its appellant’s case, it argues that the judge erred in (a) finding that s 47(9) of the act did not apply to bar the high court from determining the entitlement of the patent; (b) identifying the inventive concepts of the patent; (c) finding that dr sethi contributed to the inventive concepts of the patent; (d) finding that dr sethi’s contributions were in the course of his employment with nuh; (e) failing to consider the issue of estoppel; and (f) awarding costs to nuh when it had not won the case below. during the oral hearing, however, mr ravindran, on behalf of cicada, stated that he was no longer contesting (d), the issue of dr sethi’s employment.20 nuh is the appellant in civil appeal no 139 of 2016 (“nuh’s appeal”). it argues that the judge erred in (a) not ordering that nuh be named the sole proprietor of the patent in place of cicada; (b) naming dr poo and dr ratty as joint inventors of the patent; (c) finding that mr lim did not contribute to the inventive concepts of the patent; and (d) awarding only $77,500 in costs to nuh, compared to the sum of $157,115.61 that it had asked for.21 as the issues in both appeals overlap substantially, we will address them together. the key issues are as follows:(a) first, whether s 47(9) applies to the high court proceedings such that the court is not permitted to determine the question of entitlement to the patent unless nuh is able to show that cicada knew at the time of the grant of the patent that it was not entitled to it; and(b) second, if the court is permitted to determine the question, either because s 47(9) does not apply or because nuh can show that cicada knew at the time of the grant of the patent that it was not entitled to it, whether dr ratty, dr poo, dr sethi and mr lim or any of them were the inventors of the invention and whether nuh or cicada is entitled to sole proprietorship of the patent.the procedure under s 47 of the act22 the first issue is the scope of s 47(9) of the act. it is useful to reproduce the entire s 47 here for context:determination of right to patent after grant47.–(1) after a patent has been granted for an invention, any person having or claiming a proprietary interest in or under the patent may refer to the registrar the question – (a) who is or are the true proprietor or proprietors of the patent;(b) whether the patent should have been granted to the person or persons to whom it was granted; or(c) whether any right in or under the patent should be transferred or granted to any other person or persons,and the registrar shall determine the question and make such order as he thinks fit to give effect to the determination.(2) without prejudice to the generality of subsection (1), an order under that subsection may contain provision – (a) directing that the person by whom the reference is made under that subsection shall be included (whether or not to the exclusion of any other person) among the persons registered as proprietors of the patent;(b) directing the registration of a transaction, instrument or event by virtue of which that person has acquired any right in or under the patent;(c) granting any licence or other right in or under the patent; and(d) directing the proprietor of the patent or any person having any right in or under the patent to do anything specified in the order as necessary to carry out the other provisions of the order.(3) if any person to whom directions have been given under subsection (2)(d) fails to do anything necessary for carrying out any such directions within 14 days after the date of the order containing the directions, the registrar may, on an application made to him by any person in whose favour or on whose reference the order containing the directions was made, authorise him to do that thing on behalf of the person to whom the directions were given. (4) where the registrar finds on a reference under this section that the patent was granted to a person not entitled to be granted that patent (whether alone or with other persons) and on an application made under section 80 makes an order on that ground for the conditional or unconditional revocation of the patent, the registrar may order that the person by whom the application was made or his successor in title may, subject to section 84, make a new application for a patent – (a) in the case of unconditional revocation, for the whole of the matter comprised in the specification of that patent; and(b) in the case of conditional revocation, for the matter which in the opinion of the registrar should be excluded from that specification by amendment under section 83,and where such a new application is made, it shall be treated as having been filed on the date of filing the application for the patent to which the reference relates.(5) on any reference under subsection (1) –(a) no order shall be made under this section transferring the patent to which the reference relates on the ground that the patent was granted to a person not so entitled; and (b) no order shall be made under subsection (4) on that ground if the reference was made after the end of the period of 2 years beginning with the date of the grant, unless it is shown that any person registered as a proprietor of the patent knew at the time of the grant, or as the case may be, of the transfer of the patent to him that he was not entitled to the patent. (6) an order under this section shall not be so made as to affect the mutual rights or obligations of trustees or of the personal representatives of a deceased person, or their rights or obligations as such.(7) where a question is referred to the registrar under this section, an order shall not be made by virtue of subsection (2) or under subsection (4) on the reference unless notice of the reference is given to all persons registered as proprietor of the patent or as having a right in or under the patent, except those who are parties to the reference. (8) if it appears to the registrar on a reference under this section that the question referred to him would more properly be determined by the court, he may decline to deal with it and, without prejudice to the court’s jurisdiction to determine any such question and make a declaration, the court shall have jurisdiction to do so.(9) the court shall not in the exercise of any such declaratory jurisdiction determine a question whether a patent was granted to a person not entitled to be granted the patent if the proceedings in which the jurisdiction is invoked were commenced after the end of the period of 2 years beginning with the date of the grant of the patent, unless it is shown that any person registered as a proprietor of the patent knew at the time of the grant or, as the case may be, of the transfer of the patent to him that he was not entitled to the patent.23 section 47(1) provides that any person having or claiming a proprietary interest in a patent may refer the question of entitlement to the registrar for determination. under s 47(8), the registrar may decline to deal with the reference if it appears to him that the question of entitlement would more properly be determined by the court. in such a situation, the court shall have jurisdiction to determine it. however, s 47(9) qualifies this to the extent that the court shall not determine the question if the proceedings in which the court’s jurisdiction is invoked were commenced after the period of two years starting from the date of grant of the patent.  this prohibition does not apply if the registered proprietor knew at the time of the grant that he was not entitled to the patent.24 cicada takes the position that the court has no jurisdiction in the high court proceedings to determine the question of entitlement to the patent. it argues that:(a) section 47 of the act provides for concurrent jurisdiction of the registrar and the high court in that an applicant seeking the determination of a question of entitlement can choose to invoke either the jurisdiction of the registrar or that of the high court at any time. this being the case, the two-year time limit in s 47(9) of the act must apply to an application to the high court, either in the first instance or after the registrar declines jurisdiction. as the high court proceedings were commenced more than two years after the date of the grant of the patent, this exceeded the time limit prescribed in s 47(9) and nuh therefore has the additional burden to show that cicada knew at the time of the grant that it was not entitled to the patent.(b) in the alternative, even if s 47 does not provide for concurrent jurisdiction in that the high court has jurisdiction only when the registrar declines to deal with the reference under s 47(8), the high court proceedings should not be seen as a continuation of the reference because the relief sought and facts relied on by nuh for the purposes of determining entitlement in the high court were substantially different from those that it raised before the registrar.(c) in either case, nuh has not succeeded in showing that cicada knew that it was not entitled to the patent. cicada had informed nuh of the patent application and dr sethi was aware that the patent had been filed. yet, nuh’s challenge came only in 2012.25 on the other hand, nuh argues that the court has the jurisdiction to determine the question of entitlement:(a) the high court’s statutory jurisdiction conferred by s 47(8) is sequential to the registrar’s jurisdiction under s 47(1) but the high court has inherent jurisdiction to determine questions of patent entitlement which is concurrent with the registrar’s jurisdiction. an applicant can choose either route. if he chooses to apply to the registrar first and to the court only after the registrar has declined to deal with the reference, the applicable time limit is to be found in s 47(5). if he chooses to apply to the court for a declaration pursuant to the court’s inherent jurisdiction, the applicable time limit is provided in s 47(9). in other words, s 47(9) only prescribes a time limit to the court’s exercise of its inherent declaratory jurisdiction and not to the exercise of its statutory jurisdiction under s 47(8). as such, nuh is not time-barred by s 47(9) and there are no limits to the court’s jurisdiction to determine the question of entitlement to the patent.(b) even if the time bar in s 47(9) applies to nuh, nuh can still show that cicada knew at the time of the grant that it was not fully entitled to the patent. this can be inferred from the fact that cicada applied for the patent surreptitiously and since neither dr ratty nor dr poo had contributed to the inventive concept of the patent, cicada could not possibly have thought that it was entitled to the patent.the court’s jurisdiction under s 4726 both parties agree that the high court and the registrar have “concurrent jurisdiction” to determine questions of entitlement in that an applicant can choose to either file a reference with the registrar or apply to the high court to determine such a question. there is therefore no need for the applicant to submit a reference to the registrar under s 47(1) of the act and wait for the registrar to decline to decide the reference under s 47(8) before he can invoke the jurisdiction of the high court. in other words, the high court’s jurisdiction to determine questions of entitlement is not sequential to that of the registrar.27 we agree with this position. this is supported by the plain wording of s 47(8), which states expressly that the court’s jurisdiction to determine the question of entitlement is “without prejudice to the court’s jurisdiction to determine any such question and make a declaration”. this clearly envisions that the court possesses jurisdiction independent of the registrar’s decision in respect of a reference made to him.28 other provisions in the act lend support to such a construction. section 80(4) concerns revocation of a patent on the ground that the registered proprietor is not entitled to it. it provides that an application for revocation on this basis “may only be made by a person found by the court in an action for a declaration or found by the court or the registrar on a reference under section 47, to be entitled to be granted that patent”. this suggests that “an action for a declaration” may be brought in court, separate from a reference under s 47. such an action would also be subject to the two-year conditional time limit under s 80(4)(b) of the act, which is similar to the time limit in s 47(5)(b) and (9).29 further, s 82(6) defines “entitlement proceedings” to mean “a reference under section 47(1) on the ground that the patent was granted to a person not entitled to it or proceedings for a declaration that it was so granted”. the act thus contemplates the possibility of entitlement proceedings in court by way of a declaration that do not arise from a reference made to the registrar under s 47(1).30 our interpretation is buttressed by certain statements made at the second reading of the uk patents bill in the house of lords relating to cl 34(7) of the said bill (now s 37 of the uk patents act 1977 (c 37) (“the uk act”)), which is broadly similar to s 47(8) of the act. lord mccluskey, when introducing the insertion of the phrase “without prejudice to the court’s jurisdiction to determine any such question and make a declaration”, stated (united kingdom, house of lords, parliamentary debates (15 february 1977), vol 380 at cols 395-396):the words added by this amendment… are intended to make it clear that the fact that subsection (7) expressly confers jurisdiction upon the court to determine the question is not to be taken as in any way implying that any other jurisdiction which the high court in england… may have to make a declaration as to the rights of the parties is in any way impugned or diminished. 31 similarly, mr clinton davis (under-secretary of state for trade) stated during the second reading of the bill in the house of commons (united kingdom, house of commons, parliamentary debates (25 may 1977), vol 932 at col 1444):… other provisions… like [clause]… 34… should help to meet the frequently expressed desire to keep down the costs of settling disputes, without, of course, affecting the basic right of all citizens to take their troubles to the high court.32 it is therefore clear that s 47 of the patents act was not intended to remove the high court’s jurisdiction to make declarations as to patent entitlement. in our view, the establishment of the procedure of filing a reference with the registrar under s 47 was intended to create an efficient and cheaper route for applicants to seek a determination of patent entitlement, rather than to oust the court’s jurisdiction to do the same. at the second reading of our patents bill (no 4/94/a), the minister for law remarked that the shifting of disputes to be heard by the registrar rather than the courts would reduce litigation costs: singapore parliamentary debates, official report (21 march 1994) vol 6 at col 1447. section 47 thus does not preclude applicants from invoking the jurisdiction of the high court if they so choose, even without filing a reference with the registrar. in this case, nuh chose to file a reference and the registrar eventually declined to deal with the reference under s 47(8) of the act on the view that the matter would more properly be determined by the court.the applicability of s 47(9) to the present case33 the next question is whether the two-year conditional time limit in s 47(9) of the act applies, such that nuh has to prove that cicada knew at the time of the grant that it was not entitled to the patent. section 47(9) provides that the court “shall not in the exercise of any such declaratory jurisdiction” determine a question of entitlement “if the proceedings in which the jurisdiction is invoked” were commenced more than two years after the grant of the patent. the applicability of this section to the present case depends on the proper interpretation of the phrases “any such declaratory jurisdiction” and “the proceedings in which the jurisdiction is invoked”.the meaning of “any such declaratory jurisdiction”34 the plain reading of “any such declaratory jurisdiction” is that it refers to any situation where the court’s declaratory jurisdiction to determine patent entitlement is invoked. we have mentioned earlier that this can be done through an application to the court once the registrar declines to determine the question or by a court action for a declaration without a prior reference to the registrar.35 nuh submits that “any such declaratory jurisdiction” refers only to an action for a declaration pursuant to the court’s jurisdiction outside of the reference procedure under s 47, which would make s 47(9) inapplicable on the present facts. we disagree as we see no basis for adopting such a restrictive interpretation of the provision. since the registrar would have been constrained by the time limit in s 47(5)(b) if he determines the question whether the patent was granted to a person not titled to it, it is logical that the court should be similarly constrained by the same time limit in s 47(9) when it determines the same question. the time limit is to provide the registered proprietor with some degree of protection and is not concerned with the forum that determines the question.36 this interpretation comports with the legislative history of cll 34(8) and (9) of the uk patents bill, which are analogous to our ss 47(8) and (9) respectively. as we alluded to briefly at [30] above, the phrase in cl 34(8) which expressly recognises the court’s declaratory jurisdiction (“without prejudice to the court’s jurisdiction to determine any such question and make a declaration”) was only inserted later during the second reading of the bill after cl 34(9) was already in place. this suggests that it was always intended that the scope of cl 34(9) would include the court’s jurisdiction under cl 34(8).37 we therefore read the phrase “any such declaratory jurisdiction” in s 47(9) of the act to cover both ways in which the court’s jurisdiction to determine a question of entitlement can be invoked, regardless of whether or not a reference was first filed under s 47 and declined by the registrar under s 47(8).the meaning of “the proceedings in which the jurisdiction is invoked”38 the next question is whether the second phrase, “the proceedings in which the jurisdiction is invoked”, refers to the reference or the high court proceedings. the judge considered this and found that “the proceedings” referred to the reference. on the other hand, cicada submits that the words refer to the high court proceedings. we think cicada is right on this point.39 first, a plain reading of the words “the proceedings in which the jurisdiction is invoked” in their context leads to the conclusion that the “jurisdiction” being invoked is the high court’s “declaratory jurisdiction” and not the registrar’s. the court’s jurisdiction is invoked by applying to the high court for the determination of patent entitlement, not through the reference to the registrar.40 second, this interpretation is supported by the wording of s 47(9) of the act, especially when contrasted with that of s 47(5)(b) of the act. section 47(5)(b) resembles s 47(9). it provides for a two-year time bar in respect of any order by the registrar under s 47(4). if more than two years have elapsed since the grant of the initial patent, the registrar may make such an order only if “it is shown that any person registered as a proprietor of the patent knew at the time of the grant or, as the case may be, of the transfer of the patent to him that he was not entitled to the patent.” we set out again both ss 47(5) and 47(9) here for easy comparison:(5) on any reference under subsection (1) —(a) no order shall be made under this section transferring the patent to which the reference relates on the ground that the patent was granted to a person not so entitled; and(b) no order shall be made under subsection (4) on that ground if the reference was made after the end of the period of 2 years beginning with the date of the grant, unless it is shown that any person registered as a proprietor of the patent knew at the time of the grant or, as the case may be, of the transfer of the patent to him that he was not entitled to the patent.…(9) the court shall not in the exercise of any such declaratory jurisdiction determine a question whether a patent was granted to a person not entitled to be granted the patent if the proceedings in which the jurisdiction is invoked were commenced after the end of the period of 2 years beginning with the date of the grant of the patent, unless it is shown that any person registered as a proprietor of the patent knew at the time of the grant or, as the case may be, of the transfer of the patent to him that he was not entitled to the patent.[emphasis added in bold and italics]41 it can be seen that ss 47(5)(b) and 47(9) employ very similar language. the exception relating to the knowledge of non-entitlement is identically worded in both provisions. however, a key difference is that s 47(5)(b) uses the phrase “the reference”, whereas s 47(9) uses the phrase “the proceedings in which the jurisdiction is invoked”. wherever “refer” and “reference” appear in s 47, they are used in connection with “the registrar”, not in relation to the court. when “jurisdiction” is used, it is in connection with “the court”. further, it could not be the case that both ss 47(5)(b) and (9) cover the reference to the registrar. it would be pointless duplication. a plain reading of all the provisions in s 47 therefore militates against the interpretation that the words “the proceedings in which the jurisdiction is invoked” in s 47(9) refer to the reference. clearly, they pertain to the high court proceedings.42 we think that requiring the respective applications to the registrar and to the high court to be filed within two years of the grant of the patent reflects parliament’s intention that any dispute as to the proprietorship of the patent be commenced within a definite period of two years. this balances the need to ensure that patents are granted to the right persons against the need for patent proprietors to be certain about their property rights and the attendant commercial interests.43 we note nuh’s concern that interpreting “the proceedings” in s 47(9) to refer to the high court proceedings might lead to an unfair result in situations where a party brings a reference to the registrar well within the two-year period but the registrar declines to deal with it only after the two-year period has passed. in such a situation, that party would be subject to an additional legal requirement under s 47(9) although it was not guilty of delay. this was also the judge’s primary concern in the high court (gd at [17]). however, this was not the case on the present facts. since nuh filed the reference three days before the two-year period expired, the delay in declining to deal with the reference had little to do with the expiry of the two-year period.44 for the above reasons, we hold that the words “the proceedings” in s 47(9) refer to the high court proceedings. as more than two years have elapsed between the grant of the patent and the commencement of the high court proceedings, nuh would therefore be time-barred from seeking a declaration of entitlement from the court unless it is able to show that cicada knew at the time of the grant that it was not entitled to the patent.45 in summary, we set out some guidance for potential applicants seeking to challenge a registered proprietor’s entitlement to a patent. the applicant can choose to: (a) apply directly to the high court or (b) file a reference to the registrar under s 47 of the act which will likely be a cheaper route in terms of litigation costs.46 if the applicant chooses option (a), he will be subject to the two-year time limit under s 47(9). he must file the application to invoke the high court’s jurisdiction to determine the question of entitlement within two years of the grant of the patent or prove that the registered proprietor knew at the time of the grant that he was not entitled to the patent.47 if the applicant chooses option (b), he must file his reference within two years, otherwise he will be subject to the further requirement of proving the registered proprietor’s knowledge under s 47(5)(b). although it is unlikely in most cases that the registrar will take a long time to make a determination or to decline the reference, the applicant must also be mindful of the two-year time limit in s 47(9) in the event that the registrar declines to hear the reference. if the two-year mark is approaching and the registrar has not made a determination or declined to hear the reference, it would be prudent for the applicant to withdraw the reference and to commence proceedings in the high court. otherwise, he will be subject to the additional burden of proving the registered proprietor’s knowledge if his court application is filed more than two years after the grant of the patent. order 87a r 8 of the roc further requires that the applicant apply to the high court by originating summons within 28 days of the registrar declining to deal with the question of entitlement. these statutory time limits recognise the concern that if an applicant delays in seeking relief from the court, the registered proprietor would be left in suspense with regard to his property rights. conversely, a registered proprietor who knew he was not entitled to the patent would not be prejudiced by any delay since he did not possess the right to the patent in any case.whether the high court proceedings amount to a new reference48 for completeness, we address cicada’s alternative submission that even if “the proceedings” in s 47(9) refer to the reference, the two-year conditional time limit nonetheless ought to apply to the high court proceedings because they amount to a “new reference” on the facts.
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  cicada’s further submissions, para 27.
+
+
+
+ cicada emphasises that r 65(1) of the patents rules (cap 221, r 1, 2007 rev ed) requires that references to the registrar under s 47(1) of the act be “accompanied by a statement setting out fully the nature of the question, the facts upon which the person making the reference relies and the order which he is seeking” [emphasis in cicada’s submissions].
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  cicada’s further submissions, para 29.
+
+
+
+ cicada points to two key differences between the reference and the high court proceedings:(a) first, in the reference as well as in its originating summons filed in the high court proceedings, nuh sought to be named the sole proprietor of the patent in place of cicada. subsequently, nuh was granted leave of court to amend its originating summons to include an alternative prayer that it be named a joint proprietor of the patent alongside cicada.(b) second, nuh’s case during the reference was that dr sethi was the sole inventor of the patent but in the high court proceedings, nuh prayed for an order that dr sethi “and/or mr lim… be named as the rightful inventor(s)”.cicada argues that these differences amount to “a significant change of case” on nuh’s part.
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  cicada’s further submissions, para 33.
+
+
+
+49 as a preliminary point, we disagree with nuh’s argument that because cicada did not appeal the court’s decision to allow the amendments to the originating summons, it should not be allowed to raise this issue at the present stage. order 57 r 13(5) of the roc provides that the powers of the court of appeal are not restricted by reason of any interlocutory order from which there has been no appeal. therefore, cicada’s failure to file an appeal against the amendments would not be an automatic and insurmountable bar to cicada’s contentions before us.50 however, we do not think that cicada’s arguments on this issue have any merit. section 47(8) provides that when the registrar declines to hear the reference, the high court will have the jurisdiction to deal with “the question referred to [the registrar]”. the essential question to be determined under s 47 is who is entitled to the ownership of the patent. nuh’s amendments to its application in respect of the specific reliefs did not change this question fundamentally.51 in relation to the first point about sole proprietorship, nuh cites the case of yeda research and development co ltd v rhone-poulenc rorer international holdings inc [2007] ukhl 43 (“yeda”), in which the house of lords held that at [37] that amending a claim of joint ownership to one of sole entitlement to a patent did not amount to making a “new claim”, as such claims were “different in extent rather than in kind”. similarly, we find that nuh’s amendment of the originating summons to include an alternative prayer that it be named a joint proprietor only changed its claim in extent rather than in kind and was not “a significant change of case” as cicada argues.52 as for cicada’s second point regarding the inclusion of mr lim as a new inventor, we accept cicada’s submission that yeda is distinguishable on its specific facts. nonetheless, in our view, nuh’s case in the high court proceedings is still, in substance, the same as what it was in the reference. the ultimate question is whether nuh is entitled to ownership of the patent, regardless of whether dr sethi or mr lim is considered the inventor. the cases that the respective parties have to prove in the court proceedings have not substantially changed – nuh still bears the burden of proving that dr ratty and dr poo were not the inventors of the patent and that one of nuh’s employees came up with the inventive concept(s). moreover, on the present facts, mr lim’s involvement was very closely tied to dr sethi’s contributions. we therefore do not consider nuh’s inclusion of mr lim to have changed its claim in the high court proceedings into a new question or reference.53 for these reasons, we reject cicada’s alternative submissions that the high court proceedings amount to “a new reference”. although certain specific issues raised in the high court proceedings were not specifically raised in the reference before the registrar, it is clear that the registrar could have exercised his power to allow amendments to the reference at any time. the high court would similarly have the power to do so under s 91 of the act, which provides that the court may “make any order or exercise any other power which the registrar could have made or exercised” for the purpose of determining any question in the exercise of its jurisdiction. cicada was not prejudiced in any way by the amendments.54 we have found that nuh is required under s 47(9) to show that cicada knew that it was not entitled to the patent at the time it was granted. we now consider the issue regarding cicada’s knowledge.cicada’s knowledge at the time the patent was granted55 we first set out the relevant legal principles for determining a patent proprietor’s knowledge with respect to its entitlement to the patent. this is a subjective inquiry; the proprietor must have actually known that it was not entitled to the patent and it is not enough that it ought to have known: lockheed martin corporation v hybrid air vehicles ltd (bl o/235/08) at [17]. such subjective knowledge may be proved on a balance of probabilities through inferences drawn from the objective facts and circumstances of the case.56 it follows that the patent proprietor needs to know that it was not entitled to the patent at the time of the grant. the mere knowledge that the ownership of the patent was disputed by another person is not itself sufficient if the proprietor still believed that he was entitled to the patent. one exception is where the proprietor was wilfully blind, which would be deemed to constitute actual knowledge of his non-entitlement: peart’s patent (bl o/209/87). the knowledge inquiry may be difficult in situations where the ownership of a patent is not a straightforward matter covered in a contract between the parties and instead depends on the identification of the inventors and the inventive concept of the patent.57 in situations where the applicant’s case (whether primary or alternative) is that it is jointly entitled to the patent together with the registered proprietor, it suffices if the applicant can prove that the proprietor knew that it was not solely entitled to the patent. in other words, the applicant can satisfy his burden under s 47(9) of the act by showing that the registered proprietor knew that he was not entitled at all to the patent or by showing that he knew that some other person or persons were also entitled to the patent. in our judgment, this is implicit in s 47(9) and is eminently fair. it is also consistent with the reference procedure under s 47 which provides in s 47(2)(a) that the registrar may add a new proprietor to the register without excluding the registered proprietor of the patent.58 on the facts, we find that cicada was not solely entitled to the patent and that the evidence showed that cicada (through dr ratty and dr poo) knew at the time of grant that they were not solely entitled to the patent. this is primarily because dr sethi, dr ratty and dr poo worked closely together on the invention as disclosed in the patent and dr sethi contributed substantially to their joint efforts. we will go into greater detail on the facts surrounding their respective contributions when analysing the issue of inventorship later in this judgment. for now, it suffices to say that it is clear that dr sethi was heavily involved in the conceptualisation and development of the invention, including contributing substantially to the tec proposal. it is also not disputed that dr sethi, dr ratty and dr poo had many discussions and worked closely together on the project. they also worked jointly on academic papers for which they were listed as co-authors, indicating that they were jointly responsible for the project and hence the invention. we infer from the objective evidence before us that dr ratty and dr poo must have known that dr sethi was at least jointly entitled to the patent.59 one of cicada’s main arguments is that dr ratty and dr poo did not actively hide the existence of the patent from dr sethi, as one might expect them to have done if they had believed that they were not solely entitled to the patent. the evidence showed that nuh (through dr sethi or otherwise) was aware that a patent had been filed for atoms and this was told to them by dr ratty and dr poo. it was clear from the minutes of a meeting in december 2011 between dr sethi, dr poo, dr ratty and a few others that everyone present at the meeting knew that cicada had applied for a patent for atoms.
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  jcb vol ii part b p 169.
+
+
+
+ further, the patent’s application number was made available to dr sethi in a paper in which he was listed as a co-author with dr poo and dr ratty, showing that cicada was not hiding the application and its contents from nuh.
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+  jcb vol ii part b p 184.
+
+
+
+ dr sethi also admitted in cross-examination that he knew that a patent for atoms had been filed at least as at 2008.
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+  jcb vol ii part a pp 225–226.
+
+
+
+ however, dr sethi testified that he did not know that the patent was a process patent and was not a software patent. the evidence also showed that dr ratty and dr poo never explained the patent to dr sethi in much detail. they may have simply adopted a “wait and see” approach as to whether dr sethi would raise an objection. even though dr sethi did not raise any objections to the patent, this was because he had never ascertained the scope of the invention as disclosed in the patent. thus, this is not a bar to finding that cicada (through dr ratty and dr poo) had the requisite knowledge.60 given our finding that cicada knew (through dr ratty and dr poo) that it was not solely entitled to the patent at the time of grant, we now go on to determine the question of entitlement to the patent.entitlement to the patent61 having determined the preliminary issue under s 47(9) of the act, we now consider the main dispute in these appeals. this concerns the identity of the proper owner(s) of the patent. this is a two-part inquiry. first, the inventor(s) must be identified. this is done by identifying the inventive concept(s) in the patent and the persons who have contributed to the inventive concept(s). second, the owners of the patent must be determined. this usually follows from the issue of inventorship because a patent for an invention is usually granted to the inventor or joint inventors: s 19(2)(a) of the act. however, in certain cases, the owner may be a separate entity by virtue of a contract concerning the ownership of the patent (s 19(2)(b) of the act), the inventor’s employment (s 49 of the act) or as otherwise provided in the act.inventorship62 the inventor of a patent is “the actual deviser of the invention”: s 2(1) of the act. this requires that the person claiming to be the inventor must have formulated or contributed to the formulation of the inventive concept: dien ghin electronic (s) pte ltd v khek tai ting (trading as soon heng digitax) (“dien ghin”) [2011] 3 slr 227 at [13] (gd at [49]). we thus start with the identification of the inventive concept(s) in the patent before identifying the persons who contributed to these inventive concept(s).the inventive concepts(1) the relevant legal principles63 the inventive concept is commonly described as “the heart” of the invention: markem corp v zipher ltd [2005] ewca civ 267 (“markem”) at [102]; william cornish, david llewelyn & tanya aplin, intellectual property: patents, copyright, trade marks and allied rights (sweet & maxwell, 8th ed, 2013) at para 7-02. when seeking to identify the inventive concept, one is “concerned with the identification of the core (or kernel, or essence) of the invention – the idea or principle … which entitles the inventor’s achievement to be called inventive” [emphasis omitted]: generics (uk) limited and others v h lundbeck a/s [2009] ukhl 12 at [30]. 64 the quest for the inventive concept is heavily fact-dependent but where something in the invention helps to solve a particular problem or answer a particular question in a new way, this will generally be regarded as an inventive contribution. however, other types of contributions, such as the perfection or improvement of a solution, may also be recognised as inventive. merely contributing “unnecessary detail” to an invention or managerial and entrepreneurial contributions such as the provision of money, facilities, materials and the like will not be regarded as inventive contributions: lionel bently & brad sherman, intellectual property law (oxford university press, 3rd ed, 2009 ed) at pp 530–531.65 there are two preliminary issues in relation to identification of the inventive concepts here. first, although this was not canvassed by the parties, a preliminary issue arising from the judge’s decision is whether there can be more than one inventive concept in a patent. the judge held that there may be several such concepts encompassed within a single patent (gd at [35]). he referred to jacob lj’s remark in markem at [102] that “[t]here may be more than one ‘heart’ [of an invention]” (gd at [57]). the judge then identified two inventive concepts in the patent.66 for the purpose of entitlement proceedings, there seems to be no reason why a patent cannot be said to have more than one inventive concept. this depends on what the patent itself claims and the invention it discloses. colin birss et al, terrell on the law of patents (sweet & maxwell, 18th ed, 2016) (“terrell”) at para 4-12, citing stanelco fibre optics ltd v bioprogress technology ltd [2004] all er (d) 06 (“stanelco”) at [83]–[84] acknowledges that “[i]n some cases there may be more than one inventive concept”. 67 the converse argument for allowing only a single inventive concept is that each patent should be for one inventive concept and multiple inventive concepts would require multiple patents. should this not be the case, this would have effects on inventorship and entitlement since different inventive concepts in the same patent could have been invented by different persons. this was a difficulty raised by the uk patent office in statoil asa v university of southampton (bl o/204/05) (“statoil”) although it nevertheless concluded that it was possible for a patent to have more than one inventive concept.68 in susanna e leong, intellectual property law of singapore (academy publishing, 2013), the author expresses the view (at para 21.012) that “[i]t should always be remembered that there is supposed to be only one inventive concept in a patent” [emphasis in original] and refers to s 25(5)(d) of the act in support of this statement. section 25(5) provides:making of application(5) the claim or claims shall – (a) define the matter for which the applicant seeks protection; (b) be clear and concise; (c) be supported by the description; and (d) relate to one invention or to a group of inventions which are so linked as to form a single inventive concept. 69 we agree that the act envisages that a patent should relate to only one invention or to a single inventive concept and claims should be drafted in this manner. nevertheless, s 113(2) provides that “where more than one invention is specified in [a] claim, each invention may have a different priority date”. this seems to imply that there can be more than one invention specified in a claim and that each could have a different priority date under s 17. ultimately, it may be a matter of degree as to whether an invention is really one big concept or is in truth made up of several small but related concepts, with one building upon the other but all working together to solve a perceived problem or to provide a new answer to an existing question.70  second, there is the issue of whether it is legitimate to consider the patent’s claims and/or its specification when identifying the inventive concept(s). the distinction between patent claims and specification was explained by the court of appeal in first currency choice pte ltd v main-line corporate holdings ltd and another appeal [2008] 1 slr(r) 335 at [23]. a patent’s specification, which is a description of the invention disclosed in the patent, conveys to the public what the patentee considers to be his invention. on the other hand, a patent’s claims, which are usually drafted in a more technical manner, contain the specific monopoly that the patentee is obtaining. infringement actions are heavily dependent on the construction of the claims in a patent.71 cicada argues that in entitlement proceedings, the invention or inventive concepts should be determined by reference not to the claims but to the patent specification.
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+  appellants’ case (“ac”) in ca 138/2016, para 80. 
+
+
+
+ it refers to markem where jacob lj interpreted the meaning of “invention” in s 8 of the uk act, which is equivalent to s 20 of the act. this section also deals with determination of entitlement but before the patent is granted. he held that the determination of an “invention” for the purpose of those entitlement proceedings had to have “some more general meaning that what it is in the claims”, especially because s 8 entitlement proceedings could take place even when a patent did not have claims yet (at [100]). jacob lj concluded that an invention in that context referred “essentially to the information in the specification rather than … the claims” (at [101]).72 on the other hand, nuh argues that both the specification and the claims of the patent should be considered when determining what the invention is and that the judge erred in not considering the claims.
+
+                   21
+
+
+
+
+foot note 21
+
+×
+
+
+
+  ac in ca 139/2016, para 15. 
+
+
+
+ it relies on the case of statoil, where the hearing officer considered markem and reasoned (at [38]):so, even in a granted patent i must look at the information in the specification rather than simply looking at the monopoly claimed. in my view that does not mean i mustn’t look at the claims at all. that is very clear from christopher floyd’s comments in stanelco, because in talking about “stripping a claim of its verbiage” he was clearly contemplating using a claim as a starting point. indeed, in a granted patent something would be very wrong if the main claims did not give a reasonable pointer to the “heart” of the invention. however, i cannot simply adopt them as a definition of the relevant subject matter for inventorship and entitlement purposes. [emphasis added] the authors of terrell, referring to markem, make a similar point. they comment (at para 4-12) that “particularly in the case of a granted patent, the claims will assist in determining (if not be determinative of) the inventive concept but the existence of claims cannot serve to restrict the enquiry”.73 in our judgment, a court is entitled to look at both the claims and specifications in determining the inventive concepts. both are useful and relevant in explaining and describing the invention. however, in the case of granted patents which have been examined and approved by the registrar, it is entirely legitimate to expect that the claims of a patent are a “reasonable pointer to the ‘heart’ of the invention”, to use the language of statoil at [38]. the claims therefore furnish a useful “starting point” for ascertaining the inventive concept(s) of a patent, although they may not be determinative.74 for completeness, we do not find this interpretation contradictory to s 113(1) of the act. that section provides that “an invention for a patent ... shall, unless the context otherwise requires, be taken to be that specified in a claim of the specification of the application or patent… as interpreted by the description and any drawings contained in that specification…”. first, s 113(1) states that the claims would be interpreted by reference to the specification, showing the relevance of the latter. second, we consider that this case is one where the context requires that an invention be construed more widely, for the same reasons given in markem and statoil (see [71]–[72] above).75 the judge was thus justified in his approach of considering both the claims and the specification. he reviewed s 113(1) of the act and markem and expressed the view that “the court was entitled to, and indeed ought to, look at the patent as a whole, including the specification as well as the claims”. he also remarked that “the claims were not determinative when a court had to decide on the question of what the inventive concepts of an invention were, although the court should take them into account, together with the specification” (gd at [58]). on the facts, he set out the claims and the diagrams therein which he found “most relevant” to the determination of the inventive concept and held that they “clearly established a linkage between the test ordering side and the specimen taking side as a key part of the invention” (gd at [62]–[63]). he also described the specification in detail (at [10]–[13]), quoted from it (at [64]) and reiterated the specification’s description of the problems which the invention was meant to solve (at [61]–[62]). the parties’ contentions clearly stemmed only from their disagreement about how the judge construed the inventive concepts from those materials.(2) the inventive concepts in the invention76 having set out the relevant legal principles, we now identify the inventive concepts in the present case. the parties’ cases, in summary, are:(a) nuh submits that there are two inventive concepts:(i) a specimen processing system which determined, through a “business logic”, the specimen requirements for the specimen test orders (“determination concept”); and(ii) the graphical display of the specimen requirements at a specimen collection station (“graphical display concept”).(b) cicada’s case is that there is one inventive concept, which it terms the “integration concept”.
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+  ac in ca 138/2016, para 54. 
+
+
+
+ this involves the integration of a front-end ordering system with a back-end laboratory information system (ie, the lis) so as to eliminate errors such as mislabelling of test tubes, inadequate collection of specimen samples and use of wrong test tubes, by performing the following functions at the same time and place: (i) collating information on the specimen collection requirements based on the specimen test ordered and then graphically displaying the specimen collection requirements at the specimen collection stations; and(ii) generating a single label containing the unique laboratory accession number and the patient information to be affixed on the test tubes.77 the judge did not agree wholly with either party’s view of the inventive concepts. instead, he identified the following two inventive concepts:(a) the linkage or interaction between what was done in the ordering of a medical test (ie, the processes for ordering tests), and what was done at the specimen-taking side (ie, the processes for collecting specimens), so that, adopting the language of operations management or quality assurance, errors or mistakes were prevented (“1st inventive concept”); and(b) the specification for the taking of specimens, ie, among other things, how the system actually ensured identification or determination of relevant constraints (such as the type of tube, number of tubes, and the amount of specimen to be collected in each tube) in each case, and the process of actual interaction or communication of different components of the system, including information processing and the display of the specification to the clinician taking the specimens (“2nd inventive concept”).78 in evaluating these different sets of inventive concepts, we find it useful to bear in mind the problems that the invention was intended to solve before turning to the solutions in the form of the inventive concepts. the three main problems in the existing hospital practice (as identified in the patent’s specification) can be summarised as follows: (a) the first is that the specimen-taker requires experiential knowledge and/or needs to consult charts in order to determine the specimen requirements (eg, the type of tube, number of tubes). determining the specimen requirements is complex and tedious and the specimen-taker may make mistakes and compromise patient safety.
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+  jcb vol ii part b p 12 at para 0002. 
+
+
+
+(b) the second relates to the chance of human error during the labelling of tubes on the part of the specimen-taker. labels are non-standard labels produced by the specimen takers. there have been errors in tube-labelling where tubes were labelled with incorrect patient identification, compromising patient safety.
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+  jcb vol ii part b p 12 at para 0003. 
+
+
+
+(c) the third concerns problems caused by having two labels for each tube. under the existing system, a second set of labels, readable by the laboratory analyser, is produced at the laboratory. having to print and affix two labels on each tube is inefficient. in addition, ensuring correct tube-to-label match is time-consuming and is prone to errors, particularly during peak periods.
+
+                   25
+
+
+
+
+foot note 25
+
+×
+
+
+
+  jcb vol ii part b p 12 at para 0004. 
+
+
+
+79 with these problems in mind, we now proceed to evaluate the parties’ and the judge’s characterisation of the inventive concept(s) in the invention. while there are differences among the three sets of inventive concepts, there are also several common threads. for instance, both the judge and nuh placed significance on the system’s determination of specimen requirements and this may have been present to a lesser degree in cicada’s integration concept which refers to “collating information on the specimen collection requirements”. further, both the judge and cicada emphasised the “integration” or “linkage” of processes in the system, albeit in slightly different wording.80 in our judgment, nuh’s determination concept is correct to the extent that it focuses on the determination of the specimen requirements for the specimen test orders by the specimen processing system. where the term “business logic” was concerned, we agree with the judge who said at [60] of the gd that the “business logic” was only a particular mode of facilitating the working of the invention and did not in itself represent the inventive concept. we also agree with the judge that nuh’s graphical display concept only represents a mode of facilitation and does not go to the “heart” of the invention.81 as for cicada’s version, we agree generally with the emphasis it places on the “integration” of the system but we note that its concept focuses only on the integration between the test ordering system and the lis, without reference to any integration with the specimen collection station. a related concern we have with cicada’s characterisation is that it lacks any mention of the specimen processing system which lies at the centre of the invention and facilitates the solutions to the problems identified. however, we agree with cicada that the retrieval and printing of information on a single tube label goes towards the heart of the invention.82 we are in general agreement with the judge’s findings as to the inventive concepts in the invention, especially in respect of the elements that he identified in his 2nd inventive concept. the determination and the relaying of specimen requirements by the processing system is a key part of the invention. we would also include the retrieval and relaying of information to be printed on a single label as an inventive concept of the invention.83 in arriving at our characterisation of the inventive concepts, we note that specificity in the identification of the inventive concepts is important here since it sets the parameters for the court’s subsequent determination of the contributions made by the parties competing for ownership of the patent. at the same time, we appreciate that where such ideas are concerned, different expressions are entirely possible. we identify two inventive concepts in the invention and express them as follows:(a) the first is the automatic determination and relaying of specimen requirements to the specimen collection system by a specimen processing system that connects the specimen test ordering system to the specimen collection system (“concept a”).(b) the second is the automatic and centralised retrieval by the specimen processing system of all information required to be printed on a label for the use of both the specimen taker and the laboratory analyser and the relaying of such information by the specimen processing system to the specimen collection system for printing on a single label (“concept b”).84 concept a proposes a solution to the first problem identified at [78(a)] above. the need for independent ascertainment of specimen requirements (through experiential knowledge or reference to charts) on the part of the specimen taker is obviated by the automatic determination and relaying of specimen requirements to the specimen collection system by the specimen processing system.85 concept b represents a solution to the remaining two problems set out at [78(b) and [78(c)] above. the problems of errors in labelling and inefficiency in having two labels are addressed by the automatic and centralised retrieval of all information required by the specimen taker and the laboratory analyser. this is likewise accomplished by the specimen processing system which retrieves all the information (whether from the specimen test ordering system or the lis) to be printed on what originally were two separate labels – such as the patient unique identification code, the specimen test sample id and the unique laboratory test accession number for the specimen – and relays all this information to the specimen collection system for printing on a single label. that centralised retrieval of all information and its communication to the specimen test collection system for one-off printing is what resolves the difficulties related to the labelling of tubes.the inventors86 we now consider who the inventors of the patent were. as stated above at [55] above, the inventors of the patent are those who contributed to the inventive concepts, ie, concepts a and b (see [76] above). the parties do not dispute the relevant legal principles identified by the judge and which we agree with:(a) the contribution must be to the formulation of the inventive concept and this is ultimately a question of fact. (b) if more than one person has contributed to the inventive concept, ie, if they were in substance jointly responsible for devising the inventive concept, they would be joint inventors: stanelco at [18] and [20]. a person who formulated the inventive concept but had no capability to realise it into a functional product, thus leaving the details to another, would still be considered an inventor: dien ghin at [13]. however, a person who merely did what was suggested to him by the actual deviser of the invention would not be considered a joint inventor (gd at [51]–[52]).  (c) a person who seeks to be added as joint inventor bears the burden of proving his contribution to the inventive concept. a person who seeks to be substituted as sole inventor bears the additional burden of proving that the inventors named in the patent did not contribute to the inventive concept (gd at [53], citing yeda at [21]). 87 cicada argues that dr ratty and dr poo are the only inventors of the patent. conversely, nuh argues that dr sethi and mr lim are the only inventors. as dr ratty and dr poo are named as the inventors in the patent, nuh bears the burden of proving that dr sethi and mr lim contributed to the inventive concepts identified above at [76] and, additionally, that dr ratty and dr poo did not contribute to the inventive concepts. 88 mr lim’s contribution can be dealt with quickly. it is not disputed that mr lim’s contribution was to the sample volume metrics dataset (“svm dataset”) and the graphical display. the svm dataset was a compilation of data specified by the manufacturers of the testing machines used by nuh on the specimen requirements for each test (gd at [67]). the graphical display simply displayed the specimen requirements on the user interface of the specimen collection station (gd at [65]). in our judgment, mr lim’s contributions did not fall within any of the inventive concepts identified by the judge or by this court. as the judge rightly pointed out, both areas of mr lim’s contributions were only methods of facilitating the working and presentation of the invention and did not form part of the inventive concepts (gd at [60], [65]–[66]). thus, we find that mr lim was not an inventor of the invention.89 next, we find that dr sethi contributed to both inventive concepts. although there was no contemporaneous record of the precise time at which the inventive concepts were conceived (as recognised by the judge at [38]), the documentary evidence showed that dr sethi was familiar with the ideas embodied in concepts a and b and was responsible for elucidating and detailing them in various documents from february 2005.90 first, dr sethi contributed substantially to the tec proposal detailing the invention (see [6] above). he worked on this proposal together with dr ratty and dr poo to obtain a grant for their project. dr sethi personally drafted the section describing a system which “[generated] specimen labels complete with accession number/analyser ready labels (with guide for specimen collection)”.
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+  jcb vol ii part b pp 72-74.
+
+
+
+ this section conveys the envisioned role of a processing system in generating specimen requirements and integrating the processes of test-ordering and specimen collecting (concept a). the tec proposal also described a system-generated specimen label produced at the point of patient contact and an “alignment of unique laboratory bar-coded label with laboratory accessioning”. the specimen label generated at the point of specimen collection was envisaged to contain information that was also required for laboratory analysis (concept b).91 second, the “cpoe lab-to-be” document created in april 2005 by nuh describes the electronic workflow for specimen collection and management which involved nurses and/or phlebotomists “scan[ning] patient [identification] to retrieve [laboratory] request with instructions for sample collection (type of specimen, [number] of tubes/sample required)”.
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+  jcb vol ii part b p 95.
+
+
+
+ this relates to the determination and relaying of specimen requirements (concept a). it also describes the process of printing the patient identification label with the laboratory accession number “sent from [the lis]”,
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+  jcb vol ii part b p 96.
+
+
+
+ showing the consolidation of the required information (concept b). cicada argues that there is no evidence that dr sethi created the cpoe document
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+  ac in ca 138/2016 at paras 106–108.
+
+
+
+ and that dr sethi admitted that the cpoe project involved “an entire group of people in the [nhg]”.
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+  jcb vol ii part a p 212.
+
+
+
+ however, the judge accepted dr sethi’s evidence that he was involved in many of the brainstorming meetings and had vetted this document (gd at [72]). we see no reason to disagree with this finding of fact. we also agree with nuh that it is reasonable that dr sethi, as the chief of nuh’s department of laboratory medicine from 2002, conceived of the solutions to address problems faced by his department.
+
+                   31
+
+
+
+
+foot note 31
+
+×
+
+
+
+  respondent’s case in ca 138/2016, para 61.
+
+
+
+92 third, the minutes from an nuh meeting held in may 2005 regarding the computerised clinician ordering system also contains ideas regarding the generation of laboratory accession numbers. the judge considered these minutes and found that one suggestion for pre-labelling “coincided with the notion of in situ printing of labels that was set out in the patent” (gd at [72]). although dr sethi was not present at the meeting, it was recognised in the minutes that a clinical team would follow up with dr sethi, “who has already initiated activities around the phlebotomist workflow from the lab’s perspective, to leverage and synergize the effort in this area”.
+
+                   32
+
+
+
+
+foot note 32
+
+×
+
+
+
+  jcb vol ii part b p 89.
+
+
+
+ this is corroborative of the fact that dr sethi had been heavily involved in conceiving and developing solutions to improve the phlebotomist workflow at that point.93 the evidence led to the inference that dr sethi was at least partly responsible for the formulation of the inventive concepts. however, nuh has not succeeded in proving that dr ratty and dr poo did not contribute to the inventive concepts. the evidence points to the converse. first, as mentioned above, there was no documentary evidence or contemporaneous record of the time at which the inventive concepts came about and who were responsible for them. the only documents that were adduced by nuh were from 2005 which was after dr sethi and dr ratty had already begun discussions in end-2004. dr ratty’s evidence was that he told dr sethi that he “had conceived of a software solution to address the problems faced by [dr] sethi when dealing with a manual laboratory workflow”
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+  jra vol iii part l p 128.
+
+
+
+ in end-2004 and dr sethi confirmed that he had spoken with dr ratty then.
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+  jra vol iii part o p 159.
+
+
+
+ these documents failed to show that dr sethi was solely responsible for the formulation of the inventive concepts. the most one can say is that dr sethi was more familiar with the concepts and was tasked with detailing them in the tec proposal. further, as a member of nuh, he was responsible for presenting it to and developing it further with his hospital.94 second, and more importantly, at all material times, dr ratty, dr poo and dr sethi were clearly the main drivers of the project leading to the invention. their close cooperation could be seen not only from their collaboration on the tec proposal but also their co-authorship and joint publication of two articles relating to the invention in 2008. one article was titled “error reduction in healthcare delivery”, published for the americas conference on information systems 2008 proceedings.
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+  jcb vol ii part b p 178.
+
+
+
+ the other was titled “designed and implementation of a knowledge-based application in specimen collection”, written for the 2008 10th international conference on e-health networking, applications and service.
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+  jcb vol ii part b p 194.
+
+
+
+ there was also evidence of a third article being drafted in 2007 titled “increasing patient safety in test ordering and collection”.
+
+                   37
+
+
+
+
+foot note 37
+
+×
+
+
+
+  jcb vol ii part b p 186.
+
+
+
+ all three articles described the atoms project and the invention and all three were co-authored by dr ratty, dr poo and dr sethi. we find this to be compelling evidence that they were jointly responsible for formulating the inventive concepts and were happy to acknowledge one another’s contributions.95 fundamentally, the invention was an automated process designed to reduce human error in hospitals and laboratories and required input from both the healthcare sector (dr sethi) and the software sector (dr ratty and dr poo, through cicada). while the seed of the invention may have been planted by nuh, it only took root with the aid of cicada’s software expertise and bloomed when both parties nurtured and nourished it together. we find it difficult to attribute inventorship to one party to the exclusion of the other in such circumstances where the invention involved the substantial cross-pollination of ideas from two different sectors. clearly, the invention was the result of cooperation and collaboration.96 for the above reasons, we agree with the judge that dr ratty, dr poo and dr sethi were the inventors.ownership97 the issue of ownership follows from the determination of inventorship. having found that dr sethi, dr ratty and dr poo were joint inventors of the invention in the patent and considering that cicada no longer disputes that nuh is entitled to dr sethi’s invention by virtue of s 49 of the act (see [17] and [19] above), we find that cicada and nuh are entitled to joint ownership of the patent.98 finally, cicada submits that nuh is estopped from claiming ownership of the patent as cicada had explicitly demanded all intellectual property rights yet nuh did not ever dispute this and instead silently moved forward with the mou. we reject this argument. to establish estoppel, cicada must prove that there was a representation of fact by nuh which cicada relied upon to its detriment: the bunga melati 5 [2016] 2 slr 1114 at [12]. on the facts, there was no representation by nuh that it was acquiescing to cicada's ownership of the rights in atoms. on 26 october 2005, a representative from nhg proposed to dr ratty that "the ip shall be jointly owned: 50/50" but dr ratty counter-proposed that cicada have ownership and pay nhg a royalty of 10% for the first five years.
+
+                   38
+
+
+
+
+foot note 38
+
+×
+
+
+
+  jcb vol ii part b p 157.
+
+
+
+ it is clear that the parties did not reach any agreement and the tec agreement simply states at cl 8.3 that the parties would jointly own the rights over any invention jointly conceived by both parties. in any event, even if nuh had made any representation, there was no basis for cicada to rely on it. the tec agreement contains an "entire agreement clause" at cl 25 in which the parties acknowledged that they were not relying on any representations, terms or conditions which are not set out in the agreement. we therefore find that the both parties share joint ownership of the patent in accordance with their joint inventorship.costs below99 finally, both parties have appealed the judge’s costs order below. cicada argues that party-and-party costs should not have been awarded to nuh at all. on the other hand, nuh contends that the judge erred in awarding only $77,500 in costs to nuh when nuh had asked for the sum of $157,115.61 as party-and-party costs.100 order 59 r 3 of the roc sets out the general principles that costs are within the court’s discretion and that costs should generally follow the event. as we have upheld the judge’s finding that nuh and cicada are joint proprietors, nuh was rightly entitled to costs below as it had succeeded on its prayers in the alternative that it be named a joint proprietor alongside cicada and that dr sethi be named a joint inventor alongside dr poo and dr ratty.101 at the same time, we also agree with the judge’s decision to award only $77,500 in costs to nuh. in substance, nuh succeeded only partially as it did not succeed in: (a) having itself named as the sole proprietor of the patent in place of cicada; (b) removing dr poo and dr ratty as inventors of the patent; and (c) having mr lim named as a joint inventor. in this light, the judge was entirely justified in awarding about 50% of the costs asked for by nuh. we see no reason to disturb the judge’s costs order in the proceedings below.conclusion102 for the above reasons, we dismiss both appeals. we also make no order on the costs of the appeals.andrew phang  boon leong    tay yong kwang  steven chongjudge of appeal     judge of appeal  judge of appeal ravindran s/o muthucumarasamy and jevon louis (ravindran associates) (instructed) and n sreenivasan sc, shankar as and ivan qiu (straits law practice) for the appellant in ca 138/2016 and the respondent in ca 139/2016;tan tee jim sc, christopher de souza, vanessa goh and basil lee (lee & lee) for the respondent in ca 138/2016 and the appellant in ca 139/2016.

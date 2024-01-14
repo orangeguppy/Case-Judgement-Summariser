@@ -1,0 +1,848 @@
+in the court of appeal of the republic of singapore[2021] sgca 31civil appeal no 67 of 2020 betweenpacific ocean engineering & trading pte ltd … appellant andtractors singapore limited… respondent283 of 2018betweentractors singapore limited… plaintiff andpacific ocean engineering & trading pte ltd… defendantjudgment [contract] — [discharge] — [breach][contract] — [contractual terms] — [implied terms][contract] — [contractual terms] — [contractual interpretation][contract] — [remedies] — [damages] — [mitigation of damage]this judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.pacific ocean engineering & trading pte ltd vtractors singapore limited  [2021] sgca 31court of appeal — civil appeal no 67 of 2020sundaresh menon cj, quentin loh jad and chao hick tin sj15 october 2020 8 april 2021 judgment reserved.quentin loh jad (delivering the judgment of the court):introduction 1 this appeal arises out of a dispute over the fulfilment of ten contracts for the sale of shipbuilding equipment. the respondent claimed that it was unable to deliver the ordered equipment due to the appellant’s breach of two implied terms which required it to (a) advise on a delivery date within a reasonable period; and (b) nominate a port of destination within a reasonable period. the appellant counterclaimed for the wrongful termination of the contracts. the high court judge (“the judge”) found in favour of the respondent. he directed the appellant to pay damages for the outstanding sums due under disputed contracts less the amount the respondent had recovered in mitigation. the judge also dismissed the appellant’s counterclaim for wrongful termination: tractors singapore ltd v pacific ocean engineering & trading pte ltd [2020] sghc 60 (the “judgment”).2 the appellant now seeks to set aside the judge’s decision. in so doing, it advances some arguments that were neither pleaded nor properly canvassed at trial. much judicial ink has already been spilt in an effort to caution litigants against raising new arguments on appeal. while we do not intend to cover old ground, the present case is another illustration of the consequences of failing to heed that caution. it is an established principle of our litigation regime that, where an appellant has taken a certain position in its pleadings and the trial below was conducted on that basis, it cannot deviate from this position by refining its case on appeal. much less should it attempt to amend its defence on appeal. this is exactly what the appellant applied to do and we firmly rejected it (see [31] below).the facts3 the parties are both singapore-incorporated companies. pacific ocean engineering & trading pte ltd (the “appellant”) is in the business of building and selling ships. prior to the commencement of proceedings in the high court by way of suit 283 of 2018 (“suit 283/2018”), the appellant was a long-time customer of tractors singapore limited (the “respondent”), which distributes “caterpillar” brand machines, engines, propulsion systems and lift racks. 4 between 26 november 2012 and 25 july 2016, the parties entered into ten contracts (the “contracts”) for the sale of shipbuilding equipment. this was effected by a standard procedure used throughout their 16-year relationship, viz, the respondent’s sales manager, mr gary koh teck seng (“koh”), would prepare a quotation for the required equipment on a standard template. this quotation would set out the approximate period during which the appellant was expected to take delivery and the respondent’s conditions of sale (“conditions of sale”). the appellant’s managing director, mr quah peng wah (“quah”), would sign off on the quotation, and the appellant would then issue a purchase order (“po”). the appellant regarded the respondent’s quotations as contracts, which it confirmed in writing via the pos (judgment at at [5]–[6]). 5 the appellant usually confirmed the delivery dates and ports of delivery for the equipment under its contracts with the respondent after the issuance of its pos. hence, the pos typically indicated delivery dates as “tba by poet”, ie, to be advised by the appellant. in respect of all but one of the contracts, “tba by poet” was reflected in all the corresponding pos; the exception was po 10601 for which the delivery date was stated as “tba”.
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  appellant’s core bundle (“acb”) vol ii, pp 71 to 72. 
+
+
+
+ the pos for the contracts also listed tentative ports of delivery such as “cif china major port”.
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  see for eg, acb vol ii, pp 60 to 61.  
+
+
+
+ it was understood, however, that this indication was still subject to the appellant’s further advice. unfortunately, as we explain at [6] to [8] below, the appellant failed to give this advice in a timely manner for the equipment under the contracts, thereby inhibiting the performance of those contracts.  6 the first signs of trouble emerged towards the end of 2013. the earliest of the contracts, evidenced by pos 8874 and 8875, were tentatively scheduled for performance in september 2013
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  acb vol ii, pp 14 to 15. 
+
+
+
+ and october 2013
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  acb vol ii, pp 16 to 17. 
+
+
+
+. however, the appellant failed to nominate ports of destination by these dates and the respondent was unable to effect delivery. the respondent did not take steps to terminate these contracts. instead, the parties continued to discuss possible delivery dates and/or ports of destination for the contracts. this led to a meeting in december 2015 where the parties agreed to extend the delivery dates for seven of the contracts, evidenced by po 8874, 8875, 9992, 10600, 11289, 11290 and 11651, to the end of 2016 or january 2017 (judgment at [74]). this agreement is corroborated by a project list outlining revised delivery dates that was circulated via email on 16 february 2017.
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  acb vol ii, p 125. 
+
+
+
+7 the parties then met for a second time on 9 april 2016 and, according to the respondent, agreed that delivery for two of the remaining contracts evidenced by pos 9968 and 9969 would take place in may 2017 and july 2017. we note that these contracts were for the sale of complete propulsion systems with “components such as engines, power generators, thrusters, motors and a user interface”.
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  appellant’s case at para 17. 
+
+
+
+ in order to fulfil its obligations under the po 9968 and 9969 contracts, the respondent contracted with a vendor to supply it with two battery-powered xeropoint hybrid propulsion systems (the “propulsion systems”). however, in 2015, the appellant modified its order and requested the respondent to remove the propulsion system batteries and the respondent agreed to do so (judgment at [65]). the respondent subsequently obtained a s$200,000 rebate from its vendor for the cost of these batteries. 8 following the 9 april meeting, the parties were still unable to come to an agreement as to the delivery date for the last of the contracts evidenced by po 10601. the appellant also failed to nominate ports of destination in respect of the contracts for which delivery dates had been agreed upon. 9 by reason of its inaction, the respondent understood that the appellant no longer intended to be bound by or was unable to comply with the contracts and was thus in repudiatory breach. on 13 october 2017, the respondent purported to accept the appellant’s breaches and elected to discharge the contracts by way of written notice (judgment at [12]).
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  see also, record of appeal (“roa”) vol v q, pp 293 to 300; vol v r, pp 3 to 14. 
+
+
+
+the proceedings belowthe respondent’s case at trial10 on 16 march 2018, the respondent commenced suit 283/2018 for a declaration that the appellant had breached eight of the  contracts, namely those evidenced by pos 9968, 9969, 9992, 10600, 10601, 11289, 11290 and 11651. more specifically, it claimed that the appellant had breached two implied terms of the contracts. the particulars of these terms are as follows:(a) a term requiring the appellant to advise on a delivery date for the ordered equipment within a reasonable period (“term 1”); and (b) a term requiring the appellant to nominate a port of destination within a reasonable period (“term 2”).besides declaratory relief, the respondent also sought to claim the outstanding 90% of the price due under all these contracts, less the sums that it had recovered in mitigation (judgment at [12]).11 the particulars of the respondent’s claim are straightforward. it pleaded that, over 42 months after the issuance of po 10601, the appellant had still failed, neglected and/or refused to advise on a delivery date for the equipment under this contract.
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  roa vol ii, p 24 at para 54. 
+
+
+
+ this far exceeded the usual period of two years within which the appellant would satisfy term 1 (judgment at [106]). in respect of the remaining contracts, the appellant had failed, neglected and/or refused to nominate a port of destination despite the parties having already agreed on dates of delivery for the equipment under the contracts.
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  roa vol ii, pp 14, 16, 19, 21, 27, 31 at paras 11, 22, 32, 43, 67, 82. 
+
+
+
+ by reason of the above, the respondent was unable to fulfil its orders under the relevant contracts. it thus chose to accept the appellant’s  repudiatory breaches and elected to discharge the contracts. 12 the respondent did not seek relief in respect of the final two contracts evidenced by pos 8874 and 8875. these contracts had been for the sale of eight c32 generators to be installed on-board two hulls, hulls 1517 and 1518 (“h1517 and h1518”). the appellant’s case at trial 13 the appellant raised a number of defences to the respondent’s claim. in respect of the contract underlying po 10601, it pleaded that it had not breached this contract because:
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  roa vol ii, p 48 at para 25. see also, roa vol iv b, pp 241 to 243 at paras 16 to 19.
+
+
+
+ … [t]he po 10601 equipment were expressly purchased as ‘stock’ and had no express or implied delivery date (or any reasonable delivery time as alleged by the [respondent]). the [respondent] was obliged to deliver the equipment to the [appellant] as and when [the appellant] required delivery. 14 the appellant further pleaded that the respondent had not been entitled to terminate and/or discharge this contract “without giving reasonable prior notice”.
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  roa vol ii, p 48 at para 27. 
+
+
+
+ more fundamentally, it did not agree that its failure to nominate a delivery date was so serious a breach that the respondent was permitted to terminate the contract.  term 1 was neither a condition nor a condition precedent of the contract.
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  roa vol iv b, pp 285 to 286 at paras 11 to 15. 
+
+
+
+ the appellant also took issue with the respondent’s argument, raised for the first time in its further trial submissions (judgment at [118]), that it was contractually entitled to terminate the contract by virtue of cl 11 of its conditions of sale.
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  roa vol iv b, p 275 at para 2. 
+
+
+
+ the appellant’s position was that cl 11 was inapplicable because it deals with credit default and insolvency situations. it also argued that cl 11’s application ought to be limited to the breach of an express term or obligation. the respondent’s broad construction of cl 11 would have the effect of “turn[ing] every provision in the [c]ontract into a condition” (see also judgment at [121]).
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  roa vol iv b, pp 283 to 284 at paras 2 to 4. 
+
+
+
+ 15 in the event that it was found to have breached po 10601, and the other contracts under the respondent’s claim, the appellant averred that the respondent had failed to adequately mitigate its loss by selling the undelivered equipment under the contracts. the appellant pleaded that the respondent could have easily resold this equipment, for which there had been an “available market”. having failed to minimise its damages, the respondent was precluded from claiming the reasonable “resale price” of the unsold equipment. allowing it to recover these sums would amount to unjust enrichment (judgment at [139] and [143]).
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  see also, roa vol iv b, pp 246 to 247 at paras 33 and 35 to 37.  
+
+
+
+ 16 for completeness, we add that the appellant also pleaded a counterclaim that comprised two limbs. first, the respondent was itself in repudiatory breach of the contracts underlying its claim by discharging and/or terminating them on 13 october 2017 (judgment at [19]). secondly, the respondent also breached the contracts evidenced by pos 8874 and 8875 (see [12] above). according to the appellant, the parties had reached an agreement that the delivery of the generators under these contracts could be deferred under certain circumstances. however, on 7 august 2017, the respondent claimed the appellant was in breach of term 2 and unilaterally terminated the contracts. in so doing, the respondent was once again in repudiatory breach. by reason of its conduct, the respondent was liable to refund the 10% down-payments paid by the appellant under all the contracts.
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  roa vol ii, p 70 at para 52.
+
+
+
+the decision below17 the judge began his analysis by splitting the contracts into two groups: (a) the contracts for which there were mutually agreed delivery dates; and (b) the sole contract for which there was no mutually agreed delivery date, namely po 10601 (judgment at [22]). it was undisputed that pos 9992, 10600, 11289, 11290, 11651, 8874 and 8875 fell within the first group; the parties agreed that they had met in december 2015 and fixed delivery dates as end 2016 or january 2017 (see [6] above).
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  roa vol ii, pp 19, 21, 27, 29, 31 at paras 31, 42, 65, 76, 81; p 81 at para 39.  
+
+
+
+ as for pos 9968 and 9969, the judge accepted the respondent’s assertion that the parties had agreed for the equipment under these pos to be delivered in may 2017 and july 2017 (see [7] above). thus, they were also included in the first group. the judge then considered the relevant issues for each group of contracts in turn.18 with regard to the first group of contracts, the judge first had to examine if term 2 was an implied term of these contracts. having considered the general principles on contractual implication laid down in sembcorp marine ltd v ppl holdings pte ltd and another and another appeal [2013] 4 slr 193 (“sembcorp”), the judge found that the relevant contracts were subject to term 2. such a term was necessary to ensure the business efficacy of the contracts, or else the respondent would be unfairly prevented from effecting timely delivery (judgment at [34] and [42]). the question that followed was whether the appellant had breached term 2. on the evidence before him, the judge found that none of the defences raised by the appellant displaced its liability for repudiatory breach (judgment at [70], [72], and [74]–[75]). 19 the judge further determined that the respondent was able to terminate the first group of contracts on the ground that term 2 was a condition of those contracts (rdc concrete pte ltd v sato kogyo (s) pte ltd and another [2007] 4 slr(r) 413 at [113]) (judgment at [76] and [87]). for completeness, it was also found that the respondent had neither waived nor was it estopped from exercising its right of termination. the respondent was able to exercise this right without giving the appellant reasonable notice of the same (judgment at [94]–[95], [98] and [105]). 20 in respect of po 10601, the judge observed that the underlying contract specified that 90% of the contract price would only become payable upon the delivery of the equipment ordered. this meant that, for as long as the appellant withheld advising the respondent on a delivery date, the respondent would not have been entitled to the outstanding contract price. this was a “gap” that the parties had failed to contemplate and that needed to be remedied by term 1 for the contract to make commercial sense (judgment at [110]). the judge took the view that a “reasonable period” under the implied term constituted a maximum of two years from the conclusion of the contract, having regard to the parties’ past practice (judgment at [112]). having failed to advise on a delivery date by the end of this period, the appellant had breached term 1 (judgment at [116]). 21 the judge accepted the respondent’s submission that it was entitled to terminate the po 10601 contract by virtue of cl 11 of its conditions of sale. clause 11 states, among other things, that if the buyer “shall make default in or commit a breach of the contract or of any other of his obligations to the seller … the seller shall have the right forthwith to terminate any contract then subsisting …” [emphasis in original] (judgment at [120]). it could not be suggested that cl 11 mainly dealt with credit default and insolvency-related events and thus had to be construed contra proferentem. this construction would undermine the plain and unambiguous meaning of cl 11, which entitled the respondent to terminate the contract for the breach of any obligation (judgment at [128]). 22 on the issue of damages, the main question for the judge was whether the respondent had reasonably mitigated its loss. the appellant sought to argue that the respondent had fallen short of its duty to mitigate; notwithstanding the existence of an available market, it had failed to sell all of the equipment under the contracts and minimise its losses. the judge rejected this assertion as the appellant had failed to put forward objective evidence of an available market. further, even if a ready market did exist, the respondent’s inability to sell some of the equipment did not conclusively indicate a failure to mitigate, its efforts had to be examined by reference to the circumstances of the whole case (judgment at [144]). the judge proceeded to award the respondent damages equivalent to the remainder of the prices of the contracts, less the amounts it had successfully recouped in mitigation, this being s$11,174,300 and us$ 536,945 (judgment at [146]–[147]).  the parties’ cases 23  the appellant advances three key arguments on appeal. first, the judge erred in implying term 1 as a term of the contract underlying po 10601 because term 1 does not satisfy the requirements in sembcorp. further, the respondent should not have been allowed to use cl 11 of its conditions of sale to terminate the contract; cl 11 is limited to credit-default and insolvency events. secondly, even if the respondent validly terminated the contracts that make up its claim, it failed to prove its loss and is not entitled to any substantial damages. the judge was also incorrect to award damages for the respondent’s avoidable losses, ie, the market or residual value of unsold equipment under the contracts. thirdly, the appellant’s counterclaim in respect of the contracts evidenced by pos 8874 and 8875 should not have been dismissed. the judge wrongly held that the appellant had breached these contracts by failing to nominate a port of destination by end 2016 or january 2017. in fact, (as noted at [16] above) the parties had agreed to extend the delivery dates for the contracts. contrary to this agreement, the respondent prematurely terminated the contracts without notice and is accordingly liable to repay the appellant the 10% down-payments under the said contracts. 24 as against this, the respondent submits that the judge correctly applied sembcorp to imply term 1 as a term of the contract underlying po 10601. the judge was also right in finding that cl 11 of the conditions of sale entitled the respondent to terminate the contract for a breach of this term. on its award of damages flowing from the appellant’s breaches, the respondent argues that its alleged failure to prove its loss was never an issue at trial and the appellant must be precluded from raising this new point on appeal. there is also no need to set aside the judge’s measure of damages; in the absence of an available market, the respondent is entitled to its expectation loss. finally, the judge was correct in rejecting the appellant’s counterclaim. email correspondence referenced by the appellant indicates that the parties did not postpone the delivery dates for the contracts evidenced by pos 8874 and 8875. the appellant therefore breached term 2 by failing to nominate a port of delivery by january 2017. our decision 25 there are three issues that arise for our determination. (a) what is the nature of the implied term of the contract underlying po 10601 and was the respondent entitled to terminate this contract? (b) did the judge award the respondent the appropriate measure of damages?  (c) was the judge right in dismissing the appellant’s counterclaim?we address these issues in turn. issues surrounding the contract underlying po 10601  the content of the implied term 26 the appellant submits that the judge was wrong to have implied term 1 as a term of the contract evidenced by po 10601. in that regard, it contends that the judge misapplied the test in sembcorp, which requires the court to ascertain whether (at [101]):(a) there is a gap in the contract that can be remedied by implication;(b) it is necessary in the business or commercial sense to imply the term to give the contract efficacy; and (c) the suggested term is so obvious that if it had been suggested at the time of contracting, the parties would have agreed to such a term immediately. 27 the judge found that there was “clearly a ‘gap’ which the [parties] had failed to contemplate … which needed to be addressed in order for the contract to make commercial sense” (judgment at [110]). yet, the appellant submits that the judge failed to consider if the third step of the sembcorp test had been satisfied. prior to the issuance of po 10601, the appellant had issued an earlier po for the very same equipment with an indicative delivery date of “june (2014) (actual date tba)”. this po was later cancelled and replaced by po 10601. notably, instead of giving an alternative delivery date, po 10601 merely indicated the time of delivery to be “tba” or “to be advised”. according to the appellant, this shows that the parties intended to keep the terms of delivery open.
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+  appellant’s case at para 69.
+
+
+
+ the implication of term 1 would contradict this express wording, failing the officious-bystander test (sembcorp at [98]). it follows that term 1 would not have elicited an unreserved “oh, of course!” if it had been suggested at the time of contracting.
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+  appellant’s case at paras 68 and 70; appellant’s skeletal submissions at para 22. 
+
+
+
+28 at the hearing before us, counsel for the appellant mr lee eng beng sc (“mr lee”) clarified that it was not the appellant’s case that the parties intended to indefinitely leave open the date of delivery, ie, that they contemplated the gap in the contract. he accepted that this would mean the contract evidenced by po 10601 was an option contract, an altogether different type of obligation. instead, mr lee submitted that the parties envisaged that they would communicate with one another at a later stage and either side could propose a delivery date, which then had to be accepted if it was reasonable. this explained why the parties used the generic term of “tba” in po 10601, as opposed to the other pos which specified that any change to the delivery dates had to be advised by the appellant (see [5] above). we understood this submission to mean that the appellant was seeking to imply its own term into the contract: that both the parties could have brought the contract into a state of certainty by raising the delivery date issue.29 we have two difficulties with the appellant’s argument. first, we find it challenging to accept the proposition that the parties intended that either one of them could have advised on a date of delivery. in finding that the appellant had breached term 1 of the po 10601 contract, the judge expressly rejected quah’s assertion that the respondent would “store” ordered equipment on behalf of the appellant and deliver the same upon being given reasonable notice.
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+  roa iii a, p 36 at para 51.
+
+
+
+ we entirely agree with the judge and would add that the appellant’s submission on this point is quite inconceivable, viz, the effect of their agreement was that, with a 10% down payment, which would have locked in the price indefinitely, the respondent had to hold itself ready to deliver the equipment whenever the appellant was ready to take delivery. we also cannot fault the judge in accepting that the phrase “poet stock” in po 10601 was not intended to mean that the respondent would purchase and store equipment for the appellant. “rather, it was used to signify a particular [c18] engine which had been ordered under a previous po, but which had been transferred to a new hull and designated under a new po …” [emphasis added] (judgment at [111]). against this backdrop, it is less likely that either party could have triggered the obligation to nominate a delivery date. we find that the appellant was better placed to know when exactly it needed the specific equipment under the po 10601 contract. we also find that the respondent would have required directions from the appellant within a reasonable period in order to perform the contract with certainty. 30 our second difficulty is more fundamental in nature: the implied term suggested by the appellant at [28] above was not part of its case at trial. as explained at [13] above, the appellant’s sole defence against the respondent’s claim that it had breached term 1 was that there was actually no requirement for it to advise on a date of delivery within a reasonable period. this was because the respondent was only obliged to deliver the equipment “as and when” the appellant required delivery, hence the use of the words “tba”. in other words, the appellant took the view that there was no implied term within po 10601 for it to have breached.  31 we pause here to note that the appellant’s appellate submissions on this issue is not the only example of a shift in its case. besides the arguments raised at [23] above, the appellant initially raised a fourth ground of appeal. it claimed that there had been no breach of term 2 in respect of the contracts evidenced by pos 9968 and 9969 because it had nominated “shanghai port” as a port of delivery, a fact that was borne out by the evidence at trial.
+
+                   21
+
+
+
+
+foot note 21
+
+×
+
+
+
+  appellant’s case at paras 45 to 50. 
+
+
+
+ following the respondent’s contentions that this argument had not been pleaded,
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+  respondent’s case at paras 29 to 30. 
+
+
+
+ the appellant filed an application to amend its pleadings by way of summons no 93 of 2020 (“sum 93/2020”) to remedy what it regarded as a technical objection.
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+  quah peng wah’s affidavit for sum 93/2020 dated 2 september 2020 at para 6. 
+
+
+
+ we dismissed sum 93/2020, having found that the application would cause the respondent to suffer irreparable prejudice. in so doing, we emphasised that the appellant’s case at trial had been run on an entirely different basis, and it never pleaded that it had, in fact, complied with term 2. the respondent was therefore unable to adduce relevant evidence at trial because it did not know that that was the case it had to meet (jtrust asia pte ltd v group lease holdings pte ltd and others [2020] 2 slr 1256 at [118]–[119] and [130]). in our view, it was far too late for the appellant to attempt to rectify this by an amendment of its pleadings on appeal. 32 similar considerations undermine the appellant’s present argument on the content of the implied term of the po 10601 contract. not only did it neglect to plead or argue the existence of an implied term at trial but the appellant did not even propose an alternative term that the judge could consider besides term 1. having failed on its sole defence, the appellant cannot simply come before us to suggest that the judge should have considered implying a term that was never put before him. the appellant’s conduct at trial also deprived the respondent of an opportunity to run its case in a different manner or raise particular defences to the assertion that both of the parties could advise on delivery dates. in the circumstances, we find that the judge was right to imply term 1 as a term of the po 10601 contract and to have found that two years constituted a “reasonable period”.   the respondent’s right of termination 33 even if it is found that term 1 is the correct term to be implied into the contract evidenced by po 10601, the appellant contends that the judge erred in finding that the respondent was entitled to terminate this contract pursuant to cl 11 of its conditions of sale. while the appellant accepts that cl 11 is binding on the parties, it argues that the judge’s interpretation of this clause disregarded its overall context and meaning. the appellant contends that, although the language of cl 11 (at [21] above) appears to entitle the respondent to terminate contracts with the appellant for the breach of any obligation, this wording must be considered alongside “the sea of other phrases [in cl 11] that touch only on credit default or insolvency-related events and nothing else”. when read in context, it becomes apparent that cl 11 does not facilitate contractual termination for any kind of breach but is “engaged in relation to breaches that arises [sic] out of or [are] in connection with credit default or insolvency-related events”.
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+  appellant’s case at para 81. 
+
+
+
+ indeed, any other interpretation would render these more specific aspects of cl 11 redundant.
+
+                   25
+
+
+
+
+foot note 25
+
+×
+
+
+
+  appellant’s case at para 82. 
+
+
+
+ 34 the law on the interpretation of contractual terms is uncontroversial.  as summarised by this court in yap son on v ding pei zhen [2017] 1 slr 219 at [30], the ultimate purpose of interpretation “is to give effect to the objectively ascertained expressed intentions of the contracting parties as it emerges from the contextual meaning of the relevant contractual language”. to that end, while both the text of the agreement and the surrounding context ought to be considered, the written agreement remains of first importance (see also y.e.s. f&b group pte ltd v soup restaurant singapore pte ltd [2015] 5 slr 1187 at [32]). 35 the appellant’s arguments in the present case call for an interpretation of cl 11 of the conditions of sale, which states:
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+  acb vol ii, p 87. 
+
+
+
+11. if the buyer fails to furnish evidence of his credit worthiness or security for payment to the seller’s satisfaction within sixty (60) days from the date of the seller’s acceptance, or the buyer shall make default in or commit a breach of the contract or of any other of his obligations to the seller, or if any distress or execution shall be levied upon the buyer’s property or assets, or if the buyer shall make or offer to make any arrangement or composition with creditors, or commit any act of bankruptcy, or if any petition or receiving order in bankruptcy shall be presented or made against him, or if the buyer is a limited company and any resolution or petition to wind up such company’s business (other than for the purpose of amalgamation or reconstruction) shall be passed or presented, or if a receiver of such company’s undertaking,  property or assets or any part thereof shall be appointed, the seller shall have the right forthwith to terminate any contract then subsisting and upon written notice of such terminations being posted to the buyer’s last known address any subsisting contracts shall be deemed to have been terminated without any prejudice to any claim or right the seller may otherwise make or exercise. [emphasis added]36 for ease of reference, we have emphasised the portion of cl 11 on which the judge based his finding (judgment at [120]) that the respondent could rely on this clause to terminate the contract evidenced by po 10601. 37 in our judgment, it is apparent from the plain wording of cl 11 that this clause is not limited to credit default or insolvency-related events but is a wider termination clause than contended for and it allows the respondent to terminate its contracts with the appellant for a breach of any obligation. such an interpretation is supported by the very structure of cl 11. whilst the opening words do identify credit concerns and the later words provide for events like distress or execution being levied on the buyer’s goods or composition with creditors, or presentation of a bankruptcy petition, the words relied on by the respondent, which has been emphasised above, appear right in between. it seems impossible in the context to construe that such plain and clear words are somehow limited by the phrases that go before or after it. the appellant’s argument might have had some traction if that phrase appeared at the end of the clause, however even then, ejusdem generis, as a rule of construction, requires general words following an enumeration of particular events or instances previously prescribed. further if the parties had decided to limit termination to situations of credit default and insolvency, there would have been no need to include a broader proviso to facilitate termination in other situations. the fact that they referenced breaches of “any other … obligations” evidences a clear intention that cl 11 ought to be construed more broadly and to encompass what it plainly states. in these circumstances, it is the appellant’s, and not the respondent’s, interpretation of cl 11 that renders aspects of the clause otiose.
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+  respondent’s case at para 66(b). 
+
+
+
+ 38 we therefore see no reason to read down cl 11 in the manner suggested by the appellant. it follows that the respondent was entitled to and did terminate the contract evidenced by po 10601 by virtue of cl 11. at the hearing before us, mr lee suggested that, at the very least, the respondent should have given notice of its intention to terminate the contract
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+  roa vol ii, p 48 at para 27. 
+
+
+
+ as this would have given the appellant a final opportunity to remedy its breach. put another way, the respondent should be estopped from terminating the contract. while the judge analysed this point in relation to the contracts evidenced by pos 9968, 9969, 9992, 10600, 11289, 11290, 11651, 8874 and 8875 (judgment at [98] and [104]–[105]), we consider his analysis to apply with equal force to po 10601. the judge held that a defence of promissory estoppel was not made out on the facts because the respondent had not made an unequivocal representation, on which the appellant relied to its detriment, that it would not discharge or terminate the contracts. the respondent was thus free to enforce its right of termination without prior notice. in our view, this conclusion coheres with the wording of cl 11, which obliges the respondent to give “written notice” upon, and not before, termination. we accordingly find that, while the appellant may have appreciated something of a “final warning” from the respondent, it was not legally entitled to one.39 we also add that there is no prejudice suffered by the appellant by reason of the respondent’s failure to plead the relevance of cl 11 or refer to this clause in its initial set of closing submissions.
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+  appellant’s case at para 73. 
+
+
+
+ the meaning of cl 11 is a legal point. moreover, it is undisputed that the respondent’s conditions of sale were included in all its contracts with the appellant (see [4] above) and were attached to the disputed pos. the judge also found that the appellant, having held a longstanding commercial relationship with the respondent, was well acquainted with the details of the conditions of sale (judgment at [127]). against this backdrop, the appellant could hardly have been taken by surprise by the respondent’s reliance on cl 11 in its further submissions. even if it was, the appellant had the opportunity to respond to these submissions and propose its own interpretation of the legal effect of cl 11. the respondent’s award of damages  40 we now turn to the appeal against the judge’s award of damages (see [22] above). the appellant submits that the judge was wrong to award the respondent “damages equivalent to the expectation loss which it has suffered by virtue of the [appellant’s] contractual breaches”, ie, the outstanding price of the contracts which comprise the respondent’s claim less the sums the respondent recouped in mitigation (judgment at [138]). the appellant puts forward two reasons. first, the respondent did not perform all of its obligations under the contracts evidenced by pos 9968 and 9969. it failed to procure (and integrate) components of the ordered shipsets from its subcontractors and thus was not in a position to deliver the equipment to the appellant by the delivery dates of may 2017 and july 2017.
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+  appellant’s case at paras 93 to 95; appellant’s skeletal submissions at para 42. 
+
+
+
+ the upshot of this is that the respondent did not incur all necessary costs under the contracts evidenced by pos 9968 and 9969. permitting it to use the outstanding price of these contracts as the “starting basis”
+
+                   31
+
+
+
+
+foot note 31
+
+×
+
+
+
+  appellant’s case at para 97.
+
+
+
+ for damages would necessarily result in overcompensation. this submission is bolstered by the fact that the respondent obtained a s$200,000 rebate for the removal of the propulsion systems batteries (see [7] above) but did not account for this discount in its claim for damages.
+
+                   32
+
+
+
+
+foot note 32
+
+×
+
+
+
+  appellant’s case at para 96; appellant’s skeletal submissions at para 43. 
+
+
+
+ 41 secondly, in respect of the remaining contracts that form the respondent’s claim, the appellant contends that, contrary to the judge’s finding (at [22] above), there was an available market for the equipment under these contracts. it follows that the judge should have accounted for the market value of the unsold equipment in calculating the respondent’s damages. even if there was no available market, it is undisputed that the unsold equipment still carried a “residual or scrap value” and the judge should have given credit for this in his award of damages.
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+  appellant’s case at paras 104 to 115; appellant’s skeletal submissions at paras 48 to 53. 
+
+
+
+ 42 the appellant’s submission (at [40] above) that the respondent did not incur all of its expenses under the contracts evidenced by pos 9968 and 9969 is fatally undermined by the fact that, once again, its appellate case diverges from its case at trial. the appellant’s initial position on the issue of damages is set out at [15] above. it is significant that the appellant did not argue that the respondent had failed to prove its loss. its argument was that there had been a failure of mitigation as the respondent had failed to resell the equipment under the contracts despite the existence of an available market. the appellant also submitted that the proper measure of the respondent’s expectation loss “was the remainder of the prices of all eight contracts, less the resale price of all the equipment on reasonable resale terms” [emphasis in original in italics; emphasis added in bold italics] (judgment at [139]). again, it was never disputed that the starting point for the respondent’s loss was the remaining price under the relevant contracts. this explains why the judge’s analysis focused on answering the question of whether the respondent had reasonably mitigated its loss, not whether it had proved it.43 these are all heavily factual points that should have been raised at trial, not on appeal without the relevant evidence. it goes without saying that, had this latter question been in dispute before the judge, the trial would have proceeded very differently. the respondent would have been compelled to lead evidence to support its claim that its loss amounted to the total outstanding contractual price for pos 9968 and 9969. the appellant would then have had the opportunity to test such evidence and advance its own evidence to the contrary. having considered all this evidence, the judge would then have made an express finding on whether the respondent had made out its claim. the appellant’s submissions invite us to assume this fact-finding role for ourselves. this, however, falls outside the purview of an appellate court. in any event, our inquiry is confined to the evidence that was adduced at trial. this is significant because, as was noted by this court in jwr pte ltd v edmond pereira law corp and another [2020] 2 slr 744 at [29], where a new argument involves issues of fact, “it is almost inevitable that the failure to raise the point [earlier will result] in relevant evidence not being fully ventilated”. having failed to dispute the quantification of the respondent’s loss at first instance, there is now simply insufficient evidence on which the appellant can mount such a challenge on appeal. 44 mr lee sought to persuade us otherwise. in his view, there was already “a fair amount” of evidence on what the respondent had or had not done towards the performance of the contracts evidenced by pos 9968 and 9969. to illustrate  his point, mr lee referred to an extract of the respondent’s project engineer’s (mr ng mon foo) cross-examination, in which he had discussed the production and delivery status of a number of components under the contracts.
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+  appellant’s case at para 94; acb vol ii, pp 214 to 215. 
+
+
+
+ the thrust of this evidence was that the respondent had stopped its procurement of certain pieces of equipment in light of the appellant’s failure to advise on delivery dates. mr lee suggested that, with this in hand, it was possible to extrapolate what costs the respondent had incurred at the point of contractual termination. 45 we do not agree. the foregoing evidence only provides an indication of the extent to which the respondent had performed its obligations. as none of the respondent’s witnesses were directly questioned on this issue, there remains a large degree of uncertainty as to the exact stage of production and delivery each component was at as well as the exact expenses the respondent had incurred. to give a simple illustration, although the “central monitoring system” under both contracts was “not completed”, there is no information as to the systems’ degree of incompleteness, the cost of these systems or whether the respondent had paid for the systems upfront. attempts to drill down the expenses of the respondent with such an incomplete evidential picture would necessarily lead the court into the realm of speculation.  46  we note that mr lee also cited the fact that the respondent had gained a s$200,000 rebate for the propulsion system batteries. he submitted that this sum could definitely be set-off from the contract prices because, unlike the other shipset components, there was no shortage of evidence on this point. the rebate was a clear identifiable figure that the respondent had failed to account for in its damages claim. it is important, however, to note that this rebate agreement was only between the respondent and its supplier, not the parties themselves.
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+  acb vol ii, p 95.
+
+
+
+ it is for the appellant to show that the parties came to a corresponding arrangement to pass along the discount to the appellant. on the evidence at trial, it appears that there was some discussion along these lines
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+  acb vol ii, p 93. 
+
+
+
+ but this never materialised into a new set of contracts that accounted for the rebate. this only leaves us with the contracts that the parties did sign. in the circumstances, we see no reason to deprive the respondent of the full sum it would have received had these contracts been performed.  47 the appellant’s submission as to the existence of an available market is similarly unpersuasive for lack of evidentiary support. mr lee accepted that the burden lies with the appellant to establish that there was an available market for the unsold equipment under the relevant contracts. he was unable, however, to point to evidence beyond the bare assertions of the appellant’s employees that the equipment was “of wide application in the marine industry”
+37
+
+
+
+
+foot note 37
+
+×
+
+
+
+  appellant’s case at para 105. 
+
+
+
+ and were “very common model[s]… sold in the market”
+38
+
+
+
+
+foot note 38
+
+×
+
+
+
+  appellant’s case at para 108. 
+
+
+
+ (judgment at [143]–[144]). the judge was unpersuaded by these unsubstantiated claims and, we find, rightly so. while the equipment may have been regarded as “common” in the industry, it bears remembering that the respondent did not store this equipment as stock for the appellant or any of its other customers (see [29] above). being a middleman trader, the respondent only procures parts after it receives a specific order. thus, it is not a foregone conclusion that the respondent would have been able to find buyers for all the equipment under the contracts. beyond simply asserting the existence of an available market, the appellant should have adduced expert evidence of the market value of the relevant equipment and the additional steps the respondent should have taken to sell the same.    48 as against this, the appellant submits that the court is entitled “to infer the existence of [an available] market from any sufficient evidence relevant to that issue” [emphasis added] (bulkhaul ltd v rhodia oranique fine ltd [2008] ewca civ 1452 (“bulkhaul”) at [29]). we do not think that the observations of the english court of appeal in bulkhaul apply to the present facts. in that case, the court’s inquiry focused on the issue of whether the owner of chemical transportation tanks had reasonably mitigated its loss following a termination of a rental agreement concerning those tanks (bulkhaul at [2] and [4]). on the facts, the former lessee of the tanks adduced evidence that the owner had been in various discussions to sell the tanks but had not done so. this showed that the owner had failed to take adequate steps to mitigate its loss. it was on the basis of this evidence, as well as evidence of the market value of the tanks, that the court of appeal found that an inference of an available market could be drawn.
+39
+
+
+
+
+foot note 39
+
+×
+
+
+
+  respondent’s case at para 84. 
+
+
+
+ this situation, however, is quite different from the case before us. the judge found that the respondent had clearly taken adequate steps to sell the equipment (judgment at [142]) and the appellant did not provide any evidence to suggest otherwise. the appellant cannot urge the court to infer the existence of a market where it failed to produce any, let alone sufficient, evidence on the issue.  49 for completeness, we do not agree with the appellant’s suggestion that the judge should have given credit to the residual value of the unsold equipment. in this regard, the appellant relied on the evidence of ms chuah swee choo, the respondent’s general manager of finance, that the respondent had s$10m worth of unsold equipment sitting as “inventory in [its] books”.
+
+                   40
+
+
+
+
+foot note 40
+
+×
+
+
+
+  acb vol ii, p 219 at lines 10 to 22. 
+
+
+
+ we agree with the argument put forward by the respondent that this statement was a reference to what the respondent had already paid its vendors for the equipment and not what the respondent considered was the “real value” of the ordered parts.
+
+                   41
+
+
+
+
+foot note 41
+
+×
+
+
+
+  respondent’s case at para 86. 
+
+
+
+ moreover, as we have already said, the respondent’s business does not involve it buying and stocking up pieces of equipment for its customers to purchase as and when the need arises. it buys and sells equipment, only after a specific order has been placed. it is clear that the prolonged storage of undelivered equipment, which remains unpaid for, is of no value to the respondent. we accordingly find no justification for a reduction of the judge’s award of damages.  dismissal of the appellant’s counterclaim 50 lastly, the appellant argues that the judge should not have dismissed its counterclaim for wrongful termination of the contracts evidenced by pos 8874 and 8875. as discussed at [12] above, it is common ground that the generator sets under these contracts were to be installed onboard two ship hulls, h1517 and h1518. it is also accepted that the parties agreed, during a meeting in december 2015, to extend the delivery dates for the generator sets to the end of 2016 or january 2017 (at [6] above). the appellant, however, argues that delivery was then postponed a second time to sometime in 2018. this means that the appellant did not breach term 2 in failing to nominate a port of destination for the generator sets by 2017. as such, the contracts evidenced by pos 8874 and 8875 should not have been terminated and the appellant is entitled to reclaim its 10% down-payments under these contracts, which total s$201,600.51 on the appellant’s case,
+
+                   42
+
+
+
+
+foot note 42
+
+×
+
+
+
+  appellant’s case at para 120. 
+
+
+
+ the second postponement of delivery dates for pos 8874 and 8875 was effected by way of an email (to the respondent’s project manager mr ng mon foo and koh) dated 18 july 2016 (“18 july email”):
+
+                   43
+
+
+
+
+foot note 43
+
+×
+
+
+
+  acb vol ii, p 100. 
+
+
+
+ dear gary koh/vis ng, as per [the appellant’s] management decision, construction of h1517 & h1518 have reschedule [sic] to year 2018. please amend tentative delivery date to tba. we will advise accordingly when date is closer … [emphasis added]52 the respondent contends that the 18 july email could not have had such an effect. an undisputed finding at trial was that any extension of delivery dates for equipment under the contracts required the mutual agreement of both parties (judgment at [69]). the appellant could not compel or direct the respondent to store equipment on its behalf via a single email notification.
+
+                   44
+
+
+
+
+foot note 44
+
+×
+
+
+
+  roa vol iii (q), pp 290 to 292. 
+
+
+
+ this was accepted by the appellant’s own witness (quah), who testified that, in the event that either party could not meet the original delivery dates, both had to agree on what steps should be taken. the appellant says that such an agreement is in fact discernible from the parties’ correspondence following the 18 july email. the emails show that they decided to defer delivery and proceed on the basis that delivery would take place sometime in 2018, subject to the appellant’s final advice.
+
+                   45
+
+
+
+
+foot note 45
+
+×
+
+
+
+  appellant’s case at paras 121 to 123; appellant’s skeletal arguments at para 57. 
+
+
+
+ 53 we find that the emails relied upon by the appellant do not advance its case. in his reply to the 18 july email, koh did not say that the respondent was agreeable to the appellant’s request for a postponement of delivery. instead, he requested the appellant to “advise what we should do with the [c32 units] in our warehouse?”
+
+                   46
+
+
+
+
+foot note 46
+
+×
+
+
+
+  acb vol ii, p 100. 
+
+
+
+ it seems that there would have been a logistical difficulty for the respondent if delivery was delayed. in reply, the appellant’s mr lim wee hiap directed koh to contact “top management” because he was unable to “advise [him] on the units in [his] warehouse”. this exchange illustrates that the parties did not reach a decision as to deferring delivery, let alone if it should take place in 2018. there were clearly unresolved concerns that had yet to be settled. 54 there was then no additional correspondence on pos 8874 and 8875 up until 27 may 2017. around this time, the appellant realised that the respondent had resold all eight generators under the contracts to third parties from 2014 to 2016 at us$278,600 to us$290,000 per unit. this was higher than the price of us$252,000 per unit as agreed between the parties.
+
+                   47
+
+
+
+
+foot note 47
+
+×
+
+
+
+  acb vol ii, p 197 at rows 1 to 8. 
+
+
+
+ the appellant then emailed the respondent to ask when it could procure replacement generators for delivery. the appellant said it would advise on a delivery date once those replacement generators were ready.
+
+                   48
+
+
+
+
+foot note 48
+
+×
+
+
+
+  acb vol ii, p 127. 
+
+
+
+ in an email dated 29 may 2017, the respondent replied to say that it was willing to deliver two c32 units that it still had in stock and requested a delivery plan for h1517 and h1518.
+
+                   49
+
+
+
+
+foot note 49
+
+×
+
+
+
+  acb vol ii, p 129. 
+
+
+
+ it received no reply. once again, the parties did not reach a final resolution or elect future delivery dates. against this backdrop, the judge was right in finding that the delivery dates for pos 8874 and 8875 had not been postponed from end 2016 or january 2017.55 it was therefore entirely reasonable for the respondent to terminate the contracts evidenced by pos 8874 and 8875 on the basis of the appellant’s breach of term 2. we do not accept the appellant’s assertion that the respondent held improper motives for terminating the contracts because it had already resold the generators to its other customers at a profit.
+
+                   50
+
+
+
+
+foot note 50
+
+×
+
+
+
+  appellant’s case at para 125. 
+
+
+
+ the respondent’s decision to resell the equipment does not, in itself, demonstrate that it was unwilling to perform its obligations under its contracts with the appellant. in fact, the more intuitive conclusion is that the respondent saw an opportunity to maximise its profits by selling the c32 units in its warehouse to customers with more immediate needs before ordering more units to fulfil the appellant’s order. without any evidence to show that this decision rendered the respondent incapable of fulfilling the appellant’s orders by the agreed delivery dates, we see no basis on which to draw negative inferences as to the subsequent decision to terminate the po 8874 and 8875 contracts. the appellant’s counterclaim in respect of these contracts must therefore fail. conclusion56 for the foregoing reasons, we dismiss the appeal with costs. having dismissed the appellant’s application to amend its defence, the respondent is also entitled to costs. both parties have filed their respective costs schedules. the appellant is to pay the respondent costs fixed at $40,000 all in, including the costs of the unsuccessful amendment application. there will be the usual consequential orders.  sundaresh menonchief justicequentin lohjudge of the appellate divisionchao hick tinsenior judgelee eng beng sc, sim jek sok disa, ho qi rui daniel and shaun ou (rajah & tann singapore llp) for the appellant;rakesh gopal kirpalani and oen weng yew timothy (drew & napier llc) for the respondent.

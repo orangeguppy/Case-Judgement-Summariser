@@ -1,0 +1,715 @@
+in the court of appeal of the republic of singapore[2018] sgca 41civil appeal no 207 of 2017betweenntuc foodfare co-operative ltd… appellantand(1)sia engineering company limited(2)yap tee chuan… respondents judgment[tort] — [negligence] — [duty of care][tort] — [negligence] — [causation]this judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.ntuc foodfare co-operative ltd vsia engineering co ltd and another[2018] sgca 41court of appeal — civil appeal no 207 of 2017sundaresh menon cj, steven chong ja and quentin loh j8 may 201819 july 2018 judgment reserved.steven chong ja (delivering the judgment of the court):1 in spandeck engineering (s) pte ltd v defence science & technology agency [2007] 4 slr(r) 100 (“spandeck”), this court laid down a single test for the establishment of a duty of care in tort. in doing so, we departed from english law which applies a general exclusionary rule against recovery for pure economic loss. we also eschewed the approach taken in some earlier singapore cases, where our courts had applied different tests for a duty of care depending on the nature of the loss suffered by the plaintiff: see spandeck at [58] and [69].2 it is vital to recall why we rejected the exclusionary rule in spandeck. the basis of that holding was the recognition that there is nothing intrinsically objectionable about recovery for pure economic loss. it is not the nature of such loss, but the circumstances in which it arises, which underpins the exclusionary rule. unlike physical damage, economic losses are not constrained by the laws of nature: they often ripple out from a negligent act due to human responses to the same. this gives rise to the concern of indeterminate liability: that to allow recovery for pure economic loss might lead to liability for an indeterminate amount to an indeterminate class. 3 it was to address this concern that the common law barred recovery for economic loss unless such loss was consequent upon physical damage to person or property. yet in spandeck, we recognised that the exclusionary rule is a blunt tool for this purpose. in some cases, the concern of indeterminate liability it was designed to address will never arise. in such cases, there may be scant reason to disallow recovery for pure economic loss: see spandeck at [68]–[69]. applying the exclusionary rule may thus lead to injustice. accordingly, in spandeck, we rejected the exclusionary rule in favour of a single test for a duty of care in tort, premised on proximity and policy considerations. 4 after spandeck, therefore, it is no longer necessary to characterise the nature of the plaintiff’s loss before examining whether a duty of care arises in tort. regrettably, it appears that old habits die hard. parties continue to approach the issue of whether a duty of care arises through the lens of the nature of the plaintiff’s loss. we have found it necessary to reiterate that the precise classification of the loss is immaterial: see animal concerns research & education society v tan boon kwee [2011] 2 slr 146 (“animals concerns research”) at [32] and acb v thomson medical pte ltd and others [2017] 1 slr 918 (“acb”) at [82]. nonetheless, in this appeal, both parties again proceeded on the basis that the classification of the loss was critical to whether a duty of care arose.5 it is our hope that this judgment will serve as a reminder that the question of whether a duty of care arises in tort does not turn on whether the plaintiff’s loss is properly characterised as consequential economic loss or pure economic loss. we also seek to demonstrate that the spandeck test – in particular, the requirement of proximity – addresses the concern of indeterminate liability and permits recovery for pure economic loss in deserving cases. facts the parties 6 the appellant, ntuc foodfare co-operative ltd (“ntuc foodfare”), is a registered society that operates food and beverage establishments including the wang café franchise in singapore. ntuc foodfare was insured by ntuc income insurance cooperative ltd (“ntuc income”) under an “industrial all risks policy” (“the policy”) from 1 april 2013 to 31 march 2014, in respect of material damage to property and business interruption.
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  insurance policy: record of appeal (“ra”) vol 4 part b, pp 65–94.
+
+
+
+ 7 the first respondent, sia engineering company ltd (“siaec”), is a singapore-incorporated company in the business of the maintenance, repair and overhaul of aircraft. siaec employed the second respondent, yap tee chuan (“mr yap”), as an equipment operator.
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  aeic of yap tee chuan at para 3: ra vol 3 part c, p 131. 
+
+
+
+ mr yap operated airtugs for “aircraft towing and pushback operations”.
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  aeic of yap tee chuan at para 4: ra vol 3 part c, p 132.
+
+
+
+ it is important to note that these airtugs were heavy vehicles powerful enough to move an aircraft. unsurprisingly, mr yap was required to undergo several tests before he was allowed to operate them. he was first required to obtain a class 5 driving licence as a pre-requisite to obtaining an airfield driving permit (“adp”) from changi airport group (singapore) pte ltd (“cag”). the adp was, in turn, a pre-requisite to in-house airtug training by siaec, after which mr yap received his permit to operate airtugs.
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  aeic of yap tee chuan at paras 6–8: ra vol 3 part c, p 132.
+
+
+
+ the leased premises8 by a tenancy agreement dated 2 march 2012 (“the agreement”), ntuc foodfare took a three-year lease of 20.5m2 of the transit lounge (“the lounge”) on the second level of the terminal 2 building of changi airport (“the t2 building”) from cag.
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  tenancy agreement, cl 1.1, schedule 1 items 1 and 2: ra vol 3 part a, pp 14 and 33. 
+
+
+
+ we will refer to this leased area as “the premises”. the term of the lease was from 1 may 2012 to 30 april 2015. on appeal, the respondents contend that the agreement did not create a lease but rather conferred on ntuc foodfare a mere licence to occupy the premises.
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  respondents’ skeletal arguments at paras 20 and 27.
+
+
+
+ for the reasons given at [33] below, we are satisfied that the agreement created a lease of the premises. however, we will also explain below why this holding is inconsequential to the outcome of the appeal.9 the premises were located on the cantilevered portion of the floor of the lounge, directly above the underpass baggage handling area (“the ubha”) of the t2 building.
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  judgment at [7]. 
+
+
+
+ ntuc foodfare operated an outlet of wang café in the form of a food kiosk at the premises (“the kiosk”). the kiosk was pre-fabricated off-site, and had its own fittings, furnishings, and cement screed flooring.
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  tenancy agreement, appendix ii: ra vol 3 part a, pp 61 and 63.
+
+
+
+ a waterproofing membrane was applied beneath the screeded floor of the kiosk.the key eventsthe accident and the imposition of the closure order10 on 13 february 2014, mr yap was driving an airtug (“the airtug”) in the vicinity of the t2 building. notably, mr yap operated airtugs in a relatively confined area: the airside area of changi airport. he drove airtugs on various roadways in the airport, including one running through the ubha. the ubha was therefore part of mr yap’s fairly circumscribed theatre of operations. as we have noted, the ubha was located directly below the cantilevered portion of the floor of the lounge, where the kiosk was situated (see [9] above). 11 at the material time on 13 february 2014, mr yap was driving on the roadway running through the ubha when he failed to keep a proper lookout. it was not in dispute at the hearing of the appeal that mr yap was negligent in this regard. as a result, the airtug collided into a pillar (“the pillar”) leading up to and supporting the floor of the lounge (“the accident”). the pillar extended up to the second level of the t2 building, where it was situated near the kiosk.
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  transcript, 24 may 2017, p 28: acb vol 2, p 64.
+
+
+
+ 12 the accident caused damage to the pillar and to the cantilevered portion of the floor of the lounge. in particular, there was settlement movement of the floor slabs next to the pillar and near the kiosk, ie, part of the floor subsided.
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  judgment at [7]; report: acb vol 2, p 52.
+
+
+
+ however, it is undisputed that the kiosk itself did not sustain material damage, eg, in the form of cracks: counsel for ntuc foodfare, mr n sreenivasan sc (“mr sreenivasan”), confirmed this before us. mr sreenivasan also did not contend that the premises, where the kiosk was situated, suffered any material damage.13 the building and construction authority (“the bca”) issued a closure order dated 14 february 2014 (“the closure order”) in respect of the affected area of the lounge.
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  judgment at [1]; acb vol 2, p 37.
+
+
+
+ the kiosk was situated within the affected area. ntuc foodfare was hence unable to operate the kiosk while the closure order was in force. cag did not collect rent from ntuc foodfare during this period.
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  judgment at [8].
+
+
+
+14 cag cut off the electricity supply to the kiosk while the closure order was in force. some of the equipment at the kiosk – chillers, boilers, an ice maker and a toaster – were damaged due to dust, rust and lack of electricity arising from the closure.
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  judgment at [13].
+
+
+
+events after the imposition of the closure order15 on 18 march 2014, cag held a meeting with ntuc foodfare.
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  judgment at [9]; email dated 20 march 2014: acb vol 2, p 38.
+
+
+
+ during this meeting, cag expressed concern that the waterproofing membrane beneath the floor of the kiosk (see [9] above) had been damaged and requested ntuc foodfare to retrofit the kiosk to address this concern. cag initially indicated that it would bear the cost of the works. however, after ntuc foodfare submitted a quotation for the works to cag, the loss-adjusters appointed by cag’s insurers (“insight”) wrote to ntuc foodfare stating that cag did not cause the incident and should not be held liable for it.
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  letter dated 21 april 2014: acb vol 2, p 41.
+
+
+
+ insight sent ntuc foodfare’s quotation to the loss-adjusters appointed by siaec’s insurers (“crawford”).16 on 3 june 2014, crawford informed ntuc foodfare that it would have to prove that the waterproofing membrane had been damaged (to recover the cost of the works to the kiosk from siaec or its insurers).
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  email dated 4 june 2014: ra vol 4 part a, p 71.
+
+
+
+ 17 by an email dated 17 july 2014, ntuc foodfare requested that cag provide a report stating the reasons why it required the kiosk to be rebuilt.
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  email dated 17 july 2014: ra vol 4 part a, p 97.
+
+
+
+ 18 by an email dated 23 july 2014, cag replied to state that it would permit ntuc foodfare to resume operations at the kiosk even if it did not rebuild it, provided a qualified person (“qp”) or professional engineer (“pe”) endorsed the safety and operational readiness of the kiosk.
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+  email dated 23 july 2014: ra vol 4 part a, p 102.
+
+
+
+ however, ntuc foodfare did not obtain such an opinion from a qp or a pe. ntuc foodfare’s position is that no qp or pe was willing to certify the safety of the kiosk without information on the damage to the t2 building, the rectification works to the same and how the kiosk was built (and this information was not forthcoming).
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+  appellant’s skeletal arguments at para 30.
+
+
+
+  however, the respondents dispute this. at the trial, the respondents called an expert who testified that he would have been able to assess the safety of the kiosk based on a visual inspection of the kiosk alone.
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+  judgment at [10].
+
+
+
+ his evidence on this point was unchallenged.the lifting of the closure order and subsequent events19 on 30 july 2014, the bca lifted the closure order. cag resumed  collecting rent from ntuc foodfare from 7 august 2014.
+
+                   21
+
+
+
+
+foot note 21
+
+×
+
+
+
+  judgment at [8].
+
+
+
+ 20 on 9 october 2014, cag agreed to grant a further 3-year term lease to ntuc foodfare for the period of 1 may 2015 to 30 april 2018.
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+  email dated 9 october 2014: ra vol 4 part a, p 132.
+
+
+
+ thereafter, ntuc foodfare commenced works to rebuild the kiosk and eventually resumed business at the outlet in november 2014.
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+  judgment at [11].
+
+
+
+21 on 10 march 2015, the loss-adjusters appointed by ntuc foodfare’s insurers, ntuc income (see [6] above), issued a report assessing the total loss suffered by ntuc foodfare in the sum of $176,926.85, comprising sums of $5,909.85 and $171,017.00 in respect of the damaged equipment (see [14] above) and loss of profits respectively.
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+  report: acb vol 2, p 61.
+
+
+
+ ntuc income subsequently paid a sum of $176,176.85 (the total sum assessed by its loss-adjusters excluding a deductible of $750.00 provided for under the policy) to ntuc foodfare.
+
+                   25
+
+
+
+
+foot note 25
+
+×
+
+
+
+  judgment at [3].
+
+
+
+22 ntuc foodfare then commenced the suit from which this appeal arises, alleging that it had suffered the following losses due to the accident:
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+  judgment at [2]
+
+
+
+lossquantum(a) repair/replacement of damaged equipment$5,909.85(b) loss of gross profits for the duration of bca’s closure notice (14 february 2014 to 30 july 2014)$ 171,017.00(c) rebuilding of the kiosk$82,838.33 (d) rental from 7 august 2014 to november 2014 (pro-rated) (period of renovation of kiosk)$183,429.89 (including gst)23 ntuc foodfare claims a total of $176,176.85 – the total of losses (a) and (b) in the table above, excluding the deductible of $750.00 (see [21] above) - on behalf of ntuc income pursuant to the latter’s right of subrogation under the policy. it claims losses (c) and (d) (“the rebuilding losses”) in its own right.
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+  judgment at [3].
+
+
+
+ its case is that mr yap drove the airtug negligently, in breach of his duty of care to ntuc foodfare, thereby causing the latter to sustain the aforementioned losses. it further claims that siaec, mr yap’s employer, is vicariously liable for his negligence. the decision below24 the judge dismissed ntuc foodfare’s claims against the respondents. her reasons are set out in ntuc foodfare co-operative ltd v sia engineering co ltd and another [2017] sghc 250 (the “judgment”). the principal basis of the judge’s decision was her finding that mr yap did not owe a duty of care to ntuc foodfare. he was therefore not liable in negligence and siaec was consequently not vicariously liable either (see judgment at [42]). the judge’s conclusion that mr yap did not owe ntuc foodfare a duty of care was based on the following reasoning:(a) the judge first classified the nature of the losses that ntuc foodfare was claiming for. she held that the losses were pure economic loss rather than consequential economic loss, because the losses were consequent upon damage to the t2 building, cag’s property, instead of damage to ntuc foodfare’s property (see judgment at [15] and [17]).(b) the judge then turned to the spandeck test to determine whether a duty of care in tort arose (see judgment at [19]). she noted that there was no general rule against recovery for pure economic loss, but that such loss might be sustained even where there was insufficient proximity between the parties for a duty of care to arise. the courts had thus generally recognised a duty of care in cases of pure economic loss only if the defendant voluntarily assumed responsibility to the plaintiff and/or the latter reasonably relied on the former to take care to avoid causing it such loss (see judgment at [21]). (c) the judge noted that the spandeck test was to be applied incrementally: the tests of proximity and policy should be applied with reference to decided cases (see judgment at [22]). she reviewed several english, australian and canadian cases where economic loss had arisen as a result of damage to a third party’s property upon which the plaintiff had relied or had a contractual interest (see judgment at [23]–[31]).(d) the judge then applied the spandeck test to the facts. she found that the threshold test of factual foreseeability was fulfilled (see judgment at [34]). she then found that there was insufficient proximity between ntuc foodfare and mr yap for a duty of care to arise: there was insufficient causal and circumstantial proximity between the parties, and there was neither any special relationship based on a voluntary assumption of responsibility by the defendant, nor specific reliance by the plaintiff on the defendant (see judgment at [37], [38] and [40]). the judge also found that policy considerations precluded a duty of care because, “[i]n the absence of a close relationship between [the parties], there remain[ed] the potential for indeterminate liability owing to the nature of pure economic losses” (see judgment at [41]). the judge opined that the loss sustained by ntuc foodfare “should be spread out throughout society through the engine of insurance” and observed that ntuc foodfare had in fact been insured in respect of damaged equipment and loss of profits.25 the judge also observed that even if mr yap had owed a duty of care to ntuc foodfare, she would have found that the rebuilding losses were not caused by mr yap’s negligence, and that ntuc foodfare did not reasonably mitigate its losses in rebuilding the kiosk (see judgment at [42]). in reaching this conclusion, the judge relied on the evidence of the respondents’ expert that the structural safety of the kiosk could have been determined based on a visual inspection of the kiosk alone (see [18] above). the judge would therefore have dismissed ntuc foodfare’s claims for the rebuilding losses even if she had found that mr yap owed a duty of care to ntuc foodfare.the parties’ cases  26 ntuc foodfare submits that the judge erred in finding that mr yap did not owe it a duty of care. mr sreenivasan raised two arguments in this regard:(a) the first argument hinged on a challenge to the judge’s finding that ntuc foodfare’s losses constitute pure economic loss. mr sreenivasan accepted that neither the kiosk nor the premises sustained material damage. nonetheless, he strove to persuade us that in the inquiry into whether a duty of care arises, a wide definition of “physical damage” should be adopted. he emphasised that due to the closure order, ntuc foodfare could not access the premises, and submitted on this basis that the premises suffered physical damage in that their value or usefulness was impaired.
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+  appellant’s skeletal arguments at para 17.
+
+
+
+ furthermore, ntuc foodfare had a proprietary interest in the premises because it had leased the same. mr sreenivasan thus submitted that ntuc foodfare’s losses were consequent upon damage to its property. since a duty of care was readily recognised where the plaintiff had suffered consequential economic loss, the court should hold that mr yap owed ntuc foodfare a duty of care.
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+  appellant’s case at para 85.
+
+
+
+ (b) in the alternative, mr sreenivasan submitted that even if ntuc foodfare’s losses amounted to pure economic loss, there was sufficient proximity between mr yap and ntuc foodfare for a duty of care to arise.
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+  appellant’s skeletal arguments at para 27.
+
+
+
+ there are no policy considerations militating against the recognition of a duty of care. the court should thus hold that a duty of care arose.27 ntuc foodfare also submits that the judge erred in finding that the rebuilding losses were not caused by mr yap’s negligence, and in finding that it failed to reasonably mitigate its loss in rebuilding the kiosk. the rebuilding losses were not too remote, because they were due to cag’s concerns which flowed from the accident caused by mr yap’s negligence.
+
+                   31
+
+
+
+
+foot note 31
+
+×
+
+
+
+  appellant’s skeletal arguments at para 29.
+
+
+
+ further, ntuc foodfare claims that it acted reasonably in rebuilding the kiosk because it was unable to obtain the opinion of a qp or a pe on the safety of the kiosk.28 the respondents submit that the judge correctly ruled that mr yap did not owe ntuc foodfare a duty of care:(a) first, in reply to ntuc foodfare’s first argument, the respondents deny that ntuc foodfare suffered economic loss consequent upon damage to its property for two reasons:(i) first, the agreement conferred a mere licence on ntuc foodfare to occupy the premises.
+
+                   32
+
+
+
+
+foot note 32
+
+×
+
+
+
+  respondents’ skeletal arguments at paras 17–32.
+
+
+
+ ntuc foodfare therefore did not have title to sue for loss flowing from damage to the premises.(ii) second, the premises and the kiosk did not suffer actual physical damage. intangible impairment of the value or utility of property does not constitute physical damage.
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+  respondents’ skeletal arguments at para 9.
+
+
+
+(b) in reply to ntuc foodfare’s alternative argument, the respondents submit that under the spandeck test, there was insufficient proximity between mr yap and ntuc foodfare for a duty of care to arise. ntuc foodfare’s claims are for a specific type of pure economic loss, namely, “relational economic loss”.
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+  respondents’ case at para 72.
+
+
+
+ such loss arises where a defendant damages property owned by a third party and the claimant suffers loss because of some relation between the claimant and (the property of) the third party. the respondents contend that foreign courts have only allowed claims for relational economic loss where special factors applied. such factors include a common venture between the claimant and the owner of the damaged property, or a known vulnerability to a known risk.
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+  respondents’ skeletal arguments at para 37.
+
+
+
+ none of those factors apply here. there was thus insufficient proximity for a duty of care to arise.
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+  respondents’ skeletal arguments at paras 37–38.
+
+
+
+29 the respondents also submit that even if mr yap owed and breached a duty of care to ntuc foodfare, his negligence did not cause the rebuilding losses. ntuc foodfare also did not reasonably mitigate its loss in rebuilding the kiosk. the respondents emphasise that ntuc foodfare did not obtain an endorsement of the safety of the kiosk from a qp or pe, which would have sufficed for cag to permit ntuc foodfare to resume operations at the kiosk.
+
+                   37
+
+
+
+
+foot note 37
+
+×
+
+
+
+  respondents’ case at paras 115 and 126–129. 
+
+
+
+ the issues30 it is undisputed that if mr yap is found liable to ntuc foodfare, siaec would be vicariously liable for his negligence.
+
+                   38
+
+
+
+
+foot note 38
+
+×
+
+
+
+  judgment at [4].
+
+
+
+ thus, this appeal turns on mr yap’s liability to ntuc foodfare. three issues arise for our determination:(a) first, did ntuc foodfare hold a lease of the premises and, if so, what follows from this (“issue 1”)?(b) second, did mr yap owe ntuc foodfare a duty of care (“issue 2”)?(c) third, even if mr yap owed and breached a duty of care to ntuc foodfare, did this breach cause ntuc foodfare to suffer the rebuilding losses (“issue 3”)?31 we now address these issues in turn. issue 1: title to sue32 the first issue arises only because ntuc foodfare claims that the premises suffered physical damage. in this connection, the respondents submit that even if the premises sustained physical damage, ntuc foodfare does not have title to sue in negligence for loss flowing from such damage because it did not have any proprietary interest in the premises. we disagree. at the outset, we note that in the court below, the respondents accepted that ntuc foodfare was a tenant of the premises.
+
+                   39
+
+
+
+
+foot note 39
+
+×
+
+
+
+  respondents’ closing submissions at para 5: ra vol 3 part e, p 74.
+
+
+
+ we therefore do not consider that it is open to the respondents to deny, on appeal, that ntuc foodfare was a tenant.33 in any event, in our view, ntuc foodfare clearly held a lease of the premises. the agreement was titled “tenancy agreement” and defined cag and ntuc foodfare as the landlord and the tenant respectively.
+
+                   40
+
+
+
+
+foot note 40
+
+×
+
+
+
+  tenancy agreement: ra vol 3 part a, pp 11 and 14. 
+
+
+
+ the respondents submit, however, that the agreement did not grant exclusive possession of the premises to ntuc foodfare. we do not accept this submission. it is well-established that “the two distinctive features of exclusive possession are (i) the exclusory power of the occupier, and (ii) the occupier’s immunity from supervisory control”: see tan sook yee, tang hang wu & kelvin fk low, tan sook yee’s principles of singapore land law (lexisnexis, 3rd ed, 2009) at para 17.38. having considered these factors, we are satisfied that ntuc foodfare was granted exclusive possession of the premises under the agreement for the following reasons:(a) first, in relation to exclusory power, cl 6.1 of the agreement states that ntuc foodfare would “peaceably hold and enjoy the premises without any unlawful interruption or disturbance from the landlord …”.
+
+                   41
+
+
+
+
+foot note 41
+
+×
+
+
+
+  tenancy agreement: ra vol 3 part a, p 24.
+
+
+
+ the agreement thus provided that ntuc foodfare had the right to exclude not just third parties but also cag from the premises. (b) second, in relation to immunity from supervisory control, the respondents emphasise that cag was entitled to immediately terminate the agreement if ntuc foodfare was wound up, by giving written notice to ntuc foodfare, and ntuc foodfare was also required to:(i) conform with rules, regulations and directions imposed by cag for the management and administration of the airport;(ii) open the kiosk from 6am–1am every day;(iii) maintain accounts, books and records; and (iv) remove employees whom cag considered did not meet the service quality requirements under the agreement.
+
+                   42
+
+
+
+
+foot note 42
+
+×
+
+
+
+  respondents’ skeletal arguments at para 30.
+
+
+
+the respondents sought to rely on the decision in re tan tye, deceased; tan lian chye v british & malayan trustees ltd [1965–1967] slr(r) 226 (“re tan tye”) where the federal court held at [20]–[21] that a clause providing for a license to be automatically terminated on the bankruptcy of the licensee was repugnant to a lease. further, the federal court relied on covenants similar to those set out in [(i)]–[(iv)] above in holding that no lease was created. however, in our judgment, re tan tye is distinguishable. first, the clause relating to the termination of the licence in that case provided for the licence to determine on the licensee’s bankruptcy without more. by contrast, the clause here required the landlord to give written notice to terminate the agreement. we would add that it is not entirely clear why the termination clause in re tan tye was found to be inconsistent with a lease. this issue may perhaps be revisited in an appropriate case. second, more importantly, unlike the present case, the licensee in re tan tye had covenanted to “permit the licensor or his agents at all hours to enter the park to see that the terms of this licence are being observed” [emphasis added]: see re tan tye at [16]. it appears to us that the licensor in re tan tye wielded a far greater degree of control over the property in that case than cag did over the premises here. 34 we therefore conclude that ntuc foodfare held a lease of the premises. however, this holding ultimately has no bearing on the outcome of the appeal for two reasons. first, we agree with the respondents that the premises did not in fact suffer any physical damage. physical damage to property only occurs if there is “some significant physical effect on, or a significant physical change to, the property concerned”: see charlesworth & percy on negligence (ct walton gen ed) (sweet & maxwell, 13th ed, 2014) at para 2–110. mere impairment of the value or utility of property, without more, does not suffice to establish physical damage. here, mr sreenivasan accepted that neither the kiosk nor the premises sustained any material damage due to the accident.35 second, and more fundamentally, under our law of negligence, there is no requirement that a plaintiff must own or have possessory title to the property to sue for loss flowing from damage to that property. there is such a requirement under english law: see leigh and sillavan ltd v aliakmon shipping co ltd [1986] 1 ac 785 at 809 (per lord brandon of oakbrook). however, it is critical to appreciate the basis of this requirement under english law. it is simply a corollary of the exclusionary rule against recovery for pure economic loss under english law: the rule that a defendant will not generally owe a duty of care to a party who suffers pure economic loss due to the defendant’s negligence. pure economic loss is loss that is not consequent upon damage to one’s person or property: see clerk & lindsell on torts (michael a jones gen ed) (sweet & maxwell, 21st ed, 2014) (“clerk & lindsell”) at para 8-93. it therefore follows from the exclusionary rule that a plaintiff may only recover loss flowing from damage to its property, rather than the property of a third party. however, in spandeck, we rejected the exclusionary rule against recovery for pure economic loss (at [69]). there is thus no basis under our law for a requirement that a plaintiff must own or have possessory title to property to sue for loss flowing from damage to that property. any such requirement would be a relic of the exclusionary rule, which we rejected in spandeck. under our law, a plaintiff need only show that the spandeck test is fulfilled to establish that it was owed a duty of care. 36 one advantage of the spandeck test is precisely that it averts the need to decide whether the plaintiff’s loss flows from damage to its property. spandeck renders it unnecessary for the plaintiff to establish that its property suffered physical damage. as we have observed earlier at [32] above, this issue of whether ntuc foodfare had title to sue arose for determination due to ntuc foodfare’s creative but flawed submission in this appeal (which we have rejected) that its property suffered physical damage. 37 we now turn to the vital issue of whether, applying the test in spandeck, mr yap owed a duty of care to ntuc foodfare. issue 2: duty of carethe spandeck test38 a duty of care will arise in tort if (a) it is factually foreseeable that the defendant’s negligence might cause the plaintiff to suffer harm; (b) there is sufficient legal proximity between the parties; and (c) policy considerations do not militate against a duty of care: see spandeck at [73], [77] and [83]. 39 the key issue in this appeal is whether the proximity requirement is made out. the proximity requirement focuses on “the closeness of the relationship between the parties”: see spandeck at [77]. the crux of the inquiry is whether the plaintiff was so closely and directly affected by the defendant’s actions that the latter ought to have had the former in contemplation in acting: see donoghue v stevenson [1932] ac 562 at 580 (per lord atkin) and andrew robertson, “justice, community welfare and the duty of care” (2011) 127 lqr 370 at 374. the proximity requirement serves the normative role of determining whether, as a matter of interpersonal justice between the parties, the defendant should be held to have owed a duty of care to the plaintiff: see acb at [49].40 what are the factors which a court should consider in assessing whether there was sufficient legal proximity between the parties? (a) in spandeck, we held, endorsing the observations of deane j in sutherland shire council v heyman and another (1985) 60 alr 1, that proximity includes physical, circumstantial and causal proximity, and incorporates the twin criteria of voluntary assumption of responsibility (by the defendant) and reliance (by the plaintiff): see spandeck at [81]. (b) in anwar patrick adrian and another v ng chong & hue llc and another [2014] 3 slr 761 (“anwar”), we developed the proximity requirement by holding that it may be apt to consider “proximity factors” in applying that requirement, citing david tan and goh yihan, “the promise of universality: the spandeck formulation half a decade on” (2013) 25 saclj 510 (“tan & goh”). we recognised two proximity factors: the defendant’s knowledge in relation to the plaintiffs (see anwar at [148]–[149]) and control over the situation giving rise to the risk of harm and the plaintiff’s corresponding vulnerability (see anwar at [154]). with regard to the proximity factor of knowledge, the relevant knowledge is knowledge of the risk of harm, or of reliance by the plaintiff, or of the vulnerability of the plaintiff: see tan & goh at paras 26–29.41 we emphasise two further points concerning the proximity requirement. first, in cases of pure economic loss, there may be sufficient legal proximity between the parties even if the defendant does not voluntarily assume responsibility to the plaintiff and the latter does not specifically rely on the former not to cause it loss. we wish to make this clear at the outset because the judge emphasised that mr yap did not voluntarily assume responsibility to ntuc foodfare and the latter did not specifically rely on him (see [24(d)] above). we agree with the judge that there was no assumption of responsibility or specific reliance. however, in our judgment, these are neither essential nor inflexible conditions for the requirement of proximity to be fulfilled in cases of pure economic loss. other aspects of the relationship between the parties may establish a sufficiently close relation between them for a duty of care to arise; it is thus necessary to consider physical, circumstantial and causal proximity and the proximity factors referred to at [40(b)] above. we reiterate that “every application of the concept of proximity is heavily dependent on the precise factual matrix concerned … there is no mechanical formula that is to be applied by the court”: see ngiam kong seng and another v lim chiew hock [2008] 3 slr(r) 674 at [108].42 second, the proximity requirement addresses one aspect of the problem of indeterminate liability. the issue of indeterminate liability has two distinct components, liability to an indeterminate class and liability for an indeterminate amount: see jane stapleton, “duty of care and economic loss: a wider agenda” (1991) 107 lqr 249 at 254–255. notably, the problem of liability for an indeterminate amount may be addressed (in part) by the doctrine of remoteness, under which a plaintiff may not recover losses that are not reasonably foreseeable (a point we alluded to in tan juay pah v kimly construction pte ltd and others [2012] 2 slr 549 (“tan juay pah”) at [75]). the critical concern about indeterminacy, in our judgment, is in relation to liability to an indeterminate class. 43 the problem of liability to an indeterminate class arises where the basis on which the law permits recovery for losses would entitle an unascertainable class of parties to recover for their losses. the concern therefore does not arise if the basis on which the law permits recovery restricts recovery to a reasonably determinate class of victims. in our judgment, the proximity requirement can fulfil this role: if a defendant only owes a duty of care to parties to whom it stands in a sufficiently close relationship, this limits the class of plaintiffs to whom the defendant may be liable. we recognise that the extent to which the requirement of proximity can address the issue of liability to an indeterminate class depends on whether it is clear what amounts to sufficient legal proximity and this is necessarily fact sensitive. in our judgment, the indicia of proximity referred to at [40] above, supplemented by the development of a body of precedents on the proximity requirement, should provide sufficient certainty. 44 we now turn to the application of the spandeck test to the facts. application of the spandeck test45 the judge found, and it is not in dispute, that the requirement of factual foreseeability was satisfied: it was factually foreseeable that negligent operation of the airtug would cause ntuc foodfare to suffer loss (see [24(d)] above).proximity46 contrary to the judge’s holding, we find that there was sufficient legal proximity between mr yap and ntuc foodfare for a duty of care to arise.47 first, we find that there was physical proximity between the parties. mr yap operated airtugs in close propinquity to the kiosk: the kiosk was located directly above the ubha, which formed part of mr yap’s theatre of operations (see [9]–[10] above). furthermore, and significantly, mr yap carried out his operations within a very restricted area, the airside area of changi airport. it is essential to stress that we are not concerned with a case involving a driver of a heavy vehicle negligently colliding into a pillar supporting the floor of a shopping mall along a public road, causing tenants on that floor to suffer loss of profits when the floor is closed. in such a case, there would be insufficient physical proximity between the driver and the tenants, because the driver would have been carrying out his operations over a much wider public area, unlike the present case where mr yap was operating within a much more restricted area, giving rise to the requisite physical proximity between mr yap and ntuc foodfare. 48 second, we find that there was causal proximity between mr yap’s negligence and ntuc foodfare’s loss, in particular, the loss of profits sustained by the latter during the period of the closure order. the causal chain was clearly made out: (1) mr yap drove the airtug into the pillar; (2) thus, part of the floor of the lounge, which was supported by the pillar, became unsafe for occupation during the period of the closure order; and (3) consequently, ntuc foodfare was unable to operate the kiosk during that period and hence suffered loss of profits. the causal links in this chain were both close and direct: (a) first, in relation to the causal connection between events (1) and (2), we reiterate that the airtug was a heavy vehicle powerful enough to move an aircraft (see [7] above). it was the natural and direct consequence of such a vehicle colliding into a structure supporting the floor of the lounge that the floor or part thereof would become unsafe for occupation.(b) second, in relation to the causal link between events (2) and (3), ntuc foodfare’s loss of profits arose because the kiosk was within the affected area and hence could not be operated while the closure order was in force. the loss of profits did not arise from, eg, reduced customer traffic due to the closure of parts of the lounge away from the kiosk. such a loss would have been an indirect result of the accident. by contrast, ntuc foodfare’s loss of profits arose directly from the fact that it was unable to operate the kiosk at all since that part of the lounge was rendered unsafe for occupation.49 against this, it might be said that ntuc foodfare’s inability to use the kiosk flowed from the imposition of the closure order by the bca, a third party, and that this weakens the causal connection between mr yap’s negligence and ntuc foodfare’s loss of profits. however, it was eminently foreseeable and a natural consequence of the accident that the bca would step in to order a section of the lounge to be closed for obvious safety reasons. we reiterate that the accident involved the collision of a powerful heavy vehicle into a structure supporting the cantilevered floor of the lounge (see [48(a)] above). we therefore do not consider that the interposition of the bca weakens the causal connection between mr yap’s negligence, and ntuc foodfare’s loss of profits during the period of the closure order.50 third, in our judgment, the proximity factor of knowledge applies here. we find that mr yap knew that negligence on his part carried the risk of causing a specific type of loss to a determinate class of persons. as a qualified operator of airtugs (see [7] above), he plainly knew, at the time of the accident, that he was operating a powerful vehicle. he must have known that if he drove the airtug negligently in the ubha, it could collide into structures supporting the lounge. he would have been aware of these structures since the ubha was part of his restricted theatre of operations (see [10] above). given the nature of the vehicle he was operating, mr yap would have known that if the airtug collided into structures supporting the floor of the lounge, the floor would likely become unsafe, and consequently, a determinate class of persons – the occupiers of that floor, who had a relatively settled presence there – would likely suffer a specific kind of loss, economic loss flowing directly from their inability to use their premises. 51 for these reasons, we find that there was sufficient proximity between mr yap and ntuc foodfare for a duty of care to arise. 52 notably, counsel for the respondents, mr kwek yiu wing kevin (“mr kwek”), submitted that apart from the tenants of the lounge, others, including suppliers to the kiosk, would have sustained economic loss due to the closure order. mr kwek suggested that if a duty of care were owed to the tenants, a similar duty would have been owed to the suppliers to the kiosk, thus giving rise to the concern of indeterminate liability. we do not agree. there was no physical proximity between mr yap and the suppliers. assuming that the suppliers sustained losses, there would have been less causal proximity between mr yap’s negligence and those losses. those losses would have been a step removed from ntuc foodfare’s losses; they would presumably have accrued because ntuc foodfare ceased ordering supplies during the period of the closure order. it is also unrealistic, given the lack of physical and causal proximity, that mr yap knew that negligence on his part would likely cause the suppliers to suffer losses. thus, in our view, there was insufficient proximity between mr yap and the suppliers to the kiosk for the former to have owed a duty of care to the latter. this illustrates our point that the proximity requirement adequately addresses the concern of liability to an indeterminate class. in this context, it ensures that mr yap is only liable for the pure economic loss suffered by a determinate class, namely, the operators of businesses in the affected area of the lounge. policy53 we are satisfied that there are no policy factors militating against the recognition of a duty of care owed by mr yap to ntuc foodfare.54 first, as we have noted, recognising that mr yap owed a duty of care to ntuc foodfare does not give rise to a concern of indeterminate liability. the proximity requirement ensures that mr yap’s liability for pure economic loss due to the accident is limited to a determinate class of persons who suffered such loss, namely, the operators of businesses in the lounge.55 second, during the hearing, mr kwek emphasised that ntuc foodfare was insured. he submitted that the court should account for the presence of such insurance as a policy consideration militating against the recognition of a duty of care, citing the decision of this court in tan juay pah where we held at [85] that the availability of protection through insurance was a policy consideration that was relevant at the second stage of the spandeck test.56 however, in tan juay pah itself, we emphasised at [87] that economic considerations, such as the availability of insurance, although relevant, are “not determinative”. in our judgment, the mere fact that the plaintiff’s loss was or could have been insured does not, in and of itself, negate a duty of care. moreover, in this case, it appeared that the respondents had similarly taken out (third-party) insurance. mr kwek did not dispute this when we raised this point during the hearing. in that light, it was not evident whether and how it was relevant that ntuc foodfare was insured. notably, in photo production ltd v securicor transport ltd [1978] 1 wlr 856 at 866a, lord denning mr, a leading proponent of the relevance of insurance to liability in tort, held that since both parties were insured, “the insurance factor cancels out”. for these reasons, we are not persuaded that the mere fact that ntuc foodfare was insured precludes us from holding that mr yap owed a duty of care to ntuc foodfare. 57 third, in our judgment, recognising a duty of care would not undermine the parties’ contractual arrangements. the test is whether the parties “structured their contracts intending thereby to exclude the imposition of a tortious duty of care”: see animal concerns research at [71]. here, nothing in the agreement (between ntuc foodfare and cag) indicates that the parties intended to exclude the liability in tort of siaec’s employees to ntuc foodfare. the foreign authorities – relational economic loss58 given our conclusions on proximity and policy, it would follow, under the spandeck test, that mr yap owed a duty of care to ntuc foodfare. yet the respondents emphasise that this is not simply a case of pure economic loss, but a case of relational economic loss, since ntuc foodfare’s losses flow from the damage to the t2 building, the property of a third party – cag – arising from the accident. the respondents cite several foreign cases to submit that special factors must be fulfilled for a claim for relational economic loss to succeed (see [28(b)] above). they contend that since none of these factors apply in this case, mr yap did not owe a duty of care to ntuc foodfare. 59 the respondents’ submission, in essence, is that a different test for the establishment for a duty of care should apply in cases of relational economic loss. in this regard, we observe that our courts have not considered the concept of relational economic loss before. we reject the respondents’ submission. the test for a duty of care, even in cases of relational economic loss, remains the spandeck test, unmodified by any of the specific factors raised in the foreign authorities. we have arrived at this view for two principal reasons.  60 first, as a matter of doctrinal coherence, the very point of spandeck was to establish a single test for a duty of care for all claims in negligence, regardless of the nature of the plaintiff’s loss. this is why we considered and rejected the notion that a different test should apply in determining the existence of a duty of care in cases of pure economic loss: see spandeck at [65]–[72]. in this light, it would be wholly contrary to the spirit of spandeck to apply a different test for a duty of care where the plaintiff suffers relational economic loss. to do so would be to introduce an even finer distinction into the duty of care inquiry, between different types of pure economic loss, as compared to the distinction between physical damage and pure economic loss that we rejected in spandeck.   61 second, in our judgment, there is no compelling normative justification for our courts to transpose the specific factors relied upon in the foreign authorities into the spandeck test for two reasons. first, the criteria that have been adopted in the foreign cases have been strongly criticised. second, it appears that the crucial reason why these criteria were formulated was to address the concern of indeterminate liability. yet as we have emphasised, the requirement of proximity under the spandeck test addresses that concern. there is therefore no necessity to hold that special criteria, beyond the proximity requirement, must be satisfied for claims for relational economic loss to succeed. we will now substantiate these points by reference to three foreign authorities cited by the respondents. 62 the first case is the decision of the high court of australia in caltex oil (australia) pty ltd v the dredge “willemstad” (1976) 136 clr 529 (“caltex oil”). in this case, a dredge damaged a pipeline laid on the bed of botany bay in new south wales. this was due to the negligent navigation of the dredge and the negligent preparation of a chart which incorrectly identified the location of the pipeline. the pipeline was owned by a refinery located on the southern shore of the bay, and was used to transport oil to the plaintiff who operated an oil terminal on the northern shore. significantly, the defendants were aware of the pipeline and knew that it led to the plaintiff’s oil terminal. due to the damage to the pipeline, the plaintiff suffered loss in having to make alternative arrangements to transport the oil from the refinery by ship or by road to its terminal. this loss was not consequent upon damage to the plaintiff’s property: it flowed from damage to the pipeline, which, as noted earlier, was owned by the refinery. 63 the high court of australia unanimously allowed the plaintiff’s claim for the expenses incurred in arranging the alternative means of transportation of the oil. each of the five judges delivered separate judgments. three judges – gibbs, stephen and mason jj – emphasised that the defendants knew that the plaintiff specifically, as opposed to a general class of persons, would likely suffer economic loss due to negligence on their part, because they knew that the pipeline led to the plaintiff’s oil terminal: see caltex oil at 555–556 (gibbs j), 576–577 (stephen j) and 593 (mason j). this has come to be understood as the ratio of caltex oil: see clerk & lindsell at para 8-141.64 the test articulated in caltex oil has been described as the “known plaintiff” test.  it eliminates the concern of liability to an indeterminate class, because it ensures that a defendant will only be liable for economic loss sustained by a single individual. yet the test is not free from difficulty. there does not appear to be any principled reason why liability should turn on whether the tortfeasor knows that a single specific victim, as opposed to an unascertained class, will suffer loss due to the tortfeasor’s negligence. for this reason, the privy council rejected the known plaintiff test in candlewood navigation corporation ltd v mitsui osk lines and another [1986] ac 1 (at 24a–f). similarly, in canadian national railway co v norsk pacific steamship co ltd et al (1992) 91 dlr (4th) 289 (“norsk”), a decision of the supreme court of canada, la forest j, delivering the judgment of the minority, rejected the known plaintiff test on the basis that knowledge of the individual plaintiff had no normative salience. its “sole function [was] to … ‘solve’ the indeterminacy problem”. the test was therefore “an unjust rule owing to its sheer arbitrariness” (at 341g–342a).65 in our judgment, there is no necessity to rely on the known plaintiff test to limit the class of persons to whom a negligent defendant may be liable. the proximity requirement adequately performs that function. significantly, in caltex oil itself, one judge, stephen j, endorsed a proximity-based analysis. he observed that the search was for “some principle of law which will operate as a sufficient restraint upon excessively wide liability” (at 572), and opined that the proper control mechanism was one “based upon notions of proximity between tortious act and resultant detriment” (at 574). stephen j also added that “[t]he articulation, through the cases, of circumstances which denote sufficient proximity will provide a body of precedent productive of the necessary certainty” (at 575). we have made the same observation at [43] above. 66 in caltex oil, there was arguably sufficient legal proximity between the parties on the following grounds:(a) causal proximity: there was causal proximity between the defendants’ negligence and the plaintiff’s loss – the cost of arranging for alternative means of transportation of the oil. as stephen j observed (at 577), this loss, which reflected the loss of use of the pipeline, was “the quite direct consequence” of damage to the pipeline, as opposed to, eg, “loss of profits arising because [the plaintiff’s] collateral commercial arrangements [were] adversely affected”. this distinction is analogous to the one we have drawn between the loss suffered by ntuc foodfare here, which flowed directly from part of the lounge being rendered unsafe due to the accident, and a hypothetical loss of profits flowing from reduced customer traffic at the kiosk (see [48(b)] above).(b) knowledge of risk that a determinate class would suffer a specific type of loss: the defendants knew that the pipeline led to the plaintiff’s oil terminal (see [62] above). they therefore knew that negligence on their part carried the risk that the plaintiff specifically would be unable to use the pipeline, and thereby suffer a particular type of loss, the cost of arranging for alternative means of transportation of the oil, which flowed directly from damage to the pipeline. 67 however, suppose that the plaintiff had passed on its enhanced costs of obtaining oil to its customers, thus causing those customers, in turn, to suffer economic losses. in our judgment, there would have been insufficient legal proximity between the defendant and the plaintiff’s customers. first, there would have been inadequate causal proximity. the customers’ losses would have been a step removed from the plaintiff’s losses, and would have arisen only because of the plaintiff’s responses to its economic loss. the losses would have been analogous to the hypothetical losses suffered by the suppliers to ntuc foodfare (see [52] above). second, in our judgment, the defendants in caltex oil could not be said to have known of the risk of harm to the plaintiff’s customers. in this light, on the facts of caltex oil, the proximity requirement, as developed under the spandeck framework, would have limited the defendant’s liability to a determinate class, namely, the users of the pipeline. 68 we now turn to the second case, the decision of the supreme court of canada in norsk. the facts of norsk are quite akin to those in this case. in norsk, the defendants’ negligent operation of a tug, which was towing a barge downstream, caused the barge to collide into a railway bridge. the collision caused extensive damage to the bridge, which was closed for weeks for repairs. the bridge was owned by the department of public works, and was used by four railway companies. the principal user of the bridge was the plaintiff; the defendants were well aware of this. due to the closure of the bridge, the plaintiff incurred the expense of rerouting its railway cars over another bridge. the plaintiff sued the defendants for this loss, which flowed from the damage to the bridge, notwithstanding the fact that the plaintiff did not have any proprietary interest in the bridge. 69 by a 4–3 majority, the supreme court of canada held that the plaintiff was entitled to recover the loss it had suffered from the defendants. mclachlin j delivered the principal judgment for the majority (l’heureux-dubé and cory jj concurring). mclachlin j applied, in gist, the two-stage test in anns v merton london borough council [1978] ac 728, which is essentially the same as the spandeck test albeit the latter incorporates a threshold requirement of factual foreseeability: see spandeck at [73]. in finding that there was proximity between the parties, however, mclachlin j held at 376c–e that the plaintiff was in a “joint venture” with the department of public works, on the basis that the former’s operations were “closely allied” to the operations of the latter. norsk has thus come to be understood as authority that a claim for relational economic loss may succeed if the plaintiff and the owner of the damaged property were in some “joint venture” (“the joint venture principle”): see clerk & lindsell at para 8-141.70 however, the joint venture principle is also not without difficulty: (a) first, as a matter of authority, mclachlin j relied on the english case of morrison steamship co ltd v greystoke castle (cargo owners) [1947] ac 265 (“morrison steamship”) as authority for this principle. in that case, a negligently operated ship collided into a ship carrying the plaintiffs’ cargo. the plaintiffs made general average contribution to the owners of the ship carrying their cargo. the house of lords held, by a 3-2 majority, that the plaintiffs were entitled to recover the amount paid from the owners of the negligently operated ship. the majority stressed that the cargo owners and the owners of the cargo-carrying ship had been engaged in a “common adventure”: see morrison steamship at 280 (per lord roche) and 296 (per lord porter). however, morrison steamship “had been regarded as turning on the principles of maritime law rather than establishing any general principle”: see clerk & lindsell at para 8-141 fn 652 and murphy v brentwood district council [1991] 1 ac 398 at 468e (per lord keith of kinkel). in this light, the doctrinal basis of the joint venture principle espoused in norsk may be questionable. (b) second, as a matter of principle, the critical relation in the duty of care inquiry is the relation between the plaintiff and the defendant. however, the joint venture principle focuses on the relation between the plaintiff and a third party – the owner of the damaged property: see norsk at 334 (per la forest j). it is not clear why this should be of decisive importance in determining whether the defendant owes the plaintiff a duty of care. 71 we recognise that the joint venture principle may resolve the concern of liability to an indeterminate class: only a restricted class of persons would be in a sufficiently close relationship to the owner of the damaged property for the parties to be in a “joint venture”. yet the proximity requirement alone, shorn of the joint venture principle, can serve the same function. in norsk, there was arguably sufficient legal proximity between the parties on these grounds:(a) physical proximity: it appears that the master of the tug operated regularly, if not exclusively, in the river spanned by the bridge; he had been familiar with the bridge for over 40 years. the master therefore had a limited theatre of operations, analogous to the circumscribed area in which mr yap operated the airtugs. there would accordingly have been physical proximity between the master, who operated in the river, and the plaintiff, the principal user of the bridge over that same river. (b) causal proximity: the loss suffered by the plaintiff – the cost of rerouting trains that would otherwise have travelled across the bridge – flowed directly from the damage to the bridge. the loss was not premised on, eg, reduced passenger volume due to the rerouting of the trains. the loss was thus akin to the loss in caltex oil and the present case (see [66(a)] above).(c) knowledge of risk that a determinate class would suffer a specific type of loss: the defendants must have known that if the bridge was damaged, a determinate class – the four railway companies who used the bridge – would suffer a specific type of loss, the cost of arranging for alternative means to route their railway cars, due to loss of use of the bridge. 72 however, suppose that the bridge had not been a railway bridge but was used by cars to traverse the river, and some drivers incurred economic losses in finding alternative travel routes due to closure of the bridge. it is unclear that there would have been sufficient physical proximity between the master of the tug and any individual driver who would only have had an intermittent physical presence on the bridge. furthermore, the class of potential plaintiffs – all of the drivers using the bridge – would have been indeterminate; the defendant would not have known of the risk of harm to a determinate class. therefore, in such a case, there would probably have been insufficient legal proximity for a duty of care to arise. this illustrates again that the proximity requirement restricts the class of persons to whom a defendant may be liable in negligence, and therefore addresses the concern of indeterminate liability.73 we pause here to note that in norsk, mclachlin j made this same point, observing that proximity was “the controlling concept which avoids the spectre of unlimited liability”: see norsk at 369g–h. however, la forest j (who delivered the judgment of the minority) and stevenson j (who was also in the majority, but issued a separate judgment) rejected the proximity test on the basis that it expressed a conclusion rather than a principle: see norsk at 344a–b and 387a–b. this is, in essence, the familiar objection that proximity is a meaningless label, which we rejected in spandeck (at [80]). proximity may be understood, as mclachlin j put it in norsk at 369e, as “an umbrella [concept], covering a number of disparate circumstances”. still, those circumstances are sufficiently unified by a focus on the directness and closeness of the relationship between the parties. proximity therefore remains a meaningful concept. interestingly, although the high court of australia has declared that proximity is not a useful principle in determining whether a duty of care arises (see, eg, miller v miller (2011) 242 clr 446 at [59]), it appears that proximity continues to endure in the reasoning of australian courts regarding the duty of care in tort: see andrew robertson, “proximity: divergence and unity” in divergences in private law (andrew robertson and michael tilbury eds) (hart publishing, 2016) at pp 21–32.74 we now turn to the final case, the decision of the high court of australia in perre and others v apand pty ltd (1999) 198 clr 180 (“perre”). in perre, the defendant negligently introduced potato disease onto a farm in south australia (“the sparnon farm”) by supplying non-certified seed to the farm. the sparnon farm was located a few km from two plots of land owned by the perre family. on one plot, a family company (“rangara”) grew potatoes which it sold to a second family company (“wf”). wf operated on the second plot of land, where it grew potatoes and processed both potatoes which it grew and others which it purchased from rangara, before exporting the potatoes to western australia. wf processed the potatoes at a facility leased from a third family company (“pv”).75 western australian law prohibited the import of potatoes grown or processed within 20km of a crop infected by potato disease, for five years after detection of the disease. significantly, the defendant knew that growers and processors of potatoes who operated within 20km of a farm to which the defendant supplied seed would suffer economic loss, due to an inability to export potatoes to western australia, if the seed was diseased.76 wf, rangara, pv and members of the perre family sued the defendant for various economic losses. these alleged losses flowed from the damage to the sparnon farm, rather than damage to property of the perres (the defendant did not supply the non-certified seed to the perres, and hence their land and crop were not blighted). the high court of australia held, by a 5-2 majority, that the defendant owed a duty of care to all of the plaintiffs. hayne j held that a duty of care was only owed to wf. he reasoned that wf was the only party who grew and processed potatoes for sale to western australia (in his view, rangara grew potatoes for sale to wf, not to western australia). hayne j thus concluded that wf was the only party “directly affected by the application of the western australian regulation”: see perre at [352]. mchugh j held that a duty of care was not owed to pv: see perre at [145].77 no clear ratio emerges from the seven detailed judgments in perre. we refer to perre to further illustrate how the proximity requirement can address the concern of indeterminate liability. in our judgment, applying the spandeck test to the facts of perre, the defendant would only have been liable to wf (and possibly rangara, depending on whether rangara was properly considered to be a grower of potatoes for export to western australia), for the following reasons:(a) causal proximity: the loss sustained by wf (loss of profits due to an inability to export potatoes to western australia) was the direct result of the defendant’s supply of diseased seed to the sparnon farm (given the western australian regulation). by contrast, the losses which pv and the members of the perre family sued for were far more indirect. pv pleaded that it suffered loss by losing the benefit of its tenancy with wf and the opportunity to re-let the land; the members of the perre family claimed they suffered loss because of the diminution in value of one plot of their land, and loss of profits on the sale on the second plot. in our judgment, there would not have been sufficient causal proximity under the spandeck test between the defendant’s negligence and the losses suffered by pv and the members of the perre family.(b) knowledge of risk that a determinate class would suffer a specific type of loss: the defendant knew that a determinate class of persons – growers or processors of potatoes within a 20km radius of farms to whom it supplied seed, who exported seed to western australia – would suffer loss of profits flowing from an inability to export potatoes to western australia – if it supplied diseased seed (see [75] above). wf was a member of this determinate class. pv and the members of the perre family would not have fallen within this class. in our judgment, the above analysis of perre again indicates that the proximity requirement can manage the concern of liability to an indeterminate class. 78 in conclusion, our survey of the foreign cases indicates that there is no compelling normative basis to recognise any of the special factors relied on to justify liability in those cases. it appears to us that the special factors were crafted in the foreign cases to manage the concern of indeterminate liability. as this concern is adequately addressed by the first stage of the spandeck test, ie, the requirement of proximity, we see no reason to transpose them into the spandeck test. conclusion79 in sum, we find that mr yap owed a duty of care to ntuc foodfare. it is undisputed that mr yap operated the airtug negligently by failing to keep a proper lookout (see [11] above). we therefore find that mr yap breached his duty of care. the question that remains is whether this breach caused the losses which ntuc foodfare is claiming for. in this regard, we note that the causation argument is only directed at the rebuilding losses.issue 3: causation80 the respondents submit that even if mr yap owed and breached a duty of care to ntuc foodfare, his negligence did not cause ntuc foodfare to suffer the rebuilding losses (see [29] above).  81 the evidence indicates that ntuc foodfare rebuilt the kiosk to address cag’s concerns that the waterproofing membrane beneath the floor of the kiosk had been damaged and the safety of the kiosk had been compromised. however, there is scant evidence to substantiate cag’s concerns: (a) first, as mr sreenivasan accepted during the hearing, there is no evidence that the waterproofing membrane was in fact damaged. in our view, this was a matter entirely capable of proof. mr sreenivasan submitted that it was impossible to determine whether the waterproofing membrane was damaged because if the screeded floor had been removed to ascertain the state of the membrane beneath it, that would have compromised the membrane. however, there was no expert evidence to this effect. instead, as we pointed out to mr sreenivasan, it seems likely that the waterproofing could have been tested by non-destructive means, eg, by filling the floor area of the kiosk with water to determine whether there was any leak. this was not done.(b) second, and similarly, there was no evidence that the safety of the kiosk was compromised. we queried mr sreenivasan during the hearing whether, if ntuc foodfare had decided not to enter into a new lease of the premises, cag would have been entitled to require ntuc foodfare to incur the cost of rebuilding the kiosk. mr sreenivasan candidly accepted that cag would not have been entitled to do so. this demonstrates that there is simply no evidence that the structural integrity of the kiosk had been compromised due to the accident. if it had been otherwise, cag would have been entitled to insist on ntuc foodfare rebuilding the kiosk irrespective of the lease renewal.notwithstanding that there is scant evidence that cag’s concerns were borne out, ntuc foodfare chose to address them by rebuilding the kiosk. it thereby incurred the rebuilding losses. 82 furthermore, it was not necessary for ntuc foodfare to rebuild the kiosk to address cag’s concerns. cag did not require the kiosk to be rebuilt but was willing to allow ntuc foodfare to resume operations if a qp or pe certified the safety of the kiosk. yet ntuc foodfare did not obtain an expert opinion on the safety of the kiosk. as noted above, ntuc foodfare claims that no qp or pe was willing to certify the safety of the kiosk without further information, and that such further information was not forthcoming. however, the judge rejected this claim. she accepted the evidence of the respondents’ expert that a qp or pe would have been able to assess the safety of the kiosk on the basis of a visual inspection of it (see [18] and [25] above). in any event, it seems to us that the reason for rebuilding the kiosk was largely due to ntuc foodfare’s commercial decision to renew the lease for a further three years.  83 we therefore conclude on the evidence before us that mr yap’s negligence did not cause ntuc foodfare to sustain the rebuilding losses. in the light of the aforementioned points, the chain of causation was broken by ntuc foodfare’s decision to rebuild the kioskconclusion84 in conclusion, we allow the appeal to the extent that we hold that:(a) mr yap is liable in negligence to ntuc foodfare in the sum of $176,176.85 (see [23] above);(b) his employer, siaec, is vicariously liable for the same sum; and(c) ntuc foodfare is entitled to interest at 5.33% per annum on the said sum from the date of the writ to the date of this judgment.85 it is our understanding that one or both of the respondents lodged an offer to settle with ntuc foodfare prior to the commencement of the trial which is likely to have a material bearing on the costs order both here and below. in this light, unless the parties are able to come to an agreement on costs, they are to submit, within 14 days of this judgment, written submissions limited to eight pages each on the appropriate orders on costs for the trial and the appeal.sundaresh menon       steven chong      quentin lohchief justice         judge of appeal      judge n sreenivasan sc, palaniappan sundararaj, n k rajarh and cheong wei yang, daryl (straits law practice llc) for the appellant;kwek yiu wing kevin, tan yiting gina and charmaine elizabeth ong wan qi (legal solutions llc)) for the respondents.
