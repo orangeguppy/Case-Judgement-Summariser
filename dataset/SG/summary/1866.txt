@@ -1,0 +1,82 @@
+
+SUPREME COURT OF SINGAPORE
+3 July 2020
+Case summary
+Ivanishvili, Bidzina and others v Credit Suisse Trust Ltd [2020] SGCA 62
+Civil Appeal No 26 of 2019 and Summons No 71 of 2019
+----------------------------------------------------------------------------------------------------
+Decision of the Court of Appeal (delivered by Judge of Appeal Judith Prakash for the majority, consisting of Chief Justice Sundaresh Menon and herself, with Justice Chao Hick Tin dissenting):
+Outcome: CoA allows plaintiffs’ appeal against a stay of their suit against a trustee on the basis that Singapore is the appropriate forum to hear the claims.
+Pertinent and significant points of the judgment
+
+The court holds that the clause found in the Trust Deed in the present case specifying the Singapore courts as the “forum for the administration” of the Trust was intended to specify the supervisory court for the general administration of the Trust, rather than function as an exclusive jurisdiction clause for the settlement of disputes between trustees and beneficiaries.
+The court finds that the fact that relevant witnesses and documents are located in Switzerland is only a weak point in favour of Switzerland as the appropriate forum; in contrast, the shape of the litigation and the governing law point in favour of Singapore as the appropriate forum.
+
+ 
+1 This is an appeal by the plaintiffs in HC/S 790/2017 (“Suit 790”) against the decision of the High Court Judge, who upheld the stay of Suit 790 by an Assistant Registrar on the basis that Singapore was not the appropriate forum.
+
+Background
+ 
+2 The first appellant, Mr Bidzina Ivanishvili (“Mr Ivanishvili”), settled part of his personal wealth on the Mandalay Trust. The trust deed of the Mandalay Trust (“the Trust Deed”) contained a clause providing for the trust to be governed by Singapore law, and for the Singapore courts to be the forum for its administration (“cl 2(a)”). The trustee was the respondent, Credit Suisse Trust Ltd (“the Trustee”), a Singapore trust company. The beneficiaries of the Mandalay Trust were Mr Ivanishvili and the other appellants, his wife and children. The assets of the Mandalay Trust (“the Trust assets”) were invested by the Geneva branch of Credit Suisse AG (“the Bank”).
+3 Towards the end of 2015, the appellants discovered that the Mandalay Trust had suffered tremendous losses. The Bank subsequently filed a criminal complaint in Geneva against its employee, Mr Patrice Lescaudron (“Mr Lescaudron”), who was the portfolio manager of the Mandalay Trust. Mr Lescaudron admitted to various forms of misconduct in relation to the Mandalay Trust, and was convicted on charges of embezzlement, misappropriation and forgery.
+4 In August 2017, the appellants commenced Suit 790 against the Bank and the Trustee claiming for, inter alia, the loss sustained by the Mandalay Trust. Both the Bank and the Trustee successfully applied before the High Court to stay Suit 790 on the ground that Switzerland was the more appropriate forum. The appellants appealed to the Court of Appeal against the stay but eventually decided to pursue their appeal only in respect of the Trustee. They discontinued Suit 790 against the Bank, leaving the Trustee as the sole defendant. The appellants applied in CA/SUM 71/2019 (“SUM 71”) to amend their Statement of Claim so as to reflect the ambit of their new case.
+5 The appellants’ amended Statement of Claim (“amended SOC”) in SUM 71 alleged that:
+
+ a. The Trustee breached its duties of skill and care in delegating the management of the Trust assets to the Bank and to Mr Lescaudron;
+ b. The Trustee failed to notice and/or prevent various wrongdoings in respect of the Trust assets, such as misappropriation, unauthorised or imprudent investments, fraudulent transactions, and a failure on the part of the Bank to follow Mr Ivanishvili’s instructions;
+ c. The Trustee failed to properly review or monitor the investment of the Trust assets, contrary to s 41M of the Trustees Act (Cap 337, 2005 Rev Ed);
+ d. The Trustee failed to account accurately to the appellants for the value of the trust assets; and
+ e. The Trustee acted improperly in executing an Amended Trust Deed in 2013.
+6 Appeals against the Swiss criminal court’s verdict in respect of Mr Lescaudron were said to be pending. The appellants were also pursuing claims related to Suit 790 in Bermuda against Credit Suisse Life (Bermuda) Ltd, but had undertaken to ensure that there was no double recovery.
+
+The application to amend the pleadings
+ 
+7 When the matter had not gone for trial and no evidence had been taken, it would be rare for an amendment of the pleadings to cause prejudice that could not be compensated in costs. The fact that the amendment was for the purpose of strengthening the appellant’s prospects on appeal would not in itself render the application an abuse of process. The Trustee also had adequate notice of the appellants’ intention to amend their pleadings: at [43] and [47].
+8 A party had the right to choose its cause of action and to sue the party it wished to sue. The amended SOC served to allow the real issues in the present appeal to be properly tried – namely, the application of the law on natural forum and choice of jurisdiction to Suit 790 following the discontinuance of the claims against the Bank. SUM 71 was therefore allowed: at [36]–[37] and [48].
+
+The forum for administration clause
+ 
+9 Forum for administration clauses are not uniform. There was no special rule of construction for such clauses, and everything must therefore depend on the framing and context of the clause: at [53].
+10 Clause 2(a) referred specifically to the courts of Singapore being the forum for administration. It was therefore a jurisdiction clause: at [59]–[60].
+11 The term “forum for the administration” was intended to refer to the court which would settle questions arising in the day to day administration of the trust. The addition of a specific reference to “courts” in such a clause did not change its essential character. Such clauses were not intended to be exclusive jurisdiction clauses for the settlement of disputes between trustees and beneficiaries. The appellants therefore could not rely on cl 2(a) in relation to their claims in the amended SOC: at [76] and [79].
+
+The connecting factors analysis
+ 
+12 The test in Spiliada Maritime Corporation v Cansulex Ltd [1987] AC 460 (“Spiliada”) therefore governed the stay application. The first stage of the test was whether there was some other available forum more appropriate for the case to be tried: at [81].
+
+The availability of witnesses
+ 
+13 The location and compellability of witnesses in the competing jurisdictions could be of great importance where the disputes revolved around questions of fact. The focus was on third-party witnesses, and it was the potential prejudice to the defendant that was likely to be significant. In considering the evidence the defendant would need, the court was entitled to draw appropriate inferences based on such information as was available about the nature of the defendant’s case: at [84] and [86]–[87].
+14 The appellants’ case was that the Trustee failed to uncover Mr Lescaudron’s wrongdoing in relation to the Trust assets. Assuming that Mr Lescaudron’s admissions and the findings in the Swiss criminal proceedings would be admissible in proceedings in Singapore, all that remained to be established in relation to these claims would be the Trustee’s failure to act, and the Trustee did not suggest that such evidence was unavailable in Singapore: at [91]–[92].
+15 The Trustee’s contention that it could not have detected Mr Lescaudron’s “concealed fraud” seemed to be overstated, and it did not explain what evidence it needed to show this contention. Since the Trustee had filed an affidavit precisely for this purpose, it could not be surprised if little weight was placed on assertions about the unavailability of evidence if it did not indicate what evidence it needed: at [93]–[94].
+16 The Trustee did not show that it needed the evidence of any other witnesses whose attendance at Singapore proceedings it could not secure. The availability of witnesses was a weak factor in favour of Switzerland as the appropriate forum: at [95] and [97].
+
+The availability of documents
+ 
+17 Little weight was placed on the Trustee’s submission that it would be unable to obtain documents needed for its defence from the Bank due to Swiss banking secrecy laws, as there was reason to believe that the Trustee might be entitled to such documents: at [101]–[102].
+
+The shape of the litigation
+ 
+18 The “shape of the litigation” was ultimately that of a claim for breach of trust against a trustee carrying out its duties in Singapore: at [105].
+
+The governing law
+ 
+19 The governing law was a significant factor in favour of Singapore, especially since the claims will engage substantial and potentially complex questions of trust law, and the Swiss courts would be less familiar with these issues: at [106], [108] and [110].
+
+The risk of overlapping proceedings
+ 
+20 There were no sufficiently significant overlaps between Suit 790 and the foreign proceedings involving the appellants and the Bank and its associates: at [113].
+
+Conclusion
+ 
+21 Looking at the connecting factors in their totality, Singapore was the more appropriate forum for Suit 790. The appeal was therefore allowed: at [115]–[116].
+
+Justice Chao Hick Tin’s dissenting judgment
+ 
+22 Justice Chao agreed with the majority judgment except on the issue of the appropriate forum and the application of the Spiliada principles. He would have concluded that Switzerland was the more appropriate forum, and therefore would have dismissed the appeal and SUM 71: at [118], [154] and [156].
+23 To prove a case against the Trustee in respect of any specific loss, the Plaintiffs must show that they had suffered that loss in the hands of the Bank, and that the Trustee was at fault in not detecting the loss at the time when it received the periodic Investment Reports from the Bank: at [131] and [136]. 
+24 It was fanciful to assert that by merely examining the Investment Reports it received from the Bank, the Trustee would be able to sense something amiss, bearing in mind that Mr Ivanishvili was dealing directly with the Bank officers, and Mr Lescaudron would have planned his criminal deeds to avoid detection. As for other instances of wrongdoing by the Bank, there will be a need to examine the words and conduct of all relevant individuals, including the Bank officer(s), to determine whether the Trustee was at fault in failing to detect any wrongdoing on the part of the Bank or its officer(s). Furthermore, the appellants had yet to identify any specific instances of loss: at [137]–[139] and [141].
+25 The allegations against the Trustee in relation to Mr Lescaudron’s appointment as portfolio manager would have required evidence from the Bank in Switzerland. This was also true with regard to the allegations of Mr Ivanishvili that he did not consent to the Amended Trust Deed: at [142]–[143] and [146].
+26 It was undisputable that the contentious parts of the claims in the action had the most real connection with Switzerland, so far as witnesses and documents were concerned – and especially Mr Lescaudron, whose cross-examination would be critical to ascertaining the true state of affairs: [149]–[151].
+ 
+This summary is provided to assist in the understanding of the Court’s grounds of decision. It is not intended to be a substitute for the reasons of the Court. All numbers in bold font and square brackets refer to the corresponding paragraph numbers in the Court’s grounds of decision.
