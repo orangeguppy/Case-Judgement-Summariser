@@ -1,0 +1,866 @@
+
+ In the COURT OF APPEAL of the republic of singapore[2021] SGCA 61Civil Appeal No 119 of 2020BetweenDiamond Glass Enterprise Pte Ltd… AppellantAndZhong Kai Construction Co Pte Ltd… RespondentIn the matter of Companies Winding Up No 95 of 2020 BetweenDiamond Glass Enterprise Pte Ltd… ApplicantAndZhong Kai Construction Co Pte Ltd… Respondentgrounds of decision[Insolvency Law] — [Winding up][Building and Construction Law] — [Statutes and regulations]This judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in LawNet and/or the Singapore Law Reports.Diamond Glass Enterprise Pte Ltd vZhong Kai Construction Co Pte Ltd [2021] SGCA 61Court of Appeal — Civil Appeal No 119 of 2020 Tay Yong Kwang JCA, Woo Bih Li JAD and Quentin Loh JAD1 February 2021 21 June 2021 Quentin Loh JAD (delivering the grounds of decision of the court): Introduction1 This appeal questions the extent to which the temporary finality of an adjudication determination under the Building and Construction Industry Security of Payment Act (Cap 30B, 2006 Rev Ed) (“SOPA”) must be given effect and enforced. In particular, would an adjudication determination judgment debtor (“ADJ debtor”) be able to stave off a winding-up petition brought by an adjudication determination judgment creditor (“ADJ creditor”) by raising a cross-claim against the latter or by disputing the adjudication debt? 2 The appellant, Diamond Glass Enterprise Pte. Ltd (“DGE”), a subcontractor, secured an adjudication determination in its favour in respect of sums due under a payment claim, Payment Claim 17 (“PC 17”) which it promptly, (as it was perfectly entitled to), applied to enforce by way of a judgment entered under s 27(1) of the SOPA (“s 27(1) SOPA Judgment”). DGE then served a statutory demand on the contractor, Zhong Kai Construction Company Pte. Ltd (“ZK”), demanding payment of the judgment debt. When ZK failed to pay the same, DGE filed a petition to wind up ZK in HC/CWU 95/2020 (“CWU 95”). 3 ZK subsequently applied in HC/SUM 1577/2020 (“SUM 1577”) for the winding up petition to be stayed unconditionally or dismissed. The High Court Judge (“the Judge”) allowed ZK’s application and ordered that CWU 95 be stayed unconditionally pending the determination of a High Court suit between ZK and DGE, on the basis that ZK had raised a genuine cross-claim against the judgment debt therein. DGE appealed against the Judge’s decision. We heard the appeal on 1 February 2021 and dismissed the appeal, but varied the Judge’s order by imposing the condition that ZK pay into court the amount stated in the statutory demand made by DGE within 14 days from the date of the hearing before us for CWU 95 to be stayed. We now give our detailed grounds for our decision. Facts Parties and contractual matrix  4 DGE and ZK are both Singapore-incorporated companies in the building and construction industry. ZK is a company carrying on the business of building and construction, while DGE is engaged in the design, manufacture, supply, installation and maintenance of architectural glass.
+                   1
+
+
+
+
+Foot Note 1
+
+×
+
+
+
+  Record of Appeal (“ROA”) Vol II at pp 62 and 80. 
+
+
+
+ 5 By a letter of award dated 7 November 2016 (“the Subcontract”),
+                   2
+
+
+
+
+Foot Note 2
+
+×
+
+
+
+  ROA Vol IIIA at p 75. 
+
+
+
+ ZK engaged DGE as a subcontractor for the supply of materials, equipment and tools to carry out and complete the external facade aluminium cladding, blast/ballistic doors and windows, aluminium door and window works (“the Subcontract Works”) for a project  (“the Project”) valued at S$558,055. As the Project involved works at Changi Airport, further up the contractual chain, there was a main contract based upon the Public Sector Standard Conditions of Contract (“PSSCOC”), with the Civil Aviation Authority of Singapore (“CAAS”) as principal. There was also a Superintending Officer, Surbana Jurong Infrastructure Pte Ltd (“SO”), who had the final say over important matters like interim payments, variations, extensions of time, choice and approval of material, etc. There are appropriate references in the Subcontract and its Annexes to the CAAS, SO and the main contract. For completeness, ZK was itself a subcontractor in the Project. 6 The Project was divided into two phases, Phase 1 (an 8-storey Equipment Building) and Phase 2A (a 2-storey Annex Building, excluding an Airport Emergency Service Watchroom). The Subcontract was expressed to commence immediately and, pursuant to cl 4 of the Subcontract, the scheduled dates for the completion of Phases 1 and 2A of the Project were to be no later than 31 July 2017 and 20 February 2017 respectively.
+                   3
+
+
+
+
+Foot Note 3
+
+×
+
+
+
+   ROA Vol IIIA at p 76. 
+
+
+
+ Pursuant to cl 6 of the Subcontract, DGE was liable to pay liquidated damages for late completion of the Subcontract Works, calculated at the rate of S$1,800 per day of delay for Phase 1, and S$800 per day of delay for Phase 2A. Clause 6 also provided that ZK was “entitled to deduct or set-off against any monies due to [DGE] under the Subcontract… or to recover such amount or amounts from the [Subcontract] as a debt; for such damages as incurred by [DGE] arising from such delay”.
+                   4
+
+
+
+
+Foot Note 4
+
+×
+
+
+
+  ROA Vol IIIA at p 78.
+
+
+
+ Background to the parties’ dispute7 We now proceed to briefly narrate the events which led to the present proceedings between the parties. It is important to note that we make no binding or final findings of fact in the following paragraphs or elsewhere in these grounds of decision. We merely record what we see in contemporaneous documents put before us and we have borne in mind that the picture is not complete. All these allegations will no doubt be fully explored during the course of the legal proceedings between the parties, and we make reference only to the details that are necessary for our purposes. 8 There is little evidence on the Project in its earlier stages. As noted above, the Subcontract provided for immediate commencement, ie, 7 November 2016, and fairly short completion dates. Not unexpectedly, the Subcontract also provided that the Subcontract Works were to be carried out strictly in accordance with the “Master Programme” (of the main contractor). There were 16 payment certificates before PC 17, and counsel for DGE confirmed that DGE had not taken out any adjudication application to enforce interim payments until PC 17. 9 However, based on the documents before us, we can surmise that the disagreements between the parties most likely began in early 2018. There is correspondence showing allegations from DGE that, from that period onwards, there were delays in its completion of the Subcontract Works because of late approvals, changes to specifications, unsigned variations and slow or inadequate payment by ZK.
+                   5
+
+
+
+
+Foot Note 5
+
+×
+
+
+
+  ROA Vol IIIE at p 104; ROA Vol IIIB at p 69. 
+
+
+
+ DGE also claimed there was “zero” certification for work it had completed up until Progress Claim 12, and a “negative” certification in respect of Progress Claim 13.
+                   6
+
+
+
+
+Foot Note 6
+
+×
+
+
+
+  ROA Vol IIIE at p 104. 
+
+
+
+ On the other hand, there is evidence that ZK made advance payments or loans to DGE with repayment being effected through set-offs or partial set-offs against certified progress payments and amounts due to DGE.
+                   7
+
+
+
+
+Foot Note 7
+
+×
+
+
+
+  ROA Vol IIIE at p 41 (Adjudication Determination at para 146). 
+
+
+
+ ZK also exhibited a number of emails complaining of DGE’s delays. For example, in an email dated 16 February 2017, ZK complained of, inter alia, DGE’s late delivery of cladding material and its slow bracket and runner installations, and requested for DGE to catch up with its work.
+                   8
+
+
+
+
+Foot Note 8
+
+×
+
+
+
+  Respondent’s Supplemental Core Bundle (“RSCB”) at p 58. 
+
+
+
+ In another email dated 1 March 2018, ZK complained that DGE had yet to complete outstanding works despite ZK making it advance payments of S$50,000 on 11 August 2017, S$22,000 on 1 February 2018 and S$30,000 on 13 February 2018 to support DGE’s purchase of material and to assist DGE in paying its staff and workers in advance.
+                   9
+
+
+
+
+Foot Note 9
+
+×
+
+
+
+  RSCB at p 89.
+
+
+
+ In the same email, ZK also noted that DGE had submitted Payment Claim 11 late on 8 February 2018 even though it had been due on 28 January 2018. ZK stated that its email was a “[l]ast warning” for DGE to complete its outstanding works, failing which ZK would engage third parties to complete the same on their behalf.  10 The correspondence between the parties shows that matters came to head towards the end of April 2018. There was, perhaps amongst others, an issue over the purchase of cabin glass. This is not the correct forum to go into the rights and wrongs of that issue. But what we see is an email from DGE dated 25 April 2018 stating that due to no payments being received, it was unable to continue to pay for the cabin glass.
+                   10
+
+
+
+
+Foot Note 10
+
+×
+
+
+
+  RSCB at p 107. 
+
+
+
+ In reply, ZK enclosed the SO’s Instruction (“SOI”) 033 dated 24 April 2018 issued pursuant to Clause 2.5 of the PSSCOC, which noted delays to R3 Tower Cabin Glass and their knock-on effects on other works.
+                   11
+
+
+
+
+Foot Note 11
+
+×
+
+
+
+  RSCB at p 109. 
+
+
+
+ Observing that “cancel[ling] the purchase order for cabin glass [would have a] a serious impact… [on] overall completion of work”, ZK stated it would help DGE purchase the cabin glass, and that the sums spent would be deducted from DGE’s progress claims.
+                   12
+
+
+
+
+Foot Note 12
+
+×
+
+
+
+  RSCB at p 106.
+
+
+
+ Notably, there are two ZK cheques to Singapore Safety Glass Pte Ltd (“SSG”), one dated 25 May 2018 for S$19,927.56 and the other dated 27 April 2018 for S$41,713.14 included in the documentary evidence.
+                   13
+
+
+
+
+Foot Note 13
+
+×
+
+
+
+  RSCB at pp 114 and 115.
+
+
+
+ 11 Thereafter, the parties’ exchanges became increasingly heated. The following exchanges of emails and letters evidence the breakdown and eventual termination of the Subcontract:(a) On 30 May 2018, DGE sent a letter to ZK in response to the email of 24 April 2018 referred to at [10] above. It refuted the allegations made by ZK in relation to the cabin glass, stating that “there was no delay by DGE” and that “the SOI [ZK] enclosed [was] inapplicable”. DGE also complained that despite their progress claims, no payment had been made on an outstanding sum of S$261,006.74 in relation to variation works, and it accused ZK of refusing to approve the same. It further alleged that the Subcontract Works were almost completed and demanded payment of S$149,436.99, being the balance after deducting S$111,569.75 for the cabin glass, by 12pm on 5 June 2018, failing which DGE “[would] treat this [Subcontract] as terminated and… proceed to enforce [its] rights as [it] [saw] fit.”
+                   14
+
+
+
+
+Foot Note 14
+
+×
+
+
+
+  ROA Vol IIIB at p 80. 
+
+
+
+ (b) This was followed by an email exchange, ZK on the one hand asking how DGE had derived its figures and DGE on the other maintaining that it had explained many times before how its figures were derived: (i) On 26 June 2018, ZK sent an email (at 12.21pm) maintaining that DGE’s calculation of the outstanding sum due to DGE was incorrect. ZK stated: “If tomorrow still no man allocation on site to carry all the outstanding work, we will engaged [sic] third party to carry out on behalf, all cost will back charge accordingly to [DGE].”
+                   15
+
+
+
+
+Foot Note 15
+
+×
+
+
+
+  ROA Vol IIIE at p 113. 
+
+
+
+ (ii) DGE responded the same day (at 2.51pm) claiming ZK was in breach of contract in not making payment when it was due: “[ZK] is in breach of contract and this being a repudiatory breach we will terminate the contract and claim all losses from [ZK].”
+                   16
+
+
+
+
+Foot Note 16
+
+×
+
+
+
+  ROA Vol IIIE at p 113.
+
+
+
+ (iii) ZK responded later (at 7.19pm) stating that even if it calculated the amount due to DGE “on the basis of 100%” (ie, on the assumption that there were no incomplete or defective works) and included all the variation order entitlements, the balance due to DGE would only be S$14,465.08. Further, if ZK set off the amounts it had paid to SSG on behalf of DGE (which totalled S$162,113.02 before GST), there would be nothing owing to DGE. ZK also reiterated its ultimatum at [11(b)(i)] above, stating: “Scaffold was ready, mobile crane is ready, no manpower was on site from DGE. Please bear in mind, work keep delaying from [DGE] and DGE must bear all the serious consequences which arises from all parties.”  (iv) DGE replied again (at 9.29pm on the same day) restating its position that it did not agree to the figures calculated by ZK. It also said that since it had yet to be paid by ZK, it was unable to “proceed for allocation of manpower to site”.
+                   17
+
+
+
+
+Foot Note 17
+
+×
+
+
+
+  ROA Vol IIIE at p 111. 
+
+
+
+ (c) Three days later, on 29 June 2018, DGE sent ZK a letter by email stating that it had no choice but to accept ZK’s repudiatory breach and terminate the Subcontract. However, DGE added that as a gesture of goodwill, it was willing to move forward on the condition that:  You [ZK] give us [DGE] written assurance that upon completion of the works (including any minor rectifications that may be due), full payment contractually due to us (inclusive of all variation claims made by us) will be paid without ANY deduction whatsoever and we receive at least SGD$50,000.00 immediately pending the completion, certification and final payment of the works. We repeat that we also need all work completion Forms signed IMMEDIATELY with defects noted, should there be any, and given to us before any more work is done. All defects will be rectified during Defects Liability Period to your satisfaction. [emphasis in original in italics]  The letter also stated that this would be the parties’ last correspondence on the matter as “all [of DGE’s] earlier correspondence ha[d] been ignored, refuted without justification and/or left unanswered”.
+                   18
+
+
+
+
+Foot Note 18
+
+×
+
+
+
+  ROA Vol IIIE at pp 104–107. 
+
+
+
+ (d) In response, ZK sent DGE an email on 30 June 2018 at 5.08pm
+                   19
+
+
+
+
+Foot Note 19
+
+×
+
+
+
+  ROA Vol IIIE at p 110. 
+
+
+
+ which stated: “This reply served as a reply and notification that given no choice we are engaging a third party to complete all your incomplete and defective works.” The email attached a letter from ZK to DGE dated the same day refuting DGE’s claims with details, especially in relation to the variation claims and the deductions. In the letter, ZK stated the following: 
+                   20
+
+
+
+
+Foot Note 20
+
+×
+
+
+
+  ROA Vol IIIE at p 108. 
+
+
+
+(i) “We are surprised to see your letter dated 29th June 2018, in which all the figures and matters reflected are untrue and misleading” [emphasis added]. (ii) “We have repeatedly reminded [DGE] to expedite the remaining outstanding works by deploying sufficient manpower to the works, however, since 06th June 2018, there has been no manpower deployed on site from [DGE], despite our numerous reminders on your defects and incomplete works that has been chased by the client and consultants.” (iii) “As informed through our emails dated 22nd June 2018 9:59AM, 26th June 2018 12:21PM & 7:19PM, 27th June 2018 9:32AM by no choice, in order to complete the remaining works, we will mobilize the 3rd parties to complete the remaining works, incomplete works, defect works and etc. on your behalf, to hand over to our client. [DGE] is responsible for the [sic] whatever consequences caused.” (iv) “All our rights are reserved.”(e) On 10 July 2018, DGE sent another letter to ZK, explaining that DGE had stopped work on the Project because ZK had refused to pay the sum owed to DGE. DGE also stated that ZK’s calculations in the letter dated 30 June 2018 were incorrect, and reiterated that the contract between them had been terminated.
+                   21
+
+
+
+
+Foot Note 21
+
+×
+
+
+
+  ROA Vol IIIE at p 126–128.
+
+
+
+Procedural historyProgress Claim No 17 and Suit 917 of 2019 12 On 28 August 2019, almost 14 months after ZK’s letter of 30 June 2018 set out at [11(d)] above, DGE served PC 17 on ZK, claiming a sum of S$261,006.74 for Subcontract Works.
+                   22
+
+
+
+
+Foot Note 22
+
+×
+
+
+
+  ROA Vol IIIB at pp 80–83.
+
+
+
+ Pursuant to cl 5 of the Subcontract, the due date for ZK to submit a payment response to PC 17 was 18 September 2019. Thereafter, pursuant to ss 12(2), (4) and (5) SOPA, DGE was entitled to make an adjudication application against ZK after the expiry of the dispute settlement period, ie, 25 September 2019. 13 However, on 14 September 2019, without having responded to the payment claim, ZK commenced a High Court suit, HC/S 917/2019 (“S 917”), through their then solicitors, Messrs Peter Ong Law Corporation, against DGE. In the Statement of Claim for S 917, ZK claimed the sum of S$317,559.90 for “goods sold and delivered and services rendered to [DGE] at [DGE’s] requests”.
+                   23
+
+
+
+
+Foot Note 23
+
+×
+
+
+
+  ROA Vol II at pp 12–14.
+
+
+
+ Despite ZK’s rather odd characterisation of its claim, the particulars given show items like “Supply Mobile Crane”, “Mobile Crane Operator Overtime”, “Supply [of] Workers”, “Safety Issues”, “Annex Building”, “BCA Submissions”, “Re-erect[ion] [of] scaffold”, “Third Party labour and Material”, “Supply [of] capping cladding [at] R3 Cabin” and “Rental of Boomlift” making up the S$317,559.90.  14 On 16 September 2019, ZK served its payment response on DGE, but did not state the total response amount.
+                   24
+
+
+
+
+Foot Note 24
+
+×
+
+
+
+  ROA Vol IIIB at p 7 (Rasanathan’s OS 223 Affidavit at para 12); ROA Vol IIB at p 90. 
+
+
+
+ In its payment response, ZK either completely declined to certify, or did not certify in full the amounts claimed in respect of various items listed in PC 17. The reasons cited for this included, amongst others, differences in quantity, defective works, incomplete works, failures to provide product and/or workmanship indemnities and warranties, and failures to conduct final handovers.
+                   25
+
+
+
+
+Foot Note 25
+
+×
+
+
+
+  ROA Vol IIIB at pp 88–92.
+
+
+
+Adjudication Application 339 of 2019 15 On 1 October 2019, DGE commenced Adjudication Application No 339 of 2019 (“AA 339”) under the SOPA to claim against ZK the sum of S$264,789.08 for the Subcontract Works.
+                   26
+
+
+
+
+Foot Note 26
+
+×
+
+
+
+  ROA Vol IIIB at p 101 (Claimant’s Written Submissions for AA 339 at para 14). 
+
+
+
+ ZK challenged AA 339 on the basis that DGE had “failed to carry out multiple works”, resulting in a situation where ZK had to “engage a third party contractor to (i) rectify the defects of [DGE’s] construction works, (ii) complete [DGE’s] construction works that were left incomplete, and (iii) prepare the construction works for final handing over”.
+                   27
+
+
+
+
+Foot Note 27
+
+×
+
+
+
+  ROA Vol IIIB at p 112 (Respondent’s Written Submissions for AA 339 at para 24). 
+
+
+
+16 By an Adjudication Determination dated 15 November 2019 (“the AD”), it was determined that the sum of S$197,522.83 (“the Adjudicated Amount”), as well as interest, costs and adjudicator’s fees, was payable by ZK to DGE.
+                   28
+
+
+
+
+Foot Note 28
+
+×
+
+
+
+  ROA Vol IIIB at p 171–173 (Adjudication Determination at paras 152–161). 
+
+
+
+ Pursuant to paragraph 3(b) of the AD, the due date for ZK to pay the Adjudicated Amount to DGE was 35 days from the date of submission of a tax invoice from DGE to ZK for the Adjudicated Amount. DGE alleged that it served the said tax invoice on ZK via email on 21 November 2019 at 6.53pm, and that the due date for payment of the Adjudicated Amount was thus 27 December 2019.
+                   29
+
+
+
+
+Foot Note 29
+
+×
+
+
+
+  ROA Vol IIIB at p 9 (Rasanathan’s OS 223 Affidavit at para 21).   
+
+
+
+Suit 1282 of 2019 and the Consolidated Suit 17 ZK did not pay DGE the Adjudicated Amount. Instead, on 19 December 2019, ZK commenced a second High Court suit, HC/S 1282/2019 (“S 1282”), through another set of solicitors, Messrs Zenith Law Corporation, against DGE. In S 1282, ZK claimed against DGE (a) liquidated damages amounting to S$501,800 for DGE’s late completion of the Subcontract, as well as (b) the sum of S$358,870.25 for additional costs and expenses in having to engage replacement or substitute subcontractors to carry out and complete works which were allegedly abandoned or improperly carried out by DGE. ZK also sought a declaration that the Adjudicated Amount was not due and owing to DGE and/or was wrongly determined.
+                   30
+
+
+
+
+Foot Note 30
+
+×
+
+
+
+  ROA Vol II at p 58.  
+
+
+
+18 On 11 March 2020, ZK applied for and was granted an order for the proceedings in S 1282 and S 917 to be consolidated, with S 1282 as the lead suit. The consolidated proceedings are hereinafter referred to as “the Consolidated Suit”. The sums claimed in the Consolidated Suit are identical to those claimed in S 1282.
+                   31
+
+
+
+
+Foot Note 31
+
+×
+
+
+
+  ROA Vol II at p 75.
+
+
+
+ OS 223 of 2020 19 On 17 January 2020, DGE obtained a court order (“DC/OS 5/2020”) pursuant to s 27(1) of the SOPA to enforce the AD as a judgment.
+                   32
+
+
+
+
+Foot Note 32
+
+×
+
+
+
+  ROA Vol IIIB at pp 182–183. 
+
+
+
+ 20 On 7 February 2020, DGE served a statutory demand dated the same day (“the Statutory Demand”) on ZK, requiring ZK to make payment of the sum of S$211,044 (“the Judgment Debt”), being the Adjudicated Amount plus interest for late payment, costs of DC/OS 5/2020, and 80% of the costs of adjudication (as provided under the adjudication), within three weeks of the date of service of the Statutory Demand.
+                   33
+
+
+
+
+Foot Note 33
+
+×
+
+
+
+  ROA Vol IIIB at pp 187–188.  
+
+
+
+21 On 18 February 2020, ZK filed HC/OS 223/2020 (“OS 223”) to set aside the Statutory Demand or, alternatively, seek an order or declaration that DGE was precluded from issuing a statutory demand in so far as S 1282 was not discontinued.
+                   34
+
+
+
+
+Foot Note 34
+
+×
+
+
+
+  ROA Vol II at p 59. 
+
+
+
+ CWU 95 and SUM 157722 ZK did not meet the Statutory Demand by the stipulated deadline. Thus, on 23 March 2020, DGE commenced CWU 95 to wind up ZK on the basis that ZK had not satisfied the Statutory Demand and was deemed under s 254(2)(a) read with s 254(1)(e) of the Companies Act (Cap 50, 2006 Rev Ed) (“CA”) to be unable to pay its debts.
+                   35
+
+
+
+
+Foot Note 35
+
+×
+
+
+
+  ROA Vol II at p 77. 
+
+
+
+ CWU 95 was served on ZK and its solicitors on 24 March 2020.
+                   36
+
+
+
+
+Foot Note 36
+
+×
+
+
+
+  ROA Vol IIID at p 151 (Cai’s SUM 1577 Affidavit at p 44). 
+
+
+
+23 On 1 April 2020, ZK filed SUM 1577 seeking:(a) an order dismissing CWU 95;(b) alternatively, an order that CWU 95 and all related proceedings be stayed or restrained pending the disposal of the Consolidated Suit; or(c) alternatively, an order that the hearing for CWU 95 be adjourned pending the disposal of the Consolidated Suit. Decision below 24 On 24 June 2020, the Judge heard both OS 223 and SUM 1577. The Judge dismissed OS 223 but allowed ZK’s application in SUM 1577 to stay CWU 95 until the determination of the Consolidated Suit and any appeal thereof. Her brief grounds of decision (“Judgment”) are set out in a minute sheet dated the same day. For present purposes, we summarise only the Judge’s findings vis-à-vis SUM 1577. 25 The Judge found that ZK had a bona fide and serious cross-claim against DGE based on substantial grounds, and that the value of this cross-claim might exceed the Judgment Debt. In her view, the cross-claim raised triable issues such as (a) whether it was ZK or DG who was in repudiatory breach of the Subcontract; (b) whether ZK could rely upon cl 6 of the Subcontract to claim liquidated damages; (c) whether some of ZK’s claims even arose from the Subcontract; and (d) whether certain costs and expenses incurred by ZK could be claimed against DGE. The Judge was also of the view that ZK’s pleadings were sufficiently particularised to set out its cause of action against DGE (Judgment at [24]). 26 The Judge further held that it could not be definitively concluded that ZK was abusing the court process by commencing S 917 and S 1282 against DGE. Although it was DGE who had first served a payment claim on ZK, ZK had commenced S 917 even before DGE commenced AA 339 (Judgment at [25]). Accordingly, the Judge found that it was appropriate to grant the stay sought by ZK. The parties’ arguments on appeal 27 On appeal, DGE challenged the Judge’s decision to grant a stay of CWU 95. In this regard, DGE’s principal argument was that ZK did not have a genuine cross-claim against DGE, and that it was merely using the Consolidated Suit to avoid paying the Judgment Debt to DGE.28 DGE also made the alternative argument that, even if ZK was found to have a valid cross-claim against DGE, CWU 95 ought to be stayed only on the condition that ZK first paid the sum of S$211,044 (being the value of the Judgment Debt) into court as security.29 In response, ZK submitted that: (a) ZK’s cross-claim was serious and bona fide as it raised numerous triable issues; (b) there were no special circumstances justifying a refusal of a stay of CWU 95; and(c) there were no valid grounds for a conditional stay for CWU 95. Issues to be determined 30 The appeal before us arises only from SUM 1577 which, as stated at [23] above, is an application to dismiss CWU 95 or, alternatively, to stay or adjourn the hearing for CWU 95 pending the disposal of the Consolidated Suit.31 Before us, both parties accepted that the court is generally empowered to stay a winding-up application against a debtor on two grounds: (a) first, where the debtor bona fide disputes the debt in the statutory demand on substantial grounds (see Pacific Recreation Pte Ltd v S Y Technology Inc and another appeal [2008] 2 SLR(R) 491 (“Pacific Recreation”) at [16]–[19]); and/or (b) secondly, where the debtor has a serious cross-claim against the creditor based on substantial grounds (see Metalform Asia Pte Ltd v Holland Leedon Pte Ltd [2007] 2 SLR(R) 268 at [82] (“Metalform”)). 32 It should be noted that ZK, correctly in our view, did not attempt to dispute the debt comprised in the AD or the s 27(1) SOPA Judgment obtained thereon. It is not open to ZK to dispute that debt at this juncture before this Court because s 21(1) of the SOPA confers temporary finality on the AD and there are presently no legal proceedings afoot to invalidate the AD on legal grounds: see W Y Steel Construction Pte Ltd v Osko Pte Ltd [2013] 3 SLR 380 (“W Y Steel Construction”) at [71]. The AD and the s 27(1) SOPA Judgment can only be challenged before an arbitral tribunal or a court seised of the final resolution and determination of all disputes between the parties in relation to this project, which usually takes place after the contract is completed or terminated as the case may be.   33 Accordingly, the primary question before this Court is whether ZK has a cross-claim against DGE which justifies the dismissal of CWU 95, or a stay or adjournment thereof. This question engages the following subsidiary issues: (a) What is the applicable standard of review for a cross-claim that is raised by a debtor to stay or dismiss a winding-up petition?  (b) Should the requirements for obtaining a stay of a winding-up application (including the applicable standard of review mentioned in (a) above) be modified in cases where the debt underlying the winding-up petition arises from an adjudication determination under the SOPA? (c) On the facts, does ZK have a cross-claim against DGE which equals or exceeds S$211,044 (being the value of the Judgment Debt) and meets the requisite standard of review? (d) If ZK is granted a stay of CWU 95, should that stay be conditional or unconditional in nature?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   We address these issues in turn.The applicable standard of review for a cross-claim 34 We begin by examining the applicable standard of review for a cross-claim which is raised by a debtor to stay or dismiss a winding-up petition against it. In our view, this question merits particular attention in light of this Court’s recent pronouncement in AnAn Group (Singapore) Pte Ltd v VTB Bank (Public Joint Stock Co) [2020] 1 SLR 1158 (“AnAn”), which significantly altered the law in this area in so far as cross-claims or disputed debts which are the subject of arbitration agreements are concerned. Prior to AnAn, our courts have expressed varying formulations of the standard of proof to be applied in such cases. 35 In De Montfort University v Stanford Training Systems Pte Ltd [2006] 1 SLR(R) 218 (“De Montfort University”), disputes arose between Stanford Training Systems Pte Ltd (“STS”) and De Montfort University (“DMU”), an English university which delivered courses in Singapore through STS. DMU served a statutory demand on STS claiming that the latter owed it £91,931.28. STS responded that it would be able to raise various counterclaims, including but not limited to a claim in respect of losses suffered as a result of DMU’s failure to deliver various programmes as agreed between the parties. DMU then proceeded to file a petition to wind up STS on 17 May 2005. On 13 June 2005, STS commenced a civil action against DMU. Tay Yong Kwang J (as he then was) ordered a stay of the winding-up petition pending the determination of the civil action. In his decision, Tay J cited the following authorities: (a) Re Sanpete Builders (S) Pte Ltd [1989] 1 SLR(R) 5 (“Re Sanpete”) for the rule that the mere fact that a defendant obtained leave to defend an action relating to a debt in an application under O 14 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) (“ROC”) might not per se suffice to show that his defence is not a frivolous one, or that the debt is disputed on substantial grounds;(b) Re Great Britain Mutual Life Assurance Society (1880) 16 Ch D 246, where Jessel MR said (at 253): “[I]t is not sufficient for the Respondents, upon a petition of this kind, to say ‘We dispute the claim.’ They must bring forward a prima facie case which satisfies the Court that there is something which ought to be tried, either before the Court itself, or in an action, or by some other proceeding”; and(c) Malayan Plant (Pte) Ltd v Moscow Narodny Bank [1979–1980] SLR(R) 511, where the Privy Council said (at [18]): “There is no distinction in principle between a cross-claim of substance … and a serious dispute regarding the indebtedness imputed against a company, which has long been held to constitute a proper ground upon which to reject a winding-up petition.”            36 Having reviewed the above authorities, Tay J stated (at [28]): …I prefer the view that once unconditional leave has been granted and the order stands, either because the plaintiff decides not to appeal or because the order is affirmed on appeal, another forum should not revisit and reopen the same issues. If unconditional leave to defend has been given to a defendant in a claim on a debt, surely that means that there is a bona fide or a genuine dispute. Of course, it does not mean that the defendant will probably succeed in his defence at the trial of the action. It merely means that his defence is not a frivolous one or, in the words of Chao JC [in Re Sanpete], the debt is ‘disputed on some substantial grounds’.37 In another first instance decision, LKM Investment Holdings Pte Ltd v Cathay Theatres Pte Ltd [2000] 1 SLR(R) 135 (“LKM Investment”), Judith Prakash J (as she then was) similarly ruled that the statutory presumption of insolvency could not be invoked against a company served with a statutory demand if the company bona fide disputed the debt. However, it was not an abuse of process for a judgment creditor to serve a statutory demand on a judgment debtor merely because the judgment was under appeal. If enforcement of that judgment had not been stayed, the judgment creditor was entitled to take all legal steps open to him to recover the amount of the judgment debt. Prakash J also opined that once the matter had been tried at first instance and decided against the judgment debtor, the prima facie position was that the debtor had no defence to the claim and any further dispute over the debt would not be bona fide (at [21]).   38 Both the courts in De Montford University and Re Sanpete espoused the principle that a winding-up petition should not be used as a means to enforce payment of a debt which is bona fide disputed or which can potentially be extinguished by a cross-claim, and that to do so is an abuse of the process of the court. This Court later echoed the same view in BNP Paribas v Jurong Shipyard Ltd [2009] 2 SLR(R) 949 (“BNP Paribas”), decrying the use of “a shortcut by the backdoor to try and enforce a contested claim by issuing a s 254(2)(a) [CA] statutory notice” and stating in no uncertain terms that had this been done in the case before them, “it would have amounted to an abuse of the court’s winding-up jurisdiction” (at [7]). This Court further opined that a court’s function in a winding-up petition is not to adjudicate on or decide a disputed claim, and held that once the recipient of a statutory notice had offered to secure the disputed debt, the issue of substantiality or insubstantiality of the dispute fell by the wayside and was no longer a relevant consideration given that the debtor was not unable to pay its debts (at [7]).       39 In the subsequent case of Metalform, the appellant, Metalform Asia (“MA”), owed the respondent, Holland Leedon Pte Ltd (“HL”), a sum of money for the supply of steel to MA. HL served a statutory demand on MA under s 254(2)(a) of the CA and MA applied for an injunction to prevent HL from presenting a winding-up petition until MA’s claim for damages against HL arising from another sale and purchase agreement had been determined. MA claimed, inter alia, that it had a bona fide cross-claim on substantial grounds which exceeded the disputed debt. This Court held (at [87]) that the standard of proof which an applicant had to meet in order to stay a winding-up application on the basis that he had a serious cross-claim on substantial grounds was that the winding-up application was unlikely to succeed, or it was likely that the court would hold over the petition in order to allow the cross-claim to be determined first (collectively referred to hereafter as the “unlikely to succeed” standard). 40 The approach in Metalform may be juxtaposed with that in Pacific Recreation, where this Court held (at [23]) that the applicable standard of proof for staying a winding-up application on the basis that the applicant had a substantial and bona fide dispute over the debt claimed by the petitioning creditor was “no more than that for resisting a summary judgment application, ie, the debtor… need only raise triable issues in order to obtain a stay or dismissal of the winding-up application” (referred to hereafter as the “triable issue” standard).41 The decision in Pacific Recreation did not clarify whether the “triable issue” standard was distinct from the “unlikely to succeed” standard which had earlier been held to apply to cross-claims in Metalform. However, the two standards were treated as equivalent in several High Court cases that followed. In Denmark Skibstekniske Konsulenter A/S I Likvidation (formerly known as Knud E Hansen A/S) v Ultrapolis 3000 Investments Ltd (formerly known as Ultrapolis 3000 Theme Park Investments Ltd) [2011] 4 SLR 997 (“Ultrapolis”), it was concluded at [26] (referring to Ashworth v Newnote Ltd [2007] EWCA Civ 793 at [33]) that any linguistic divergence between the “triable issues” standard in Pacific Recreation and the “unlikely to succeed” standard in Metalform was “a distinction without difference”. The same view was later taken in Strategic Construction Pte Ltd v JH Projects Pte Ltd [2018] 4 SLR 1192 (“Strategic Construction”) (at [20]), and by this Court in AnAn (at [27]). 42 In AnAn, this Court sat with a specially convened five-judge coram to consider the differing standards of proof applied by the courts when addressing a stay application in relation to winding-up petitions where the debtor’s cross-claim or dispute over the creditor’s claim is the subject of an arbitration clause. After comprehensively reviewing the authorities in Singapore, England, Hong Kong, the Eastern Caribbean and Malaysia, this Court decided that a lower prima facie standard of review should be applied in lieu of the “triable issue” standard in such cases. Under the prima facie standard, the winding-up proceedings would be stayed or dismissed as long as (a) there was a valid arbitration agreement between the parties; and (b) the dispute fell within the scope of the arbitration agreement, provided that the dispute was not being raised by the debtor in abuse of the court’s processes (AnAn at [56]). It is worth setting out the relevant passages of AnAn that explain the rationale for this approach: No differing standards for disputed debts and cross-claims58 Before detailing our reasons for adopting the prima facie standard of review, we pause to emphasise that the standard of review applies equally to disputed debts and cross-claims, which are the two bases that a debtor may raise to resist a winding-up application.59 … Whether a cross-claim or disputed debt is raised, the debtor is simply asserting that the debt claimed is insufficient to prove its insolvency, and that the winding-up order ought therefore not to be granted. There is therefore no justifiable basis for applying a different standard of review to cross-claims on the one hand, and disputed debts on the other. As this court had observed in Pacific Recreation ([15] supra) at [25], the “tests for both of the situations” must “necessarily mirror each other”.Coherence in the law60     Adopting the lower standard of review would, in our view, promote coherence in the law concerning stay applications, so that parties to an arbitration agreement are not encouraged to present a winding-up application as a tactic to pressure an alleged debtor to make payment on a debt that is disputed or which may be extinguished by a legitimate cross-claim.(1)   Coherence is to be preferred to prevent abuse of winding-up proceedings61     In this regard, the prima facie standard has been adopted for stay applications under s 6 of both the Arbitration Act (Cap 10, 2002 Rev Ed) (“AA”) and the IAA. In Tomolugen Holdings Ltd and another v Silica Investors Ltd and other appeals [2016] 1 SLR 373 (“Tomolugen”) at [63], this court held that the prima facie standard of review applies when hearing a stay application under s 6 of the IAA. The prima facie standard similarly applies for stay applications under s 6 of the AA: Sim Chay Koon and others v NTUC Income Insurance Co-operative Ltd [2016] 2 SLR 871 (“Sim Chay Koon”) at [5]. Hence, if a creditor claims for a debt simpliciter before the court, the debtor would simply have to demonstrate on a prima facie basis that there is an arbitration clause and that the dispute is caught by that clause. Once such a burden is discharged by the debtor, the court will grant a stay of the claim and defer the actual determination of the dispute to an arbitral tribunal.62     However, if the same debt is relied on as the basis for presenting a winding-up application, as discussed, some authorities suggest that the triable issue standard may apply, such that the debtor would have to demonstrate a substantial and bona fide dispute before the winding-up application can be stayed.63     In our judgment, there is no principled basis to apply differing standards to what is essentially the same disputed debt. Under the present dichotomy of standards, the applicable standard of review would depend solely on the creditor’s arbitrary or tactical choice – if the creditor pursues an ordinary claim for debt, the prima facie standard would apply; if the creditor applies, on the basis of the same disputed debt, for the debtor to be wound up, the higher triable issue standard would apply. This would in turn encourage the abuse of the winding-up jurisdiction of the court, which is not the appropriate forum to adjudicate on disputed claims that are subject to arbitration (see BNP Paribas v Jurong Shipyard Pte Ltd [2009] 2 SLR(R) 949 at [7]); as Etherton C observed in Salford ([30] supra) at [40], applying the triable issue standard:… would inevitably encourage parties to an arbitration agreement – as a standard tactic – to bypass the arbitration agreement … by presenting a winding-up petition. The way would be left open to one party, through the draconian threat of liquidation, to apply pressure on the alleged debtor to pay up immediately or face the burden … of satisfying the [court] that the debt is bona fide disputed on substantial grounds.[emphasis in original in italics; emphasis added in bold italics] 43 Although the ratio of AnAn concerned cross-claims and disputed debts that were subject to an arbitration agreement in the context of a winding-up application, it is clear this Court’s ruling there went beyond that narrow issue. This was evident from the specially convened five-judge coram, as well as the court’s comprehensive review of the authorities, the policies involved and the articulated aim of coherence in the law on stay applications (AnAn at [60], reproduced above). In arriving at its decision, this Court considered stay applications in both international and domestic arbitration, and noted that the adoption of the prima facie standard would align the law governing exclusive jurisdiction clauses, forum non conveniens and stay applications under the International Arbitration Act (Cap 143A, 2002 Rev Ed) and the Arbitration Act (Cap 10, 2002 Rev Ed) (AnAn at [52] and [74]). 44 In our view, the prima facie standard of review should also apply in building and construction cases like the present where the cross-claim is not the subject of an arbitration agreement. It would make little sense for the prima facie standard of review to apply where the dispute comprised in the cross-claim or disputed debt is the subject of an arbitration agreement, and for the higher triable issue standard to apply where it is not. The case for a consistent approach is also compelling in building and construction cases where the winding-up proceedings in question are premised on a debt which is incurred during the project, and the final determination of disputes in relation to the whole project is subject to resolution either by arbitration or through the courts, usually at some later stage (see Comfort Management Pte Ltd v OGSP Engineering Pte Ltd [2018] 1 SLR 979 (“Comfort Management”) at [63] and Orion-One Residential Pte Ltd v Dong Cheng Construction Pte Ltd and another appeal [2021] 1 SLR 791 (“Orion-One”) at [53]).45 Thus, an applicant debtor who seeks to stay or dismiss a winding-up petition in a case like the present only needs to show, on a prima facie standard, the existence of a justiciable cross-claim that is likely to equal or exceed the claim against the debtor, and provided that the said dispute or cross-claim is not being raised in an abuse of the court’s process.  46 Having said that, we acknowledge that the foregoing statement of the rule may potentially surface a conflict in cases, like the present, which involve winding-up petitions founded on adjudication determinations under the SOPA, as the policies underpinning the SOPA, specifically the philosophy of maintaining cash flow in the construction industry, seemingly contradict an ADJ debtor’s entitlement to stave off winding-up proceedings under the insolvency regime when it refuses to pay the stipulated sum in the AD or any judgment obtained thereon. We have already explained how the temporary finality of an adjudication determination means that an ADJ debtor cannot dispute the adjudication determination, or any judgment obtained thereon (see [32] above). It follows that such a debtor also cannot dispute the same to challenge a winding-up proceeding premised on the adjudication determination. However, in the context of cross-claims, the interface between the SOPA and insolvency regimes requires a careful and principled approach, which we deal with below.    The approach to winding-up petitions founded on adjudication determinations 47 Having established the standard of review which applies to cross-claims in general, we turn to consider the specific approach which this court should adopt when considering stays or dismissals of winding-up petitions which are founded on adjudication determinations. When or under what circumstances would an ADJ debtor be allowed to stay or dismiss a winding-up petition premised on a debt arising from the adjudication determination, by alleging a cross-claim on a prima facie basis? Although the parties did not focus on this issue in their submissions, we think it necessary to address it in some detail in order to reconcile the seemingly conflicting approaches in policy underpinning the court’s winding-up jurisdiction and the SOPA. The resolution of this apparent conflict is clearly salient to the outcome of the present appeal.  48 The purposes and aims of the statutory adjudication regime under the SOPA have been well-articulated in many judgments of this Court and need little rehearsing. The SOPA, inter alia, invalidates the pernicious and hitherto prevalent pay-when-paid clauses, and facilitates cash flow to contractors, subcontractors and suppliers in building and construction industry by providing a quick, low cost adjudication system to resolve interim payment disputes in construction projects. It is well-recognised that this efficient and speedy process is necessarily “rough and ready justice” and that, given the compressed timelines and sometimes voluminous evidence and documents, adjudicators may get things wrong. However, their adjudication determinations have temporary finality. This means that unless an adjudication determination is set aside by a court on legal or technical grounds, it is final and binding on the parties to the adjudication until their differences are finally and conclusively determined or resolved by an arbitral tribunal or a court, usually after the project is at an end. If a sum is determined by an adjudicator as due from A to B, A has to make payment even if A has reason to say the adjudication determination has errors; this can be found in the pithy adage “pay now, argue later”. This promotes the SOPA’s ultimate objective of facilitating cash flow in the building and construction industry: see W Y Steel Construction at [18] and [20]. 49 The first key to reconciling the ostensible conflict is to remember that the concept of temporary finality is, by its very meaning, only temporary. It is not for all time. An adjudication determination can be “opened up” by the tribunal or the court finally determining all the disputes between the parties at the end of their project: see s 21(1)(b) of the SOPA. That court or tribunal has the ability, the time and the means, which are not available to adjudicators, to examine the disputes with more thorough deliberation, and with all the processes and procedures in place to define the issues and explore the evidence. If the court or tribunal disagrees with the adjudication determination, it can amend or alter the determination or certificate, revoke any part or finding or determination by the adjudicator or certifier, or even overrule the determination altogether. This is settled law (see Orion-One at [53], Comfort Management at [63] and W Y Steel Construction at [22]). 50 It is clear that temporary finality ends when the arbitral tribunal or court finally determines all the parties’ disputes, rights and obligations. When that happens, any judgment previously obtained under s 27 of the SOPA to enforce that adjudication determination must also cease to have effect; as common sense dictates, the fruit must fall with the tree.51 At the other end of the scale is the situation where the project is ongoing and the ADJ debtor fails to make payment. This is the classic situation SOPA was enacted to redress. Besides the remedies spelt out under SOPA and common law, the ADJ creditor is entitled to levy execution on its judgment and this includes serving a statutory demand and failing payment, proceeding to apply to wind-up the ADJ debtor. Short of having the adjudication determination set aside on legal or technical grounds, the ADJ debtor is in no position to dispute the debt comprised in the adjudication determination; it has to pay the adjudicated sum or face the consequences.52 The real difficulty comes when the project comes or is coming to an end or has been terminated, and the downstream party takes out an adjudication application and secures an adjudication determination. To readily allow the ADJ debtor to halt enforcement of the adjudication determination by alleging a cross-claim on the prima facie standard might enable upstream parties to evade their payment obligations all too easily. This would end up stifling the cash flow and frustrate the “pay now, argue later” philosophy underlying the SOPA regime. There is every likelihood that that would revert the law to its position prior to the enactment of the SOPA, wherein upstream contractors could withhold payment to downstream contractors simply by asserting a set-off or cross-claim: see Harmonious Coretrades Pte Ltd v United Integrated Services Pte Ltd [2020] 1 SLR 206 at [50], citing Civil Tech Pte Ltd v Hua Rong Engineering Pte Ltd [2018] 1 SLR 584 at [23]–[32]. 53 It is not surprising to see that this is not the first occasion on which this conundrum has been in issue before the Singapore courts. There are two prior High Court decisions which directly address the issue that we have highlighted above. It is to these decisions which we now turn. Local position  54 In Lim Poh Yeoh (alias Lim Aster) v TS Ong Construction Pte Ltd [2016] 5 SLR 272 (“Lim Poh Yeoh”), the respondent commenced an adjudication application against the appellant under the SOPA and subsequently obtained an adjudication determination in its favour. The respondent then entered judgment in the terms of the adjudication determination and issued a statutory demand against the appellant for the outstanding amount owed under the judgment debt. The issue was whether the appellant could set aside the statutory demand under r 98(2) of the Bankruptcy Rules (Cap 20, R 1, 2006 Rev Ed) on the basis that she had a valid cross-claim against the respondent in a separate High Court suit. 55 One of the respondent’s key contentions was that the court ought not to set aside the statutory demand, even in the face of an ostensible competing cross-claim, because this would be contrary to the “pay now, argue later” philosophy undergirding the SOPA. After considering authorities from Australia, England and New Zealand, Edmund Leow JC concluded (at [69]) that: [A]n argument (however genuine and strong) that the adjudicated amounts were not as a matter of contractual right due and payable can never be a ground for setting aside a statutory demand based on a judgment obtained on an adjudication determination… This principle also applies with equal force to preclude the setting aside of statutory demands on the basis of cross claims which seek to deny the validity of the judgment debt. [emphasis added]56 However, Leow JC recognised that the policy of facilitating cash flow in the construction industry was not one that Parliament intended to be achieved at all costs. Leow JC considered that this was evident from the parliamentary debates which took place during the second reading of the Building and Construction Industry Security of Payment Bill 2004 (No 54/2004) (“the SOP Bill”). During the debates, then-Minister of State for National Development, Mr Cedric Foo Chee Keng, had clarified that the SOPA regime would not upset the existing system of creditor priorities under the insolvency regime (see Singapore Parliamentary Debates, Official Report (16 November 2004) vol 78 at cols 1118–1119). In response, Dr Amy Khor Lean Suan, a then-Member of Parliament, had inquired whether this limitation to the scope of the SOP Bill would jeopardise subcontractors’ legitimate interests in being paid. To this, Mr Cedric Foo replied (at col 1133): … She [ie, Dr Amy Khor] also asked why insolvency is not dealt with here, although payment woes in the construction industry are indeed a form of injustice. But in the area of insolvency, there is a higher justice that must be served. There is an established priority of payments that have to be made to different parties who have suffered as a result of a party going insolvent. So this priority should not be upset just because of the payment woes in the construction industry. So we have therefore left insolvent cases alone so as not to disrupt a process which is working well. [emphasis added] 57 In Leow JC’s view, the passages cited above indicated that “to the extent that there [was] a normative conflict between the legislative policy of facilitating cash flow in the construction industry and the wider purposes of the insolvency process… [Parliament was of the view that] the former must yield to the latter” (at [73]). Thus, Leow JC concluded that a debtor was not precluded from setting aside a statutory demand on the basis that he had a valid cross-claim against a creditor which, if successful, would liquidate the debt in the statutory demand, provided that such a cross-claim did not seek to deny the validity of the adjudication judgment debt. Since the appellant’s cross-claim gave rise to triable issues, was sufficiently quantified in monetary terms and was “clearly broader in scope than the adjudication”, Leow JC held that the statutory demand could be set aside (at [76]). 58 In the subsequent decision of Strategic Construction, the plaintiff commenced an adjudication application against the defendant for amounts due for work done in a construction project. The defendant, in turn, commenced a High Court suit against the plaintiff, claiming that it had suffered loss and damage by reason of the plaintiff’s failure to rectify certain defects. Subsequently, the plaintiff obtained an adjudication determination in its favour, which it applied to enforce by way of a judgment. When the defendant refused to pay the judgment debt, the plaintiff took out a winding-up application against the defendant. The defendant sought a stay of the winding-up petition pending the disposal of the action in the High Court suit. One of the issues before the High Court was whether it was relevant that the plaintiff’s underlying claim had arisen under the SOPA. In this regard, the plaintiff asserted that it was entitled to “simply want [its] money” since this would give effect to the SOPA’s underlying purpose of expediting cash flow.59 Relying on the parliamentary debates for the SOP Bill (see [56] above), Tan Siong Thye J reached the same conclusion as Leow JC that Parliament had intended for the insolvency regime to prevail over the SOPA regime in the event of a conflict between the two. He thus held (at [57]) that: [E]ven though the policy underlying SOPA is expeditious dispute resolution for quick cash flow, it cannot override the scheme under the Companies Act, which gives a company that is the subject of winding-up proceedings a chance to prove its cross-claims before a winding-up order is made and the attendant consequences flow, if it can show that there is a triable issue as to the cross-claim. 60 Tan J also considered that the defendant’s willingness to pay the adjudicated amount into court as security, which was a procedural prerequisite that it would have had to fulfil if it had wanted to challenge the adjudication determination in court, was significant because it meant that the defendant’s actions would not lead to a circumvention of the SOPA (at [60]). Tan J thus allowed the defendant’s application for a stay on the basis that it had established a triable issue in the form of a genuine cross-claim, the value of which exceeded the amount claimed in the statutory demand.Position in other jurisdictions 61 The issue of whether an ADJ debtor can resist winding-up proceedings which are founded on a judgment debt arising from an adjudication determination has also been explored in a number of foreign jurisdictions, albeit in the context of applications to set aside statutory demands (as opposed to applications to stay insolvency proceedings pending the determination of a cross-claim or a dispute against the judgment debt). We briefly consider some of the foreign authorities which are relevant for our purposes.The Australian position 62 In Diploma Construction (WA) Pty Ltd v KPA Architects Pty Ltd [2014] WASCA 91 (“Diploma”), the applicant debtor was issued with a statutory demand based on a judgment entered in the terms of two adjudication determinations under the Construction Contracts Act 2004 (Western Australia) (“WA CCA”). The applicant sought to aside the statutory demand on the basis that it had an offsetting claim against the petitioning creditor. The Supreme Court of Western Australia held that an adjudication determination under the WA CCA gave rise to debts which were “due and payable” and which, accordingly, could not be challenged in bankruptcy proceedings on the basis that there was a “genuine dispute” as to their validity (at [59] and [62]). However, the court held that where a debtor had “genuine” offsetting claims against the petitioning creditor “arising from transactions separate from those that gave rise to judgment debt based upon an adjudication under the [WA CCA]”, there was no doubt that the debtor could successfully apply to set aside the statutory demand (at [68]). As to the test for a “genuine” offsetting claim, the court held that this meant that the offsetting claim had to be “bona fide… [it could not be] “spurious, hypothetical, illusory or misconceived” (at [52]). 63 Diploma was subsequently affirmed and applied by the New South Wales Supreme Court (Equity Division) in Re Douglas Aerospace Pty Ltd [2015] NSWSC 167 (“Douglas”). In that case, Bereton J affirmed the Supreme Court of Western Australia’s holdings in Diploma, which he distilled to the following three propositions: (1) an argument - however genuine and strong - that the adjudicated amounts were not in truth as a matter of contractual right due and payable, cannot give rise to a genuine dispute as to the existence or amount of the resultant judgment debt; and (2)(a) while a statutory demand founded on such a judgment debt can be set aside or varied if the company can show that it has a genuine offsetting claim sounding in money, (b) a contention that the adjudicated amount is not in truth as a matter of right due and payable is not a genuine offsetting claim. …  Bereton J thus recognised that the existence of a “genuine” offsetting claim – being one that admitted the debt arising from the adjudication determination, but asserted that there was a countervailing liability – would justify the setting aside of a statutory demand (at [98]).   64 The principles in Diploma and Douglas were followed and further expounded upon by the New South Wales Supreme Court (Equity Division) in Re J Group Constructions Pty Ltd [2015] NSWSC 1607 (“J Group”). In that case, the applicant debtor sought to rely on several offsetting claims to set aside a statutory demand that was, as in Diploma and Douglas, founded on a judgment enforcing an adjudication determination. One of the issues before Robb J was how the court ought to treat some of the applicant’s offsetting claims which had already been considered and rejected by the adjudicator during the adjudication. Robb J held (at [168]) that the NSW SOPA only conferred temporary finality on the adjudicated amount – it did not “clothe the adjudicator’s reasoning with any finality that must be accepted by the court” [emphasis added]. Accordingly, “[t]he apparent determination by the adjudicator that [the debtor] was not entitled to succeed on its offsetting claims did not in any way bind [the] court on an application to set aside the statutory demand” (at [171]). On the facts, the applicant’s cross-claims were genuine, and that it was therefore permitted to rely on them to set the statutory demand aside. 65 J Group is notable for its, with respect, correct view that, allied to the concept of temporary finality and rough justice handed down within tight timelines, decisions by an adjudicator on the validity of cross-claims are not necessarily binding for all time nor on a court considering the merits of a winding-up petition.  66 It ought to be noted that in New South Wales, the test for determining whether a “genuine” offsetting claim exists is whether the court is satisfied that there is a serious question to be tried that a party has an offsetting claim, or that the claim is not frivolous or vexatious: see BBB Constructions Pty Ltd v Frankipile Australia Pty Ltd [2008] NSWSC 982 at [4]. The English position67 We now turn to consider the English authorities. In Shaw and another v MFP Foundations & Piling Ltd [2010] EWHC 9 (“Shaw”), the applicant debtor sought to rely on a cross-claim to set aside a statutory demand based upon an adjudication determination and ensuing judgment under the United Kingdom’s Housing Grants, Construction and Regeneration Act 1996 (“HGCRA”). The respondent argued that, in order to give effect to the HGCRA’s purpose of facilitating cash flow, the court ought to approach the application on the presumption that a debtor was not entitled to rely on a substantial and genuine cross-claim save where it would be oppressive to prevent him from so doing. Stephen Davies J rejected this approach and held (at [50]) that the HGCRA’s “pay now, argue later” philosophy did not displace the ordinary position under the corporate and personal insolvency regimes, under which the existence of a serious and genuine cross-claim could be relied upon to prevent a winding-up or bankruptcy petition from going forward. 68 Shaw has been followed in R & S Fire and Security Services Limited v Fire Defence plc [2013] EWHC 4222 at [13] and Cosmur Construction (London) Limited v St Lewis Design Limited [2016] EWHC 2678 at [5]. In the latter case, Christopher Nugee J defined a “genuine” offsetting claim as one that was “of substance” (citing In re Bayoil S.A. [1999] 1 WLR 147). Our analysis and the correct approach 69 Based on the discussion above, it is apparent that courts in Singapore, Australia and England have, to date, consistently adopted the position that an ADJ debtor can resist or stay winding-up proceedings by raising a genuine or bona fide cross-claim, notwithstanding that the debt underlying the winding-up petition is founded on an adjudication determination. Furthermore, at least in Australia, a cross-claim will ordinarily be regarded as “genuine” as long as it is not frivolous or vexatious. This appears to us to be similar in effect to the prima facie standard of review (coupled with the abuse of process control mechanism) that we have endorsed at [45] above. 70 However, it remains for us to determine whether this position, though seemingly accepted in practice, is justified in principle. Specifically, does such an approach satisfactorily reconcile the apparent tension between the policy of temporary finality, created by statute to address pressing ills besetting the construction industry, and the draconian consequences of a winding-up order based upon a sum that might ultimately be met or exceeded by a cross-claim or a final tribunal setting aside or amending or reducing the adjudication determination?  71 We stated above that the first key to reconciling this conflict is an appreciation of the true nature of temporary finality under SOPA (see [49] above). The second key is an examination of the true nature of the winding-up jurisdiction of the court. In this regard, it is apposite to refer to the following observations made by this Court in BNP Paribas (at [4]–[5]): (a) The power to wind-up a company on the petition of a creditor is clearly discretionary under s 253(1)(b) of the CA by the use of the word “may” in that provision: “[a] company may be wound up under an order of the Court on the application of any creditor, including a contingent or prospective creditor, of the company” [emphasis added]. (b) The court may order the winding-up of a company under s 254(1)(e) of the CA only if the latter is unable to pay its debts. (c) A creditor serving a statutory demand under s 254(2) of the CA utilises a statutory presumption to prove that the company is unable to pay its debts; that provision states that a company is deemed to be unable to pay its debts if such debt is more than S$10,000 and the company has for three weeks after service of the statutory notice neglected to pay the sum or to secure or compound for it to the reasonable satisfaction of the creditor. It cannot be clearer that this route involves the invocation of a presumption, which can be rebutted by proof to the contrary. 72 In BNP Paribas, there were disputes over foreign exchange contracts entered into by the respondent shipyard’s director and the appellant bank (“the Bank”). The losses on these contracts were, by agreement, closed out at approximately US$50m. Upon being served by a statutory demand by the appellant bank to pay that sum, the respondent shipyard offered to place in escrow sufficient funds to meet any judgment obtained by the appellant bank on its claim. The respondent shipyard applied for and was granted an injunction to enjoin the appellant bank from commencing any winding-up proceedings. This Court firmly held that the respondent shipyard was not insolvent and that this was confirmed by its offer to secure the claim. Where an offer to secure the debt had been made, the issue of substantiality or insubstantiality of the dispute fell by the wayside; it was no longer a consideration because the debtor was not unable to pay its debts (at [7]). In such circumstances, the filing of a winding-up petition would have amounted to an abuse of the court’s winding-up jurisdiction. The court further held (citing Mann v Goldstein [1968] 1 WLR 1091 at 1098–1099) that the Bank should have commenced court proceedings instead as it was settled law that the court’s winding-up jurisdiction was not to be used for the purpose of deciding a disputed debt. 73 This Court added in BNP Paribas that there were wider public policy considerations which had to be borne in mind when creditors threatened companies with winding-up petitions in circumstances where the claims or debts were not admitted, or where there were bona fide cross-claims equal to or exceeding the creditors’ claims. In support of this point, this Court referred to its earlier decision in Metalform where it observed (at [84]) that a creditor’s winding-up petition implies insolvency and is likely to damage the company’s creditworthiness or financial standing with its other creditors or customers (BNP Paribas at [17]). This Court further elaborated that a winding-up petition might trigger cross-default clauses in the company’s own financing instruments or in other companies within the same group as the company. At the end of the day, many other economic and social interests might be affected, such as those of the company’s employees, non-petitioning creditors, the company’s suppliers, customers and shareholders (BNP Paribas at [18]–[19]). As such, in cases where a company was temporarily insolvent, the winding-up court might adjourn the hearing of a winding-up application under s 257(1) of the CA to allow the company time to resolve the issues at hand, or order an injunction of limited duration to restrain a winding-up petition from being presented if irreparable harm could flow from its presentation (BNP Paribas at [20]). 74 In Pacific Recreation, this Court agreed with the appellant’s arguments that a winding-up petition was not an appropriate means of enforcing a disputed debt and that it would be an abuse of the process of court to allow a creditor to wind-up a company on a disputed debt (at [16]). This Court also agreed that a winding-up court was generally not in the best position to adjudicate on the merits of a commercial dispute without a proper ventilation of the evidential disputes through a trial. 75 Having set out the true nature of the winding-up jurisdiction of the court and the principles upon which that power is exercised, we next turn to the provisions of SOPA. 76 We have already examined the characteristics of an adjudication determination and the nature of its temporary finality (see [48]–[50] above). There have been numerous cases decided on the basis of the principles set out in the SOPA, the cardinal rule being that during the course of the construction project, interim payments have to be honoured and paid in order to preserve the claimant’s cash flow. If the claimant is not paid, it can suspend work (see s 26(1)(d) of the SOPA) or take a lien on goods supplied (see s 25(2)(d) of the SOPA). Moreover, if the respondent wants to set aside the adjudication determination on legal or technical grounds, it has to pay into court the adjudicated sum or the unpaid portion pending the challenge (see s 27(5) of the SOPA). The claimant can also seek enforcement by the entry of a judgment under s 27(1) of the SOPA, whereupon the usual execution processes like garnishee orders are available avenues to recover that debt. In such an event, the ADJ debtor is bound by the temporary finality of the adjudication determination and cannot dispute the debt, which must be paid.77 The ADJ creditor can also serve a statutory demand giving the ADJ debtor three weeks to pay the debt, failing which it may, as in this case, proceed to file a petition to wind-up the ADJ debtor. However, because the winding-up of a company is a draconian order to make, with, as acknowledged by the courts, wider economic and social ramifications (not least of all being the complete demise of the corporate entity in question), different considerations and rules come into play. As we have seen above, the courts will entertain an application for an injunction to restrain the ADJ creditor from commencing winding-up proceedings or, if the ADJ debtor is too late for that, the court will hear applications for a dismissal of the winding-up petition or a stay of the same. Needless to say, even if the winding-up application is stayed or dismissed, the other avenues to obtain satisfaction of the judgment debt still remain.78 Despite the court’s strong backing of the “pay now, dispute later” approach, a blind enforcement of ADs, whatever the facts of circumstances of a case may be, has never been the rule. In W Y Steel Construction, Sundaresh Menon CJ (delivering the judgment of this Court) said (at [61]–[62]):61     In Brodyn ([41] supra), the New South Wales Court of Appeal, after finding against Brodyn (the respondent to the payment claim in that case), noted that it was not left without recourse and identified the general principle of law on granting a stay of enforcement thus (at [85] per Hodgson JA):A court in which judgment for recovery of money has been given can stay execution of that judgment. A party against whom there was a substantial judgment could apply for a stay of execution on the grounds that it had a greater claim against the judgment creditor, for which it would shortly obtain judgment, and that, if the judgment money was paid, it would be irrecoverable; and the court could in its discretion grant a stay, on terms if it thought appropriate. I see no reason why a judgment under s 25 of the [NSW] Act could not be stayed on that kind of basis, although the policy of the [NSW] Act that progress payments be made would be a discretionary factor weighing against such relief.62     Section 25(4)(b) of the NSW Act is, for present purposes, similar to our s 27(5), and as a general proposition, we agree with the principle stated in the above passage from Brodyn that enforcement of an adjudication determination may be stayed in appropriate circumstances. Undoubtedly, the claimant who successfully secures an adjudication determination in his favour has a right to be paid, but there is a competing residual right on the part of the respondent to have his claims ventilated in full in court or in some other dispute resolution proceeding.[emphasis in original in italics; emphasis added in bold italics] We accept that cases in which the enforcement of an adjudication determination is stayed are the exception and not the rule. 79 Once a project has commenced, the interim payment regime kicks in. The primary source for the interim payment procedure and obligations will be the contract (see Shimizu Corp v Stargood Construction Pte Ltd [2020] 1 SLR 1338 at [2]). Where the contract is deficient or silent, the provisions of the SOPA, like ss 5–8 and ss 10–12, will apply subject to the terms of the contract. In the great majority of cases, whilst the project is on-going, interim payments are made and if necessary, enforced through adjudication applications, leading to adjudication determinations. Often, the upstream party makes payment in the interest of getting on with the project. The upstream party can, if it thinks it has the grounds to do so, challenge the adjudication determination in court proceedings on legal or technical grounds, whereupon the whole adjudication determination may be set aside, but until then it cannot dispute the amount stated in the adjudication determination. If the contract allows a party to commence arbitral proceedings before the end of the project, it may be possible for that party to issue a notice of arbitration to challenge the adjudication determination, but it will have to pay the adjudicated sum first.     80 The first exception to this rule has been referred to above, where the ADJ debtor applies to court to set aside or annul the adjudication determination on legal or technical grounds under s 27(6) of the SOPA. As noted above, whilst it does so, it has to pay the adjudicated sum into court (see s 27(5) of the SOPA). Not many succeed on the grounds set out under s 27(6) of the SOPA as case law has gradually ironed out the uncertainties caused by rival interpretations of those provisions. If the adjudication determination has been set aside, it follows there is no more debt arising from the adjudication determination.  81 The second exception occurs after the construction project has come to an end or has been terminated. In this regard, it is worth reiterating this Court’s remarks in Orion-One at [53] (which we have referred to earlier at [49] above) that the parties’ rights and obligations will be conclusively determined after the termination of the contract: It is trite that an adjudication determination has only temporary finality. This makes sense in the context of the SOPA regime, which ordinarily operates while a project is underway and the contractor requires payment on a more expedited basis. Indeed, we have observed that the temporary finality conferred on an adjudication determination is a corollary of the expedited nature of its process (see [W Y Steel Construction] at [22]). At the end of the day, however, the parties’ rights and obligations are conclusively and finally determined in substantive proceedings conducted after the project has been completed… 82 We note that downstream parties are allowed to make a payment claim not later than 30 months after (a) the date on which the goods and services to which the amount in the payment claim relates were last supplied; or (b) the latest of the following: (i) the date on which the construction work to which the amount in the payment claims relates was last carried out, (ii) the issuance date of the last document, as at the time the payment claim is served, certifying completion of the construction work under contract, or (iii) the issuance date of the last temporary occupation permit as at the time the payment claim is served (see s 10(2)(b) of the SOPA). Often, however, one of the parties has already commenced arbitration or court proceedings to finally determine and resolve all issues between the parties well before that date. Once this process has been started, parties should be encouraged to conduct a cost-benefit analysis prior to pursuing the adjudication route when the disputes are already subject to a pending arbitration: see Orion-One at [4]. In that case, Steven Chong JCA (delivering the judgment of this Court) also remarked on the futility of applying for an adjudication of a payment claim more than two years following the termination of the contract, as the adjudication determination, by its nature, was not final and was in fact subject to a pending arbitration. If, on a prima facie standard, there are genuine cross-claims or set-offs before the arbitral tribunal or court, no court will proceed to grant the winding up petition. An almost similar situation occurs where the upstream party is about to commence an arbitration or legal proceedings to finally determine all the disputes between the parties. Failing to carry out a careful cost-benefit analysis “would only serve to introduce a further layer of costs with no apparent benefit.” (Orion-One at [4]) and we add that there may be cost consequences in appropriate cases.            83 In our view, applying the prima facie standard of review represents a practical and workable solution to the apparent opposing considerations of the winding-up jurisdiction of the court and the temporary finality of adjudication determinations, in situations where an ADJ debtor raises a cross-claim against the ADJ creditor in order to challenge a winding-up petition founded on the adjudication debt. On one hand, reviewing the cross-claim in accordance with a lower prima facie standard acknowledges the reality that the adjudication determination will, in all likelihood, be ‘opened up’ when the contract between the parties is coming or has come to an end or  has been terminated. On the other hand, the requirement that the cross-claim or dispute (as the case may be) cannot constitute an abuse of the court’s process provides a useful check on parties trying to game the system. We have no doubt that courts will be able to sift out disputes or cross-claims that are raised merely to delay winding up those companies which, despite raising such disputes or cross-claims, are hopelessly insolvent. Thus, save for the fact that an ADJ debtor cannot dispute the adjudication determination as a ground for staying or setting aside a winding-up petition founded on that adjudication determination, there is no need to modify the general approach which we have endorsed at [45] above in building and construction cases like the present. In so far as cross-claims are concerned, the general approach continues to work well when we consider the true nature of the temporary finality under SOPA, and bear in mind that the jurisdiction of the winding-up court is not to decide cross-claims or set offs. 84 For completeness, we state our view that we do not think that the parliamentary debates for the SOP Bill which were referred to in Lim Poh Yeoh (see [56] above) and Strategic Construction (see [59] above) go so far as to imply that the insolvency regime will inevitably prevail over the SOPA regime in the event of any conflict between the two. We also think it unnecessary, for present purposes, to determine whether any one regime takes precedence over the other, because the approach that we have outlined above satisfactorily reconciles the apparent tensions between the two. Whether ZK has a cross-claim against DGE which justifies the stay or dismissal of CWU 9585 Having determined the approach that is to be taken towards winding-up applications that are founded on adjudication determinations, we turn to assess the evidence placed before us. To recapitulate, ZK’s cross-claim in the Consolidated Suit encompasses the following demands (see [17]–[18] above):(a) liquidated damages amounting to S$501,800 for DGE’s alleged delay in completing the Subcontract Work; and (b) damages amounting to S$358,870.25 for work allegedly done to rectify work that was not properly carried out or not completed by DGE.86 In support of the latter claim, ZK exhibited numerous invoices
+                   37
+
+
+
+
+Foot Note 37
+
+×
+
+
+
+  ROA Vol IIIG at pp 14–295. 
+
+
+
+  purportedly evidencing the costs which it had incurred as a result of having to source and engage substitute sub-contractors to carry out and complete the Subcontract Works which were not properly carried out or abandoned by the defendant. 87 DGE contended that ZK’s cross-claim was not genuine and did not meet the “triable issue” standard (which, DGE argued, was the relevant standard of review) for the following reasons: (a) ZK had not sufficiently particularised its claims in the Statement of Claim for the Consolidated Suit.
+                   38
+
+
+
+
+Foot Note 38
+
+×
+
+
+
+  Appellant’s Case at para 45.
+
+
+
+(b) Both of ZK’s claims were predicated on the assertion that DGE had repudiated the Subcontract by abandoning the Subcontract Works from 6 June 2018. However, there was no repudiatory breach on DGE’s part since DGE had lawfully terminated the Subcontract of 5 June 2018 by virtue of ZK’s repudiatory breach.
+                   39
+
+
+
+
+Foot Note 39
+
+×
+
+
+
+  Appellant’s Case at para 37.
+
+
+
+ (c) In respect of ZK’s claim for delay, it was primarily ZK’s own changes to the design and material specifications of the Project which had resulted in delays to the completion of the Subcontract Works. Furthermore, the computation of the sum of S$501,800 was based on cl 6 of the Subcontract, which was an unenforceable penalty clause.
+                   40
+
+
+
+
+Foot Note 40
+
+×
+
+
+
+  Appellant’s Case at paras 38–39.
+
+
+
+(d) ZK’s claim for defective and incomplete Subcontract Works was arbitrary and unsupported by the exhibited invoices. These invoices “reflect[ed] work which could not have been attributed to DGE at all”. They were also “sent belatedly and obviously contrived”.
+                   41
+
+
+
+
+Foot Note 41
+
+×
+
+
+
+  Appellant’s Case at para 40. 
+
+
+
+88 Before we turn to examine these arguments, we reiterate once again that our views are not to be taken as findings of fact in any way and shall not bind the trial judge in the Consolidated Suit. Whilst we may refer to various emails or letters, these will no doubt be supplemented at trial by more complete documentation and/or oral evidence. Furthermore, our comments or views must be seen in the context of the applicable standard of proof, which as stated above, is the prima facie standard. ZK need only adduce sufficient evidence to meet that standard in order to justify the granting of a stay of a winding up petition. 89 In our judgment, ZK has clearly met the required prima facie standard to resist a winding-up order being made. In fact, we would say that on the evidence put before us, ZK has satisfied the triable issues test, if indeed that was the standard to be adopted. We elaborate on the reasons for this conclusion below.90 DGE’s first contention was that ZK had not sufficiently particularised (a) the terms and/or specifications of the Subcontract which were allegedly breached by DGE; (b) the details of how or why DGE had failed to meet its contractual obligations under the Subcontract; and (c) when and how the alleged particulars of loss were incurred as a result of DGE’s breaches of the Subcontract.91 We do not find these submissions at all persuasive. In our judgment, the Statement of Claim adequately sets out the necessary elements of ZK’s action in breach of contract against DGE. DGE’s criticism that the Statement of Claim was lacking in particulars as to the specific term(s) of the Subcontract which had been breached by DGE is unfounded. The seven-page Subcontract with its 12 main clauses and annexures is not an overly complex contractual document. The provisions which support ZK’s claim are pleaded. Consequently, DGE can be in no doubt of the alleged breaches which ZK relies upon to support its claims against DGE. For instance, paragraph 10 clearly states DGE failed, refused and/or neglected to carry out the Subcontract Works satisfactorily and in accordance with the specifications and/or the requirement of the CAAS and/or the main contract, with the result that the Subcontract Works were delayed and not carried out in time and/or within the Master Schedule or any revision thereto.
+                   42
+
+
+
+
+Foot Note 42
+
+×
+
+
+
+  ROA Vol II at p 65.
+
+
+
+ Paragraph 11 further pleads that sometime in early June 2018, DGE abandoned and/or deserted the balance of the Subcontract works, leaving such works incomplete and/or with poor workmanship and/or with defects unrectified. This is followed by a list of particulars setting out, inter alia, the types of additional costs and expenses which ZK has had to incur as a result of DGE’s abandonment of the Subcontract Works.
+                   43
+
+
+
+
+Foot Note 43
+
+×
+
+
+
+  ROA Vol II at pp 65–66.
+
+
+
+ 92 DGE might complain that, for example, there are no particulars as to exactly what works were left incomplete or exactly what works were defective and in what respect they were defective. However, the remedy is simple. As we highlighted to DGE during the hearing, the appropriate course of action would have been for DGE to ask ZK for further and better particulars, failing which they would have been entitled to take out an application for further and better particulars under O 18 r 12(3) of the ROC. Such particulars are often dealt with during case management conferences and it is standard fare for an order to be made for the parties to draw up appropriate Scott Schedules. Having failed to adopt this course of action, DGE cannot now rely upon the absence of particulars in ZK’s claim as a basis for justifying the refusal of a stay. 93 We also add that the sums claimed by ZK are, in our view, clearly quantified. It is apparent from the Statement of Claim that the claim for S$501,800 is premised on the rates set out under cl 6 of the Subcontract (see paragraph 19 of the Statement of Claim), and that the claim for S$380,870.25 is derived by adding up the additional costs and expenses which ZK allegedly incurred in engaging substitute sub-contractors to rectify or complete the Subcontract Works (see paragraph 14 of the Statement of Claim). Details of such claims will become clear during discovery. 94 DGE’s second contention was that ZK had refused to pay DGE for the Subcontract Works in full and that it had thereby renounced the Subcontract pursuant to Situation 2 in RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd and another appeal [2007] 4 SLR(R) 413. Consequently, DGE argued, there was no basis for ZK’s claim that DGE had repudiated the Subcontract by walking off the Project site and not sending workmen to the site after 6 June 2018. In response to this argument, ZK averred that there were no payments lawfully due and owing to DGE, as DGE had “cause[d] delays and defective works in the course of carrying out the Subcontract Works”.
+                   44
+
+
+
+
+Foot Note 44
+
+×
+
+
+
+  ROA Vol II at p 104. 
+
+
+
+ 95 These kinds of allegations and counter-allegations are not uncommon in construction contracts of this nature. However, this is not the correct forum to finally determine the rights and wrongs of either party. That is the function of the trial judge in the Consolidated Suit. We need only look at the objective facts to decide if there is a prima facie case that DGE’s cross-claim may exceed ZK’s claim comprised in its AD and the ensuing s 27(1) SOPA Judgment.96 As noted at [6] above, the contract completion dates for Phases 1 and 2A of the Subcontract were 31 July 2017 and 20 February 2017 respectively. ZK’s primary contention, which it has maintained throughout these proceedings, is that DGE walked off site and did not send any workers from 6 June 2018. Importantly, DGE does not deny this as a fact, but alleges that its conduct was justified because of ZK’s repudiation of the contract by non-payment. As a proposition of building and construction law, that is not necessarily correct. There may be instances in which a persistent course of payment delays, or a protracted delay in the payment of a very substantial sum amounts to a repudiation of the contract: see for example AL Stainless Industries Pte Ltd v Wei Sin Construction Pte Ltd [2001] SGHC 243 at [194], citing Chow Kok Fong, Law and Practice of Construction Contract Claims (Longman, 2nd ed, 1993) at p 264. However, not every instance of non-payment by a contracting party will suffice to constitute repudiation. This was made clear in Jia Min Building Construction Pte Ltd v Ann Lee Pte Ltd [2004] 3 SLR(R) 288 (“Jia Min”) at [55], where the court stated, citing Lubenham Fidelities and Investments Co Ltd v South Pembrokeshire District Council (1986) 33 BLR 46: “[i]t appears settled law that a contractor/subcontractor has no general right at common law to suspend work unless this is expressly agreed  upon. This is so even if payment is wrongly withheld”. The court also cited Halsbury’s Law of Singapore, vol 2 (LexisNexis Singapore, 2003 Reissue) at para 30.321, Keating on Building Contracts (Sweet & Maxwell, 7th ed, 2001) at para 6-96 and Hudson’s Building and Engineering Contracts, vol 1 (Sweet & Maxwell, 11th ed, 1995) at para 4-223 for the same principle. The rationale for this, the court explained, was that “the existence of such a right [to suspend work upon the other party’s failure to make payment] could create chaos within the building industry if contractors were to muscle their way through disputes with threats or actual threats or suspension instead of having their disputes adjudicated” (at [57]). 97 Another relevant consideration is that ZK advanced various sums of money to DGE to support DGE’s purchase of material and to pay staff and workers (see [9] above). These advances are also alluded to at paragraph 146 of the AD.
+                   45
+
+
+
+
+Foot Note 45
+
+×
+
+
+
+  ROA Vol IIIB at p 170.
+
+
+
+ On the evidence before us, we cannot rule out the possibility that some of the sums that were allegedly due to DGE were liable to be offset by these advance payments. 98 DGE’s third contention was that there was no basis for ZK’s claim for delay. In our view, on the prima facie standard of review, the documents before us do support the inference that there were delays on DGE’s part. We have referred to ZK’s emails and one letter from the SO noting delays by DGE (see [9] above), as well as ZK’s emails and letters complaining of the lack of DGE workers on site (see [11] above). Moreover, we see that DGE did acknowledge that there had been delays to the completion of the Subcontract Works. Its primary defence was that these delays had been occasioned by ZK’s own failure to obtain approval from the relevant authorities and that ZK had in any event “agreed by conduct, if not expressly”, to the extensions of time sought by DGE.
+                   46
+
+
+
+
+Foot Note 46
+
+×
+
+
+
+  ROA Vol IIIE at pp 131–132.
+
+
+
+ However, there was no evidence of any such agreement save for a series of correspondence between the parties ostensibly showing that, despite DGE’s reminders, ZK had not sought approval from the Building and Construction Authority for DGE to carry out certain works.
+                   47
+
+
+
+
+Foot Note 47
+
+×
+
+
+
+  ROA Vol IIIE at pp 132, 209 and 212–214. 
+
+
+
+ Even if we accept that these letters support DGE’s claims, we do not think that it can be conclusively determined, based on this single instance, that DGE cannot be held liable for any delay on its part. 99 The Subcontract clearly sets out the rates of liquidated damages for delays on DGE’s part. We do not, without more, see that such provisions or rates are penalties and therefore unenforceable, as alleged by DGE. Liquidated damages clauses are commonly found in building and construction contracts.100 Turning to DGE’s fourth contention regarding the invoices produced by ZK in support of its claim for defective and/or incomplete works, there is nothing to show that the invoices were obviously inauthentic, and DGE did not offer any evidence to substantiate its claims in this regard. It is also apparent to us that at least some of these invoices related specifically to cladding and glass-related works for the Project, which originally fell within the scope of DGE’s contractual obligations.
+                   48
+
+
+
+
+Foot Note 48
+
+×
+
+
+
+  ROA Vol IIIG at p 246.
+
+
+
+101 On the other hand, we note that ZK’s case, as well as the sums claimed by ZK, fluctuated several times during the course of the proceedings between the parties. Prior to commencing court proceedings against DGE, ZK had asserted, in its letter to DGE dated 30 June 2018, that there had been delays on DGE’s part, and that some of the Subcontract Works were defective and incomplete. In respect of the latter, ZK claimed “costs incurred on site” aggregating S$42,623.50.
+                   49
+
+
+
+
+Foot Note 49
+
+×
+
+
+
+  ROA Vol IIIE at pp 108–109.
+
+
+
+ However, in its Statement of Claim for S917 dated 14 September 2019, ZK claimed S$317,559.90. That sum was, rather inappropriately, stated to be for “goods sold and delivered and services rendered to [DGE] at [DGE’s] requests” (see [13] above).
+                   50
+
+
+
+
+Foot Note 50
+
+×
+
+
+
+  ROA Vol II at p 12. 
+
+
+
+ In its payment response for the adjudication submitted two days later, on 16 September 2019, ZK again appeared to change its story – this time, it raised issues pertaining to incomplete and defective works, but failed to mention any delay on DGE’s part.
+                   51
+
+
+
+
+Foot Note 51
+
+×
+
+
+
+  ROA Vol IIIB at pp 91–95. 
+
+
+
+ 102 In our view, the discrepancies in ZK’s case do not mean that its cross-claim against DGE fails to meet the prima facie standard of review. As we commented at [13] above, notwithstanding the strange formulation of the Statement of Claim in S 917, the particulars that were pleaded therein show the  nature of ZK’s claim. ZK had changed solicitors before filing S 1282, and it was therefore only in the Statement of Claim for S 1282 and the Consolidated Suit that ZK’s claims crystallised into their current and more coherent form.103 The correspondence between the parties also gives us reason to believe that ZK’s cross-claim is bona fide. As noted at [11(a)] above, DGE had sent ZK an ultimatum on 30 May 2018, demanding payment of S$149,436.99 by 12pm on 5 June 2018 failing which it would treat the Subcontract as terminated. DGE subsequently withdrew its workmen from site from 6 June 2018 onwards. Although there was some grandstanding between the parties, DGE did not send any more workmen to the site and on 30 June 2018, ZK sent a letter to DGE, stating that since DGE had not deployed manpower on site since 6 June 2018 and its works were defective and incomplete, ZK would mobilise third parties to complete the remaining and defective works and hold DGE responsible for all consequences (see [11(d)] above). That letter could evince ZK’s acceptance of DGE’s repudiation or termination of the Subcontract as expressed in DGE’s email dated 30 May 2018. It is also significant that the key facets of ZK’s claim – comprising delay on DGE’s part, as well as incomplete and defective Subcontract Works – were raised as early as 30 June 2018, well before DGE served PC 17 on ZK, some 14 months later, on 28 August 2019. In the circumstances, we find that, contrary to DGE’s assertions, there was nothing to show that ZK’s cross-claims were conjured up simply to stave off the winding-up petition. ZK’s failure to mention DGE’s alleged delay in its payment response, as well as its unsubstantiated claim for “goods sold and delivered” in the Statement of Claim for S 917, is only a factor to be taken into account.104 We emphasise that we do not intend, by our decision above, to suggest that ZK’s cross-claim is likely to succeed. Some or all of ZK’s claims may well fail or be reduced in quantum. However, given the evidence that is before us, ZK has satisfied the prima facie standard of proof to be entitled to a stay. In fact, as noted above, if the standard was that of a triable issue, ZK has met that higher standard. Whether ZK eventually succeeds or fails is a matter to be determined in the Consolidated Suit. Conditions of stay 105 It was argued by DGE that, even if this Court were to grant a stay of CWU 95, it ought to do so only on the condition that ZK paid the Judgment Debt of S$211,044 into court as security pending the outcome of the Consolidated Suit.106 Two reasons were proffered for this contention. The first was that, pursuant to s 27(5) of the SOPA read with O 95 r 3 of the ROC, a party seeking to set aside an adjudication determination made under the SOPA had to pay the outstanding portion of the adjudicated amount into court as security. According to DGE, since the Consolidated Suit was, in effect, commenced by ZK to challenge the AD, granting an unconditional stay of CWU 95 would “defeat the legislative intent of SOPA and render the adjudication determination nugatory”.
+                   52
+
+
+
+
+Foot Note 52
+
+×
+
+
+
+  Appellant’s Skeletal Submissions at para 17.
+
+
+
+107 DGE also asserted that ZK might be at risk of insolvency given that the value of the Judgment Debt was S$211,044 and ZK had a paid-up capital of only S$300,000. Thus, “given time, it would be possible for ZK to clear its other liabilities and close down, therefore totally abandoning its responsibility to pay [the Judgment Debt] to DGE”.
+                   53
+
+
+
+
+Foot Note 53
+
+×
+
+
+
+  Appellant’s Case at para 27. 
+
+
+
+ Power to order conditional stay 108 In considering the court’s powers to impose conditions on a stay of a winding-up petition, we need to consider s 257(2)(f) of the CA, which was the provision in force when SUM 1577 was filed. This provision states: Powers of Court on hearing winding up application257.—(2)  The Court may on the winding up application coming on for hearing or at any time on the application of the person making the winding up application, the company, or any person who has given notice that he intends to appear on the hearing of the winding up application —…(f) give such directions as to the proceedings as the Court thinks fit.[emphasis added]It cannot be made more plain by the words italicised above that the court’s discretion as to what directions it may give in relation to a winding-up proceeding is very wide, viz. as the court “thinks fit.” Indeed, our courts have previously stayed winding up proceedings on condition that the sum of the debt claimed in the statutory demand be paid into court: see for example Strategic Construction at [62].  109 We note that this position is also consistent with that expressed in the bankruptcy regime: see Mohd Zain bin Abdullah v Chimbusco International Petroleum (Singapore) Pte Ltd and another appeal [2014] 2 SLR 446 (“Mohd Zain”) at [18], where this Court held that it was empowered to impose conditions on a stay of bankruptcy proceedings pursuant to ss 64(1), 65(4) and 65(5) of the Bankruptcy Act (Cap 20, 2009 Rev Ed). Whether a conditional stay ought to be granted110 Under s 27(5) of the SOPA, an ADJ debtor who applies to court to set aside an adjudication determination or the judgment obtained for its enforcement pursuant to s 27(1) of the SOPA must pay into court the unpaid portion of the adjudicated amount as security. However, we do not think it appropriate to lay down a general rule that parties in the position of ZK should pay the adjudicated amounts into court pending the resolution of the arbitral  tribunal or the court. 111 There may be circumstances which make this a just condition, yet there may be other circumstances where making such an order would be unjust. One example of the latter type of situation is where the project is at an end or in the defects liability phase or has been terminated, and the downstream party launches its payment claim which is, in effect, its final accounts for the project. Many adjudicators dread this scenario where they are under tremendous pressure to decide the final accounts of a project within the time strictures of SOPA, as this task is well-nigh impossible except in the simplest construction contracts. In such cases, the adjudicator’s endeavour to achieve rough and ready justice may produce an erroneous adjudication determination which may be very large in value. To make an ADJ debtor pay this sum into court may cause great financial stress; it can result in tying up large sums of money whilst the matter is arbitrated or litigated.112 Turning to the facts of this case, we take the view that it is appropriate to require ZK to pay the sum of the Judgment Debt into court. We have borne in mind ZK’s lack of a response to DGE’s payment claim, the strange pleadings in S 917, the failure to state a total response amount and the varying amounts of ZK’s alleged cross-claims. Some of these factors were ameliorated by the filing of S 1282 and the Consolidated Suit which placed ZK’s cross-claim on a more secure footing. We also note that the Judgment Debt was not inordinately high or crippling. Although we are of the view that the evidence before us more than meets the prima facie test, we consider it just to order ZK to pay the ADJ sum into court on the analogy of s 27(5) of the SOPA.  Upon ZK paying the sum of the Judgment Debt into court, there can be no justification to presume that ZK is insolvent on the basis that it is unable to pay its debts (see BNP Paribas at [7], cited at [72] above). 113 For completeness, we clarify that we do not see any merit in DGE’s submission that ZK is at real risk of insolvency as DGE did not offer anything, apart from bare assertions, to support this claim. Clearly, the fact that ZK had a paid-up capital of S$300,000 does not in itself demonstrate that ZK did not have enough assets to discharge its liabilities. On the contrary, ZK’s balance sheet as at 30 September 2019 shows that its total assets of S$3,156,585.31 far exceeded its total liabilities of S$356,334.17.
+                   54
+
+
+
+
+Foot Note 54
+
+×
+
+
+
+  Appellant’s Core Bundle Vol IIH at p 13. 
+
+
+
+ Further, there was no evidence before us that any creditors aside from DGE had taken out winding-up applications against ZK. We thus find that this particular contention is not an appropriate reason to grant a conditional stay in the present case.   Conclusion114 For the reasons set out above, we varied the High Court’s decision and upheld the stay only on the condition that ZK paid the sum of S$211,044 into court within 14 days from the date of the hearing before us. As an alternative to payment into court, we allowed parties to agree on any other form of security, failing which the first order of payment into court would stand. Tay Yong KwangJustice of the Court of AppealWoo Bih LiJudge of the Appellate Division Quentin LohJudge of the Appellate DivisionLuo Ling Ling and Sharifah Nabilah binte Syed Omar (Luo Ling Ling LLC) for the appellant;Kris Chew Yee Fong and Isabel Su Hongling (Zenith Law Corporation) for the respondent.

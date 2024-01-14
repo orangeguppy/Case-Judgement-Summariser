@@ -1,0 +1,2082 @@
+
+In the GENERAL DIVISION OF THE high court of the republic of singapore[2021] SGHC 169Magistrate’s Appeal No 9689 of 2020/01BetweenPublic Prosecutor… Appellant AndOskar Song Hauming… RespondentMagistrate’s Appeal No 9689 of 2020/02BetweenOskar Song Hauming… Appellant AndPublic Prosecutor… Respondentjudgment[Criminal Procedure and Sentencing] — [Sentencing] — [Availability of community orders or community sentences] — [If an accused person is convicted of a charge amalgamated under s 124(4) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) (“the CPC”), and by virtue of s 124(8)(a)(ii) of the CPC, may be sentenced to imprisonment for a term which exceeds three years, is the court statutorily precluded under s 337(1)(i) of the CPC from imposing community sentences under Part XVII of the CPC?] —[Meaning of the word “offence” in s 337(1)(i) of the CPC] — [Does the word “offence” in s 337(1)(i) of the CPC refer to the amalgamated offence under s 124(4) of the CPC, or the underlying base offences which are amalgamated under s 124(4)?][Criminal Procedure and Sentencing] — [Charge] — [Purpose of framing an amalgamated charge under s 124(4) of the CPC] — [Is the device of amalgamation under s 124(4) of the CPC purely procedural in nature or does it have substantive implications?][Criminal Procedure and Sentencing] — [Sentencing] — [Mentally disordered offenders] — [When is the sentencing consideration of deterrence displaced by rehabilitation in respect of credit card cheating offences under s 417 of the Penal Code (Cap 224, 2008 Rev Ed)?]This judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in LawNet and/or the Singapore Law Reports.Public ProsecutorvSong Hauming Oskar and another appeal[2021] SGHC 169General Division of the High Court — Magistrate’s Appeal No 9689 of 2020/01; Magistrate’s Appeal No 9689 of 2020/02Vincent Hoong J28 April 20215 July 2021 Judgment reserved.Vincent Hoong J:1 Section 337(1)(i) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) (“the CPC”) precludes persons convicted of offences punishable with a term of imprisonment exceeding three years from the regime of community sentences in Part XVII of the CPC. Normally, the maximum term of imprisonment is readily found in the offence’s punishment provision. However, the cross-appeal before me involves a charge amalgamated under s 124(4) of the CPC. Section 124(8)(a)(ii) of the CPC provides that for such amalgamated charges, the court may sentence the accused to twice the punishment which the accused would have been liable to (“the Maximum Enhanced Sentence”) for the offences being amalgamated (“the base offence”). Among other issues, this cross-appeal raises a novel question of whether the three-year imprisonment threshold in s 337(1)(i) of the CPC takes reference from the maximum term of imprisonment in the base offence only, or the Maximum Enhanced Sentence of the amalgamated charge. Facts2 At the material time, the accused was a Digital Marketing Manager at AAM Advisory (“the Company”). The complainant was the Chief Executive Officer of the Company. The complainant is the rightful holder of the Diners Club credit card (“the Diners Card”) involved in the offences committed by the accused.
+                   1
+
+
+
+
+Foot Note 1
+
+×
+
+
+
+  Statement of Facts (“SOF”) at [1]–[2]; Record of Proceedings (“ROP”) at p 14.
+
+
+
+ 3 Sometime in May 2019, the accused chanced upon the Diners Card on the floor of a meeting room in the Company’s office. He dishonestly misappropriated the Diners Card despite knowing that it belonged to the complainant.
+                   2
+
+
+
+
+Foot Note 2
+
+×
+
+
+
+  SOF at [5]; ROP at p 14. 
+
+
+
+ This forms the basis of the s 403 Penal Code (Cap 224, 2008 Rev Ed) offence (vide DAC-919389-2019, “the Dishonest Misappropriation Charge”).
+                   3
+
+
+
+
+Foot Note 3
+
+×
+
+
+
+  SOF at [6]; ROP at p 15.
+
+
+
+4 Subsequently, from 4 May 2019 to 27 June 2019, the accused used the Diners Card to make purchases for himself, his wife and his family members. He presented the Diners Club to employees working at various sales outlets on 103 occasions (see column 2 in Annex 1 below) (“the Employees”) to pay for the items set out in column 3 of Annex 1 (“the Items”).
+                   4
+
+
+
+
+Foot Note 4
+
+×
+
+
+
+  SOF at [7]–[8]; ROP at p 15; Charge sheet for DAC-919390-2019; ROP at p 7.
+
+
+
+ By doing so, the accused deceived the Employees into believing that he was the rightful holder of the Diners Card and induced the Employees to accept the Diners Card as payment for the Items.
+                   5
+
+
+
+
+Foot Note 5
+
+×
+
+
+
+  SOF at [8]; ROP at p 15.
+
+
+
+ The Prosecution framed an amalgamated charge under s 124(4) of the CPC to reflect these 103 occasions on which the accused used the Diners Card to cheat the Employees (vide DAC-919390-2019, “the Amalgamated Cheating Charge”).
+                   6
+
+
+
+
+Foot Note 6
+
+×
+
+
+
+  SOF at [8]; ROP at p 15; Charge sheet for DAC-919390-2019; ROP at p 7.
+
+
+
+ The Items have a total value of $20,642.48.
+                   7
+
+
+
+
+Foot Note 7
+
+×
+
+
+
+  SOF at [8]–[9]; ROP at p 15.
+
+
+
+ 5 For ease of reference, I reproduce the Amalgamated Cheating Charge:
+                   8
+
+
+
+
+Foot Note 8
+
+×
+
+
+
+  Charge sheet for DAC-919390-2019; ROP at p 7.
+
+
+
+ You, Oskar Song Hauming, are charged, in this amalgamated charge under section 124(4) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed), that you, on not less than 103 occasions between 4 May 2019 and 27 June 2019, in Singapore, did embark on a course of conduct of cheating employees working at the sales outlets set out in column 2 of the Annex (the “Employees”) by presenting one Diners Club credit card … (the “Diner’s Club card”) in the name of Dabbs Mathew Edward, to the Employees as payment for the items set out in column 3 of the Annex (the “Items”) a total value of S$20,642.48 in order to deceive the Employees to believe that you were the rightful holder of the Diner’s Club card, and by such manner of deception, you dishonestly induced the Employees to accept the Diner’s Club card as payment for the Items and to deliver them to you, and you have thereby committed an offence punishable under section 417 of the Penal Code (Cap 224, 2008 Rev Ed).6 In the court below, the accused pleaded guilty to the Dishonest Misappropriation Charge and Amalgamated Cheating Charge. Two additional charges, an amalgamated cheating charge and an amalgamated attempted cheating charge, were taken-into-consideration for the purposes of sentencing (“the TIC Cheating Charges”). The base offences of the TIC Cheating Charges are s 417 and s 417 read with s 511 of the Penal Code respectively. The TIC Cheating Charges involve the accused using the same Diners Card on not less than 26 occasions from May–June 2019 to purchase items totalling $2,234.17 and attempt to purchase items totalling $42.20.
+                   9
+
+
+
+
+Foot Note 9
+
+×
+
+
+
+  ROP at pp 23–27.
+
+
+
+ The District Judge (“DJ”) sentenced the accused to a community sentence comprising a short detention order (“SDO”) of ten days and a mandatory treatment order (“MTO”) for 24 months.
+                   10
+
+
+
+
+Foot Note 10
+
+×
+
+
+
+  GD at [129]; ROP at p 109.
+
+
+
+ The DJ’s grounds of decision may be found in Public Prosecutor v Oskar Song Hauming [2020] SGDC 181 (“GD”).7 The Prosecution filed an appeal on the grounds that the DJ erred in law by ruling that s 337(1)(i) of the CPC did not preclude the imposition of community orders in respect of the Amalgamated Cheating Charge given that the offence therein is punishable with a term of imprisonment which exceeds three years by virtue of s 124(8)(a)(ii) of the CPC. Further, given that community orders are unavailable as a sentencing option, the DJ erred in law and in fact in concluding that a custodial sentence of imprisonment was not warranted.
+                   11
+
+
+
+
+Foot Note 11
+
+×
+
+
+
+  Public Prosecutor’s Petition of Appeal of 11 September 2020; ROP at pp 32–33.
+
+
+
+8 The accused subsequently filed a cross-appeal against the SDO on the grounds that its imposition is “wrong in law and in fact and is manifestly excessive”.
+                   12
+
+
+
+
+Foot Note 12
+
+×
+
+
+
+  Accused’s Petition of Appeal of 7 September 2020; ROP at p 37.
+
+
+
+ He takes the view that the global sentence should only comprise the MTO.
+                   13
+
+
+
+
+Foot Note 13
+
+×
+
+
+
+  Accused’s Skeletal Arguments of 5 January 2021 (“ASA”) at [21].
+
+
+
+Decision below9 The DJ identified four issues for determination: (a) What was the nature and severity of the accused’s mental disorder and the impact of the disorder on the commission of the offences? (b) What were the relevant sentencing considerations on the facts of this case?(c) Were community orders statutorily available as a sentencing option?(d) Were community orders the appropriate sentence in the circumstances of this case?10 In relation to the first issue set out at [9(a)] above, Dr Lionel Lim Chee Chong (“Dr Lim”), a psychiatrist in private practice, and Dr Jerome Goh Hern Yee (“Dr Goh”), a forensic psychiatrist from the Institute of Mental Health (“IMH”) tendered two psychiatric reports each.
+                   14
+
+
+
+
+Foot Note 14
+
+×
+
+
+
+  GD at [19]; ROP at p 61; Dr Lim’s 1st Report of 23 October 2019 (“Dr Lim’s 1st Report”); ROP p 468; Dr Lim’s 2nd Report of 23 October 2019 (“Dr Lim’s 2nd Report”); ROP at p 555; Dr Goh’s 1st Report of 3 March 2020 (“Dr Goh’s 1st Report”); ROP at p 489; Dr Goh’s 2nd Report of 30 April 2020 (“Dr Goh’s 2nd Report”); ROP at p 629.
+
+
+
+ Both diagnosed the accused with Obsessive Compulsive Personality Disorder (“OCPD”) at the material time. Dr Goh further diagnosed the accused as having suffered from a major depressive episode around the time of the offence. In his second report, Dr Lim opined that the OCPD had a causal link
+                   15
+
+
+
+
+Foot Note 15
+
+×
+
+
+
+  Dr Lim’s 2nd Report of 23 October 2019; ROP at p 555; Dr Lim’s 1st Report at [93]; ROP at p 476.
+
+
+
+ to the offence while Dr Goh concluded in both reports that the two mental disorders contributed to the conduct of the offences.
+                   16
+
+
+
+
+Foot Note 16
+
+×
+
+
+
+  Dr Goh’s 1st Report at [24(b)]; ROP at p 493; Dr Goh’s 2nd Report at [2]; ROP at p 629.
+
+
+
+ For ease of reference, I reproduce the portion of the DJ’s Grounds of Decision summarising pertinent aspects of the psychiatric reports (at [39]–[42]):
+                   17
+
+
+
+
+Foot Note 17
+
+×
+
+
+
+  ROP at pp 72–74.
+
+
+
+39  In Dr Lim’s first report dated 23 October 2019 he diagnosed the accused as suffering from OCPD, with his condition aggravated by stressful life events over two years such as both his parents being diagnosed with cancer one after another, family discord and the need to refinance his father’s housing loan. Dr Lim elaborated as follows:(a)     The accused’s OCPD was previously undiagnosed and it affected his good judgement and contributed to the commitment of the offences.(b)     The OCPD could account for some of his peculiar behaviour such as purchasing many similar items for example shoes for his wife, frequenting the same shop frequently and using the card repeatedly even though this increased his risk of being caught. He had rules about buying only things he could afford and not splurging on luxurious items. His intention of buying gifts for his parents was to his ease their pain and suffering. Hence he continued his obsessive buying even though his family had asked him to stop.(c)     His offences were a cry for help. His use of the credit card in a “repeated, persistent and careless” way was akin to depressed patients who shoplifted repeatedly until they were caught.40  In his second report Dr Lim said that the OCPD had affected the accused’s good judgement and “There is indeed a causal link between the disease (Obsessive Compulsive Personality Disorder) the accused is suffering from and his conduct (the use of credit cards and lapses in his judgment).”41     In Dr Goh’s forensic psychiatric report dated 3 March 2020, Dr Goh diagnosed the accused as having OCPD and also suffering from a major depressive episode around the time of the offence. In his follow-up report dated 30 April 2020, Dr Goh further explained and elaborated on how both mental conditions had contributed to his commission of the offences.42  I reproduce both Dr Goh’s reports:3 March 202024. I am of the opinion that:a)    He has obsessive compulsive personality disorder (OCPD). He also has major depressive episode around the time of the offences and he continues to have depressive symptoms now. His major depressive episode had occurred in the midst of a series of life events, such as his parents’ illnesses and his wife moving out just one year after they got married.b)    The characteristics of his obsessive compulsive personality disorder (preoccupation with orderliness, perfectionism, control and being inflexible) and his depressive symptoms made it harder for him to cope with the changes in his life then. His Obsessive Compulsive Personality Disorder and major depressive episode are contributory factors to his offences, in that his offence are part of his dysfunctional way of coping during this very stressful period.c)    He was not of unsound mind at and around the material time of the offences, in that he was aware of the nature and quality of his actions.d)    He is currently fit to plead in a Court of Law.e)    He appreciated the consequences of such wrongful acts on himself and his family and is now keen for treatment. I have started him on an antidepressant on 25th February 2020 and will continue to follow him up at our outpatient clinic.30 April 20201.    I refer to your request for clarification, specifically on whether the psychiatric conditions he is suffering from contributed to his conduct (use of credit card etc and lapse in judgement).2.    In my opinion, this major depressive episode and obsessive compulsive personality disorder contributed to his conduct of the alleged offences in that both these conditions made it harder for him to cope with the stressors in his life then. He had poor sleep and problems with his appetite and concentration, and lethargy from his depression, and together with his obsessive compulsive personality disorder (with his preoccupation with orderliness, perfectionism and control, and being inflexible), these caused him to have difficulty in dealing with his problems effectively and impaired his judgement with regards to the criminal acts.3.    His acts were his dysfunctional ways of coping and dealing with his stress and his depressive mood. He told me during his assessments that when he got the credit card and he was able to use the card without anybody stopping him, he thought it was a “godsend” and “so coincidental” even though he felt bad about it, and he rationalised to himself that he was “not harming anyone”.[emphasis in original in underline; emphasis added in bold italics]11 Having considered these reports, the DJ held that although the accused “remained culpable for his acts as he was of sound mind and aware of the nature and quality of his acts, … his culpability had been lowered by his mental disorders as both had operated to contribute to the commission of the offences” [emphasis added].
+                   18
+
+
+
+
+Foot Note 18
+
+×
+
+
+
+  GD at [48]; ROP at p 77.
+
+
+
+ She elaborated as follows:
+                   19
+
+
+
+
+Foot Note 19
+
+×
+
+
+
+  GD at [50]; ROP at p 78.
+
+
+
+ … I was satisfied that the two mental disorders were serious enough to have hampered his good judgement and had contributed to the offending conduct in diminishing his capacity to fully appreciate the nature and wrongfulness of his choices and to make proper and rational decisions.[emphasis added]12 In relation to the second issue at [9(b)] above, the DJ acknowledged that in the case of credit card offences, the key sentencing consideration is deterrence (Public Prosecutor v Fernando Payagala Waduge Malitha Kumar [2007] 2 SLR(R) 334 (“Fernando Payagala”) at [88]).
+                   20
+
+
+
+
+Foot Note 20
+
+×
+
+
+
+  GD at [51], [56]; ROP at pp 79–80.
+
+
+
+ However, she found that the impact of the accused’s mental disorders reduced the significance of both general and specific deterrence.
+                   21
+
+
+
+
+Foot Note 21
+
+×
+
+
+
+  GD at [65]; ROP at p 84.
+
+
+
+ The DJ was satisfied that the offences were out of character and one-off in nature and that he had familial support systems that showed his prospects of rehabilitation were good.
+                   22
+
+
+
+
+Foot Note 22
+
+×
+
+
+
+  GD at [69]; ROP at p 85.
+
+
+
+ Ultimately, she found that rehabilitation was the dominant sentencing consideration and that a custodial sentence was not warranted.
+                   23
+
+
+
+
+Foot Note 23
+
+×
+
+
+
+  GD at [70]; ROP at p 85.
+
+
+
+13 As regards the third issue at [9(c)] above, the DJ applied the principles of statutory interpretation and held that community orders were available as a sentencing option.14 First, the DJ took the view that the plain language in s 337(1)(i) CPC would in the ordinary case be read as referring to the prescribed punishment for the base offence under the offence-creating provision.
+                   24
+
+
+
+
+Foot Note 24
+
+×
+
+
+
+  GD at [79], [86]; ROP at pp 88, 91.
+
+
+
+ She was reinforced in her view by the fact that limbs (a), (b) and (h) of s 337(1) CPC also referred to the prescribed punishment of the base offence.
+                   25
+
+
+
+
+Foot Note 25
+
+×
+
+
+
+  GD at [86]; ROP at p 91.
+
+
+
+ 15 Next, the DJ considered the legislative purpose of ss 337(1)(i), 124(2), 124(4) and 124(8) of the CPC. In relation to s 337(1)(i), she observed more generally that the legislative purpose of s 337(1) is to exclude certain offence-specific and offender-specific instances from the community sentencing regime, as Parliament has decided as a matter of policy that the community-based regime and rationale should not apply.
+                   26
+
+
+
+
+Foot Note 26
+
+×
+
+
+
+  GD at [92]; ROP at p 94.
+
+
+
+ In relation to ss 124(2) and 124(4) CPC, the DJ held that their legislative purpose “is to permit the framing of amalgamated charges against an accused when certain conditions are met to ensure that the accused is not prejudiced and has sufficient notice of the offences he is facing, without requiring prosecution to specify the time place date person or thing of each offence.”
+                   27
+
+
+
+
+Foot Note 27
+
+×
+
+
+
+  GD at [97]; ROP at p 97.
+
+
+
+ Section 124(8), in turn, is directed at ensuring that the court’s sentencing powers are enhanced to address the mischief of an accused possibly receiving a sentencing discount when the amalgamated charge is of sufficient gravity to merit a sentence beyond the maximum sentence for a single offending instance.
+                   28
+
+
+
+
+Foot Note 28
+
+×
+
+
+
+  GD at [98]; ROP at p 97.
+
+
+
+ She held that there was nothing in the text, context and legislative purpose of s 124(8) CPC to suggest that it was intended to have anything to do with the regime of community sentences under Part XVII or s 337(1)(i) to restrict the availability of community orders.
+                   29
+
+
+
+
+Foot Note 29
+
+×
+
+
+
+  GD at [100]; ROP at p 98.
+
+
+
+16 In reaching her decision, the DJ also noted the following difficulties with the Prosecution’s stance that community orders were unavailable: (a) It would give rise to an anomalous situation of mentally disordered offenders facing amalgamated charges for offences carrying a maximum prescribed punishment of more than eighteen months and up to three years jail who will not be eligible for any sort of community orders at all, while mentally disordered offenders in similar circumstances committing more serious offences carrying maximum prescribed punishments above three years’ and up to seven years’ jail are eligible for MTOs.
+                   30
+
+
+
+
+Foot Note 30
+
+×
+
+
+
+  GD at [89]; ROP at p 93.
+
+
+
+ (b) It was anomalous that a mentally disordered accused facing an amalgamated charge for simple theft was excluded from community orders, whereas a similarly mentally disordered accused facing an amalgamated charge for aggravated theft under ss 379A or 380 of the Penal Code would be eligible for an MTO as these aggravated forms of theft have been prescribed under s 337(2)(c) CPC.
+                   31
+
+
+
+
+Foot Note 31
+
+×
+
+
+
+  GD at [118]; ROP at p 105.
+
+
+
+(c) It meant that an amalgamated charge consisting of even two such incidents would be automatically statutorily excluded from the community sentences regime should the maximum prescribed punishment for that offence exceed 18 months’ imprisonment.
+                   32
+
+
+
+
+Foot Note 32
+
+×
+
+
+
+  GD at [99]; ROP at p 98.
+
+
+
+(d) Such a stance did not align with the general legislative intent articulated in the Second Reading of the Criminal Justice Reform Bill (Bill No 14/2018) (“CJR Bill 2018”) that community orders in general and also MTOs should be made available to a larger pool of offences and offenders.
+                   33
+
+
+
+
+Foot Note 33
+
+×
+
+
+
+  GD at [119]; ROP at p 105.
+
+
+
+17 The DJ thus held that a purposive reading of s 337(1)(i) confirmed that its plain and ordinary meaning should prevail. She accordingly called for an MTO suitability report.
+                   34
+
+
+
+
+Foot Note 34
+
+×
+
+
+
+  GD at [119]–[120]; ROP at p 106.
+
+
+
+18 In relation to the fourth issue at [9(d)] above, the DJ found that the MTO suitability report reinforced the rehabilitative potential of the accused.
+                   35
+
+
+
+
+Foot Note 35
+
+×
+
+
+
+  GD at [125]; ROP at p 108.
+
+
+
+ The relevant sentencing considerations (see [12] above) did not demand a custodial sentence in the form of imprisonment.
+                   36
+
+
+
+
+Foot Note 36
+
+×
+
+
+
+  GD at [127]; ROP at p 109.
+
+
+
+ She was satisfied that an MTO was appropriate. However, given that the offences were not committed on the spur of the moment and the accused had time to consider his acts, the DJ also imposed a ten-day SDO. She highlighted that “[t]he prison confines and the custodial experience will … be sufficiently deterrent for the accused, and remain with him as a reminder of this offending episode in his life.”
+                   37
+
+
+
+
+Foot Note 37
+
+×
+
+
+
+  GD at [128]; ROP at p 109.
+
+
+
+The parties’ cases  Prosecution’s submissions19 The Prosecution’s submissions address two broad issues: (a) whether community orders are statutorily available in this case; and (b) what the appropriate sentence ought to be. 20 In relation to the first issue concerning the interpretation of s 337(1)(i) CPC, the Prosecution’s position is that s 337(1)(i) precludes the imposition of community orders for a charge punishable with a term of imprisonment which exceeds three years by virtue of s 124(8)(a)(ii) CPC.
+                   38
+
+
+
+
+Foot Note 38
+
+×
+
+
+
+  Prosecution’s Submissions of 12 January 2021 (“PS”) at [17].
+
+
+
+ 21 The Prosecution first considers the plain reading of s 337(1)(i) CPC. Reading the definition of “offence” in s 2(1) CPC with s 124(4)(b) CPC, the Prosecution argues that the Amalgamated Cheating Charge attracting enhanced punishment features one offence which the accused is being charged with and is sentenced for.
+                   39
+
+
+
+
+Foot Note 39
+
+×
+
+
+
+  PS at [24].
+
+
+
+ Accordingly, the threshold under s 337(1)(i) must take reference from the Maximum Enhanced Sentence for the Amalgamated Cheating Charge. It claims to find support for this reading in ss 337(5), 337(6) and 337(9) CPC: the “sentence of imprisonment” which a community sentence is in lieu of by virtue of s 337(5), and which may be suspended under s 337(6) and resurrected by s 337(9), must, where amalgamated charges are concerned, refer to the sentence imposed by virtue of the base offence read with s 124(8)(a)(ii).
+                   40
+
+
+
+
+Foot Note 40
+
+×
+
+
+
+  PS at [26].
+
+
+
+ The Prosecution also cites ss 352(5)(b), 354(6)(b) and 354(7)(b) CPC. Each of these provisions empowers the court, in the event of a breach of an accused’s statutory obligations under a certain community order or the commission of a further offence, to “impose any sentence that is prescribed for the offence in respect of which the community order has been made”. It argues that the term “offence” is necessarily a reference to the base offence read with s 124(8)(a)(ii).”
+                   41
+
+
+
+
+Foot Note 41
+
+×
+
+
+
+  PS at [26].
+
+
+
+ 22 Second, the Prosecution submits that the purposive reading of s 337(1)(i) CPC buttresses the plain and ordinary reading of the provision. Namely, community orders were created for the benefit of offenders of less serious crimes only.
+                   42
+
+
+
+
+Foot Note 42
+
+×
+
+
+
+  PS at [34]–[35].
+
+
+
+ The doubling of the maximum sentences for amalgamated charges under s 124(8)(a)(ii) is “a clear legislative expression of the gravity with which Parliament views amalgamated offences.”
+                   43
+
+
+
+
+Foot Note 43
+
+×
+
+
+
+  PS at [35].
+
+
+
+ Its view that the term “offence” in s 337(1)(i) CPC refers to the amalgamated offence (rather than the base offence) “gives voice to such Parliamentary intent expressed through the doubling of the penalties prescribed” [emphasis in original in italics].
+                   44
+
+
+
+
+Foot Note 44
+
+×
+
+
+
+  PS at [37].
+
+
+
+ 23 The Prosecution also argues that the DJ’s concerns with its interpretation are overstated and/or unfounded:
+                   45
+
+
+
+
+Foot Note 45
+
+×
+
+
+
+  PS at [41].
+
+
+
+ (a) In relation to the DJ’s concern at [16(a)] above, the Prosecution points out that an amalgamated offence may be more serious than a single instance of a “more serious” offence which is prescribed under s 337(2)(c) CPC. This is because an amalgamated charge involves multiple instances of offending conduct. The decision to prefer an amalgamated charge instead of separate charges “is in itself sufficient basis for the imposition of a harsher sentence as it denotates higher culpability”.
+                   46
+
+
+
+
+Foot Note 46
+
+×
+
+
+
+  PS at [46].
+
+
+
+ (b) In relation to the DJ’s concern at [16(b)] above, the Prosecution argues that such an anomaly will never arise as a hypothetical offender charged with an amalgamated aggravated theft charge will face a maximum imprisonment term far in excess of seven years (due to the doubling effect under s 124(8) CPC). Such an offender would, as a matter of law, be precluded from availing himself of an MTO.
+                   47
+
+
+
+
+Foot Note 47
+
+×
+
+
+
+  PS at [51].
+
+
+
+ (c) In relation to the DJ’s concern at [16(c)] above, the Prosecution argues that the just exercise of prosecutorial discretion may at times preclude certain sentencing outcomes. There is nothing remotely objectionable about this as a matter of law. In fact, the enhanced sentence under s 124(8) CPC prevents certain offenders, facing amalgamated charges, from receiving a sentencing discount by way of a community sentence.
+                   48
+
+
+
+
+Foot Note 48
+
+×
+
+
+
+  PS at [56], [58].
+
+
+
+(d) In response to the DJ’s concern set out at [16(d)] above, the Prosecution points out that the expansion of the pool of offences for which MTOs are available is irrelevant to whether “offence” in s 337(1)(i) CPC refers to the amalgamated or base offence.
+                   49
+
+
+
+
+Foot Note 49
+
+×
+
+
+
+  PS at [38].
+
+
+
+24 Following the exclusion of community orders in the present case, and in respect of issue of the appropriate sentence for the accused (see [19] above), the Prosecution seeks the following sentences to run concurrently:
+                   50
+
+
+
+
+Foot Note 50
+
+×
+
+
+
+  PS at [61].
+
+
+
+(a) at least two months’ imprisonment in respect of the Dishonest Misappropriation Charge; and(b) at least eight months’ imprisonment in respect of the Amalgamated Cheating Charge.25 The Prosecution first submits that the DJ erred in finding that rehabilitation is the dominant consideration. Deterrence remains the dominant sentencing consideration in this case. The accused’s mental disorders do not displace the importance of deterrence as: (a) the accused was motivated by greed;
+                   51
+
+
+
+
+Foot Note 51
+
+×
+
+
+
+  PS at [69].
+
+
+
+ and (b) the amalgamated cheating offence was premeditated.
+                   52
+
+
+
+
+Foot Note 52
+
+×
+
+
+
+  PS at [71].
+
+
+
+ However, the Prosecution does not contend that the accused’s mental disorders are wholly irrelevant. They argue that the global sentencing position of eight months’ imprisonment already accords a sentencing discount to the accused on this ground.
+                   53
+
+
+
+
+Foot Note 53
+
+×
+
+
+
+  PS at [76].
+
+
+
+26 Second, the Prosecution submits that the DJ failed to give due regard to the relevant sentencing precedents. For instance, it highlights that Sundaresh Menon CJ in Idya Nurhazlyn bte Ahmad Khir v Public Prosecutor and another appeal [2014] 1 SLR 756 (“Idya Nurhazlyn”) at [47] observed that custodial sentences of between four and eight months’ imprisonment have been imposed for s 417 Penal Code offences that resulted in losses of between $1,000 and $15,000.
+                   54
+
+
+
+
+Foot Note 54
+
+×
+
+
+
+  PS at [79].
+
+
+
+ Given the value of the Items in the Amalgamated Cheating Charge, and the other aggravating factors in this case, 12 months’ imprisonment would have been justified.
+                   55
+
+
+
+
+Foot Note 55
+
+×
+
+
+
+  PS at [80].
+
+
+
+ However, having regard to the accused’s diminished culpability due to his psychiatric conditions, a reduction to eight months’ imprisonment is apt.
+                   56
+
+
+
+
+Foot Note 56
+
+×
+
+
+
+  PS at [82].
+
+
+
+27 In specific response to the accused’s cross-appeal, the Prosecution submits that: (a) an SDO is unavailable in this case (following from its interpretation of s 337(1)(i) CPC); and (b) alternatively, even if community orders are available, a ten-day SDO is manifestly inadequate given the appropriate custodial sentence in this case is eight months’ imprisonment.
+                   57
+
+
+
+
+Foot Note 57
+
+×
+
+
+
+  PS at [83]–[84].
+
+
+
+The accused’s submissions28 The accused’s submissions addressed the same issues as the Prosecution’s (see [19] above).29 In respect of the interpretation of s 337(1)(i) CPC, the accused agrees with the reasoning and conclusion of the DJ. In brief, the word “offence” in s 337(1)(i) CPC refers to the base offence, and not the amalgamated offence.
+                   58
+
+
+
+
+Foot Note 58
+
+×
+
+
+
+  ASA at [9]; Accused’s Reply to Amicus Curiae’s Brief of 13 January 2021 at [3(a)]. 
+
+
+
+ The accused re-iterates the DJ’s point that nothing in s 124 CPC indicates that it is intended to be read with s 337(1)(i) CPC and shares her concerns stated at [16] above.
+                   59
+
+
+
+
+Foot Note 59
+
+×
+
+
+
+  ASA at [9], [11].
+
+
+
+30 In respect of what the appropriate sentence should be, the accused advances submissions in support of his cross-appeal and in response to the Prosecution’s appeal. 31 First, in support of his cross-appeal, the accused argues that there is “no strong basis” for the imposition of the ten-day SDO.
+                   60
+
+
+
+
+Foot Note 60
+
+×
+
+
+
+  ASA at [18].
+
+
+
+ The accused highlights the following points: (a) By imposing the SDO, the DJ had “totally forgotten” about his two mental disorders. The DJ had originally found that the accused was suffering from two major psychiatric diseases, ie, severe mental depression and OCPD, and that this had “affected his mental capacity badly”.
+                   61
+
+
+
+
+Foot Note 61
+
+×
+
+
+
+  ASA at [20], [23.10c].
+
+
+
+ The DJ was therefore wrong to consider specific deterrence as a relevant consideration. He cites Public Prosecutor v Cheong Yoke Lin, Christina [2019] SGMC 58 (“Christina Cheong”) for the proposition that rehabilitation is the dominant sentencing consideration for offenders suffering from mental disorders at the material time.
+                   62
+
+
+
+
+Foot Note 62
+
+×
+
+
+
+  ASA at [23.11].
+
+
+
+(b) There are several mitigating factors in his favour. For convenience, I have combined the mitigating factors raised by the accused in his cross-appeal and in response to the Prosecution’s appeal: (i) The accused needs to support his family (including his parents), the offence is a one-time aberration, he took “quite some time” to get a second job after losing his former one, and he has improved through medical treatment at IMH (which he sought voluntarily).
+                   63
+
+
+
+
+Foot Note 63
+
+×
+
+
+
+  ASA at [22], [34.1(2)], [34.5(5)].
+
+
+
+ (ii) He was a good student from a good school who excelled in his studies, sports and did not get into trouble.
+                   64
+
+
+
+
+Foot Note 64
+
+×
+
+
+
+  ASA at [34.7].
+
+
+
+(iii) He has a positive employment record, including with the Company.
+                   65
+
+
+
+
+Foot Note 65
+
+×
+
+
+
+  ASA at [34.8].
+
+
+
+(iv) He performs charity work, such as making regular blood donations before his arrest and supporting environmental causes. He also performed social-civic missions with the Singapore Armed Forces and is a volunteer paramedic.
+                   66
+
+
+
+
+Foot Note 66
+
+×
+
+
+
+  ASA at [34.8].
+
+
+
+(v) He successfully resisted an opportunity to re-offend. He had found an ATM card on 28 June 2019 at an UOB ATM machine but, instead of using it, returned it to an Information Centre at UOB Plaza (“the UOB ATM Card Incident”).
+                   67
+
+
+
+
+Foot Note 67
+
+×
+
+
+
+  ASA at [22], [33(3)]; ROP at pp 810–815.
+
+
+
+(vi) The accused claims to have immediately apologised to all parties, with acknowledged letters.
+                   68
+
+
+
+
+Foot Note 68
+
+×
+
+
+
+  ASA at [34.4].
+
+
+
+ He has made full restitution, returned all purchases and there is forgiveness from Diners Club.
+                   69
+
+
+
+
+Foot Note 69
+
+×
+
+
+
+  ASA at [29(2)].
+
+
+
+ In specific response to the Prosecution’s appeal, jailing him would send the message that restitution should not be made and that people in genuine need of psychiatric treatment will still be imprisoned.
+                   70
+
+
+
+
+Foot Note 70
+
+×
+
+
+
+  ASA at [24.1(3)].
+
+
+
+(vii) The accused did not attempt to conceal himself and the police found him easily.
+                   71
+
+
+
+
+Foot Note 71
+
+×
+
+
+
+  ASA at [31(1)].
+
+
+
+(viii) He pleaded guilty at the earliest possible opportunity.
+                   72
+
+
+
+
+Foot Note 72
+
+×
+
+
+
+  ASA at [34.5(6)].
+
+
+
+(c) The following aggravating factors do not arise in this case. Similarly, I summarise the arguments advanced by the accused in his cross-appeal and in response to the Prosecution’s appeal: (i) The DJ and Prosecution are wrong to say that the offence is premeditated. The offences were “a mental illness at work”.
+                   73
+
+
+
+
+Foot Note 73
+
+×
+
+
+
+  ASA at [23.10e]–[23.10f].
+
+
+
+ (ii) There was no planning, greed or malice in connection with the offences. For instance, if he had been motivated by greed, he would have splurged on luxury products for himself, which is not the case.
+                   74
+
+
+
+
+Foot Note 74
+
+×
+
+
+
+  ASA at [24.1.(5)].
+
+
+
+ The offence was just his dysfunctional way of coping with the extraordinary set of circumstances he was in.
+                   75
+
+
+
+
+Foot Note 75
+
+×
+
+
+
+  ASA at [24.1(2)].
+
+
+
+32 For these reasons, only the MTO should remain in place.
+                   76
+
+
+
+
+Foot Note 76
+
+×
+
+
+
+  ASA at [21].
+
+
+
+33 Second, in response to the Prosecution’s appeal, the accused submits that eight month’s imprisonment is disproportionate.
+                   77
+
+
+
+
+Foot Note 77
+
+×
+
+
+
+  ASA at [24.1].
+
+
+
+ In support of this submission, the accused highlights, inter alia, the following points: (a) He re-iterates that the two mental disorders have a contributory link to the offences.
+                   78
+
+
+
+
+Foot Note 78
+
+×
+
+
+
+  ASA at [24.1.(7)], [28(a)].
+
+
+
+ In fact, imprisonment may cause his mental condition to deteriorate.
+                   79
+
+
+
+
+Foot Note 79
+
+×
+
+
+
+  ASA at [28(f)].
+
+
+
+(b) He re-iterates the mitigating factors in this case (see [31(b)] above) and that the aggravating factors relied on by the Prosecution do not arise (see [31(c)] above).(c) The Prosecution’s sentencing position (ie, 8 months’ imprisonment) is inconsistent with precedents including Christina Cheong and GCX v Public Prosecutor [2019] 3 SLR 1325 (“GCX”).
+                   80
+
+
+
+
+Foot Note 80
+
+×
+
+
+
+  ASA at [25].
+
+
+
+Amicus curiae’s submissions34 Mr Victor Leong (“Mr Leong”) was appointed under the Supreme Court’s young amicus curiae scheme to assist the court with his opinion on the interpretation of s 337(1)(i) CPC. He arrived at the same interpretation of s 337(1)(i) CPC as the Prosecution – “offence” in s 337(1)(i) CPC refers to the amalgamated offence. Therefore, if the Maximum Enhanced Sentence in respect of the amalgamated charge is more than three years’ imprisonment, the accused “should be precluded from community sentences because his overall potential criminality is no different from an accused who is charged with a single offence under which the maximum imprisonment term is also more than 3 years.”
+                   81
+
+
+
+
+Foot Note 81
+
+×
+
+
+
+  Amicus Curiae’s Brief of 30 December 2020 (“ACB”) at [3].
+
+
+
+35 Mr Leong argues that his conclusion is consistent with:
+                   82
+
+
+
+
+Foot Note 82
+
+×
+
+
+
+  ACB at [4(c)].
+
+
+
+ (a) The plain wording of relevant CPC provisions.(b) The structure of the CPC as a whole, including the fact that s 124(4) is not listed as an exception to the general rule that an accused may only be charged with one charge for one offence at a single trial (under s 132 CPC). These contextual clues suggest that an amalgamated offence is a single offence.(c) The legislative purpose behind the community sentence regime, which is to allow for community sentences, but only for accused persons with a certain level of overall criminality.36 Further, Mr Leong argues that the DJ erred in assuming that the purpose of an amalgamated charge is no more than a device of convenience to allow the Prosecution to combine two or more commissions of the same offence into a single charge. Rather, by reference to English case law on the equivalent amalgamation procedure, Mr Leong submits that the purpose of an amalgamated charge is:
+                   83
+
+
+
+
+Foot Note 83
+
+×
+
+
+
+  ACB at [4(b)].
+
+
+
+ … to allow the Prosecution to accurately reflect the (increased) criminality of an accused person who has committed a “course of conduct” (which is the underlying requirement which the Prosecution must prove beyond reasonable doubt to establish that an amalgamated charge is appropriate).[emphasis in original in bold underline]37 Once the purpose of the amalgamation charge is appreciated, it becomes clear that it is not necessarily anomalous for an accused person facing an amalgamated charge for a less serious offence (such as simple theft) to have no community sentences available whereas an accused person facing separate charges of a more serious offence (such as aggravated forms of theft) still has MTOs potentially available.
+                   84
+
+
+
+
+Foot Note 84
+
+×
+
+
+
+  ACB at [4(b)].
+
+
+
+ Mr Leong set out a table showing that there is a cascading scale where fewer types of community sentences are available when an accused person moves up the “scale” of overall criminality (assuming that, all other things being equal, an accused convicted on an amalgamated charge has a higher overall criminality than one convicted on separate charges for the same incidents):
+                   85
+
+
+
+
+Foot Note 85
+
+×
+
+
+
+  ACB at [42].
+
+
+
+ S/NBase offence imprisonment termSeparate chargesAmalgamated charges1. Up to 18 monthsCommunity sentences available Community sentences available2. More than 18 months and up to 3 yearsCommunity sentences availableOnly MTO available 3. More than 3 years and up to 3.5 years Only MTO availableOnly MTO available4. More than 3.5 years and up to 7 yearsOnly MTO availableNo community sentences availableIssues to be determined 38 Based on the foregoing, the issues for my determination are: (a) Whether a court is statutorily precluded under s 337(1)(i) of the CPC from imposing community sentences under Part XVII of the CPC where: (i) an accused person is convicted of a charge amalgamated under s 124(4) of the CPC, and by virtue of s 124(8)(a)(ii) of the CPC, may be sentenced to imprisonment for a term which exceeds three years; but(ii) each base offence of the amalgamated charge is punishable with an imprisonment term which may extend to three years or less (“Issue 1”); and (b) What is the appropriate sentence in this case? (“Issue 2”)Issue 1: are community sentences statutorily available in light of the Amalgamated Cheating Charge?39 I provide some context to this issue before beginning my analysis. The base offence in the Amalgamated Cheating Charge is s 417 of the Penal Code. The maximum imprisonment term the accused is liable to under s 417 of the Penal Code and s 124(8)(a)(ii) of the CPC is 3 years and 6 years respectively. In other words, if the DJ and accused are right that the word “offence” in s 337(1)(i) CPC refers to the base offence, the whole range of community orders under Part XVII of the CPC is available. Conversely, if the Prosecution and Mr Leong are right, no community orders (including MTOs) are available to the accused.40 Evidently, this issue concerns a matter of statutory interpretation of s 337(1)(i) of the CPC. This provision states as follows: 337.—(1)  Subject to subsections (2) and (3), a court shall not exercise any of its powers under this Part to make any community order in respect of —…(i) an offence which is punishable with a term of imprisonment which exceeds 3 years. [emphasis added]This precise question I have to answer is whether the word “offence” in s 337(1)(i) CPC refers to the amalgamated offence or the base offence. However, as we shall see, this question is inextricably linked to the questions of whether an amalgamated offence under s 124(4) of the CPC constitutes a single offence and what the relationship between ss 124(4), 124(8)(a)(ii) and 337(1)(i) of the CPC is.41 It is trite that statutory interpretation is a purposive endeavour, in that an interpretation that would promote the purpose or object underlying the written law must be preferred to an interpretation that would not do so: s 9A(1) Interpretation Act (Cap 1, 2002 Rev Ed). In this regard, I am guided by the three-step approach to purposive statutory interpretation outlined in Tan Cheng Bock v Attorney-General [2017] 2 SLR 850 (“Tan Cheng Bock”) at [37]: (a) First, ascertain the possible interpretations of the provision, having regard not just to the text of the provision but also to the context of that provision within the written law as a whole.(b) Second, ascertain the legislative purpose or object of the statute. (c) Third, compare the possible interpretations of the text against the purposes or objects of the statute.Plain meaning of the relevant CPC provisions42 Under the first step of statutory interpretation, the court is required to determine the ordinary meaning of the words of the legislative provision. It is aided in this effort by rules and canons of statutory construction (Tan Cheng Bock at [38]). However, courts should never examine the provision in question in isolation. It should have due regard to the context of that text within the written law as a whole (Attorney-General v Ting Choon Meng and another appeal [2017] 1 SLR 373 at [59(a)]).Does “offence” under s 337(1)(i) CPC encompass an amalgamated offence?43 The competing interpretations of “offence” in s 337(1)(i) CPC are that it refers to: (a) the base offence, as is argued by the accused (“the Narrow View”); and (b) the amalgamated offence, as is argued by the Prosecution and Mr Leong (“the Broad View”).44 In my judgment, the plain language of s 337(1)(i) of the CPC is wide enough to accommodate the Broad View. Section 2(1) of the CPC defines “offence” to mean “an act or omission punishable by any written law” [emphasis added]. This is clearly a permissive definition and there is nothing in the CPC to preclude it from applying to s 337(1)(i).45 Prima facie, s 124(4), read with s 124(8)(a)(ii) CPC, fulfils the definition of “offence” in s 2(1). The accused’s course of conduct, which under s 124(4) CPC comprises “2 or more incidents of the commission of the same offence”, is the “act or omission” which is punishable. Section 124(8)(a)(ii) then stipulates the punishment – 2 times the amount of punishment to which the accused would otherwise have been liable if that person had been charged separately with the base offence. 46 However, the foregoing begs the question: is the amalgamated offence in s 124(4) of the CPC an offence (ie, a single offence)? The plain wording of the definition of “offence” in s 2(1) of the CPC covers a single act or omission. On the other hand, an amalgamated offence constituted under s 124(4) of the CPC comprises multiple acts or omissions, viz, “2 or more incidents of the commission of the same offence by the accused … [which] … taken together amount to a course of conduct (having regard to the time, place or purpose of each alleged incident)”. Nevertheless, for the following reasons, I am satisfied that an amalgamated offence constituted under s 124(4) of the CPC is a single offence in law.47 First, s 124(4)(b) of the CPC provides that the charge framed under s 124(4) is “deemed to be a charge of one offence” [emphasis added]. This deeming provision overcomes the tension in the plain wording of the definition of “offence” in s 2(1) CPC, and the fact that an amalgamated offence consists of multiple incidents of the same base offence.48 Second, the following contextual clues are consistent with the deeming provision in s 124(4)(b). Namely, I agree with Mr Leong that if an amalgamated offence were not a single offence, s 132(2) of the CPC should have identified s 124(4) as an exception to the rule in s 132(1) of the CPC.
+                   86
+
+
+
+
+Foot Note 86
+
+×
+
+
+
+  ACB at [36].
+
+
+
+ Section 132(1) provides the general rule that every distinct offence must be framed in a separate charge and every charge must be tried separately. If an amalgamated charge in s 124(4) were indeed a collection of discrete offences, this would violate s 132(1).  49 Section 132(2) of the CPC sets out the following exceptions to the general rule in s 132(1):(2)  Subsection (1) does not apply —(a) in the cases mentioned in sections 133 to 136, 138, 143, 144 and 145; (b) to charges to which the accused pleads guilty; or (c) to charges which the accused and the prosecutor consent to be taken into consideration under section 148.50 Of particular relevance are ss 133 and 134 of the CPC. Notwithstanding s 132(1), an accused person charged with more than one offence may be tried at the same trial for all of those offences if: (a) the offences form or are a part of a series of offences of the same or a similar character (s 133 CPC); or (b) if the offences comprise of one series of acts connected so as to form the same transaction (s 134 CPC). Reading ss 132(2), 133 and 134 together, the implication is that even when the latter two provisions are invoked, the accused’s multiple offences remain distinct in law. In contrast, s 132(2) CPC does not list s 124(4) as an exception to s 132(1). This is despite Parliament being aware of the interplay between these two provisions, as s 124(4) expressly begins with “[d]espite … section 132 …”. As such, the omission to list s 124(4) as an exception under s 132(2) indicates that such an amalgamated offence is a single offence in law.51 The distinction between ss 133 and 132 is further underscored by Mahender Singh Kadian v State of Haryana (28 November 2008, High Court of Punjab and Haryana at Chandigarh) (India). In that case, the High Court of Punjab and Haryana’s observations on s 219 of the Indian Code of Criminal Procedure 1973 (Act 2 of 1974) (“ICCP”) are particularly illuminating for our purposes. Section 219(1) of the ICCP reads as follows: 219. Three offences of same kind within year may be charged together.—(1) When a person is accused of more offences than one of the same kind committed within the space of twelve months from the first to the last of such offences, whether in respect of the same person or not, he may be charged with, and tried at one trial for, any number of them not exceeding three.[emphasis in original in italics and bold]52 Section 219 of the ICCP is similar to s 133 of Singapore’s CPC as the former allows three offences of the “same kind” committed by the accused to be tried at a single trial. Crucially, the Indian High Court noted that the effect of s 219 ICCP “is not to make three offences which are tried together under its provision as one offence. The offences continue to be separate though there is only one trial for all of them.” In the same vein, s 133 of Singapore’s CPC does not deem offences of “the same or a similar character” to be a single offence. In contrast, the express language in s 124(4)(b) CPC and the fact that s 124(4) CPC is not an exception to the rule under s 132(1) CPC leaves no doubt that such an amalgamated offence is deemed to be one offence, including for the purposes of s 337(1)(i) CPC. Other contextual clues relevant to the meaning of “offence” in s 337(1)(i) CPC53 Thus far, I have addressed the plain meaning of the word “offence” in s 337(1)(i) and examined whether a charge amalgamated under s 124(4) CPC falls within said meaning. I now turn to discuss contextual clues which indicate that the Broad View is the correct understanding of the plain meaning of “offence” when the proceeded charge is one amalgamated under s 124(4) CPC.54 I accept the Prosecution’s submission that ss 337(5), 337(6), 337(9), 352(5)(b), 354(6)(b) and 354(7)(b) of the CPC demonstrate that the “term of imprisonment” which must not exceed 3 years under s 337(1)(i) CPC refers to the Maximum Enhanced Sentence in s 124(8)(a)(ii) CPC. It follows then that “offence” in s 337(1)(i) CPC should refer to the amalgamated offence if the proceeded charge is one amalgamated under s 124(4) CPC. The relevant portions of these provisions read as follows: [Section 337] Community Orders…(5)  Subject to section 344(11)(b), a community sentence passed by a court in respect of any offence shall be in lieu of any sentence of imprisonment, caning and fine which the court may impose for that offence.(6)  Despite subsection (5), before a court passes a community sentence in respect of any offence, the court may —(a) impose on the offender any sentence of imprisonment that is provided for that offence; and (b) suspend, for the period when any community order made in respect of that offence is in force, the sentence of imprisonment that is imposed for that offence.…(9)  Where a sentence of imprisonment imposed on an offender for an offence is suspended under subsection (6)(b) for the period when a community order made in respect of that offence is in force, the court must lift the suspension and direct that the sentence of imprisonment be carried out, if that community order is revoked under section 352(5)(c) or 354(6)(a) or (7)(a).…[Section 352] Breach of community orders…(5)  Subject to subsection (7), if it is proved to the satisfaction of a court that an offender in respect of whom a mandatory treatment order, day reporting order, community work order or community service order is in force is in breach of the order —…(b) subject to paragraph (c), the court may, taking into account the extent to which the offender has complied with the order, revoke the order and impose such sentence which is provided for the offence or offences in respect of which the order has been made; …[Section 354] Commission of further offence(6)  Where a community order has been made by a court in respect of an offender, and it is proved to the satisfaction of the court that the offender has been convicted and dealt with in respect of any offence committed during the period when the community order is in force, the court —…(b) in any other case — may, taking into account the extent to which the offender has complied with the community order, revoke the community order and impose any sentence that is prescribed for the offence in respect of which the community order has been made.(7)  If a Magistrate’s Court has made a community order in respect of an offender, and the offender is convicted before the General Division of the High Court, a District Court or any other Magistrate’s Court of an offence committed during the period when the community order is in force, the General Division of the High Court, District Court or other Magistrate’s Court (as the case may be) —… (b) in any other case — may, taking into account the extent to which the offender has complied with the community order, revoke the community order and impose any sentence that is prescribed for the offence in respect of which the community order has been made.55 Beginning with s 337(5) CPC, the sentence of imprisonment which a community sentence is in lieu of must refer to the Maximum Enhanced Sentence under s 124(8)(a)(ii) CPC. This flows logically from the fact that the sentencing jurisdiction of a court, which convicts an accused person in respect of an amalgamated charge, is no longer confined to the maximum sentence in the base offence. The court’s sentencing jurisdiction is augmented under s 124(8)(a)(ii) CPC. 56 In a similar vein, the sentence of imprisonment which the court may impose on an accused person prior to the passing of a community sentence (s 337(6)(a) CPC) or which may be suspended when any community order comes into force (s 337(6)(b) CPC) must refer to the sentence imposed under the court’s enhanced sentencing jurisdiction in s 124(8)(a)(ii). This reading of s 337(6)(b) also entails that the sentence of imprisonment, which is originally suspended, but resurrected under s 337(9) when the community order is revoked, refers to the sentence imposed in light of s 124(8)(a)(ii). 57 Likewise, the sentence which may be imposed following the revocation of: (a) certain community orders for a breach of the accused’s statutory obligations (s 352(5)(b) CPC); or (b) community orders in general, following the accused’s commission of and conviction for further offences while the community order is in force (ss 354(6)(b), 354(7)(b)), takes reference from the sentencing court’s jurisdiction under s 124(8)(a)(ii) CPC. I find it implausible that Parliament would give the accused, who has his/her community order revoked under ss 352(5)(b), 354(6)(b) or 354(7)(b), a sentencing discount by confining the court’s sentencing jurisdiction to that under the base offence (assuming that the charge the accused is convicted of is an amalgamated charge). 58 All this is to say that the references to the sentence of imprisonment, in lieu of which a community order is imposed or which is subsequently resurrected for various reasons stipulated in the foregoing CPC provisions, must refer to that imposed in light of s 124(8)(a)(ii). Bearing this in mind, I see no reason for the “term of imprisonment” referred to in s 337(1)(i) to then refer to the court’s sentencing jurisdiction under the base offence, rather than s 124(8)(a)(ii). It follows that “offence” in s 337(1)(i) must refer to the amalgamated offence if the proceeded charge is one amalgamated under s 124(4) CPC.59 Finally, for completeness, I also agree with the Prosecution’s submission that the wording of ss 337(1)(a), 337(1)(b) and 337(1)(h) of the CPC is neutral to the issue of whether “offence” in s 337(1)(i) refers to the base or amalgamated offence. I am unable to glean any guidance from these provisions and fail to see the force of the DJ’s reference to them in support of her decision.
+                   87
+
+
+
+
+Foot Note 87
+
+×
+
+
+
+  GD at [86]; ROP at p 91.
+
+
+
+Conclusion60 In summary the plain meaning of “offence” in s 337(1)(i) CPC is wide enough to refer to an amalgamated offence in s 124(4) of the CPC. Even further still, contextual clues in the CPC militate in favour of the Broad View when the proceeded charge is one amalgamated under s 124(4) CPC.Legislative purpose of ss 337(1)(i), 124(4) and 124(8)(a)(ii) CPC61 To determine the legislative purpose of a provision, courts may have regard to: (a) the text of the relevant legislative provision and its statutory context; and (b) extraneous material, subject to the guidance in ss 9A(2) and 9A(3) of the Interpretation Act (Tan Cheng Bock at [42]).Section 337(1)(i) CPC 62 To better appreciate the specific purpose of s 337(1), I will first address the general purpose of community sentences in Part XVII of the CPC. 63 Community sentences were introduced into the CPC, by way of the Criminal Procedure Code Bill (Bill No 11/2010) (“CPC Bill 2010”), to provide more flexibility to the courts. These sentencing options enable the courts to deliver the correct mix of deterrence, prevention, retribution and rehabilitation on the specific facts of each case. Undergirding this regime of community sentences was the realisation that “[n]ot every offender should be put in prison”. In some cases, it is appropriate to allow the offender to remain gainfully employed and for his/her family to benefit from focused treatment (Singapore Parliamentary Debates, Official Report (18 May 2010), vol 87 (“Second Reading of the CPC Bill 2010”) at col 422 (K Shanmugam, Minister for Law)). 64 Crucially, Mr Shanmugam highlighted that community sentences target offences and offenders “traditionally viewed by the Courts to be on the rehabilitation end of the spectrum” such as “regulatory offences, offences involving younger accused persons and persons with specific and minor mental conditions” (Second Reading of the CPC Bill 2010 at col 422). At the Second Reading of the CJR Bill 2018, Ms Indranee Rajah reiterated that “community sentences can give those who commit minor offences a good chance at rehabilitation without unnecessary disruption to their lives” [emphasis added] (Singapore Parliamentary Debates, Official Report (19 March 2018), vol 94 (Indranee Rajah, Senior Minister of State for Finance and Law) (“Second Reading of the CJR Bill 2018”)). Further, as See Kee Oon JC (as he then was) stated in Sim Wen Yi Ernest v Public Prosecutor [2016] 5 SLR 207 at [41], the framework of community sentences is:… to enable offenders of less serious crimes to be dealt with in ways other than by imposing fines or imprisonment to enhance their chances of rehabilitation without diluting the deterrent objective of our penal regime or jeopardising the public’s sense of safety (Sentencing Practice in the Subordinate Courts Volume 1 (LexisNexis, 3rd Ed, 2013)… at p 77)[emphasis in italics in original; emphasis added in bold italics]65 Given this context, I now examine the specific purpose of s 337(1)(i) of the CPC. To give effect to the aims of community sentences (see [63]–[64] above), clause 337 of the CPC 2010 Bill “sets up the circumstances that prevent the making of a community order” (Second Reading of the CPC Bill 2010 at col 423). Clause 337 is the predecessor of s 337 in today’s CPC. s 337 is therefore intended to prevent offences or offenders which fall outside of the rehabilitation end of the spectrum from accessing the regime of community orders. s 337(1)(i) CPC filters out offences punishable with more than three years imprisonment. Such offences, in Parliament’s view, are not at the rehabilitation end of the spectrum and engage the other three sentencing considerations of deterrence, prevention and retribution more strongly. 66 Besides revealing the legislative purposes of Part XVII and s 337(1)(i) of the CPC, the extraneous materials are useful in another respect. Namely, it is apparent from the CJR Bill 2018 that Parliament did not amend s 337(1)(i) CPC when ss 124(4) and 124(8) were introduced in this bill. The former provision was introduced in its present form in the CPC Bill 2010. What is significant is that the CJR Bill 2018 contained amendments to other limbs of s 337(1), viz, ss 337(1)(b), (d), (e), (g) and (h) (Criminal Justice Reform Act 2018 (Act 19 of 2018) (“CJRA 2018”) s 91). I agree with Mr Leong that at the very least, these amendments to s 337(1) suggest that Parliament chose not to amend s 337(1)(i).
+                   88
+
+
+
+
+Foot Note 88
+
+×
+
+
+
+  ACB at [23].
+
+
+
+ The Prosecution supports Mr Leong’s view.
+                   89
+
+
+
+
+Foot Note 89
+
+×
+
+
+
+  PS at [53].
+
+
+
+ Therefore, while there is no explicit cross-reference between ss 124 and 337, the fact that Parliament did not see a need to expressly clarify the relationship between these two sets of provisions must mean that their purposive meanings are harmonious. This is borne out in my analysis of the two provisions when the Broad View is adopted (see [43]–[52] above, [84]–[90] below). Sections 124(4) and 124(8)(a)(ii) CPC   67 However, the purpose behind s 337(1)(i) CPC does not completely answer the question as to whether “offence” refers to the base or amalgamated offence. To put the issue into focus, let us recall that if the accused had been charged individually with each s 417 Penal Code base offence, under which the maximum imprisonment term is three years, he would qualify for a community sentence. In contrast, if the Broad View is correct, and the accused is sentenced under s 124(8)(a)(ii) of the CPC in respect of the Amalgamated Cheating Charge, he is precluded from a community sentence as the court’s sentencing jurisdiction is doubled. The question is whether there is a substantive difference between charging a person with individual base offences and an amalgamated offence, such as to justify precluding community sentences in the latter situation only. Answering this question calls for a close examination of the purpose of the device of amalgamation in s 124(4) of the CPC. 68 The starting point is Menon CJ’s observation in Poh Boon Kiat v Public Prosecutor [2014] 4 SLR 892 (“Poh Boon Kiat”) at [60] that the statutory maximum sentence signals the gravity with which Parliament views any individual offence. Therefore, it must be significant that the court’s sentencing jurisdiction is doubled under s 124(8)(a)(ii) of the CPC where s 124(4) amalgamated charges are concerned. In line with Menon CJ’s observation in Poh Boon Kiat, ss 124(4) and 124(8)(a)(ii) of the CPC collectively signal the serious view Parliament takes of courses of criminal conduct which form the basis of an amalgamated offence in s 124(4). In a similar vein, Parliament has, in the past, enhanced the permitted sentencing range of certain classes of criminal action which were regarded as deserving of harsher punishment (see Public Prosecutor v BDB [2018] 1 SLR 127 at [139]–[141]).69 In my view, the device of amalgamation under s 124(4) CPC is not merely administrative or procedural in nature. Instead, amalgamation may be used to signal the higher criminality of the accused and the gravity of the course of criminal conduct. I find support for this view from the plain wording of s 124(4), as understood in the context of established sentencing principles, and English authorities discussing a similar amalgamation procedure in the UK. 70 First, the fact that an accused person committed a string of base offences, which incidentally constitute a “course of conduct” under s 124(4), is traditionally an aggravating factor. For instance, an individual who commits multiple acts of offending that result in the same outcome in terms of loss to third parties should, ceteris paribus, be treated more harshly than one who commits a one-off act entailing the same outcome. In the context of credit card cheating offences, V K Rajah J (as he then was) in Fernando Payagala stated as follows (at [48]): The nexus between the number of offences and quantum involved was also discussed in [Lee Teck Leng in “Sentencing in Cheating Offences”, Law Gazette, August 2000 at 23]. Lee Teck Leng observed:… Amalgamating both perspectives, it would appear that the total sentence imposed on the serial cheat would probably be slightly higher than the sentence imposed on an offender convicted of a single cheating offence, if the total quantum is identical in both instances. [emphasis added in bold italics]To this, I would add that sentences meted out in serial cheating cases should not be only “slightly higher” as compared to that assigned to a single offender for the same quantum. The sentence could in the appropriate circumstances be significantly higher. A serial offender would be hard put to credibly submit that his conduct was the result of a momentary indiscretion.[emphasis in original in italics and bold italics]71 Such serial offending heightens the culpability of the accused and shows his/her total disregard for the law (Chua Whye Woon v Public Prosecutor [2016] SGHC 189 at [3(b)]). As a result, the consideration of deterrence is more forcefully engaged than if the same outcome was inflicted by a single offence, all other things being equal. From this perspective, it is fair for an accused convicted of an amalgamated offence causing a certain outcome to be precluded from community orders, even if these would have been available if he/she had inflicted the same outcome by a single offence.72 These observations may hold true even when we compare an accused person facing X number of charges of a base offence, and another facing an amalgamated charge consisting of X number of incidents involving the same base offence. Mr Leong highlights that to prove beyond a reasonable doubt that the alleged incidents amount to “a course of conduct”, the Prosecution must establish one or more of the factors in s 124(5) CPC: (a) where the offence is one that has an identifiable victim, the victim in each alleged incident is the same person or belongs to the same class of persons;(b) all of the alleged incidents involve the employment of the same method or similar methods;(c) all of the alleged incidents occurred in the same place, in similar places, or in places that are located near to each other;(d) all of the alleged incidents occurred within a defined period that does not exceed 12 months.According to Mr Leong, the requirement of establishing a course of conduct distinguishes the overall criminality of an accused facing an amalgamated charge.
+                   90
+
+
+
+
+Foot Note 90
+
+×
+
+
+
+  ACB at [26].
+
+
+
+  73 In some situations, I see the force of Mr Leong’s argument. Consider an accused facing five distinct simple theft charges alongside another who faces an amalgamated charge comprising five incidents of simple theft. In the former situation, the accused stole a pair of shoes from his/her neighbour on one occasion, some cash from a co-worker on another, and miscellaneous items from different retail outlets in different locations on the remaining three occasions. More than 12 months separates each offence. In the latter situation, on all five occasions, the accused stole vehicles parts from vehicles in a carpark in his office building during office hours. He used the same set of tools on each occasion and committed all five thefts within a month. In the latter situation, because the accused employed the same modus operandi (s 124(5)(b)), targeted cars at the same carpark (ss 124(5)(a) and 124(5)(c)), and offended five times within the short span of a month (s 124(5)(d)), the inference of premeditation is stronger and specific deterrence would feature more heavily in the sentencing equation. The amalgamated charge reflects the greater overall criminality of the accused in the latter situation. 74 However, I will not go so far as to say that in all situations, the overall criminality of an accused facing an amalgamated charge comprising X number of incidents of the base offence is higher than the overall criminality of an accused facing X number of separate charges for the same base offence. The Prosecution and Mr Leong appear to accept as much.
+                   91
+
+
+
+
+Foot Note 91
+
+×
+
+
+
+  PS at [45]; ACB at [35].
+
+
+
+ Everything will turn on the particular circumstances of each case. 75 Nevertheless, this conceptual untidiness does not detract from my view – that the effect of amalgamation is more than procedural. This is because amalgamation incontrovertibly exerts a substantive effect on the court’s sentencing jurisdiction in s 124(8)(a)(ii) CPC. I have difficulty accepting that the doubling of the maximum imprisonment term under s 124(8)(a)(ii) should then be completely disregarded when determining the availability of community sentences under s 337(1)(i) CPC. 76 What this means is that the Prosecution must take extreme care when framing amalgamated charges so as not to inadvertently preclude a deserving offender from receiving a community sentence. As Yong Pung How CJ noted in Sim Gek Yong v Public Prosecutor [1995] 1 SLR(R) 185 at [15], “[t]he onus lies on the Prosecution in the first place to assess the seriousness of an accused’s conduct and to frame an appropriate charge in the light of the evidence available.” That the exercise of prosecutorial discretion can affect the court’s sentencing options should come as no surprise. Even before this judgment, the Prosecution’s charging decision may preclude an offender from community orders. For instance, if the offender committed a single theft of component parts of a motor vehicle, the full gamut of community orders is available should the Prosecution charge him/her under s 379 of the Penal Code (maximum of 3 years’ imprisonment). In contrast, if the offender were charged with the aggravated variant of theft in s 379A (maximum of 7 years’ imprisonment), only an MTO is available by virtue of s 337(2)(c) CPC. As always, the Prosecution’s exercise of its discretion is open to challenge on the grounds of bad faith and unconstitutionality (Ramalingam Ravinthran v Attorney-General [2012] 2 SLR 49 at [17]). These considerations address the DJ’s concern at [16(c)] above that an amalgamated charge concerning a base offence with a maximum prescribed punishment exceeding 18 months’ imprisonment is automatically excluded from a community sentence.77 Second, English authorities discussing a provision analogous to s 124(4) CPC also take the view that the role of amalgamation is to more accurately capture the criminality of the accused. Rule 10.2(2) of the Criminal Procedure Rules 2020 (SI 2020 No 759) (UK) (“UK CPR 2020”) allows the Prosecution to frame “multiple-count offences” (ie, amalgamated offences):More than one incident of the commission of the offence may be included in a count if those incidents taken together amount to a course of conduct having regard to the time, place or purpose of commission.78 In turn, Rule 10A.11 of the UK Criminal Practice Directions 2015 sets out the circumstances (non-exhaustive) in which a single count may allege more than one incident of the commission of an offence: (a) the victim on each occasion was the same, or there was no identifiable individual victim as, for example, in a case of the unlawful importation of controlled drugs or of money laundering;(b) the alleged incidents involved a marked degree of repetition in the method employed or in their location, or both;(c) the alleged incidents took place over a clearly defined period, typically (but not necessarily) no more than about a year;(d) in any event, the defence is such as to apply to every alleged incident. Where what is in issue differs in relation to different incidents, a single “multiple incidents” count will not be appropriate (though it may be appropriate to use two or more such counts according to the circumstances and to the issues raised by the defence).79 The English Court of Appeal’s statement in R v A [2015] EWCA Crim 177 on the purpose of Rule 10.2(2) of the UK CPR 2020 (then Rule 14.2(2)) is highly instructive. The English court observed as follows (at [47]): … [T]he purpose underpinning multiple counts … is to enable the prosecution to reflect the defendant's alleged criminality when the offences are so similar and numerous that it is inappropriate to indict each occasion, or a large number of different occasions, in separate charges. …[emphasis added]80 It is immediately apparent from the foregoing extract that the ability to frame multiple-count offences is not simply a tool of convenience. 81 R v Cunningham (Christopher) [2018] EWCA Crim 2704 (“R v CC”) further crystallises the role of multiple-count offences. In that case, the appellant was charged with, inter alia, four separate counts of rape, comprising two pairs of vaginal and oral rape which occurred on two separate occasions (at [14], [50]). The Prosecution had not framed a multiple-offence charge against the appellant. However, the Prosecution opened the case to the jury in these terms: “[t]he counts on the indictment do not relate to specific instances. They are designed to reflect the repeated nature of the allegations of rape” [emphasis added] (at [13]). The English Court of Appeal observed that this was “not an accurate description of the counts of rape” (at [14]). Each count charged a single event and the Prosecution had chosen not to charge the appellant for multiple-incident offences under Rule 10.2(2) of the Criminal Procedure Rules 2015 (SI 2015 No 1490) (UK) (which is identical to Rule 10.2(2) of the UK CPR 2020) (at [14], [15]). Because of the way the charges were drawn, the court held that it had to sentence the appellant “simply for the specific offences of rape of which he had been convicted” and that it was “unable to reflect in his sentence the repeated nature of the offences of rape” (at [39], [40]). This was one reason, among others, that the court reduced the appellant’s sentence for the rape charges from 16 to 14 years’ imprisonment (at [2], [55]). Most telling is the court remark that “had the judge been in a position to sentence for the course of conduct and had [it] been in a position to assess the propriety of that sentence on the same basis, the result may well have been very different” (at [56]). 82 To be clear, I am not endorsing the proposition in R v CC that courts can never reflect the repeated nature of the offences in the sentence when discrete charges are preferred. On this point, Menon CJ’s observations in connection with the totality principle in Gan Chai Bee Anne v Public Prosecutor [2019] 4 SLR 838 at [20]–[23] remain authoritative. However, what is abundantly clear from the English authorities is that the option of framing multiple-count offences allows the Prosecution to better reflect the criminality of an accused when multiple offences are committed.83 In the final analysis, I am satisfied that the English authorities reinforce my understanding of the substantive implications of ss 124(4) and 124(8)(a)(ii) in the court’s sentencing analysis (see [69] above). Choosing an interpretation that promotes the purpose of the underlying written law84 To recapitulate, I have found that: (a) the purpose of s 337(1)(i) CPC is to preclude offences which fall outside of the rehabilitation end of the spectrum from being susceptible to community orders (see [65] above); and (b) that a purpose of the device of amalgamation in s 124(4) is to allow the Prosecution to signal the higher criminality of the accused and the gravity of the course of criminal conduct. 85 In my view, the Broad View advanced by the Prosecution and Mr Leong better promotes Parliamentary intention behind ss 124(4), 124(8)(a)(ii) and 337(1)(i) of the CPC. If the court’s sentencing jurisdiction under s 124(8)(a)(ii) CPC exceeds three years’ imprisonment, Parliament has deemed – by virtue of s 337(1)(i) CPC – that such amalgamated offences are too serious for a community order. In these cases, courts must give effect to Parliamentary intention by denying recourse to community orders.86 In contrast, the Narrow View advanced by the accused would violate Parliamentary intention in the following ways. 87 First, the Narrow View allows serious offences to access the community sentencing regime. Under the Narrow View, an amalgamated offence attracting a maximum imprisonment term of six years under s 124(8)(a)(ii) CPC (ie, base offence has maximum imprisonment term of three years) will be susceptible to a community sentence. However, a base offence with a maximum imprisonment term of six years is precluded from a community sentence (save for prescribed offences under s 337(2)(c) CPC which remain liable to an MTO). It is therefore wholly inconsistent for the amalgamated offence to be able to be punished with a community sentence. This result would fly in the face of s 337(1)(i)’s purpose, which is to ring-fence the regime of community orders from serious offences which primarily engage considerations of deterrence, retribution and/or prevention. Evidently, adopting the Narrow View may inadvertently expand the ambit of Part XVII of the CPC to include serious amalgamated offences which fall outside of the rehabilitation end of the spectrum. Notably, the Narrow View also involves ignoring the court’s enhanced sentencing jurisdiction in s 124(8)(a)(ii) CPC altogether. I find it difficult to accept that these effects were intended by Parliament.88 Second, the Narrow View undermines the ability of the device of amalgamation to more accurately reflect the accused’s overall criminality. This contravenes the purpose of s 124(4). The point is best understood when considering an amalgamated charge which concerns any base offence with a maximum imprisonment term of more than 18 months but up to three years. Under the Narrow View, as “offence” in s 337(1)(i) CPC refers to the base offence, the full suite of community orders is available. Under the Broad View, where the Maximum Enhanced Sentence of the amalgamated offence becomes the benchmark under s 337(1)(i), at best, only an MTO is available if the offence is a prescribed one (see s 337(2)(c) CPC). In situations where an amalgamated charge is appropriately framed to reflect the accused’s greater overall criminality, the Narrow View may result in a community sentence which is disproportionately low. Any greater criminality signalled by the court’s enhanced sentencing jurisdiction in s 124(8)(a)(ii) CPC is disregarded under the Narrow View. s 124(4) CPC is thereby be stripped of its substantive role for the purposes of determining the availability of a community sentence for such amalgamated offences. I see no reason to circumscribe the role of s 124(4) CPC by adopting the Narrow View.89  However, I have accepted that not in all cases will the overall criminality of an accused facing an amalgamated charge comprising X number of incidents be higher than the overall criminality of an accused facing X number of discrete charges for the same base offence (see [74] above). Put another way, it is conceptually possible for someone facing an amalgamated offence to still be deserving of a community sentence. However, in my judgment, the solution is not to read down the meaning of “offence” in s 337(1)(i) CPC, but to stress to the Prosecution that charging decisions should be made bearing in mind the impact this will have on the court’s sentencing options. Ideally, such a difficulty should never present itself before the courts.90 For these reasons, I find that the Broad View advanced by the Prosecution and Mr Leong better furthers the purpose of s 337(1)(i) of the CPC.Addressing the remaining concerns highlighted by the DJ91 In this section, I will briefly address the DJ’s concerns with the Broad View which I have not yet covered (see [16] above).92 First, the DJ found it anomalous that mentally disordered offenders facing amalgamated charges for offences carrying a maximum prescribed punishment of more than 18 months’ and up to three years’ imprisonment will not be eligible for any sort of community orders at all, while mentally disordered offenders in similar circumstances committing more serious offences carrying maximum prescribed punishments above three years’ and up to seven years’ imprisonment are eligible for MTOs under s 337(2)(c) CPC. However, for reasons explained at [73] above, if the offender is guilty of a course of conduct satisfying one or more of the factors in s 124(5), this may represent a higher degree of criminality than the commission of the same number of more serious offences which do not constitute a course of conduct under s 124(4) CPC. In such situations, the anomaly referred to by the DJ does not arise. Of course, where the converse is true, then an amalgamated charge should not be framed by the Prosecution in the first place.93 Second, the DJ found it anomalous that a mentally disordered accused facing an amalgamated charge for simple theft is excluded from community orders, whereas a similarly mentally disordered accused facing an amalgamated charge for aggravated theft under ss 379A or 380 of the Penal Code would be eligible for an MTO as these aggravated forms of theft have been prescribed under s 337(2)(c) CPC. However, I agree with the Prosecution that this anomaly will not arise because the Broad View of “offence” will apply equally to s 337(2)(c) CPC (see [98] below). As a result, due to the doubling effect under s 124(8)(a)(ii) CPC, an offender facing an amalgamated charge for aggravated theft will exceed the seven years’ maximum imprisonment term threshold in s 337(2)(c) and be precluded from MTOs.94 Finally, the DJ was concerned that the Broad View did not align with the general legislative intent articulated in the Second Reading of the CJR Bill 2018 that community orders in general and also MTOs should be made available to a larger pool of offences and offenders. The DJ referred in particular to the addition of s 337(2)(c) CPC in s 91(e) CJRA 2018.
+                   92
+
+
+
+
+Foot Note 92
+
+×
+
+
+
+  GD at [107]; ROP at p 101.
+
+
+
+ s 337(2)(c) CPC extends the availability of MTOs to offences which are punishable with jail terms exceeding three years but not exceeding seven years, and which are prescribed under the Criminal Procedure Code (Prescribed Offences for Mandatory Treatment Orders) Regulations 2018 (S 747/2018) (“Prescribed Offences Regulations”). The DJ referenced the following portion of the Second Reading of the CJR Bill 2018:
+                   93
+
+
+
+
+Foot Note 93
+
+×
+
+
+
+  GD at [109]; ROP at p 102.
+
+
+
+ It is because of cases like this, that we see value in expanding the eligibility criteria for community sentences, so that more offenders can benefit from the rehabilitative opportunities offered by the community sentences. This will have to be done in a controlled manner, to strike the right balance with deterring crime.…Mandatory Treatment Order (“MTO”) will be made available for a prescribed list of more serious offences, which are punishable with up to seven years’ imprisonment. This is up from the current availability of MTOs only for offences punishable with up to three years’ imprisonment.95 However, I have difficulty seeing how increasing the availability of MTOs in s 337(2)(c) CPC is at all relevant to the question of whether “offence” in s 337(1)(i) refers to the amalgamated or base offence. As the Prosecution rightfully points out, these are wholly different matters.
+                   94
+
+
+
+
+Foot Note 94
+
+×
+
+
+
+  PS at [38].
+
+
+
+ Mr Leong also aptly highlights
+                   95
+
+
+
+
+Foot Note 95
+
+×
+
+
+
+  ACB at [45].
+
+
+
+ Ms Indranee Rajah’s caution, in the Second Reading of the CJR Bill 2018, that increasing the availability of community sentences will have to be done in a “controlled manner, to strike the right balance with deterring crime.” In this spirit, I do not think that expanding the availability of MTOs in s 337(2) discloses Parliament’s intention to adopt the Narrow View in s 337(1)(i), which will inevitably make community orders available for more amalgamated offences. This is a leap of logic that is unsupported by the text and context of the relevant provisions and the extraneous materials. 96 As such, my view on Issue 1 remains unchanged after considering these concerns highlighted by the DJ.  Conclusion97 On a purposive reading of ss 337(1)(i) CPC, where an accused person is convicted of a charge amalgamated under s 124(4), the word “offence” refers to the amalgamated offence, rather than the base offence. Therefore, if the court’s enhanced sentencing jurisdiction under s 124(8)(a)(ii) CPC exceeds three years’ imprisonment, the court is statutorily precluded by s 337(1)(i) from imposing community sentences under Part XVII of the CPC even if each base offence of the amalgamated charge is punishable with an imprisonment term of three years or less.98 A corollary of the above is that the word “offence” in s 337(2)(c) CPC must be interpreted in the same manner as s 337(1)(i) CPC. There is nothing to suggest that the position is otherwise. To recapitulate, under s 337(2)(c), where an offence is punishable with a term of imprisonment exceeding three years but not exceeding seven years, the offence must be identified in the Prescribed Offences Regulations in order for an MTO to be available. Since an amalgamated offence is distinct in law from its base offences, and the Prescribed Offences Regulations does not include offences amalgamated under s 124(4) of the CPC, amalgamated offences falling within this particular sentencing range are necessarily precluded from MTOs. 99 In this case, the maximum imprisonment term under s 124(8)(a)(ii) CPC in respect of the Amalgamated Cheating Charge is six years. This exceeds the three year threshold in s 337(1)(i) CPC, thus precluding the accused from a community sentence. Given the Maximum Enhanced Sentence is up to six years’ imprisonment, the accused is also ineligible for an MTO as offences amalgamated under s 124(4) are not prescribed offences for the purposes of s 337(2)(c) CPC.Issue 2: what is the appropriate sentence?100 Given my conclusion on Issue 1, it follows that the accused’s cross-appeal must fail. A SDO is not statutorily available and neither is an MTO. The remaining question is what the appropriate sentence should be. Amalgamated Cheating ChargeWhat is the dominant sentencing consideration? 101 It is uncontroversial that as a starting point, deterrence is the dominant sentencing consideration for cheating offences involving credit cards. The DJ accepted this.
+                   96
+
+
+
+
+Foot Note 96
+
+×
+
+
+
+  GD at [51], [56]; ROP at pp 79–80.
+
+
+
+ The primacy of both general and specific deterrence is established in Fernando Payagala by V K Rajah J (at [49], [88]). The reasons for this include the fact that credit card fraud involves the deception of financial institutions and business establishments which is easy to commit but difficult to detect (at [19]), tarnishes Singapore’s standing as an international financial, commercial and transit hub and/or a preferred destination for tourism, trade and investment (at [20]) and inflicts intangible damage (on top of the actual amount involved in the credit card fraud) in the form of inconvenience, embarrassment, loss of reputation, and time and costs expended in investigations and to enhance security measures (at [49]). Likewise, in Idya Nurhazlyn Menon CJ at [48], citing Fernando Payagala at [88], held that where the offence entails the misuse of a financial instrument or facility which threatens the conduct of legitimate commerce, general deterrence would take centre stage.102 However, the DJ eventually concluded that rehabilitation was the dominant sentencing consideration, largely due to the contributory link between the accused’s two mental disorders and the offences.
+                   97
+
+
+
+
+Foot Note 97
+
+×
+
+
+
+  GD at [65]–[71]; ROP at pp 83–85.
+
+
+
+ In particular, she found that the significance of both specific and general deterrence was reduced because “[t]he accused’s mental disorders were serious enough to impact affect his ability to make proper and rational choices and decisions and to fully appreciate the wrongfulness of the acts, and both had operated on his state of mind and contributed to the commission of the offences.”
+                   98
+
+
+
+
+Foot Note 98
+
+×
+
+
+
+  GD at [65]; ROP at pp 83–84.
+
+
+
+103 The Prosecution submits that deterrence remains the dominant consideration as: (a) the accused was motivated by greed;
+                   99
+
+
+
+
+Foot Note 99
+
+×
+
+
+
+  PS at [69].
+
+
+
+ and (b) the offences were premeditated (see [25] above).104 The existence of a mental disorder on the part of the offender is always a relevant factor in the sentencing process. However, the manner and extent of its relevance depends on the circumstances of each case, in particular, the nature and severity of the mental disorder (Lim Ghim Peow v Public Prosecutor [2014] 4 SLR 1287 (“Lim Ghim Peow”) at [25]). In particular, the Court of Appeal pointed out in Lim Ghim Peow (at [36]) that specific deterrence may remain relevant in instances where the offence is premeditated or where there is a conscious choice to commit the offence (this principle was affirmed by Chan Seng Onn J in Public Prosecutor v Chong Hou En [2015] 3 SLR 222 (“Chong Hou En”) at [24(d)]). As for general deterrence, this may still be accorded full weight in some circumstances, such as where the mental disorder is not serious or is not causally related to the commission of the offence, and the offence is a serious one (Lim Ghim Peow at [28]; Chong Hou En at [24(c)]).105 Having considered all the relevant principles and circumstances of this case, I am satisfied that general and specific deterrence remain the dominant considerations. My reasons are as follows.106 First, as a preliminary point, I agree with the DJ’s decision not to place any weight on Dr Lim’s opinion in his second report of there being a “causal link” between the accused’s OCPD and the offences.
+                   100
+
+
+
+
+Foot Note 100
+
+×
+
+
+
+  GD at [44]; ROP at p 75; Dr Lim’s 2nd Report; ROP at p 555.
+
+
+
+ This departure from his first report, which merely states that the OCPD “contributed to the commitment of the alleged offence” [emphasis added], remains unexplained and unsubstantiated.
+                   101
+
+
+
+
+Foot Note 101
+
+×
+
+
+
+  Dr Lim’s 1st Report at [93]; ROP at p 476.
+
+
+
+ As such, I proceed on the basis that there is a contributory link between the accused’s mental disorders and the commission of the offences in the proceeded charges. This was the conclusion reached in both of Dr Goh’s reports and Dr Lim’s first report (see [10] above).107 Second, the accused committed the offence in the Amalgamated Cheating Charge (“the Amalgamated Cheating Offence”) with premeditation. Applying the guidance in Lim Ghim Peow and Chong Hou En, I do not think the impact of the accused’s mental disorders is so significant as to displace the importance of specific deterrence. Such premeditation is apparent from the following factors: (a) At the time he misappropriated the Diners Card, the accused knew that it belonged to the complainant.
+                   102
+
+
+
+
+Foot Note 102
+
+×
+
+
+
+  SOF at [5]; ROP at p 14.
+
+
+
+ On his own account, he also “had adequate savings in his bank account”.
+                   103
+
+
+
+
+Foot Note 103
+
+×
+
+
+
+  Dr Lim’s 1st Report at [46]; ROP at p 472.
+
+
+
+ Yet, the accused “struggled with the idea” of using the Diners Card for two days before committing the Amalgamated Cheating Offence from 4 May 2019 to 27 June 2019 (ie, over a span of more than a month).
+                   104
+
+
+
+
+Foot Note 104
+
+×
+
+
+
+  Dr Lim’s 1st Report at [46]; ROP at p 472; ASA at [4.8].
+
+
+
+ In fact, even the DJ recognised that “the offences were premeditated, in the sense that the acts were not committed at the spur of the moment and the accused had time to consider his actions, both before he started using the credit card and over the several weeks that he continued to use it”;
+                   105
+
+
+
+
+Foot Note 105
+
+×
+
+
+
+  GD at [59]; ROP at pp 81–82.
+
+
+
+ and(b) The accused made up principled rules on what to purchase, including that he would “only buy things that he could afford” as he had the intention of returning the money to the complainant when his finances improved.
+                   106
+
+
+
+
+Foot Note 106
+
+×
+
+
+
+  Dr Lim’s 1st Report at [47], [94]; ROP at pp 472, 476.
+
+
+
+ 108 These factors show that the accused rationalised his decision to commit the Amalgamated Cheating Offence with some degree of care. Notwithstanding his mental disorders, he retained the mental ability to control or refrain himself from offending but chose not to do so. 109 Further, insofar as the accused’s ability to consider the risks of offending and balance it against the reward he hoped to get before taking a chance was impaired, this lack of “good judgment”
+                   107
+
+
+
+
+Foot Note 107
+
+×
+
+
+
+  GD at [49]; ROP at p 77.
+
+
+
+ is not mitigating. As Menon CJ explained in Kanagaratnam Nicholas Jens v Public Prosecutor [2019] 5 SLR 887 at [32], such lack of judgment “can hardly be mitigating because every criminal hopes not to get caught and can be said to lack judgment in this respect”.110 Third, while the DJ found that the mental disorders diminished the accused’s capacity to “fully appreciate the nature and wrongfulness of his choices”,
+                   108
+
+
+
+
+Foot Note 108
+
+×
+
+
+
+  GD at [50]; ROP at p 78.
+
+
+
+ the degree of impairment in this regard is not serious enough to displace the primacy of deterrence for the Amalgamated Cheating Offence (and, for that matter, the dishonest misappropriation offence). Crucially, Dr Goh noted that the accused “was aware of the nature and quality of his actions”
+                   109
+
+
+
+
+Foot Note 109
+
+×
+
+
+
+  Dr Goh’s 1st Report at [24(c)]; ROP at p 493.
+
+
+
+ and “appreciated the consequences of such wrongful acts on himself and his family”.
+                   110
+
+
+
+
+Foot Note 110
+
+×
+
+
+
+  Dr Goh’s 1st Report at [24(e)]; ROP at p 493.
+
+
+
+ 111 In particular connection with the Amalgamated Cheating Offence, while the accused initially told Dr Lim that he was shocked at the number of items he bought and that “[h]is behaviour was not apparent to him until he received the Charge sheets”, this contradicts his account to Dr Goh that even as he was buying the items, he “realized he bought a lot of things for his family and kept those items to give to them on a later date.”
+                   111
+
+
+
+
+Foot Note 111
+
+×
+
+
+
+  Dr Lim’s 1st Report at [50]; ROP at p 472; Dr Goh’s 1st Report at [16]; ROP at p 492.
+
+
+
+ Further, the fact that the accused deliberated over whether to use the Diners Card for two days and intended to return the money spent to the complainant reinforces the point that he was aware of the nature of his actions. 112 In light of these circumstances, even if the DJ is right, the fact remains that the accused committed both offences in the proceeded charges whilst conscious of their legal and moral impropriety. Accordingly, this is not a case where a serious mental disorder renders specific or general deterrence less effective.113 Fourth, I am satisfied that the accused offended for personal gain. Persons who act out of pure self-interest and greed will rarely be treated with much sympathy (Zhao Zhipeng v Public Prosecutor [2008] 4 SLR(R) 879 at [37]). The DJ reached a different conclusion. She found that the accused was enmeshed in a gift-buying cycle for his wife, mother and father and that “[a]lthough he derived some personal gain from a few of the purchases, the buying spree was driven by multiple motives under the haze of his mental disorders.”
+                   112
+
+
+
+
+Foot Note 112
+
+×
+
+
+
+  GD at [58]; ROP at p 81.
+
+
+
+ 114 I accept that the accused’s mental disorders adversely affected his ability to cope with stressful life events, including the fact that both of his parents had been diagnosed with cancer in the years leading up to the offences and that his wife had moved out of the house in January 2019 (see [10] above).
+                   113
+
+
+
+
+Foot Note 113
+
+×
+
+
+
+  GD at [36]; ROP at pp 70–71; Dr Goh’s 1st Report at [14]; ROP at p 491; Dr Lim’s 1st Report at [58]; ROP at p 473.
+
+
+
+ In that sense, he did not offend purely out of self-interest or greed. However, while the accused’s mental disorders reduce his blameworthiness, this does not change the fact that he was motivated, at least in part, by self-interest. In the Amalgamated Cheating Charge, many of the items purchased were non-essential items, including Oakley and Prada sunglasses, bottles of Chivas Regal, “wellness packages” and various branded apparel from, inter alia, Massimo Dutti, Ted Baker, Tory Burch and ECCO.
+                   114
+
+
+
+
+Foot Note 114
+
+×
+
+
+
+  ROP at pp 9–13.
+
+
+
+ Even in the TIC Cheating Charge DAC-919391-2019, the accused used the Diners Card at, inter alia, restaurants under the “Imperial Treasure” brand and lounges of hotels (viz, “The Westin” and “Pan Pacific”) to order food and/or drinks.
+                   115
+
+
+
+
+Foot Note 115
+
+×
+
+
+
+  ROP at pp 24–25.
+
+
+
+ Considering the extravagance of these purchases alongside the accused’s acknowledgement that he had adequate savings to fund these purchases himself, the obvious inference is that the accused sought to live an “unrealistic”
+                   116
+
+
+
+
+Foot Note 116
+
+×
+
+
+
+  Accused’s Summary of Mitigation of 6 April 2020 in the court below at [3]; ROP at 549.
+
+
+
+ lifestyle on the complainant’s tab. In these circumstances, the contributory role of the mental disorders is not so significant as to displace the importance of specific or general deterrence in this case. However, as I subsequently will explain (see [126] below), this does entail that the mental disorders carry no mitigating value. 115 Fifth, I am unable to accept that the UOB ATM Card Incident shows that the mental disorders played a substantial contributory role in respect of the Amalgamated Cheating Offence. The accused submits that the UOB ATM Card Incident shows his distaste for crime and that the mental illnesses had clouded his judgment at the time of the Amalgamated Cheating Offence.
+                   117
+
+
+
+
+Foot Note 117
+
+×
+
+
+
+  ASA at [24.1(9)].
+
+
+
+ However, it can equally be said that the incident confirms that the accused knew the legal and moral wrongfulness of retaining the UOB ATM card for his personal use, and was capable of exercising self-control to restrain himself from such wrongful use. At best, the ATM incident is neutral to the question of whether the accused’s mental disorders were serious enough for rehabilitation to displace deterrence as the dominant sentencing consideration.116 Sixth, the fact that the accused sought treatment at the IMH for his mental disorders after the commission of the offences does not reduce the need for specific and general deterrence.
+                   118
+
+
+
+
+Foot Note 118
+
+×
+
+
+
+  GD at [126]; ROP at p 108; Dr Goh’s 1st MTO Report of 13 July 2020 at [4]; ROP at p 888; ASA at [34.6(1)].
+
+
+
+ I am mindful that in Public Prosecutor v Goh Lee Yin and another appeal [2008] 1 SLR(R) 824 (“Goh Lee Yin”) at [95], V K Rajah JA stated:… in the normal case whereby the offender concerned has actively sought regular and extensive treatment, and has shown considerable effort in avoiding reoffending, … the need for general deterrence would be fairly low or even nil.[emphasis added]117 However, in this passage, V K Rajah JA was speaking of a repeat offender who knows of his/her psychiatric condition, pro-actively undertakes treatment, but nevertheless commits the offence he/she is now being charged for despite his/her best efforts. Understood in its proper context, Goh Lee Yin does not stand for the proposition that seeking treatment after the offence removes the need for general deterrence. Rather, in light of the insubstantial contributory link of the mental disorders in the circumstances of this case, and the fact that the accused’s offences involve the misuse of a financial facility which undermines the reliability of credit cards as a mode of payment, the need for general deterrence remains paramount. However, I subsequently mention (see [134] below) the relevance of the accused undertaking such IMH treatment to the issue of remorse.118 The six points above also distinguish the cases relied on by the accused to challenge the Prosecution’s appeal. For instance, in GCX, the MTO suitability report went so far as to say that the psychiatric condition of the offender “substantially contributed” [emphasis added] to the commission of the offence (at [79], [83]). No such strong language is used in the four psychiatric reports or the MTO suitability reports in this case,
+                   119
+
+
+
+
+Foot Note 119
+
+×
+
+
+
+  For MTO suitability reports, see ROP at pp 888–893.
+
+
+
+ nor do the six points just discussed bear out a significant connection between the accused’s mental disorders and the commission of the offences. Christina Cheong is also unpersuasive as the s 403 Penal Code offence was said to be non-serious (at [24]) and the offender’s psychiatric disorders impaired her culpability to a greater extent (at [28]–[29]). 119 In these premises, I find that the DJ erred in law and fact in finding that rehabilitation is the dominant sentencing consideration. The starting position in Fernando Payagala and Idya Nurhazlyn, that general and specific deterrence are the primary considerations in credit card cheating offences, applies in this case.The appropriate sentence120 For s 417 Penal Code offences, a custodial sentence will generally be appropriate as long as the offence in question causes a victim to part with property that has more than negligible value (Idya Nurhazlyn at [47]). The primary yardstick for the appropriate sentence will often be the value of the property involved (Idya Nurhazlyn at [48]). After surveying various authorities, Menon CJ in Idya Nurhazlyn observed that custodial sentences between four and eight months’ imprisonment have been imposed for cheating offences that resulted in losses of between $1,000 and $15,000 (at [47]). However, there are numerous other factors that must be taken into account in every case, including (at [48]): (a) whether the offence entails the misuse of a financial instrument or facility which threatens the conduct of legitimate commerce. If so, the need for general deterrence is likely to take centre stage;(b) the number and vulnerability of victims; and(c) the level of premeditation and deception involved.121 The Prosecution submits that before considering the mitigatory impact of the accused’s mental disorders, at least 12 months’ imprisonment is justified.
+                   120
+
+
+
+
+Foot Note 120
+
+×
+
+
+
+  PS at [80], [82].
+
+
+
+ Having considered the guidance in Idya Nurhazlyn, I agree with the Prosecution’s position. The Amalgamated Cheating Charge involves a sum of $20,642.48. This is higher than $15,000 which, under the analysis in Idya Nurhazlyn, would conventionally attract a sentence of eight months’ imprisonment at the outset. 122 The following aggravating factors also enhance the accused’s culpability: (a) I find that the degree of premeditation (see [107] above) the accused displayed in respect of the amalgamated cheating offence is moderate. It is trite that planned and premeditated offences are more alarming, insidious and malignant, thus warranting more serious treatment. This applies with equal force to non-syndicated offences (Fernando Payagala at [41]); (b) The accused offended for personal gain (see [113] above);(c) The accused committed a spree of 103 incidents of cheating over more than a month. This extended period of deception and repeated engagement in criminal activity evidences a disregard for the law. I am also giving effect to the court’s observation in Fernando Payagala that the sentence meted out to a serial cheater could be significantly higher than that imposed on a single offender for the same quantum (see [70] above). 123 In connection with level of harm in this case, it bears repeating that the accused’s offences involve the misuse of a financial facility which undermines the reliability of credit cards as a mode of payment and Singapore’s reputation as an internationally respected financial, commercial and investment hub. 124 Further, while the accused made full restitution voluntarily, thereby reducing the economic harm inflicted, I am unable to ascribe this significant mitigating weight. For one, the accused only made restitution on 6 January 2020,
+                   121
+
+
+
+
+Foot Note 121
+
+×
+
+
+
+  ROP at p 543.
+
+
+
+ ie, after he was caught for the offences.
+                   122
+
+
+
+
+Foot Note 122
+
+×
+
+
+
+  SOF at [4]; ROP at p 14.
+
+
+
+ Even further still, the following email that the accused sent to Diners Club on 6 April 2020 undermines any suggestion that restitution was made out of genuine remorse. In this email, which post-dates the making of restitution, the accused informs Diners Club that the “mistake to [it] … has been fixed” and that if Diners Club “drop[ped] the case against [him] … [he] can continue contributing to society in a meaningful way …”.
+                   123
+
+
+
+
+Foot Note 123
+
+×
+
+
+
+  ROP at pp 546–547.
+
+
+
+ This was a clear attempt to lobby Diners Club to drop the charges against him in the misguided belief that it had the legal power to do so.125 For these reasons, I agree that at least 12 months’ imprisonment is appropriate before considering the mitigating value of the accused’s mental disorders.126 However, as the Prosecution accepts, the sentence imposed must account for the contributory link between the accused’s mental disorders and the commission of the offences in the proceeded charges. Dr Goh reasoned that the accused’s OCPD and major depressive episode made it harder for him to cope with the changes in his life then, including his parents’ illnesses and his wife moving out just a year after they got married.
+                   124
+
+
+
+
+Foot Note 124
+
+×
+
+
+
+  Dr Goh’s 1st Report at [24(a)]–[24(b)]; ROP at p 493.
+
+
+
+ Dr Lim also found that the OCPD affected the accused’s good judgment and contributed to the commitment of the offences.
+                   125
+
+
+
+
+Foot Note 125
+
+×
+
+
+
+  Dr Lim’s 1st Report at [93]; ROP at p 476.
+
+
+
+ While I earlier found that the impact of these mental disorders does not displace deterrence as the dominant sentencing consideration, it is not wholly devoid of mitigating value. For the reasons described in Dr Goh and Dr Lim’s psychiatric reports, the presence of the two mental disorders reduces the culpability of the accused. Therefore, lowering the sentence to eight months’ imprisonment is a fair and just outcome.(1) Further downward adjustment on account of offender-specific factors?127 I now consider the relevance (if any) of certain offender-specific mitigating factors raised by the accused.128 First, the accused argues that hardship to himself and his family is mitigating. In particular, he points to the fact that he needs to support his family (including his parents) and that he took “quite some time” to find a new job. However, it is trite that hardship to the offender’s family or himself/herself is not mitigating, save in exceptional circumstances (Lim Bee Ngan Karen v Public Prosecutor [2015] 4 SLR 1120 at [71]–[72]; Stansilas Fabian Kester v Public Prosecutor [2017] 5 SLR 755 (“Stansilas Fabian Kester”) at [110]). I am not satisfied that such exceptional circumstances arise in this case.129 Second, the accused highlights his charitable works, including donating blood before his arrest and supporting environmental causes, presumably to demonstrate his good character. However, Menon CJ in Public Prosecutor v Lim Cheng Ji Alvin [2017] 5 SLR 671 (“Alvin Lim”) at [23] (citing his earlier judgment in Ang Peng Tiam v Singapore Medical Council and another matter [2017] SGHC 143 at [100]–[101]) explained that alleged charitable or other good works cannot be regarded as mitigating on some form of social accounting that balances the past good works of the offender with his/her offences. The only basis on which limited weight might be given to such works is if they are sufficient to demonstrate that the offence in question is a one-off aberration, which might then displace the need for specific deterrence. However, the modest mitigatory weight attached to evidence of good character and/or public service can be displaced where other sentencing objectives assume greater importance (Stansilas Fabian Kester at [102(c)]).130 In view of the principles in Alvin Lim and Stansilas Fabian Kester, I dismiss the accused’s submission on this point for two reasons. First, I do not think the examples of charitable work and public service cited are so compelling as to establish that the Amalgamated Cheating Offence (or the dishonest misappropriation offence) is a one-off aberration. My view remains unchanged even when considering the accused’s academic record (see [31(b)(ii)] above). Second, even if I am wrong, the public interest in generally deterring credit card-related cheating offences displaces the modest mitigatory weight which attaches to the accused’s record of charitable work and public service.131 Third the accused argues that he has a positive employment record, even with the Company. However, an accused’s employment record is only mitigating if there is a “rational relationship” between the accused’s contributions as an exemplary employee and the seriousness of the offence committed against the employer (Public Prosecutor v Charan Singh [2013] SGHC 115 (“Charan Singh”) at [35]). In Charan Singh, the offender’s contributions to the Land Transport Authority (“LTA”) as an employee were mitigating. This was because LTA was the victim of the offence under s 6(c) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed). The accused had knowingly used a materially false receipt intended by him to mislead LTA (see [35]). In contrast, in the present case, the Company is not the victim in any of the proceeded charges. The victims in the Amalgamated Cheating Offence are the Employees of the various retailers deceived by the accused into believing that he was the rightful holder of the Diners Card. The victim in the Dishonest Misappropriation Charge is the complainant. Consequently, I am unable to ascribe the accused’s good employment record any mitigating weight. 132 Fourth, I am not minded to further reduce the sentence imposed on account of the accused’s remorse. I note that the DJ found that “the accused was deeply remorseful – he had pleaded guilty, made full restitution and written to the victims to apologise”.
+                   126
+
+
+
+
+Foot Note 126
+
+×
+
+
+
+  GD at [126]; ROP at p 108.
+
+
+
+ 133 With regards the accused’s early plea of guilt, I have already taken this into account when arriving at the starting point of 12 months’ imprisonment above. I applied a four-month uplift from the range of four to eight months’ imprisonment set out in Idya Nurhazlyn by balancing the aggravating and mitigating circumstances in this case with Idya Nurhazlyn itself, Willie Tan v Public Prosecutor MA 359/93/01 and Chew Im v Public Prosecutor MA 308/2000/01 (the latter two are unreported cases cited at [47] of Idya Nurhazlyn; see Sentencing Practice in the Subordinate Courts (LexisNexis, 3rd Ed, 2013) at pp 839 and 843). All these three cases involved offenders who pleaded guilty to, inter alia, s 417 Penal Code charges. In other words, by using these cases as benchmarks, I have already accounted for the mitigating value of the accused’s plea of guilt. 134 With regards the accused’s voluntary restitution, for reasons explained at [124] above, the 6 April 2020 email deprives it of substantial mitigating value. The same email also undermines the accused’s argument that his apology letters to the victims evidence genuine remorse. Whatever remorse is disclosed in these apologies or, for that matter, his voluntary undertaking of IMH treatment, is sufficiently reflected in the four-month downward adjustment from the starting point of 12 months’ imprisonment. 135 Finally, the accused’s argument that he did not attempt to conceal himself and that the police found him easily is difficult to believe. After the Diners Card was declined at Cedele in HillV2, Singapore, the accused was careful enough to discard it.
+                   127
+
+
+
+
+Foot Note 127
+
+×
+
+
+
+  SOF at [7]; ROP at p 15.
+
+
+
+ During the period of offending, the accused also used his personal credit card to pay for his mother’s medical fees.
+                   128
+
+
+
+
+Foot Note 128
+
+×
+
+
+
+  Dr Lim’s 1st Report at [53]; ROP at p 472.
+
+
+
+ One possible inference is that the accused was cautious to avoid using the Diners Card to make payments which were easily traceable back to him. Further, while the complainant lodged a police report on 12 June 2019, the accused was only arrested and brought in for investigation on 2 July 2019.
+                   129
+
+
+
+
+Foot Note 129
+
+×
+
+
+
+  SOF at [3]–[4]; ROP at p 14.
+
+
+
+ Given these circumstances, I am not prepared to accord significant mitigating weight to the accused’s claim that he did not conceal his involvement in the offences.136 For these reasons, I find that the DJ erred in fact by finding that the accused was deeply remorseful.137 Based on the foregoing, the appropriate sentence for the Amalgamated Cheating Offence is 8 months’ imprisonment. I should state that rehabilitation, as a sentencing consideration, is not entirely foregone. An accused person could well be rehabilitated in prison (Chong Hou En at [24(f)], cited in Public Prosecutor v Low Ji Qing [2019] 5 SLR 769 at [44]). In my view, the imprisonment sentence achieves the right balance among the various sentencing considerations.Dishonest Misappropriation Charge138 Considering the s 403 Penal Code authorities involving misappropriations of credit cards discussed in Fernando Payagala (at [85]– [86]), viz, Fadilah bte Omar v Public Prosecutor MA 168/1996 and Public Prosecutor v Siti Nor Anin Binti Tugiman DAC 10126/2006, I find that two months’ imprisonment is appropriate. For completeness, in arriving at this decision, my conclusion that deterrence is the dominant consideration in the Amalgamated Cheating Charge applies equally here. I also re-iterate my views on the relevant offender-specific factors discussed at [127]–[137] above. Global sentence139 The Prosecution accepts that the sentences for the two proceeded charges ought to run concurrently.
+                   130
+
+
+
+
+Foot Note 130
+
+×
+
+
+
+  PS at [81].
+
+
+
+ The global sentence imposed is eight months’ imprisonment.Conclusion140 For these reasons, I allow the Prosecution’s appeal on the grounds that the DJ erred in law and fact in imposing an SDO and MTO. Accordingly, I dismiss the accused’s cross-appeal.141 Finally, I must record my deep gratitude to Mr Leong for the considerable effort applied by him in researching the legal issues and preparing an objective, clear and comprehensive submission which was of immense assistance to me.  Vincent HoongJudge of the High CourtMohamed Faizal SC and Niranjan Ranjakunalan (Attorney-General’s Chambers) for the appellant in MA 9689/2020/01 and respondent in MA 9689/2020/02;Harbajan Singh s/o Karpal Singh (Daisy Yeo & Co.) for the respondent in MA 9689/2020/01 and appellant in MA 9689/2020/02;Victor Leong (Audent Chambers LLC) as amicus curiae.Annex 1: List of ItemsS/NEmployee/MerchantItemsAmount1. Cashier of Harvey Norman Store Millenia WalkOne Karcher vacuum Robo690.002. As above One Dyson handtick fluffy vacuum749.003. Cashier of Optical 88 Store Raffles City Shopping CentreOne Oakley sunglasses 325.004. Cashier of Watson Personal Care Store Marina Bay Financial CentreCertain product61.345. Cashier of NTUC Fairprice Tg Pagar PlazaCertain product29.706. Cashier of Giant Store Suntec City MallCertain product3.207. Cashier of Isetan Store OrchardCertain product96.908. Cashier of Isetan Store OrchardTwo pairs of Nike ladies top and two pairs of Nike mens top151.309. Cashier of Isetan Store Gateway One Panasonic appliance109.0010. Cashier of Tangs Store Orchard One pair of ECCO Vitrus III shoes242.9111. Cashier of Watson Personal Care Store OrchardRxon Tripple Action product12.9012. Cashier of Watson Personal Care Marina BoulevardAssortment of products85.4013. Cashier of Jasons Deli Marina Bay LinkCertain product18.6014. As aboveSuntory Yamazaki Chivas Regal R/S Plat Vodka322.0015. As aboveMandom Gel Original Hand soap Tuku Junmai75.9016. As aboveDurex Close Fit Jinru Chamisul30.8017. As aboveSt of Bangkok product9.9018. As aboveAssortment of products21.2719. As aboveCertain product4.9020. As aboveAssortment of products38.6521. As above Certain product4.9022. Cashier of Jasons Market PlaceAssortment of products194.0023. As aboveAssortment of products37.7524. Cashier of Posh Wellness Pte Ltd Raffles BoulevardWellness Package510.0025. As aboveWellness Package 510.0026. Cashier of Tangs Store OrchardShoe products132.0027. As aboveShoe products125.0028. As aboveBenjamin Barker product314.0029. As aboveShoe products144.4030. As aboveOne Nike men product39.0031. As aboveAijek promotion product195.3032. As aboveNike women products278.0033. As aboveCKJ product341.6034. As aboveNike women products176.5035. As aboveFP Women product219.0036. As aboveFP Men product229.0037. Cashier of Tangs Store Harbour FrontFP Men product79.6038. As aboveNike women products159.2039. As aboveNike women products347.8040. As aboveLojel product209.0041. As aboveLojel Luggage bag159.0042. As aboveNike and Adidas products186.0043. As aboveFP men product80.0044. As aboveNike women products366.3045. As above Nike and Adidas products378.0046. Cashier of Takashimaya Shopping Centre OrchardTed Baker ladies wear144.5047. As above Ted Baker ladies wear199.0048. As above Ted Baker ladies wear399.2049. As above Fred Perry Mens wear143.4050. As above Ralf Lauren Cosmetics119.0051. As above Calvin Klein Mens wear108.0052. As above Ted Baker Mens wear293.3053. As above Fred Perry Mens wear 143.4054. As above Adidas product 180.0055. Cashier of Metro CentrepointTory Burch product380.0056. Cashier of Guardian Marina Bay SandsTory Burch product380.0057. As above Assortment of products75.0558. Cashier of Guardian Ion OrchardAssortment of products41.3559. As aboveAssortment of products36.7060. Cashier of Adidas Marina Bay SandsApparels170.8061. As aboveApparels685.0062. As aboveApparels150.0063. As aboveApparels260.0064. Cashier of Adidas Suntec CityApparels40.0065. As aboveApparels45.0066. As aboveApparels231.1067. As aboveApparels70.0068. As aboveApparels362.5069. Cashier of Limited EDT Chambers at Marina Bay SandsCertain product280.0070. Cashier of Uniqlo at ION OrchardApparels50.6071. Cashier of Uniqlo at Vivocity SCApparels 29.8072. Cashier of Baccarat International at Marina SquarePaisley Tie45.9073. Cashier of Robinsons at Raffles CityPrada Sunglasses275.0074. As aboveCertain product278.9175. As abovePrada Sunglasses280.0076. As aboveAdidas product127.5077. Cashier of Robinsons at The Heeren OrchardCertain product56.0078. As aboveSunglasses459.0079. As aboveCertain product 199.0080. As aboveTed Baker product93.4081. As aboveTed Baker product489.0082. As aboveTed Baker product504.0083. As aboveCorvari lace shoe409.1584. As aboveMario Minardi shoe 332.1085. As aboveTed Baker product 191.2086. As aboveTed Baker product 191.2087. As aboveTed Baker product350.0088. As aboveTed Baker product237.3089. As aboveSunglasses204.0090. Cashier of Abercrombie & Fitch Orchard RoadApparels240.9091. As aboveApparels 238.0092. As aboveApparels 364.0093. As aboveApparels124.0094. As aboveApparels 89.9095. As aboveApparels177.9096. Cashier of Massimo Dutti at Marina SquareApparels 300.0097. As aboveApparels 175.0098. Cashier of Zara Boutique at Marina SquareApparels 55.9099. As aboveApparels278.90100. As aboveApparels69.90101. Cashier of Zara Boutique at Marina Bay SandsApparels125.80102. Cashier of Zara Boutique at Vivocity SCApparels 79.90103. Cashier of Abercrombie & Fitch Orchard RoadCertain product88.00

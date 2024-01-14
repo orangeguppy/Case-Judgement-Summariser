@@ -1,0 +1,1890 @@
+
+In the COURT OF APPEAL OF THE REPUBLIC OF SINGAPORE[2021] SGCA 71Civil Appeal No 229 of 2019 and Summons No 2 of 2021BetweenOxley Consortium Pte Ltd… Appellant AndGeetex Enterprises Singapore (Pte) Ltd… RespondentIn the matter of Originating Summons No 1334 of 2018In the matter of sections 49 and 50 of the Arbitration Act (Cap 10, 2002 Rev Ed)AndIn the matter of Order 69 rule 7 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed)AndIn the matter of an arbitration award dated 9 October 2018 in an arbitration in Singapore between Geetex Enterprises Singapore (Pte) Ltd as Claimant and Oxley Consortium Pte Ltd as RespondentBetweenOxley Consortium Pte Ltd… PlaintiffAndGeetex Enterprises Singapore (Pte) Ltd … Defendantjudgment[Arbitration] — [Award] — [Recourse against award] — [Appeal under Arbitration Act] [Statutory Interpretation] — [Construction of standard form contract mandated by statute] This judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in LawNet and/or the Singapore Law Reports.Oxley Consortium Pte LtdvGeetex Enterprises Singapore (Pte) Ltd and another matter [2020] SGCA 71Court of Appeal — Civil Appeal No 229 of 2019 and Summons No 2 of 2021Sundaresh Menon CJ, Andrew Phang Boon Leong JCA and Quentin Loh JAD21 January 202128 July 2021 Judgment reserved.Quentin Loh JAD (delivering the judgment of the court):Introduction1 This appeal concerns five questions of law which arise from an arbitration award. These questions were posed by the appellant to the High Court Judge (“the Judge”) below pursuant to s 49 of the Arbitration Act (Cap 10, 2002 Rev Ed) (“AA”). 2 The answers to the five questions of law turn on the interpretation of three disputed phrases in cl 15.4 of two Sale and Purchase Agreements (“SPA(s)”) entered into by the appellant as developer-vendor and the respondent as purchaser. Clause 15.4 (see [29] below) is a term in a standard form contract found in Form D of the Schedule to the Sale of Commercial Properties Rules (Cap 281, R 1, 1999 Rev Ed) (“the Rules”). The use of Form D is statutorily mandated by s 5 of the Sale of Commercial Properties Act (Cap 281, 1985 Rev Ed) (“the Act”) read with r 7 of the Rules (collectively “the legislative scheme”). 3 We allow the appeal in part and set out our reasons herein.4 It bears noting at the outset that in their submissions before this court, the appellants have raised various arguments which in effect challenge or ignore the arbitrator’s findings of fact. The appellant has also interwoven arguments on points that were not raised before the arbitrator. This is impermissible. 5 Singapore has adopted a dual track regime for arbitration, one track for international arbitration under the International Arbitration Act (Cap 143A, 2002 Rev Ed) (“IAA”) and another track for domestic arbitration under the AA. Some practitioners have opined that, generally speaking, there is a higher degree of court intervention in domestic arbitration as compared to international arbitration.
+                   1
+
+
+
+
+Foot Note 1
+
+×
+
+
+
+  See for example, Francis Xavier, “The Domestic and International Arbitration Regimes in Singapore” in Lawlines (Rajah & Tann, 3(3), 2011; see also Morgan Lewis Stamford LLC, An Introductory Guide to Arbitration in Singapore (Morgan Lewis Stamford LLC, 2nd Ed, 2018) at p 1.
+
+
+
+ Whilst this may be true at a general level, especially when compared to the provisions of the IAA and the UNCITRAL Model Law on International Commercial Arbitration (“Model Law”), it should not be forgotten that the court can only intervene in instances where the statutory provisions of the AA allow the court to do so. Section 47 of the AA provides that the court shall not have jurisdiction to confirm, vary, set aside or remit an award except where provided in the AA. The grounds upon which the court can set aside an award in s 48 AA are adopted from the Model Law and mirror the grounds under the New York Convention.
+                   2
+
+
+
+
+Foot Note 2
+
+×
+
+
+
+  Halsbury’s Laws of Singapore vol 1(2) (LexisNexis, 2017 Reissue) para 20.128.
+
+
+
+ In L W Infrastructure Pte Ltd v Lim Chin San Contractors Pte Ltd and another appeal [2013] 1 SLR 125, this Court ruled that given the clear legislative intent to align domestic arbitration laws with the Model Law, the court was entitled, indeed even required, to have regard to the scheme of the IAA or the Model Law for guidance on the interpretation of the Act, unless a clear departure was provided for in the Act (at [34]). It bears repeating that the court does not sit as an appellate court from arbitral tribunals. This is true even in the context of domestic arbitration under the AA.  6 One of the main areas where the court interacts with arbitration under the AA (and which is a clear difference from international arbitration under the IAA) is where parties raise questions of law. This can occur at two stages. The first arises during the course of arbitral proceedings under s 45(1) of the AA. This is not engaged in the present appeal. The present appeal involves questions of law at the second stage, after an award is made. Under s 49(1) of the AA, a party may appeal to the court on a question of law rising out of an award with the agreement of all the other parties to the proceedings or with leave of court (see s 49(3) of the AA). Nonetheless, an appeal on questions of law arising from an arbitration award pursuant to s 49 of the AA is not a backdoor appeal of the award. As this court stated in Northern Elevator Manufacturing Sdn Bhd v United Engineers (Singapore) Pte Ltd [2004] 2 SLR(R) 494 (“Northern Elevator”) at [17], “it is essential to delineate between a ‘question of law’ and an ‘error of law’, for the former confers jurisdiction on a court to grant leave to appeal against an arbitration award while the latter, in itself, does not”. This distinction was also well put by G P Selvam JC (as he then was) in Ahong Construction (S) Pte Ltd v United Boulevard Pte Ltd [1993] 2 SLR(R) 208 at [7]:… A question of law means a point of law in controversy which has to be resolved after opposing views and arguments have been considered. It is a matter of substance the determination of which will decide the rights between the parties. … If the point of law is settled and not something novel and it is contended that the arbitrator made an error in the application of the law there lies no appeal against that error for there is no question of law which calls for an opinion of the court.[emphasis added] The above passage was quoted with approval in Northern Elevator at [18]. Hence, where an arbitrator erred in only awarding costs incurred by an amendment due to his failure to consider the element of costs thrown away, it was only an error of application of a settled principle of law and did not give rise to a right to appeal on a question of law, and the absence in the AA of a similar provision set out in s 28(1) of the previous Arbitration Act (Cap 10, 1985 Rev Ed), viz, that the court did not have jurisdiction to set aside or remit an award on the ground of errors of fact or law on the face of the record, did not mean that the court would now allow an appeal on grounds that the arbitrator committed an error in respect of established law (see Econ Piling Pte Ltd and another (both formerly trading as Econ-NCC Joint Venture) v Shanghai Tunnel Engineering Co Ltd [2011] 1 SLR 246 (“Econ Piling”) at [102] to [104]). Although the AA does provide instances where the court can exercise supervisory jurisdiction over domestic arbitral tribunals in domestic arbitrations, the judicial philosophy remains that of a “light touch”, ie, the courts should not exercise tight supervisory power over arbitral proceedings. 7 We will point out, at appropriate junctures, where the parties have lost sight of these basic important principles. We now turn to the material facts.Material facts8 The appellant is the developer of Oxley Tower.
+                   3
+
+
+
+
+Foot Note 3
+
+×
+
+
+
+  Record of Appeal vol III part 1 dated 9 November 2020 (“RA III(1)”) at p 7; Final Award dated 9 October 2018 (“Award”) at para 34 found in ACB II at Tab 1.
+
+
+
+ This dispute concerns two units of Oxley Tower, #04-01 (“Unit 1”) and #04-02 (“Unit 2”) (collectively the “Units”), that the respondent purchased from the appellant around end 2012.
+                   4
+
+
+
+
+Foot Note 4
+
+×
+
+
+
+  RA III(1) at p 7; Award at paras 34 to 42.
+
+
+
+ 9 Mohinani Kevin Premchand (“MKP”) is a director of the respondent.
+                   5
+
+
+
+
+Foot Note 5
+
+×
+
+
+
+  Record of Appeal vol 3 part 4 dated 9 November 2020 (“RA III(4)”) at p 16.
+
+
+
+ Larry Chua (“Chua”) is a marketing agent of the appellant.
+                   6
+
+
+
+
+Foot Note 6
+
+×
+
+
+
+  RA III(4) at p 17.
+
+
+
+ In November 2012, MKP learnt about the sale of the Units from Chua, who also sent him the 4th storey floor plan for Oxley Tower.
+                   7
+
+
+
+
+Foot Note 7
+
+×
+
+
+
+  RA III(4) at pp 16 and 17, 55.
+
+
+
+10 According to the plan, Unit 1 and Unit 2 are intended to be the only two units on the fourth floor. Each Unit is designed to have an indoor and outdoor area. Unit 1 was intended to be a gym/spa with a swimming pool and roof garden in the outdoor area and Unit 2 was intended to be a restaurant with a roof garden in the outdoor area.
+                   8
+
+
+
+
+Foot Note 8
+
+×
+
+
+
+  Award at para 36.
+
+
+
+ The roof gardens for both Units were designed to have physical features such as concrete paths and walls (“hardscape”) as well as soil and vegetation (“softscape”).11 MKP replied enquiring whether the two Units could be divided into two restaurants instead.
+                   9
+
+
+
+
+Foot Note 9
+
+×
+
+
+
+  RA III(4) at p 17.
+
+
+
+ Chua replied that this was possible.
+                   10
+
+
+
+
+Foot Note 10
+
+×
+
+
+
+  RA III(4) at p 17.
+
+
+
+ Shortly after, in the same month of November 2012, MKP and some others visited the Oxley Tower showroom where he was handed a hard copy of the Oxley Tower marketing brochure, and viewed a 3D model of the Oxley Tower development.
+                   11
+
+
+
+
+Foot Note 11
+
+×
+
+
+
+  RA III(4) at p 17.
+
+
+
+ The marketing brochure and 3D model showed people mingling around the softscape areas of the roof garden and stepping on the softscape areas.
+                   12
+
+
+
+
+Foot Note 12
+
+×
+
+
+
+  RA III(4) at pp 18 to 19; See also Record of Appeal vol 3 part 5 dated 9 November 2020 ("RA III(5)”) at pp 239 to 242.
+
+
+
+ Further, the marketing brochure and 3D model also showed the softscape to be level with the rest of the hardscape areas.
+                   13
+
+
+
+
+Foot Note 13
+
+×
+
+
+
+  RA III(4) at pp 18 to 19; See also RA III(5) at pp 239 to 242.
+
+
+
+ 12 The marketing brochure made reference to a building plan described as “A642-00006-2010-BP01 dated 6 March 2012”.
+                   14
+
+
+
+
+Foot Note 14
+
+×
+
+
+
+  Respondent’s Core Bundle in HC/OS 1334/2017 dated 22 May 2019 at p 135.
+
+
+
+ This referred to a building plan for Oxley Tower earlier submitted by the appellant to the Building and Construction Authority (“BCA”) for approval in February 2012 (“2012 BCA Plan”).
+                   15
+
+
+
+
+Foot Note 15
+
+×
+
+
+
+  RA III(4) at pp 27, 176, 177; ACB II at pp 63, 64; Award at para 61.
+
+
+
+ This was approved by the BCA on 6 March 2012.
+                   16
+
+
+
+
+Foot Note 16
+
+×
+
+
+
+  ACB II at p 88; Award at para 71.
+
+
+
+ Similar to the marketing brochure, the 2012 BCA Plan had no indication that the softscape areas were to be elevated from the hardscape areas, but instead showed that they were to be level with each other.
+                   17
+
+
+
+
+Foot Note 17
+
+×
+
+
+
+  See also Record of Appeal vol 3 part 6 dated 9 November 2020 (“RA III(6)”) at p 12; Award at paras 86 to 89, 120(v).
+
+
+
+ 13 BCA’s Notice of Approval on 6 March 2012 contained a notice that “clearances from the technical departments as indicated below are outstanding”,
+                   18
+
+
+
+
+Foot Note 18
+
+×
+
+
+
+  Award at para 71.
+
+
+
+ and one of the departments listed was the “Fire Safety & Shelter Department” (“FSSD”).
+                   19
+
+
+
+
+Foot Note 19
+
+×
+
+
+
+  ACB II at pp 88, 89.
+
+
+
+14 Subsequently, around April 2012, the appellant’s Qualified Person (“QP”), Ms Hazel Ang Lee Ha, submitted the 2012 BCA Plan for approval by FSSD. However, the QP made changes to the 2012 BCA Plan before submitting it to FSSD, so that it would meet FSSD’s requirements.
+                   20
+
+
+
+
+Foot Note 20
+
+×
+
+
+
+  RA III(6) at pp 22 to 29.
+
+
+
+ In particular, the appellant indicated on the plan that the softscape areas would be elevated by 300mm above the hardscape areas, and also increased the size of the softscape areas, correspondingly reducing the size of the hardscape areas.
+                   21
+
+
+
+
+Foot Note 21
+
+×
+
+
+
+  RA III(6) at pp 22:4 to 23:12; Award at paras 59, 71, 72, 81.
+
+
+
+ These changes were made to reduce the Units’ occupant load
+                   22
+
+
+
+
+Foot Note 22
+
+×
+
+
+
+  According to the Singapore Fire Code cl 1.2.45, occupant load refers to the total number of persons that may occupy such building or part thereof at any one time (see Award at para 78).
+
+
+
+ to meet FSSD’s required maximum occupant load, since the softscape areas could be attributed an occupant load of zero if it was elevated 300mm above the hardscape areas and is covered fully with trees/shrubs.
+                   23
+
+
+
+
+Foot Note 23
+
+×
+
+
+
+  RA III(6) at p 23 line 13 to p 27 line 20; Award at paras 79(c) and 81.
+
+
+
+ This plan which was submitted to FSSD (“2012 FSSD Plan”), is also marked with the same serial number as the 2012 BCA Plan, viz, “A0642-00006-2010-BP01”.
+                   24
+
+
+
+
+Foot Note 24
+
+×
+
+
+
+  ACB II at p 66.
+
+
+
+15 None of the contractual documents that were subsequently entered into between the parties referred to the 2012 FSSD Plan, and the arbitrator found as a fact that the respondent would not have had access to the 2012 FSSD Plan.
+                   25
+
+
+
+
+Foot Note 25
+
+×
+
+
+
+  Award at para 72.
+
+
+
+ Further, the appellant’s QP admitted that FSSD would only grant access to such plans to the building owner, and that she had no clue how one could obtain such plans.
+                   26
+
+
+
+
+Foot Note 26
+
+×
+
+
+
+  RA III(6) at pp 5 to 7; RA III(5) at p 294.
+
+
+
+ 16  Following the visit to the showroom, the respondent decided to purchase Units 1 and 2. On 20 November 2012, the respondent signed an option to purchase (“OTP”) in respect of Unit 2.
+                   27
+
+
+
+
+Foot Note 27
+
+×
+
+
+
+  ACB II at pp 68 to 69; Award at para 37.
+
+
+
+ On 23 November 2012, the respondent signed a reservation form in respect of Unit 1, but the following condition was handwritten on the form:
+                   28
+
+
+
+
+Foot Note 28
+
+×
+
+
+
+  ACB II at p 70; Award at para 38.
+
+
+
+ THIS UNIT IS PURCHASED BASED ON CONVERTING FROM GYM/SPA TO RESTAURANT (EXACTLY LIKE #04-02)The same day, the respondent signed an OTP in respect of Unit 1.
+                   29
+
+
+
+
+Foot Note 29
+
+×
+
+
+
+  Award at para 39; ACB II at pp 71 to 73.
+
+
+
+ Both OTPs referred to the approved building plan as “A0642-00006-2010-BP01”.
+                   30
+
+
+
+
+Foot Note 30
+
+×
+
+
+
+  ACB II 67 and 71.
+
+
+
+ On 26 November 2012, the respondent’s solicitors sent a letter to the appellant’s solicitors stating:
+                   31
+
+
+
+
+Foot Note 31
+
+×
+
+
+
+  ACB II at p 76.
+
+
+
+We have been informed that your clients have agreed to apply to the relevant authorities to convert Unit at #04-01 from a gym/spa unit into a restaurant use and remove the swimming pool approved in that Unit (the feature to be similar to Unit #04-02) ……In the event that the conversion for the change of use for #04-01 is unsuccessful, our client shall have the option not to proceed with the purchase of #04-01 and your clients is [sic] agreeable to forthwith refund to our clients all moneys paid on this unit upon being informed by the relevant authorities that the approval has not been obtained.17 On 28 November 2012, the appellant forwarded the respondent a copy of BCA’s Notice of Approval of the 2012 BCA Plan (see [12] and [13] above).
+                   32
+
+
+
+
+Foot Note 32
+
+×
+
+
+
+  ACB II at pp 82 to 89.
+
+
+
+ 18 In a letter dated 30 November 2012, the appellant’s solicitors replied to the respondent’s 26 November 2012 letter, stating:
+                   33
+
+
+
+
+Foot Note 33
+
+×
+
+
+
+  ACB II at p 77.
+
+
+
+… our clients instruct us to reply on a without prejudice basis that : -(1) Our clients were advised by their architects that subject to the relevant authorities’ approvals, it is possible for our clients to convert the use of unit #04-01 from gym/spa to restaurant, remove the swimming pool and convert the same into the garden of unit #04-01.…Our clients instruct that on a without prejudice basis, our clients are agreeable that : -(a) Only the sale of unit #04-01 is conditional upon the conversion of the use of #04-01 from gym/spa to restaurant …(b) Subject to your clients signing and returning the attached letter of confirmation, our clients are prepared to accede to your client’s request to change the use of unit #04-01 to gym/spa to restaurant, remove the swimming pool and convert the swimming pool into the garden of #04-01.19 The appellant followed up with another letter on 3 December 2012 (“Letter of Confirmation”), where the appellant agreed to: (a) convert the use of Unit 1 from a gym/spa to a restaurant; and (b) remove the swimming pool and convert it into a garden (collectively the “Changes”), except that the appellant reserved the right to:
+                   34
+
+
+
+
+Foot Note 34
+
+×
+
+
+
+  Award at para 40; ACB II at pp 79 to 80.
+
+
+
+(a) refuse to effect the Changes if the authorities declined to approve them, or approved them subject to terms and conditions it did not agree to;(b) refuse to effect the Changes if the authorities approved the Changes but subsequently revoked their approval; or(c) accept in its sole discretion any terms and variations imposed by the authorities in order to grant approval for the Changes.20 The Letter of Confirmation required the appellant to give notice in writing to the respondent if any of these situations occurred. The Letter of Confirmation also provided that upon receiving such a notice, the respondent would be entitled to rescind the SPA within 14 days and be refunded all progress payments.
+                   35
+
+
+
+
+Foot Note 35
+
+×
+
+
+
+  ACB II at p 80 cl (m); Award at para 40.
+
+
+
+ Alternatively, if the respondent did not rescind the SPA, the appellant would be entitled to either: (a) construct Unit 1 as a restaurant with the variations required by the authorities; or (b) construct Unit 1 as a gym/spa as per the original use and layout stated in the SPA.
+                   36
+
+
+
+
+Foot Note 36
+
+×
+
+
+
+  ACB II at p 80 cl (l); Award at para 40.
+
+
+
+21 The respondent signed the Letter of Confirmation on 10 December 2012.
+                   37
+
+
+
+
+Foot Note 37
+
+×
+
+
+
+  ACB II at p 81; Award at para 41.
+
+
+
+ 22 On 17 December 2012, the respondent signed the SPA for Unit 2, and on 20 December 2012, it signed the SPA for Unit 1.
+                   38
+
+
+
+
+Foot Note 38
+
+×
+
+
+
+  Award at para 42; ACB II at p 127; ACB II at p 92.
+
+
+
+ As required by the legislative scheme (see [2] above), the SPAs were based on a standard form contract template prescribed in Form D of the Schedule to the Rules. Clause 1.1.1 of both SPAs state that the building plan for Oxley Tower had been approved under No “A0642-00006-2010-BP01”.
+                   39
+
+
+
+
+Foot Note 39
+
+×
+
+
+
+  ACB II at pp 92, 127.
+
+
+
+23 At some point, the appellant discovered that the Changes wanted by the respondent would require corresponding changes to the layout of the 4th floor in order to comply with FSSD’s required maximum occupant load.
+                   40
+
+
+
+
+Foot Note 40
+
+×
+
+
+
+  Award at paras 81 to 84.
+
+
+
+ This is because under the Singapore Code of Practice for Fire Safety Precautions in Buildings, a gym/spa is accorded a higher occupant load factor
+                   41
+
+
+
+
+Foot Note 41
+
+×
+
+
+
+  The unit for occupancy load factor is “m2 /person” and it measures the area that each person would occupy, hence, a higher occupant load factor means that each person occupies more space, the occupancy would be less dense, and therefore the occupant load for the same area would decrease.
+
+
+
+ (ie, a measurement of the area a person would occupy) than a restaurant (where the area a person occupies would be less than that in a gym/spa). This means that converting the gym/spa into a restaurant would increase Unit 1’s occupant load.
+                   42
+
+
+
+
+Foot Note 42
+
+×
+
+
+
+  Award at paras 81 to 84.
+
+
+
+ This would cause the total occupant load of the 4th floor to exceed the limit given by FSSD.
+                   43
+
+
+
+
+Foot Note 43
+
+×
+
+
+
+  Award at paras 81 to 84.
+
+
+
+ To resolve this, the appellant redesigned the 4th floor and made certain changes to the 2012 FSSD Plan. 24 In May 2014, the appellant submitted a redesigned plan to the Urban Redevelopment Authority (“URA”) to seek approval for the change of use of Unit 1 from a gym/spa to a restaurant (“2014 URA Plan”).
+                   44
+
+
+
+
+Foot Note 44
+
+×
+
+
+
+  ACB II at Tab 12; RA III(1) at p 260; AC at para 16.
+
+
+
+ In the redesigned plan, the softscape areas were substantially increased, and the hardscape areas were correspondingly reduced, as compared to the 2012 FSSD Plan. As explained above at [14], these changes helped to reduce the occupant load as softscape areas could be attributed an occupant load of zero if it was elevated 300mm above the hardscape areas and is covered fully with trees/shrubs.
+                   45
+
+
+
+
+Foot Note 45
+
+×
+
+
+
+  RA III(6) at p 23 line 13 to p 27 line 20; Award at paras 79(c) and 81.
+
+
+
+ The 2014 URA Plan was sent to the respondent on 21 January 2015.
+                   46
+
+
+
+
+Foot Note 46
+
+×
+
+
+
+  ACB II Tab 13; AC at para 17.
+
+
+
+ The 4th floor of Oxley Tower was built according to this plan. 25 In August 2016, the appellant submitted “as-built plans” to BCA (“2016 BCA Plan”),
+                   47
+
+
+
+
+Foot Note 47
+
+×
+
+
+
+  ACB II at p 169; Award at para 46.
+
+
+
+ which appears to be identical to the 2014 URA Plan.
+                   48
+
+
+
+
+Foot Note 48
+
+×
+
+
+
+  AC at para 16; ACB II at p 168.
+
+
+
+ In November 2016, the appellant submitted the final fire-safety plans to FSSD (“2016 FSSD Plan”), which also appears identical to the 2016 BCA Plan save that it includes height dimensions (collectively “Final Approved Plans”).
+                   49
+
+
+
+
+Foot Note 49
+
+×
+
+
+
+  AC at para 16; Award at para 82; ACB II at Tab 14.
+
+
+
+ 26 All this while, the appellant never provided any notice to the respondent for any of the situations listed above at [19],
+                   50
+
+
+
+
+Foot Note 50
+
+×
+
+
+
+  Award at para 43.
+
+
+
+ save for the 2014 URA Plan sent on 21 January 2015 (which will be discussed below).27 In December 2016, the appellant delivered possession of the Units to the respondent
+                   51
+
+
+
+
+Foot Note 51
+
+×
+
+
+
+  Award at para 44.
+
+
+
+ and the respondent discovered the differences at [24] above, amongst others.
+                   52
+
+
+
+
+Foot Note 52
+
+×
+
+
+
+  Award at paras 44 to 45.
+
+
+
+28 The respondent then managed to obtain the Final Approved Plans, which had the following differences from the 2012 BCA Plan: (a) the hardscape areas were reduced by about 21%; (b) the softscape areas were increased by about 12%; (c) the occupant load of Unit 2 had been reduced; and (d) the softscape areas were indicated to be elevated by around 300mm to 450mm. 29 The respondent sought to terminate the SPAs and claim refund from the appellant of all moneys paid by it to the appellant and to third parties, relying on cl 15.4 (identical in both SPAs), which provides:If the final approved building plans for the Unit and the Building differ substantially from the plans and specifications approved by the Purchaser at the date of this Agreement, the Purchaser has the right to terminate this Agreement; and if this happens :-(a)  the Vendor must refund all moneys paid by the Purchaser with interest calculated at the rate of 10% per annum; and(b) upon such payment, neither party will have any claim against the other.Any dispute as to whether the Unit when built differs substantially from the approved plans and specifications is to be referred to arbitration under the Arbitration Act (Cap. 10).[emphasis added in bold]30 As the appellant refused to refund the respondent, the respondent referred the dispute to arbitration. The issues before the arbitrator,
+                   53
+
+
+
+
+Foot Note 53
+
+×
+
+
+
+  Award at para 54.
+
+
+
+ before the High Court,
+                   54
+
+
+
+
+Foot Note 54
+
+×
+
+
+
+  GD at para 40.
+
+
+
+ and before this court concern the interpretation of the three phrases in cl 15.4, marked out in bold at [29] above.
+                   55
+
+
+
+
+Foot Note 55
+
+×
+
+
+
+  CA/CA 229/2019.
+
+
+
+ Arbitration Proceedings31 The arbitrator considered the parties’ arguments and evidence and issued the final award on 9 October 2018.
+                   56
+
+
+
+
+Foot Note 56
+
+×
+
+
+
+  ACB II Tab 1.
+
+
+
+ The arbitrator noted that there was no dispute that the “final approved building plans” referred to the Final Approved Plans ([25] above).
+                   57
+
+
+
+
+Foot Note 57
+
+×
+
+
+
+  Award at para 74.
+
+
+
+32 As for the three disputed phrases, the arbitrator found that:(a) The “plans and specifications approved by the Purchaser at the date of this Agreement” referred to the 2012 BCA Plan, subject to the Changes (changing the use from gym/spa to restaurant and converting the swimming pool to outdoor garden).
+                   58
+
+
+
+
+Foot Note 58
+
+×
+
+
+
+  Award at para 70.
+
+
+
+(b) The 2012 BCA Plan (subject to the Changes) “differ[ed] substantially” from the Final Approved Plans.
+                   59
+
+
+
+
+Foot Note 59
+
+×
+
+
+
+  Award at paras 75 to 105.
+
+
+
+ The arbitrator noted the four differences ([28] above),
+                   60
+
+
+
+
+Foot Note 60
+
+×
+
+
+
+  Award at paras 86 and 101.
+
+
+
+ and also found that the softscape areas were either not meant to be accessed or were not usable as an accessible garden.
+                   61
+
+
+
+
+Foot Note 61
+
+×
+
+
+
+  Award at paras 97, 101.
+
+
+
+(c) The phrase “refund all moneys paid by the Purchaser with interest” referred not only to sums paid by the respondent to the appellant, but included all moneys paid by the respondent, including to third parties.
+                   62
+
+
+
+
+Foot Note 62
+
+×
+
+
+
+  Award at para 116.
+
+
+
+33 The arbitrator hence terminated the SPAs and ordered the appellant to refund the respondent all progress payments, maintenance charges, property tax and stamp duties paid by it.
+                   63
+
+
+
+
+Foot Note 63
+
+×
+
+
+
+  Award at paras 117 and 118, see also pp 52 to 53.
+
+
+
+34 One additional point needs to be noted. The appellant had argued before the arbitrator that cll 25 and 26 of the SPAs prohibit using the softscape areas for commercial activities
+                   64
+
+
+
+
+Foot Note 64
+
+×
+
+
+
+  Award at para 98.
+
+
+
+ (and hence the Final Approved Plans did not “differ substantially” from the plans as approved by the respondent). Clauses 25 and 26 of the Second Schedule to the SPAs state:25. Restriction applicable to Units Approved as Restaurant/CaféThe Purchaser acknowledges that he is aware that there shall not be spillage of the Outdoor Refreshment Area (‘ORA’) into areas adjacent to the restaurants/cafes, including the covered walkway, open terrace and sky terrace and that the Purchaser undertakes to inform any assignee or successor-in-title of the Unit of the prohibition against the spillage of ORA.26. Restriction applicable to Units on 4th storey and 32nd storey with attached Roof GardensThe Purchaser acknowledges that he is aware that the roof garden attached to the Unit shall not be roofed over or enclosed in any manner and the Purchaser shall not use or permit to be used the roof garden for commercial activities. 35 The arbitrator held that cll 25 and 26 were irrelevant because the softscape areas could not even be accessed for non-commercial activities (such as for a walk).
+                   65
+
+
+
+
+Foot Note 65
+
+×
+
+
+
+  Award at paras 99 to 100.
+
+
+
+High Court Proceedings36 Being dissatisfied with the award, the appellant filed an appeal to the High Court via HC/OS 1334/2018 (“OS 1334”) pursuant to s 49 of the AA, raising the following questions of law arising out of the award:
+                   66
+
+
+
+
+Foot Note 66
+
+×
+
+
+
+  HC/OS 1334/2018; GD at para 40.
+
+
+
+a.  Where the Building and Construction Authority of Singapore (“BCA”) approves building plans for a commercial property subject to outstanding “clearances from the technical departments as indicated below”, are the requirements of the technical departments part of “the plans and specifications approved by the Purchaser” for the purposes of clause 15.4 of the prescribed form of sale and purchase agreement (“Clause 15.4”) under s 5 of the Sale of Commercial Properties Act (Cap 281, 1985 Rev Ed), and r 7 of the Sale of Commercial Properties Rules (Cap 281, R 1, 1999 Rev Ed) (read with the actual standard form agreement set out in Form D of the Schedule to the Sale of Commercial Properties Rules) (collectively, “the Legislation”)? [“Question 1”]b.  Where a purchaser of commercial property under development under the terms of the form of sale and purchase agreement prescribed by the Legislation requests that changes be made to specifications of the unit in the course of construction, (i) Would the purchaser be entitled to rely on Clause 15.4 where he has not formally approved of the plans and specifications incorporating the changes requested, or is he left to his remedies at common law? [“Question 2”](ii) What constitutes a substantial difference under Clause 15.4 when comparing the plans and specifications incorporating changes requested by the said purchaser and the final approved plans and/or the units as-built? [“Question 3”](iii)  What weight is to be given to the restrictions in clauses 25 and 26 in the prescribed form of sale and purchase agreement when considering what constitutes a substantial difference under Clause 15.4 when comparing the plans and specifications incorporating changes requested by the said purchaser and the final approved plans and/or the units as-built? [“Question 4”](iv)  What constitutes “all moneys paid by the Purchaser” under Clause 15.4 that ought to be refunded by the Vendor, in the event of there being a substantial difference as per the previous question? [“Question 5”][Words in bold added]37 The Judge delivered his oral decision in September 2019, answering all five questions of law in favour of the respondent and dismissing the appeal.
+                   67
+
+
+
+
+Foot Note 67
+
+×
+
+
+
+  ACB II at Tab 16.
+
+
+
+ In December 2019, the appellant appealed against the entirety of the Judge’s decision.
+                   68
+
+
+
+
+Foot Note 68
+
+×
+
+
+
+  CA/CA 229/2019.
+
+
+
+ The Judge released his written grounds in Oxley Consortium Pte Ltd v Geetex Enterprises Singapore (Pte) Ltd [2020] SGHC 325 (“GD”)
+                   69
+
+
+
+
+Foot Note 69
+
+×
+
+
+
+  Appellant’s Core Bundle vol 1 dated 9 November 2020 (“ACB I”) at Tab 1.
+
+
+
+ on 9 November 2020.
+                   70
+
+
+
+
+Foot Note 70
+
+×
+
+
+
+  AC at para 3.
+
+
+
+ 38 The Judge found that the answer to these five questions turn on the interpretation of the three disputed phrases ([32] above) (GD at [81]). 39 The Judge held that principles of contractual interpretation, rather than statutory interpretation, should be the starting point in ascertaining the scope of parties’ rights and obligations arising out of an agreement based on Form D (GD at [46] to [52]). Although Form D contains statutorily prescribed terms ([22] above), they were indirectly prescribed through the medium of the contract, and Parliament had intended contractual principles to govern the parties’ relationship (GD at [46] to [52]). The aim of contractual interpretation is to give effect to parties’ intentions. Parties are usually presumed to intend a commercial result (GD at [76]). However, since the purpose of the Act is to protect purchasers against developers and to positively reallocate risk to developers (GD at [62] to [75]), an uncommercial interpretation of terms in Form D (in favour of the purchaser) could be possible (GD at [76] to [80]). 40 The Judge then applied contractual interpretation principles to interpret the three disputed phrases. The Judge interpreted all three disputed phrases in favour of the respondent, and also answered all five questions of law in favour of the respondent. The precise findings of the Judge and the arguments of the parties will be discussed in detail below at the relevant segments.41 The appellant appealed against the entirety of the Judge’s decision. Issues before this Court42 This appeal requires the court to answer the five questions of law set out in OS 1334 ([36] above). That is the correct focus of the appeal. However, as noted above, the parties in their submissions to the court below made many arguments disputing the arbitrator’s findings of fact and the arbitrator’s application of legal principles to the facts. This caused the Judge to spend much effort in addressing these issues even though they are not part of the five questions of law that need to be decided. The parties rehash many of these arguments on appeal although a significant portion clearly fall outside the scope of this appeal, which must only concern questions of law under s 49 AA. It is not the role of the appeal court to revisit the arbitrator’s findings of fact as the arbitrator’s findings of facts are conclusive and the court has to decide any questions of law on the basis of those facts (see s 49(5)(c) of the AA as well as Progen Engineering Pte Ltd v Chua Aik Kia (trading as Uni Sanitary Electrical Construction) [2006] 4 SLR(R) 419 at [16] and [29]). We will therefore disregard these contentions and will focus on the arguments which pertain to the five questions of law.43 The issues to be decided in order to determine the five questions of law are:(a) the approach to interpreting statutorily mandated terms found in standard form contracts; and(b) to the extent necessary, the interpretation of the three disputed phrases.44 The parties substantially take the same position and raise the same arguments as they have below in relation to the three disputed phrases. We will address their arguments at the relevant junctures.45 We also briefly address CA/SUM 2/2021 (“SUM 2”). The respondent filed SUM 2 to strike out all of the Appellant’s Reply, save for paragraphs 25 and 26. The respondent argues that the disputed paragraphs pertain to matters that do not fall within the scope permitted by O 57 r 9A(5A) of the Rules of Court (Cap 322, R 5, 2014 Rev Ed), and that alternatively, the filing of the disputed paragraphs is an abuse of process. The appellant disagrees with both contentions. We make no order on SUM 2 as we are inclined to consider the arguments in the Appellant’s Reply and we are of the view that they would have come up in the oral hearing in any event (see also Global Yellow Pages Ltd v Promedia Directories Pte Ltd and another matter [2017] 2 SLR 185 at [22]).The framework for interpreting statutorily prescribed contracts46 As noted above at [39], the Judge held that principles of contractual interpretation, and not statutory interpretation, should apply to interpret terms found in statutorily imposed standard form contracts. The respondent disagrees, arguing that the terms should be interpreted as legislation. The appellant in the Appellant’s Case had impliedly accepted that the terms should be interpreted as legislation,
+                   71
+
+
+
+
+Foot Note 71
+
+×
+
+
+
+  For example, AC at para 112 states: “one is construing legislation (and legislatively-mandated contracts) which necessarily have fixed meanings at the time they were promulgated”.
+
+
+
+ but later seeks to deny this in its reply submissions (without providing reasons why it should not be interpreted as legislation).
+                   72
+
+
+
+
+Foot Note 72
+
+×
+
+
+
+  Appellant’s Reply Submissions dated 24 December 2020 (“ARS”) at para 25.
+
+
+
+47 In our judgment, in as much as these terms are imposed on developers by statute, they have to be construed as legislation rather than as contract. Not doing so would mean that the parties could subjectively defeat the legislative intent underlying these mandatory terms and would render it pointless for Parliament to have required these terms to be included. 48 Contractual interpretation is based on party autonomy and seeks to give effect to the common intention of the parties. However, the intention of parties cannot be a relevant factor in interpreting the terms in Form D of the Rules, which are statutorily prescribed, and which cannot be amended or deleted without the prior approval in writing of the Controller of Housing (“the Controller”) (r 7 of the Rules read with s 2 of the Act).   49 This court in Orion-One Development Pte Ltd (in liquidation) v Management Corporation Strata Title Plan No 3556 and another appeal [2019] 2 SLR 793 (“Orion-One”)
+                   73
+
+
+
+
+Foot Note 73
+
+×
+
+
+
+  RBOA I at Tab 8.
+
+
+
+ at [32] had in fact already expressed its view on this issue when it observed that terms in Form D of the Rules should be interpreted as legislation.50 We reserve comment on whether there may be some room for party autonomy to influence the interpretation of the terms, but it is clear that in any case, such latitude cannot extend to varying Parliament’s minimum protection given to purchasers under the statute and regulations thereunder. The terms must first and foremost be interpreted as a statute.51 The framework for statutory interpretation is well established (see Tan Cheng Bock v Attorney-General [2017] 2 SLR 850 at [37]). This requires the court to:
+                   74
+
+
+
+
+Foot Note 74
+
+×
+
+
+
+  Respondent’s Bundle of Authorities vol 2 dated 10 December 2020 (“RBOA II”) at Tab 11.
+
+
+
+(a) first, ascertain the possible interpretations of the provision, having regard not just to the text of the provision but also to the context of that provision within the written law as a whole;(b) secondly, ascertain the legislative purpose or object of the statute; and(c) thirdly, compare the possible interpretations of the text against the purposes or objects of the statute.52 We now apply this framework to address the five questions of law.Plans and specifications approved by the Purchaser at the date of this Agreement53 This section concerns the interpretation of the phrase “plans and specifications approved by the Purchaser at the date of this Agreement” (“Phrase 1”), to the extent needed to answer Questions 1 and 2.Question 154 Question 1 essentially asks: where the BCA has approved building plans for a commercial property subject to outstanding “clearances from the technical departments”, are the requirements of the technical departments part of the plans and specifications approved by the purchaser at the date of the agreement? (at [36] above). Findings below55  The appellant below argued that the respondent must be taken to have approved all the plans relating to the Units which were approved by the authorities at the time the SPAs were concluded (the 2012 BCA Plan and the 2012 FSSD Plan), as well as all such plans so approved after the SPAs were concluded to the extent that those plans were necessitated by the respondent’s requests (the 2016 BCA Plan and the 2016 FSSD Plan).
+                   75
+
+
+
+
+Foot Note 75
+
+×
+
+
+
+  Appellant’s skeletal submissions in HC/OS 1334/2018 dated 30 July 2019 (“HC ASS”) at para 10.
+
+
+
+ The respondent argued that it only approved the plans to which the SPA expressly refers to (the 2012 BCA Plan), subject to the changes that the respondent had requested.
+                   76
+
+
+
+
+Foot Note 76
+
+×
+
+
+
+  Respondent’s skeletal submissions in HC/OS 1334/2018 dated 5 August 2019 (“HC RSS”) at paras 108 to 110.
+
+
+
+ 56 The Judge held that the requirements of the technical departments are not part of Phrase 1 (GD at [150(a)]). Phrase 1 only includes plans which are in existence at the date of the agreement; this is supported by the text of the phrase, the commercial intention of parties, and legislative intent (GD at [85] to [103], [147]). The purchaser must have had actual knowledge of and actually approved the plans by way of entering the agreement (GD at [133], [147]). Where a purchaser requests for specific changes to be made to the plan, the plan will be approved subject to those specific changes requested, but not subject to any consequential changes needed to give effect to those specific changes (GD at [147]). On the facts, the phrase hence refers to the 2012 BCA Plan, subject to the Changes (GD at [82] to [84], [129]). Appellant’s arguments on appeal57 The appellant rehashes many of its arguments made below. It also argues that the Judge’s interpretation of Phrase 1 was wrong as:(a) it allows a purchaser to approve plans and specifications which have not been authorised by the authorities;
+                   77
+
+
+
+
+Foot Note 77
+
+×
+
+
+
+  AC at para 30.
+
+
+
+(b) it imposes a new duty on developers to obtain advice on and to advise purchasers of the outcome of their change requests, which would cause the developers to incur additional costs, and as such, no commercially minded developer would agree to a purchaser’s requests to modify the plan;
+                   78
+
+
+
+
+Foot Note 78
+
+×
+
+
+
+  AC at paras 31 to 34.
+
+
+
+ and(c) the Judge wrongly presumed that purchasers of commercial property are as a general class less sophisticated than developers.
+                   79
+
+
+
+
+Foot Note 79
+
+×
+
+
+
+  AC at para 35.
+
+
+
+Respondent’s arguments on appeal58 The respondent argues that the Judge was correct in finding that Phrase 1 does not include plans not in existence at the date of the agreement.
+                   80
+
+
+
+
+Foot Note 80
+
+×
+
+
+
+  RC at para 78.
+
+
+
+ Further, interpreting Phrase 1 to include the 2016 FSSD Plan would lead to an absurd result because the 2016 FSSD Plan is the Final Approved Plan (together with the 2016 BCA Plan),
+                   81
+
+
+
+
+Foot Note 81
+
+×
+
+
+
+  RC at para 76.
+
+
+
+ and as such, there would clearly be no substantial difference between the plan approved by the purchaser and the final approved plan.Our Analysis and Decision on Question 159 The issue behind Question 1 is whether subsequent amendments to the plans and specifications which are made to meet the requirements of technical departments necessarily form part of the plans and specifications approved by the purchaser at date of agreement when those plans and specifications were sent together with a notice that clearances from certain technical departments are outstanding. 60 The answer to this is clear from the text of Phrase 1. It simply depends if these amended plans and specifications were “approved by the Purchaser at the date of this Agreement”. As we had made clear to the parties at the oral hearing, this is a simple question and does not have to be made more complicated than necessary.61 What plans and specifications had been approved by the purchaser is a question of fact which must depend on the circumstances of each case, to be assessed based on the purchaser’s knowledge, actual or constructive, and his state of mind at the date of the agreement. The plans and specifications approved by the purchaser do not necessarily have to be consolidated in some written form, as long as there is some evidence as to what the purchaser had approved or deemed to have approved, at the relevant time. The purchaser also cannot be deemed to have approved changes that were not yet in existence at the time of the SPA. This is so even if those plans and specifications carried a notice that clearances from certain technical departments were outstanding. 62 The appellant contended during oral submissions that this approach would be too uncertain. Instead, there must be a specific set of fixed plans and specifications in order for the purchaser to be able to approve it. If the plans were subject to change, there would be no baseline and no plans and specifications approved. 63 We reject this submission. It does not reflect reality nor the normal processes of property development and if true, will obviate any need for a provision like cl 15.4 which contemplates that the plans and specifications may change. The very purpose of cl 15.4 is to allocate the risk in the event that the plans and specifications at the date of the sale and purchase agreement and the final approved plans are different (see also [76] below). Clause 15.4 provides if that they differ substantially, the purchaser is entitled to terminate the sale and purchase agreement and if not, the purchaser remains bound by the agreement. In addition, it cannot be argued that the purchaser did not approve any plans. If that were the case, there would be no contract because the purchaser had not even agreed on the subject matter of the contract. Such a contract would be void for uncertainty. As we pointed out to the appellant during its oral submissions, it cannot have his legal cake and eat it. If there is a contract with certain subject matter and certain terms, it is a necessary corollary that the developer and the purchaser must have had a set of plans and specifications which are sufficiently certain for there to be a sale and purchase of the property. 64 Our view is supported by the general legislative purpose of the Act, and the specific legislative purpose of cl 15.4 of Form D. The Judge rightly pointed out (GD at [62]) that the general purpose of the legislative scheme is to protect purchasers against developers conducting sales of commercial units in an inequitable manner (Singapore Parliamentary Debates, Official Report (30 March 1979) vol 39 at cols 319–320):… There have been complaints from the public about the inequitable manner in which some developers conduct the sales of their shop units ……… Rules to be enacted under this Bill will require agreements for sale and option forms to contain such terms and conditions as may be prescribed. Any terms or conditions of sale which are inconsistent with the prescribed terms shall be null and void ……… The Bill will put an end to prevailing abuses by developers. By laying down proper safeguards, it will inject confidence in commercial property transactions thereby encouraging the healthy development of this sector.65 We also agree with the Judge that cl 15 of Form D is a form of positive purchaser protection which positively allocates to the developer the full risk of a cost increase arising from a change in the specifications and plans, while allocating to the purchaser the full benefit of a cost reduction arising from such a change (GD at [70]). This is shown from the plain text of cl 15:15. Changes from Specifications and Plans15.1 In the course of erecting the Unit, the Vendor shall ensure that no changes from the Specifications and approved plans shall be made except as follows:(a) changes which have been approved or are required by the Commissioner of Building Control or other relevant authorities; or(b) changes which have been certified by the Vendor’s qualified person as convenient or necessary.15.2 The Purchaser need not pay for the cost of any such changes.15.3 In the event that any such change involves the substitution or use of cheaper materials or an omission of any works or a reduction in the scale of works originally agreed to be carried out by the Vendor, the Purchaser shall be entitled to a corresponding reduction in the Purchase Price or to damages.…[emphasis added]66 We therefore find that the interpretation of Phrase 1 that we have adopted above is confirmed by the general legislative purpose and specific legislative purpose of cl 15. 67 The foregoing is sufficient to deal with and answer Question 1. 68 While it is outside the scope of this appeal for us to consider what plans and specifications the respondent had approved in this case, we will do so for completeness as not only has it has been fully argued by both parties, it will also illustrate where parties have strayed beyond the bounds of a question of law arising from an award. It bears emphasis that this is a question of fact which has been decided by the arbitrator and it is not open to the parties or this court to revisit the arbitrator’s findings of fact. 69 Be that as it may, in this case, there are various uncontroversial facts which will determine what plans and specifications the respondent had approved, or, in other words, what the respondent had agreed to purchase at the time of the agreement. These facts were before the arbitrator. As referenced above, the respondent was provided with the marketing brochure and saw a 3D model of the Oxley Tower development. Both the marketing brochure and 3D model showed people mingling around the softscape areas of the roof garden and stepping on the softscape areas. Further, the marketing brochure and 3D model also showed the softscape to be level with the rest of the hardscape areas. The marketing brochure showed the position and shape of Units 1 and 2, the indoor and outdoor areas, including the private roof gardens for each unit and the swimming pool for Unit 1. In addition, the marketing brochure referred to the 2012 BCA Plan, which depicted the softscape to be flush with the hardscape ([12] above). The 2012 BCA Plan was referred to in both SPAs as well as both OTPs. Based on these pieces of information as a baseline, the respondent requested for the appellant to change the spa/gym in Unit 1 to a restaurant, and the swimming pool into a roof garden. Hence, we are in entire agreement with the arbitrator and the Judge that the plans and specifications that the respondent had approved must have been the 2012 BCA Plan (subject to the two Changes). 70 The appellant alternatively argues that there were no approved plans and specifications as the respondent had never seen the 2012 BCA Plans before entering into the contract.
+                   82
+
+
+
+
+Foot Note 82
+
+×
+
+
+
+  AC at para 36 to 39; ARS at paras 29 to 30.
+
+
+
+ It did not request for and was not shown any plans.
+                   83
+
+
+
+
+Foot Note 83
+
+×
+
+
+
+  AC at para 36 to 39.
+
+
+
+ MKP had testified before the arbitrator that prior to January 2017, he had never seen any plans that had been submitted to BCA, with respect to the Units.
+                   84
+
+
+
+
+Foot Note 84
+
+×
+
+
+
+  ARS at para 30; RA III(3) at p 213.
+
+
+
+ The respondent was also content to sign the SPA without reducing the Changes it requested into any form of plans.
+                   85
+
+
+
+
+Foot Note 85
+
+×
+
+
+
+  AC at para 36 to 39.
+
+
+
+ Instead, the arbitrator had found that the respondent had in effect disapproved of the 2012 BCA Plan because it had wanted to make changes to the plan.
+                   86
+
+
+
+
+Foot Note 86
+
+×
+
+
+
+  AC at para 41.
+
+
+
+ The appellant submits that cl 15.4 is hence inapplicable.
+                   87
+
+
+
+
+Foot Note 87
+
+×
+
+
+
+  AC at para 44.
+
+
+
+71 We reject this submission and agree with the respondent that it is not open for the appellant to argue that there were no plans approved by the respondent at the date of the agreement.
+                   88
+
+
+
+
+Foot Note 88
+
+×
+
+
+
+  RC at paras 65 to 68.
+
+
+
+ The arbitrator had found as a fact that the respondent had approved the 2012 BCA Plan (subject to the Changes), and such findings of fact cannot be challenged on an appeal on a question of law.
+                   89
+
+
+
+
+Foot Note 89
+
+×
+
+
+
+  RC at paras 65 to 68.
+
+
+
+ In any case, the arbitrator had been right in finding that the respondent had approved the 2012 BCA Plan subject to the Changes. This comports with the legislative scheme which ensures that the purchaser is notified of a BCA Plan at the date of agreement.
+                   90
+
+
+
+
+Foot Note 90
+
+×
+
+
+
+  RC at para 69.
+
+
+
+ This can be seen by the following:(a) Section 3 of the Act prohibits the sale of any commercial property unless the plans for the construction or erection of the commercial property have been approved by the Building Authority. Section 2 of the Act defines Building Authority as having the same meaning as in the Building Control Act (Cap 29, 1999 Rev Ed) (“Building Control Act”), and s 2 of the Building Control Act defines the Building and Construction Authority as the BCA.(b)   The standard form OTP found in Form B of the Rules requires the number of building plans approved by the Commissioner of Building Control, the identification number(s) of these building plan(s), and the date of approval of those plans to be stated therein. This is a reference to BCA approved plans because the Commissioner of Building Control is defined in s 2 of the Building Control Act to be the commissioner responsible for the Building Control Act.(c) The standard form SPA found in Form D of the Rules also requires the building plan number of the approved building plan to be stated therein. This is the same building plan as stated in the OTP, as the SPA is entered into in the course of exercising the OTP.72 It should be borne in mind that cl 15.4 does not require the purchaser to have actually examined the plans. Instead, what plans the purchaser had approved, whether with actual or constructive knowledge, is a question of fact which can be inferred based on the circumstances of each case. 73 When this is borne in mind, we are in agreement with the arbitrator’s finding that the approved plans were the 2012 BCA Plans (subject to the Changes). While the respondent had never seen the 2012 BCA Plans, these were the plans referred to in the OTPs and the SPAs, and the respondent must be taken to have given constructive approval at the time of entering the OTPs and SPAs. The purchaser will be taken to be bound by those plans because those were the plans the appellant would have been given if it had asked for them. It cannot make any difference that the BCA Notice of Approval stated that some clearances from technical departments were outstanding. If changes were subsequently made to comply with the requirements of these technical departments, they could not have been “approved” by the purchaser because they were not yet in existence at the time of the SPAs. The effect of such a caveat is simply that changes could be made to the plans and specifications as a result of complying with the technical departments and authorities’ requirements. Clause 15.4 was inserted precisely to deal with these kinds of changes (leaving aside for the moment the requested Changes by the respondent which we deal with below). 74 The appellant also contends that even if a purchaser can be taken to have approved a plan subject to changes, the purchaser must be taken to have also approved all further changes required by the authorities. If this were not the case, there would be an improper result as a purchaser would be allowed to approve plans and specifications which have not been authorised by the authorities.
+                   91
+
+
+
+
+Foot Note 91
+
+×
+
+
+
+  AC at para 30.
+
+
+
+ The appellant also argues that its proposed interpretation is consistent with cll 10.1 and 10.3 of Form D (and, by extension, the SPAs) which provide:10.1 The Vendor must as soon as possible build the Unit, together with all common property of the Building, in a good and workmanlike manner according to the Specifications and the plans approved by the Commissioner of Building Control and other relevant authorities.…10.3 The Vendor must obtain all the necessary consents and approvals of the Commissioner of Building Control and other relevant authorities for the construction of the Unit, and must comply with all the requirements of the Commissioner of Building Control and other relevant authorities for the construction of the Unit.75 The appellant’s arguments in favour of consistency (as mentioned above in the preceding paragraph) is based on the notion that the purchaser cannot be allowed to insist that the vendor build the property according to the requirements of the authorities, but at the same time maintain that he has not approved those plans at the date of agreement.
+                   92
+
+
+
+
+Foot Note 92
+
+×
+
+
+
+  AC at para 55.
+
+
+
+ This is especially so in a case where the purchaser has requested a change to the plan.
+                   93
+
+
+
+
+Foot Note 93
+
+×
+
+
+
+  AC at para 54.
+
+
+
+76 These, and similar arguments raised by the appellant, can be disposed of briefly as they unfortunately completely ignore the facts of the case, are illogical, and are bereft of reality. As we have stated at [63] above, there is nothing wrong with a purchaser approving plans which are subject to further development and change because that is part of the development and building process, and cl 15.4 provides a mechanism to cater for these changes. We therefore see no inconsistency between cl 15.4 and cl 10; they both work in a complementary fashion to protect the purchaser.  77 We therefore agree with the arbitrator’s and Judge’s findings that the approved plans were the 2012 BCA Plans (subject to the Changes, which we shall deal with below), and that the subsequent changes made ([28] above) were not approved by the respondent.Question 278 Question 2 asks: where a purchaser of commercial property under construction requests that changes be made to the specifications of the unit, would the purchaser be entitled to rely on cl 15.4 where he has not formally approved of the plans and specifications incorporating the changes he has requested, or is he left to his remedies at common law?79 The Judge found that the purchaser would be allowed to rely on cl 15.4 even if he had not formally approved the plans and specifications incorporating the changes requested (GD at [150(b)]).80 Whilst we agree in general with the Judge’s answer to this question, we would also add that this question is a red herring in a number of respects. First and foremost, the respondent’s emphasis on a formally approved a set of plans or specifications is misplaced. We have already stated at [61] above that the “approval” does not necessarily have to be consolidated in some written form, as long as there is evidence of what the purchaser had approved or deemed to have approved at the date of the SPA, which is the starting point of the enquiry. From that reference point, if substantial differences were made to or had somehow crept into the plan or specifications after the date of the SPA and these were not requested or specifically agreed to by the purchaser, it would still have had recourse to cl 15.4.81 Secondly, as referenced above, cl 15.4 is a provision within Form D and the parties cannot amend, delete or otherwise render cl 15.4 inoperative without the prior written approval of the Controller (see r 7(2) of the Rules). Parties are thus not able to add a requirement of “formal” approval without the approval of the Controller. There is no question of a waiver or approval of such a change having been sought or given in this case.  82 Thirdly, on the facts of this case, the respondent could not possibly have approved or agreed to a plan and specifications which incorporated the Changes at the date of the SPAs because it would not be known what changes or differences there might be until the relevant authorities had considered the same and responded. Moreover, it is certainly not the appellant’s case, nor is there any evidence, that the respondent agreed to proceed with the purchase of the units regardless of what amendments or changes were imposed or required by the authorities. 83 Fourthly, the Changes the respondent requested were not simple or stand-alone changes, like a change to a specification from ceramic tiles to granite flooring for the lift lobby. The Changes requested involved a change of use as well as replacing a swimming pool with a garden. It was not the kind of requested change to which both parties could, without knowing if the authorities would approve the same or give approval with attached terms and conditions, agree upon unconditionally. Indeed, the request might be denied by the authorities. As both parties were represented by lawyers, their lawyers drafted the Letter of Confirmation to cater for this request for the Changes and specifically catered for a range of possibilities (see [19] above). As referenced above, this included the authorities refusing to approve the Changes, or approving the same and subsequently revoking the same, approving the Changes subject to terms and conditions which the appellant did not agree to or even accepting, in the appellant’s sole discretion, any terms or variations imposed by the authorities in order to grant approval for the Changes. The appellant undertook to give notice in writing to the respondent if any of these eventualities occurred whereupon the respondent would have 14 days within which to rescind the SPAs and obtain a refund of all progress payments, if it wished to do so. The Letter of Confirmation also set out the parties’ rights if the respondent did not rescind the SPAs.        84 The Letter of Confirmation therefore provided for the parties’ legal rights vis-à-vis the requested Changes, which Form D does not provide for, but even then, the Letter of Confirmation did not and indeed could not, take away the protection afforded by cl 15.4 unless, as we have already noted, the prior written approval of the Controller was obtained. It is perhaps no coincidence that despite the exchange of correspondence on the requested Changes by the respective solicitors on their respective letterheads, the signed Letter of Confirmation was on the letterhead of the appellant. The right to rescind when the authorities responded was given to the respondents under the Letter of Confirmation and that right sat alongside the right conferred by cl 15.4. A knotty legal issue might arise where the respondent did not rescind the SPAs under the Letter of Confirmation but attempted to do so after the expiry of 14 days, under cl 15.4. Technically, considering the purpose of the Act and the use of a statutorily-mandated form of contract, such a right must still exist; however, that issue is not before us. What is before us is the undisputed fact that the respondent could not be said to have agreed to the amendments consequent upon the requested Changes, because it did not know what they were, and there is no evidence to suggest it had agreed to a blanket acceptance of all potential changes or conditions which could arise or be imposed. Nothing can be clearer from the terms of the Letter of Confirmation. The requested Changes therefore did and could not affect the respondent’s recourse to cl 15.4.    85 What did transpire here, is that for some reason, the appellant did not, as it undertook to do under the Letter of Confirmation, give notice to the respondent upon hearing back from the authorities. As mentioned above, to comply with the authorities’ requirements, there would have to be substantial changes made to the hardscape and softscape areas, the raising of the softscape areas and reduction in the occupant load of Unit 2, (see [23] and [25] above). The appellant went ahead with construction in accordance with these requirements. The respondent discovered these differences only after they took possession of the Units on 29 December 2016. Shortly thereafter the disputes arose which eventually led to the arbitration. 86 These changes were found by the arbitrator to be “substantial differences” for the purposes of cl 15.4 and, as discussed above, this was a finding that the appellants have to live with. As we shall elaborate below, it is not open to the appellants to ignore or attempt to say otherwise before the courts. 87 We pause at this juncture to deal with a point made by counsel for the appellant, Mr Kelvin Poon, during oral submissions. Mr Poon submitted that the 2014 URA Plan (which featured the changes set out at [28] above) was sent to the respondents on 21 January 2015 and the respondents “did not make any noise about it”. We then asked Mr Poon if that point was put before the arbitrator but Mr Poon was not able to confirm that as he was not counsel for the appellant at the arbitration. However, Mr Lok Vi Ming SC, counsel for the respondent, confirmed that the 2014 URA Plan did not feature in the arbitration proceedings and no witnesses were cross-examined on this point. This point was only raised by the appellant in its reply submissions to the arbitrator, where the appellant exhibited the 2014 URA Plan. As the reply submissions were simultaneously exchanged, the respondent did not have a chance to address this point. The arbitrator and the Judge, correctly in our view, did not make any findings on this point. 88 In our view, this is not a permissible point to run before us. It was not raised in the arbitration below and no witnesses were cross-examined on the 2014 URA Plan or on the point being put forward before us. Both only appeared in the reply submissions which were simultaneously exchanged. As Mr Lok SC rightly points out, it does not form any part of the five questions of law and we thus disregard it.                    89 It should also be noted that the respondent did not run a case before the arbitrator that there had been a breach of the Letter of Confirmation by the appellant and that they had suffered loss and damage as a result of that breach. This will have a consequence on what damages it can recover (see [119] below); but as far Question 2 goes (grounded as it is on erroneous premises), the respondent has not lost its right to rely on cl 15.4 in this case.The interpretation of “differ substantially”90 We now go on to deal with the interpretation of the phrase “differ substantially” (“Phrase 2”) to the extent needed to answer Questions 3 and 4 ([36] above). Question 391 Question 3 asks the broad question of what constitutes a “substantial difference” in cl 15.4 (see [31] to [36] above). Findings below92 The appellant argued below that the differences which are significant for the inquiry under cl 15.4 must be those which have a demonstrable impact on the commercial value of the units.
+                   94
+
+
+
+
+Foot Note 94
+
+×
+
+
+
+  ASS at para 28.
+
+
+
+ The respondent disagreed, arguing that cl 15.4 calls for a comparison of building plans, and Phrase 2 refers to a substantial difference in the design of the Units between the plans, and not their commercial value.
+                   95
+
+
+
+
+Foot Note 95
+
+×
+
+
+
+  RSS at para 166.
+
+
+
+93 The Judge held that the plain and ordinary meaning of Phrase 2 refers to any difference which is objectively substantial, including misdescription, and is not limited to differences in commercial value (GD at [157], [158], [160] and [169]). The phrase also does not include a requirement of materiality, ie, there is no need to show that the purchaser would not have purchased the property if he had known of the substantial difference (GD at [163]). In addition, the appellant’s interpretation contradicts the purpose of the legislative scheme (GD at [162] to [164]).94 The parties’ arguments on appeal are similar to those made before the Judge and we will refer to them in greater detail below.Our Analysis and Decision on Question 395 In our view, the term “differ substantially” is broad and not defined nor sculpted by any of the text in cl 15.4. The plain words of cl 15.4 only tells us that there must be a difference, and that the difference must be substantial. It does not set out a criteria, matrix or percentage for what constitutes a “substantial” difference. It also does not set out from whose point of view the difference must be substantial.  96 The parties rely on various cases to support their respective positions.
+                   96
+
+
+
+
+Foot Note 96
+
+×
+
+
+
+  AC at paras 78 to 80; RC at paras 112 to 114.
+
+
+
+ Those cases concern contracts for the sale of real property which contain a “non-termination clause” to the effect that the contract would not be vitiated notwithstanding any misdescription in the property (see for example Flight v Booth (1834) 1 Bing (NC) 370; Jacobs v Revell [1900] 2 Ch 858; Lee v Rayson [1917] 1 Ch 613; and Shepherd v Croft [1911] 1 Ch 521). Despite the non-termination clause, the court in those cases laid down a common law exception that the purchaser would be allowed to terminate the contract if the misdescription was substantial or material. The precise terminology of the exception differed from case to case, with some cases finding that rescission would be allowed if the purchaser did not substantially get what he bargained for, and other cases finding that rescission would be allowed if but-for the misdescription, the purchaser would not have entered into the contract, amongst others.97 However, we do not think that those cases are of much assistance in the present case. None of them concerned a clause like cl 15.4 of Form D and were not decided in the context of legislation specifically enacted to protect purchasers. While they similarly refer to tests of substantiality and materiality, we do not think they are particularly relevant or helpful in construing the phrase “differ substantially” in cl 15.4 in the context of the legislative scheme.98 Instead, we should look to the purpose of the Act, which has been made clear by Parliament. It is not in dispute that the purpose is purchaser protection. Parliament saw fit not to define what is meant by “differ substantially”. That is probably because there are so many different facts and circumstances that can arise, and these factors or considerations may well differ in importance and significance depending on the facts of each particular case.99 It would not be wise for us to attempt something that Parliament saw fit not to do. We already have two signposts: (a) the purpose of the Act; and (b) the use of the words “differ substantially.” We therefore will not go beyond saying the following in the context of this case:(a) What amounts to a substantial difference is an objective rather than a subjective test which assesses whether a reasonable person in the situation of the parties would have thought the two comparative plans, ie, the plan at the time of the agreement and the final approved building plan, differed substantially;(b) It would be relevant to consider the question of whether a difference is “substantial” from the perspective of both parties but a greater weight should be placed on the perspective of the purchaser because cl 15.4 is primarily to protect the purchaser; and(c) The inquiry includes all the relevant factors and circumstances of the case, including but not limited to aesthetics, use restrictions, commercial, utilitarian, and social considerations and values.100 The foregoing is sufficient to deal with Question 3. Clause 15.4 provides that if there is any dispute as to whether the unit when built differs substantially from the approved plans and specifications, it shall be referred to arbitration. The dispute has been referred to an arbitrator and he found and ruled that the final approved building plans differs substantially from the plans and specifications approved by the respondent at the date of the SPAs, ie, the 2012 BCA Plan. The arbitrator noted the four differences (see [32(b)] above), which he considered differed substantially from the 2012 BCA Plan. That should have been the end of the matter. None of the answers sought to the questions posed can change or impugn this finding of fact. 101 Unfortunately, the parties have made substantial submissions on the facts. This includes the appellant’s contention that the arbitrator had erred as there was no evidence that the increased height of the softscape impacted the Units’ commercial value.
+                   97
+
+
+
+
+Foot Note 97
+
+×
+
+
+
+  AC at paras 90 to 94.
+
+
+
+ The appellant also argues that in any event, the arbitrator erred in law in failing to consider if the increased height changed the commercial value of the Units, even though he had acknowledged that commercial value was a relevant consideration.
+                   98
+
+
+
+
+Foot Note 98
+
+×
+
+
+
+  AC at para 98.
+
+
+
+ These are impermissible arguments. We reject these and other arguments of the same ilk raised by the appellant. We reiterate that in an appeal on a question of law under s 49 of the AA, the appellants cannot, and have no basis to, contend that the arbitrator erred in his findings of fact. They may only appeal on a question of law based upon the facts as found by the arbitrator. We add that in our view, the arbitrator had given more than enough grounds, some of which we have already referred to above, to support his findings in this respect. The arbitrator’s approach was consistent with what we have set out at [99] above. Question 4102 Question 4 asks what weight is to be given to the restrictions in cll 25 and 26 of the SPAs when considering what constitutes a substantial difference under cl 15.4 ([36] above).103 The Judge held that contractual restrictions are amongst the factors to be taken into account when comparing the plans and specifications approved by the purchaser (subject to the requested changes) with the final approved plans and the units as-built, to determine if there has been a substantial difference (GD at [170(b)]).Our Analysis and Decision on Question 4104 In our view, Question 4 is devoid of any merit. The question of the appropriate weight to be given to cll 25 and 26 is a fact-specific question which does not raise any relevant issue or question of law in relation to Phrase 2. 105 In any case, to answer the question, since cll 25 and 26 prohibit the use of the roof gardens for commercial activities and as spill-over space for restaurant customers ([34] above), the purchaser therefore could not reasonably have intended to use the roof garden for such purposes; the inaccessibility of the roof garden for these purposes hence cannot be a factor in considering if there is a substantial difference under cl 15.4. 106 However, cll 25 and 26 did not prohibit the use of the roof garden for other non-commercial purposes. The changes resulted in a substantial difference because the roof gardens could no longer be used even for non-commercial purposes. Our findings comport with the finding of the arbitrator who did not consider commercial purposes as part of his reasoning for finding a substantial difference. Instead, the arbitrator stated that there is a substantial difference, in spite of cll 25 and 26, because the softscape areas could not even be accessed for non-commercial activities (such as for a walk) (see [35] above).
+                   99
+
+
+
+
+Foot Note 99
+
+×
+
+
+
+  Award at paras 99 to 100.
+
+
+
+ We reiterate that the arbitrator correctly construed cll 25 and 26 and came to his finding and that is binding on the parties. We cannot see any question of law arising from his ruling.  Refund all moneys paid by the Purchaser Question 5107 Question 5 (see [36] above) inquires as to the meaning of the phrase “refund all moneys paid by the purchaser” (“Phrase 3”). There are two possible meanings being contended: (a) that Phrase 3 refers only to moneys paid to the vendor (“first meaning”); (b) that Phrase 3 refers to all moneys paid by the purchaser, whether to the vendor or to third parties (“second meaning”).Findings below108 In the proceedings below, the appellant argued in favour of the first meaning, whereas the respondent argued in favour of the second meaning.
+                   100
+
+
+
+
+Foot Note 100
+
+×
+
+
+
+  ASS at para 35.
+
+
+
+ The Judge held that the ordinary meaning of Phrase 3 is ambiguous, but that the legislative history and intent makes clear that the phrase refers to the second meaning (GD at [173] to [179]).Parties’ arguments on appeal109 The appellant argues that the ordinary meaning of “refund” supports the first meaning as “refund” refers to restoring something taken or received.
+                   101
+
+
+
+
+Foot Note 101
+
+×
+
+
+
+  AC at paras 101 to 103.
+
+
+
+ The appellant also argues that the second meaning would lead to various problems: (a) The purchaser would no longer be incentivised to seek compensation from the relevant third parties, as this would incur costs. This would result in the third parties being enriched even though no conveyance was performed.
+                   102
+
+
+
+
+Foot Note 102
+
+×
+
+
+
+  AC at para 106.
+
+
+
+(b) If the third parties compensate the purchaser, the purchaser would be doubly-compensated, with the vendor having no mechanism or contractual right to recover the sum.
+                   103
+
+
+
+
+Foot Note 103
+
+×
+
+
+
+  AC at paras 107 to 108.
+
+
+
+ This problem is illustrated by how in the present case, the arbitrator had to make a separate order to ensure that the purchaser is disgorged of double compensation.
+                   104
+
+
+
+
+Foot Note 104
+
+×
+
+
+
+  AC at para 109.
+
+
+
+(c) The making of such separate order is not sound in law because enforcing this order would require the arbitrator to continually monitor the matter post-award to determine if and when the purchaser is compensated by the third party.
+                   105
+
+
+
+
+Foot Note 105
+
+×
+
+
+
+  AC at paras 110 to 111.
+
+
+
+ The legislature could not have intended this.
+                   106
+
+
+
+
+Foot Note 106
+
+×
+
+
+
+  AC at paras 110 to 111.
+
+
+
+(d) The Judge erred in his oral decision by stating that the law of restitution “may develop” to allow the developer to exercise the purchaser’s rights to claim compensation from the third parties.
+                   107
+
+
+
+
+Foot Note 107
+
+×
+
+
+
+  AC at para 112; ACB II at p 196.
+
+
+
+ Such future legal development cannot be used to construe legislation which have fixed meanings at the time of enactment.
+                   108
+
+
+
+
+Foot Note 108
+
+×
+
+
+
+  AC at para 112.
+
+
+
+ In any case, this is a future development and the law of restitution has yet to reach that stage.
+                   109
+
+
+
+
+Foot Note 109
+
+×
+
+
+
+  AC at para 112.
+
+
+
+ Finally, this solution is inadequate as it requires the appellant to make a claim in restitution and it is unclear which forum this is to be heard in.
+                   110
+
+
+
+
+Foot Note 110
+
+×
+
+
+
+  AC at para 112.
+
+
+
+110 The respondent counter-argues that the term “refund” can accommodate both the first and second meanings.
+                   111
+
+
+
+
+Foot Note 111
+
+×
+
+
+
+  RC at para 132.
+
+
+
+ However, the legislative history supports the second meaning as the 1990 equivalent of cl 15.4 of the Rules provided only that “all money collected from [the Purchaser] by the Vendor shall be refunded to him”, whereas in 1995, the clause was amended to the present cl 15.4 which expanded the refund to include “all moneys paid by the Purchaser”.
+                   112
+
+
+
+
+Foot Note 112
+
+×
+
+
+
+  RC at paras 135 to 136.
+
+
+
+ There was a shift of focus from refund of moneys received by the developer, to moneys paid by the purchaser.
+                   113
+
+
+
+
+Foot Note 113
+
+×
+
+
+
+  RC at para 140.
+
+
+
+ This is consistent with the purpose of the legislative regime, which is purchaser protection.
+                   114
+
+
+
+
+Foot Note 114
+
+×
+
+
+
+  RC at para 141.
+
+
+
+ In addition, cl 15.4 provides that upon the refund, neither party will have any claim against the other. This extinguishes the purchaser’s common law right to claim damages from the developer to recover maintenance charges, and Parliament must have had intended to subsume the maintenance charges and other sums paid to third parties under the “refund”.
+                   115
+
+
+
+
+Foot Note 115
+
+×
+
+
+
+  RC at para 145.
+
+
+
+Our Analysis and Decision on Question 5111 There does seem to be some ambiguity as to the exact meaning of “refund”. The Judge found that the word “refund” can support both the first and second meaning (see GD at [173] to [177]). The Oxford English Dictionary (Oxford University Press, 2019) states that “refund” means to repay or return anything taken or received.
+                   116
+
+
+
+
+Foot Note 116
+
+×
+
+
+
+  ABOA II Tab 21.
+
+
+
+ However, it also includes “reimburse” as one of the meanings of “refund”, and the examples listed therein show that such reimbursement is not necessarily made by the recipient of funds, but can be made by a payor reimbursing the payee for funds the payee had paid to third parties:
+                   117
+
+
+
+
+Foot Note 117
+
+×
+
+
+
+  ABOA II Tab 21.
+
+
+
+1736 … The printer has a demand… to be fully refunded, both for his disgraces, his losses, and the apparent danger of his life.1862 … A proposal to refund him out of the Treasury was now made in Congress.1895 …. If you are out of pocket by this business, I shall be glad to contribute towards refunding you.1942 … We will refund him for the carriage, insurance, and packing.[emphasis added]However, we note that the above examples come from earlier times. The Chambers English Dictionary ascribes the meaning of “refund” as “to restore what was taken”. That is the more modern usage of the word “refund”, viz, where A pays B a sum for something and upon rescission, B refunds that sum back to A. 112 In our judgment, the purpose of cl 15.4 makes clear that the first meaning is the correct one to adopt. Clause 15.4 is not a breach or damages clause, but a risk allocation clause which operates in the event that there is a substantial difference between the approved plans and the as-built plans. Such a substantial difference is a variance from the agreement, and if this occurred, cl 15.4 operates to allocate the risk between them. Such variance is not necessarily due to any fault of either party but could happen, for example, due to the need to comply with regulations imposed by authorities. Since cl 15.4 is a no-fault clause, which does not require any form of breach or wrongful act on the part of the vendor, the concept underlying cl 15.4 is that of rescission and restitution. There is no conceptual basis for holding that the developer should be liable to insure or indemnify the purchaser from all losses, including payments to third parties. If this was what Parliament had intended, the more appropriate word to use would have been “reimburse” or “indemnify”.  113 The respondent argues that making the developer liable for these third-party payments would offer better purchaser protection and would be in line with the legislative purpose. 114 However, in our view, the legislative purpose does not go so far as to indemnify or insure the purchaser from all losses. The wording and structure of cl 15.4 supports this construction. Clause 15.4(a) provides that if the purchaser terminates the sale agreement, the vendor must refund all moneys paid by the purchaser together with interest at 10% per annum. Clause 15.4(b) goes on to provide that upon payment, neither party will have any claim against the other. The legislative purpose is only to protect the purchasers from abuse, and not to hold them harmless from all loss and damage. Since cl 15.4 is a no-fault clause, there may not necessarily have been any abuse by the vendor and thus there is no reason for the vendor to indemnify the purchaser. There are thus little if any persuasive reasons supporting a different interpretation. 115 The respondent however points to the legislative history of the Rules to support the second meaning of Phrase 3. The respondent pointed out that (as referred to above) the predecessor to cl 15.4 of the Rules was cl 9(4) of Form D of the Schedule to the Sale of Commercial Properties Rules (Cap 281, R 1, 1990 Rev Ed) (“1990 Rules”) which provided:If the final approved building plans for the building unit and the Building differ substantially from the plans and specifications approved by the Purchaser at the date of this Agreement, the Purchaser shall be entitled to determine this Agreement if he so desires, in which event all money collected from him by the Vendor shall be refunded to him in full with interest thereon at the rate of ten (10) % per annum and in such event neither party shall have any claim against each other thereafter. [emphasis added]116 However, the relevant phrase of cl 9(4) of the 1990 Rules was replaced as follows in cl 15.4 of the Rules:… the Vendor must refund all moneys paid by the Purchaser with interest calculated at the rate of 10% per annum … [emphasis added]117 The respondent argues that the change in words shows that there is a shift in focus from moneys collected by the vendor to moneys paid by the purchaser, and was intended to manifest the intent to reimburse the purchaser all moneys paid by him, whether to the vendor or to third parties. We disagree. There is nothing in the legislative material to show that this change was intended. Instead, the phrase could have simply been amended because the earlier phrase contained superfluous words.118  Our answer to Question 5 is therefore that Phrase 3 only refers to moneys paid to the vendor and it does not include sums of money paid to third parties. We therefore reverse the Judge’s findings on this question and vary the award pursuant to our power under s 49(8)(b) of the AA as follows:(a) The appellant is to refund the respondent the progress payments for Unit 1 and Unit 2 as claimed in the schedule to the award, together with the prescribed interest. (b) In so far as the maintenance charges for the units were paid to the MCST and not to the appellant, the appellant is not liable to reimburse these sums to the respondent and the sums awarded in the arbitration for maintenance charges for Units 1 and 2 are set aside.
+                   118
+
+
+
+
+Foot Note 118
+
+×
+
+
+
+  Note: It appears to us that the maintenance charges were paid to the MCST and not to the appellant, although the arbitrator did not seem to have made a finding on this (see for example MKP’s witness statement at RA III(4) 33 at paras 43 to 44 and the respondent’s opening statement in the arbitration at RA III(2) 179 at para 64; we also note that the respondent only started paying maintenance charges from January 2017 after they took possession of the Units in December 2016). 
+
+
+
+ (c) The appellant is also not liable to reimburse the respondent the stamp duty and property tax paid by the latter to the Inland Revenue Authority of Singapore; we also vary the award by setting aside these sums set out in the award and the schedule thereto as well as the arbitrator’s consequent order thereon.   119 We pause to note that the respondent did not pursue any claims for breach of the Letter of Confirmation before the arbitrator (see [89] above). As referenced above, the appellant had undertaken to give written notice to the respondent if various eventualities arose as a result of the requested Changes, (see [19] and [20] above). For some reason, the appellant failed to do so. Consequently, the respondent only discovered the differences after it was given possession of the Units. Had written notice been given earlier, it is probable that rescission would have occurred at a much earlier date and some of the payments to third parties like the MCST would not have been incurred or reached the levels set out in the award. We have also noted the appellant’s contention that the respondent can recover the stamp duty and property tax in the event of a rescission although that does not address the loss of interest suffered by the respondent from being deprived of these considerable sums for an extended period. The loss or damage flowing from a breach of the Letter of Confirmation may have addressed some of these claims but no such claim was pursued below.       Conclusion120 We thus answer the first four questions of law as set out above in favour of the respondent. None of these findings require any amendment to the award. We however, reverse the Judge’s findings on Question 5 in favour of the appellant and vary the award as set out above. We therefore allow the appeal in part.  121 We conclude by emphasising, first, that in all sales of commercial property, developers should recognise the importance of keeping purchasers informed if there are substantial changes in the approved building plans, to avoid potential conflicts. Secondly, if the parties choose to make contractual changes to the prescribed standard form contract in Form D, they and their legal advisers should be mindful that such changes cannot take away the minimum safeguards afforded to purchasers under the Act unless, of course, prior written consent is obtained from the Controller.  122 As the appeal on four of the five questions has been dismissed but the appellant has succeeded on Question 5, we award costs to the respondent fixed at $50,000, all in. The usual consequential orders will apply.Sundaresh MenonChief JusticeAndrew Phang Boon LeongJustice of the Court of AppealQuentin LohJudge of the Appellate DivisionPoon Kin Mun Kelvin, Lai Tze Ren, Jonathan (Li Zhiren) and Koh Wei-jen, Aaron (Rajah & Tann Singapore LLP) for the appellant;Lok Vi Ming SC, Lee Sien Liang Joseph and Qabir Singh Sandhu (LVM Law Chambers LLC) for the respondent. 

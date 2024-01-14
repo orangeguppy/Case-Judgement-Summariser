@@ -1,0 +1,1170 @@
+
+In the COURT OF APPEAL OF THE REPUBLIC OF SINGAPORE[2021] SGCA 97Civil Appeal No 94 of 2020Between(1)iVenture Card Limited(2)iVenture Card International Pty Ltd(3)iVenture Card Travel Ltd… Appellants And(1)Big Bus Singapore City Sightseeing Pte Ltd(2)Singapore Ducktours Pte Ltd(3)Heng See Eng… Respondentsjudgment[Contract] — [Breach] — [Repudiation of contract][Contract] — [Remedies] — [Damages][Confidence] — [Breach of confidence][Damages] — [Assessment] This judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in LawNet and/or the Singapore Law Reports.iVenture Card Ltd and others vBig Bus Singapore City Sightseeing Pte Ltd and others [2021] SGCA 97Court of Appeal — Civil Appeal No 94 of 2020Steven Chong JCA, Woo Bih Li JAD and Quentin Loh JAD3 December 202012 October 2021 Judgment reserved.Quentin Loh JAD (delivering the judgment of the court):Introduction1 This appeal is against the decision of the High Court judge (the “Judge”) in iVenture Card Ltd and another v Big Bus Singapore City Sightseeing Pte Ltd and others [2020] SGHC 109 (“the Judgment”) on disputes arising out of a business collaboration on a Singapore tourist attraction pass that ended in a cloud of disagreements.Facts2 The appellants, iVenture Card Limited (“iVenture Card”), iVenture Card International Pty Ltd (“iVenture International”) and iVenture Card Travel Ltd (“iVenture Travel”) are part of the iVenture Group which is engaged in the business of developing and marketing tourist packages worldwide. iVenture Card and iVenture International were the 1st and 2nd plaintiffs in the proceedings before the Judge. iVenture Travel was not a plaintiff below but was the 3rd defendant to the counterclaim.    3 The first two respondents, Big Bus Singapore City Sightseeing Pte Ltd (“Big Bus”) and Singapore Ducktours Pte Ltd (“Ducktours”) are Singapore companies which are part of the Duck and HiPPO Group of companies, a Singapore tourism business. Since 2006, the Duck and HiPPO Group operated a local Tourist Attractions Aggregator Pass (“TAAP”) called the “Singapore Pass”. This allowed pass-holders to access various tourist attractions in Singapore. The third respondent, Mr James Heng See Eng (“Mr Heng”) was, at all material times, a director and the chief executive of Big Bus and Ducktours. Mr Low Lee Huat (“Mr Low”) was the only other director and shareholder of Big Bus and Ducktours. Mr Low was a defendant below but was not included as a respondent in the appeal. 4 As there can be confusion in the parties and actions inter se, it would be useful to set out their positions in the proceedings below:(a) iVenture Card and iVenture International, as 1st and 2nd plaintiffs, sued Big Bus, Ducktours, Mr Heng and Mr Low as 1st, 2nd, 3rd and 4th defendants respectively;(b) Big Bus brought a counterclaim against iVenture Card and iVenture International as 1st and 2nd defendants to the counterclaim and added iVenture Travel as a 3rd defendant to the counterclaim; and(c) iVenture Travel, in turn, brought a counterclaim against Big Bus for repudiation of an agreement which we refer to as the Reseller Arrangement (see [6] below). Their respective causes of action are set out at [14] below.    5 We now turn to the relevant facts. On 17 December 2014, the iVenture Group and the Duck and HiPPO Group agreed to a business collaboration by which the iVenture Group’s Smartvisit technology solution would be used in a new co-branded TAAP, the “Singapore iVenture Pass”. The terms of their bargain were recorded in a Singapore Attractions Pass Preliminary Agreement dated 27 December 2014 (the “Preliminary Agreement”).
+                   1
+
+
+
+
+Foot Note 1
+
+×
+
+
+
+  Appellants’ Core Bundle (“ACB”) Vol 2 (“2ACB”) at p 6.
+
+
+
+ Pursuant to the terms of the Preliminary Agreement, Big Bus and iVenture Card entered into a Licence Agreement,
+                   2
+
+
+
+
+Foot Note 2
+
+×
+
+
+
+  2ACB at p 11.
+
+
+
+ and iVenture Card and Smartvisit Pty Ltd (“Smartvisit”), a related company of iVenture Card, on the one part, and Big Bus, on the other, entered into a Service Level Agreement,
+                   3
+
+
+
+
+Foot Note 3
+
+×
+
+
+
+  2ACB at p 21.
+
+
+
+ both of which were dated 27 March 2015. Under the Licence Agreement, iVenture Card would sell the Singapore iVenture Pass on its online website and grant Big Bus a licence to operate the Singapore iVenture Pass business and to use the iVenture brand in Singapore. In exchange, Big Bus would pay iVenture Card a monthly fee, calculated as a percentage of the sales of the Singapore iVenture Pass. Under the Service Level Agreement, iVenture Card and Smartvisit would provide Big Bus with technical services and access to the “Smartvisit System” and Big Bus would pay the monthly fees to iVenture Card.
+                   4
+
+
+
+
+Foot Note 4
+
+×
+
+
+
+  2ACB at p 28
+
+
+
+ The “Smartvisit System” was a transaction management system which managed the validation, reporting and invoicing of transactions for TAAPs. A major component of this system included the SORSE System, which allowed the user to “access data and reports, update information or process transactions”. Both the Licence Agreement and the Service Level Agreement contained a “Mutual Dependency Clause” which essentially stated that one agreement could be terminated immediately by notice in writing once the other had been terminated.6 In addition to the foregoing written agreements, the parties also entered into an informal “Reseller Arrangement” which was never reduced to writing. The Judge below stated, at [3(c)] of the Judgment, that under the Reseller Arrangement, both plaintiffs were permitted to resell the Singapore iVenture Pass “on behalf of the defendants”. The Judge went on to note that it was disputed whether this arrangement constituted a contractual agreement, the parties between whom the arrangement was made and its payment terms. Before us, it is disputed which iVenture Group entity entered into the Reseller Arrangement. The appellants claim the Reseller Arrangement was entered into on or about 27 March 2015 and that it was made between Mr Ryan Rieveley (“Mr Rieveley”), Chief Executive Officer of the iVenture Group, and Mr Heng.
+                   5
+
+
+
+
+Foot Note 5
+
+×
+
+
+
+  See Mr Rieveley’s AEIC at para. 86; Appellants’ Case (“AC”) at [6].
+
+
+
+ We shall deal with this and other disputed facts in relation to this issue below. What is undisputed is that the iVenture Group resold Singapore iVenture Passes, collected the proceeds on behalf of Big Bus, deducted their commission and paid the balance to Big Bus.       7 After the Singapore iVenture Pass was launched, the parties’ relationship deteriorated. Big Bus became unhappy about iVenture Card’s lateness in making payments which had fallen due under the Reseller Arrangement. This culminated in a heated exchange of emails between Ms Teo Zener (“Ms Teo”) of the Duck and HiPPO Group and Mr Rieveley, between 31 October 2017 and 6 November 2017. In the course of this exchange, Ms Teo informed Mr Rieveley on 6 November 2017 that “trading activity” would be temporarily suspended unless an invoice dated 30 September 2017 (the “30 September 2017 Invoice”) for sums due under the Reseller Arrangement by 30 October 2017 was settled before 9 November 2017.
+                   6
+
+
+
+
+Foot Note 6
+
+×
+
+
+
+  2ACB at p 378.
+
+
+
+ Mr Rieveley replied that same day, refusing to do so.
+                   7
+
+
+
+
+Foot Note 7
+
+×
+
+
+
+  2ACB at p 377.
+
+
+
+8 In the meantime, on 8 November 2017, at or around 2.27 pm, Big Bus suspended the sales, activation and redemption of the Singapore iVenture Pass (the “Pass Suspension”).
+                   8
+
+
+
+
+Foot Note 8
+
+×
+
+
+
+  2ACB at p 390.
+
+
+
+ Upon learning of this, iVenture Card retaliated later that same day (sometime between 4.50pm and 5.30pm), locking out Big Bus from access to the SORSE System (the “SORSE System Suspension”).
+                   9
+
+
+
+
+Foot Note 9
+
+×
+
+
+
+  2ACB at p 376.
+
+
+
+ Sometime between 6.30pm that day and 9am of 9 November 2017, Big Bus followed up with another suspension (the “Second Suspension”), the scope of which was disputed. 9 iVenture Card subsequently paid the 30 September 2017 Invoice on 9 November 2017.
+                   10
+
+
+
+
+Foot Note 10
+
+×
+
+
+
+  2ACB at p 371 and 89, AC at [20].
+
+
+
+ However, Big Bus did not lift the Pass Suspension. Instead, by an email from Ms Teo to Mr Rieveley dated 10 November 2017 confirming receipt of payment, she demanded that iVenture Card pay them a “remittance of [S$]150k for sales collected on [Big Bus’s] behalf from 1 [October 2017] to 9 [November 2017], and a banker’s guarantee or drawdown deposit of S$200k to cover forward sales” as a condition for lifting the Pass Suspension. Big Bus also requested that iVenture Card “turn on the SORSE System for [Big Bus] to resume business”.
+                   11
+
+
+
+
+Foot Note 11
+
+×
+
+
+
+  2ACB at p 371.
+
+
+
+ iVenture Card refused this request and demanded that Big Bus immediately rectify their breach of the parties’ agreements.
+                   12
+
+
+
+
+Foot Note 12
+
+×
+
+
+
+  2ACB at p 370.
+
+
+
+10 On that same date, 10 November 2017, Ducktours also launched the HiPPO Singapore Pass, a TAAP which listed similar attractions as the Singapore iVenture Pass, but utilised different technologies for its back-end IT system. While the Singapore iVenture Pass authenticated pass users by a smart chip embedded in the pass itself which was linked to the Smartvisit System, the HiPPO Singapore Pass authenticated its users using QR Code technology
+                   13
+
+
+
+
+Foot Note 13
+
+×
+
+
+
+  Record of Appeal (“RA”), Vol 3 Part 2 at pp 148 to 149.
+
+
+
+ and did not utilise the Smartvisit System at all.11 Solicitors for iVenture Card, Big Bus and Ducktours then exchanged a series of letters in which iVenture Card alleged that Big Bus and Ducktours had misused confidential information belonging to iVenture Card (“Alleged Confidential Information”) to launch a competing business (the HiPPO Singapore Pass). The Alleged Confidential Information consisted of the following:(a) Information relating to how the iVenture Card business should be run, ie, a system that standardized and optimized the manner in which such a business was set up and run in each destination in which it operated. This included the operating processes and procedures of the iVenture Card business, including but not limited to how attraction partners, customers and suppliers were to be approached and managed.
+                   14
+
+
+
+
+Foot Note 14
+
+×
+
+
+
+  2ACB at p 65, para 108.
+
+
+
+ This also included template supplier and sales agent agreements,
+                   15
+
+
+
+
+Foot Note 15
+
+×
+
+
+
+  2ACB at p 65, para 109.
+
+
+
+ pricing models, information on the performance of various product offerings
+                   16
+
+
+
+
+Foot Note 16
+
+×
+
+
+
+  2ACB at p 66, paras 113 to 114.
+
+
+
+ and marketing and branding guidelines.
+                   17
+
+
+
+
+Foot Note 17
+
+×
+
+
+
+  2ACB at p 68, para 123.
+
+
+
+(b) Information relating to the SORSE System, including the programme management services brief as well as its functions, specifications, user guides and manuals.
+                   18
+
+
+
+
+Foot Note 18
+
+×
+
+
+
+  2ACB at pp 69 to 70, para 128.
+
+
+
+12 The parties’ correspondence culminated in solicitors for Big Bus writing to solicitors for the iVenture Group on 6 December 2017 (the “6 December 2017 Letter”),
+                   19
+
+
+
+
+Foot Note 19
+
+×
+
+
+
+  2ACB at p 337.
+
+
+
+ claiming that iVenture Card had repudiated the Licence Agreement and stating that they regarded both the Licence Agreement and the Service Level Agreement as at an end. On 8 December 2017, solicitors for iVenture Card responded by letter (the “8 December 2017 Letter”),
+                   20
+
+
+
+
+Foot Note 20
+
+×
+
+
+
+  2ACB at p 354.
+
+
+
+ asserting that Big Bus’s notice of termination amounted to a repudiatory breach of both the Licence Agreement and the Service Level Agreement and giving notice of iVenture Card’s acceptance of Big Bus’s said breach and, in the alternative, serving notices of termination pursuant to both agreements.13 A few months after these events, the appellants launched a replacement TAAP business by collaborating with Luxury Tours and Travel (“Replacement TAAP Business”) to mitigate their loss of profit as a result of Big Bus’s actions.
+                   21
+
+
+
+
+Foot Note 21
+
+×
+
+
+
+  RA Vol 3 Part 8 at p 40; Part 12 at p 139, para 8 and p 146, para 44.
+
+
+
+ 14 The various claims made by the parties in the proceedings below are as follows:(a) iVenture Card claimed damages on the basis that Big Bus had repudiated the Licence Agreement and the Service Level Agreement and also claimed unpaid fees under these two agreements; (b) iVenture Card claimed that Ducktours, Mr Heng and Mr Low were liable for damages for inducing Big Bus’s breaches of the Licence Agreement, the Service Level Agreement and the Reseller Arrangement;(c) iVenture Card and iVenture International claimed that the respondents and Mr Low were liable for damages for an unlawful means conspiracy to injure them;(d) iVenture Card and iVenture International claimed against the respondents and Mr Low for damages and other remedies for breach of confidence in the unauthorised disclosure and misuse of the Alleged Confidential Information; (e) Big Bus counterclaimed against iVenture Card and iVenture International for damages on the basis that they had first repudiated the Licence Agreement and the Service Level Agreement;(f) Big Bus also counterclaimed against iVenture Card, and alternatively iVenture Travel, for the payment of two outstanding invoices for October and November 2017 under the Reseller Arrangement; and(g) iVenture Travel counterclaimed damages against Big Bus on the basis that Big Bus repudiated the Reseller Arrangement. 15 It is evident from the above that although iVenture International was the 2nd plaintiff in the action, it is not a party to any of the agreements. iVenture Travel may be a party to the Reseller Arrangement but was not a plaintiff. However, as noted above, it did make a counterclaim against Big Bus after being named by Big Bus as the 3rd defendant to Big Bus’s counterclaim. On the other side, only Big Bus is a party to each of the three agreements and hence the claims against the other defendants were based on causes of action other than breach of contract. Decision below16  As we elaborate later, the Judge found that the Reseller Arrangement was an oral contractual arrangement between Big Bus and iVenture Card, and not iVenture Travel. The Judge held that although iVenture Travel was the party billed in the invoices issued in respect of the Reseller Arrangement, this was a matter of administrative convenience because iVenture Card had set up the SORSE System to generate invoices in that manner: see the Judgment at [6]–[7]. On that basis, the Judge dismissed iVenture Travel’s claim for the repudiation of the Reseller Arrangement (see [14(g)] above) and Big Bus’s counterclaim against iVenture Travel for the Reseller Arrangement invoices for October and November 2017 (see [14(f)] above). 17 The Judge also found that a 30-day credit term applied to the Reseller Arrangement as the parties had conducted themselves on that basis and an amorphous credit term was unbelievable as a matter of commercial sense. Thus, in refusing to make payment for the 30 September 2017 Invoice by 30 October 2017, iVenture Card had breached the Reseller Arrangement, but this did not confer a right of termination or suspension on Big Bus: see the Judgment at [8]–[9]. This is not disputed on appeal.18 The Judge also found that by the Pass Suspension and the Second Suspension on 8 and 9 November 2017, Big Bus had repudiated the Licence Agreement and the Reseller Arrangement but they were not a repudiation of the Service Level Agreement (see the Judgment at [14] and [17]). This finding is also not disputed on appeal. However, as the plaintiffs pleaded that they had only accepted the repudiation on 8 December 2017, the Judge also considered whether iVenture Card itself had repudiated the Licence and Service Level Agreements by the SORSE System Suspension on 8 November 2017 and whether the first two respondents had accepted the alleged repudiation through the Second Suspension. The Judge held that iVenture Card had repudiated the Service Level Agreement (but not the Licence Agreement) by imposing the SORSE System Suspension. However, he also found that that repudiation was not accepted by the Second Suspension on 8 November 2017 but by way of the 6 December 2017 Letter. Furthermore, this letter terminated all three agreements: see the Judgment at [12]–[22].19 The Judge found that Ducktours and its shareholders/directors, Mr Heng and Mr Low, were liable for inducing Big Bus’s breach of contract and that the three of them were, together with Big Bus, liable for unlawful means conspiracy. Ducktours was thus jointly and severally liable for Big Bus’ breach of contract. However, Mr Heng and Mr Low could take advantage of the protection against personal liability afforded by the rule in Said v Butt [1920] 2 KB 497 (“Said v Butt”) as they had acted bona fide in the interests of Big Bus: see the Judgment at [23]–[25] and [28].20 The Judge also took the view that iVenture Card had not sufficiently proved that there had been a misuse of the Alleged Confidential Information and that there was nothing unconscionable in the respondents’ conduct in launching the HiPPO Singapore Pass, and dismissed the breach of confidence claim. Further, as iVenture International was not a party to the Licence Agreement or the Reseller Arrangement and had no real connection with the respondents’ actions, the Judge dismissed its claims: see the Judgment at [26]–[28]. We pause to note that iVenture Card pleaded that it is iVenture International that develops and promotes flexible travel packages for popular tourist destination worldwide and that its principal product is the “iVenture Card, which is both a brand and a pre-paid electronic card”.
+                   22
+
+
+
+
+Foot Note 22
+
+×
+
+
+
+  Statement of Claim (Amendment No 1) (“SOC1”) at para 3.
+
+
+
+ They also pleaded that iVenture International, through iVenture Card as licensee, licenses, amongst other things, its intellectual property in respect of, and the right to operate, the business of developing, promoting and distributing iVenture packages, ie, products that are similar to, and possibly co-branded with, the iVenture card.
+                   23
+
+
+
+
+Foot Note 23
+
+×
+
+
+
+  SOC1 at para 4.
+
+
+
+ However, as mentioned above, iVenture International is not a signatory to the Licence Agreement nor to the Service Level Agreement. 21 On the issue of remedies, the Judge took the view that the Pass Suspension and the SORSE System Suspension were both independent causes of the loss of the Singapore iVenture Pass business. Thus, from the time iVenture Card imposed the SORSE System Suspension, Big Bus and iVenture Card were separately liable to each other for such loss until all three agreements were validly discharged on 6 December 2017. He therefore awarded each of them nominal damages of S$1,000. Further, the Judge awarded iVenture Card damages of S$778.32 for the loss of the Singapore iVenture Pass business for one day, 8 November 2017, in which only the Pass Suspension but not the SORSE System Suspension was in effect. This was quantified on the basis of an estimate of iVenture’s projected loss of profit of S$17,123 for the 22-day period from 9 to 30 November 2017 by the appellants’ expert Mr Oliver Watts (“Mr Watts”), whose methodology the Judge preferred to that of the respondents’ expert, Mr Wong Joo Wan (“Mr Wong”): see the Judgment at [30]–[34].22 The Judge took the view that the appellants’ claim for loss of profits after 27 September 2020 (the end-date for the Licence Agreement and Service Level Agreement) was based on an “incredibly speculative” key assumption that but for Big Bus’s repudiation of the Licence Agreement, the various agreements would have been renewed into perpetuity or iVenture Card would have seamlessly transferred their business to another local partner on comparable or better terms into perpetuity, which was not supported by evidence. He also dismissed iVenture Card’s claim for S$45,757.03 in expenditure allegedly incurred to respond to affected customers and to launch a replacement TAAP business in mitigation due to his finding that the non-operation of the Singapore iVenture Pass business had been caused by both sides and that all three agreements were validly discharged on 6 December 2017: see the Judgment at [35].23 The Judge awarded the following sums to the parties:(a) Allowed Big Bus’s claim against iVenture Card for unpaid invoices under the Reseller Arrangement for October and November 2017 totalling S$145,792.86 (Judgment at [37]);(b) Allowed iVenture Card’s claim against Big Bus for various unpaid fees totalling S$27,866.34 (Judgment at [36]);(c) Awarded iVenture Card nominal damages of S$1,000 for Big Bus’s breach of the Licence Agreement and the Reseller Arrangement, (see [21] above);(d) Awarded Big Bus nominal damages of S$1,000 for iVenture Card’s breach of the Service Level Agreement (see [21] above); and(e) Awarded iVenture Card damages of $778.32 in respect of Big Bus’s breaches of the Licence Agreement and the Reseller Arrangement resulting in the loss of the Singapore iVenture Pass business for one day, 8 November 2017, when only the Pass Suspension was in effect (see [21] above). The Judge set off these various amounts due from each side such that iVenture Card owed a net sum of S$118,926.52 to Big Bus. In addition, the Judge found that Big Bus and Ducktours were jointly and severally liable to iVenture Card for S$1,778.32. He also awarded interest at 5.33% per annum on both sums (Judgment at [39]). Issues on appeal24 The appellants appeal against the Judgment on five grounds, all of which the respondents say are without merit. These five grounds are as follows:(a) First, the appellants argue that it was iVenture Travel, and not iVenture Card, which was the proper party to the Reseller Arrangement, on the basis that the invoices issued thereunder were billed to iVenture Travel. Further, the existence of a set-off arrangement between the parties negated the possibility of a 30-day credit term, and in fact there was no such credit term.
+                   24
+
+
+
+
+Foot Note 24
+
+×
+
+
+
+  AC at paras 34 to 35. 
+
+
+
+(b) Secondly, the appellants argue that Big Bus was not entitled to terminate the Service Level Agreement as a result of the SORSE System Suspension. Big Bus’s breach of the Licence Agreement relieved iVenture Card from the need to perform their obligations under the Service Level Agreement because the “continued effectiveness” of the Licence Agreement was a condition precedent to the performance of the Service Level Agreement.
+                   25
+
+
+
+
+Foot Note 25
+
+×
+
+
+
+  AC at para 41.
+
+
+
+ This entitled iVenture Card to impose the SORSE System Suspension
+                   26
+
+
+
+
+Foot Note 26
+
+×
+
+
+
+  AC at para 39.
+
+
+
+ which in any case was not a repudiatory breach of the Service Level Agreement, because it did not impair the sales, activation and redemption of the Singapore iVenture Pass.
+                   27
+
+
+
+
+Foot Note 27
+
+×
+
+
+
+  AC at para 55.
+
+
+
+ By treating all three agreements as at an end, Big Bus therefore repudiated the same, for which Ducktours and Mr Heng were jointly and severally liable in the tort of conspiracy and inducing breach of contract.
+                   28
+
+
+
+
+Foot Note 28
+
+×
+
+
+
+  AC at para 72.
+
+
+
+(c) Thirdly, the appellants argue that Mr Heng had not been acting in Big Bus’s best interests and had been dishonest. Thus, the rule in Said v Butt did not apply to Mr Heng and did not protect him from personal liability for inducing Big Bus’s breach of contract and for unlawful means conspiracy.
+                   29
+
+
+
+
+Foot Note 29
+
+×
+
+
+
+  AC at paras 75 to 77.
+
+
+
+ (d) Fourthly, the appellants argued that in dismissing their claim for breach of confidence, the Judge had improperly reversed the burden of proof.
+                   30
+
+
+
+
+Foot Note 30
+
+×
+
+
+
+  AC at para 81.
+
+
+
+(e) Fifthly, on the assumption that its appeals on the four preceding grounds stated would be successful, the appellants appealed against the Judge’s findings on damages, save for his finding that iVenture Card was liable to Big Bus for S$145,792.86 for unpaid invoices.
+                   31
+
+
+
+
+Foot Note 31
+
+×
+
+
+
+  AC at paras 87 to 89.
+
+
+
+25 We consider each of these issues in turn.The proper contracting party to the Reseller Arrangement26 We first consider whether iVenture Card or iVenture Travel was the contracting party to the Reseller Arrangement. This issue turns on a question of contractual formation, ie, whether, at the material time, the parties intended iVenture Travel or iVenture Card to be the contracting party to the Reseller Arrangement: see ST Group Co Ltd and others v Sanum Investments Ltd and another appeal [2020] 1 SLR 1 at [59]–[60]. 27 The evidence from Mr Rieveley, Ms Teo and Mr Heng was somewhat vague, conflicting and inconclusive on this point. They did not agree on what kind of agreement this was, when this agreement was entered into, what its terms were or, as noted above, even which iVenture entity was involved. Mr Rieveley characterised it as an agreement and part of the Preliminary Agreement. Ms Teo disagreed, variously saying it developed out of the parties’ practice and custom in accordance with the general prescription of the Preliminary Agreement (see [41] below) or an area of collaboration under the Preliminary Agreement. As noted above, Mr Rieveley states that the Reseller Arrangement was entered into between Mr Heng and himself. Mr Heng laconically says it was entered into in March 2015 and uses the phrase “twin collaboration” in referring to the Reseller Arrangement and the Licence Agreement. Ms Teo deposes that the “oral Sales Agency Agreement” was a creation of the plaintiffs after Big Bus filed a counterclaim against iVenture Card (alternatively, iVenture Travel) for outstanding invoices for October and November 2017. Despite Mr Rieveley’s claim that the Reseller Arrangement was part of or contemplated by the Preliminary Agreement, none of its terms referred specifically to such an agreement to be entered into, unlike the specific references to the Licence and Service Level Agreements, drafts of which were attached to the Preliminary Agreement. Clauses 4 and 5 of the Preliminary Agreement, which were relied upon by Mr Rieveley, only referred to the Singapore iVenture Pass being marketed and promoted by iVenture International and iVenture Card affiliates globally and that these entities would promote it through all its existing sales channels. The Licence Agreement and the Service Level Agreement were, as referenced above, signed on 27 March 2015. We note that under cl 4.3(c) of the Licence Agreement,
+                   32
+
+
+
+
+Foot Note 32
+
+×
+
+
+
+  AC at para 34, 2ACB at p 14.
+
+
+
+ the iVenture Group entities were, on execution of a standard sales agent agreement, to be provided an opportunity to promote and sell the Singapore iVenture Pass outside of Singapore and earn a commission equal to the greater of 20% or the best commission rate (including overrides or bonuses) offered to any party, 30-day credit payment terms and a basis for termination of the sales agent relationship based only on a breach of the terms of the agreement. However, as noted above, no written agreement was entered into by the parties.      28 When we turn to the invoices, there appear to be two versions of the first or earliest invoice in the evidence of Ms Teo,
+                   33
+
+
+
+
+Foot Note 33
+
+×
+
+
+
+  Ms Teo’s AEIC, Exhibit “TZ-23” at pp 559 and 560.
+
+
+
+ one was dated 14 July 2015 and the other was dated 1 July 2015, both covering the same invoice period of 1 to 30 June 2015 and were for the sum of S$4,133.60. The details of the Singapore iVenture Pass sales captured in the first invoice covered sales from 3 to 25 June 2015. The next four invoices exhibited by Ms Teo were for progressively higher sums, viz, S$12,627.20, S$20,323.20, S$16,698.40 and S$33,488.00, which seems consistent with a launch and progressively successful sales. 29 The bottom line therefore was that iVenture Card or entities within the iVenture Group were reselling Singapore iVenture Passes, starting from 3 June 2015, and entering these sales into the SORSE System. For its part, Big Bus was generating invoices from the SORSE System and addressing them to iVenture Travel, but all relevant and significant discussions and chasing up on payment of these invoices were between Ms Teo and Mr Rieveley. We are therefore of the view that there was an oral agreement, namely the Reseller Arrangement, between iVenture Card (see below) and Big Bus, entered into around the time of the Licence and Service Level Agreements. Under this Reseller Arrangement, iVenture Card would earn a commission on such sales, deduct the same and were required, subject to a 30-day credit period (see below), to remit the balance to Big Bus. All the relevant witnesses (see [27] above) referred in varying ways to the Reseller Arrangement being part of the business collaboration under or linked to the Preliminary Agreement. Given that context and the two written agreements that were entered into, the Reseller Arrangement can be viewed as covering an accessory or incidental activity or an offshoot of the Licence Agreement, providing a benefit to both parties.     30 Having regard to all the facts, we agree with the Judge’s finding that iVenture Card, and not iVenture Travel, was the contracting party to the Reseller Arrangement: see the Judgment at [7]. We say this for three reasons.31 First, the evidence of Mr Rieveley and Mr Heng align to the Reseller Arrangement being entered into around the time of the Licence and Service Level Agreements. As noted above, the first recorded transaction in the earliest invoice issued in respect of the Reseller Arrangement (“Reseller Invoice”) was: “Singapore Attraction Pass 2 Ticket Adult – US$ Combo – Online” and it carried the date 3 June 2015. No standard sales agent agreement, or, for that matter, any other written agreement was ever entered into between the parties for the reselling of the Singapore iVenture Pass. The Singapore iVenture Pass was being resold by various iVenture Group entities and it seems highly unlikely that the parties contemplated individual contracts between Big Bus and each such entity that resold the Singapore iVenture Passes.  Given the number of transactions and very modest sums involved, it would only have made business sense if these sales were aggregated to one entity within the iVenture Group, which, in this context, was most likely iVenture Card. The business being transacted under the Reseller Arrangement was, as we have noted above, accessory or incidental to the Licence Agreement which was between iVenture Card and Big Bus.   32 Further, there was no evidence that Big Bus was even aware of iVenture Travel’s existence until after 14 July 2015. Ms Teo, having been told earlier that the SORSE system would automatically generate the Reseller Invoices, sent an email dated 14 July 2015 to Mr Rieveley and one Mr Jonny Loper (“Mr Loper”) (who appears, from his email address at jloper@svs.com.au, to be from Smartvisit), asking for instructions on generating the invoice as Big Bus wished to bill the “June invoice”. On the same day, Mr Loper, gave instructions to Big Bus on how they could automatically generate their invoices from the SORSE System. Mr Loper told Ms Teo:You should be able to access these in SORSE by logging in and then navigating Invoicing > Sales Invoices. Click on the required Invoice Period (i.e. 01/06/2015 – 30/06/2015) and you should find a merchant in there called Venture Card Travel Ltd (SGD). Click on that merchant and the invoice would be displayed. [emphasis added in italics and bold italics]That was how Big Bus’s first invoice, for the period 1 to 30 June 2015, came to be issued. The Smartvisit System generated the first and subsequent invoices to iVenture Travel with an address at Johnston Road, Wanchai, Hong Kong.
+                   34
+
+
+
+
+Foot Note 34
+
+×
+
+
+
+  Ms Teo’s AEIC, Exhibit “TZ-23”.
+
+
+
+ 33 Secondly, and most importantly, whilst we recognise that a lack of knowledge of iVenture Travel on Big Bus’s part does not necessarily preclude iVenture Travel being a nominated party within the iVenture Group to contract with Big Bus for the Reseller Arrangement, one would have expected iVenture Card to be well aware of this fact. Yet in its original statement of claim, the appellants pleaded that iVenture Card and not iVenture Travel was the contracting party to the Reseller Arrangement. It was only on 26 January 2018 that the appellants amended their pleadings to state that iVenture Travel, and not iVenture Card, was the contracting party to the Reseller Arrangement. This lends weight to the view that iVenture Travel was the apparent billing party for convenience as that was how the SORSE System was configured. We note that Ms Teo alleged in her affidavit of evidence-in-chief (“AEIC”) that this switch in the appellants’ pleaded case to iVenture Travel being the party to the Reseller Arrangement was only made after Big Bus took out an application for summary judgment for the unpaid invoices for October 2017 and November 2017.
+                   35
+
+
+
+
+Foot Note 35
+
+×
+
+
+
+  See Respondents’ Supplementary Core Bundle, Vol 1, pp 76 to 79 with extracts from Ms Teo’s AEIC.
+
+
+
+ 34 Thirdly, as noted above at [27], iVenture Card relies on cl 4.3(c) of the Licence Agreement.
+                   36
+
+
+
+
+Foot Note 36
+
+×
+
+
+
+  2ACB at p 14.
+
+
+
+  However, we agree with the Judge’s observation at [6] of the Judgment that this clause creates no legally binding contract in itself. Clause 4.3(c) expressly states that Big Bus would provide the iVenture Group entities the opportunity “… to promote and sell the Licensee’s iVenture Packages outside of the Territory on execution of a standard sales agent agreement…” [emphasis added]. This was never done. Even assuming iVenture Card’s contention on cl 4.3(c) to be correct, however, we find it difficult to understand why, if it was clear that iVenture Travel was the intended contracting counterparty to the Reseller Arrangement or even became the contracting counterparty to that arrangement subsequently, that very fact failed to be pleaded at the outset.35 At this juncture, we turn to consider a difficulty raised by the appellants’ pleaded case. As mentioned above, the appellants originally pleaded, in the Statement of Claim dated 12 December 2017, that the parties to the Reseller Arrangement were iVenture Card and Big Bus. They then amended their pleadings on 26 January 2018 to plead that the parties to the Reseller Arrangement were iVenture Travel and Big Bus, and claimed relief on that basis. Importantly, there was no alternative plea that if iVenture Travel were not the contracting party, then iVenture Card was the contracting party. As we have found that it was iVenture Card and not iVenture Travel which was party to the Reseller Arrangement, is iVenture Card thereby precluded from claiming relief for breach of the Reseller Arrangement (given that they had no longer pleaded that iVenture Card was a party to the Reseller Arrangement)? 36 In Fan Ren Ray and others v Toh Fong Peng and others [2020] SGCA 117, this court observed at [12] that:… Indeed, the underlying consideration of the law of pleadings is to prevent surprises arising at trial (see, for example, the decision of this court in JTrust Asia Pte Ltd v Group Lease Holdings Pte Ltd and others [2020] SGCA 95 at [125]). The general rule is that parties are bound by their pleadings and that the court is precluded from deciding on a matter that the parties themselves have decided not to put into issue. A departure from this rule is permitted only in very limited circumstances, where no prejudice is caused to the other party in the trial or where it would be clearly unjust for the court not to do so …37 We note that the narrow exception in cases where it is clear that no prejudice will be caused by the reliance on an unpleaded cause of action or issue that has not been examined at the trial (eg, where it is apparent that both sides had come to court to deal with an issue in the case despite its omission from the pleadings), is, however, unlikely to be common: V Nithia (co-administratrix of the estate of Ponnusamy Sivapakiam, deceased) v Buthmanaban s/o Vaithilingam and another [2015] 5 SLR 1422 (“V Nithia”) at [41]. Nonetheless, in our view, an unpleaded cause of action or issue that has not been examined at trial is very different from the situation where A and B sue X claiming damages for repudiation or breach of a contract that was entered into between, not A and/or B, but C and X.    38 Having said that, we think the circumstances of this case are quite unique. First and foremost, the Judge granted relief to Big Bus on its counterclaim by awarding damages against iVenture Card for Big Bus’s unpaid invoices under the Reseller Arrangement. Consistent with this finding on the correct counterparty to the Reseller Arrangement, the Judge also awarded damages to iVenture Card against Big Bus for the latter’s repudiatory breach of the Reseller Arrangement. It would seem incongruous, having granted relief to Big Bus against iVenture Card for unpaid invoices under the Reseller Arrangement, not to grant relief to iVenture Card if it established a breach by Big Bus of the very same Reseller Arrangement just because iVenture Card did not include an alternative claim in the event it was found to be the correct counterparty. In our view, it is quite inexplicable for iVenture Card to maintain an argument on appeal that iVenture Travel was the correct party to the Reseller Arrangement notwithstanding its acceptance of and its decision not to appeal against the Judge’s award of $145,792.86 to Big Bus in respect of the unpaid invoices under the same Reseller Arrangement.
+                   37
+
+
+
+
+Foot Note 37
+
+×
+
+
+
+  AC at para 80 and Joint Appellants’ Skeletal Arguments at para 27.  
+
+
+
+ 39 Secondly, on the pleadings at trial, this was not a case of Big Bus being caught unawares or prejudiced by a “non-party” in the sense of an entity which was not a party to the proceedings, making a claim for damages for repudiation of the Reseller Arrangement. In response to the appellants’ amendment of their Statement of Claim, Big Bus amended their Defence by denying that iVenture Travel had ever been a party to any of the agreements and averred that they only came to know of iVenture Travel’s existence on 14 July 2015 (as referenced at [32] above). Importantly, Big Bus also amended their Counterclaim for the unpaid invoices from iVenture Card with a further or alternative claim of that same sum from iVenture Travel and adding iVenture Travel as a 3rd defendant to the counterclaim in the event iVenture Travel was the correct party to the Reseller Arrangement. Big Bus averred that either one of those entities was liable for the $145,792.86 comprised in the October and November 2017 invoices under the Reseller Arrangement.  40 In our view, despite the very serious pleading defect in the appellants’ statement of claim, this is a case where Big Bus itself had pleaded in their counterclaim, that either iVenture Card or iVenture Travel was liable for their claim for unpaid invoices in the sum of $145,792.86. iVenture Travel, although strictly not a party to the claim against Big Bus for repudiatory breach of the Reseller Arrangement, participated at trial as a 3rd defendant to Big Bus’s counterclaim of $145,792.86 as well as a counter-claimant in its counterclaim against Big Bus for damages for repudiatory breach of the Reseller Arrangement. It was not a true non-party in the sense of the hypothetical at [37] above.41 Furthermore, Big Bus, the party who would normally be standing in the shoes of the party prejudiced by having to meet an unpleaded case, themselves led evidence contending that iVenture Card was in fact the party to the Reseller Arrangement, and not iVenture Travel. This can be seen from Ms Teo’s AEIC,
+                   38
+
+
+
+
+Foot Note 38
+
+×
+
+
+
+  RA Vol 3 Part 2 at p 112 to 115, paras 102 to 103 and 108.
+
+
+
+ in which she stated:102. In the absence of a formal sales agency agreement, the Reseller Arrangement between the parties became one that developed out of the parties’ practice and custom in accordance with the general prescription and parameters of the Preliminary Agreement, Clause 4.3(c) of the Licence Agreement and one that continued at will. At all material times, the parties understood and acknowledged that Big Bus acted as the principal under licence from DUCKtours (which owned and operated The Singapore Pass), while iVenture International and/or [iVenture Card] was one of DUCKtours’ reselling agents. Although the Preliminary Agreement provided that the reselling agent would be iVenture International, the invoices for commissions were (apart from the initial period when they were sent by iVenture Card Asia Limited) subsequently always issued by [iVenture Card] to Big Bus. Over time, [iVenture Card] assumed the obligations of the reselling agent.103. That the Plaintiffs acknowledged and agreed that the Reseller Arrangement was between themselves eventually acting via [iVenture Card], and Big Bus acting on behalf of DUCKtours, was amply demonstrated by the parties’ conduct throughout the subsistence of their collaboration ……108. Notwithstanding the above, the commission rate was adjusted by the parties’ agreement over time. Copies of the invoices rendered by Big Bus to iVenture Travel (billed on behalf of [iVenture Card] at the instruction of the [appellants]) throughout the subsistence of the parties’ collaboration are annexed hereto … This nevertheless did not change the fact that parties had always intended for the Reseller Arrangement to be premised on Clause 4.3(c) of the Licence Agreement.[emphasis added]42 We are therefore of the view that the Judge had correctly found that iVenture Card and not iVenture Travel was the party to the Reseller Arrangement and that the failure of iVenture Card to maintain a plea in the alternative in the event that they were held to be the proper party to the Reseller Arrangement does not, in the rather unique circumstances of this case, preclude iVenture Card’s claim for damages for Big Bus’s breach of the Reseller Arrangement, if any.The existence of the 30-day credit term43 It is undisputed that from 29 March 2016, the parties entered into a set-off arrangement to set off the fees due to iVenture Card under the Licence Agreement and the payments to Big Bus for the Reseller Invoices. The appellants submit that this set-off arrangement “negated the possibility” of a 30-day credit term applying to the Reseller Invoices.44 We agree with the Judge’s observations at [8] of the Judgment that the parties’ emails dated 29 March 2016 showed that a 30-day credit term applied to the Reseller Invoices. These emails show that Ms Teo had informed Mr Rieveley that, with the set-off arrangement, Big Bus would bill “IV” (which, in our view, referred to iVenture Travel as the party to be billed for the Reseller Invoices) before the 3rd of every month and that bills would be settled before the 3rd of the “preceding month” (which was an error as Ms Teo clearly meant the following month as it would not make sense otherwise).
+                   39
+
+
+
+
+Foot Note 39
+
+×
+
+
+
+  RA Vol 3 Part 23 at p 23.
+
+
+
+ This points to a 30-day payment and billing cycle, or, in other words, a 30-day credit term. The appellants did not protest this. Instead, they subsequently conducted themselves as if this 30-day credit term applied. In an email to one Mr Joost Timmer and Mr Rieveley dated 23 October 2017, Ms Teo sought their assistance for slow payments in respect of the Reseller Invoices issued by Big Bus. Ms Teo recounted the delays for the June (60 days), July (72 days) and August 2017 (43 days and not yet settled) Reseller Invoices and then stated that the “term of agreement” was that the August bill would be out by 1 September 2017 and payment should be made by 30 September 2017 (ie, a 30-day credit term). Ms Teo then stated that they could expect their bills to be paid by Big Bus within 30 days. On 27 October 2017, Ms Teo sent a reminder and on the same day, Mr Rieveley explained they were waiting for payments in Singapore dollars from other parties before making payment and stated: “I can assure you that payment will be processed within the next week for August and we will definitely work toward reducing the payment cycle now that we have a bit of extra margin to play with” [emphasis added]. Tellingly, Mr Rieveley did not dispute the 30-day credit term as claimed by Ms Teo and, in fact, acknowledged the existence of a fixed payment cycle of some kind, which, we observe, appears to be at odds with the appellants’ case in this appeal that there was no applicable credit term. As late as 31 October 2017, Ms Teo sent an email to Mr Rieveley, asking for payment for two Reseller Invoices dated 31 August 2017 and “31 [sic] September 2017” (ie, the 30 September 2017 Invoice) which were stated to be due on 30 September 2017 and 30 October 2017 respectively.
+                   40
+
+
+
+
+Foot Note 40
+
+×
+
+
+
+  RA Vol 3 Part 23 at p 41.
+
+
+
+ This, again, implied a 30-day credit term for each invoice. In his reply to Ms Teo’s email that same day, Mr Rieveley did not dispute the due dates of both invoices; instead, he assured Ms Teo that payment for the 31 August 2017 invoice would be cleared “by the end of the week” and that the 30 September 2017 Invoice would be cleared as soon as possible.
+                   41
+
+
+
+
+Foot Note 41
+
+×
+
+
+
+  RA Vol 3 Part 23 at p 41.
+
+
+
+45 We therefore agree with the Judge that a 30-day credit term applied to the 30 September 2017 invoice, and that iVenture Card’s failure to make payment on that invoice within that period amounted to a breach of the Reseller Arrangement. The Judge found that this breach, however, did not entitle Big Bus to terminate the Reseller Arrangement: see [9] of the Judgment. As observed above, this is not disputed on appeal.Whether the Service Level Agreement had been repudiated46 At this juncture, we pause to recapitulate the legal position as found by us, with some prefatory remarks, before we go further:(a) We agree with the Judge that iVenture Card was in breach of the Reseller Arrangement when it failed to pay the 30 September 2017 Invoice by the due date for payment. It follows that Ms Teo was entitled to demand that this invoice be paid by 9 November 2017 as the 30-day credit period had expired. When iVenture Card failed to do so, Big Bus was entitled to damages arising from that breach. However, this breach by iVenture Card did not give rise to a right of termination or suspension of the Reseller Arrangement on the part of Big Bus. This is not disputed on appeal.(b) The Judge found that Big Bus’s imposition of the Pass Suspension on 8 November 2017 was a repudiatory breach of the Licence Agreement and the Reseller Arrangement; this is also not disputed on appeal. As noted, iVenture Card’s breach of the Reseller Arrangement did not entitle Big Bus to take such action. However we also note that even before its own deadline of 9 November 2017 for the payment of the 30 September 2017 Invoice had expired, Big Bus had already taken steps to exit its contractual arrangements with iVenture Card.
+                   42
+
+
+
+
+Foot Note 42
+
+×
+
+
+
+  AC at para14 and 2ACB at pp 384 to 397.
+
+
+
+ (c) iVenture Card’s subsequent conduct in locking Big Bus out of the SORSE System on the same day was held by the Judge to be a repudiatory breach of the Service Level Agreement on the part of iVenture Card. With respect, for the reasons set out below, we do not agree with this conclusion of the Judge.  (d) We note that when iVenture Card subsequently paid the 30 September 2017 Invoice on 9 November 2017, Big Bus did not lift the Pass Suspension. Instead, Big Bus imposed additional requirements under the Reseller Arrangement on iVenture Card as conditions for lifting the Pass Suspension, viz:(i) iVenture Card was to remit the sum of S$150,000 for sales collected on Big Bus’s behalf from 1 October 2017 to 9 November 2017; and (ii) iVenture Card was to furnish a banker’s guarantee or a drawdown deposit of S$200,000 to cover forward sales.(e) The Judge found that Big Bus had repudiated the Reseller Arrangement. This is, again, not disputed on appeal.       47 We now proceed to the issue of whether iVenture Card or Big Bus or both had repudiated the Service Level Agreement. The appellants’ case is that Big Bus had repudiated the Service Level Agreement by treating it at an end in the 6 December 2017 Letter. Thus, in our view, in determining whether Big Bus’s termination of the Service Level Agreement amounted to a repudiatory breach, the following issues arise for determination:(a) whether iVenture Card had breached the Service Level Agreement by imposing the SORSE System Suspension;(b) whether any such breach of the Service Level Agreement by iVenture Card was a repudiatory breach; and(c) whether Big Bus breached the Service Level Agreement by way of the 6 December 2017 Letter terminating the Service Level Agreement, and whether such a breach was repudiatory in nature.48 We consider each of these issues in turn.Whether iVenture Card had breached the Service Level Agreement49 The appellants assert that they had not breached the Service Level Agreement by imposing the SORSE System Suspension. In support of this, they advance three arguments:(a) The “essential bargain”, ie, the continued operation of the Singapore iVenture Pass from which all of iVenture Card’s fees under the Licence Agreement are derived was a condition precedent to their continued performance of the Service Level Agreement. The Pass Suspension therefore relieved iVenture Card of the need to perform the Service Level Agreement any further, and therefore the SORSE System Suspension was not a breach of the Service Level Agreement. (b) iVenture Card was entitled to impose the SORSE System Suspension under cl 7.5 of the Service Level Agreement.(c) The Pass Suspension prevented iVenture Card from performing its obligations under the Service Level Agreement, or made such performance futile.(1) Whether the Pass Suspension obviated the need to perform the Service Level Agreement50 We begin with the appellants’ argument that the “essential bargain” under the Licence Agreement was a condition precedent to their continued performance of the Service Level Agreement. By imposing the Pass Suspension, Big Bus had refused to perform substantially all of its obligations under the Licence Agreement. This relieved the appellants from the need to perform the Service Level Agreement any further. The SORSE System Suspension was therefore not a breach of the Service Level Agreement.51 As support for their argument that the performance of the Licence Agreement was a condition precedent to continued performance under the Service Level Agreement, the appellants pointed to cll 3.2a and 8.2(e) of that agreement, which state:
+                   43
+
+
+
+
+Foot Note 43
+
+×
+
+
+
+  2ACB at pp 23 and 27.
+
+
+
+3.2a Licence Agreement: This Service Level Agreement shall operate concurrently with the Licence Agreement. It shall be a condition of this Service Level Agreement that the Licence Agreement is in effect.…8.2 Specific responsibilities: The Client must at its own cost:…e) have at all times a valid Licence Agreement to use the Services; …[emphasis in original in bold; emphasis added in italics]52 We do not think that these provisions render the performance of the Licence Agreement a condition precedent to continued performance under the Service Level Agreement. Under cl 3.2a, what is required for the Service Level Agreement to remain afoot is that the Licence Agreement must be “in effect”. However, as the Judge observed at [17] of the Judgment, despite Big Bus’s imposition of the Pass Suspension, the Licence Agreement was not and could not be discharged without more: see RDC Concrete Pte Ltd v Sato Kogyo (S) Pte Ltd and another appeal [2007] 4 SLR(R) 413 (“RDC Concrete”) at [90]. The Licence Agreement also was not automatically terminated in the event of a breach of contract (as the Pass Suspension indisputably was); cll 17.1, 17.5, 17.6 and 18.1 of that agreement, when read together, point to the need for written notice of the breach, an obligatory 30-day “cure” period and only if the party in breach failed to rectify the breach within the 30-day period, would the innocent party be entitled to bring the contract to an end by a written notice of termination. As for cl 8.2(e), it obliges Big Bus to have, at all times, a valid Licence Agreement to use the services provided by iVenture Card under the Service Level Agreement. The key question, therefore, is what a “valid Licence Agreement” means. The appellants’ argument is essentially that the Pass Suspension would somehow render the Licence Agreement “invalid”. We are unable to accept that argument. The word “valid” is legally defined in Black’s Law Dictionary (Bryan Garner ed) (West, 9th Ed, 2009) at p 1690 as “legally sufficient; binding”. Thus defined, a valid Licence Agreement is one which remains legally binding on the parties. As we have said, the Pass Suspension did not cause the Licence Agreement to cease to be legally binding without more. We therefore find that the appellants’ reliance on cll 3.2a and 8.2(e) in support of their assertion that the SORSE System Suspension was not a breach of the Service Level Agreement is misconceived.53 The appellants also argue that the performance of the Licence Agreement was a condition precedent to further performance of the Service Level Agreement as it was “consistent with the reasonable and probable expectations of the parties” (relying on Y.E.S. F&B Group Pte Ltd v Soup Restaurant Singapore Pte Ltd (formerly known as Soup Restaurant (Causeway Point) Pte Ltd) [2015] 5 SLR 1187 at [63]). The appellants assert that the Smartvisit System was specifically licensed to Big Bus only to support the Singapore iVenture Pass business, and that Big Bus was not entitled to use the Smartvisit System for any other purpose. Thus, once the Singapore iVenture Pass business had ceased, iVenture Card was no longer obligated to provide Big Bus with any further access to the SORSE System.54 We are unable to accept this argument, which appears to take an overly narrow view of both the Singapore iVenture Pass business as well as the Smartvisit System. It seems to us that the argument presupposes that the Singapore iVenture Pass business consisted only of the sales and activation of the Singapore iVenture Pass, which was the part of the business stopped by the Pass Suspension. It ignores, however, the administrative and strategic aspects of the business which relied on Big Bus having access to the data stored in the SORSE System. The evidence before us shows that such data included sales reports and customer data.
+                   44
+
+
+
+
+Foot Note 44
+
+×
+
+
+
+  2ACB at p 32.
+
+
+
+ The SORSE System also enabled Big Bus to create reports and invoices to manage their financial accounts and management reporting requirements. None of these functions became otiose with the Pass Suspension and we therefore do not think it likely that, in entering into the Service Level Agreement, Big Bus intended the performance of the Licence Agreement to be a condition precedent to the continued performance of all of iVenture Card’s obligations under the Service Level Agreement.(2) Whether iVenture Card was entitled to impose the SORSE System Suspension55 We next turn to the question of whether iVenture Card was entitled to impose the SORSE System Suspension under cl 7.5 of the Service Level Agreement, which states:
+                   45
+
+
+
+
+Foot Note 45
+
+×
+
+
+
+  2ACB at p 26.
+
+
+
+Restriction of Access: [iVenture Card] may restrict or withhold the access of any person using a password issued by [Big Bus] if [iVenture Card] has reason to suspect that any person using that password has breached a condition of such access or a term of their Licence. If [iVenture Card] does restrict or withhold access, [iVenture Card] will notify [Big Bus’s] Designated Representative and provide an explanation of the basis for such action. [emphasis in original in bold; emphasis added in italics]56 The appellants argue that, once Big Bus had imposed the Pass Suspension, it was reasonable for iVenture Card to question the need or motive for access to the Smartvisit System by Big Bus’s employees, since any such access was granted strictly for the purpose of operating the Singapore iVenture Pass business, and therefore the SORSE System Suspension was a justified restriction of Big Bus’s access to the SORSE System. We do not accept this argument, given our conclusions that a breach of the Licence Agreement did not automatically release iVenture Card and Smartvisit Pty Ltd from their contractual obligations under the Service Level Agreement and that the Pass Suspension, which impacted the sales end of the Singapore iVenture Pass business, did not obviate Big Bus’s continued need to access the data and functions of the SORSE System for the purposes of the administrative and strategic aspects of the Singapore iVenture Pass business. For these reasons, iVenture Card’s imposition of the SORSE System Suspension appears neither reasonable nor justified.(3) Whether the Pass Suspension made performance of the Service Level Agreement impossible or futile57 We now turn to the final argument advanced by the appellants in contending that they had not breached the Service Level Agreement. The argument is that the Pass Suspension rendered the performance of the Service Level Agreement impossible or futile. The appellants rely on two authorities in support of this argument. 58 The first is the principle in Stirling v Maitland (1864) 5 B & S 841 (“Stirling”) (cited in Evergreat Construction Co Pte Ltd v Presscrete Engineering Pte Ltd [2006] 1 SLR(R) 634). This principle states that if a party enters into an agreement which can only take effect by the continuance of a certain existing state of circumstances, there is an implied engagement on his part that he shall do nothing of his own motion to put an end to that state of circumstances, under which alone the arrangement can be operative. 59 The second is the principle in Peter Turnbull & Co v Mundus Trading Co (1953–1954) 90 CLR 235 (“Peter Turnbull”) (cited in Straits Engineering Contracting Pte Ltd v Merteks Pte Ltd [1995] 3 SLR(R) 864, which, in turn, was cited in Siti and another v Lee Kay Li [1996] 2 SLR(R) 934). The principle states that an innocent party is excused from performing its obligations under a repudiated contract where the repudiation has made the performance of such obligations futile.60 In our view, neither principle assists the appellants. We say this for three reasons. First, the Pass Suspension did not make iVenture Card’s and Smartvisit’s continued performance of the Service Level Agreement impossible. Big Bus’s access to the SORSE System could have been maintained without interference from iVenture Card even if the Singapore iVenture Pass business ceased and rendered the front-end of the Smartvisit System dealing with the sales and activation of the Singapore iVenture Pass futile. The Stirling principle therefore had no application here. Secondly, the Pass Suspension also did not amount to a breach of Big Bus’s contractual obligations under the Service Level Agreement (which were to pay the contractually-prescribed fees to iVenture Card for the provision of the services) and accordingly we do not think that iVenture Card was in the position of an “innocent party” vis-à-vis the Service Level Agreement so as to bring it within the Peter Turnbull principle. Thirdly, and in any case, the cessation of the revenue-generating side of the Singapore iVenture Pass business as a result of the Pass Suspension did not render the administrative and strategic aspects of the business served by the SORSE System futile. The Peter Turnbull principle therefore had no application here as well.61 For these reasons, we are of the view that by imposing the SORSE System Suspension, iVenture Card had breached the Service Level Agreement. As noted above, the Judge had awarded Big Bus nominal damages of S$1,000 for said breach (Judgment at [33]). The appellants’ submission on appeal is only that no sums should be awarded to Big Bus as it had not breached the Service Level Agreement.
+                   46
+
+
+
+
+Foot Note 46
+
+×
+
+
+
+  AC at para 89
+
+
+
+ There is no appeal by either side on the Judge’s quantification of damages for the aforesaid breach. Further, for completeness, as we go on to conclude below, the SORSE System Suspension was not an operative cause of any part of the loss of the Singapore iVenture Pass business (see [109]–[110] below). We therefore see no reason for us not to affirm the Judge’s award of nominal damages of S$1,000 to Big Bus.Whether the SORSE System Suspension was a repudiatory breach of the Service Level Agreement62 We now consider whether, by imposing the SORSE System Suspension, iVenture Card had gone beyond a breach and in fact repudiated the Service Level Agreement, such as to entitle Big Bus to terminate the same.(1) The law on repudiatory breaches of contract63 We first set out the applicable legal framework, laid down by this court in RDC Concrete, which entitles an innocent party to terminate a contract in the absence of an express provision to do so. RDC Concrete set out three scenarios:(a) Scenario 1: Where the party in breach renounces its contract inasmuch as it clearly conveys to the innocent party that it will not perform its contractual obligations at all: RDC Concrete at [93]. This amounts to a repudiation of the contract by the party in breach. (b) Scenario 2: Where the party in breach breaches a condition of the contract that the parties had contemplated was so important that a breach would give rise to a right of termination: RDC Concrete at [97].(c) Scenario 3: Where the breach in question would deprive the innocent party of substantially the whole benefit it intended to obtain from the contract: RDC Concrete at [99]. This is the approach laid down in Hongkong Fir Shipping Co Ltd v Kawasaki Kisen Kaisha Ltd [1962] 2 QB 26 at 70, under which an innocent party will be entitled to terminate the contract if the nature and consequences of the breach are so serious as to “go to the root of the contract” (otherwise termed a fundamental breach of the contract). (2) Scenario 164 A renunciation of contract occurs when one party by words or conduct evinces an intention not to perform or expressly declares that he is or will be unable to perform his obligations in some material respect, and short of an express refusal or declaration, the test is to ascertain whether the action or actions of the party in default are such as to lead a reasonable person to conclude that he no longer intends to be bound by its provisions. For example, the party in default may intend to fulfil the contract but may be determined to do so only in a manner substantially inconsistent with his obligations, or may refuse to perform the contract unless the other party complies with certain conditions not required by its terms: San International Pte Ltd (formerly known as San Ho Huat Construction Pte Ltd) v Keppel Engineering Pte Ltd [1998] 3 SLR(R) 447 at [20]. 65 The Judge found that iVenture Card had repudiated the Service Level Agreement because it had refused to perform its contractual obligations thereunder unless Big Bus performed its obligations under the Licence Agreement and the Reseller Arrangement. iVenture Card therefore evinced an intention not to perform its obligations within the four corners of the Service Level Agreement. However, a refusal to perform a contract unless the other party complies with an invalid condition will not necessarily amount to a repudiation and much depends on all the facts and circumstances of the case: Mayhaven Healthcare v Bothma and another (trading as DAB Builders) [2009] 127 Con LR 1 at [30]. The question is whether iVenture Card’s refusal to perform the Service Level Agreement on condition that Big Bus performed the Licence Agreement and the Reseller Arrangement would lead a reasonable person to conclude that it no longer intended to be bound by the Service Level Agreement.66 In ascertaining whether iVenture Card had such an intention, it is necessary to determine whether the Licence Agreement, the Service Level Agreement and the Reseller Arrangement ought to be read together as representing the parties’ full bargain rather than separately. As this court observed in Sunny Metal & Engineering Pte Ltd v Ng Khim Ming Eric [2007] 3 SLR(R) 782 (“Sunny Metal”) at [30]:In determining the circumstances in which the contract was entered into, it is permissible to refer to documents (other than the contract being interpreted) which formed part of the same transaction. In such cases, all the contracts may be read together for the purpose of determining their legal effect: see also Kim Lewison, The Interpretation of Contracts (Sweet & Maxwell, 2004) at para 3.03. In Smith v Chadwick (1882) 20 Ch D 27 at 62-63, Jessel MR said:[W]hen documents are actually contemporaneous, that is, two deeds executed at the same moment, … or within so short an interval that having regard to the nature of the transaction the Court comes to the conclusion that the series of deeds represents a single transaction between the same parties, it is then that they are all treated as one deed; and, of course, one deed between the same parties may be read to shew the meaning of a sentence, and be equally read …67 Clause 10 of the Preliminary Agreement states:10.  The parties will agree, sign and execute, as attached in draft form to this letter, the Licence Agreement and the Service Level Agreement within 3 weeks of the launch of the [Singapore iVenture Pass]. …68 The above makes clear that the Licence Agreement and the Service Level Agreement were always intended to be read together as containing all the terms of the parties’ business collaboration to launch the Singapore iVenture Pass. As for the Reseller Arrangement, its raison d’etre was to permit iVenture Card to resell the Singapore iVenture Pass. It stood and fell with the Singapore iVenture Pass business. It therefore formed part of the same transaction as the Licence Agreement and the Service Level Agreement. Thus, in our view, the three agreements formed part of the same bargain and therefore should be read together. It is clear to us that the parties’ complete bargain was for a business collaboration with respect to the creation and bringing to market of the Singapore iVenture Pass. This business consisted of two aspects. The revenue-generating aspect of the business was governed by the Licence Agreement and the Reseller Arrangement by setting out the terms of the parties’ collaboration on issues such as marketing, sales and profit-sharing (eg, commissions). The technology and operations aspect of the business, on the other hand, was governed by the Service Level Agreement, which dealt with issues such as the terms on which the Smartvisit System (which included the SORSE System) was to be provided and used. The benefit of the Singapore iVenture Pass business collaboration obtained by Big Bus from this bargain was the profits from the sale of the Singapore iVenture Pass and business and operational support provided by iVenture Card. iVenture Card’s benefit of the bargain was the various fees and commissions it stood to earn under the Licence Agreement, the Service Level Agreement and the Reseller Arrangement.69  In our view, on the evidence before the court, the imposition of the SORSE System Suspension was clearly intended to pressure Big Bus to lift the Pass Suspension. Given that the SORSE System Suspension was in place for so long as the Pass Suspension (which prevented the continuance of the Singapore iVenture Pass business) remained in effect, it was a plain attempt at pressuring Big Bus into restoring the status quo ante, or in other words, to resume the parties’ business collaboration before matters got out of hand, where the parties performed all their respective contractual obligations under the Licence Agreement, Service Level Agreement and the Reseller Arrangement. On 8 November 2017 at 5.26pm, after discovering that the Pass Suspension had been imposed, Mr Rieveley sent Mr Heng (with Ms Teo copied) the following email
+                   47
+
+
+
+
+Foot Note 47
+
+×
+
+
+
+  2ACB at p 373.
+
+
+
+:James, I have just tried to call you to try to avoid the current situation escalating however it appears, for whatever reason you may have, that you do not want to engage.For the record then, I have received a copy of a letter which you have given to our customers seeking to redeem iVenture Singapore Passes. I will note the following in this respect:1. You have no grounds to suspend the program given:- iVenture Card is up to date with all amounts due and have advised that payment of the next invoice will be made in accordance the terms of the agreement; and- We are in full compliance of our agreement with you.2. Your actions are in complete breach of our agreement …In accordance with the terms of our agreement I therefore need to advise you that, given the nature of the breach, iVenture Card Ltd will take immediate action to mitigate the damages you are causing. Accordingly, in the event that you don’t rectify this situation, we will be seeking an immediate injunction against you from operating any similar product and to seek damages.…I should note that, as an immediate action, all access to SORSE for your team has been immediately cut.[emphasis added]Later that same day at 7.54pm, Mr Rieveley sent Mr Heng the following email (again with Ms Teo on copy) :James,For the record I should also add that if you had called me or if Zener had reached out without threatening us, I would as I always have done in the past done whatever to work with you and we would have sorted this out. Instead, in [sic] no grounds at all, I get threatening emails and silence from you. Its not to [sic] late to put egos aside. What I know is that if we continue down this path I have a $300k war chest to put into lawyers PR etc which is completely unnecessary. [emphasis added]70 On 10 November 2017, Ms Teo sent a request to Mr Rieveley, imposing the conditions referred to at [46(d)] above, and asking for the SORSE System to be turned on “for [Big Bus] to resume business”.
+                   48
+
+
+
+
+Foot Note 48
+
+×
+
+
+
+  2ACB at p 371.
+
+
+
+ Mr Rieveley refused her request, saying, in an email sent on 11 November 2017:
+                   49
+
+
+
+
+Foot Note 49
+
+×
+
+
+
+  2ACB at p 370.
+
+
+
+Zener,We will not agree to what you have requested. I will remind you that you are in breach and continue to be in breach of our agreements. Your material breach is damaging our business and we demand that this breach be immediately rectified. If you continue to act without regard to our agreements you are simply compounding this issue and we will be seeking compensation …[emphasis added] 71 Further, on 13 November 2017, Mr Rieveley sent the following email to Ms Teo, which further underscored his attempt to bring matters back to the status quo ante:Zener,If I didn’t make myself clear in my prior email I apologise and let me try to underline or [sic] position without any further ambiguity.1. We are preparing to sue you for breach of contract.2. We can demonstrate that at no time has iVenture been in breach. As a matter of FACT we can show that our payment has not varied at all for the past 18 months and it is only in the past 1 month has an issue been raised.3. You have breached in almost every regard of our contract (Notice, dispute resolution, confidentiality, representations made by you to third parties, etc).4. We have given you every opportunity to rectify your breach.5. You have now ceased to operate the iVenture Card business (which has its own consequences under the terms off or [sic] agreement).You can either choose to compensate us for your [sic] losses and make good on the contract or we have nothing further to discuss …[emphasis added]72 In these circumstances, we are of the view that iVenture Card’s conduct did not objectively convey the impression that it no longer intended to be bound by its contractual obligations under the Service Level Agreement. Indeed, the opposite appears to be true. Accordingly, we are of the view that Scenario 1 of RDC Concrete is not established on the facts. We add a postscript to reinforce our view. On 28 November 2017, iVenture Card instructed their solicitors to send Big Bus a two-page letter giving notice and details of the breaches of the iVenture Licence Agreement by Big Bus as well as the issue of the HiPPO Singapore Pass. The letter also demanded that Big Bus, inter alia, resume the Singapore iVenture Pass business with immediate effect and to cease and desist from assisting or permitting Ducktours from carrying on the business of the HiPPO Singapore Pass. It also gave notice under cl 26.1 of the Licence Agreement for the first stage of the agreed mode of dispute resolution by asking Mr Heng to contact iVenture Card to commence mutual negotiations to resolve the dispute.    (3) Scenario 273 In its Defence and Counterclaim (Amendment No. 2)
+                   50
+
+
+
+
+Foot Note 50
+
+×
+
+
+
+  Defence and Counterclaim (Amendment No.2) at paras 34(i) to (m) and (v) to (x) 
+
+
+
+ and the 6 December 2017 Letter, Big Bus appears to rely on a Scenario 1 type of repudiatory breach. However, for completeness, we turn to consider whether Scenarios 2 and/or 3 of RDC Concrete can be established on the facts here as these are advanced in the Respondent’s Case.
+                   51
+
+
+
+
+Foot Note 51
+
+×
+
+
+
+  Respondents’ Case at paras 72 and 73.
+
+
+
+ This turns on whether cl 4.4 read with Schedule 3 of the Service Level Agreement
+                   52
+
+
+
+
+Foot Note 52
+
+×
+
+
+
+  2ACB at pp 24 and 31 to 33.
+
+
+
+ and the Program Management Services Brief attached thereto, which obliged iVenture Card to provide Big Bus with access to the SORSE System, was a condition. In other words, did the parties consider the obligation to provide Big Bus with access to the SORSE System so important that they intended that the failure to provide such access would entitle Big Bus to discharge the Service Level Agreement?74 In our view, cl 4.4 was not a condition of the Service Level Agreement. The parties did, in that agreement, expressly designate certain terms as “conditions”. For instance, cl 3.2a of the Service Level Agreement, which as we observed above imposes a requirement that the Licence Agreement be in effect, was an express condition of the Service Level Agreement. The inference which can be drawn from this is that the conditions of the Service Level Agreement would be manifest in the express language of that agreement itself. Thus, a term not expressly designated as a “condition” of the Service Level Agreement would, on a balance of probabilities, not have been intended as such. We note cll 13.3 and 13.4 of the Service Level Agreement provide that any condition or warranty implied into the Service Level Agreement is excluded to the extent permitted by law.  The use of such terminology would lead one to expect that,  unless a term was expressly designated in the Service Level Agreement as a “condition” or a “warranty”, it is not to be construed as such. It follows that cl 4.4 is not a condition of the Service Level Agreement since it was not expressly designated as one in the Service Level Agreement. We are therefore of the view that Scenario 2 of RDC Concrete is not made out on the facts.(4) Scenario 375 Whether Scenario 3 of RDC Concrete is established on the facts here depends on whether the SORSE System Suspension would deprive Big Bus of substantially the whole benefit it intended to obtain from the Service Level Agreement. We do not think it would have done so. The SORSE System formed one part of the Smartvisit System which iVenture Card was obligated to provide under the Service Level Agreement. The SORSE System handled the administrative back-end of the Singapore iVenture Pass business, with the front-end of the Smartvisit System handling the validation, reporting and invoicing of transactions for TAAPs. It was Big Bus which deprived itself of the benefit of the front-end of the Smartvisit System by imposing the Pass Suspension and ceasing revenue-generating activities for the Singapore iVenture Pass business. Seen in this light, we do not think it can be said that the SORSE System Suspension deprived Big Bus of substantially the whole benefit it intended to obtain from the Service Level Agreement when Big Bus’s own Pass Suspension deprived itself of at least as much, if not more, of the benefit of that agreement. Scenario 3 of RDC Concrete is not, in our view, made out on the facts.76 We therefore, with respect, depart from the Judge’s finding that iVenture Card had, in imposing the SORSE System Suspension, repudiated the Service Level Agreement. Big Bus was therefore not entitled to rely on that suspension to terminate the Service Level Agreement. The question, then, is whether Big Bus itself had in turn repudiated the Licence Agreement and/or the Service Level Agreement by the 6 December 2017 Letter. Whether Big Bus repudiated the Licence Agreement and/or the Service Level Agreement by the 6 December 2017 Letter77 In the 6 December 2017 Letter to iVenture Card’s solicitors, which was in reply to iVenture Card’s solicitor’s notice of breaches of the Licence Agreement dated 28 November 2017 (see [72] above), Big Bus’s solicitors stated:
+                   53
+
+
+
+
+Foot Note 53
+
+×
+
+
+
+  2ACB at pp 341 to 342.
+
+
+
+(d)  [iVenture Card’s] conduct amounts to a repudiatory breach of the [Licence] Agreement. [iVenture Card’s] breach is incapable of being remedied, and [Big Bus] has suffered substantial loss and damage. Pursuant to Clause 17.4 of the [Licence] Agreement, [Big Bus] now gives notice to [iVenture Card] through you that it accepts [iVenture Card’s] breach and regards the [Licence] Agreement as at an end. (e)  By reason of the foregoing, our client also regards the [Service Level Agreement] as terminated pursuant to Clause 3.3(b)(i) thereof.78 The appellants’ pleaded case was that, by the 6 December 2017 Letter, Big Bus had wrongfully terminated the Licence Agreement and thereby repudiated the same. Alternatively, Big Bus had repudiated the Licence Agreement by imposing the Pass Suspension. The repudiation of the Licence Agreement also breached the Mutual Dependency Clause which was a condition of the Service Level Agreement and thus also constituted a repudiation of that agreement as well. The repudiation of these two agreements also constituted a repudiation of the Reseller Arrangement.
+                   54
+
+
+
+
+Foot Note 54
+
+×
+
+
+
+  SOC1 at para 33.
+
+
+
+ The repudiations were accepted in the letter of 8 December 2017 from iVenture Card’s solicitors. 79 In our view, the facts show that Big Bus had breached both the Licence Agreement and the Reseller Arrangement by imposing the Pass Suspension on 8 November 2017. While it is not disputed on appeal that this was repudiatory (see [46(b)] above), iVenture Card did not proceed to treat that as a repudiation but instead implemented the retaliatory SORSE System Suspension within a few hours of the former. In these often highly-charged breach of contract and/or repudiation allegations and counter-allegations, it is well to recall the famous words of Asquith LJ in Howard v Pickford Tool Co Ltd [1951] 1 KB 417 at 421: … An unaccepted repudiation is a thing writ in water and of no value to anybody: it confers no legal rights of any sort or kind. Therefore a declaration that the defendants had repudiated their contract … would be entirely valueless to the plaintiff if it appeared at the same time … that it was not accepted. …It follows that any apparent repudiation of the said agreements by the Pass Suspension is only relevant insofar as it discloses breaches of the agreements. However, as mentioned, iVenture Card alleged that it had subsequently accepted a later repudiation by virtue of the 6 December 2017 Letter by its lawyer’s letter dated 8 December 2017. It is therefore necessary to consider the effect of the 6 December 2017 Letter.80 For the reasons set out above, iVenture Card breached the Service Level Agreement with its SORSE System Suspension but the evidence and circumstances surrounding that retaliatory measure did not, in our view, amount to a repudiation. As noted above, iVenture Card was clearly trying to pressure Big Bus to cease hostilities and revert to the position before the disputes, in their view, got out of hand. The 6 December 2017 Letter sent by Big Bus’s solicitors, however, was a wrongful repudiation of the Licence and Service Level Agreements. Given that these agreements were afoot at the time of the 6 December 2017 Letter, Big Bus’s repudiation of these agreements is clear from the terms of its letter (quoted at [77] above). We further find that this letter amounted to a repudiation of the Reseller Arrangement as well. We say this because first, as the Judge below found, at [22] of the Judgment, it was a commercially necessary and sensible implied term in the Reseller Arrangement that it would be in effect insofar as the Licence and Service Level Agreements subsisted. He viewed the Reseller Arrangement as a “secondary arrangement” which if the parties had thought about it, would not have intended it to continue if their main collaboration had come to an end. There was no appeal from this finding. Secondly, we are in complete agreement with the Judge. The Reseller Arrangement was an accessory or incidental or offshoot agreement that was dependent on the existence of the Licence Agreement. The entire business under the Reseller Arrangement was reselling the Singapore iVenture Passes for a commission and that disappeared once the Licence Agreement was ended. It is clear the Reseller Arrangement, as an agreement, could not have stood on its own without the Licence Agreement just as the Service Level Agreement made little commercial sense without the existence of the Licence Agreement. The parties themselves saw these three agreements as part of their business collaboration under the Preliminary Agreement. Although the 6 December 2017 Letter only mentions the Licence and Service Level Agreements, it necessarily included therefore, by implication, the Reseller Arrangement. The appellants accepted this wrongful repudiation of the Licence Agreement, Service Level Agreement and, by implication, the Reseller Arrangement as well, by their solicitors’ letter of 8 December 2017.Whether Mr Heng was protected by the rule in Said v Butt81 The Judge had found, at [23] of his Judgment, that Ducktours, Mr Heng and Mr Low were liable in the tort of conspiracy and inducing breach of contract in respect of Big Bus’s breaches of contract as described above. Ducktours does not dispute its liability for conspiracy and inducing breach of contract on appeal. As such, Ducktours is jointly and severally liable for the same damage flowing from Big Bus’s breaches of the Licence Agreement, the Service Level Agreement and the Reseller Arrangement since, but for the conspiracy and the inducement of said breaches the breaches of contract would not have occurred: Chong Kim Beng v Lim Kah Poh (trading as Mysteel Engineering Contractor) and others [2015] 3 SLR 652 at [39]. The Judge, however, also took the view that Mr Heng and Mr Low were protected from personal liability under the rule in Said v Butt. Since Mr Low is not a party to this appeal, the question we have to consider is whether Mr Heng could avail himself of the protection of the rule in Said v Butt, and we now turn to consider this issue.82 We begin our analysis of this issue by setting out the applicable principles governing when directors of companies may be held personally liable for the company’s breach of contract. In PT Sandipala Arthaputra and others v STMicroelectronics Asia Pacific Pte Ltd and others [2018] 1 SLR 818 (“PT Sandipala”), this court stated at [51]–[53] and [63]–[65] that:51 Directors may be held personally liable for the consequences of the company’s breach of contract under three potential causes of action. The first is the tort of procurement of breach of contract … The second is unlawful means conspiracy as between the directors … The third is unlawful means conspiracy as between a director and his company ……53 However, in relation to all the above causes of action, the courts have accepted that a director is immune from personal liability if he falls within the application of the principle in Said v Butt … which provides that when a director acts bona fide within the scope of his authority, he is immune from tortious liability for procuring his company’s breach of contract.…63 We begin by determining the reasons for limiting a director’s personal liability for his company’s contractual breaches. First, conceptually, when a director acts in the exercise of his functions as a director and within the scope of his authority, he essentially acts in the company’s capacity and not his own; he is effectively the company. This is the natural consequence of the separate personality doctrine. The company is an artificial entity which is given personality and status only through the machinery of the law. … To hold that the company’s agents are nevertheless personally liable for the acts taken by the company in relation to a contract entered into by the company, when they act in the company’s capacity and in fulfilment of their duties towards the company, undermines the separate legal personality doctrine and makes nonsense of this fiction that undergirds the fundamental tenets of company law.64 The second reason is one of policy, namely, that of ensuring that directors are not unduly deterred by fear of personal liability when taking decisions in the company’s interests. This ensures the efficacious conduct of commercial life. …65 On the basis of the two reasons above, our view is that the most appropriate elucidation of the Said v Butt principle is that a director would ordinarily be immune from tortious liability for authorising or procuring his company’s breach of contract in his capacity as director, unless his decision is made in breach of any of his personal legal duties to the company. In our judgment, the principle operates as a requirement of liability and not a defence; in other words, the onus is on the plaintiff to prove that the defendant-directors’ acts were in breach of their personal legal duties to the company. …[emphasis in original in italics; emphasis added in bold italics]83 Thus, in order for the appellants to hold Mr Heng liable for Big Bus’s breaches of the agreements, they must establish that Mr Heng had, in procuring such breaches, breached his own duties to Big Bus. The appellants assert that this was so on two grounds:(a) By “capriciously” having Big Bus repudiate the agreements with iVenture Card and “moving the TAAP business to Ducktours [ie the HiPPO Singapore Pass] without any genuine countervailing benefit to Big Bus”, Mr Heng had unjustifiably preferred the interests of Ducktours over that of Big Bus. Mr Heng did so to pursue a “personal vendetta” against Mr Rieveley for having “insulted” or “threatened” him, for having “pomp and pride”, and for having a “poor reputation” (the “Preference Ground”).(b) Mr Heng had acted dishonestly by procuring Big Bus to “commit acts of dishonesty” in the process of repudiating the agreements by (i) making false representations as to the scope of the Pass Suspension and whether the iVenture Group had any knowledge of that suspension; (ii) failing to disclose to iVenture Card that it would be launching the HiPPO Singapore Pass or that they were removing the Smartvisit terminals from the various attractions; and (iii) demanding an advance remittance and a banker’s guarantee when they had no right to demand the same. The appellants claim that this disentitled Mr Heng from claiming the protection of the rule in Said v Butt (the “Dishonesty Ground”).84 In support of its case, the appellants relied on a number of authorities.85 The first case is Golden Village Multiplex Pte Ltd v Phoon Chiong Kit [2006] 2 SLR(R) 307 (“Golden Village”), which the appellants relied on for the Preference Ground. There, the plaintiff company had previously sued two companies, GHFD and GHE, for breach of a lease agreement. The defendant was a director of the plaintiff as well as GHFD. The plaintiff in Golden Village sued the defendant for breach of his director’s and fiduciary duties, alleging that his conduct in relation to the earlier suit demonstrated his partiality towards GHFD. Lai Siu Chiu J (as she then was) held, citing Charterbridge Corporation Ltd v Lloyds Bank Ltd [1970] Ch 62, that each company in a group is a separate legal entity and the directors of a particular company are not entitled to sacrifice the interest of that company. Thus, the defendant in Golden Village had breached his duties to the company by openly siding with GHFD in its dispute with the plaintiff: at [37]. We do not, however, think that this case assists the appellants. As the respondents point out, Golden Village can be distinguished as a case where the interests of two group companies, one of which was preferred by the errant director, were in conflict. In the present case, however, the interests of Big Bus and Ducktours were not in conflict as regards the cessation of the Singapore iVenture Pass business collaboration with iVenture Card. It is not disputed that throughout the parties’ business collaboration, iVenture Card had been frequently late in making payments to Big Bus. Whether or not subsequent payments were eventually made is irrelevant as late payment itself carried a negative financial impact. We agree with the Judge’s view at [24] of the Judgment that this was reason enough for Mr Heng to procure the cessation of the Singapore iVenture Pass business. The fact that Ducktours separately commenced the HiPPO Singapore Pass before the cessation of the Singapore iVenture Pass business can well be seen as a consequence of Mr Heng’s reasons for ending the Singapore iVenture Pass business.86 Further, we observe that Mr Rieveley resorted to aggressive and outright demeaning language when dealing with Ducktours and Big Bus over the dispute. This underscored the completely unprofessional attitude with which he treated a business collaborator. Examples of such language used by Mr Rieveley in his correspondence with Ducktours and Big Bus were: “gutless”
+                   55
+
+
+
+
+Foot Note 55
+
+×
+
+
+
+  2ACB at p 369.
+
+
+
+ (referring to Mr Heng) and “stupid”
+                   56
+
+
+
+
+Foot Note 56
+
+×
+
+
+
+  2ACB at p 379.
+
+
+
+ (referring to an email Ms Teo had sent him on 3 November 2017, pressing for prompt payment of the Reseller Invoices and intimating a possible suspension of online sales). Tellingly, on 6 November 2017, Mr Rieveley told Ms Teo that, in respect of the 30 September 2017 Invoice for which payment was due on 30 October 2017, he would “not pay [Big Bus] one day before the 15th of November, not because we can’t … but because I’m [ie, Mr Rieveley] not going to give in to anyone who approaches me with threats”
+                   57
+
+
+
+
+Foot Note 57
+
+×
+
+
+
+  2ACB at p 377.
+
+
+
+ [emphasis added]. This in our view displayed a completely intransigent and unrepentant attitude to the due performance of iVenture Card’s contractual payment obligations under the Reseller Arrangement. Faced with such misbehaviour, Mr Heng could not, in our view, be faulted for acting to discontinue the Singapore iVenture Pass business.87 The appellants also relied on Ho Kang Peng v Scintronix Corp Ltd (formerly known as TTL Holdings Ltd) [2014] 3 SLR 329 (“Ho Kang Peng”) to support the Dishonesty Ground. The appellant in that case was the chief executive officer and director of the respondent, which sued him for breach of fiduciary duties for wrongfully authorising payments to a Taiwanese company for fictitious consultancy services. This court took the view that a director would not be acting bona fide in the interests of the company if he acted dishonestly, even if he had acted in order to maximise the profits of the company (at [40]):With these principles in mind, the question is whether a director who creates a sham contract and makes unauthorised and irregular payments out of the company’s funds for the purpose of securing business for the company, can be said to be acting bona fide in the interests of the company. In our view, the answer must be in the negative. Such a director would not be acting honestly even if he claims to be furthering the company’s financial interests in the short term. The ‘interests of the company’ is not just profit maximisation. Neither is it profit maximisation by any means. It is as much in the interests of the company (comprising its shareholders) to have its directors act within their powers and for proper purposes, to obtain full disclosure from its directors, and not to be deceived by its directors. … [emphasis added]88 We do not think that Ho Kang Peng takes the appellants very far in establishing the Dishonesty Ground. None of the circumstances cited by the appellants, viz, the company inaccurately computing the due date of the Reseller Invoices, inaccurately informing iVenture Card of the scope of the suspension and inaccurately representing iVenture Card’s awareness of the same, or failing to disclose the imminent launch of the HiPPO Singapore Pass to iVenture Card, could be said to have been contrary to the interests of Big Bus since they did not result in any negative consequences for Big Bus. As for Mr Heng causing Big Bus to demand an advance remittance and a banker’s guarantee to lift the Pass Suspension when Big Bus had no right to make such demands, that was in our view plainly actuated by a desire to protect Big Bus from its exposure to iVenture Card’s credit risk, which arose from its intransigent and unrepentant attitude to making prompt payments for sums owed.89 For the reasons set out above, we agree with the Judge that Mr Heng is entitled to the protection against personal liability for Big Bus’s breaches of contract under the rule in Said v Butt.The breach of confidence claim90 We now turn to the appellants’ argument that the Judge had improperly reversed the burden of proof in applying the test in Coco v AN Clark (Engineers) Ltd [1969] RPC 41 (“Coco”) for breach of confidence, and that the Judge had therefore erred in dismissing their breach of confidence claim.91 As this court observed in I-Admin (Singapore) Pte Ltd v Hong Ying Ting and others [2020] 1 SLR 1130 (“I-Admin”) at [20], the three elements of an action for breach of confidence by the disclosure or use of information, as set out in Coco at 47, are as follows:(a) The information must possess the quality of confidentiality;(b) The information must have been imparted in circumstances importing an obligation of confidence; and(c) There must have been some unauthorised use of that information to the detriment of the party from whom the information originated.92 In his Judgment, the Judge dismissed the appellants’ claim for breach of confidence of the Alleged Confidential Information on the basis that, even if the first two limbs of the Coco test were made out, he did not accept that the respondents had misused the Alleged Confidential Information or acted unconscionably in any way: see the Judgment at [27]. The appellants say that this approach is inconsistent with the modified approach to breach of confidence claims which we set out in I-Admin at [61]:With these considerations in mind, we set out a modified approach that should be taken in relation to breach of confidence claims. Preserving the first two requirements in Coco … a court should consider whether the information in question ‘has the necessary quality of confidence about it’ and if it has been ‘imparted in circumstances importing an obligation of confidence’. An obligation of confidence will also be found where confidential information has been accessed or acquired without a plaintiff’s knowledge or consent. Upon the satisfaction of these prerequisites, an action for breach of confidence is presumed. This might be displaced where, for instance, the defendant came across the information by accident or was unaware of its confidential nature or believed there to be a strong public interest in disclosing it. Whatever the explanation, the burden will be on the defendant to prove that its conscience was unaffected. In our view, this modified approach places greater focus on the wrongful loss interest without undermining the protection of the wrongful profit interest. [emphasis in original omitted; emphasis added in italics]93 According to the appellants, the Judge had erroneously placed the burden of proving the third element of the Coco test on them instead of on the respondents. It is therefore necessary to examine the Judge’s decision carefully. The Judge stated at [27]:Even if the first two limbs of the aforesaid test are made out, I do not accept that the defendants had misused the Alleged Confidential Information, or that they had acted unconscionably in any other way. The plaintiffs’ main evidence of the defendants’ alleged misuse is that the HiPPO Singapore Pass features the same attractions as the Relaunched Pass. This says nearly nothing at all, because all the attractions listed are merely typical tourist attractions in Singapore. Although it is undisputed that the HiPPO Singapore Pass was launched within one to two days of the parties’ suspensions on 8 and 9 November 2017, I accept the defendants’ explanation that the HiPPO Singapore Pass is part of an integrated IT system which they had been independently developing for at least a year before the parties’ present dispute. As I do not find any misuse or that the defendants had acted unconscionably, I dismiss the plaintiffs’ claim for breach of confidence. [emphasis added]94 We do not think that the Judge’s reasoning as set out above is inconsistent with the modified approach in I-Admin. The Judge had proceeded on the assumption that the first two elements of Coco had been satisfied. He then considered the appellants’ main evidence of the respondents’ alleged misuse of the Alleged Confidential Information, ie, that the attractions featured on the HiPPO Singapore Pass featured the same attractions as the Singapore iVenture Pass. In these circumstances, this appears to us to be an irrelevant consideration under the modified approach in I-Admin because the burden of showing that there had been no unconscionable conduct vis-à-vis the Alleged Confidential Information rests on the respondents and not the appellants. That, however, was not the end of the Judge’s analysis. It is plain from the portion of the Judgment cited above that the Judge accepted the respondents’ explanation that the HiPPO Singapore Pass was something which they had independently developed and as such did not represent the fruit of any breach of confidence on the respondents’ part.95 Nevertheless, for completeness, we go on to consider the appellants’ arguments in support of their allegation that the respondents had committed a breach of confidence in respect of the Alleged Confidential Information. In this connection, the appellants point to four circumstances on which they invited us to draw adverse inferences against the respondents:(a) First, the respondents had stated on oath that no documents relating to the conceptualisation and launch of the HiPPO Singapore Pass existed, save for a "stray email” discussing its design. According to the appellants, this implied that the HiPPO Singapore Pass did not substantially differ from the Singapore iVenture Pass. If in fact such documents existed but were not disclosed, the respondents would have been “evasive and non-compliant” with their discovery obligations.
+                   58
+
+
+
+
+Foot Note 58
+
+×
+
+
+
+  AC at para 82.
+
+
+
+(b) Secondly, the respondents had failed to explain how the HiPPO Singapore Pass had been independently developed from the Singapore iVenture Pass, particularly with regard to its pricing and marketing strategy as well as its product offerings.
+                   59
+
+
+
+
+Foot Note 59
+
+×
+
+
+
+  AC at para 83.
+
+
+
+ (c) Thirdly, the respondents also had not set out whether they had utilised iVenture Card’s template contracts, or if it had entered into new contracts with the tourist attractions on different terms for the HiPPO Singapore Pass.
+                   60
+
+
+
+
+Foot Note 60
+
+×
+
+
+
+  AC at para 83.
+
+
+
+(d) Fourthly, the HiPPO Singapore Pass was essentially the same as the Singapore iVenture Pass with a replaced back-end IT system.
+                   61
+
+
+
+
+Foot Note 61
+
+×
+
+
+
+  AC at para 84.
+
+
+
+96 In our view, it is important to note that Big Bus was not a blank slate or a tabula rasa with respect to the TAAP business before the disclosure of the Alleged Confidential Information, such that the HiPPO Singapore Pass must, as a matter of course, have been developed from the Alleged Confidential Information. It is not in dispute that the Duck and HiPPO Group operated a local TAAP since at least 2009 (if not 2006); this was well before the parties agreed in 2014 to commence the Singapore iVenture Pass business. Indeed, the Singapore iVenture Pass itself was a co-branded TAAP, combining Big Bus’s existing TAAP – the Singapore Pass – with the technological solutions provided by iVenture Card, namely the Smartvisit System. This is reinforced by the Preliminary Agreement, which states that the Singapore iVenture Pass was a “Singapore attractions pass program that builds on [Big Bus’s] ‘Singapore Pass’ product and which the [sic] utilizes the Smartvisit System”
+                   62
+
+
+
+
+Foot Note 62
+
+×
+
+
+
+  2ACB at p 6.
+
+
+
+ [emphasis added]. Big Bus was therefore familiar with matters pertaining to TAAP business operations prior to the conception of the Singapore iVenture Pass. 97 Further, both the Singapore iVenture Pass and the HiPPO Singapore Pass appear to resemble the iVenture Group’s previous TAAP, the iVenture See Singapore Pass,
+                   63
+
+
+
+
+Foot Note 63
+
+×
+
+
+
+  RA Vol 3 Part 2 at pp 228 to 229.
+
+
+
+ which predated the parties’ business collaboration. The pricing and structure of the iVenture See Singapore Pass, as well as the tourist attractions offered, were stated in marketing and promotional materials available to the general public. 98 Lastly, we agree with the Judge’s observations that the tourist attractions offered in the Singapore iVenture Pass and the HiPPO Singapore Pass (and for that matter the Singapore Pass and the iVenture See Singapore Pass) are all typical tourist attractions which one would expect to find in a Singapore TAAP. We think it pertinent to point out that on the evidence the TAAP was not novel to Singapore or elsewhere. Such a pass enabled tourists entry into attractions at discounts and they were bundled into various options which also included tours, shops, transport and meals for one combined price. There were other TAAPs operating in competition to the Singapore Pass, eg, the Singapore Tourist Pass, the Singapore City Pass, My Pass and Sentosa Fun Pass.
+                   64
+
+
+
+
+Foot Note 64
+
+×
+
+
+
+  See RC, paras10 and 11 and Ms Zener’s AEIC I RCB Tab 5, pp 22 to 27, paras 11 and 26 
+
+
+
+ 99 In our view, the Singapore iVenture Pass (to which the Alleged Confidential Information pertained) at best likely innovated (if at all) on the Singapore Pass in only three material areas: the Smartvisit System (which the Judge rightly accepted the HiPPO Singapore Pass did not use, which in turn is not disputed on appeal); the pricing and structure of the TAAP (which was information likely available to the general public even before the conception of the Singapore iVenture Pass, and therefore the HiPPO Singapore Pass’s use of them did not inexorably suggest a misuse of the Alleged Confidential Information); and the scope of the tourist attractions covered (which were all typical tourist attractions in Singapore which would likely have been independently included in any Singapore TAAP without the benefit of the Alleged Confidential Information). This did not suggest that the HiPPO Singapore Pass had been developed using the Alleged Confidential Information.100 For these reasons, even if the Judge had incorrectly reversed the burden of proof for the third element of the Coco test as required by the modified approach this court set out in I-Admin, we find that the respondents have discharged their burden of proof to show that they did not misuse the Alleged Confidential Information. We therefore affirm the Judge’s decision to dismiss the breach of confidence claim.101 Following upon [46] above, we now summarise our decision on the further issues covered above:(a) Big Bus and Ducktours are jointly and severally liable to iVenture Card for damages for Big Bus’s repudiatory breach of the Licence Agreement and Reseller Arrangement by its imposition of the Pass Suspension, and wrongful repudiation of the Licence Agreement, the Service Level Agreement and the Reseller Arrangement by the 6 December 2017 Letter which repudiation was duly accepted by the 8 December 2017 Letter. Following from this finding, and our disagreement with the Judge that the SORSE System Suspension amounted to a repudiatory breach on iVenture Card’s part, it remains for us to set aside the Judge’s award of nominal damages of S$1,000 awarded to iVenture Card and damages of S$779.32 for Big Bus’s breach of the Licence Agreements and the Reseller Arrangement (see [23(c)] and [23(e)] above) and to re-assess the damages due to iVenture Card for the wrongful repudiation of all three agreements.(b) As is not disputed on appeal, iVenture Card is liable to Big Bus for the sum of S$145,792.86 for unpaid invoices (see [23] above and the Judgment at [38(e)]). (c) We agree with the Judge that the SORSE System Suspension was a breach by iVenture Card of the Service Level Agreement, but do not agree that it was repudiatory in nature. We affirm the Judge’s award (at [38(c)] of the Judgment) of nominal damages of S$1,000 to Big Bus in respect of iVenture Card’s breach of the Service Level Agreement by its imposition of the SORSE System Suspension. Hence, iVenture Card is liable to Big Bus for S$146,792.86 (the S$1,000 mentioned above together with the sum of S$145,792.86 mentioned at (b) above). As the Judge had also awarded S$27,866.34 to iVenture Card against Big Bus for unpaid fees (which sum is undisputed on appeal; see [38(d)] of the Judgment), we affirm the Judge’s decision to grant judgment in favour of Big Bus against iVenture Card for the net amount of S$118,926.52, on which interest of 5.33% per annum runs from the date on which the writ was issued to the date of the judgment below. 102 Having set out the parties’ respective breaches of the agreements, and having addressed the undisputed sums in the appeal, (see [101(b)] and [101(c)] above), we now turn to the issue of damages for repudiation by Big Bus, for which Big Bus and Ducktours would be jointly and severally liable.Assessment of iVenture Card’s damagesThe law103 It is trite law that damages for breach of contract are awarded to put an innocent party in as good a position as if the contract had been performed: Robinson v Harman (1848) 1 Exch 850 at 855; Gunac Enterprises (Pte) Ltd v Utraco Pte Ltd [1994] 3 SLR(R) 889 at [11]. The extent of damages awarded, however, is subject to the limiting doctrines of causation and remoteness. As to the requirement of causation, the claimant bears the burden of proving that the loss in respect of which damages are claimed would not have been suffered but for the breach of contract: Sunny Metal at [63]. As for the requirement of remoteness, under the well-established rule in Hadley v Baxendale (1854) 9 Exch 341 (“Hadley”), damages for breach of contract may only be claimed if they satisfy one of the two limbs of Hadley. The first limb of Hadley concerns “ordinary” damages which are within the reasonable contemplation of all the contracting parties concerned, ie, damages which flow “naturally” from the breach of contract. The second limb of Hadley concerns “extraordinary” damages which are not, by their very nature, within the reasonable contemplation of the contracting parties. Such damages may only be claimed if the contracting parties, having had the opportunity to communicate with each other in advance, had actual (as opposed to imputed) knowledge of the special circumstances which resulted in such damage: Robertson Quay Investment Pte Ltd v Steen Consultants Pte Ltd and another [2008] 2 SLR(R) 623 at [81]–[82].104 With these principles in mind, we turn to the facts of the present appeal.Damages for repudiation of the Licence Agreement and the Reseller Arrangement on 8 November 2017(1) Causation of damage105 We first consider the issue of causation which requires the appellants to establish that the losses claimed, ie, the losses suffered by iVenture Card on all three agreements from the loss of the Singapore iVenture Pass business, flowed from the imposition of the Pass Suspension by Big Bus on 8 November 2017 and followed by the wrongful repudiation of all three agreements by the 6 December 2017 Letter. 106 The Judge found that the non-operation of the Singapore iVenture Pass business was caused by both sides because even if Big Bus had lifted the Pass Suspension, the business could still not be operated because of iVenture Card’s SORSE System Suspension. In other words, as the Judge observed at [32] of the Judgment, the Pass Suspension and the SORSE System Suspension were both in themselves independent causes of the loss of the Singapore iVenture Pass business. The appellants argued that the Judge had erred in taking this view because the SORSE System Suspension was implemented as a direct response to the Pass Suspension and did not affect the revenue-generating activities of the Singapore iVenture Pass business, which had already ceased owing to the Pass Suspension. The question, then, is whether the Pass Suspension and the SORSE System Suspension were each effective causes of the loss of the Singapore iVenture Pass business so as to each sound in damages for the same: Smile Inc Dental Surgeons Pte Ltd v OP3 International Pte Ltd [2020] 3 SLR 1234 at [25]–[26].107 Two cases illustrate when two events will be held to be independent causes of loss. The first case is County Ltd and another v Girozentrale Securities [1996] 3 All ER 834 (“County”). In that case, the plaintiff bank agreed to underwrite the issuance of shares in a public company. They engaged the defendant stockbrokers to approach potential investors. The defendant breached the terms of their engagement in telling potential investors that the issue would only go ahead if it was fully subscribed, which was not in fact true. Owing to the plaintiff’s acceptance of indicative commitments for the shares, there was an indication that the issue was fully subscribed. However, some of the indicative commitments accepted by the plaintiff failed to materialise which led to the issue not being fully subscribed for. This in turn led several investors who had invested on the basis of full subscription (as represented by the defendant) to withdraw their subscriptions. The result was that the plaintiff, as underwriters, incurred loss on the unsubscribed shares. The English Court of Appeal held that, although the plaintiff’s failure to take reasonable precautions in its own interest (by accepting the indicative commitments) could be regarded as an effective and concurrent cause of the loss, it did not mean that the defendant’s breach of contract was not an effective cause of that same loss. The defendant was therefore liable to the plaintiff for damages: at 849.108 In Heskell v Continental Express Ltd and another [1950] 1 All ER 1033 (“Heskell”), the plaintiff agreed to sell goods by shipping them to a Persian buyer and instructed the first defendant, the warehouse for the goods, to despatch them to the dock. Owing to the first defendant’s negligence, the goods were never despatched. The second defendant however issued a bill of lading for the goods even though they were never shipped. The buyer claimed a substantial sum from the plaintiff for breach of contract, representing his loss of profits from reselling the goods. Devlin J (as he then was) held that the second defendant’s negligence did not extinguish the first defendant’s breach of duty as a causative event as that breach was a continuous source of damage. The two causes of damage were equally operative, in the sense that if either had ceased the damage would have ceased: at 1047. The first defendant’s breach was therefore sufficient to carry judgment for damages.109 In our judgment, however, the present case does not even raise the issues considered in County and Heskell. The Pass Suspension was, in our view, the sole operative cause of the loss of the Singapore iVenture Pass business. We recapitulate the relevant actions and events in November to December 2017. Whilst iVenture Card breached the Reseller Arrangement by their persistently late payments, in particular for the 30 September 2017 Invoice, this was not a repudiatory breach as matters then stood in early November 2017. More importantly, that did not give rise to a right for Big Bus to impose the Pass Suspension under the Licence Agreement. But Big Bus proceeded to do so on 8 November 2017. Within a few hours that same day, iVenture Card imposed the SORSE System Suspension, which was the administrative and back-end operations system of the Singapore iVenture Pass business (see [75] above). This was done, as we have found, in order to pressure Big Bus to restore the status quo ante. When payment of the 30 September 2017 Invoice was eventually made by iVenture Card on 10 November 2017, Big Bus then unilaterally imposed additional conditions under the Reseller Arrangement and refused to lift the Pass Suspension until these new conditions were met. On 10 November 2017, Ducktours launched the HiPPO Singapore Pass. The parties’ solicitors then exchanged a series of letters; in these letters, iVenture Card accused Big Bus and Ducktours of misusing their confidential information. On 6 December 2017, Big Bus took the position that iVenture Card had repudiated the Licence Agreement and the Service Level Agreement and, through their solicitors’ letter of that date, purported to accept iVenture Card’s “repudiations” and terminated, in effect, all three agreements (see [77] above). 110 On these facts and in these circumstances, unless iVenture Card acceded to Big Bus’s unilaterally imposed demands to furnish the advance remittance and banker’s guarantee, whether the SORSE System Suspension remained in place or not would not have had the effect of resuming the Singapore iVenture Pass business. The SORSE System Suspension had not initiated the suspension of the sale, activation and redemption of the Singapore iVenture Pass. Neither was it the cause of such a suspension continuing in effect. For these reasons, we respectfully disagree with the Judge and are of the view that the SORSE System Suspension was neither an effective nor the only cause of the loss of the Singapore iVenture Pass business. It is for this reason that we affirm the Judge’s award of nominal damages only to Big Bus for the SORSE System Suspension (see [61] and [101(c)] above), and find that it was Big Bus that caused the loss of the Singapore iVenture Pass business which resulted in damage to iVenture.(2) Remoteness of damage111 We now turn to consider whether the damages claimed by iVenture Card in respect of Big Bus’s Pass Suspension, namely the loss of profits which it would otherwise have earned from the three agreements, are too remote. This requires consideration of whether such losses fell within either of the two limbs of Hadley. It is clear that the result and indeed the natural consequence of Big Bus’s repudiation of the Licence Agreement and the Reseller Arrangement was the cessation of the Singapore iVenture Pass business. Big Bus’s Pass Suspension on 8 November 2017 brought the sales, activation and redemption of the Singapore iVenture Pass business to a halt. This put an end to all revenue-generating activity under the Licence Agreement and the Reseller Arrangement, from 8 November 2017 to the wrongful termination of all three agreements on 6 December 2017, which in turn put an end to the entire benefit which iVenture Card stood to gain under those agreements, which were commissions calculated as percentages of the sales of the Singapore iVenture Pass. The parties, having contracted for fees to be paid on this basis, must have been aware that a cessation of the sales, activation and redemption of the Singapore iVenture Pass would lead to a loss of the aforementioned commissions. Furthermore, in our view, it was within the reasonable contemplation of the parties that the deprivation of iVenture Card’s entire benefit under the Licence Agreement would entitle them to terminate the same. Indeed, cl 17.4 of the Licence Agreement allowed either party to terminate it immediately if “the other party acts in a manner which would permit immediate termination at law”. The inclusion of the Mutual Dependency Clauses in the Licence Agreement and Service Level Agreement also pointed to the parties’ intention to bind the fate of both agreements together, such that if one was terminated the other would come to an end as well. These circumstances, taken together, indicated that the end of the Service Level Agreement was a natural and reasonably contemplated consequence of the cessation of the revenue-generating activities of the Singapore iVenture Pass business. The loss caused to iVenture Card from all three agreements from Big Bus’s repudiation of the Licence Agreement and the Reseller Arrangement therefore sounded in ordinary damages under the first limb of Hadley. 112  In our view, therefore, by imposing the Pass Suspension, Big Bus had repudiated the Licence Agreement and the Reseller Arrangement and together with Ducktours is jointly and severally liable in damages for iVenture Card’s loss of profits from the Licence Agreement, the Reseller Arrangement as well as the Service Level Agreement (the “Lost Profits”). 113 The issue, then, is the method by which the Lost Profits are be quantified. Quantification of damages114 At trial, the parties put forward competing expert testimony on the valuation method by which the Lost Profits ought to be quantified. On this issue, the Judge had preferred the expert evidence of the appellants’ expert, Mr Watts, over that of the respondents’ expert, Mr Wong, as he found Mr Watts’s methodology to be “generally more reasonable”: see the Judgment at [33].115 The respondents do not challenge the Judge’s preference for Mr Watts’s expert evidence on appeal. By so doing, we have little material upon which, even if we were so minded, to depart from the Judge’s preference for Mr Watts’s expert evidence. Generally, an appellate court would be slow to criticise without good reason a trial court’s findings on expert evidence unless it entertains doubt as to whether the evidence had been satisfactorily sifted or assessed by the trial court. In such a case, the appellate court may embark on its own critical evaluation of the evidence, focussing on obvious errors of fact and/or deficiencies in the reasoning process: Sakthivel Punithavathi v Public Prosecutor [2007] 2 SLR(R) 983 at [74], which this court approved in Poh Soon Kiat v Desert Palace Inc (trading as Caesars Palace) [2010] 1 SLR 1129 at [24].116 Nonetheless, from our limited perspective of Mr Watts’s methodology, we note, with some surprise, that he did not adopt the usual approach of ascertaining iVenture Card’s own actual gross profits less expenses and tax to arrive at the Lost Profits. Instead, Mr Watts relied on the percentage of expenses to gross profits of a major competitor of the iVenture Group as a “proxy” to estimate iVenture Card’s expenses. As noted above, the respondents do not challenge this on appeal save for the one ground we state at [117] below. There was accordingly no need for us to revisit the Judge’s preference for Mr Watt’s evidence. From those figures, Mr Watts projected the loss of profits on the “But-For Scenario” (projecting the plaintiffs’ profits if Big Bus had not repudiated the agreements) against the “Actual Scenario” (projecting the plaintiffs’ profits from the Replacement TAAP Business they formed to mitigate their damage) and concluded that the plaintiffs’ loss of profits is the difference between the projections in the “But-For Scenario” and the “Actual Scenario”.117 Mr Watts’s methodology for quantifying iVenture Card’s loss of profits uses an established valuation method (ie, the Discounted Cash Flow (“DCF”) method) and the parties did not contend that the use of that method was erroneous or unreasonable. The respondents challenge Mr Watts’s assessment of the Lost Profits on only one ground – that it was based on assumptions with regard to the levels of tourism in Singapore which was with hindsight overly optimistic, since the Covid-19 pandemic severely curtailed tourism activity in Singapore in 2020. We shall deal with that objection below.Mr Watts’s valuation methodology118 Mr Watts projected the profits that would have been earned under the two alternative scenarios for two periods, the first period up to 26 September 2020 (the end-date for the three agreements) and the second period, beyond 26 September 2020 (on the assumption that the three agreements would have been renewed into perpetuity or that iVenture Card would have transferred the Singapore iVenture Pass business to another local partner on at least comparable terms after 26 September 2020). Under the “Actual Scenario”, he projected the profits that would have been earned from the Replacement TAAP Business on the basis of, inter alia, the published financial information of competing TAAP businesses, forecast data from the International Monetary Fund (“IMF”) and Euromonitor for the estimated future Singapore inflation rates as well as for the growth rate in Singapore tourist arrivals, as well as actual sales and financial data for the Replacement TAAP Business, which was used to estimate net commissions earned and the way sales were split between the appellants’ sales networks as well as promotional and other expenses. 119 Under the “But-For Scenario”, Mr Watts projected the profits that would have been earned from the Singapore iVenture Pass business (comprising the Licence Agreement, the Reseller Arrangement and the Service Level Agreement) on the basis of historical financial data (including growth rates and the way sales were split between the appellants’ sales networks and other sales channels) for the sales of the Singapore iVenture Pass, forecast data from the IMF for the estimated future Singapore inflation rates, as well as the various fees contractually stated in the three agreements. 120 It is apparent that in estimating the profits under both scenarios, Mr Watts relied on one key assumption – that sales of TAAPs by the Replacement TAAP Business and the Singapore iVenture Pass business would fluctuate in a manner which could be sufficiently predicted by historical data. We shall return to this point below.121 At the second stage of Mr Watts’s DCF analysis, the projected profits from the Actual Scenario and the But-For Scenario were each then discounted to present value using iVenture Card’s cost of equity capital, which Mr Watts used as his discount rate in the DCF analysis. The Lost Profits was the difference between the present value of the projected profits under the But-For Scenario and under the Actual Scenario, plus the “additional costs to mitigate their losses and establish the Joint Venture [ie, the Replacement TAAP Business]. These costs total approximately SGD 76k and comprise” (at para 6.4 of his report) four specific sums.
+                   65
+
+
+
+
+Foot Note 65
+
+×
+
+
+
+  Mr Watts’s Report at para 6.4; RA Vol 3 Part 8 at p 52 or 2ACB at p 146.
+
+
+
+ If we look to the footnote to that statement, there is the reference: “Letter of Instructions: 33”. We mention this because of the questionable reliability of this “SGD 76k” figure put forward by Mr Watts. First, as noted, it states such costs to total “approximately SGD 76k” but when we look to what is set out as comprising this sum, there are four items which add up to the figure of S$81,210, not “SGD 76k”. Secondly, when the four items, viz:(a) S$27,886 of receivables dues from Big Bus;(b) S$34,309 of labour costs to deal with customer queries and refunds, new merchants, products, agents, partners, website and marketing materials for the Replacement TAAP Business, as well as the associated reconfiguration of the Smartvisit System;(c) S$7,828 of set-up costs for the Replacement TAAP Business; and(d) S$11,187 of discrete expenses incurred by staff to set up the Replacement TAAP Businessare considered, we find that the S$27,866 receivable from Big Bus has already been taken into account in the set-off against the amounts owing from iVenture Card in relation to the unpaid invoices (see [23] and [101(c)] above). The sum of S$81,210 should therefore be reduced by S$27,866 to S$53,324. During oral submissions before us, Ms Celeste Ang, counsel for the appellants, stated that items (b), (c) and (d) above had been included in the claim of “70k” of “incidental costs which were incurred to set up an alternative business in mitigation.” She conceded, however, that there were issues in those figures and since her witness, Mr Dinesh Kandiah had, in his AEIC, stated that sum to be S$45,000, she would accept that lower figure of S$45,000.  Whether the Lost Profits encompass the period after 26 September 2020122 We now consider the appellants’ assertion that the Judge erred in disallowing their claim for lost profits under the three agreements after 26 September 2020 (the contractual end-date of the Licence Agreement and the Reseller Arrangement). As we observed at [118], their arguments were based on the assumption that but for Big Bus’s repudiation of the Licence Agreement and the Reseller Arrangement:(a) the three agreements would have been automatically renewed beyond September 2020 pursuant to automatic renewal clauses, namely cl 5.1 of the Licence Agreement and cl 3.2 of the Service Level Agreement;
+                   66
+
+
+
+
+Foot Note 66
+
+×
+
+
+
+  AC at para 105(a).
+
+
+
+ or(b) the Singapore iVenture Pass business would have been seamlessly transferred by iVenture Card to another local partner with comparable or better commercial terms beyond September 2020, as there was “evidence” that Mr Rieveley was “able to seek out new local partners on favourable terms, had he been given sufficient time”.
+                   67
+
+
+
+
+Foot Note 67
+
+×
+
+
+
+  AC at para 105(b).
+
+
+
+123 On these assumptions, the appellants claim that Big Bus is liable for iVenture Card’s lost profits after 26 September 2020 as a diminution in the value of the Singapore iVenture Pass business or a loss of chance to earn profits from that business after 26 September 2020. The Judge, however, found the basis for this claim to be “incredibly speculative”: see the Judgment at [35]. The respondents also reject the appellants’ argument. They pointed out that there was no prospect of the agreements having been renewed given the appellants’ consistently poor payment hygiene and the expected rollout of their own IT system to replace the Smartvisit System (which turned out to be the HiPPO Singapore Pass). They also argued that as for the appellants’ claim that Mr Rieveley would have been able to seek out new local partners on favourable terms had they been given sufficient time, “there was not a shred of evidence of that at trial”.124 We agree with the Judge and the respondents and find that the appellants’ claim for lost profits after 26 September 2020 has no merit. First, the presence of the automatic renewal clauses did not mean that Big Bus would no longer have any say in whether the agreements were renewed. Clause 5.1 of the Licence Agreement states:
+                   68
+
+
+
+
+Foot Note 68
+
+×
+
+
+
+  2ACB at p 16.
+
+
+
+The Initial Term of the agreement is for a period of 30 months from the date of execution of this agreement. The agreement will continue for further consecutive periods of 36 months from the Initial Term’s End Date, each a Subsequent Term, unless terminated in accordance with clause 17 of this agreement. [emphasis added]125 Similarly, cl 3.2 of the Service Level Agreement states:
+                   69
+
+
+
+
+Foot Note 69
+
+×
+
+
+
+  2ACB at p 23.
+
+
+
+Renewal: This Service Level Agreement will renew for further 36 month periods at the end of the Initial Term, each a ‘Subsequent Term’ unless a party terminates this Service Level Agreement in accordance with Clause 3.3. [emphasis in original in bold; emphasis added in italics]126 Thus, it was always open to Big Bus to terminate both agreements by invoking the contractually-agreed procedure so that these agreements would end on 26 September 2020. The appellants’ argument that the agreements would have been renewed as a matter of course owing to the operation of the automatic renewal clauses therefore lacked merit. The appellants next relied on Diveva Pty Ltd v Port Macquarie-Hastings Council [2016] NSWSC 1790 (“Diveva”) as authority for the proposition that past performance and the lack of complaints of a contracting party’s performance evidenced a strong basis for the possibility of successive renewals. The argument, no doubt, was that iVenture Card’s performance evidenced a strong basis for an inference that Big Bus would have simply allowed the automatic renewal clauses to operate. However, in our view, Diveva does not assist the appellants at all. Indeed, the very fact that Big Bus imposed the Pass Suspension out of dissatisfaction with iVenture Card’s late payments, in order to prevent any further exposure to iVenture Card’s credit risk, showed that far from lacking any complaints about iVenture Card’s contractual performance, Big Bus was in fact highly dissatisfied with iVenture Card’s performance of their contractual payment obligations. These facts were the complete opposite of those in Diveva. The appellants’ claim that, but for Big Bus’s actions, the Singapore iVenture Pass business would have continued beyond 26 September 2020, ignores the reality of the parlous state of the parties’ relationship at the material time. The exchange of emails at the relevant time is ample proof of this fact. iVenture Card’s submission also completely ignores the fact that Ducktours launched the HiPPO Singapore Pass on 10 November 2017, just two days after the Pass Suspension and the SORSE System Suspension. 127 We are also of the view that the appellants’ assertion that iVenture Card would have been able to seek out new local partners on comparable or favourable terms but for Big Bus’s actions was entirely speculative. The appellants pointed to Mr Rieveley’s success in negotiating a deal with Big Bus after its collaboration with a previous partner, Journeys, had fallen through, and in negotiating the Replacement TAAP Business with Luxury Tours and Travel after the Singapore iVenture Pass business had faced the same fate, as evidence of Mr Rieveley’s supposed negotiating prowess, which somehow meant that he would have been able to negotiate for better (but unspecified) terms had he been given proper notice. This assertion was completely unsupported, and we do not think it necessary to deal with it any further.Whether the Lost Profits should be adjusted for Covid-19128 The quantum experts completed their respective reports toward the end of November 2019. Mr Watts’s Report is dated 22 November 2019. The trial took place from 14 to 17, 21 January and 16 March 2020. The Judge handed down his written judgment on 26 May 2020. We can take judicial notice that the World Health Organisation announced on 31 January 2020 that there was a Global Health Emergency due to Covid-19 and declared Covid-19 a pandemic on 11 March 2020. Singapore went into “circuit breaker” mode, ie, a lockdown, on 7 April 2020. 129 The effect of Covid-19 on damages was not raised at trial, nor was it raised in the appellants’ trial closing submissions. It was first raised in Big Bus’s trial closing submissions dated 24 February 2020, observing at para 357 that “taking into [account] the detrimental effect of Covid-19 on the global and Singapore tourism industry which may last the next 6 to 12 months, of the 35 months balance in the contract the projected revenue would be much lower than a paper exercise of extrapolation from historical numbers.” There was no reference to any authorities or any other arguments. In their trial reply submissions dated 16 March 2020, the appellants contended:(a) at para 123 that “the existence of Covid-19 was invariably unknown when parties’ respective experts had prepared their respective expert reports, and the scale of the outbreak, was unknown even during the trial itself”;
+                   70
+
+
+
+
+Foot Note 70
+
+×
+
+
+
+  Plaintiffs’ Trial Closing Submissions (“PTCS”) at para 123.
+
+
+
+ (b) at para 125 that Big Bus had not provided any evidence or analysis for the impact of Covid-19 on the damages which ought to be awarded;
+                   71
+
+
+
+
+Foot Note 71
+
+×
+
+
+
+  PTCS at para 125.
+
+
+
+(c) at para 126 that:
+                   72
+
+
+
+
+Foot Note 72
+
+×
+
+
+
+  PTCS at para 126.
+
+
+
+(i)  it was currently not possible, with any reasonable degree of accuracy or certainty, to assess the expected economic impact of Covid-19 on the tourism industry in Singapore up to September 2020 and beyond; and(ii) there was currently no reasoned basis to take the same into account at all in the court’s assessment of damages, distinguishing Golden Strait Corporation v Nippon Yusen Kubishika Kaisha (The Golden Victory) [2007] 2 AC 353 (“The Golden Victory”) on the basis that in that case, there was evidence that the charterparty in question would have been terminated prematurely at a specific date.130 The Judge did not deal with this issue in the Judgment. The appellants do not refer to this argument in their Appellants’ Case. Big Bus briefly states in the Respondent’s Case that “[t]he current Covid-19 pandemic which has decimated the tourism industry worldwide best exemplifies how contract renewal does not necessarily result in continuing profits.”
+                   73
+
+
+
+
+Foot Note 73
+
+×
+
+
+
+  RC at para 134.
+
+
+
+ During oral argument before us, Mr Daniel Chia, counsel for the respondents briefly raised this issue and said that Mr Watts relied on an optimistic projections of tourist activity in Singapore and that the current pandemic would inform us that these numbers are not a given.131 We therefore turn to consider whether Mr Watts’s estimate of the Lost Profits, which was carried out in November 2019 and accepted by the Judge in his judgment on 26 May 2020, a date after Singapore had imposed a lockdown, ought to be revised on appeal to take into account the effects of the said pandemic on tourism in Singapore, and consequentially on Mr Watts’s forecasted sales of the Replacement TAAP Business and the Singapore iVenture Pass in 2020. This, in our view, turns on two sub-issues:(a) whether damages for breach of contract ought to take into account circumstances post-dating such breach; and(b) whether an appellate court may interfere with or otherwise revise a trial judge’s assessment of damages or remit the case back to the trial judge to re-assess the damages on the basis of events that occurred after the evidential tranche of the trial but during the period of the written closing and reply submissions and before the handing down of the judgment. (1) Whether damages for breach of contract ought to take into account subsequent events132 As we observed at [103] above, the general rule in assessing damages for breach of contract is that the innocent party is to be placed in so far as money can do in the same position as if the contract had been performed. Damages awarded for breach of contract, in other words, are compensatory in nature. The question is whether damages for breach of contract may be assessed by reference to events post-dating the breach.133 In assessing damages for breach of contract, there is also the “breach-date” rule which states that damages are assessed as at the date of the breach of contract (see The Law of Contract in Singapore (Andrew Phang Boon Leong gen ed) (Academy Publishing, 2012) at para 22.002 and Chitty on Contracts (H G Beale gen ed) (Sweet & Maxwell, 33rd Ed, 2018) at para 26-096). However, this is but a general rule of which the sale of goods is a paradigm example (see s 50(3) of the Sale of Goods Act (Cap 393, 1999 Rev Ed)). The assumption is that the innocent party would go out to the market on the date of the breach to obtain substitute performance and damages are assessed accordingly without regard to subsequent price movements. However, the “breach-date” rule “is not an absolute rule: if to follow it would give rise to injustice, the court has power to fix such other date as may be appropriate in the circumstances”: see Johnson v Agnew [1980] AC 367 at 401. There are therefore exceptions where this rule is not followed. On some occasions, the court takes the date of the trial as the relevant date to assess damages: see Yeo Yoke Mui v Kong Hoo (Private) Ltd and another [2001] SGHC 28. The “breach-date” rule also does not apply to all contracts. In Hooper v Oates [2014] Ch 287, Lloyd LJ stated at [38]: It seems to me that the breach date is the right date for assessment of damages only where there is an immediately available market for sale of the relevant asset or, in the converse case, for the purchase of an equivalent asset. This is most unlikely to be the case where the asset in question is land. If the defaulting party is the buyer, much will depend on what the seller does in response to the breach. [emphasis added]134 In Maredelanto Compania Naviera SA v Bergbau-Handel GmbH (The Mihalis Angelos) [1971] 1 QB 164 (“The Mihalis Angelos”) a clause in a charterparty provided that the charterers were entitled to cancel the charterparty if the vessel was not ready to load on or before 20 July 1965. The charterers, relying on that clause, purported to cancel the charterparty on 17 July 1965 when it was inevitable that the vessel could not arrive at the load port by that date. The owners of the vessel considered this an anticipatory breach which they proceeded to accept and sue for damages. The English Court of Appeal held that the owners were only entitled to nominal damages because the charterers would have exercised their right when the vessel failed to arrive by 20 July. As Megaw LJ observed (at 209–210): In my view, where there is an anticipatory breach of contract, the breach is the repudiation once it has been accepted, and the other party is entitled to recover by way of damages the true value of the contractual rights which he has thereby lost, subject to his duty to mitigate. If the contractual rights which he has lost were capable by the terms of the contract of being rendered either less valuable or valueless in certain events, and if it can be shown that those events were, at the date of acceptance of the repudiation, predestined to happen, then in my view the damages which he can recover are not more than the true value, if any, of the rights which he has lost, having regard to the predestined events.135 This principle was also applied in B S & N Ltd (BVI) v Micado Shipping Ltd (Malta) (The Seaflower) [2000] 2 Lloyd’s Rep 37 (“The Seaflower”) where the charterer had breached the charterparty by terminating the same, but, as it was shown they would have been entitled to terminate the charterparty soon after because certain contractually required approvals had not been obtained, the ship owners were only allowed damages up to the point at which the charterers would have become entitled to terminate the charterparty.  This case shows that the principle in The Mihalis Angelos was not confined to situations where the right of termination was predestined to arise at the time the repudiation was accepted, but also applied generally to anticipatory breaches of contract.136 In The Golden Victory, a seven-year time charter which commenced in July 1998 had been repudiated by the charterer by redelivery of the vessel on 14 December 2001, some four years before expiry of its contractual term. The owners accepted the repudiation on 17 December 2001. The charterparty contained an outbreak of war clause between any two of various named countries, which included the USA, UK and Iraq as well as an arbitration clause. It was accepted that at the time of the repudiation, the Second Gulf War was a possibility, but not a probability or inevitable. After the arbitrator decided on liability, all of which were in the owner’s favour, but before quantum was decided, the Second Gulf War broke out in March 2003. It was common ground that if the charter had still been afoot, the outbreak of the Second Gulf War would have entitled the time-charterer to cancel the charterparty. The arbitrator, following the position in The Seaflower (which he found to be indistinguishable on the facts), held in favour of the charterers and limited the damages up to the outbreak of hostilities in the Second Gulf War. His award was upheld at first instance and on appeal, and also on further appeal to the House of Lords (by a three-to-two majority). The observations of Lord Scott of Foscote (a member of the majority) at [35]–[36] are worth quoting at length:35 In cases … where the contract for sale of goods is not simply a contract for a one-off sale, but is a contract for the supply of goods over some specified period, the application of the general rule may not be in the least apt. Take the case of a three-year contract for the supply of goods and a repudiatory breach of the contract at the end of the first year. The breach is accepted and damages are claimed but before the assessment of the damages an event occurs that, if it had occurred while the contract was still on foot, would have been a frustrating event terminating the contract, e g legislation prohibiting any sale of the goods. The contractual benefit of which the victim of the breach of contract had been deprived by the breach would not have extended beyond the date of the frustrating event. So on what principled basis could the victim claim compensation attributable to a loss of contractual benefit after that date? Any rule that required damages attributable to that period to be paid would be inconsistent with the overriding compensatory principle on which awards of contractual damages ought to be based.36 The same would, in my opinion, be true of any anticipatory breach the acceptance of which had terminated an executory contract. The contractual benefit for the loss of which the victim of the breach can seek compensation cannot escape the uncertainties of the future. If, at the time the assessment of damages takes place, there were nothing to suggest that the expected benefit of the executory benefit would not, if the contract had remained on foot, have duly accrued, then the quantum of damages would be unaffected by uncertainties that would be no more than conceptual. If there were a real possibility that an event would happen terminating the contract, or some way reducing the contractual benefit to which the damages claimant would, if the contract had remained on foot, have become entitled, then the quantum of damages might need, in order to reflect the extent of the chance that that possibility might materialise, to be reduced proportionately. The lodestar is that the damages should represent the value of the contractual benefits of which the claimant had been deprived by the breach of contract, no less but also no more. But if a terminating event had happened, speculation would not be needed, an estimate of the extent of the chance of such a happening would no longer be necessary and, in relation to the period during which the contract would have remained executory had it not been for the terminating event, it would be apparent that the earlier anticipatory breach of contract had deprived the victim of the breach of nothing. In Bwllfa and Merthyr Dare Steam Collieries (1891) Ltd v Pontypridd Waterworks Co [1903] AC 426, the Earl of Halsbury LC, at p 429, rejected the proposition that ‘because you could not arrive at the true sum when the notice was given, you should shut your eyes to the true sum now you do know it, because you could not have guessed it then’ and Lord Robertson said, at p 432, that ‘estimate and conjecture are superseded by facts as the proper media concluedendi’ and, at p 433, that ‘as in this instance facts are available, they are not to be shut out’ … Their approach … is to my mind as apt for our purposes on this appeal …[emphasis added in italics, bold italics and bold underlined italics]137 Thus, the compensatory principle was an “overriding” one. In assessing damages for the repudiation of the time charter, it was necessary to take into account contingencies known at the date of the assessment to have occurred, if their effect was that the contract would have been lawfully terminated at or before its contractual term. In essence, “the court should not speculate when it knows”: see Bwllfa and Merthyr Dare Steam Collieries (1891) Ltd v Pontypridd Waterworks Co [1903] AC 426 at 431 (per Lord Macnaghten); see also Baker v Willoughby [1970] AC 467 at 482 (per Harman LJ). The House of Lords therefore held that damages were to be assessed on the assumption that the charter would have lasted for another fourteen months, not another four years. This case attracted considerable criticism, chiefly that it undermined commercial certainty: see eg, G H Treitel, “Assessment of Damages for Wrongful Repudiation” (2007) 123 LQR 9; Jonathan Morgan, “A Victory for ‘Justice’ Over Commercial Certainty (2007) 66(2) CLJ 263; Michael Mustill, “The Golden Victory – Some Reflections” (2008) 124 LQR 569; Edwin Peel, “Desideratum or Principle: ‘The Compensatory Principle’ Revisited” (2015) 131 LQR 29.138 In Bunge SA v Nidera BV (formerly Nidera Handelscompagnie BV) [2015] 3 All ER 1082 (“Bunge”), the respondent entered into a contract in June 2010 to buy 25,000 metric tonnes of Russian milling wheat crop from the appellants, FOB Novorossiysk in Russia. The contractual shipment period was August 2010 but was subsequently narrowed down by agreement to between 23–30 August 2010. On 5 August 2010, Russia introduced a legislative embargo on exports of wheat from its territory, which was to run from 15 August to 31 December 2010. On 9 August 2010, the appellant informed the respondent of the embargo and purported to declare the contract cancelled. The respondent treated this as a repudiation, which it accepted on 11 August 2010, and began arbitration proceedings, claiming substantial damages. The GAFTA first tier tribunal held that the appellant (the sellers of the wheat) had repudiated the contract, as its cancellation of the contract was premature, but did not award substantial damages because the embargo remained in place during the shipment period and the appellant could legally cancel the contract in any event. The GAFTA appeal panel agreed that the appellant had repudiated the contract but disagreed and awarded substantial damages of US$3,062,500 instead. This was upheld at first instance and in the English Court of Appeal. Before the UK Supreme Court, the principal issue was whether the legislative embargo would have prevented the delivery of the wheat crop in any case, thereby entitling the respondents only to nominal damages since they would have suffered the same loss in any event: Bunge at [30].139 In a unanimous decision, the UK Supreme Court endorsed the principle in The Golden Victory and awarded the respondent nominal damages of US$5. The leading judgments were delivered by Lord Sumption JSC and Lord Toulson JSC with Lord Neuberger P, Lord Mance JSC and Lord Clarke JSC agreeing with both of them.140 Following the reasoning in The Golden Victory, Lord Sumption JSC observed, at [23] of Bunge, that “[t]here is no principled reason why, in order to determine the value of the contractual performance which has been lost by the repudiation, one should not consider what would have happened if the repudiation had not occurred”. This meant taking into account “subsequent events serving to reduce or eliminate the loss”: at [22]. Lord Sumption JSC rejected claims that such a principle would lead to uncertainty stating that certainty should not justify an award of substantial damages to someone who has not suffered any loss: at [23]. Additionally, he also took the view that there was no distinction in treatment between contracts which provide for a single act of performance or several successive ones: at [22]. Accordingly, he held at [35] that:… In the present case, the sellers jumped the gun. They repudiated the contract by anticipating that the Russian export ban would prevent shipment at a time when this was not yet clear. But fortunately for them their assumption was in the event proved to have been correct. The ban would have prevented shipment when the time came. The buyers did nothing in consequence of the termination, since they chose not to go into the market to replace the goods. They therefore lost nothing, and the arbitrators should not have felt inhibited from saying so.141 Similarly, Lord Toulson held at [86] that there was “no virtue” in attempting a “retrospective assessment of prospective risk when the answer is known”, which would “run counter to the fundamental compensatory principle.” This is, we observe, a restatement of Lord Macnaghten’s principle, referred to above, that a court should never speculate where it knows. The UK Supreme Court unanimously awarded the respondents nominal damages of US$5. 142  Both The Golden Victory and Bunge were subsequently referred to by this court in The “STX Mumbai” and another matter [2015] 5 SLR 1. There, this court observed, at [69], that the distinction between an actual breach of contract on the one hand and an anticipatory breach of contract on the other would be a very fine or even non-existent one, because, among other reasons, where an anticipatory breach of contract has been committed, “by the time the court hears the case, the actual nature and consequences of that breach might, in any event, be known, given the passage of time between the date of the breach and the date(s) of the trial itself” [emphasis in original], and that (citing The Golden Victory and Bunge) “there is no principled reason why the court should be precluded from taking into account such events which occur subsequent to a breach of contract in assessing the actual nature and consequences of the breach”. In other words, in some instances of anticipatory breach, the court may, by the time of the trial, have had the benefit of knowing the actual loss the claimants has suffered and ought not to be precluded from awarding damages on an actual basis (just as in the situation of an actual breach of contract) rather than on a prospective and speculative basis from the date of the anticipatory breach.143 Subsequently, in Quoine Pte Ltd v B2C2 Ltd [2020] 2 SLR 20 at [184], this court observed that while certainty in contract was important, it was not everything (citing The Golden Victory and Bunge), and that “[t]here are cases where justice outweighs in the balance the interests of legal certainty”. Thus, the fact that the approach in The Golden Victory may, to some extent, undermine commercial certainty does not, in itself, justify a departure from the compensatory principle so as to award a claimant windfall damages for breach of contract which represent benefits that it would not have obtained if the contract had been performed.(2) Whether damages awarded should be adjusted on the basis of facts known to appellate court but not to trial court144 We now consider whether the basis for the award of damages by the Judge at first instance ought to be adjusted to take into account supervening events which occurred after the trial, or indeed, after the decision below was handed down. As noted above, the supervening event here, the Covid-19 pandemic, started after the evidential tranche, and became manifest during the written closing submissions and before judgment was issued. To be fair, the Judge would not have been able to foresee, in May 2020 when he handed down his judgment, how long this pandemic would last. The issue was succinctly put in James Edelman, McGregor on Damages (Sweet & Maxwell, 20th Ed, 2018) (“McGregor on Damages”) at para 40-046 in the following terms:Difficulties, however, appear where the changes in the claimant’s loss manifest themselves after the decision of the court of first instance but before the process of litigation has come to an end in one or other of the appellate courts available to the parties. Thus the Court of Appeal may be faced with knowledge of a change of circumstance which was still in the future when the High Court came to the decision which is now under appeal … Although logically a change of circumstances coming before an appellate court’s decision is as relevant as one coming before the decision of the court at first instance or of a lower appellate court, the judges are not eager to allow the introduction of new evidence at the appeal stage, generally basing themselves upon the principle interest reipublicae ut sit finis litium. [emphasis added in italics and bold italics]145 Before examining the cases, we acknowledge that the cases discussed below deal with the admission of new evidence for the purposes of the appeal. While we recognise that there is no application before us to admit evidence, as explained at [155] below, this court is entitled in the unique circumstances of this case to take judicial notice of the Covid-19 pandemic in deciding on the proper measure of the Lost Profits. These cases remain helpful as guidance for when such developments should be accounted for on appeal.146 In Mulholland and another v Mitchell [1971] AC 666 (“Mulholland”), a car accident had permanently incapacitated the claimant both mentally and physically and caused him to incur medical expenses for the rest of his life. The judge had awarded damages on the basis that the cost of care would be £1,312 a year. The claimant appealed against the judge’s assessment of damages. Before the time for a hearing of the appeal had come, it had become clear that he had to be moved to a nursing home which cost £1,827 a year. The English Court of Appeal granted an application for leave to introduce evidence of these new matters at the hearing of the appeal and the House of Lords upheld the Court of Appeal’s decision to grant such leave. Lord Wilberforce took the view (at 680) that “to allow the appeal to proceed on the basis of factors (accepted at the trial) which have been falsified to such an extent would hardly be creditable to the judicial process” and thus the English Court of Appeal was right in granting leave. In a similar vein, Lord Hodson said (at 676) that it would be “unsatisfactory for the [English] Court of Appeal to deal with that appeal without taking into account the falsification, if such there be, of the basis of the trial judge’s award.”147 This, however, does not mean that an appellate court will take into account every single change in circumstances that has occurred after the decision of the lower court. There remains public interest in the finality of litigation: interest reipublicae ut sit finis litium. As Lord Wilberforce stated in Mulholland at 679–680:… I do not think that, in the end, much more can usefully be said than, in the words of my noble and learned friend, Lord Pearson, that the matter is one of discretion and degree … Negatively, fresh evidence ought not be admitted when it bears upon matters falling within the field or area of uncertainty, in which the trial judge’s estimate has previously been made. Positively, it may be admitted if some basic assumptions, common to both sides, have clearly been falsified by subsequent events, particularly if this has happened by the act of the defendant. Positively, too, it may be expected that courts will allow fresh evidence when to refuse it would affront common sense, or a sense of justice. All these are only non-exhaustive indications …148 Thus, as the learned authors of McGregor on Damages observe at para 40-050, in Mulholland, Lord Wilberforce drew a distinction between evidence which bears upon matters “falling within the field or area of uncertainty, in which the trial judge’s estimate has previously been made”, which ought not to be admitted, and evidence of subsequent events which falsify basic assumptions common to both sides, which an appellate court may take into account.149 Hunt v Severs [1993] QB 815 is an illustrative case of evidence falling within the first category and which ought not to be admitted. There, the plaintiff was seriously injured when she was riding as a pillion passenger on a motorcycle driven by the defendant. Damages were awarded by the trial judge on the basis that there was a risk that the plaintiff might suffer further medical complications in the future. On appeal by the defendant, the plaintiff sought leave to introduce fresh evidence that her medical condition had indeed deteriorated after trial. The English Court of Appeal refused to grant leave. Sir Thomas Bingham MR (as he then was) observed at 838 that the trial judge, in awarding damages, had indeed provided a: … contingency fund, as he said he was, against the risks of an uncertain future. That was exactly the kind of decision which Lord Wilberforce described [in Mulholland] as falling within the field or area of uncertainty, in which the judge made his estimate. Looking at what is perhaps the other side of the same coin, we find no basic or fundamental assumption which has been falsified by later events. In the circumstances, this is in our judgment a case where the principle that there should be an end to litigation should prevail. …150 The decision of the English Court of Appeal not to grant leave was not disturbed on appeal. 151 McCann v Sheppard [1973] 1 WLR 540 (“McCann”) is a case illustrating the second category of evidence mentioned by Lord Wilberforce in Mulholland, ie, evidence of circumstances arising after the trial judge’s decision which an appellate court can take into account in reassessing damages. In McCann, the plaintiff was injured in a road collision through the admitted negligence of one of the drivers. As a result, his natural functions and sexual life were seriously impaired and he suffered pain for which addictive painkillers were prescribed. He did not work after the accident. The trial judge awarded him damages which included a sum for loss of future earnings and general damages for pain, suffering, and loss of amenities and expectation of life. The defendant appealed, contending that the award was excessive. Before the appeal had been heard, however, the plaintiff was found dead at his home and his widow and her co-administratrix obtained an order making them parties to the appeal. The defendant sought leave to adduce further evidence of the plaintiff’s death on appeal. The English Court of Appeal granted leave. Lord Denning MR held, at 545–546, as follows:Should we receive evidence that David McCann died on October 22, 1972, pending the appeal to this court? … The general rule in accident cases is that the sum of damages falls to be assessed once and for all at the time of the hearing: and this court will be slow to admit evidence of subsequent events to vary it. It will not normally do so after the time for appeal has expired without an appeal being entered – because the proceedings are then at an end. They have reached finality. But if notice of appeal has been entered in time – and pending the appeal, a supervening event occurs such as to falsify the previous assessment – then the court will be more ready to admit fresh evidence because, until the appeal is heard and determined, the proceedings are still pending. Finality has not been reached. It is in every case a matter for the discretion of the court. In Mulholland v. Mitchell [1971] A.C. 666, 680, Lord Wilberforce gave helpful guidance as to the way in which the discretion should be exercised. This case seems to me to come within his words that ‘it would affront common sense’ if we shut our eyes to the fact of death. The damages which the judge awarded were intended as compensation for the injured man himself – for the long years of life during which the judge thought he would suffer pain and lose earnings. They were not intended to provide for the widow or child in case of his death. I would, therefore, admit the evidence that David McCann died on October 22, 1972, and assess his damages accordingly. [emphasis added](3) Application to the facts152 From the analysis above, we are of the view that in assessing damages for repudiatory breach of executory contractual obligations (such as the obligations to be performed in the remaining period of the Licence Agreement and the Service Level Agreement in this case), an appellate court may have regard to evidence of events which reduce the value of the performance of such contractual obligations in assessing the quantum of damages to be awarded for such repudiatory breach, even though such events occurred only after the evidential tranche, during the written closing submissions and before the trial judge delivered judgment, if such events would have falsified some basic assumptions common to both sides or it would have affronted common sense or a sense of justice if the court had failed to take cognizance of them.153 With this, we now consider the respondents’ challenge to Mr Watts’s assessment of the Lost Profits on appeal. As mentioned at [117] above, this challenge was mounted on the basis that Mr Watts’s analysis was based on assumptions with regard to the levels of tourism in Singapore which was with hindsight overly optimistic, since the Covid-19 pandemic severely curtailed tourist activity in Singapore in 2020. This argument has in our view considerable force since, as we observed at [120] above, in assessing the Lost Profits, Mr Watts had assumed that the sales of TAAPs by the Replacement TAAP Business and the Singapore iVenture Pass business would fluctuate in a manner which could be sufficiently predicted by historical data. This would also apply to Mr Watts’s assumptions set out at [118] and [122] above as well. The present pandemic, which had an unprecedented impact on tourism in Singapore and indeed around the world, is, in our view, something which historical data could not have predicted.154 Before proceeding further, we deal with one preliminary issue: whether the court may take the existence of the Covid-19 pandemic into account in this appeal, since strictly speaking neither party had brought an application for the introduction of fresh evidence on appeal. It is trite law that in general, all facts in issue and all relevant facts must be substantiated by evidence and proved, and that ss 58 and 59 of the Evidence Act (Cap 97, 1997 Rev Ed) provides a statutory exception to this rule in setting out facts of which the court must take judicial notice. None of the enumerated categories in s 59 pertain to events such as the Covid-19 pandemic. However, as V K Rajah JA (as he then was) observed in Zheng Yu Shan v Lian Beng Construction (1988) Pte Ltd [2009] 2 SLR(R) 587 (“Zheng Yu Shan”) at [23]–[24], that provision was never intended to provide an exhaustive list of matters of which judicial notice may be taken, and the court may apply the common law doctrine of judicial notice in determining which matters outside the confines of ss 59(1) and 59(2) are judicially noticeable.155 At common law, the court may take judicial notice of facts which are so notorious or so clearly established that they are beyond the subject of reasonable dispute, or of facts which are capable of being immediately and accurately shown to exist by authoritative sources: Zheng Yu Shan at [27]. The existence of the Covid-19 pandemic, the circuit breaker restrictions and different levels of containment measures, falls within both categories and is beyond peradventure. The entire population of Singapore is living through these measures and the end is not yet in sight. Accordingly, this is a clearly a fact of which we can take judicial notice.156 Turning back to Mr Watts’s assessment of the Lost Profits, we are of the view that his assumption that sales of TAAPs by the Replacement TAAP Business and the Singapore iVenture Pass business could be estimated by reference to historical data is, in light of the Covid-19 pandemic, completely untenable. The onset of that pandemic ushered in a period in which tourist activity declined markedly and must have dropped to nil during the circuit breaker. It certainly persisted during the period up to 26 September 2020 when the agreements would have expired. This would clearly be a supervening event which would have significantly reduced the value of Big Bus’s contractual performance of the Licence Agreement, the Reseller Arrangement and the Service Level Agreement in 2020. It would indeed affront common sense if we had sustained Mr Watts’s original assessment of the Lost Profits and awarded iVenture Card damages on the assumption that tourism in Singapore was unaffected by the pandemic, instead of requiring an adjustment to his assessment to take the effect of Covid-19 into account. 157 Unless the parties can some to some agreed reduction in the damages as a result of the Covid-19 pandemic, this matter will have to be remitted back to the Judge to receive evidence in order to decide on the appropriate reduction to be made to the damages. In this respect, there are two dates which are significant and relevant in considering when tourists would have stopped coming to Singapore. The first is 11 March 2020 when the World Health Organisation declared Covid-19 a pandemic. Following this declaration, countries successively closed their borders to non-citizens or non-residents. The second significant and relevant date is 7 April 2020, when Singapore entered into the circuit breaker mode or lockdown. In our judgment, a fair date to assume tourists stopped arriving in Singapore by would be a mid-point between these dates, which we fix as 25 March 2020. It is to be assumed that there would be no tourists in Singapore from 25 March 2020 up to 26 September 2020 when the agreements would have expired.   Further Observation on Mr Watts’s Calculations 158 We note that Mr Watts calculated the projected loss of profits for all three agreements from a common start date, viz, 8 November 2017. Whilst this would be a valid start date in respect of Big Bus’s breach of the Licence Agreement and the Reseller Arrangement, it cannot be adopted with regard to the Service Level Agreement in view of our findings above. It was iVenture Card which effected the SORSE System Suspension on 8 November 2017 in retaliation to Big Bus’s imposition of the Pass Suspension. iVenture Card was the party in breach of the Service Level Agreement and therefore cannot be awarded damages for loss of profit under that agreement from 8 November 2017. iVenture Card would only be entitled to an award of damages for the loss of profits in respect of the Service Level Agreement from the 6 December 2017 Letter issued by Big Bus’s lawyers terminating all three agreements. However, this was not a point taken up below by either party nor made an issue in this appeal. We therefore need say no more on this subject.   Observations on the joinder of additional parties as defendants to a counterclaim159 We now deal with one final matter. At [40] of the Judgment, the Judge observed that iVenture Travel was joined as a party to the suit as a third defendant to Big Bus’s counterclaim midway through the proceedings by an uncontested application under O 15 r 3(1) of the Rules of Court (2014 Rev Ed) (“ROC”). O 15 r 3 reads as follows:Counterclaim against additional parties (O. 15, r. 3)3.—(1)  Where a defendant to an action who makes a counterclaim against the plaintiff alleges that any other person (whether or not a party to the action) is liable to him along with the plaintiff in respect of the subject-matter of the counterclaim, or claims against such other person any relief relating to or connected with the original subject matter of the action, then, subject to Rule 5(2), he may join that other person as a party against whom the counterclaim is made.[the Judge’s emphasis in the Judgment] 160 In the Judge’s view, under O 15 r 3(1) of the ROC, a defendant who counterclaims against a plaintiff may, under certain conditions, join another person who is not yet a party to the proceedings as a “party against whom the counterclaim is made”. The Judge disagreed with the terminology used in the provision as, prima facie, a defendant cannot “counterclaim” against a person who has not yet made a claim against it (Judgment at [41]). The Judge considered the bringing in of that party into the proceedings by the defendant through the third party procedure or bringing a separate suit against such a party and consolidating the new suit with the existing one as more suitable alternatives to using O 15 r 3(1). Further, the Judge observed that the parties could consider coming to an understanding and have that other party simply joined as a plaintiff to the suit under O 15 r 4(1) of the ROC.      161 With respect, we do not agree with the Judge’s observations as stated above. We need to look at O 15 r 3 in its entirety. O 15 r 3 goes on to provide, after r 3(1):Counterclaim against additional parties (O. 15, r. 3)3.—…(2)  Where a defendant joins a person as a party against whom he makes a counterclaim, he must add that person’s name to the title of the action and serve on him a copy of the counterclaim; and a person on whom a copy of a counterclaim is served under this paragraph shall, if he is not already a party to the action, become a party to it as from the time of service with the same rights in respect of his defence to the counterclaim and otherwise as if he had been duly sued in the ordinary way by the party making the counterclaim.…(4)  Where by virtue of paragraph (2) a copy of a counterclaim is required to be served on a person who is not already a party to the action, the following provisions of these Rules, namely, Order 10 (except Rule 1(4)), Orders 11 to 13 and Order 70, Rule 3, shall, subject to paragraph (3), apply in relation to the counterclaim and the proceedings arising from it as if —(a)  the counterclaim were a writ and the proceedings arising from it an action; and(b)  the party making the counterclaim were a plaintiff and the party against whom it is made a defendant in that action.[emphasis added]162 Thus, under O 15 r 3 of the ROC, a non-party to an action initiated by a plaintiff may be joined by the defendant to the action by way of a counterclaim. Where the non-party is joined by way of counterclaim, he does not become a plaintiff to the action, but becomes a defendant to the counterclaim only. The effect of O 15 r 3(4)(a) is that the counterclaim itself is treated as if it were a writ and the proceedings arising from it an action; the counterclaimant (namely the defendant to the action) is treated as a plaintiff; the non-party becomes a defendant to the counterclaim, and is thereby entitled to file his defence thereto (see O 15 r 3(2)). This is subject to O 15 r 5(2) which provides that the court may strike out the counterclaim or order it to be tried separately or make such other order as may be expedient, if it appears “on the application of any party against whom a counterclaim is made that the subject-matter of the counterclaim ought for any reason to be disposed of by a separate action”. This procedure is alternative and additional to the third party procedure under O 16 of the ROC, and arises when the defendant makes a counterclaim against the plaintiff and the non-party or a co-defendant: Singapore Civil Procedure 2020 vol I (Chua Lee Ming gen ed) (Sweet & Maxwell, 2019) at para 15/3/2.163 Accordingly, it was in our view entirely appropriate for Big Bus to have joined iVenture Travel as a third defendant to its counterclaim pursuant to the procedure set out in O 15 r 3 of the ROC, whereupon iVenture Travel was entitled to file its own set of pleadings in response to the said counterclaim pursuant to O 15 r 3(2) of the ROC. Indeed, if iVenture Travel had failed to file its own defence to the counterclaim, it may be taken to have conceded the case, which would have been incongruous with the position taken by iVenture Card and iVenture International.Summary and Conclusion164 In summary, our findings on liability and quantum, and consequent orders, are as follows:(a) We affirm the Judge’s decision that iVenture Card is liable for nominal damages of S$1,000 to Big Bus in respect of their breach of the Service Level Agreement by their imposition of the SORSE System Suspension. The Judge’s findings that iVenture Card owed S$145,792.86 to Big Bus for unpaid invoices, and that Big Bus owed S$27,866.34 to iVenture Card for unpaid fees remain undisturbed. Hence, the Judge’s order (at [39] of his Judgment) that iVenture Card is to pay Big Bus the net sum of S$118,926.52 plus interest at 5.33% per annum (see [23] above) from the date of the writ to the date of judgment is to stand. (b) We set aside the Judge’s award of S$1,000 in nominal damages and S$778.32 in damages, both payable by Big Bus and Ducktours, on a joint and several basis, to iVenture Card for Big Bus’s repudiation of the Licence Agreement and the Reseller Arrangement.  (c) Big Bus had breached the Licence Agreement and the Reseller Arrangement by imposing the Pass Suspension on 8 November 2017, and had repudiated the Licence Agreement, the Reseller Arrangement and the Service Level Agreement by unlawfully terminating the same  on 6 December 2017. We disagree with the Judge’s assessment of the damages due from Big Bus and Ducktours (on a joint and several basis) to iVenture Card for Big Bus’s breaches of contract (see [38(a)] and [38(b)] of the Judgment). We find instead, as a consequence of Big Bus’s breaches: (i) Big Bus, together with Ducktours are jointly and severally liable to iVenture Card for costs of setting up the replacement TAAP which is fixed at S$45,000 (see [121] above).(ii) Big Bus, together with Ducktours are jointly and severally liable to iVenture Card for the Lost Profits which represent the loss of profit it would otherwise have earned on the Licence Agreement, Service Level Agreement and the Reseller Arrangement from 8 November 2017 to 26 September 2020. (iii) Mr Watts’s assessment of the Lost Profits up to 26 September 2020 at S$1,206,000 is to be adjusted only insofar as needed to take into account the effect of the Covid-19 pandemic in Singapore for the relevant period from 25 March 2020 to 26 September 2020 (“the relevant period”); if the parties are unable to agree on the sum to be adjusted within 28 days from the date hereof, we remit the matter back to the trial judge to assess the same and for the avoidance of doubt, the Judge shall be free to make such orders or give such directions as he shall see fit, including, without limiting the generality of the foregoing, whether to direct a further report from Mr Watts or other experts, from the appellants or Big Bus and Ducktours or otherwise insofar as regards the Lost Profits during the relevant period. For the avoidance of doubt, we accept Mr Watts’s assessment of Lost Profits from 8 November 2017 to 25 March 2020.(iv) In addition, Big Bus, together with Ducktours are jointly and severally liable for interest of 5.33% per annum on the S$45,000 and well as the re-assessed Lost Profits from the date of the writ until the date of judgment. 165 Given that the impact of the Covid-19 pandemic is only relevant for the period from 25 March 2020 to 26 September 2020, leaving the main period unaffected by the pandemic, we hope the parties will be able to resolve the quantification of the Lost Profits without the need or expense of a further hearing. 166 We will hear parties on costs. Parties are to file their costs submissions in respect of costs here and below, limited to ten pages each within two weeks from the date hereof. Steven ChongJustice of the Court of AppealWoo Bih LiJudge of the Appellate DivisionQuentin LohJudge of the Appellate DivisionAng Hsueh Ling Celeste, Clarence Ding Si-Liang, Lee Zhe Xu and Tan Yi Wei Nicholas (Wong & Leow LLC) for the appellants;Chia Jin Chong Daniel, Ong Xuan Ning Christine (Weng Xuanning) and Tan Ei Leen (Coleman Street Chambers LLC) for the respondents.

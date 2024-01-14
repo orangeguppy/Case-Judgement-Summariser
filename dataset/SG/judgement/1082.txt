@@ -1,0 +1,2882 @@
+
+In the SINGAPORE INTERNATIONAL COMMERCIAL COURT of the republic of singapore[2021] SGHC(I) 17Originating Summons No 10 of 2021Between(1)Twarit Consultancy Services Private Limited(2)SEPC Limited (formerly, Shriram EPC Limited)… Plaintiffs And(1)GPE (India) Ltd(2)GPE JV1 Ltd(3)Gaja Trustee Company Private Limited… Defendantsjudgment[Arbitration] — [Award] — [Recourse against award] — [Setting aside]This judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in LawNet and/or the Singapore Law Reports.Twarit Consultancy Services Pte Ltd and anothervGPE (India) Ltd and others[2021] SGHC(I) 17Singapore International Commercial Court — Originating Summons No 10 of 2021Roger Giles IJ19, 27 October, 26 November, 10 December 202124 December 2021 Judgment reserved.Roger Giles IJ:Introduction1 The plaintiffs applied to set aside, in whole or in part, the final award made on 7 January 2021 (“the Award”) in consolidated arbitrations conducted under the rules of the Singapore International Arbitration Centre (“SIAC”). In the Originating Summons, they applied on the grounds:(a) that the Award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or contains decisions on matters beyond the scope of the submission to arbitration, within the meaning of Article 34(2)(a)(iii) of the UNCITRAL Model Law on International Commercial Arbitration (“the Model Law”) read with s 3 of the International Arbitration Act (Cap 143A, 2002 Rev Ed) (“the IAA”);(b) that the composition of the arbitral tribunal and/or the arbitral procedure was not in accordance with the agreement of the parties, within the meaning of Article 34(2)(a)(iv) of the Model Law read with s 3 of the IAA;(c) that they were not given proper notice of the arbitral proceedings and/or were otherwise unable to present their case, within the meaning of Article 34(2)(a)(ii) of the Model Law read with s 3 of the IAA;(d) that there was a breach of the rules of natural justice in connection with the making of the Award by which their rights were prejudiced, within the meaning of s 24(b) of the IAA; and(e) that the Award is in conflict with the public policy of Singapore, within the meaning of Article 34(2)(b)(ii) of the Model Law read with s 3 of the IAA.BackgroundEvents leading to the arbitration2 The plaintiffs are companies registered in India. The first plaintiff (“Twarit”) provides management consultancy and technical management services in India and abroad.
+                   1
+
+
+
+
+Foot Note 1
+
+×
+
+
+
+  R. Sridharan’s 1st affidavit dated 6 April 2021 (“Sridharan”) at para 5.1 (Case Management Bundle (“CMB”) at p 8).
+
+
+
+ The second plaintiff (“SEPC”) is a publicly listed company providing multi-disciplinary engineering, procurement and construction services in a number of infrastructure sectors for governmental and private clients in India and abroad.
+                   2
+
+
+
+
+Foot Note 2
+
+×
+
+
+
+  Sridharan at para 5.2 (CMB at p 8).
+
+
+
+3 The first and second defendants (“GPE India” and “GPE JV1” respectively) are companies incorporated in Mauritius; the third defendant (“Gaja”) is a company incorporated in India. Each of the defendants conducts a private equity investment business.
+                   3
+
+
+
+
+Foot Note 3
+
+×
+
+
+
+  Sridharan at para 6 (CMB at p 9).
+
+
+
+4 In 2010–2011 the defendants subscribed to shares in Haldia Coke and Chemicals Private Ltd (“Haldia”), a company in the business of manufacturing, processing, trading, supplying and distributing coke (carbon) coal. GPE India and GPE JV1 subscribed by way of one of two Share Subscription and Shareholders Agreements dated 31 May 2010, as amended by amending agreements dated 1 July 2010, 2 July 2010 and 15 November 2011 (“the SSHAs”); Gaja subscribed by way of the other of the SSHAs. In total, between them, the defendants subscribed for (in Indian numeration) 10,84,36,850 Compulsory Convertible Preference Shares and 1,65,61,950 Optional Convertible Preference Shares, for the subscription amount of INR125,00,00,000.
+                   4
+
+
+
+
+Foot Note 4
+
+×
+
+
+
+  Sridharan at paras 11–13 (CMB at pp 12–13); see CMB at p 301.
+
+
+
+5  SEPC was a party to both SSHAs as a Promoter. Twarit was not a party to either of them.
+                   5
+
+
+
+
+Foot Note 5
+
+×
+
+
+
+  Sridharan at para 17 (CMB at p 16).
+
+
+
+ There were a number of other parties, as Promoters and otherwise; it was not suggested in the submissions in the Originating Summons that they should have been joined in the arbitrations or in the Originating Summons.6  Under the SSHAs the Promoters undertook to procure a “Listing Event” by 31 March 2014, being either an initial public offering (“IPO”) of the shares of Haldia or a merger of Haldia with its listed subsidiary Ennore Coke Limited (“Ennore”).
+                   6
+
+
+
+
+Foot Note 6
+
+×
+
+
+
+  Sridharan at para 14 (CMB at p 13).
+
+
+
+ If the Listing Event did not occur by 31 March 2014, there was provision for an “Exit Mechanism”, being an entitlement in the defendants under cl 15.2 of the SSHAs to exercise one or a combination of a number of rights. In summary, the rights were requiring an IPO (cl 15.2.1); sale of the shares (cl 15.2.2); buy back (cl 15.2.3); a put option (cl 15.2.4); a call option (cl 15.2.5); what was called securing an economic interest in certain mines (cl 15.2.6); and requiring a merger with Ennore (cl 15.2 7).
+                   7
+
+
+
+
+Foot Note 7
+
+×
+
+
+
+  CMB at pp 109–114.
+
+
+
+7 The rights included reference to a guaranteed return, which I will call “the 24% IRR”, which assumed significance in the arbitrations. In its final form, the first paragraph of cl 15.2.3 dealing with buy back read:
+                   8
+
+
+
+
+Foot Note 8
+
+×
+
+
+
+  CMB at p 110.
+
+
+
+… [t]he Investor shall be entitled to receive an IRR [a compounded annual rate of return] of at least 24% (twenty four percent) on its Total Investment Amount by exercising any of the rights under Clauses 15.2.4, 15.2.3, or 15.2.5 (‘Put Buy Back Return’). …8 A Listing Event was not procured by 31 March 2014. But none of the exit mechanism rights was exercised; instead, on 28 September 2015, a series of agreements were entered into.
+                   9
+
+
+
+
+Foot Note 9
+
+×
+
+
+
+  Sridharan at para 19 (CMB at p 17).
+
+
+
+9 First, three Share Purchase Agreements (“the SPAs”), in materially identical terms, were entered into. The parties to each SPA were one of the defendants (one for each SPA), the plaintiffs, and some others. In each, it was agreed that the plaintiffs would purchase the majority of the shares in Haldia held by the relevant defendant, for a total price in the three SPAs of INR200,00,00,000.
+                   10
+
+
+
+
+Foot Note 10
+
+×
+
+
+
+  Sridharan at para 19.1 (CMB at p 17).
+
+
+
+ The plaintiffs were to purchase the shares in 14 tranches on various dates from 30 September 2015 to 30 June 2018.
+                   11
+
+
+
+
+Foot Note 11
+
+×
+
+
+
+  Sridharan at para 22 (CMB at p 21); see CMB at pp 347, 375 and 403.
+
+
+
+10 Secondly, a so-called letter agreement (“the First Letter Agreement”) was entered into between the plaintiffs, the defendants and other parties, providing for the suspension of the exit mechanisms and setting out consequences of breach of the plaintiffs’ obligations under the SPAs.
+                   12
+
+
+
+
+Foot Note 12
+
+×
+
+
+
+  Sridharan at para 24.1 (CMB at p 21).
+
+
+
+ The relevant provisions were:
+                   13
+
+
+
+
+Foot Note 13
+
+×
+
+
+
+  CMB at p 445.
+
+
+
+2. Purchase of 124,998,800 Subscription Shares by the Purchasers from the InvestorsThe Purchasers have agreed to provide an exit to the Investors from the Company, and accordingly each Investor has entered into a share purchase agreement on even date with the Company and the Purchasers (collectively ‘SPAs’), pursuant to which the Purchasers have agreed to purchase 124,998,800 (Twelve crores forty nine lakhs ninety eight thousand eight hundred) Subscription Shares from the Investors, on the terms and subject to the conditions contained therein.3. Rights under the Existing SSHA(a) The Parties to this Letter Agreement have agreed that the rights of the Investor under Clause 15.2 of the Existing SSHA shall stand suspended for a period commencing from the date of signing of the Transaction Documents, until the Purchasers or any of them have committed a breach of any of their obligations to make any payment under the relevant provisions of the SPAs (‘Purchaser Payment Breach’). For the avoidance of doubt, it is clarified that in case of a Purchaser Payment Breach, the rights of the Investors under Clause 15.2 of the Existing SSHA shall forthwith stand reinstated and may be exercised by the Investor, without requirement of any notification or act by the Investors and/or any other Party to the Letter Agreement or the Existing SSHA.(b) If on the date of occurrence of a Purchaser Payment Breach (‘Purchaser Breach Date’) the Investors have received an amount equal to or greater than Rs. 125,00,00,000 (Rupees One Hundred and Twenty Five Crores only) from the Purchasers under the SPAs, then the Purchasers’ [sic] shall be liable to pay the Investors an amount equal to the difference between the aggregate amount payable by the Purchasers to the Investors under the SPAs and the amount actually received by the Investors until the Purchaser Breach Date.(c) If until the Purchaser Breach Date, the Investors have received an amount which is lesser [sic] than Rs. 125,00,00,000 (Rupees One Hundred and Twenty Five Crores only) from the Purchasers under the SPAs, then the Purchasers’ [sic] shall be liable to pay the Investors all amounts as are payable under the Existing SHA [sic] less amounts paid by the Purchasers under the SPAs till the Purchaser Breach Date.For the purposes of this Letter Agreement, the term Transaction Documents shall mean:(i) the SPAs; and(ii) this Letter Agreement.(d) It is clarified that till such time that the Investors have received the consideration as specified under this Paragraph 3 i.e. excluding the amounts to be received from the sale of the mine assets, all the other rights and obligations of the parties under the Existing SSHA shall continue to apply.11 As later described, in the arbitrations, the defendants sued on the SPAs and the First Letter Agreement. Again, it was not suggested in the submissions in the Originating Summons that the other parties to these agreements should have been joined in the arbitrations or in the Originating Summons.12 Thirdly, two further agreements were entered into. One was a Share Purchase Agreement (“the SVL SPA”) between the defendants and SVL Limited (“SVL”), a shareholder in SEPC, pursuant to which the defendants agreed to purchase certain shares in SEPC from SVL and Gaja could be required to purchase or subscribe to shares in SEPC.
+                   14
+
+
+
+
+Foot Note 14
+
+×
+
+
+
+  Sridharan at para 19.3 (CMB at p 18); see CMB at p 434 (Clause 5.1).
+
+
+
+ The other was a letter agreement (“the Second Letter Agreement”), entered into between the defendants amongst others and SVL, pursuant to which GPE India and GPE JV1 were to purchase shares in SEPC from SVL following completion of events under the SPAs.
+                   15
+
+
+
+
+Foot Note 15
+
+×
+
+
+
+  Sridharan at para 24.2 (CMB at p 22); see CMB at p 455 (Clauses 3(a)(i) and 3(b)(i)).
+
+
+
+13 The plaintiffs paid for and acquired shares in respect of the first tranche under the SPAs, a total payment of INR5,00,00,000. They paid nothing thereafter.
+                   16
+
+
+
+
+Foot Note 16
+
+×
+
+
+
+  Sridharan at para 29 (CMB at p 26).
+
+
+
+14 On 11 July 2017, Haldia was admitted into a voluntary corporate insolvency resolution process under Indian law. This brought a moratorium (“the moratorium”),
+                   17
+
+
+
+
+Foot Note 17
+
+×
+
+
+
+  Sridharan at para 30 (CMB at p 26).
+
+
+
+ as to which see later in these reasons (at [87] below).15 On 14 December 2017, the defendants commenced the SIAC arbitral proceedings by filing a Notice of Arbitration in respect of the three SPAs and the First Letter Agreement. In the Notice of Arbitration, the defendants alleged that the plaintiffs had evinced an intention not to perform their contractual obligations under the SPAs and the First Letter Agreement, and sought damages to be assessed, interest, compensation and legal costs. Under the SIAC rules, four arbitrations were deemed to have been commenced, with the Notice of Arbitration also serving as an application to consolidate all four arbitrations.
+                   18
+
+
+
+
+Foot Note 18
+
+×
+
+
+
+  Sridharan at paras 32–33 (CMB at pp 27–28).
+
+
+
+The arbitration clauses16 There were dispute resolution clauses in all of the SSHAs, the SPAs and the First Letter Agreement.17 Each of the SSHAs included an arbitration clause providing for referral of disputes to three arbitrators: one appointed by the relevant defendant and one appointed by the Promoters, both being retired High Court justices or former chief justices of the Bombay High Court, and the third appointed by the two appointed arbitrators. The provisions of the Arbitration and Conciliation Act 1996 (Act No 26 of 1996) (India) (“the AC Act”) were to apply, and the arbitration proceedings were to take place in Mumbai.
+                   19
+
+
+
+
+Foot Note 19
+
+×
+
+
+
+  CMB at pp 128–129 and 247 (Clause 36.2).
+
+
+
+18 The subject-matter of the arbitration clauses was expressed:
+                   20
+
+
+
+
+Foot Note 20
+
+×
+
+
+
+  CMB at pp 128–129 and 246–247 (Clauses 36.1 and 36.2).
+
+
+
+36.1 If any dispute arises between the Parties hereto during the subsistence or thereafter, in connection with the validity, interpretation, implementation or alleged breach of any provision of this Agreement or regarding any question, including the question as to whether the termination of this Agreement by one Party hereto has been legitimate, the Parties hereto shall endeavour to settle such dispute amicably. The attempt to bring about an amicable settlement is considered to have failed as soon as … [events are stated].36.2 In case of such failure, the Parties can refer the dispute to 3 (three) arbitrators … [there is then a description of the constitution of the tribunal, as above]19 Each of the SPAs included an arbitration clause providing for referral of disputes to arbitration in accordance with the SIAC rules, the seat of the arbitration being Singapore.
+                   21
+
+
+
+
+Foot Note 21
+
+×
+
+
+
+  CMB at pp 358, 386 and 414.
+
+
+
+20 The subject-matter of the arbitration clauses was expressed:6.1 The Parties agreed to use all reasonable efforts to resolve any dispute, controversy, claim or disagreement of any kind whatsoever between or among the Parties in connection with or arising out of this Agreement, including any question regarding its existence, validity or termination (“Dispute”) expediently and amicably.6.2 Any Party who claims that a Dispute has arisen must give Notice thereof to the other Parties … [there is then provisions for particulars, and for discussions and negotiations to settle the Dispute]6.3 If the Dispute is not resolved within the Dispute Resolution Period set out in Clause 6.2 above, then the following provisions shall apply.6.4 Any Dispute, if not amicably settled in accordance with Clause 6.2 above, shall be referred to and finally resolved by arbitration … [there is then a reference to SIAC arbitration, as above]21 The First Letter Agreement included an arbitration clause in materially the same terms as that in the SPAs, including in its description of the subject-matter.
+                   22
+
+
+
+
+Foot Note 22
+
+×
+
+
+
+  CMB at pp 446–447.
+
+
+
+22 Under each of the SSHAs, the SPAs and the First Letter Agreement, it was to be governed by and construed in accordance with the laws of India.
+                   23
+
+
+
+
+Foot Note 23
+
+×
+
+
+
+  CMB at pp 128, 246, 363, 391, 419 and 449.
+
+
+
+The arbitral proceedingsProcedural history23 I have referred to the Notice of Arbitration (see above at [15]). On 30 December 2017, the plaintiffs filed a document titled Common Preliminary Objections as their response to the Notice of Arbitration.
+                   24
+
+
+
+
+Foot Note 24
+
+×
+
+
+
+  Sridharan at para 34 (CMB at p 28); see CMB at p 505.
+
+
+
+ Amongst a host of other matters, there were contentions which reappeared in various guises in a formal challenge to jurisdiction and under or in connection with grounds (a) and/or (b) in the Originating Summons.
+                   25
+
+
+
+
+Foot Note 25
+
+×
+
+
+
+  Plaintiffs’ Submissions dated 21 September 2021 (“PS”)  at paras 97–99.
+
+
+
+ They were to the effect:(a) that the SPAs and the First Letter Agreement were void under Indian law because their object was unlawful, being a violation of the Foreign Exchange Management Act 1999 (Act No 42 of 1999) (India) (“the FEMA”) and the regulations thereunder;
+                   26
+
+
+
+
+Foot Note 26
+
+×
+
+
+
+  Common Preliminary Objections filed by the Respondents at paras 6–7 (CMB at pp 498–499).
+
+
+
+ and(b) that the arbitrations were improperly commenced because, in the event of breach of the SPAs or the First Letter Agreement, the defendants’ rights reverted to the exit mechanisms in cl 15.2 of the SSHAs, and accordingly the agreements in respect of which there were disputes were the SSHAs.
+                   27
+
+
+
+
+Foot Note 27
+
+×
+
+
+
+  Common Preliminary Objections filed by the Respondents at paras 8, 11 and 13 (CMB at pp 500, 502–503).
+
+
+
+24 After correspondence with SIAC, in which the plaintiffs confirmed that they were raising a jurisdictional objection, and further submissions by both sides,
+                   28
+
+
+
+
+Foot Note 28
+
+×
+
+
+
+  Sridharan at paras 36–38 (CMB at p 29).
+
+
+
+ on 26 March 2018 the Registrar of the Court of Arbitration of SIAC determined that the Common Preliminary Objections would not be referred to the Court of Arbitration and that the arbitrations would proceed.
+                   29
+
+
+
+
+Foot Note 29
+
+×
+
+
+
+  Sridharan at para 39 (CMB at p 30).
+
+
+
+25 The plaintiffs protested and there was further correspondence, but to no avail. The four arbitrations were consolidated. In the absence of agreement on the appointment of an arbitrator, on 16 July 2018 SIAC appointed the sole arbitrator, a Singapore lawyer (“the Tribunal”).
+                   30
+
+
+
+
+Foot Note 30
+
+×
+
+
+
+  Sridharan at paras 40–43 (CMB at p 30).
+
+
+
+26 On 10 August 2018 the first procedural meeting was held, and on 16 August 2018 Procedural Order No 1 (“PO 1”) was issued by the Tribunal.
+                   31
+
+
+
+
+Foot Note 31
+
+×
+
+
+
+  Sridharan at para 47 (CMB at p 32).
+
+
+
+27 PO 1 included procedural directions dealing with the plaintiffs’ jurisdictional challenge. In accordance with PO 1, on 6 September 2018 the plaintiffs filed a challenge to the Tribunal’s jurisdiction.
+                   32
+
+
+
+
+Foot Note 32
+
+×
+
+
+
+  Sridharan at paras 48–49 (CMB at p 32).
+
+
+
+ It included similar contentions to those described above in the Common Preliminary Objections, to the effect (in a summary of a document of some obscurity):(a) the disputes were not arbitrable because the rights and liabilities in contention arose out of a breach of the FEMA and the regulations thereunder,
+                   33
+
+
+
+
+Foot Note 33
+
+×
+
+
+
+  Objections to the Jurisdiction of the Arbitration Tribunal at para 47 (CMB at p 674).
+
+
+
+ as well as a breach of s 67 of the Companies Act 2013 (Act No 18 of 2013) (India) (“the CA”),
+                   34
+
+
+
+
+Foot Note 34
+
+×
+
+
+
+  Objections to the Jurisdiction of the Arbitration Tribunal at para 50 (CMB at p 677).
+
+
+
+ and also because the FEMA and the CA were codes with their own tribunals for dealing with breaches;
+                   35
+
+
+
+
+Foot Note 35
+
+×
+
+
+
+  Objections to the Jurisdiction of the Arbitration Tribunal at paras 54 and 61 (CMB at pp 678–679).
+
+
+
+(b) the SPAs and the First Letter Agreement were illegal, and so the arbitration agreements in them were illegal, void and unenforceable,
+                   36
+
+
+
+
+Foot Note 36
+
+×
+
+
+
+  Objections to the Jurisdiction of the Arbitration Tribunal at para 71 (CMB at p 682).
+
+
+
+ because:(i) the SSHAs were contrary to the provisions of the FEMA and the regulations thereunder and the SPAs and the First Letter Agreement were “derived from Clause 15.2 of the SSHAs”;
+                   37
+
+
+
+
+Foot Note 37
+
+×
+
+
+
+  Objections to the Jurisdiction of the Arbitration Tribunal at paras 29 and 30 (CMB at p 670).
+
+
+
+ and(ii) the Second Letter Agreement and the SVL SPA contravened s 67 of the CA and the SPAs and the First Letter Agreement were part of the same commercial transaction;
+                   38
+
+
+
+
+Foot Note 38
+
+×
+
+
+
+  Objections to the Jurisdiction of the Arbitration Tribunal at paras 32–34 (CMB at pp 670–671).
+
+
+
+ and(c) the parties’ dispute was outside the scope of the arbitration agreements in the SPAs and the First Letter Agreement, because it was a dispute “in relation to the SSHA”.
+                   39
+
+
+
+
+Foot Note 39
+
+×
+
+
+
+  Objections to the Jurisdiction of the Arbitration Tribunal at paras 65–66 (CMB at pp 680–681).
+
+
+
+28 Extensive submissions were filed, and a hearing was held. On 14 February 2019, the Tribunal issued a detailed decision dismissing the jurisdictional challenge.
+                   40
+
+
+
+
+Foot Note 40
+
+×
+
+
+
+  Sridharan at paras 50–51 (CMB at pp 33–34).
+
+
+
+ The Tribunal held, in short, that:(a) arbitrability was determined under Singapore law, and that the disputes were arbitrable under that law (and were also arbitrable under Indian law);
+                   41
+
+
+
+
+Foot Note 41
+
+×
+
+
+
+  Tribunal’s Decision on Jurisdiction at paras 61, 89 and 91 (CMB at pp 786 and 793).
+
+
+
+(b) there was no illegality under FEMA or for contravention of s 67 of the CA;
+                   42
+
+
+
+
+Foot Note 42
+
+×
+
+
+
+  Tribunal’s Decision on Jurisdiction at paras 164–165 and 168 (CMB at pp 813–814).
+
+
+
+ and(c) the disputes were within the arbitration agreements in the SPAs and the First Letter Agreement because the claim was made under them.
+                   43
+
+
+
+
+Foot Note 43
+
+×
+
+
+
+  Tribunal’s Decision on Jurisdiction at para 153 (CMB at pp 809–810).
+
+
+
+29 The plaintiffs did not seek to appeal or apply to the Singapore High Court, pursuant to s 10 of the IAA and/or Article 16(3) of the Model Law, to set aside the Tribunal’s decision on jurisdiction.30 A procession of pleadings followed:(a) the defendants filed a Statement of Claim on 28 March 2019;
+                   44
+
+
+
+
+Foot Note 44
+
+×
+
+
+
+  Sridharan at para 52 (CMB at pp 35–36).
+
+
+
+(b) the plaintiffs filed a Statement of Defence on 9 May 2019;
+                   45
+
+
+
+
+Foot Note 45
+
+×
+
+
+
+  Sridharan at para 53 (CMB at pp 36–37).
+
+
+
+(c) the defendants filed a Reply on 6 June 2019;
+                   46
+
+
+
+
+Foot Note 46
+
+×
+
+
+
+  Sridharan at para 54 (CMB at pp 38–39).
+
+
+
+ and(d) the plaintiffs filed a Rejoinder on 4 July 2019.
+                   47
+
+
+
+
+Foot Note 47
+
+×
+
+
+
+  Sridharan at para 54.5 (CMB at p 39).
+
+
+
+The parties submitted their respective lists of issues on 18 July 2019.
+                   48
+
+
+
+
+Foot Note 48
+
+×
+
+
+
+  Sridharan at para 55 (CMB at p 40).
+
+
+
+ The defendants requested the production of documents, and production was completed by early October 2019. The plaintiffs did not request the production of documents.
+                   49
+
+
+
+
+Foot Note 49
+
+×
+
+
+
+  Sridharan at paras 56–57 (CMB at p 40).
+
+
+
+ On 13 November 2019, the Tribunal issued Procedural Order No 2 (“PO 2”), and pursuant to the timetable therein, as subsequently amended, witness statements were submitted.
+                   50
+
+
+
+
+Foot Note 50
+
+×
+
+
+
+  Sridharan at para 58 (CMB at pp 40–41).
+
+
+
+ The evidentiary hearing was fixed for 2–5 March 2020.
+                   51
+
+
+
+
+Foot Note 51
+
+×
+
+
+
+  CMB at p 969.
+
+
+
+31 On 4 February 2020, the plaintiffs applied for an adjournment of the evidentiary hearing. The application was opposed, and was dismissed on 6 February 2020; after more correspondence, the dismissal was confirmed on 10 February 2020.
+                   52
+
+
+
+
+Foot Note 52
+
+×
+
+
+
+  Sridharan at paras 60–63 (CMB at pp 41–42).
+
+
+
+ On 25 February 2020, the plaintiffs applied to exclude the evidence of the defendants’ Indian law expert.
+                   53
+
+
+
+
+Foot Note 53
+
+×
+
+
+
+  Sridharan at para 64 (CMB at p 42).
+
+
+
+ The Tribunal received written submissions, and on 29 February 2020 dismissed the application.
+                   54
+
+
+
+
+Foot Note 54
+
+×
+
+
+
+  Sridharan at paras 67–68 (CMB at p 43).
+
+
+
+ The Tribunal’s dismissal of the plaintiffs’ adjournment application and application to exclude the defendants’ expert evidence are the factual basis of grounds (c) and (d) in the Originating Summons.
+                   55
+
+
+
+
+Foot Note 55
+
+×
+
+
+
+  PS at para 100.
+
+
+
+32 The evidentiary hearing took place over 2–4 March 2020.
+                   56
+
+
+
+
+Foot Note 56
+
+×
+
+
+
+  Sridharan at para 70 (CMB at p 43).
+
+
+
+ Written closing submissions were provided, and there was a hearing for oral closing submissions on 8 May 2020. Additional submissions on interest were thereafter provided at the Tribunal’s request.
+                   57
+
+
+
+
+Foot Note 57
+
+×
+
+
+
+  Sridharan at paras 71–74 (CMB at pp 44–45).
+
+
+
+33 As noted above (at [1]), the Award was issued on 7 January 2021.
+                   58
+
+
+
+
+Foot Note 58
+
+×
+
+
+
+  Sridharan at para 75 (CMB at p 45).
+
+
+
+ The Award obliged the plaintiffs to pay to the defendants INR195,00,00,000 plus simple interest at 7.25% per annum from 21 July 2017 to the date of payment, and gave the defendants party-and-party costs and the costs of the arbitration.
+                   59
+
+
+
+
+Foot Note 59
+
+×
+
+
+
+  Award at paras 260 and 308 (CMB at pp 1848 and 1859–1860).
+
+
+
+The claim and the defence34 I do not go into or comment on the merits of the contentions in the claim and the defence thereto. The merits were and are a matter for the Tribunal. But some understanding of the pleadings is necessary for a consideration of the grounds in the Originating Summons.35 The Statement of Claim began with an “Introduction”, which described the claim as a dispute arising out of the three SPAs by which the plaintiffs agreed to purchase the Haldia shares and the First Letter Agreement which “provide[d] the consequences of default on the part of the [plaintiffs] in making payments to [the defendants] as per the terms of all the three SPAs”. It was said that the plaintiffs were obliged to purchase the shares in 14 tranches for an aggregate consideration of INR200,00,00,000 but had only paid for the first tranche of INR5,00,00,000, and that “[t]he [plaintiffs] ha[d] evinced an intention not to perform their obligations under the SPAs and the First Letter Agreement on erroneous and untenable grounds resulting, inter alia, in loss/ damage to the [defendants]”.
+                   60
+
+
+
+
+Foot Note 60
+
+×
+
+
+
+  Statement of Claim at paras 1–3 (CMB at p 820).
+
+
+
+36 There was then set out a “Statement of Facts Supporting the Claim”, which included references to the exit mechanisms in cl 15.2 of the SPAs, the 24% IRR and reinstatement of rights under the SSHAs pursuant to cl 3 of the First Letter Agreement. It was alleged that “on breach by the [plaintiffs] to make payments under the SPAs”, the defendants were entitled to exercise their rights under cl 15.2 of the SSHAs to receive payment from the plaintiffs in accordance with the formulae in cl 3 of the First Letter Agreement, and to “any other contractual remedies available under Indian law, including… damages…”.
+                   61
+
+
+
+
+Foot Note 61
+
+×
+
+
+
+  Statement of Claim at paras 12 and 13(a) (CMB at p 825–826).
+
+
+
+ After an account of the plaintiffs’ failure to pay, the Statement of Facts concluded with the assertions that the plaintiffs had “evinced an intention not to perform their obligations under the SPAs and [First] Letter Agreement”, and that the defendants had commenced the arbitration proceedings “in view of the [plaintiffs’] repudiatory breaches of the SPAs”.
+                   62
+
+
+
+
+Foot Note 62
+
+×
+
+
+
+  Statement of Claim at paras 14–20 (CMB at p 827–828).
+
+
+
+37 The next section of the Statement of Claim, under the heading “Legal Grounds or Arguments Supporting the Claim”, was largely a refutation of the plaintiffs’ assertion of illegality, but concluding with a further assertion of breach of the SPAs.
+                   63
+
+
+
+
+Foot Note 63
+
+×
+
+
+
+  Statement of Claim at paras 21–24 (CMB at pp 828–831).
+
+
+
+38 Then came a section headed “The Relief Claimed”. The relief was described in the alternative. First, it was said that the plaintiffs were liable to pay the defendants in accordance with the formula in cl 3(c) of the First Letter Agreement, as explained being INR401,00,00,000 calculated as the 24% IRR less the amount paid under the SPAs.
+                   64
+
+
+
+
+Foot Note 64
+
+×
+
+
+
+  Statement of Claim at paras 25–26 (CMB at pp 831–832).
+
+
+
+ Secondly, it was said:
+                   65
+
+
+
+
+Foot Note 65
+
+×
+
+
+
+  Statement of Claim at para 28 (CMB at p 833).
+
+
+
+In the alternative to the claim for damages …, the [defendants] seek damages of: (a) INR 195,00,00,000 (Indian Rupees One Hundred Ninety Five Crores), being an amount equivalent to the sums due to the [defendants] under the outstanding 13 tranches of the SPAs; or (b) such sum as to be assessed by the Tribunal …39 The final expression of the claims was, as the first alternative, “[d]amages amounting to INR 401,00,00,000… as per clause 3(c) of the [First] Letter Agreement…” and, as the second alternative, “damages amounting to INR 195,00,00,000… or such sum as to be assessed by the Tribunal”.
+                   66
+
+
+
+
+Foot Note 66
+
+×
+
+
+
+  Statement of Claim at paras 32(a) and 32(c) (CMB at pp 834–835).
+
+
+
+40 Less detail is required of the Statement of Defence. In summary, it was contended that the “entire scheme of the transaction”, reading all the documents executed on 28 September 2015 together, was unlawful and the SPAs were therefore void and unenforceable.
+                   67
+
+
+
+
+Foot Note 67
+
+×
+
+
+
+  Defence at paras 17–18 (CMB at p 849).
+
+
+
+ The unlawfulness was because of infringement of the FEMA and of s 67 of the CA.
+                   68
+
+
+
+
+Foot Note 68
+
+×
+
+
+
+  Defence at paras 29–39 (CMB at pp 852–854).
+
+
+
+ The reliance on cl 3 of the First Letter Agreement for an entitlement to damages was untenable because it incorporated by reference provisions in the unlawful cl 15.2 of the SPAs.
+                   69
+
+
+
+
+Foot Note 69
+
+×
+
+
+
+  Defence at paras 40–41 (CMB at p 855).
+
+
+
+ As well, by reason of a circular issued by the Reserve Bank of India, the buy back in cl 15.2 of the SSHAs was not permitted and the SSHAs were void for that reason.
+                   70
+
+
+
+
+Foot Note 70
+
+×
+
+
+
+  Defence at paras 42–44 (CMB at pp 855–856).
+
+
+
+ As to the claims for damages, the defendants had not suffered a loss because the market value of the shares exceeded the sale consideration under the SPAs.
+                   71
+
+
+
+
+Foot Note 71
+
+×
+
+
+
+  Defence at para 53 (CMB at p 858).
+
+
+
+ As to the damages of INR195,00,00,000, the defendants were in truth seeking specific performance rather than damages, without pleading or proving the necessary ingredients, and the grant of the relief would result in unjust enrichment to the defendants as they would have the shares in addition to the money.
+                   72
+
+
+
+
+Foot Note 72
+
+×
+
+
+
+  Defence at para 55 (CMB at p 859).
+
+
+
+ Finally, the defendants had failed to mitigate their loss.
+                   73
+
+
+
+
+Foot Note 73
+
+×
+
+
+
+  Defence at para 54 (CMB at pp 858–859).
+
+
+
+41 It should be said that in the Rejoinder, it was added that the SPAs and the First Letter Agreement were voidable because they were executed under coercion.
+                   74
+
+
+
+
+Foot Note 74
+
+×
+
+
+
+  Rejoinder at para 8(IV) (CMB at p 900).
+
+
+
+The Award42 I will refer to the Award in more detail when and as necessary in considering the grounds in the Originating Summons. In summary, and so far as relevant in this application, the Tribunal held as follows:(a) Noting that the plaintiffs’ argument had evolved over the course of the arbitral proceedings,
+                   75
+
+
+
+
+Foot Note 75
+
+×
+
+
+
+  Award at para 126 (CMB at p 1815).
+
+
+
+ the Tribunal did not accept their contention that the SPAs, or the SSHAs, were void or unenforceable. The Tribunal held that cl 15.2 did not contravene the FEMA regime
+                   76
+
+
+
+
+Foot Note 76
+
+×
+
+
+
+  Award at para 128 (CMB at p 1816).
+
+
+
+ and that the SPAs were “demonstrably capable of being performed” consistently with that regime,
+                   77
+
+
+
+
+Foot Note 77
+
+×
+
+
+
+  Award at paras 172–173 (CMB at p 1824).
+
+
+
+ and that s 67 of the CA was not contravened because the object of the agreements was not to further an illegal purpose of providing financial assistance.
+                   78
+
+
+
+
+Foot Note 78
+
+×
+
+
+
+  Award at para 103 (CMB at p 1806).
+
+
+
+(b) The Tribunal dismissed the claim for INR401,00,00,000. The Tribunal held that cl 3(c) of the First Letter Agreement obliged the plaintiffs to pay to the defendants the 24% IRR, but that it was a penalty;
+                   79
+
+
+
+
+Foot Note 79
+
+×
+
+
+
+  Award at para 225 (CMB at p 1838).
+
+
+
+ the defendants were entitled to reasonable compensation,
+                   80
+
+
+
+
+Foot Note 80
+
+×
+
+
+
+  Award at para 214 (CMB at p 1836).
+
+
+
+ but they had “not put forward a position on the quantum of reasonable consideration” but had fallen back on their alternative damages claim.
+                   81
+
+
+
+
+Foot Note 81
+
+×
+
+
+
+  Award at para 234 (CMB at p 1840).
+
+
+
+(c) The Tribunal held that the defendants were entitled on that alternative claim to INR195,00,00,000 as damages for breach of the SPAs, calculated as the outstanding consideration payable thereunder.
+                   82
+
+
+
+
+Foot Note 82
+
+×
+
+
+
+  Award at para 260 (CMB at p 1848).
+
+
+
+43 The award of damages for breach of the SPAs is raised as another complaint under ground (d) in the Originating Summons.
+                   83
+
+
+
+
+Foot Note 83
+
+×
+
+
+
+  PS at para 106.
+
+
+
+Requests for adjournments of the Originating Summons44 The plaintiffs were granted one adjournment of the hearing of the Originating Summons, but were refused a further adjournment. I explain the circumstances, and the reasons for the refusal.45 The Originating Summons was filed in the General Division of the High Court on 6 April 2021. On 22 July 2021, the proceedings were transferred to the Singapore International Commercial Court. At a Case Management Conference on 25 August 2021, by which date the affidavit evidence of both sides had been filed, directions were given for sequential written submissions and the hearing was fixed for 27 October 2021.46 The plaintiffs’ submissions and the defendants’ responsive submissions, both of which were detailed, were filed. The plaintiffs’ submissions in reply were due on 22 October 2021. On 15 October 2021, the plaintiffs’ solicitors applied pursuant to Order 64 rule 5(1) of the Rules of Court (2014 Rev Ed) (“ROC”) for an order declaring that they had ceased to be the solicitor acting for the plaintiffs. The basis of the application was that, as further described below, the plaintiffs had not paid outstanding invoices and had not provided the requested deposit for fees and disbursements for the hearing. While ordinarily confidential between the solicitors and their clients, these matters became open for consideration in connection with the plaintiffs’ acknowledged financial stringency when applying for an adjournment.47 On 19 October 2021, an order was made as requested by the plaintiffs’ solicitors (hereafter, “the former solicitors”). The Registry emailed the plaintiffs directing that they inform the Registry whether they would be appointing new solicitors for the hearing on 27 October 2021. The response, on 20 October 2021, was a written request to extend the time for the submissions in reply and to reschedule the hearing “by at least 6–8 weeks” so that the plaintiffs could make alternative arrangements for representation. The email described why the plaintiffs’ “projects and revenue streams [had been] prejudicially and grossly affected” such that they “could not honour some of the fees payments” to the former solicitors.48 The defendants emailed the Registry on 21 October 2021, objecting to the plaintiffs’ request. The parties were informed that the hearing date of 27 October 2021 would remain, and that if the plaintiffs were not represented by solicitors, their representative would be heard on any application for an adjournment. Arrangements enabling appearance by an appointed representative were made modelled on O 1 r 9(2) of the ROC. From the decision of the Court of Appeal in Offshoreworks Global (L) Ltd v POSH Semco Pte Ltd [2021] 1 SLR 27 at [22] and [34], the plaintiffs as foreign corporations could not appear otherwise than by solicitors, but this expedient was adopted so that the plaintiffs could be heard on their request for an adjournment.49 The plaintiffs took up the arrangements. They replied to the defendants’ email by an email on 25 October 2021. All emails were before me on 27 October 2021 when the plaintiffs each appeared by their representative.50 It is necessary to say a little more of the failure to pay the former solicitors. The default began in late July 2021, when the plaintiffs short-paid a May invoice by a little more than S$3,600 with a promise of payment in the next invoice. The early August invoice for a little under S$7,000 was not paid, nor was the earlier outstanding amount. A September invoice for a little under S$43,000 as deposit for further work and the hearing was not paid. There were a number of promises of payment, none adhered to, until on 13 October 2021 the former solicitors advised that they would be applying to discharge themselves. From as early as mid-August 2021, and repeated thereafter, the former solicitors had told their clients that if payment was not made by the promised time, they might suspend work and apply to discharge themselves.
+                   84
+
+
+
+
+Foot Note 84
+
+×
+
+
+
+  Former solicitors’ affidavit dated 15 October 2021 at paras 12–13.
+
+
+
+51 By 27 October 2021, the plaintiffs had not explored alternative representation; the representatives said that they had hoped that the former solicitors would come back on board.
+                   85
+
+
+
+
+Foot Note 85
+
+×
+
+
+
+  27 October 2021 Minute Sheet at p 2.
+
+
+
+ When asked about funding, they said at one point that the plaintiffs would find the money, and that in the six weeks they would either get the former solicitors back on board or have alternative representation.
+                   86
+
+
+
+
+Foot Note 86
+
+×
+
+
+
+  27 October 2021 Minute Sheet at p 3.
+
+
+
+ Having heard both sides, over the defendants’ objection, I extended the time for the reply submissions to 22 November 2021 and adjourned the hearing to 26 November 2021.
+                   87
+
+
+
+
+Foot Note 87
+
+×
+
+
+
+  27 October 2021 Minute Sheet at p 5.
+
+
+
+ It was emphasised to the plaintiffs’ representatives that this was a last chance to find the money to re-engage the former solicitors or engage other solicitors, and that if this was not done it could appear that there was no point in further adjournment.
+                   88
+
+
+
+
+Foot Note 88
+
+×
+
+
+
+  27 October 2021 Minute Sheet at p 4.
+
+
+
+52 The reply submissions were not filed. On 25 November 2021, the day before the appointed hearing, the plaintiffs’ present solicitors filed a notice of their appointment on behalf of the plaintiffs. By email to the Registry, they advised that they would be applying for an adjournment of the hearing to “a date in mid-January 2022” and an extension of the time for filing the submissions in reply to seven days prior to that date.53 Also on 25 November 2021, the defendants emailed objecting to any such application. Both emails included submissions, and they also were before me on 26 November 2021, when Mr Joshua Chow appeared as counsel for the plaintiffs and Mr Prakash Pillai appeared as lead counsel for the defendants. Mr Chow made his application, and after hearing the parties I refused the plaintiffs’ application for a further adjournment of the hearing.54 Having been instructed the previous day, Mr Chow said that he was not in a position to satisfactorily argue the plaintiffs’ case. He submitted that substantive justice required that the plaintiffs have adequate representation,
+                   89
+
+
+
+
+Foot Note 89
+
+×
+
+
+
+  26 November 2021 Transcript at p 3 lines 3–6.
+
+
+
+ and that adjournment until mid-January 2022 would still leave disposal of the proceedings within “case management tolerances”.
+                   90
+
+
+
+
+Foot Note 90
+
+×
+
+
+
+  26 November 2021 Transcript at p 3 lines 16–18.
+
+
+
+ He referred to his email of 25 November 2021
+                   91
+
+
+
+
+Foot Note 91
+
+×
+
+
+
+  26 November 2021 Transcript at p 5 lines 12–17.
+
+
+
+ in which it was said that, on his clients’ instructions, the plaintiffs had not been dilatory, and between 8 and 25 November had approached five Singaporean law firms, the first four of which had declined engagement “with the reasons given for refusal including the short timelines and potential conflict(s) of interest”.
+                   92
+
+
+
+
+Foot Note 92
+
+×
+
+
+
+  Present solicitors’ 25 November 2021 Letter at para 7.
+
+
+
+ In anticipation of the defendants’ submissions, which had been foreshadowed in their email of 25 November 2021, he said that it was open to the defendants to take action to enforce the Award while the challenge to it in the Originating Summons was pending,
+                   93
+
+
+
+
+Foot Note 93
+
+×
+
+
+
+  26 November 2021 Transcript at p 3 line 24 to p 4 line 12.
+
+
+
+ and that the adjournment application in the arbitral proceedings was quite insufficient for a contention of repeated delay on the plaintiffs’ part.
+                   94
+
+
+
+
+Foot Note 94
+
+×
+
+
+
+  26 November 2021 Transcript at p 4 lines 13–19.
+
+
+
+55 Mr Pillai submitted that the defendants would be prejudiced by further delay in the hearing of the Originating Summons, which “creates a cloud over” enforcement of the Award and, depending on the jurisdiction of enforcement, could restrict doing so.
+                   95
+
+
+
+
+Foot Note 95
+
+×
+
+
+
+  26 November 2021 Transcript at p 10 line 6.
+
+
+
+ He submitted that the late engagement of the new solicitors and the further application for an adjournment were part of a pattern of conduct where the plaintiffs had repeatedly sought to delay, and that if the adjournment were granted there was no real likelihood that the position would not be the same in mid-January 2022.
+                   96
+
+
+
+
+Foot Note 96
+
+×
+
+
+
+  26 November 2021 Transcript at p 6 lines 26–29 and p 8 line 14 to p 9 line 26.
+
+
+
+56 Mr Chow’s submissions included that the new solicitors “do not expect our client to default on [fees]”. He said, in answer to my enquiry, that the firm had not yet been put in funds.
+                   97
+
+
+
+
+Foot Note 97
+
+×
+
+
+
+  26 November 2021 Transcript at p 12 lines 3–20.
+
+
+
+ In my view, that was a key matter in relation to adjournment, giving weight to Mr Pillai’s submission last mentioned.57 The amount outstanding to the former solicitors was not large, less than S$54,000, in comparison with the amount at stake being an award of INR195,00,00,000 (which is approximately S$35m) plus interest. Money was not found, despite promises, over a number of months prior to 27 October 2021. Effectively nothing was done to have representation from 13 October 2021, when the plaintiffs could not have been in doubt that they would lose the former solicitors, to 27 October 2021 – the asserted hope that the former solicitors would come back on board being shown to be hollow and not credible when even on 26 November 2021 no money was at hand.58 Even if an uplift be added for the new solicitors, a similarly relatively small amount had not been provided. That the plaintiffs had not put the new solicitors in funds, particularly when under the pressure of the hearing date of 26 November 2021 and the warning of a last chance on 27 October 2021, indicated that they were unwilling, but even if willing unable, to do so. Further, from the instructions as noted in the new solicitors’ letter of 25 November 2021, the plaintiffs had done nothing to approach Singaporean law firms in the period from 27 October 2021 to 8 November 2021; the letter refers to the Diwali public holiday in India in the week of 1 November 2021, but that was not a reason, in the circumstances, to fail to act in Singapore where (as Mr Pillai pointed out)
+                   98
+
+
+
+
+Foot Note 98
+
+×
+
+
+
+  26 November 2021 Transcript at p 7 lines 6–11.
+
+
+
+ the Diwali holiday occupied but a day.59 I accepted Mr Pillai’s submission of deliberate delay, but alternatively considered that no reason had been shown why the prolonged inability to raise the relatively small amount involved, if genuine, would not continue. For one or the other reason, I was not satisfied that there was point in an adjournment because I was not satisfied that there would be representation by the new solicitors, or other legal representation, for the hearing in mid-January 2022.60 While the plaintiffs submitted that in justice they should have adequate representation in pursuing their challenge to the Award, the defendants were entitled to have the challenge brought on for due hearing. I accepted that the pendency of the Originating Summons in practice impeded them from enforcing the Award, and they should not have to abide by the plaintiffs’ willingness or ability to fund their representation. Balancing the matters put to me, I considered that the plaintiffs had sufficient accommodation by the adjournment from 27 October 2021, and that a case for further adjournment had not been made out.61 After I refused the application, Mr Chow asked for and was given a short adjournment in order to take instructions.
+                   99
+
+
+
+
+Foot Note 99
+
+×
+
+
+
+  26 November 2021 Transcript at p 15 lines 1–20.
+
+
+
+ Upon resumption, as his submissions on the plaintiffs’ behalves he adopted the written submissions earlier filed by the former solicitors.
+                   100
+
+
+
+
+Foot Note 100
+
+×
+
+
+
+  26 November 2021 Transcript at p 15 lines 24–27.
+
+
+
+ Mr Pillai then made his oral submissions speaking to the defendants’ written submissions earlier filed. 62 Mr Chow asked that a day to be appointed at which he could make oral submissions on behalf of the plaintiffs. This I refused, as it would amount to a de facto adjournment when an adjournment had been refused.
+                   101
+
+
+
+
+Foot Note 101
+
+×
+
+
+
+ 26 November 2021 Transcript at p 15 line 28 to p 16 line 1, p 48 lines 3–5.
+
+
+
+ However, I gave leave to the plaintiffs to file within two weeks a written submission, being a submission in reply to the defendants’ written submissions earlier filed and to Mr Pillai’s oral submissions, with a page limit.
+                   102
+
+
+
+
+Foot Note 102
+
+×
+
+
+
+  26 November 2021 Transcript at p 48 lines 5–24.
+
+
+
+63 The written submission was provided on 10 December 2021 (“the reply submissions”). It exceeded the page limit (but see below at [64]). Mr Pillai had expressed concern that the submissions would “raise something new”,
+                   103
+
+
+
+
+Foot Note 103
+
+×
+
+
+
+  26 November 2021 Transcript at p 49 lines 2–3.
+
+
+
+ and that concern was realised in that a great deal of the reply submissions was a re-statement and in some respects expansion of the plaintiffs’ arguments in the earlier written submissions plus, egregiously, an entirely new public policy argument resurrecting ground (e) in the Originating Summons,
+                   104
+
+
+
+
+Foot Note 104
+
+×
+
+
+
+  Plaintiffs’ Reply Submissions dated 10 December 2021 (“PRS”) at paras 35–43.
+
+
+
+ which had been expressly abandoned in those earlier submissions.
+                   105
+
+
+
+
+Foot Note 105
+
+×
+
+
+
+  PS at p 2, footnote 6.
+
+
+
+ On 15 December 2021, the defendants wrote to the Registry noting the page excess and objecting to the public policy argument.
+                   106
+
+
+
+
+Foot Note 106
+
+×
+
+
+
+  Defendants’ Letter dated 15 December 2021 at paras 3–8.
+
+
+
+64 There was some confusion over the page limit: it was 20 pages, but the transcript erroneously recorded 30 pages (which the reply submissions were within), and in the circumstances I overlook the page excess. As to the submissions not being in reply, rather than exclude them entirely, or permit more delay requiring amended submissions, I accepted their filing. I did not think that the re-statement of the arguments in the earlier written submissions required a response from the defendants, but I do not permit the resurrection of ground (e) as that would be contrary to the refusal of the adjournment.Ground (a): Article 34(2)(a)(iii) – Exceeding the Scope of Submission to ArbitrationPreliminary matters65 The plaintiffs made two submissions under this ground, accompanied by a third submission on arbitrability not correctly within it. I will deal with the submissions in turn, in the order in the written submissions; but first, some discussion of Article 34(2)(a)(iii) of the Model Law.66 The Article relevantly provides:(2) An arbitral award may be set aside by the court specified in Article 6 only if:(a) the party making the application furnishes proof that:…(iii) the award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the award which contains decisions on matters not submitted to arbitration may be set aside …67 The question is whether the tribunal has determined a dispute not submitted to it, or an issue within a dispute which issue was not submitted to it. In keeping with the consensual basis of an arbitration, as the tribunal has no authority to determine a dispute or an issue not submitted to it, such a determination will not be binding on the parties, and it may be set aside.68 The dispute or issue submitted to arbitration can be distinguished from the subject-matter of the arbitration agreement itself. As the Court of Appeal said in PT Prima International Development v Kempinski Hotels SA and other appeals [2012] 4 SLR 98 (“PT Prima”) at [32]:An arbitration agreement is merely an agreement between parties to submit their disputes for arbitration. The disputes submitted for arbitration determine the scope of the arbitration. It is plain that the scope of an arbitration agreement in the broad sense is not the same as the scope of the submission to arbitration. The former must encompass the latter, but the converse does not necessarily apply, in that the particular matters submitted for arbitration may not be all the matters covered by the arbitration agreement. The parties to an arbitration agreement are not obliged to submit whatever disputes they may have for arbitration. Those disputes which they choose to submit for arbitration will demarcate the jurisdiction of the arbitral tribunal in the arbitral proceedings between them. An arbitral tribunal has no jurisdiction to resolve disputes which have not been referred to it in the submission to arbitration. …69 As described below, the plaintiffs’ submissions on jurisdiction (in which I do not include their submission on arbitrability) were not concerned with what disputes, or what issues within a dispute, had been submitted to arbitration. They challenged the applicability of the agreement to submit disputes to arbitration, contending that the defendants’ claims in the arbitrations were within the ambit of the arbitration agreements in the SSHAs rather than those in the SPAs and the First Letter Agreement.
+                   107
+
+
+
+
+Foot Note 107
+
+×
+
+
+
+  PS at paras 83–89.
+
+
+
+ The defendants submitted that this jurisdictional challenge was not one which could be mounted under Article 34(2)(a)(iii) of the Model Law, because the ground was concerned only with the scope of the submission to arbitration.
+                   108
+
+
+
+
+Foot Note 108
+
+×
+
+
+
+  Defendants’ Submissions dated 12 October 2021 (“DS”) at para 4.2.14.
+
+
+
+70 That is not correct, and PT Prima does not have that effect. In Swissbourgh Diamond Mines (Pty) Ltd and others v Kingdom of Lesotho [2019] 1 SLR 263, the Kingdom sought to set aside an award made in an investor-state arbitration pursuant to Article 34(2)(a)(iii) on the ground that preconditions to a submission to arbitration had not been satisfied, so that the tribunal had no jurisdiction at all in respect of the dispute (at [55] and [59]). Swissbourgh submitted that the court had no jurisdiction to set the award aside, because the ground was confined to decision of matters not submitted to the tribunal (at [57] and [66]). It was held that the phrase “submission to arbitration” in Article 34(2)(a)(iii) of the Model Law was not limited to the submission in the particular arbitral proceeding, and extended to where the tribunal did not have jurisdiction over the dispute under the arbitration agreement. After a detailed consideration, the Court said (at [79]):Thus, a dispute that is referred to arbitration by an investor who purports to rely on the arbitration clause contained in the investment treaty, but which is found to fall outside the scope of that clause (and accordingly, of the State’s offer to arbitrate) should be considered to fall outside the scope of the arbitration agreement and ‘the terms of the submission to arbitration’ under Art 34(2)(a)(iii) because in such a case, the State would not, in fact, have agreed to arbitrate such a dispute.71 The defendants’ submission in this respect, therefore, cannot be accepted. Noting that the plaintiffs’ jurisdictional challenge was dismissed by the Tribunal but not taken on appeal or application pursuant to s 10 of the IAA and/or Article 16(3) of the Model Law, there may be a different question whether the plaintiffs are precluded from taking up the challenge in a setting-aside application: see Rakna Arakshaka Lanka Ltd v Avant Garde Maritime Services (Pte) Ltd [2019] 2 SLR 131 at [75] and PT First Media TBK (formerly known as PT Broadband Multimedia TBK) v Astro Nusantara International BV and others and another appeal [2014] 1 SLR 372 especially at [132]. However, the defendants did not so submit, and accordingly I say no more of the matter.First submission: the defendants’ claims were not within the arbitration clauses in the SPAs or First Letter Agreement 72 The plaintiffs submitted that the dispute was “within the ambit of” the SSHAs, as opposed to the SPAs and the First Letter Agreement. Their submission was not clearly expressed,
+                   109
+
+
+
+
+Foot Note 109
+
+×
+
+
+
+  PS at paras 83 and 87.
+
+
+
+ but the plaintiffs meant that the governing arbitration clauses were therefore those in the SSHAs, providing for a three-member tribunal, which includes two retired judges, and for arbitration in Mumbai under the AC Act (see above at [17]), and not those in the SPAs and the First Letter Agreement providing for the SIAC arbitrations (see above at [19]–[21]). As such, the Tribunal had no authority to determine the dispute.
+                   110
+
+
+
+
+Foot Note 110
+
+×
+
+
+
+  PS at para 89.
+
+
+
+73 The plaintiffs’ argument can be summarised as follows.(a) The SSHAs provided for the exit mechanisms in the event that a Listing Event did not occur, including the 24% IRR. The exit mechanisms were not exercised; instead, the parties entered into the SPAs and other agreements on 28 September 2015.
+                   111
+
+
+
+
+Foot Note 111
+
+×
+
+
+
+  PS at paras 84–85.
+
+
+
+(b) But the First Letter Agreement provided that the rights of the defendants under the SSHAs were only suspended, and would revive if the plaintiffs failed to pay under the SPAs.
+                   112
+
+
+
+
+Foot Note 112
+
+×
+
+
+
+  PS at para 87(b).
+
+
+
+ The defendants’ claims were based on that failure to pay
+                   113
+
+
+
+
+Foot Note 113
+
+×
+
+
+
+  PS at para 89.
+
+
+
+ and, via cl 3(c) of the First Letter Agreement, were primarily for the 24% IRR amount payable under the SSHAs.
+                   114
+
+
+
+
+Foot Note 114
+
+×
+
+
+
+  PS at para 88(a).
+
+
+
+(c) Because the claim was based upon the revival of the SSHA rights and the relief claimed flowed “substantively” from the SSHAs, the arbitration clauses in the SSHAs should apply, not the arbitration clauses in the SPAs and the First Letter Agreement.
+                   115
+
+
+
+
+Foot Note 115
+
+×
+
+
+
+  PRS at para 15; PS at para 89.
+
+
+
+74 I will call this “the Revival Argument”. It was submitted that “a holistic reading” of the collection of agreements should be adopted, indeed that Indian law required that they be read as a single agreement,
+                   116
+
+
+
+
+Foot Note 116
+
+×
+
+
+
+  PS at para 87.
+
+
+
+ and that any other result “would be to collapse the agreements unto one another, and defy the clearly distinct arbitration agreements agreed to between the parties in respect of the SSHAs and the SPAs”.
+                   117
+
+
+
+
+Foot Note 117
+
+×
+
+
+
+  PS at para 89.
+
+
+
+ It was said that the result was supported by the facts that the defendants’ claims in the arbitrations included the claim to the 24% IRR amount and that the defendants “continue to hold on to the shares which were the subject of the SPAs”, and that there were (otherwise) no sums payable under the SSHAs at the time.
+                   118
+
+
+
+
+Foot Note 118
+
+×
+
+
+
+  PS at paras 88–89.
+
+
+
+75 The argument cannot be accepted. To begin with, it ignores that Twarit is a party to and promisor under the SPAs and the First Letter Agreement, but not a party to the SSHAs,
+                   119
+
+
+
+
+Foot Note 119
+
+×
+
+
+
+  This was acknowledged by the plaintiffs: see PS at para 15.
+
+
+
+ and it ignores that there was a clear claim to relief in the alternative to the 24% IRR amount (see above at [39]). Even as to the 24% IRR amount, the defendants were not claiming in the exercise of a revived right found in the SSHAs: although cl 3(a) of the First Letter Agreement allowed them to exercise the rights under the SSHAs,
+                   120
+
+
+
+
+Foot Note 120
+
+×
+
+
+
+  CMB at p 445.
+
+
+
+ they did not do so, but claimed the separately conferred entitlement under cl 3(c) of the First Letter Agreement for which the 24% IRR was part of the calculation (see above at [38]).
+                   121
+
+
+
+
+Foot Note 121
+
+×
+
+
+
+  Statement of Claim at para 32(a) (CMB at pp 834–835).
+
+
+
+ More fundamentally, the essence of the argument is that the dispute falls within the arbitration clauses in the SSHAs; it does not, for the above reasons, but that answers the wrong question. The claim was for damages for breach of the SPAs triggering the cl 3(c) entitlement or entitlement to damages on the alternative basis. The question is whether there is a “Dispute” within that term in the arbitration clauses in the SPAs and the First Letter Agreement. There plainly is, as a disputed claim (rightly or wrongly made) between the defendants and the plaintiffs as parties thereto (including Twarit), a claim for damages for breach of and so in connection with or arising out of those agreements.Second submission: the defendants’ claims were not arbitrable76 The plaintiffs submitted in the written submissions that “the underlying transaction” under the SPAs and the First Letter Agreement was illegal and/or void under Indian law, because it violated the FEMA and the regulations thereunder and also violated s 67 of the CA.
+                   122
+
+
+
+
+Foot Note 122
+
+×
+
+
+
+  PS at para 90.
+
+
+
+ This, they submitted, rendered the dispute non-arbitrable because it falls within the class of “disputes which are of a public character and disputes whose outcome will affect the interests of persons beyond the immediate disputants”, citing BTY v BUA and other matters [2019] 3 SLR 786 (“BTY”) and Tomolugen Holdings Ltd and another v Silica Investors Ltd and other appeals [2016] 1 SLR 373 (“Tomolugen”). It was in that class, they said, because the legality or otherwise of the transaction would have an impact not only on the other parties to the SSHAs and the SPAs, in particular Haldia, but also on “the regulators and other stakeholders with an interest in [Haldia’s] insolvency proceedings”.
+                   123
+
+
+
+
+Foot Note 123
+
+×
+
+
+
+  PS at para 93.
+
+
+
+77 There is an initial difficulty. That a dispute is not arbitrable is a different ground for setting aside an award from those in the Originating Summons. Article 34(2)(b)(i) of the Model Law provides:(2) An arbitral award maybe set aside by the court specified in Article 6 only if:…(b) the court finds that:(i) the subject-matter of the dispute is not capable of settlement by arbitration under the law of this State …78 In their written submissions, the plaintiffs listed the “relevant prescribed grounds for setting aside an award” on which they relied, being the grounds in the Originating Summons except ground (e).
+                   124
+
+
+
+
+Foot Note 124
+
+×
+
+
+
+  PS at para 73 (see PS at p 2, footnote 6).
+
+
+
+ They did not apply to or purport to extend the grounds, leaving Article 34(2)(a)(iii) as the only possible candidate; but it is not the vehicle for the submission. The defendants took the point, and even in the reply submissions the plaintiffs did not seek to apply to rely on the further ground or otherwise respond to the point.79 The defendants nonetheless addressed the submission, and I will do the same. There is no merit in it.80 In Tomolugen, the Court of Appeal said (at [71]):… The absence of arbitrability has come to be associated with that class of disputes which are thought to be incapable of settlement by arbitration. The concept of arbitrability has a reasonably solid core. It covers matters which ‘so pervasively involve ‘public’ rights and concerns, or interests of third parties, which are the subjects of uniquely governmental authority, that agreements to resolve … disputes [over such matters] by ‘private’ arbitration should not be given effect’… However, the outer limits of its sphere of application are less clear. Lord Mustill and Stewart Boyd QC, for instance, suggest that ‘[i]t would be wrong … to draw … any general rule that criminal, admiralty, family or company matters cannot be referred to arbitration’ …81 The court noted (at [75]) that the concept of arbitrability finds legislative expression in s 11 of the IAA. It provides that any dispute which the parties have agreed to submit to arbitration under an arbitration agreement may be determined by arbitration unless it is contrary to public policy to do so, and the Court continued:75 … It is evident from this that the essential criterion of non-arbitrability is whether the subject matter of the dispute is of such a nature as to make it contrary to public policy for that dispute to be resolved by arbitration. Beyond this, the scope and extent of the concept of arbitrability has been left undefined, as a consequence of which, it falls to the courts to trace its proper contours … 76 In our judgment, the effect of s 11 of the IAA is that there will ordinarily be a presumption of arbitrability so long as a dispute falls within the scope of an arbitration clause. This presumption may be rebutted by showing that … :(a) Parliament intended to preclude a particular type of dispute from being arbitrated (as evidenced by either the text or the legislative history of the statute in question); or(b) it would be contrary to the public policy considerations involved in that type of dispute to permit it to be resolved by arbitration.82 It is important to remember that the public policy here in play is not the public policy in play under Article 34(2)(b)(ii) of the Model Law. It is the public policy concerning whether a dispute can be arbitrated, not the public policy concerning whether an award should be set aside, which is a different matter.83 Examples of non-arbitrability given by the court in Tomolugen at [77]–[78] included a claim under the bankruptcy avoidance provisions (referring to Larsen Oil and Gas Pte Ltd v Petroprod Ltd (in official liquidation in the Cayman Islands and in compulsory liquidation in Singapore) [2011] 3 SLR 414 (“Larsen Oil”), a case which will feature more in the analysis below), and a claim to have an insolvent company wound up; but it was held at [88] and [97] that a claim of minority oppression was arbitrable even though the tribunal could not grant some of the relief which might be sought.84 The discussion of arbitrability in BTY was obiter. The Judge postulated, but did not decide, that a claim to have accounts lodged with the Accounting and Regulatory Authority (“ACRA”) expunged from ACRA’s records was not arbitrable, because the outcome could affect a public register and therefore could affect third parties who may have acted in reliance on the accuracy of the register (at [158]–[160]). That is remote from the present case. In the sentence on which the plaintiffs relied, the Judge paraphrased Tomolugen as saying that at the core of the class of disputes not capable of settlement by arbitration “are disputes which are of a public character and disputes whose outcome will affect the interests of persons beyond the immediate disputants”. That is apposite on the facts of BTY. However, it remains necessary to consider whether in the particular case the presumption of arbitrability has been rebutted.85 More instructive in relation to the present case, in which the plaintiffs invoked Haldia’s insolvency proceedings, is the Judge’s consideration (at [150]–[153]) of Larsen Oil. A company’s liquidators claimed to avoid payments made under a management agreement. The refusal of a stay in favour of arbitration under an arbitration clause in the management agreement was upheld by the Court of Appeal, on the ground that the claim was not arbitrable amongst other reasons. His Honour pointed to the distinction drawn in Larsen Oil between a dispute arising only upon insolvency and by reason only of the insolvency regime, and a dispute arising from the insolvent company’s pre-insolvency rights and obligations. The former was held to be not arbitrable; the latter was considered to be arbitrable, at least where the substantive rights of the creditors were not affected. Bearing these in mind, simply referring to Haldia’s insolvency proceedings will not do. The dispute must be examined to see whether it arises from or its determination is subject to the insolvency regime.86 The plaintiffs’ written submissions did not expand upon the bald assertion that the legality or otherwise of the transaction had an impact on the regulators and other stakeholders with an interest in Haldia’s insolvency proceedings; they did, however, expressly abandon the contention that Indian law provides for a particular dispute resolution mechanism to cover the defendants’ claims in the arbitrations. The reply submissions added the equally bald assertion that the outcome of the dispute would have “an impact of a public nature considering that [SEPC] is a public limited company”.
+                   125
+
+
+
+
+Foot Note 125
+
+×
+
+
+
+  PRS at para 30.
+
+
+
+ That SEPC is a public company in no way makes a dispute to which it is a party non-arbitrable, and if that was seriously meant it was an absurd proposition.87 I doubt that the written submissions included that Haldia’s insolvency proceedings meant that, as a process, the dispute was not arbitrable. The plaintiffs’ assertion was of an impact on various entities, not on process, and it abandoned any assertion that a particular (other) dispute resolution mechanism was necessary. However, the moratorium was referred to in the defendants’ submissions,
+                   126
+
+
+
+
+Foot Note 126
+
+×
+
+
+
+  DS at para 5.2.8(a), footnote 122, see Sridharan at para 30 (CMB at p 26).
+
+
+
+ and the reply submissions ventured into process by relying on it.
+                   127
+
+
+
+
+Foot Note 127
+
+×
+
+
+
+  PRS at para 32.
+
+
+
+ The moratorium was declared on 11 July 2017, as part of the insolvency proceedings, by the National Company Law Tribunal at Chennai. The plaintiffs submitted that the Tribunal erred in dealing with the dispute despite the Chennai tribunal’s direction, which the plaintiffs stated as the direction that “no Court or arbitration proceedings could be commenced in respect of, or involving, Haldia (including any share transfers)”.
+                   128
+
+
+
+
+Foot Note 128
+
+×
+
+
+
+  PRS at para 32.
+
+
+
+88 For a number of reasons, the submission is misconceived. First, that was not the direction given, and it is difficult to see how the submission could have been made. The moratorium prevented the commencement or continuation of proceedings against Haldia, dealing with its assets, enforcement of security given by it and recovery of property in its possession.
+                   129
+
+
+
+
+Foot Note 129
+
+×
+
+
+
+  Order of the India National Company Law Tribunal Division Bench, Chennai (CMB at pp 622–625).
+
+
+
+ It did not impede the commencement or continuation of the arbitrations, to which Haldia was not a party, nor was it submitted to the Tribunal in the non-arbitrability part of the jurisdictional challenge that it did. Secondly, even if the direction had been as stated by the plaintiffs, I do not see why that would have rendered the dispute non-arbitrable. The question in rebutting the presumption of arbitrability is whether the dispute is of a kind that must be resolved by a process other than arbitration. That question is not answered by an embargo on any process of resolution at all; the embargo may mean that the arbitrations were irregularly commenced or continued, but that is a different matter. Thirdly, the order admitting Haldia into the insolvency proceedings and the moratorium were set aside by the Appellate Tribunal on 19 July 2018 – as was pointed out in the defendants’ written submissions and referred to in a separate segment of the plaintiffs’ reply submissions.
+                   130
+
+
+
+
+Foot Note 130
+
+×
+
+
+
+  DS at para 5.2.8(a); PRS at para 57.
+
+
+
+89  The reply submissions asserted another matter, a moratorium imposed in 2018 in insolvency proceedings concerning SEPC with the same prevention of the commencement or continuation of proceedings against SEPC.
+                   131
+
+
+
+
+Foot Note 131
+
+×
+
+
+
+  PRS at para 33.
+
+
+
+ This was a new matter to which the defendants have not had the opportunity to respond, and it should not be permitted. In any event, as stated above, I do not see why that would have rendered the dispute non-arbitrable.90 Returning to Tomolugen at [76] and the assertion of an impact on various entities, the dispute did not arise from Haldia’s rights and obligations at all, whether pre-insolvency process or post-insolvency process. It was not a party to the arbitrations and no relief was sought against it. The submission had to be to the effect that the dispute was not arbitrable because it required a decision of whether the transaction was legal or illegal, and permitting that decision to be made by the Tribunal would offend public policy because of the impact on the other parties, on Haldia, and on the unidentified regulators and other stakeholders.91 The plaintiffs’ written submissions included argument for the contention that the “underlying transaction” was illegal and/or void because of violation of the FEMA and the regulations thereunder and of s 67 of the CA. The Tribunal has held otherwise in response to illegality arguments, once in dismissing the jurisdictional challenge and definitively in the Award. I do not think that the merits of the contention arises in my considering arbitrability, because the question is whether the dispute, relevantly that part of it in which the illegality or otherwise of the transaction is in issue, can be resolved by arbitration, and that question is not answered by deciding the issue by saying whether there is or is not illegality. In any event, while I see no reason to disagree with the Tribunal’s rejection of the contention, there is no substance in the submission that the dispute is not arbitrable because it requires a decision on illegality.92 To repeat, Haldia is not a party to the arbitrations and not bound by a decision on illegality. Nor are any of the other parties to the various agreements apart from the plaintiffs and the defendants. There may or may not be an economic effect on them of the outcome in the arbitrations, or of the decision on illegality, but that does not make the dispute non-arbitrable. Disputes over the illegality of a transaction are not uncommon in arbitral proceedings, and there is no reason why they cannot be decided by an arbitrator instead of a judge. The regulators or other stakeholders, whatever that may mean, are no more or less affected by an arbitrator’s decision than by a judge’s decision.93 The presumption of arbitrability is not rebutted. The second submission fails.Third submission: the Tribunal’s decision was outside the submission to arbitration94 The plaintiffs’ submission was in the terms that the hearing of the defendants’ claims in the arbitrations constituted a decision beyond the scope of the submission to arbitration.
+                   132
+
+
+
+
+Foot Note 132
+
+×
+
+
+
+  PS at paras 94–96.
+
+
+
+ The hearing of the claims was not a decision, and Article 34(2)(a)(iii) of the Model Law speaks of the award and of the decisions contained in it. The submission must be understood as a submission that the Award, or the decision of the dispute in the arbitrations contained in the Award, was beyond the scope of the submission to arbitration.95 The argument in support of the submission was by incorporation of the Revival Argument put forward in support of the first submission. It was said that the only practical or sensible way to understand the defendants’ claim was as a claim “for a breach of the SSHAs, or at least arising out of the SSHAs”,
+                   133
+
+
+
+
+Foot Note 133
+
+×
+
+
+
+  PS at para 95.
+
+
+
+ and that “it is the arbitration agreements in the SSHAs that governs [sic] the dispute, not that in the SPAs and the Letter Agreements”.
+                   134
+
+
+
+
+Foot Note 134
+
+×
+
+
+
+  PS at para 96.
+
+
+
+96 It is sufficient to repeat the rejection of the Revival Argument.Ground (b): Article 34(2)(a)(iv) – composition of the Tribunal and arbitral procedure not as agreed97 The Article relevantly provides: (2) An arbitral award may be set aside by the court specified in Article 6 only if:(a) the party making the application furnishes proof that:…(iv) the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties, unless such agreement was in conflict with a provision of this Law from which the parties cannot derogate, or, failing such agreement, was not in accordance with this Law …98 The plaintiffs’ complaint was as to the composition of the Tribunal. It was the sole SIAC arbitrator, not the panel of three arbitrators, two of whom are to be retired judges, required by the arbitration clauses in the SSHAs. The plaintiffs submitted that because the arbitrations should have been pursuant to the arbitration agreements in the arbitration clauses in the SSHAs, the arbitral tribunal was improperly constituted. Again, the argument in support of the submission was by incorporation of the Revival Argument, with the contention that the defendants should have commenced the arbitrations pursuant to the arbitration agreements contained in the SSHAs.
+                   135
+
+
+
+
+Foot Note 135
+
+×
+
+
+
+  PS at paras 97–99.
+
+
+
+99 It is sufficient again to repeat the rejection of the Revival Argument.Grounds (c) and(d): Article 34(2)(a)(ii) and s 24(b) – lack of proper notice, inability to present case and breach of the rules of natural justicePreliminary matters100 These grounds are conveniently dealt with together. The plaintiffs relied on two matters for both ground (c) and ground (d), being the refusal of an adjournment of the evidentiary hearing and the refusal to exclude the evidence of the defendants’ Indian law expert (see at [31] above),
+                   136
+
+
+
+
+Foot Note 136
+
+×
+
+
+
+  PS at paras 100–105.
+
+
+
+ and on a third matter for ground (d) alone, being the Tribunal’s award of a total of INR195,00,00,000 as damages (see at [33] above).
+                   137
+
+
+
+
+Foot Note 137
+
+×
+
+
+
+  PS at paras 106–110.
+
+
+
+101 Article 34(2)(a)(ii) of the Model Law relevantly provides:(2) An arbitral award may be set aside by the court specified in Article 6 only if:(a) the party making the application furnishes proof that:…(ii) the party making the application was not given proper notice of the appointment of an arbitrator or of the arbitral proceedings or was otherwise unable to present his case …102 Section 24(b) of the IAA relevantly provides:24. Notwithstanding Article 34(1) of the Model Law, the General Division of the High Court may, in addition to the grounds set out in Article 34(2) of the Model Law, set aside the award of the arbitral tribunal if –…(b) a breach of the rules of natural justice occurred in connection with the making of the award by which the rights of any party have been prejudiced.103 The plaintiffs’ complaint in relation to the first two matters was as to their inability to present their case and, as the breach of the rules of natural justice, a denial of their right to be heard.
+                   138
+
+
+
+
+Foot Note 138
+
+×
+
+
+
+  PS at para 100.
+
+
+
+ The denial of the right to be heard was also the complaint in relation to the third matter.
+                   139
+
+
+
+
+Foot Note 139
+
+×
+
+
+
+  PS at para 107.
+
+
+
+104 The inability to present one’s case and a denial of one’s right to be heard are closely related. In the full discussion by the Court of Appeal in China Machine New Energy Corp v Jaguar Energy Guatemala LLC and another [2020] 1 SLR 695 (“China Machine”) at [88]–[89], it is said that the expression of the right to be heard in Article 18 of the Model Law, providing that each party “shall be given a full opportunity of presenting his case”, finds teeth in Article 34(2)(a)(ii) of the Model Law and s 24(b) of the IAA, and the requirements of Article 18 are described at [90] as embodying basic notions of fairness and fair process. The court’s summary of the applicable principles, at [104], is:(a) The parties’ right to be heard in arbitral proceedings finds expression in Art 18 of the Model Law, which provides that each party shall have a ‘full opportunity’ of presenting its case. An award obtained in proceedings conducted in breach of Art 18 is susceptible to annulment under Art 34(2)(a)(ii) of the Model Law and/or s 24(b) of the IAA.(b) The Art 18 right to a ‘full opportunity’ of presenting one’s case is not an unlimited one. It is impliedly limited by considerations of reasonableness and fairness.(c) What constitutes a ‘full opportunity’ is a contextual inquiry that can only be meaningfully answered within the specific context of the particular facts and circumstances of each case. The overarching inquiry is whether the proceedings were conducted in a manner which was fair, and the proper approach a court should take is to ask itself if what the tribunal did (or decided not to do) falls within the range of what a reasonable and fair-minded tribunal in those circumstances might have done.(d) In undertaking this exercise, the court must put itself in the shoes of the tribunal. This means that: (i) the tribunal’s decisions can only be assessed by reference to what was known to the tribunal at the time, and it follows from this that the alleged breach of natural justice must have been brought to the attention of the tribunal at the material time; and (ii) the court will accord a margin of deference to the tribunal in matters of procedure and will not intervene simply because it might have done things differently.105 More generally as to setting aside an arbitral award for breach of natural justice under s 24(b) of the IAA, the party must establish (a) which rule of natural justice was breached; (b) how it was breached; (c) in what way the breach was connected to the making of the award; and (d) how the breach could or did prejudice the party’s rights: Soh Beng Tee & Co Pte Ltd v Fairmount Development Pte Ltd [2007] 3 SLR(R) 86 (“Soh Beng Tee”) at [29]; China Machine at [86]. In China Machine at [87], citing Soh Beng Tee, it is said succinctly that the authorities make clear “that the threshold for a finding of breach of natural justice is a high one, and that it is only in exceptional cases that a court will find that threshold crossed”.First matter: refusal of an adjournment of the evidentiary hearing 106 The plaintiffs said that on 31 January and 1 February 2020, they informed the Tribunal that they were in the process of engaging alternative external counsel, and indicated that they would seek consequential modifications to the procedural timetable once they had done so.
+                   140
+
+
+
+
+Foot Note 140
+
+×
+
+
+
+  PS at para 103(a)(i).
+
+
+
+ Late on 4 February 2020, they said, their newly appointed counsel Mr Vishnu Mohan informed the Tribunal that they were “still in the midst of” engaging Senior Counsel, and requested that the evidentiary hearing (then fixed for 2–5 March 2020) be adjourned to 11–15 May 2020, because there was less than a month for the yet to be appointed Senior Counsel to “get up on the case” and prepare for the hearing.
+                   141
+
+
+
+
+Foot Note 141
+
+×
+
+
+
+  PS at para 103(a)(ii); Sridharan at para 60 (CMB at p 41).
+
+
+
+ As earlier explained, the request was denied. The plaintiffs submitted that the right to be heard included the right to choose their representation, citing CGS v CGT [2021] 3 SLR 672 at [12],
+                   142
+
+
+
+
+Foot Note 142
+
+×
+
+
+
+  PS at para 101.
+
+
+
+ and that the refusal of the adjournment impeded their ability to present their case and their right to be heard.107 More should be said of the circumstances of the refusal of the adjournment.108  The plaintiffs had initially been represented by in-house lawyer(s).
+                   143
+
+
+
+
+Foot Note 143
+
+×
+
+
+
+  See Sridharan at paras 44–46 (CMB at pp 31–32).
+
+
+
+ By August 2018, external lawyers were on record as their counsel. PO 1 had been issued on 10 August 2018,
+                   144
+
+
+
+
+Foot Note 144
+
+×
+
+
+
+  Sridharan at para 47 (CMB at p 32).
+
+
+
+ the hearing dates had been fixed by October 2019,
+                   145
+
+
+
+
+Foot Note 145
+
+×
+
+
+
+  CMB at p 965 (Preamble (D)).
+
+
+
+ and all evidentiary materials had been submitted by 7 January 2020.
+                   146
+
+
+
+
+Foot Note 146
+
+×
+
+
+
+  Sridharan at para 58 (CMB at pp 40–41).
+
+
+
+ In the adjournment application on 4 February 2020, it was said that the then counsel had “withdrawn”, and that the new lawyers had not yet received the papers.
+                   147
+
+
+
+
+Foot Note 147
+
+×
+
+
+
+  CMB at p 1007; Abhinav Jain’s factual affidavit at para 73(a) (CMB at p 2072).
+
+
+
+ The defendants objected, saying that the pleadings were not voluminous and detailed submissions had already been provided, and that so far as the plaintiffs said that Senior Counsel was to be engaged, they had had adequate time to engage Senior Counsel earlier on.
+                   148
+
+
+
+
+Foot Note 148
+
+×
+
+
+
+  CMB at p 1003; Abhinav Jain’s factual affidavit at para 74 (CMB at p 2072).
+
+
+
+109 The Tribunal emailed on 6 February 2020, dismissing the request for an adjournment.
+                   149
+
+
+
+
+Foot Note 149
+
+×
+
+
+
+  Sridharan at para 62 (CMB at p 42).
+
+
+
+ The Tribunal referred to the fixing of the hearing dates long ago, and said that so far as the plaintiffs wished to appoint Senior Counsel, they had had adequate time to do so. He noted that the plaintiffs’ “previous legal team did not include a Senior Counsel”. He said that the plaintiffs had “provided few details on the circumstances of the withdrawal of their previous counsel, including the reasons for the same and the date they became aware of their counsel’s intention to withdraw”. He continued:
+                   150
+
+
+
+
+Foot Note 150
+
+×
+
+
+
+  CMB at p 1013.
+
+
+
+3.  In any event, I consider that the Respondents’ new counsel have adequate time to prepare written opening statements and prepare for the hearing. All pleadings, factual evidence and expert evidence have been filed and are not voluminous. Without exhibits, they stand at 136 pages, 31 pages and 105 pages respectively. I have also considered the parties’ respective lists of issues.4. I note and accept that the Claimants have made travel, accommodation and other arrangements, including arranging for the appearance of two expert witnesses. Rule 19.1 of the SIAC Rules 2016 requires the Tribunal to conduct the arbitration in such a manner as to ensure the ‘fair, expeditious, economical and final resolution of the dispute’. It would not be in the interests of an expeditious and economical resolution of this dispute to adjourn the hearing in circumstances where the parties have adequate time to prepare for the same.110  Mr Mohan wrote again on 8 February 2020, repeating the request and canvassing the reasons given by the Tribunal.
+                   151
+
+
+
+
+Foot Note 151
+
+×
+
+
+
+  CMB at p 1011.
+
+
+
+ The defendants responded.
+                   152
+
+
+
+
+Foot Note 152
+
+×
+
+
+
+  Sridharan at para 62 (CMB at p 42).
+
+
+
+ On 10 February 2020 the Tribunal confirmed the dismissal of the request, having considered the additional matters put to him and saying that he was satisfied that the plaintiffs’ counsel had sufficient time to prepare, for the reasons set out in his earlier emails.
+                   153
+
+
+
+
+Foot Note 153
+
+×
+
+
+
+  CMB at pp 1021–1022.
+
+
+
+111 Returning to the plaintiffs’ complaint in the present case, it was said that the Tribunal’s conduct was not what a reasonable and fair-minded arbitrator might have done, and that the plaintiffs’ ability to present their case and their right to be heard had been prejudiced. The prejudice was simply asserted, on the basis that the newly appointed counsel had less than a month to get up on the case and prepare for the hearing.112 I do not accept the plaintiffs’ complaint. In fact, the plaintiffs had a team of counsel at the hearing, including Mr Mohan. Their counsel filed opening submissions, conducted the hearing including cross-examination, filed closing submissions, and requested and participated in a hearing of oral closing submissions. No protest was made that counsel was prejudiced by dismissal of the application to adjourn the evidentiary hearing. The refusal of the adjournment was well within the Tribunal’s discretion and consistent with fair conduct of the arbitral proceedings, and in the circumstances neither an unfair or unreasonable impediment to the presentation of the plaintiffs’ case nor a prejudicial denial of the right to be heard. The Tribunal was in a position to assess the adequacy of the time available to incoming counsel, and other than by assertion no reason has been shown for the assessment being wrong or unreasonable or resulting in prejudice – on the contrary, counsel appear to have been able fully to fulfil their role.113 It may be noted that in the reply submissions, responding to the defendants’ submission that there was no more than a bare allegation of prejudice because the newly appointed counsel had less than a month to get up on the case and prepare for the hearing, the plaintiffs simply again asserted that they were “in fact unable to present its [sic] case properly”,
+                   154
+
+
+
+
+Foot Note 154
+
+×
+
+
+
+  PRS at para 64.
+
+
+
+ without any attempt to support that equally bare allegation.Second matter: refusal to exclude the evidence of the Indian Law expert114 The plaintiffs submitted that there was an agreed and contemplated procedure for the parties to present legal arguments by way of submissions, but that the defendants tendered as evidence the expert report of Mr Vikram Nankani on Indian law. This, they said, caught them by surprise, and led to their application to exclude the report. In their written submissions, they were pleased to describe it as an ambush on them. The Tribunal refused the application,
+                   155
+
+
+
+
+Foot Note 155
+
+×
+
+
+
+  PS at para 103(b).
+
+
+
+ and their counsel thereafter cross-examined Mr Nankani. In the plaintiffs’ submission, the refusal also impeded their ability to present their case and their right to be heard.
+                   156
+
+
+
+
+Foot Note 156
+
+×
+
+
+
+  PS at para 105.
+
+
+
+115 As with the first matter, some more should be said of these circumstances. In particular, the plaintiffs’ claim that there was the “agreed and contemplated procedure” cannot be accepted.116 PO 1, issued on 16 August 2018, included that “[t]he Parties may offer the testimony of expert witnesses, which shall be subject to the directions set out above for fact witnesses, mutatis mutandis”.
+                   157
+
+
+
+
+Foot Note 157
+
+×
+
+
+
+  CMB at p 655.
+
+
+
+ Mr Nankani’s report was filed on 6 December 2019.
+                   158
+
+
+
+
+Foot Note 158
+
+×
+
+
+
+  Sridharan at para 58.1 (CMB at p 40).
+
+
+
+ On 8 January 2020, the plaintiffs’ lawyers sent a brief email to the Tribunal, saying that the plaintiffs “do not wish to submit a responsive witness statement in the above captioned arbitration proceedings”.
+                   159
+
+
+
+
+Foot Note 159
+
+×
+
+
+
+  CMB at p 2109.
+
+
+
+ On 15 February 2020, as part of an email in anticipation of a pre-hearing conference on 25 February 2020, they wrote:
+                   160
+
+
+
+
+Foot Note 160
+
+×
+
+
+
+  CMB at p 2110.
+
+
+
+… The request for the deposition of Claimant’s [sic] expert witness to be done through video conferencing, as requested by the Claimants, may be dealt with appropriately by the Tribunal. The Respondents do not have any serious objection to the same, subject to protocol for conduct of the examination through video conferencing being agreed by all.117 On 25 February 2020, however, the plaintiffs requested that the Tribunal “may kindly consider not receiving the statement of Mr Nankani in evidence as it, in its entirety, does not relate to a question of fact but instead pertains to the legal issues which are to be adjudicated by the Arbitral Tribunal”. The reason given was:
+                   161
+
+
+
+
+Foot Note 161
+
+×
+
+
+
+  CMB at p 1025.
+
+
+
+The Respondents submit that restricting the evidence of parties to questions of fact would be apposite not only as a matter of legal procedure but also from the perspective of costs and the time of the parties and the Arbitral Tribunal. Hence, we invite the Tribunal to consider passing appropriate orders as per Rule 25.1 and 25.2 of the SIAC Rules by limiting the evidence of parties to questions of fact and not of law.118 It will be noted that the reason given was not that the report of Mr Nankani had been provided contrary to an “agreed and contemplated procedure”. On the contrary, PO 1 clearly contemplated that there could be expert evidence by witness statement, in context being or including expert evidence of Indian law, and there was no protest of departure from an agreed and contemplated procedure when Mr Nankani’s report was filed, when video conferencing was raised, or as a reason in support of the request to decline to receive it in evidence.119 Written submissions were exchanged in accordance with the Tribunal’s directions, and on 29 February 2020 the Tribunal dismissed the request to exclude Mr Nankani’s report.
+                   162
+
+
+
+
+Foot Note 162
+
+×
+
+
+
+  CMB at p 1064.
+
+
+
+ From the Tribunal’s reasons, the plaintiffs’ submissions had now included a procedural complaint. In the reasons, the Tribunal summarised the plaintiffs’ “objections” as that PO 1 did not contemplate the admission of expert evidence on questions of law; that the expert evidence mechanism was not suited to dealing with questions of law; that the Tribunal should not delegate the determination of Indian law or the application of Indian law to an expert witness; and that consideration of costs and time warranted the exclusion of Mr Nankani’s report. At this point still, it was not said by the plaintiffs that receiving the report would be contrary to the positive of an agreed and contemplated procedure: the complaint was the negative, ie, that its receipt was not contemplated.120  The Tribunal said that PO 1 did not preclude the submission of expert evidence on questions of Indian law, referring to the paragraph stating that the parties may offer the testimony of expert witnesses. For reasons he gave, he said he was not persuaded that he could conclude that there was no utility in receiving Mr Nankani’s evidence or hearing cross-examination on the same. He said that Mr Nankani’s appearance at the hearing did not mean that his evidence would be accepted without question and that the plaintiffs, if they so desired, would be given a fair opportunity to confront Mr Nankani in cross-examination and make submissions on his evidence as well as put their own position on Indian law: there would not be a delegation of the application of Indian law to the facts to Mr Nankani. As to costs and time, he was not satisfied that Mr Nankani’s evidence would be of limited utility, and costs were not the only concern: the Tribunal had an obligation to ensure a fair, expeditious, economical and final resolution of the dispute, and in that regard the plaintiffs had not previously objected to Mr Nankani’s evidence and it would be unfair to the defendants to exclude it on an application made less than one week before the hearing. The fairest way forward was to allow Mr Nankani to appear at the hearing and for the parties to submit on the relevance, materiality and admissibility of his evidence in closing submissions.
+                   163
+
+
+
+
+Foot Note 163
+
+×
+
+
+
+  CMB at pp 1064–1065.
+
+
+
+121 As earlier noted, the plaintiffs did cross-examine Mr Nankani. They were represented throughout the arbitrations by a team of counsel qualified in Indian law. The Tribunal made clear that he expected full submissions on Indian law from the plaintiffs’ counsel, and extensive submissions on Indian law were made. At no time was there complaint that the plaintiffs or their counsel were prejudiced through themselves not adducing expert evidence on Indian law.122 It was well open to the Tribunal to rule as he did, carefully and explaining his reasons. It could not be said that his ruling was outside what a reasonable and fair-minded tribunal might have done, nor does it appear that there was any prejudice to the plaintiffs in the conduct of their case. In the reply submissions, responding to the defendants’ description of the second matter as an afterthought, it is said that the plaintiffs were denied the opportunity to adequately address and/or respond to the points on Indian law raised at the evidential hearing,
+                   164
+
+
+
+
+Foot Note 164
+
+×
+
+
+
+  PRS at paras 64–68. 
+
+
+
+ but again this is only an assertion without any attempt to support it. I do not accept the plaintiffs’ complaint in the second matter either.Third matter: the award of damages123 I have described above at [33] the Tribunal’s award of INR195,00,00,000 as damages. The plaintiffs submitted that the award was made in breach of the rules of natural justice, specifically in breach of their right to be heard, because the defendants had not submitted in the arbitrations that they should be awarded damages for breach of the SPAs and it “ignored the fact that this resulted in a windfall to [the defendants]”.
+                   165
+
+
+
+
+Foot Note 165
+
+×
+
+
+
+  PS at paras 106–110.
+
+
+
+124 The submission was presented by the plaintiffs as a complaint that the Tribunal had gone beyond the defendants’ case as presented in the arbitration,
+                   166
+
+
+
+
+Foot Note 166
+
+×
+
+
+
+  PS at para 108(e).
+
+
+
+ not that the Tribunal had gone beyond the defendants’ case as pleaded. The case as pleaded, however, cannot be ignored in considering the complaint. While it could not be called a model pleading, in the Statement of Claim the defendants clearly claimed damages for breach of the SPAs and the First Letter Agreement, with the alternative claim to relief a clear claim to damages of INR195,00,00,000 as an amount equivalent to the amount due under the outstanding thirteen tranches in the SPAs.
+                   167
+
+
+
+
+Foot Note 167
+
+×
+
+
+
+  Statement of Claim at paras 25–26 (CMB at pp 831–832) and para 28 (CMB at p 833).
+
+
+
+ A demonstration that this was not maintained in the defendants’ conduct of the arbitrations was necessary.125 No such demonstration was attempted by the plaintiffs. They alleged that “it was the Arbitrator who unilaterally reframed the claim as arising from a breach of the SPAs in the Award”, without giving them the opportunity to present their arguments on the issue,
+                   168
+
+
+
+
+Foot Note 168
+
+×
+
+
+
+  PS at para 108(g).
+
+
+
+ and that they were thereby prejudiced because had the Tribunal heard arguments from them, he could reasonably have arrived at a different result.
+                   169
+
+
+
+
+Foot Note 169
+
+×
+
+
+
+  PS at para 109(c).
+
+
+
+ But no reference was made by the plaintiffs to the transcript of the hearing, to the written opening or closing submissions, to the Award, or to anything else to support the allegation. While the plaintiffs’ argument rested on a negative (that the defendants had not submitted that they should be awarded damages for breach of the SPAs), the beginning of establishing the negative was what the defendants had submitted during the arbitral proceedings.126 In fact, the defendants did maintain the pleaded alternative claim, and the plaintiffs had full opportunity to respond to it.(a) The defendants’ written opening submissions were largely directed to the claim calculated as the 24% IRR less the amount paid under the SPAs, but included a proleptic answer to a contention by the plaintiffs that, for reasons stated, the defendants were not entitled to damages calculated as the unpaid consideration amount less the value of the shares. The submission was made that even if the damages were computed in that manner “which is denied”, the defendants’ claim was “fully sustainable and ought to be granted”. In context, the “which is denied” was an expression that the primary claim was to damages calculated as the 24% IRR less the amount paid under the SPAs.
+                   170
+
+
+
+
+Foot Note 170
+
+×
+
+
+
+  Brief written opening statements on behalf of the claimants at para 36(f) (CMB at pp 1052–1053).
+
+
+
+(b) The plaintiffs’ written opening submissions explicitly recognised that the defendants “seek damages of INR195,00,00,000/- being an amount equivalent to the sums due under the SPAs, or such amount to be determined by the Tribunal”.
+                   171
+
+
+
+
+Foot Note 171
+
+×
+
+
+
+  Opening statement on behalf of the respondents at para 4 (CMB at p 1059).
+
+
+
+(c) The defendants’ written closing submissions included:
+                   172
+
+
+
+
+Foot Note 172
+
+×
+
+
+
+  CMB at pp 1674 and 1680.
+
+
+
+61. The alternate claim for damages for INR 195 Crores is based on the fact that the Company was in insolvency on the date of the repudiatory breach of the SPAs. The value of the shares of the Company effectively became nil in July 2017 …62. In view of the value of the shares being nil/negligible on and after the date of repudiation of the SPAs by the Respondents, the claim of the Claimants for damages is equivalent to the remaining consideration under the SPAs, which does not change the character of the claim from damages to specific performance as wrongly alleged by the Respondents.…78. It is worth reiterating that even if Clause 3(c) of the LA is found to somehow provide for more than ‘reasonable compensation’ (which is denied), the Claimants remain entitled to the lesser sum of damages of INR 195 Crores plus interest. This is the alternate prayer in the Statement of Claim.(d) The plaintiffs’ written closing submissions, which were filed contemporaneously with the defendants’ written closing submissions, included the contention that the only damages claimable for breach of a contract for sale or purchase of shares was an amount being the difference between the price of the shares and the market price on the date of breach – apparently, as an answer to the claim to damages calculated as the 24% IRR amount less the amount paid under the SPAs – and made submissions against damages so arrived at.
+                   173
+
+
+
+
+Foot Note 173
+
+×
+
+
+
+  CMB at pp 1694–1696 and 1721.
+
+
+
+(e) The defendants’ written reply submissions took the contention as such an answer, and responded to it.
+                   174
+
+
+
+
+Foot Note 174
+
+×
+
+
+
+  CMB at pp 1746–1749.
+
+
+
+127 In the Award, the Tribunal’s summary of the defendants’ arguments on the alternative claim to damages included taking up the language of para 62 set out at [126(c)] above as the basis of the claim.
+                   175
+
+
+
+
+Foot Note 175
+
+×
+
+
+
+  Award at para 237(d) (CMB at pp 1841–1842).
+
+
+
+ It is not correct that the Tribunal unilaterally re-framed the claim without the plaintiffs having the opportunity to present their arguments. The Tribunal considered and determined the claim as presented to him. Whether or not he was correct in his determination is not a matter for debate in the Originating Summons. The complaint of denial of natural justice cannot be accepted.128 I record that the plaintiffs referred to authorities for denial of natural justice if the tribunal decides the case on a point that he invents for himself,
+                   176
+
+
+
+
+Foot Note 176
+
+×
+
+
+
+  PS at para 108(b).
+
+
+
+ or fails to consider an important issue in the case.
+                   177
+
+
+
+
+Foot Note 177
+
+×
+
+
+
+  PS at para 108(c).
+
+
+
+ Nothing of that kind has been shown, and it is not necessary to go into the authorities. I record also that at one point in the written submissions concerning the award of damages the plaintiffs also said that the Tribunal “[impeded] the Applicants’ ability to present its case”.
+                   178
+
+
+
+
+Foot Note 178
+
+×
+
+
+
+  PS at para 110.
+
+
+
+ For the reasons above, he did not.129 The relevance to denial of natural justice of the assertion that there was a windfall to the defendants is not clear, and was not explained. If there was a windfall, that would go to the merits of the Tribunal’s calculation of the damages as the amount outstanding under the SPAs; the plaintiffs’ submissions before the Tribunal raised the point, and the merits are not for debate in the Originating Summons. As the defendants pointed out,
+                   179
+
+
+
+
+Foot Note 179
+
+×
+
+
+
+  DS at para 6.5.13.
+
+
+
+ their case for the damages in the arbitrations included that the shares were of no value.Ground (e): Article 34(2)(b)(ii) – conflict with the public policy of Singapore130 No submissions were made in support of this ground in the plaintiffs’ written submissions. It was not in the listing in those submissions of the “relevant prescribed grounds for setting aside an award” on which the plaintiffs relied, and it was said expressly in those submissions that the plaintiffs “will no longer be pursuing their case on breach of public policy (pursuant to Article 34(2)(b)(ii))”.
+                   180
+
+
+
+
+Foot Note 180
+
+×
+
+
+
+  PS at p 2, footnote 6.
+
+
+
+ The ground was abandoned. As earlier noted, in the reply submissions it was resurrected, but I do not permit the resurrection.Conclusion131 The Originating Summons is dismissed. The plaintiffs should pay the defendants’ costs, but with liberty to the parties to apply if they wish to contend for an additional or different order. The parties should file and exchange written submissions on the amount of costs, limited to five pages, within 21 days; any application pursuant to the liberty to apply is to be included in the written submissions, with an additional page limit of five pages. Unless a party requests an opportunity for oral submissions, costs will be determined on the papers.Roger GilesInternational JudgeMohamed Baiross, Rabi Ahmad s/o Abdul Ravoof, Joshua Chow Shao Wei (IRB Law LLP) for the plaintiffs;Prakash Pillai, Koh Junxiang, Charis Toh Si Ying (Clasis LLC) for the defendants. 
