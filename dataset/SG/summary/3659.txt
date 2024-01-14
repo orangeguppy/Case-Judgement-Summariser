@@ -1,0 +1,257 @@
+
+
+ 
+
+
+SUPREME COURT OF SINGAPORE
+
+
+13 September 2019
+
+
+Case summary
+
+
+
+The Enterprise Fund III Ltd and others v OUE Lippo Healthcare Ltd
+(formerly known as International Healthway Corp Ltd)
+
+[2019] SGCA 48 
+
+
+Civil Appeal No 119 of 2018
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+
+Decision of the Court of Appeal (delivered by Chief Justice Sundaresh
+Menon)
+
+
+
+Outcome: Court of Appeal dismisses appeal and upholds High Court’s
+decision that the respondent’s indirect acquisition of its own shares by
+way of a three-step transaction with the appellants contravened the
+prohibition against a company acquiring its own shares and was therefore
+void.
+
+
+Pertinent and significant points of the judgment:
+
+
+
+
+    Even those parts of a transaction that are not the final or most
+    proximate step in a series of steps taken to effect a company’s
+    acquisition of its own shares might nonetheless be caught by the
+    prohibition in s 76(1A)(a)(i) of the Companies Act against
+    a company acquiring its own shares if they are sufficiently
+    proximate to the share acquisition. Whether there is sufficient
+    proximity depends on the commercial substance of the transaction:
+    at [50]–[52].
+    
+
+
+
+    Section 76A(1A) of the Companies Act, which saves a share
+    acquisition that is prohibited by s 76(1A)(a)(i) from
+    being made void if it involves a “disposition of book-entry
+    securities”, applies only where there is a transfer of shares
+    involving a change in the legal title to the shares: at            [98]–[103].
+    
+
+
+
+Background to the appeal
+1     The respondent (“IHC”) is a company incorporated in Singapore and
+listed on the Catalist board of the Singapore Exchange (“SGX”). The
+appellants (the “Crest Funds”) are three investment funds under the
+Crest umbrella of companies (“Crest entities”).
+        
+2     In early April 2015, IHC, after noticing an unusual sale pattern of
+its shares, considered that there was a high probability that it
+would be the subject of a short-selling attack. To defend IHC
+against such an attack, IHC’s representative, Mr Andrew Aathar (“Mr
+Aathar”), asked the Crest entities to provide a standby facility of
+$20m for use against the attack.
+        
+3     The Crest entities agreed to this, and a standby facility agreement
+(the “Standby Facility Agreement”) was entered into, by which a
+standby facility in the principal amount of $20m (the “Standby
+Facility”) was made available to IHC. Various security agreements
+securing the Standby Facility (the “supporting security
+agreements”) were also entered into. The Crest entities which were
+the original parties to the Standby Facility Agreement were later
+replaced by the Crest Funds.
+ 
+4     Mr Aathar suggested to the Crest entities that instead of
+disbursing the funds under the Standby Facility to IHC to be paid
+to a broker to fund the purchase of IHC shares, the Crest entities
+could purchase the shares on IHC’s behalf through their own broker.
+The Crest entities’ representative, Mr Tan Yang Hwee (“Mr Tan”),
+agreed to this approach as it seemed to avoid a circuitous
+arrangement and also gave the Crest entities additional security in
+respect of drawdowns on the Standby Facility.
+        
+5     Between 16 April and 24 August 2015, the first appellant (“EFIII”)
+made 14 drawdowns on the Standby Facility, amounting in total to
+$17,332,081.15, to purchase IHC shares on the open market. Each of
+those acquisitions (the “open market acquisitions”) was made at the
+behest and on the instructions of Mr Aathar on IHC’s behalf. The
+IHC shares purchased by EFIII were held on trust for IHC (the
+“trust arrangement”).
+        
+6     On 9 September 2015, SGX issued an announcement advising
+shareholders and potential investors to exercise caution in dealing
+with IHC shares as it appeared that connected parties were trading
+IHC shares amongst themselves. IHC’s share price plummeted as a
+result. Following this announcement, IHC defaulted on the Standby
+Facility.
+        
+7     On 23 January 2017, IHC’s board of directors was removed in its
+entirety by IHC’s shareholders. After taking over control of IHC,
+the new board discovered that the transaction by which IHC acquired
+its own shares (the “Transaction”) contravened the Companies Act
+(Cap 50, 2006 Rev Ed) (the “CA”). On 8 March 2017, IHC gave the
+Crest Funds written notice that it wished to avoid the acquisition
+of its shares by EFIII and the Standby Facility. The Crest Funds
+replied through their solicitors denying that the share acquisition
+and the Standby Facility were void or voidable.
+        
+8     IHC then commenced an action in the High Court for declarations
+that the Standby Facility and the supporting security agreements
+(collectively, the “loan agreements”) as well as EFIII’s
+acquisition of IHC shares on IHC’s behalf were voidable, and had
+been avoided by way of IHC’s written notice of 8 March 2017.
+        
+
+The decision below
+9     The High Court judge (“the Judge”) found that the Transaction
+comprised three components. First, there was the trust arrangement,
+by which EFIII held the IHC shares which it purchased on the open
+market on trust for IHC. Second, there were the open market
+acquisitions, by which EFIII acquired IHC shares. Third, there were
+the loan agreements, by which funds were made available to IHC to
+acquire its own shares.
+        
+10     The Judge held that the trust arrangement and the open market
+acquisitions contravened the prohibition in s 76(1A)(a)(i)
+of the CA against a company acquiring, “whether directly or
+indirectly, in any way”, its own shares, but the open market
+acquisitions were saved by s 76A(1A) from being made void pursuant
+to s 76A(1)(a). The loan agreements were voidable under s
+76A(2) for being related to the prohibited acquisition of IHC
+shares, and had been avoided by IHC by way of its written notice of
+8 March 2017. IHC thus bore no contractual obligation or liability
+whatsoever to the Crest Funds in respect of the Transaction.
+        
+
+The Court of Appeal’s decision
+
+
+Characterisation of the Transaction
+11     The Court of Appeal (“the Court”) began by examining the ambit of a
+prohibited indirect acquisition by a company of its own shares for
+the purposes of s 76(1A)(a)(i). It held that even those
+parts of a transaction that were not the final or most proximate
+step in a series of steps taken to effect a company’s acquisition
+of its own shares might nonetheless be caught by the prohibition if
+they were sufficiently proximate to the intended outcome of the
+company acquiring its own shares. Whether there was sufficient
+proximity would depend on the commercial substance of the
+transaction, which would necessarily be fact-specific and vary from
+case to case: at [50]–[52].
+        
+12     In assessing the commercial substance of an impugned transaction,
+it was useful to consider the rationale behind the prohibition in s
+76(1A)(a)(i). There were two core strands within the
+rationale, namely, maintenance of a company’s share capital and
+protection of its assets. A transaction which caused a company’s
+capital and/or assets to be depleted or put at risk would readily
+be found to be caught by the prohibition and rendered void by s
+76A(1)(a). That said, given the wide language used in s
+76(1A)(a)(i), a transaction might still be found to be
+caught by the prohibition even if it did not deplete or put at risk
+a company’s capital and/or assets: at [53],            [63] and [64].
+ 
+13In this case, the entire Transaction, comprising the loan
+agreements, the open market acquisitions and the trust arrangement,
+constituted a single, composite transaction that was caught by the
+prohibition in s 76(1A)(a)(i). It was clear that the trust
+arrangement and the open market acquisitions stood together as a
+matter of commercial substance. Each of the 14 drawdowns on the
+Standby Facility was used to purchase IHC shares, and each of those
+share purchases was made at the behest and on the instructions of
+Mr Aathar representing IHC. The loan agreements, too, were
+inseparable from the open market acquisitions and the trust
+arrangement. This was because the Crest Funds knew from the outset
+that the Standby Facility would be used to purchase IHC shares, and
+this purpose was carried into effect by one of the Crest Funds
+itself, when EFIII executed IHC’s instructions, as given by Mr
+Aathar, to purchase IHC shares. Without the loan agreements having
+been entered into, IHC would not have been put in funds to purchase
+its own shares. Hence, the Transaction as a whole was void pursuant
+to s 76A(1)(a), subject to any part being saved by s
+76A(1A): at [66]–[69] and            [73]–[83].
+        
+
+
+
+The scope of the saving provision in s 76A(1A) of the CA
+        
+14     The Court then considered the saving provision in s 76A(1A) of the
+CA, which dis-applies the voiding provision in s 76A(1)(a)
+in respect of “disposition[s] of book-entry securities”. The Court
+examined the legislative history and the text of s 76A(1A), and was
+satisfied that the provision had a very specific provenance lying
+in a suite of amendments intended to put into effect the
+introduction of a scripless trading system, namely, the Central
+Depository System: at [95].
+      
+15     The Court held that s 76A(1A) applied only to the open market
+acquisitions of IHC shares, but, contrary to the Crest Funds’
+contention, not to the trust arrangement. This was because a
+“disposition” within the meaning of s 76A(1A) entailed a change in
+the legal title to the shares or securities concerned. The trust
+arrangement did not involve any such transfer of legal title as IHC
+was never given the legal title to the IHC shares which EFIII
+purchased on the open market: at [97]–            [103].
+        
+
+
+IHC was not estopped from avoiding the loan agreements
+16     The Court turned finally to consider the Crest Funds’ argument that
+IHC was estopped from avoiding the loan agreements by virtue of
+certain representations it had made in the Standby Facility
+Agreement that: (a) the entry into the Standby Facility Agreement
+would not contravene any laws; and (b) it would take all necessary
+steps to enable it lawfully to enter into the Standby Facility: at            [110]–[112].
+        
+17     The Court held that IHC was not estopped from avoiding the loan
+agreements. To permit such an estoppel to apply would be to allow
+the estoppel impermissibly to operate in defiance of a statute, in
+that the estoppel would have the effect of creating a state of
+affairs where the Transaction was not void when s 76A(1)(a
+) clearly made it void (apart from the open market acquisitions,
+which were saved by s 76A(1A)): at [122] and            [126].
+        
+
+Conclusion
+18     The result was that the entire Transaction amounted to a prohibited
+indirect acquisition by IHC of its own shares, which contravened s
+76(1A)(a)(i) and was made void by s 76A(1)(a),
+with the exception of the open market acquisitions, which were
+saved by s 76A(1A). The practical result of this was that EFIII was
+the legal and beneficial owner of the IHC shares it acquired
+through the open market acquisitions, and IHC owed no contractual
+obligations or liability to the Crest Funds under the loan
+agreements as they were void: at [134] and            [136].
+        
+This summary is provided to assist in the understanding of the
+Court’s judgment. It is not intended to be a substitute for the
+reasons of the Court. All numbers in bold font and square
+brackets refer to the corresponding paragraph numbers in the
+Court’s judgment.
+            

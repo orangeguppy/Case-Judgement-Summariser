@@ -1,0 +1,56 @@
+
+SUPREME COURT OF SINGAPORE
+6 April 2018
+Case summary
+PT Sandipala Arthaputra and others v ST Microelectronics Asia Pacific Ltd and others
+Civil Appeal No 106 of 2017
+-----------------------------------------------------------------------------------------------------
+Decision of the Court of Appeal (delivered by Justice Steven Chong):
+The Court of Appeal holds that a director will ordinarily be immune from liability in tort for authorising or procuring his company's breach of contract in his capacity as a director, unless his decision is made in breach of any of his personal  legal duties to the company.   
+
+Background
+
+
+1          PT Sandipala Arthaputra (“Sandipala”) is an Indonesian company that manufactures electronic identification cards. In November 2011, it contracted to buy 100m microchips from a Singapore company called Oxel Systems Pte Ltd (“Oxel”) for US$60m. The microchips were to be manufactured by another Singapore company, STMicroelectronics Asia Pacific Pte Ltd (“ST-AP”), and encoded with Oxel’s software. Sandipala in turn wanted to use these Oxel chips to fulfil a contract with the Indonesian government to produce for Indonesian citizens electronic identification cards called “e-KTP cards”. ([1] and [7]–[9])
+
+
+2          Sandipala took delivery of the first batch of 10m Oxel chips in December 2011. In January 2012, Sandipala allegedly realised for the first time that Oxel’s software on those chips was incompatible with the e-KTP system. Sandipala then sought the Indonesian government’s approval to modify the system to accommodate the Oxel chips, but this was denied. Oxel also refused Sandipala’s request for a temporary reduction of its order of 100m Oxel chips, stating that Sandipala had committed to that order. From February to April 2012, Sandipala proceeded to reject delivery of and withhold payment on six shipments of a total of 6,457,414 Oxel chips. ([14]–[15])
+
+
+3          In June 2012, Sandipala sued Oxel and other parties for, among other things, breach of the contract concluded in November 2011. Sandipala also alleged that Oxel had fraudulently misrepresented that (a) the Oxel chips would be identical to a microchip manufactured by ST-AP that had allegedly been tested by the Indonesian government when it was evaluating a tender submitted by the consortium of companies of which Sandipala was a part; and (b) Oxel was the exclusive distributor of ST-AP’s microchips. Oxel counterclaimed against Sandipala for breach of the same contract. It also claimed that Sandipala and its directors, Mr Paulus Tannos and Ms Catherine Tannos, had conspired to cause Oxel loss by seeking to extricate, by unlawful means, Sandipala from its obligations under the contract. ([9], [11] and [17])
+
+
+The High Court’s decision
+
+
+4          The High Court Judge dismissed Sandipala’s claims on the facts. He found that ST-AP had no involvement in the tender evaluation, and therefore the different type of microchip from ST-AP that Sandipala claimed was tested at the evaluation did not even exist then. He also found that Sandipala through Mr Tannos knew at all times that the Oxel chips were incompatible with the e-KTP system, but was simply unconcerned about this fact. In addition, the Judge found that ST-AP itself had offered to sell microchips to Sandipala. This made it highly improbable that Mr Tannos believed that Oxel was the exclusive distributor of ST-AP’s microchips. It followed from these findings that no misrepresentations of the kind Sandipala had alleged could have been made, and there could not have been an implied term in the parties’ contract that the Oxel chips would be e-KTP compatible. ([19]–[21] and [39])
+
+
+5          The Judge allowed Oxel’s claim against Sandipala for breach of the contract, on the ground that Sandipala had wrongfully rejected delivery of the Oxel chips and wrongfully refused to pay for them. The Judge also found Sandipala and the Tannoses liable for having conspired to cause Oxel economic loss by unlawful means. They did this, the Judge found, by creating a false paper trail to establish a claim against Oxel, pressuring Oxel with a false claim and causing to be published false articles about Oxel. The Judge awarded Oxel approximately US$21.8m and S$39.2m in damages. ([22]–[25])
+
+
+The Court of Appeal’s decision
+
+
+6          Sandipala appealed, arguing that the Judge was wrong to find that (a) Sandipala knew at the time of contracting that the Oxel chips were incompatible with the e-KTP system; and (b) Oxel did not misrepresent that it was the exclusive distributor of ST-AP’s microchips. Sandipala also argued that the Judge was wrong to find that Oxel could do nothing to mitigate its loss due to the lack of an available market for the Oxel chips. The Court of Appeal rejected all of these arguments, largely for the reasons given by the Judge. ([34]–[38], [42]–[47] and [87])
+
+
+7          However, the Court allowed Sandipala’s appeal against the Judge’s decision to allow Sandipala’s counterclaim in conspiracy. The basic legal question raised by that counterclaim was whether a director should be held personally liable for the consequences arising from his company’s breach of contract, to which only the company, and not him, is party. The answer to that question had always been taken to be the principle stated in an English case decided in 1920 called Said v Butt, which is that if a director acts in good faith within the scope of his authority, then he is immune from liability in tort for procuring his company’s breach of contract. But the precise scope of the principle in Said v Butt was unclear, both in Singapore and in other common law jurisdictions. ([53], [55] and [57])
+
+
+8          The Court thus elucidated the principle in Said v Butt as follows: a director would ordinarily be immune from liability in tort for authorising or procuring his company’s breach of contract in his capacity as a director, unless his decision is made in breach of any of his personal legal duties to the company. This principle is to operate as an element of liability, and not as a defence, such that the onus is on the plaintiff to prove that a defendant-director’s act was performed in breach of such a duty. Such a breach might, for example, be a breach of his fiduciary duty to act in the company’s best interest or a breach of his contractual duty towards the company to act within the scope of his authority as granted by the company. Thus, the principle focuses on the director’s conduct and intention, not in relation to the third party, but in relation to his company, specifically in terms of whether he has breached his personal duties towards his company. ([65]–[66])
+
+
+9          The Court reached this view for three main reasons. First, by leaving the propriety of a director’s conduct to be regulated by the existing law on a director’s personal duties, the Court’s approach to Said v Butt avoids difficulties as to what it means to act in good faith and whether a predominant intention to cause harm to the innocent party is sufficient to take the director out of the protection of the principle. Second, aligning the principle of Said v Butt with that existing body of law fairly and properly gives a director adequate protection from personal liability through the company’s legal personality, on the condition that he has acted within his duties to the company. Third, the Court’s approach to Said v Butt satisfactorily explains the existing case law. ([68]–[70])
+
+
+10          The Court then discussed the question whether the principle in Said v Butt, as interpreted by the Court, would apply to absolve directors from personal liability for a company’s torts, as opposed to a company’s breach of contract, which this case involved. The Court observed that there were different views, but did not consider it necessary to resolve the issue as it did not arise on the facts. ([74]–[79])
+
+
+11          In this case, the Court concluded that to the extent that the Tannoses directed Sandipala’s breach of contract, they were entitled to the protection of the principle in Said v Butt. Sandipala had breached its contract with Oxel in February 2012 at the latest, when it began wrongfully rejecting delivery of the Oxel chips. However, all the acts relied upon by Oxel as acts in furtherance of the conspiracy which the Judge accepted had occurred post-breach and were thus not unlawful acts in procuring the breach, Further there was no evidence that in directing this breach, the Tannoses were acting in breach of their personal duties to Sandipala. ([80]–[83])
+
+
+12          The result is that the Tannoses were not liable in the tort of conspiracy by unlawful means for directing Sandipala’s breach of its contract with Oxel. Hence, although Sandipala would remain liable for the consequences of that breach, the Tannoses would not be personally liable for the same. ([84])
+
+
+This summary is provided to assist in the understanding of the Court’s grounds of decision. It is not intended to be a substitute for the reasons of the Court. All numbers in bold font and square brackets refer to the corresponding paragraph numbers in the Court’s grounds of decision.

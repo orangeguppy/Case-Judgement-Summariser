@@ -1,0 +1,882 @@
+
+In the court of appeal of the republic of singapore[2018] SGCA 65Civil Appeal No 159 of 2017BetweenVinmar Overseas (Singapore) Pte Ltd… Appellant AndPTT International Trading Pte Ltd… Respondent judgment[Conflict of Laws] — [Choice of jurisdiction] — [Exclusive][Contract] — [Contractual terms]This judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in LawNet and/or the Singapore Law Reports.Vinmar Overseas (Singapore) Pte Ltd vPTT International Trading Pte Ltd[2018] SGCA 65Court of Appeal — Civil Appeal No 159 of 2017Sundaresh Menon CJ, Andrew Phang Boon Leong JA, Judith Prakash JA,Tay Yong Kwang JA and Steven Chong JA31 July 201822 October 2018 Judgment reserved.Steven Chong JA (delivering the judgment of the court):1 Exclusive jurisdiction clauses are ubiquitous provisions in international commercial contracts. Owing to the transnational dimensions of such contracts, including the nationalities of the parties and the place(s) of performance, parties typically agree to refer all disputes arising from such contracts to a particular jurisdiction in an effort to avoid disputes over the proper forum. Quite often, to minimise or eliminate any disagreement over the effect of such clauses, parties would provide for the selected forum to have exclusive jurisdiction.2 Regardless of the reason for the choice of the agreed forum, an exclusive jurisdiction clause has full contractual force unless and until it is invalidated. However, courts have somewhat whittled down the contractual force of such clauses. Where a plaintiff begins proceedings in breach of an exclusive jurisdiction clause, and the defendant applies for a stay on the basis of the clause, the court may examine the merits of the claim in order to determine whether there is any purpose in staying the proceedings. Such an approach has been rationalised on the basis that absent any merits in the defence, a defendant does not genuinely desire trial in the selected foreign court and accordingly, the court should exercise its discretion to refuse a stay. To hold otherwise, the courts have reasoned, would be to permit an abuse of process.3 Yet this approach would only be consistent with the parties’ jurisdiction agreement if the parties had intended the jurisdiction clause to apply only in the event of a genuine dispute. In other words, the approach assumes that the parties intended to exclude the application of the clause in the most obvious cases of liability. Such a theory does not accord with commercial reality. In agreeing to an exclusive jurisdiction clause, the parties express a clear desire in advance of any dispute that a selected court will hear the case whatever the merits of the claim. This must be so because parties would have no idea how a dispute would arise or pan out.4 There can be no doubt that parties attach considerable importance to exclusive jurisdiction clauses. This is entirely understandable as they are usually an integral part of the commercial agreement, without which the agreement may never have been formed. The fact that parties place much significance on such clauses is perhaps best exemplified by the volume of stay applications reaching this court for final determination. The volume of these cases may well have been the unintended consequence of the existing law. Much time and resources have been expended to address the hitherto crucial merits issue.5 This appeal raises the interesting issue of whether we should depart from a long line of authorities laid down by this court, where we held that the merits of a defence, or lack thereof, are relevant in deciding whether proceedings should be stayed to give effect to an exclusive jurisdiction clause. In the courts below, the assistant registrar (“the AR”) and the High Court Judge (“the Judge”) found themselves bound by this line of precedents, and thus dismissed the application for a stay in favour of the English High Court. Given the importance of the issue at hand, we appointed Prof Yeo Tiong Min SC (“Prof Yeo”) as amicus curiae. Prof Yeo’s excellent submissions greatly assisted us in our deliberations. Facts The parties 6 The appellant, Vinmar Overseas (Singapore) Pte Ltd (“Vinmar”), is a Singapore-incorporated company in the business of trading in chemical commodities.
+                   1
+
+
+
+
+Foot Note 1
+
+×
+
+
+
+  Affidavit of Sumit Verma dated 23 February 2016 at para 7: Core Bundle (“CB”), Vol II (Part A), p 22.
+
+
+
+ Vinmar is a related company of Vinmar International Ltd (“Vinmar International”), a company based in Houston.7 PTT International Trading Pte Ltd (“PTT”) is a Singapore-incorporated company in the business of trading in oil and petroleum products. PTT is a subsidiary of PTT Public Company Limited (“PTT Public”), a Thai company.
+                   2
+
+
+
+
+Foot Note 2
+
+×
+
+
+
+  Affidavit of Sumit Verma dated 23 February 2016 at para 6: CB Vol II (Part A), p 22.
+
+
+
+ The previous dealings8 Between December 2013 and October 2014, Vinmar entered into four contracts to purchase chemical commodities from PTT and PTT Public (“the Four Contracts”).
+                   3
+
+
+
+
+Foot Note 3
+
+×
+
+
+
+  Affidavit of Sumit Verma dated 23 February 2016 at para 8: CB Vol II (Part A), p 23.
+
+
+
+ The first two contracts were with PTT Public. The third and fourth contracts were with PTT. The fourth contract (“the 4th Contract”) was made on around 3 October 2014 and was for the purchase of styrene monomer, which was also the subject matter of the contract in issue here (“the Contract”).
+                   4
+
+
+
+
+Foot Note 4
+
+×
+
+
+
+  Agreement dated 3 October 2014: CB Vol II (Part A), pp 80–86.
+
+
+
+9 The Four Contracts were concluded in the same way.
+                   5
+
+
+
+
+Foot Note 5
+
+×
+
+
+
+  Affidavit of Sumit Verma dated 23 February 2016 at para 49: CB Vol II (Part A), p 44.
+
+
+
+ The parties would first negotiate over the telephone. They would then agree on certain key terms that would be reflected in emails or other correspondence. Finally, PTT or PTT Public would send a Supply Agreement to Vinmar. This would contain the full terms of the parties’ contract. There were four Supply Agreements (“the Four Agreements”) corresponding to the Four Contracts.
+                   6
+
+
+
+
+Foot Note 6
+
+×
+
+
+
+  The Four Agreements: CB Vol II (Part A), pp 59–86.
+
+
+
+ Notably, none of the Four Agreements included an execution page for the parties’ signature. We agree with Vinmar that this indicates that the parties intended the terms in the Four Agreements to be binding even without formal execution of those agreements.
+                   7
+
+
+
+
+Foot Note 7
+
+×
+
+
+
+  Affidavit of Sumit Verma dated 26 April 2016 at para 8(3): CB Vol II (Part B), p 17.
+
+
+
+ 10 All of the Four Agreements contained broadly two kinds of terms.  There were terms specific to the contract in question, such as terms pertaining to product, quantity, price and delivery. In addition, there were several identical provisions – for example, regarding insurance and limitation of liability – which appear to be standard terms on which PTT and PTT Public contract. One such term found in all of the Four Agreements was the following exclusive jurisdiction clause (“the EJC”):
+                   8
+
+
+
+
+Foot Note 8
+
+×
+
+
+
+  The EJC: CB Vol II (Part A), pp 63, 70, 76 and 83.
+
+
+
+LAWS AND JURISDICTIONTHIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE ENGLISH LAW. ANY DISPUTE ARISING OUT OR IN CONNECTION WITH THIS AGREEMENT, INCLUDING ANY QUESTION REGARDING ITS EXISTENCE, VALIDITY OR TERMINATION, SHALL BE REFERRED TO AND FINALLY RESOLVED BY HIGH COURT OF ENGLAND SITTING IN LONDON WITHOUT RECOURSE TO ARBITRATION AND TO SERVICE OF PROCESS BY REGISTERED MAIL. [emphasis added in italics and bold italics]Events leading up to the dispute11 In November 2014, Vinmar required styrene monomer to fulfil its obligations under a contract to sell the same to its customer (“Visen”).
+                   9
+
+
+
+
+Foot Note 9
+
+×
+
+
+
+  Affidavit of Sumit Verma dated 23 February 2016 at para 10: CB Vol II (Part A), p 24.
+
+
+
+ On or around 20 November 2014, Mr Sumit Verma of Vinmar (“Mr Verma”) met Mr Bhuvarahan Krishnan (“Mr Krishnan”) of PTT to discuss terms for Vinmar to purchase around 3,000mt of styrene monomer (“the Cargo”) from PTT. 12 On 21 November 2014, Mr Krishnan sent an email to Mr Verma (“the Deal Recap”).
+                   10
+
+
+
+
+Foot Note 10
+
+×
+
+
+
+  Deal Recap: CB Vol II (Part A), p 93.
+
+
+
+ The Deal Recap set out several key terms including the product to be sold, its quality, quantity, origin and price, and the mode and timing of payment. The term on price provided for the price of the Cargo to be determined based on certain published prices (for styrene monomer) for November 2014. The Deal Recap also included a term on shipment stating: “Shipment [:]- as per nomination and acceptance …” [emphasis added] as well as a term stating “Lay can:- 2nd half Dec. (15–22 Dec likely)”. The Deal Recap did not include the EJC or any other dispute-resolution clause. 13 Later that day, Mr Verma sent an email to Mr Krishnan stating “[w]e are pleased to confirm the below” (referring to the terms in the Deal Recap which were reproduced in the email with minor alterations).
+                   11
+
+
+
+
+Foot Note 11
+
+×
+
+
+
+  Reply to Deal Recap: CB Vol II (Part A), p 92.
+
+
+
+14 By an email dated 24 November 2014, PTT nominated the SC Shenzhen as the vessel to ship the Cargo.
+                   12
+
+
+
+
+Foot Note 12
+
+×
+
+
+
+  Email from PTT dated 24 November 2014: CB Vol II (Part A), p 96.
+
+
+
+ 15 On 27 November 2014, PTT sent an email to Vinmar which enclosed a “Styrene Monomer Spot Supply Agreement” (“the Written Terms”). The email referred to the Written Terms as a “draft contract” and stated that PTT would “revert back with [a] final contract in due course”.
+                   13
+
+
+
+
+Foot Note 13
+
+×
+
+
+
+  Email from PTT dated 27 November 2014: CB Vol II (Part A), p 128.
+
+
+
+ Like the Four Agreements, the Written Terms included terms specific to the Contract such as terms pertaining to price and delivery, as well as certain provisions found in all of the Four Agreements (see [10] above). One such provision was the EJC.
+                   14
+
+
+
+
+Foot Note 14
+
+×
+
+
+
+  Written Terms (EJC): CB Vol II (Part A), p 132.
+
+
+
+ Again, like the Four Agreements, the Written Terms did not include an execution page for the parties’ signature (see [9] above). The breakdown in relations and subsequent events16 By an email dated 28 November 2014, Vinmar informed PTT that its sub-purchaser, Visen, had rejected the Cargo.
+                   15
+
+
+
+
+Foot Note 15
+
+×
+
+
+
+  Email from Vinmar dated 28 November 2014: CB Vol II (Part A), p 144.
+
+
+
+ PTT replied later that day stating that Vinmar was “bound by the deal” and requested Vinmar to confirm the nominated vessel.
+                   16
+
+
+
+
+Foot Note 16
+
+×
+
+
+
+  Email from PTT dated 28 November 2014: CB Vol II (Part A), p 144.
+
+
+
+ 17 By an email to PTT dated 30 November 2014 (“the 30 November Email”),
+                   17
+
+
+
+
+Foot Note 17
+
+×
+
+
+
+  Email from Vinmar dated 30 November 2014: CB Vol II (Part A), p 151.
+
+
+
+ Vinmar stated that the shipment of the Cargo could proceed if it was shipped between 15 and 20 December 2014 and the price was determined based on published prices for styrene monomer for December 2014 (rather than the prices for November 2014 as provided for in the Deal Recap: see [12] above). Vinmar also stated the following in relation to the Written Terms: The contract is still a point that is under discussions [sic]. On Thursday 27th November we have received a draft contract from your good side which is still under further review. However, if any, such is required to be updated in line with the further commercial discussions related to this shipment, such as the shipment arrival and the pricing mechanism. [emphasis added in italics and bold italics]18 By an email dated 1 December 2014, PTT replied to the 30 November Email to reject Vinmar’s proposed conditions as to shipment and pricing, stating that these conditions were not in accordance with the parties’ agreement.
+                   18
+
+
+
+
+Foot Note 18
+
+×
+
+
+
+  Email from PTT dated 1 December 2014: CB Vol II (Part A), p 160.
+
+
+
+19 Subsequently, representatives of PTT Public and Vinmar International began to correspond on behalf of PTT and Vinmar. For convenience, we will continue to refer to the corresponding parties as PTT and Vinmar respectively. 20 By an email to Vinmar dated 19 December 2014, PTT nominated a new vessel, the Sea Charming, with a laycan of 19–20 December 2014.
+                   19
+
+
+
+
+Foot Note 19
+
+×
+
+
+
+  Email from PTT dated 19 December 2014: CB Vol II (Part A), p 184.
+
+
+
+ In reply, Vinmar sought confirmation that the Cargo would be loaded by 20 December 2014.
+                   20
+
+
+
+
+Foot Note 20
+
+×
+
+
+
+  Email from Vinmar dated 19 December 2014: CB Vol II (Part A), p 193.
+
+
+
+ PTT responded to this stating that it would do its best to load the Cargo by 20 December 2014, but maintained that the agreement was for the Cargo to be loaded on any date during the second half of December 2014.
+                   21
+
+
+
+
+Foot Note 21
+
+×
+
+
+
+  Email from PTT dated 19 December 2014: CB Vol II (Part A), p 196.
+
+
+
+21 On 19 December 2014, the Sea Charming arrived at the port of loading.
+                   22
+
+
+
+
+Foot Note 22
+
+×
+
+
+
+  Affidavit of Bhuvarahan Krishnan dated 29 March 2016 at para 61: RSCB, p 30.
+
+
+
+ However, the Cargo was not loaded onto the vessel by 20 December 2014. 22 By an email dated 22 December 2014, Vinmar purported to terminate the Contract for PTT’s alleged breach in failing to load the Cargo by 20 December 2014 (“the Termination Notice”).
+                   23
+
+
+
+
+Foot Note 23
+
+×
+
+
+
+  Email from Vinmar dated 22 December 2014: RSCB, p 89.
+
+
+
+ In doing so, Vinmar referred to the Written Terms as the Contract. 23 PTT responded by an email later that day, rejecting the Termination Notice and insisting that the Contract was still valid. It argued that it had performed its obligations, referring to several clauses of the Written Terms. 
+                   24
+
+
+
+
+Foot Note 24
+
+×
+
+
+
+  Email from PTT dated 22 December 2014: RSCB, pp 90–91.
+
+
+
+ 24 Vinmar replied on 23 December 2014. It reiterated that it had terminated the Contract, which it again equated with the Written Terms.
+                   25
+
+
+
+
+Foot Note 25
+
+×
+
+
+
+  Email from Vinmar dated 23 December 2014: RSCB, p 95.
+
+
+
+25 PTT subsequently resold the Cargo at a loss of US$1,225,366.21.
+                   26
+
+
+
+
+Foot Note 26
+
+×
+
+
+
+  Affidavit of Bhuvarahan Krishnan dated 29 March 2016 at para 72: RSCB, p 33.
+
+
+
+26 By a letter of demand to Vinmar dated 20 January 2015 (“the 1st Letter of Demand”), PTT demanded Vinmar to pay PTT a total of US$1,225,366.21.
+                   27
+
+
+
+
+Foot Note 27
+
+×
+
+
+
+  1st Letter of Demand: RSCB, p 97.
+
+
+
+ The 1st Letter of Demand again referred to the Written Terms as the Contract.27 Vinmar replied to the 1st Letter of Demand by a letter dated 5 February 2015, stating that it had properly terminated the Contract.
+                   28
+
+
+
+
+Foot Note 28
+
+×
+
+
+
+  Vinmar’s letter dated 5 February 2015: RSCB, p 104.
+
+
+
+ It defended this position by reference to various provisions of the Written Terms. PTT responded by a letter dated 9 March 2015. It challenged Vinmar’s reply to the 1st Letter of Demand, referring again to the Written Terms as the Contract.
+                   29
+
+
+
+
+Foot Note 29
+
+×
+
+
+
+  PTT’s letter dated 9 March 2015: RSCB, p 105.
+
+
+
+28 By a letter dated 16 April 2015 (“the 2nd Letter of Demand”), PTT again demanded that Vinmar pay its claim of US$1,225,366.21.
+                   30
+
+
+
+
+Foot Note 30
+
+×
+
+
+
+  PTT’s letter dated 16 April 2015: RSCB, p 106.
+
+
+
+ PTT referred to cl 8 of the Written Terms and maintained that Vinmar had breached the same. 29 PTT also sent a further letter of demand dated 9 October 2015 (“the 3rd Letter of Demand”) through its present solicitors. PTT repeated its demand for the sum of US$1,225,366.21 from Vinmar once more. The 3rd Letter of Demand stated as follows:
+                   31
+
+
+
+
+Foot Note 31
+
+×
+
+
+
+  Letter from R&T dated 9 October 2015: RSCB, pp 107–109.
+
+
+
+AGREEMENT FOR CFR SALE AND PURCHASE OF 3,000 MT OF STYRENE MONOMER BETWEEN [PTT] AND [VINMAR] … (“THE SALE AND PURCHASE [AGREEMENT]”)…2. We are instructed as follows:(a) Our clients entered the Sale and Purchase Agreement with you on or about 21 November 2014. The terms of the Sale and Purchase Agreement are evidenced inter alia in the email dated 21 November 2014 (timed at 12.05 pm) … The said email recorded the material terms of the Sale and Purchase Agreement as follows:…(b) By way of an email dated 27 November 2014 (timed at 6.22 pm), our clients sent you a draft contract setting out their standard terms which were to be incorporated in the Sale and Purchase Agreement for your consideration. You accepted the incorporation of our clients’ standard terms in the Sale and Purchase Agreement.[emphasis added in italics and bold italics]30 On 1 February 2016, PTT commenced Suit 99 of 2016 (“Suit 99”) against Vinmar.
+                   32
+
+
+
+
+Foot Note 32
+
+×
+
+
+
+  Writ of summons: Record of Appeal (“RA”) Vol 2, Tab 3.
+
+
+
+ In its statement of claim, PTT averred that Vinmar repudiated the Contract by, among other things, wrongfully terminating it, thereby causing PTT to suffer loss. PTT’s pleaded position was that the terms of the Contract were fully set out in the Deal Recap, and not in the Written Terms.
+                   33
+
+
+
+
+Foot Note 33
+
+×
+
+
+
+  Statement of claim (Amendment No 1) at para 22: CB Vol II (Part A), p 8.
+
+
+
+ 31 On 23 February 2016, Vinmar applied for a stay of Suit 99 on the basis that the parties had agreed to refer the dispute to the English High Court.
+                   34
+
+
+
+
+Foot Note 34
+
+×
+
+
+
+  Summons for stay: RA Vol 4, Tab 1.
+
+
+
+ In brief, the parties raised the following arguments below:(a) Vinmar contended that the EJC was part of the Contract. In this regard, Vinmar made two arguments. First, Vinmar submitted that based on the Four Contracts, all of which included the EJC, “both parties expected and agreed that [the EJC] was a term of the contract”.
+                   35
+
+
+
+
+Foot Note 35
+
+×
+
+
+
+  Vinmar’s written submissions dated 11 October 2016 at para 12: CB Vol II (Part B), p 41.
+
+
+
+ In essence, the argument was that the EJC was incorporated by the parties’ course of dealings into the Contract although Vinmar did not frame it in exactly these terms. Second, Vinmar submitted that the parties had agreed to the Written Terms, as evidenced by the parties’ correspondence in which they referred to the Written Terms as the Contract.
+                   36
+
+
+
+
+Foot Note 36
+
+×
+
+
+
+  Vinmar’s written submissions dated 11 October 2016 at paras 49–51: CB Vol II (Part B), pp 52–55.
+
+
+
+ Further, Vinmar contended that there was no strong cause to refuse a stay. (b) PTT denied that the EJC was part of the Contract, on the basis that the terms of the Contract were fully set out in the Deal Recap which did not include the EJC (see [30] above). PTT also claimed that in any event, even if the EJC was part of the Contract, there was strong cause to refuse a stay because Vinmar did not have a genuine defence.
+                   37
+
+
+
+
+Foot Note 37
+
+×
+
+
+
+  AR’s grounds: CB Vol II (Part B), p 80.
+
+
+
+The decisions below32 Vinmar’s stay application was heard, at first instance, by the AR. He dismissed the application, reasoning as follows: (a) The AR first found that Vinmar had made out a good arguable case that the parties had accepted the Written Terms and therefore the Written Terms, which included the EJC, were part of the Contract. In other words, the AR accepted the second argument Vinmar raised to contend that the EJC was part of the Contract (see [31(a)] above). In this regard, the AR relied in particular on the correspondence in which the parties equated the Written Terms with the Contract.
+                   38
+
+
+
+
+Foot Note 38
+
+×
+
+
+
+  AR’s grounds: CB Vol II (Part B), pp 82–84.
+
+
+
+ (b) However, the AR found that there was strong cause to refuse a stay on the basis that Vinmar did not have a genuine or bona fide defence to PTT’s claim in Suit 99. In this regard, the AR applied this court’s decisions in The Jian He [1999] 3 SLR(R) 432 (“The Jian He”) and The Hung Vuong-2 [2000] 2 SLR(R) 11 (“The Hung Vuong-2”), where we held that there would be strong cause to refuse a stay where the applicant did not have a genuine defence. The AR thus dismissed the stay application.
+                   39
+
+
+
+
+Foot Note 39
+
+×
+
+
+
+  AR’s grounds: CB Vol II (Part B), pp 84–90.
+
+
+
+33 Vinmar appealed against the AR’s decision. The Judge dismissed the appeal. In brief oral grounds, the Judge explained that the principal ground for his decision was that Vinmar did not have a genuine defence.
+                   40
+
+
+
+
+Foot Note 40
+
+×
+
+
+
+  Notes of argument dated 25 May 2017 at p 1: CB Vol I, p 3. 
+
+
+
+ The Judge also added that he agreed with the AR’s decision and reasons.
+                   41
+
+
+
+
+Foot Note 41
+
+×
+
+
+
+  Notes of argument dated 1 August 2017 at p 5: CB Vol II (Part B), p 96.
+
+
+
+ The parties’ arguments and the amicus’ opinion34 Vinmar advances two principal arguments on appeal:(a) First, there is a good arguable case that the EJC is a term of the Contract. In this regard, Vinmar makes two points:(i) There is a good arguable case that the Written Terms reflect the terms of the Contract,
+                   42
+
+
+
+
+Foot Note 42
+
+×
+
+
+
+  Appellant’s skeletal arguments at para 8.
+
+
+
+ and thus the EJC, which is in the Written Terms, is a term of the Contract. This was one of the two arguments that Vinmar made before the AR to contend that the EJC was part of the Contract, and the AR accepted it (see [31(a)] and [32(a)] above). Vinmar relies on the AR’s reasoning, which the Judge agreed with (see [33] above). We will refer to this argument as “the Written Terms Argument”.(ii) There is a good arguable case that the EJC was incorporated by the parties’ course of dealings into the Contract. This was the other argument raised by Vinmar before the AR to support its claim that the EJC was part of the Contract. It was revived by Vinmar’s counsel, Mr Lawrence Teh (“Mr Teh”), before us. We will refer to this argument as “the Incorporation Argument”. (b) Second, this court should depart from its previous decisions by ruling that in an application for a stay of proceedings based on an exclusive jurisdiction clause (an “EJC Application”), the merits of the parties’ cases are “either irrelevant or of very limited relevance”.
+                   43
+
+
+
+
+Foot Note 43
+
+×
+
+
+
+  Appellant’s Case at para 30.
+
+
+
+ In his oral submissions, Mr Teh submitted more broadly that an exclusive jurisdiction clause should generally be enforced through the grant of a stay in an EJC Application, unless it was “incapable of performance”. In this case, since a stay was refused on the basis that Vinmar did not have a genuine defence, the court should allow the appeal and stay Suit 99. 35 PTT makes the following principal arguments on appeal:(a) First, Vinmar has not shown a good arguable case that the EJC is a term of the Contract for the following reasons:(i) In relation to the Written Terms Argument, PTT submits that the AR erred in holding that the parties had agreed to the Written Terms.
+                   44
+
+
+
+
+Foot Note 44
+
+×
+
+
+
+  Respondent’s skeletal arguments at para 59.
+
+
+
+ According to PTT, the terms of the Contract are fully set out in the Deal Recap and thus the EJC, which is not in the Deal Recap, is not a term of the Contract.  (ii) In relation to the Incorporation Argument, Mr Ting Yong Hong (“Mr Ting”), PTT’s counsel, emphasised during the hearing that there were only two prior transactions between PTT and Vinmar (two of the Four Contracts were with PTT Public, not PTT). Two contracts do not suffice to establish a course of dealings by which a term may be incorporated into a contract. (b) Second, the rule laid down in The Jian He – that the absence of a meritorious defence will suffice to establish strong cause to refuse a stay (“the rule in The Jian He”) – should be affirmed.
+                   45
+
+
+
+
+Foot Note 45
+
+×
+
+
+
+  Respondent’s reply submissions to the Amicus Curiae’s opinion at para 5a.
+
+
+
+ (c) Third, should the court decide to depart from the rule in The Jian He, it should overrule that rule prospectively and not retroactively.
+                   46
+
+
+
+
+Foot Note 46
+
+×
+
+
+
+  Respondent’s reply submissions to the Amicus Curiae’s opinion at paras 24–34.
+
+
+
+ The court should apply the rule in The Jian He to dismiss this appeal since Vinmar has no genuine defence to PTT’s claim. (d) Fourth, in any case, there is strong cause to refuse a stay because Vinmar sought to mislead the court by lying on affidavit.
+                   47
+
+
+
+
+Foot Note 47
+
+×
+
+
+
+  Respondent’s reply submissions to the Amicus Curiae’s opinion at para 51.
+
+
+
+36 As mentioned above, we appointed Prof Yeo as amicus curiae. We invited him to address us on whether, in an EJC Application, it is relevant to consider the merits of any defence that the applicant intends to raise and, if so, how this factor should be incorporated within the test applied by the court and how much weight should be ascribed to it.
+                   48
+
+
+
+
+Foot Note 48
+
+×
+
+
+
+  Letter from the Registry dated 10 May 2018.
+
+
+
+ Prof Yeo prepared a detailed and well-reasoned opinion in which he expressed the following views: (a) The court should retain the overarching “strong cause” test in determining whether to grant a stay in an EJC Application.
+                   49
+
+
+
+
+Foot Note 49
+
+×
+
+
+
+  Prof Yeo’s opinion at paras 67–84. 
+
+
+
+(b) In an EJC Application, the merits of any defence the applicant intends to raise should generally be irrelevant unless: (i) the lack of a meritorious defence shows, along with other facts, that the applicant is acting abusively in seeking a stay; or (ii) convenience and expense favours refusing a stay (albeit this would have little weight in the context of a freely negotiated jurisdiction agreement between commercial parties).
+                   50
+
+
+
+
+Foot Note 50
+
+×
+
+
+
+  Prof Yeo’s opinion at para 85b–d.
+
+
+
+ 37 During the hearing, we asked Prof Yeo whether a different approach was justified in relation to jurisdiction clauses in commercial contracts that are not freely negotiated, such as a jurisdiction clause in a bill of lading that binds an indorsee. Prof Yeo submitted that for consistency the same approach should apply in such cases.The issues 38 Four main issues arise in this appeal(a) First, has Vinmar established a good arguable case that the EJC governs the dispute in Suit 99 (“Issue 1”)? (b) Second, should this court depart from the rule in The Jian He (“Issue 2”)? (c) Third, if this court decides to depart from the rule in The Jian He, should that rule only be overruled prospectively (“Issue 3”)? (d) Fourth, based on the answers to the aforementioned questions, what should be the outcome in this appeal (“Issue 4”)?39 We now address these issues in turn. Issue 1: The applicability of the EJC40 Before examining whether Vinmar has established a good arguable case that the EJC governs the dispute in Suit 99, we should begin our analysis by addressing the preliminary issue of what the test of a “good arguable case” entails. The test of a “good arguable case”41 It is trite and not in dispute that the applicant in an EJC Application bears the burden of showing a “good arguable case” that an exclusive jurisdiction agreement exists and governs the dispute in question: see Halsbury’s Laws of Singapore vol 6(2) (LexisNexis, 2016) at para 75.112. 42 However, it appears to us that there is some uncertainty as to exactly what this test entails in the context of an EJC Application. In Bradley Lomas Electrolok Ltd and another v Colt Ventilation East Asia Pte Ltd and others [1999] 3 SLR(R) 1156 (“Bradley Lomas”), this court held at [15] that in the context of service of originating process out of jurisdiction under O 11 r 1 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed), a “good arguable case” requires “something better than a mere prima facie case”. In deciding whether this test is satisfied, the court should not delve into disputed factual issues but may examine issues of law in full. 43 However, PTT proposes a different formulation of the “good arguable case” test. PTT claims the applicant in an EJC Application must make “a much better argument” than the respondent (or an argument “sufficiently good to be preferred”) that the alleged jurisdiction clause exists and applies to the dispute.
+                   51
+
+
+
+
+Foot Note 51
+
+×
+
+
+
+  Respondent’s Case at para 34.
+
+
+
+ The “much better argument” formulation is known as the Canada Trust gloss; it derives from Waller LJ’s judgment in Canada Trust Co and Others v Stolzenberg and Others (No 2) [1998] 1 WLR 547 at 555. That case did not involve a jurisdiction agreement. But in Bols Distilleries BV (trading as Bols Royal Distilleries) and another v Superior Yacht Services Ltd [2007] 1 WLR 12 at [28], the Privy Council adopted and applied the Canada Trust gloss in holding that a party who sought to rely on an alleged jurisdiction agreement had not shown a good arguable case that it existed. PTT relies on this case in support of its proposed formulation of the test.  44 The “good arguable case” test is a recurring requirement in the principles governing several interlocutory applications. The test does not necessarily bear the same meaning in all of these applications. Its content depends on the context. In an EJC Application, the context is that the applicant is inviting the court not to exercise its otherwise valid jurisdiction over the dispute. In the circumstances, a relatively robust test is apposite, albeit it must require less than the test of a balance of probabilities given the interlocutory nature of the application.45 In our judgment, to establish a “good arguable case” that a jurisdiction agreement governs the dispute in an EJC Application, the applicant must have the better of the argument, on the evidence before the court, that the agreement exists and applies to the dispute. This formulation reflects that the threshold is more than a mere prima facie case, but is different from the standard of a balance of probabilities given the limits inherent in the stage at which the application is being heard. In our view, it is not necessary, as PTT contends, that the applicant must have a “much better argument” on the existence and applicability of the jurisdiction agreement. Such a test would impose too high a standard of proof on the applicant. Notably, this consideration also led Aikens LJ, in delivering the judgment of the English Court of Appeal in Joint Stock Company “Aeroflot Russian Airlines” v Berezovsky [2013] 2 Lloyd’s Rep 242, to reject the Canada Trust gloss in favour of “the better of the argument” formulation (at [50]).46 In addition, we affirm our holding in Bradley Lomas that in determining whether the applicant has established a good arguable case, the court may grapple with questions of law but should not delve into contested factual issues. 47 We now consider whether Vinmar has established a good arguable case that the EJC governs the dispute in Suit 99. The EJC governs the dispute48 It is common ground that the dispute in Suit 99 would fall within the scope of the EJC, which is framed in broad terms (see [10] above), if it is a term of the Contract. However, the parties dispute this premise. Vinmar advances two arguments – the Written Terms Argument and the Incorporation Argument – in support of its position that the EJC applies to the dispute in Suit 99. We now examine these arguments in turn. The Written Terms Argument49 Vinmar claims that there is a good arguable case that the parties agreed to the Written Terms and thus that the Written Terms reflect the terms of the Contract. Since the Written Terms contain the EJC, Vinmar submits that there is a good arguable case that the EJC is a term of the Contract. 50 We reject this argument. On the evidence before us, it appears that the Contract was formed on 21 November 2014 through the emails between Mr Krishnan and Mr Verma. The main terms of the Contract were set out in the Deal Recap as modified in Mr Verma’s email (see [12]–[13] above).  51 Against that backdrop, we find that Vinmar has not established a good arguable case that the parties agreed to the Written Terms for these reasons: (a) First, we find that there was no meeting of the minds in relation to the Written Terms on or around 27 November 2014, when PTT sent the Written Terms to Vinmar. PTT’s email enclosing the Written Terms expressly stated that the document was a “draft contract” and that PTT would issue a “final contract in due course” (see [15] above). This shows that PTT had yet to assent to the Written Terms as of 27 November 2014. Further, Vinmar’s reply on 30 November 2014 indicates that it too did not assent to the Written Terms as of that date (see [17] above). Vinmar stated that the Written Terms were “under review” and that they had to be updated to reflect its proposed terms regarding shipment and pricing. (b) Second, in our view, there is insufficient evidence that the parties subsequently agreed to the Written Terms (after November 2014). Apart from the subsequent correspondence between the parties in which they equated the Written Terms with the Contract, there is no evidence that the parties assented to the Written Terms. Further, in our judgment, that correspondence does not establish a good arguable case that the parties agreed to the Written Terms. Critically, the relations between the parties began to break down in late November 2014. The correspondence must be assessed in that light. In our view, the parties may have referred to the Written Terms as the Contract simply because it was convenient for them to do so to support their opposing positions. An agreement to the Written Terms is not the only plausible reason why the parties equated the Written Terms with the Contract in their subsequent correspondence. Vinmar has not adduced any evidence based on which we may prefer its account – that the parties agreed to the Written Terms – as an explanation for why the parties referred to the Written Terms as the Contract. Thus, Vinmar does not have “the better of the argument” that the parties had agreed to the Written Terms. The Incorporation Argument52 However, we accept the Incorporation Argument. We first set out the law on incorporation by a course of dealings, before applying the law to the facts. (1) The law on incorporation by a course of dealings53 The basis on which a term is incorporated into a contract by a course of dealings is that “the circumstances are such that, at the time of contracting, both parties, as reasonable persons, would have assumed the inclusion of the [term] in the offer and acceptance”: see The Law of Contract (Michael Furmston gen ed) (LexisNexis, 6th Ed, 2017) (“Furmston”) at para 3.18. The relevant “circumstances” are the parties’ past dealings and their conduct in relation to the contract in question. Furmston formulates the test in these terms: [W]hether, at the time of contracting, each party as a reasonable person was entitled to infer from the past dealings and the actions and the words of the other in the instant case, that the [term] [was] to be a part of the contract. [emphasis added in italics and bold italics] 54 We endorse this statement of the test. We add that a high threshold must be met for a party to be “entitled to infer” that a term sought to be incorporated is part of the contract. We agree with the following remarks of Donaldson J in SIAT Di Del Ferro v Tradax Overseas SA [1978] 2 Lloyd’s Rep 470 (“Tradax”) at 490: Would the parties have agreed that a particular term formed part of the contract if they were reasonable men looking at the matter objectively in the knowledge that no adverse consequences could flow from the answer. … The term will only be contractual if the parties’ answer would have been a definite “Yes”. “Possibly” will not do. [emphasis added in italics and bold italics]55 The following factors are relevant in the analysis: the number of previous contracts, how recent they are, whether they have a similar subject matter and whether they were made in a consistent manner: see Capes (Hatherden) Ltd v Western Arable Services Ltd [2010] 1 Lloyd’s Rep 477 (“Capes”) at [35]. There is no fixed number of contracts that must have been executed before a term can be incorporated into the contract in question by a course of dealings. At one end of the spectrum, three to four transactions each month for three years (Henry Kendall & Sons (A Firm) v William Lillico & Sons Ltd and others [1969] 2 AC 31) and 11 transactions in six months sufficed (Circle Freight International Ltd v Medeast Gulf Exports Ltd [1988] 2 Lloyd’s Rep 427 (“Circle Freight”)). At the other extreme, three or four transactions over five years were insufficient (Hollier v Rambler Motors (AMC) Ltd [1972] 2 QB 71). Notably, however, it has been held that “[t]hree or four occasions over a relatively short period may suffice” [emphasis added]: see Transformers & Rectifiers Ltd v Needs Ltd [2015] EWHC 269 (TCC) at [42(ii)], citing Capes. 56 In some cases, a party may have had earlier transactions not with the counterparty to the contract in issue, but with a different company in the same group of companies. It is settled law, however, that a court may consider such transactions in determining if terms were incorporated into the contract with the instant counterparty. In Tradax, Donaldson J made these remarks at 490:Does it matter that previously the buyers either dealt with a different Tradax company or in a different commodity and not on cif terms? The Board of Appeal thought not and I can see no reason to disagree. It is noteworthy that the broker’s telex never identified the Tradax company concerned. This was left to the sellers’ agents. I have no doubt that it was immaterial to the buyers. They were dealing with the Tradax organisation and which member of the clan was the seller really did not matter. [emphasis added in italics and bold italics]57 We agree with Donaldson J’s reasoning, which was affirmed on appeal by the English Court of Appeal in SIAT Di Dal Ferro v Tradax Overseas SA [1980] 1 Lloyd’s Rep 53 at 58, and recently cited with approval in Lisnave Estaleiros Navais SA v Chemikalien Seetransport GmbH [2013] 2 Lloyd’s Rep 203 at [28]. 58 Additionally, we note two further propositions. (a) First, in general, “it will be easier to establish incorporation by a course of dealing[s] where both parties are in business, rather than where one is a consumer”: see Furmston at para 3.18. (b) Second, a term may be more easily incorporated if it is not unusual or unreasonable: see Furmston at para 3.18 citing Circle Freight at 433, where Taylor LJ suggested that the court may take different considerations into account if the term to be incorporated was “particularly onerous or unusual”.(2) Application of the law59 For the following reasons, we are satisfied that Vinmar has established a good arguable case that the EJC was incorporated by a course of dealings into the Contract when it was formed on 21 November 2014.60 First, in relation to the number of previous contracts and how recent they were, when the Contract was formed in November 2014, Vinmar had made four contracts in the preceding year with PTT or PTT Public (see [8] above). We disagree with Mr Ting’s submission that only the two contracts with PTT are relevant. It is clear to us that in determining whether a term was incorporated by a course of dealings, the court may consider earlier contracts with a party from the same corporate group as a party to the contract in issue (see [56]–[57] above). Accordingly, we have regard to the contracts with PTT Public. In total, there were four previous contracts in the one-year period leading up to the formation of the Contract. All of the Four Contracts included the EJC.61 Second, with regard to the subject matter of the Four Contracts and the way in which they were concluded, we note the following. All of the Four Contracts were for the purchase of chemical commodities. Further, the contract immediately preceding the Contract, the 4th Contract, was for the purchase of styrene monomer, which was also the subject matter of the Contract (see [8] above). The Four Contracts were all concluded in the same manner: oral negotiations were followed by correspondence setting out the key terms, before PTT or PTT Public sent Vinmar a Supply Agreement stating the full terms of the contract, which the parties were not required to sign (see [9] above).62 Third, regarding the factors referred to at [58] above, Vinmar and PTT were both contracting in the course of business and the EJC is not an onerous or unusual term. On the contrary, as we observed during the hearing, the EJC is a dispute-resolution provision which one would expect to find in contracts such as the Contract, especially if it was a term of the prior contracts between the parties.63 In our judgment, bearing the aforementioned factors in mind, there is a good arguable case that when Vinmar and PTT entered into the Contract on 21 November 2014, they would have been entitled to infer from their past dealings that the Deal Recap did not set out the full terms of the Contract. They would have understood that the Contract included certain standard terms set out in the Four Agreements such as the EJC. They would have expected that PTT would prepare a Supply Agreement for the Contract including these standard terms. They would also have understood that these standard terms, including the EJC, bound the parties without the need for execution of that document. 64 Additionally, there is no evidence that the parties understood that the previous course of dealings did not apply to this transaction. On the contrary, the parties acted in accordance with that course of dealings. This indicates that they understood that the Contract was made on that basis. We will elaborate.(a) After the Contract was formed on 21 November 2014, PTT prepared and sent the Written Terms to Vinmar on 27 November 2014, stating that it would forward a final document in due course (see [15] above). This is critical. If PTT had believed that the Deal Recap set out the full terms of the Contract, there would have been no need to prepare the Written Terms and send them to Vinmar. The fact that PTT did so seriously undermines its own case that the terms of the Contract are fully set out in the Deal Recap. More broadly, it shows that PTT understood that the previous course of dealings – under which it would prepare a Supply Agreement stating the full terms of the contract after the parties had agreed to the key terms – would continue to apply to the Contract. Notably, the Written Terms included the EJC – which indicates that PTT understood that this provision was part of the Contract. (b) Both Vinmar and PTT referred to the Written Terms as the Contract or as containing terms of the Contract in correspondence following the breakdown in their relations (see [22]–[24] and [26]–[29] above). We have explained why, in our judgment, this correspondence does not clearly show that the parties had agreed to the Written Terms (see [51(b)] above). But in our judgment, the correspondence is relevant to the extent that it suggests both parties never contemplated that the Deal Recap set out all the terms of the Contract. It is significant that PTT maintained that the Written Terms contained terms of the Contract in the 3rd Letter of Demand (see [29] above), after it had presumably obtained legal advice from its present solicitors.65 We note that in the 30 November Email, Vinmar stated that the Written Terms were “under further review” (see [17] above). On first reading, this statement might suggest that Vinmar did not know that the Contract included terms besides those in the Deal Recap, such as standard terms like the EJC. But in our view, this is not the correct interpretation of Vinmar’s statement. The Written Terms, similar to the Four Agreements, included both contract-specific and standard terms (see [15] above). It is evident from the 30 November Email that Vinmar was concerned with contract-specific terms relating to the price and shipment of the Cargo. After stating that it was reviewing the Written Terms, Vinmar added that they had to be updated “in line with the further commercial discussions related to this shipment, such as the shipment arrival and the pricing mechanism” [emphasis added]. In this light, when Vinmar stated that the Written Terms were “under further review”, it was simply seeking to convey that the contract-specific terms in the Written Terms did not reflect its understanding of the agreement. It was not asserting that it did not know that the Contract included standard terms such as the EJC or that the standard terms including the EJC were “under further review”. 66 Finally, we address an argument raised by Mr Teh in oral submissions. Mr Teh pointed out that in this case, PTT, the seller, nominated the SC Shenzhen to Vinmar, the buyer, for its approval. Mr Teh emphasised that in a typical CFR contract (the Contract is a CFR contract), the seller would not be obliged to and so would not generally obtain the buyer’s approval of the nominated vessel. Mr Teh argued that the fact that Vinmar’s approval was sought showed that the parties were acting in a manner which mirrored their dealings with each other under the 4th Contract, where PTT had also nominated a vessel for Vinmar’s approval. Mr Teh submitted that this supported the Incorporation Argument because it showed that the parties were acting in accordance with their previous course of dealings. 67 However, the fact that PTT nominated the SC Shenzhen for Vinmar’s approval does not strengthen the Incorporation Argument. Mr Ting correctly pointed out that the Deal Recap included a term stating: “Shipment [:]- as per nomination and acceptance …” [emphasis added] (see [12] above). He submitted and we agree that this term provided for PTT to nominate the vessel: although it did not specifically state this, it would only ever be the seller, not the buyer, who would nominate the vessel. Hence, PTT’s nomination of the SC Shenzhen did not support the Incorporation Argument as it was unnecessary to explain PTT’s conduct by reference to the parties’ course of dealings. PTT was simply complying with an express term of the Deal Recap in nominating the vessel. 68 Nevertheless, for the reasons set out above, we find that there is a good arguable case that the EJC was incorporated by the parties’ course of dealings into the Contract. Vinmar has thus made out a good arguable case that the EJC is a term of the Contract. 69 On this premise, we should grant a stay of Suit 99 unless there is “strong cause” to refuse a stay: see Amerco Timbers Pte Ltd v Chatsworth Timber Corp Pte Ltd [1977–1978] SLR(R) 112 (“Amerco Timbers”) at [11]. The AR and the Judge refused a stay on the basis that Vinmar does not have a genuine defence to PTT’s claim, applying The Jian He and The Hung Vuong-2. Yet Vinmar invites us to depart from this line of authority, arguing that the merits of the defence that an applicant in an EJC Application would raise should be irrelevant or of very limited relevance in deciding whether a stay should be granted. We now turn to consider the relevance of the merits of the defence in an EJC Application.Issue 2: The relevance of the merits of the defence70 We begin by tracing the development of the law.Development of the law71 The general principles governing the grant of a stay to give effect to an exclusive jurisdiction clause are derived from the celebrated case of The Eleftheria [1969] 1 Lloyd’s Rep 237 (“The Eleftheria”). There, Brandon J held at 242 that where a party sues in breach of an exclusive jurisdiction agreement, the court will stay the proceedings unless “strong cause” for refusing a stay is shown. Brandon J identified several factors which the court would consider in deciding whether there is “strong cause” to refuse a stay (“the Eleftheria factors”). In Amerco Timbers at [11], we adopted the overarching “strong cause” test and endorsed the Eleftheria factors as part of our law, stating those factors in these terms:(a) In what country the evidence on the issues of fact is situated or more readily available, and the effect of that on the relative convenience and expense of trial as between the Singapore and foreign courts. (b) Whether the law of the foreign court applies and, if so, whether it differs from Singapore law in any material respects. (c) With what country either party is connected and, if so, how closely. (d) Whether the defendants genuinely desire trial in the foreign country, or are only seeking procedural advantages. (e) Whether the plaintiffs would be prejudiced by having to sue in the foreign court because they would: (i) be deprived of security for their claim; (ii) be unable to enforce any judgment obtained; (iii) be faced with a time bar not applicable here; or (iv) for political, racial, religious or other reasons be unlikely to get a fair trial.[emphasis added]72 The “strong cause” test reflects the philosophy that the court should, in general, give effect to the parties’ agreement on the forum where their disputes will be resolved. This approach is rooted in considerations of party autonomy and commercial certainty which considerations we will return to below. One corollary of this approach is that factors which render proceedings in Singapore more convenient than proceedings in the agreed forum are of limited weight if they were foreseeable at the time when the parties made the jurisdiction agreement: see Golden Shore Transportation Pte Ltd v UCO Bank and another appeal [2004] 1 SLR(R) 6 (“Golden Shore Transportation”) at [38] and The Hyundai Fortune [2004] 4 SLR(R) 548 (“The Hyundai Fortune”) at [30]. 73 Significantly, the merits of the defence that the applicant for the stay intends to raise was not originally one of the Eleftheria factors. The relevance of the merits of the defence was grafted onto the Eleftheria framework by reference to one of the Eleftheria factors, namely, whether “the defendants genuinely desire trial in the foreign country, or are only seeking procedural advantages” (“factor (d)”) (see [71] above). We will now trace the development of the law in this regard. The introduction of the merits inquiry(1) England74 The first case is The Vishva Prabha [1979] 2 Lloyd’s Rep 286 (“The Vishva Prabha”). In that case, the plaintiffs had shipped cloth on the defendants’ ship. The cloth was damaged by oil that passed through a hole in the bulkhead of the hold. The plaintiffs sued the defendants in England for damages. The bills of lading under which the cloth was shipped contained an exclusive jurisdiction clause which provided for disputes to be referred to the courts of the carrier’s principal place of business. The defendants’ principal place of business was Bombay. The defendants thus applied for a stay of the English proceedings. 75 The plaintiffs submitted that there was no “dispute” to be referred to Bombay as there was no defence to their claim. After examining the evidence, Sheen J found that there was no defence and thus no dispute as to liability. He then noted that leaving liability aside, the defendants disputed the plaintiffs’ title to sue and the quantum of liability. However, he refused to grant a stay in respect of these matters, stating at 288 that it was clear that “the defendants are only seeking the advantage of delay and are not really anxious that the matter should be heard in the Courts of Bombay for any other reason” [emphasis added]. In other words, factor (d) applied: the defendants did not genuinely desire trial in Bombay but were merely seeking the procedural advantage of delay. 76 In summary, Sheen J understood the merits of the defence to be relevant in an EJC Application in two ways. First, where there was no genuine defence, there was no dispute to be referred to the foreign court (“the No Dispute Rationale”). Second, where there was no genuine defence (as to liability), it followed that the defendant did not genuinely desire trial in the agreed forum but was applying for the stay to secure procedural advantages (“the No Desire for Trial Rationale”). 77 Four years later, a similar case arose before Sheen J in The Atlantic Song [1983] 2 Lloyd’s Rep 394 (“The Atlantic Song”). The plaintiffs were the owners of cars that were damaged during shipment. They commenced proceedings in England against the defendants, who were the charterers of the vessel. The bills of lading contained an exclusive jurisdiction clause which provided for disputes arising thereunder to be resolved by the courts of Stockholm. The defendants accordingly applied for a stay of the English proceedings. 78 Sheen J dismissed the defendants’ application for a stay of the English proceedings. He examined the evidence and noted several facts that indicated that the defendants did not have a genuine defence. He then held at 399 that “the defendants do not genuinely want a trial in Sweden … they are seeking to gain a tactical advantage” [emphasis added]. It is evident that Sheen J refused a stay on the basis of the No Desire for Trial Rationale. 79 The third case in this line of authority is The Frank Pais [1986] 1 Lloyd’s Rep 529, which was also decided by Sheen J. The plaintiffs sued the defendants in England for damage to a cargo of sugar that was shipped on board the defendants’ vessel. Again, the bill of lading contained an exclusive jurisdiction clause which conferred jurisdiction on the courts of Cuba. 80 Sheen J refused to grant a stay of the English proceedings. He examined the evidence and found that the defendants did not have a genuine defence to the main body of the claim. He concluded at 533 that “the defendants … have not demonstrated that there is any dispute about their liability for all but a very small part of the claim”. However, Sheen J did not refuse a stay on the basis that there was no dispute to be referred to the agreed forum. Instead, he did so on the basis that the defendants “[did] not genuinely desire trial in any country but [were] only seeking to delay the processing of this claim” (at 534). In other words, Sheen J again refused a stay based on the No Desire for Trial Rationale.81 A different approach was taken by Clarke J in Standard Chartered Bank v Pakistan National Shipping Corporation and others [1995] 2 Lloyd’s Rep 365 (“Standard Chartered Bank”). The dispute arose out of a bill of lading that was antedated by the shipowners’ agent on behalf of the shipowners. The plaintiff bank, who made payment to the sellers in reliance on the bill of lading, sued the shipowners and their agent in England for fraudulent misrepresentation and applied for summary judgment. The defendants then applied for a stay of proceedings on the basis of a clause in the bill of lading which conferred exclusive jurisdiction over the dispute on the courts of the defendants’ principal place of business, which was Pakistan. 82 Clarke J refused to stay the proceedings and granted summary judgment to the plaintiff. He examined the evidence and found at 377 that the shipowners and their agent had no defence on liability. He then opined at 378 that “where a defendant ha[d] no arguable defence on liability and quantum that would be a strong reason to refuse a stay because … there would be no real issues between the parties which should be tried” [emphasis added]. This is in essence the No Dispute Rationale outlined by Sheen J in The Vishva Prabha. 83 Clarke J went on to consider some of the Eleftheria factors and expressly addressed factor (d). He opined at 379 that “it would not be right to conclude” that the shipowners did not desire trial in Pakistan but were merely seeking procedural advantages. In other words, Clarke J did not endorse the No Desire for Trial Rationale. It seems that he did not consider that it could be inferred, from the fact that a defendant did not have a meritorious defence, that the latter did not desire trial in the agreed forum. (2) Singapore84 It was against the backdrop of these four cases that this court decided The Jian He. In that case, the plaintiff sold goods that were shipped on board the defendants’ vessel. The goods were delivered to a third party instead of the consignee upon the production of a false bill of lading. The plaintiff brought an action against the vessel. The original bill of lading included an exclusive jurisdiction clause which conferred jurisdiction on certain maritime courts in China. The defendants applied for a stay on this basis. 85 This court refused to grant a stay on the principal basis that there was no genuine defence to the claim and stated the following at [53]: We turn next to the final point. Is there a defence to the claim? Or putting it another way, is there a dispute? It is here that the defendants’ position becomes untenable and which shows that the defendants are really not interested in a trial in China but are seeking a procedural advantage. On the evidence before us, there is no indication by the defendants that they have any defence to the claim. Furthermore, on the question of the entitlement to sue, other than asking for certain documents, the defendants have not asserted that the plaintiffs are not entitled to sue. Accordingly, there is really no dispute to be determined by the contractual forum.[emphasis added in italics and bold italics]86 In this passage, we identified both the No Dispute Rationale and the No Desire for Trial Rationale as reasons why a stay should be refused if the applicant for the stay has no genuine defence. 87 We then discussed the four English cases referred to above, before reasoning as follows at [62]–[63]:62 Reverting to the present appeal, in the light of these authorities, and on the evidence set out in the affidavits, there is really no defence to the claim, the defendants having released the goods against a forged bill of lading. There is nothing to proceed to trial in China. …63  In the premises we hold that a strong cause has been shown why there should not be a stay of proceedings. To grant the stay in these circumstances would not only cause further delay, it would also give undue advantage to the defendants. We, therefore, do not think the defendants genuinely wanted a trial in China.[emphasis added in italics and bold italics]88 Again, this court alluded to both the No Dispute Rationale and the No Desire for Trial Rationale in this passage. 89 A year later, a link between the absence of a meritorious defence and the lack of a genuine desire for trial was clearly drawn in The Hung Vuong-2. There, the plaintiff contracted to sell a cargo of sugar which was shipped on board the defendant’s vessel to a Chinese company. The defendant delivered the cargo to the company without production of the bill of lading. The company only made part payment to the plaintiff. The plaintiff then began an action against another of the defendant’s vessels for the balance of the purchase price. However, the bill of lading provided that disputes arising therefrom would be determined in the carrier’s principal place of business and according to the laws of that place, which was Vietnam. The defendant applied for a stay of the proceedings on this basis. 90 This court reiterated the “strong cause” test and the Eleftheria factors and drew a connection between the lack of a genuine defence and factor (d), stating at [10] that “[i]t would be difficult for a party to contend that he seriously desires trial in the contractual forum if he was unable to show that … he had a real defence to the claim” [emphasis added]. Thus, this court recognised the No Desire for Trial Rationale as the doctrinal basis on which the merits of the defence were incorporated into the Eleftheria framework. 91 On that basis, we turned to consider the defence, which was that the plaintiff had no title to sue for the loss it sustained under Vietnamese law. We found at [19] that the expert opinion tendered in support of the defence was “clearly unsustainable”, and then reasoned as follows (at [21] and [24]):21 … once it is shown that there is no defence to the claim, and thus no dispute, as in the present case, then there is really nothing to go for trial at the contractual forum. In these circumstances to insist, as the appellants had, that the claim should nevertheless proceed to trial in the contractual forum would cast considerable doubt as to the bona fides of that party in wanting to have a trial in the contractual forum.…24  Reverting to the instant appeal, we did not think there was any dispute to be submitted for trial at the contractual forum. There would be no sense in staying the proceedings. It seemed to us that the appellants were really seeking to gain a technical advantage in asking for a stay. Furthermore, any stay would only cause unnecessary delay.[emphasis added in italics and bold italics]92 In short, we inferred from the fact that there was no genuine defence that the defendants did not genuinely desire trial in Vietnam but were merely seeking a procedural advantage. On this basis, the stay was refused.93 Subsequently, in Golden Shore Transportation, this court followed the approach laid down in The Jian He and The Hung Vuong-2 in refusing to stay the proceedings. The plaintiff bank sued the defendant shipowner in Singapore for delivering a cargo without production of the original bills of lading. The bills of lading included an exclusive jurisdiction clause in favour of the courts of India, and the defendant sought a stay of proceedings on this basis. This court dismissed the defendant’s appeal against the High Court’s decision to refuse a stay. In discussing whether the defendant had a genuine desire for trial in India, we noted at [43] that the principal defence was “highly speculative”.94 The final case in this line of authorities (“the Jian He line of cases”) is The Hyundai Fortune. In that case, the plaintiffs purchased a cargo of melons that was shipped to Singapore on board the defendant’s vessel. On arrival, it was discovered that most of the cargo was damaged. The plaintiffs brought an action against the vessel. The bill of lading contained an exclusive jurisdiction clause in favour of the Seoul Civil District Court. The defendant applied for a stay of proceedings on this basis. On appeal, this court affirmed the High Court’s refusal to grant a stay and dismissed the appeal. We found at [26] that the defendant had no genuine defence, and concluded at [27] that it “did not seriously want a trial in the contractual forum”.(3) Hong Kong95 The Hong Kong courts have also held that the lack of a genuine defence may amount to strong cause to refuse a stay in an EJC Application. In Xu Ziming v Ruifeng Petroleum Chemical Holdings Ltd [2014] HKCU 2013, the plaintiff sued the defendant in Hong Kong for dishonouring a promissory note and three cheques. The defendant sought a stay of proceedings on the basis that the dispute fell within the scope of an exclusive jurisdiction clause in favour of the courts of Guangzhou. The court dismissed the application, observing at [19] that the defendant had not advanced any defence. In refusing leave to appeal, the court endorsed Clarke J’s ruling in Standard Chartered Bank that the lack of an arguable defence would amount to strong reason to refuse a stay: see Xu Ziming v Ruifeng Petroleum Chemical Holdings Ltd [2014] HKCU 2958 at [15]. 96 The Jian He line of cases and the Hong Kong case we have just referred to drew on English authority. Yet the position under English law has changed, and this has apparently led to a shift in the approach in Hong Kong.The turning of the tide abroad97 The turning of the tide abroad came with the decision of the House of Lords in Donohue v Armco Inc and others [2002] 1 Lloyd’s Rep 425 (“Donohue”). It is notable that the leading text on the conflict of laws enjoins readers to read earlier cases, including The Vishva Prabha, The Atlantic Song and Standard Chartered Bank in the light of Donohue: see Dicey, Morris & Collins on The Conflict of Laws vol 1 (Lord Collins of Mapesbury gen ed) (Sweet & Maxwell, 15th Ed, 2012) at para 12R–098 at fn 468. In Donohue, Lord Bingham of Cornhill, delivering the leading judgment of the House of Lords, stated at [24] and [25] as follows: 24 If contracting parties agree to give a particular court exclusive jurisdiction to rule on claims between those parties, and a claim falling within the scope of the agreement is made in proceedings in a forum other than that which the parties have agreed, the English court will ordinarily exercise its discretion (whether by granting a stay of proceedings in England, or by restraining the prosecution of proceedings in the non-contractual forum abroad, or by such other procedural order as is appropriate in the circumstances) to secure compliance with the contractual bargain, unless the party suing in the non-contractual forum (the burden being on him) can show strong reasons for suing in that forum. … 25 Where the dispute is between two contracting parties, A and B, and A sues B in a non-contractual forum, and A's claims fall within the scope of the exclusive jurisdiction clause in their contract, and the interests of other parties are not involved, effect will in all probability be given to the clause.[emphasis added in italics and bold italics]98 Thus, the general position under English law today is that where parties enter into an exclusive jurisdiction agreement conferring jurisdiction on a foreign court, and one party sues in England in breach of that clause, the court will “in all probability” give effect to the clause by granting a stay of proceedings, unless the interests of non-contracting parties are involved. A leading commentator has observed that Donohue “represents a new dawn … the court leans in favour of a stay unless exceptional reasons dictate otherwise; and the management of multipartite litigation may be the only real exception”: see Adrian Briggs, Civil Jurisdiction and Judgments (Informa Law, 6th Ed, 2015) at para 4.52.99 It was in the light of this new dawn that the English High Court came to decide Euromark Ltd v Smash Enterprises Pty Ltd [2013] EWHC 1627 (QB) (“Euromark”). The claimant commenced proceedings in England against the defendant alleging that it had wrongfully repudiated a distribution agreement. The agreement contained an exclusive jurisdiction clause in favour of the courts of Australia. The defendant then sought a declaration that the court did not have jurisdiction to hear the claim, relying on the exclusive jurisdiction clause. 100 The claimant’s main argument was that the court should not give effect to the exclusive jurisdiction clause because the claim was very strong; in other words, there was no genuine defence to the claim. This argument was emphatically rejected by Coulson J as follows at [35]: Even if one concludes that the Claimant is very likely to win on liability at [trial], the issue still remains as to where that trial should take place. There is no basis in law for concluding that a strong case should be heard in England, whilst a more arguable case should be heard in Australia. That would be absurd. Ultimately, for the reasons I have given, it seems to me that the strength of the claimant's claim on liability is either not a relevant consideration for the purpose of this application or, if it is, it remains a matter of very little significance. [emphasis added in italics and bold italics]101 We note further that Coulson J also downplayed the relevance of factor (d) of the Eleftheria factors, on the basis that it related to issues of convenience that were not relevant in an EJC Application. He stated at [17]:Mr Catherwood suggested that [factor (d)] was a stand-alone factor which, depending on the circumstances, could be considered in the exercise of the court's discretion as a “strong reason” to allow the Claimant to avoid the exclusive jurisdiction clause. I do not accept that submission. This is just one of a list of possible factors for the court when considering questions of convenience. It is not a relevant consideration when there is, as here, an exclusive jurisdiction clause. As Mr White correctly submitted, the Defendant can answer this contention simply by asserting the right to rely on the exclusive jurisdiction clause which was agreed as part of the contract. [emphasis added in italics or bold italics]102 Coulson J’s holding at [35] of Euromark was approved in CH Offshore Ltd v PDV Marina SA and others [2015] EWHC 595 (Comm) at [64]. Euromark is also cited in a leading text for the proposition that where a claimant in England seeks to avoid an exclusive jurisdiction clause, “[i]t is irrelevant that the claim in the English courts is likely to succeed”: see Richard Fentiman, International Commercial Litigation (Oxford University Press, 2nd Ed, 2015) (“Fentiman”) at para 2.230. 103 In Hong Kong, the Court of First Instance applied Euromark in Hyundai Engineering & Construction Co Ltd v UBAF (Hong Kong) Ltd [2013] HKCU 2237, holding at [41] that “the Hong Kong court cannot just proceed to hear the claim in defiance of the exclusive jurisdiction clause simply because the claimant has a strong claim”. Further, in the recent decision of Deltatre Spa v Hong Kong Sports Industrial Development Ltd (formerly known as LeTV Sports Culture Develop (HongKong) Co Ltd) [2018] HKCU 2939, the Court of First Instance reviewed the conflicting lines of authority in Hong Kong and decided to follow Euromark, holding at [89] that the lack of a credible defence per se did not amount to “strong cause” to refuse a stay in an EJC Application. Parallel developments in Singapore104 As these developments were unfolding abroad, the law in Singapore was evolving as well. In 2005, this court decided The Rainbow Joy [2005] 3 SLR(R) 719 (“The Rainbow Joy”). In that case, the plaintiff, a Philippine national who was employed under a contract governed by Philippine law, suffered an injury while he was working on board a vessel at sea. He then began an admiralty action in Singapore against his employer, the defendant. The defendant applied for a stay of the action in favour of the Philippines on the basis of the forum non conveniens doctrine. We will refer to such an application as a “FNC Application”. 105 On appeal, the plaintiff argued that a stay should be refused because the defendant had no genuine defence, relying on the Jian He line of cases. We rejected this argument, ruling at [27] that it is irrelevant, for the purposes of a FNC Application, whether the applicant has a genuine defence. 106 In Q & M Enterprises Sdn Bhd v Poh Kiat [2005] 4 SLR(R) 494 (“Q & M Enterprises”), the High Court cited The Rainbow Joy and also took the view that the merits of the defence are irrelevant in a FNC Application (at [48]). The court noted at [38] that in a FNC Application, the court was concerned with a question of jurisdiction, which was logically prior to the substantive merits of the dispute. 107 In sum, the effect of The Rainbow Joy was to draw a distinction between an EJC Application, where the lack of a genuine defence would establish strong cause to refuse a stay, and a FNC Application, where the merits of the defence were irrelevant. This distinction was soon subject to powerful criticism. First, in “Natural Forum and the Elusive Significance of Jurisdiction Agreements” [2005] SJLS 448 (“Natural Forum”), Prof Yeo stated at pp 456–457 as follows:To the extent that the suggestion is that the merits of the case play a larger role in exclusive jurisdiction agreement cases than in forum non conveniens, that distinction cannot be sustained.…It should take more to convince a court to sanction a breach of agreement than it would to convince the court not to let the case be heard in the natural forum. The rationale behind the strong cause test is that something more than the balance of convenience in forum non conveniens is required to justify the court allowing its procedure to be used in a breach of agreement: the contractual agreement should be enforced unless it would be unjust or unreasonable to do so. The injustice to be shown has to be of a higher order than that to persuade the court not to send the case to the prima facie natural forum under The Spiliada principles.[emphasis added in italics and bold italics]108 We endorse these observations: in particular, we entirely agree that “[i]t should take more” to persuade a court to refuse a stay in an EJC Application than in a FNC Application, as the former course involves sanctioning a breach of contract. The same point was made a few years earlier in Daniel Tan, “No Dispute Amounting to Strong Cause: Strong Cause for Dispute?” (2001) 13 SAcLJ 428 (“Tan”) at 440, where it was forcefully argued that “it is inconceivable that the unwilling defendant should have a higher burden on the merits to discharge when he has an exclusive jurisdiction clause in his favour”. 109 Second, apart from the questionable distinction between EJC and FNC Applications, it was noted that the distinction drawn between jurisdiction and merits in Q &M Enterprises (see [106] above) logically implied that in an EJC Application, the merits of the defence should be equally irrelevant: see Joel Lee, “Conflict of Laws” (2005) 6 SAL Ann Rev 144 at para 8.38. The reasoning in Q & M Enterprises implicitly cast doubt on the Jian He line of cases.110 The final relevant development is the decision of this court in Tjong Very Sumito and others v Antig Investments Pte Ltd [2009] 4 SLR(R) 732 (“Tjong Very Sumito”). The respondent applied for a stay of court proceedings commenced by the appellant in favour of arbitration under s 6 of the International Arbitration Act (Cap 143A, 2002 Rev Ed) (“the IAA”). We will refer to such an application as an “IAA Application”. The appellant submitted that in deciding whether there was a “dispute” to be referred to arbitration, the court should assess whether there was a bona fide dispute – in other words, whether there was a genuine defence – relying on The Jian He, among other cases. We disagreed, ruling at [46] that “a merely asserted dispute suffices to warrant a stay of court proceedings without any inquiry into the genuineness or merits of the defence”. The Jian He was distinguished at [48] on the basis that it did not involve an IAA Application.111 Having traced the development of the law, we now restate the principles governing an EJC Application. Restatement of the lawSummary112 In an EJC Application, the overarching test remains that of whether there is “strong cause” to refuse a stay. In determining whether this test is satisfied, the Eleftheria factors are relevant considerations (see [71] above). We note that this also appears to be the law in England (see Donohue at [24]), Australia (see Incitec Limited v Alkimos Shipping Corp and another (2004) 206 ALR 558 at [42]–[43]) and Canada (see ZI Pompey Industrie and Others v Ecu-Line NV (2003) 224 DLR (4th) 577 (“ZI Pompey”) at [19]). However, in applying the Eleftheria factors, the court should bear in mind that factors relating to the relative convenience of litigation in Singapore and abroad have little weight if they were foreseeable at the time of contracting (see [72] above). The court should also bear in mind our analysis of factor (d) below. 113 In our judgment, the time has come to depart from the rule in The Jian He. We hold that in determining whether to grant a stay in an EJC Application, the merits of the defence are irrelevant for two principal reasons:(a) First, for reasons of principle, policy and coherence in the law, the merits of the defence should be irrelevant in an EJC Application.  (b) Second, the doctrinal basis on which the merits of the defence were incorporated into the general test in an EJC Application – the No Desire for Trial Rationale – is flawed. So is the No Dispute Rationale. Our reasons for departing from the Jian He line of cases(1) Normative arguments114 The rule in The Jian He is inconsistent with the central principle of party autonomy that pervades the law in this field. The starting point is that an exclusive jurisdiction agreement is an agreement to bring all disputes within the scope of that agreement, regardless of their merits, to the agreed forum. As Prof Yeo put it in Natural Forum at p 454, “parties do not choose a contractual forum for dispute resolution only because they want to win in that forum; they choose a forum because they want to win or lose in that forum” [emphasis added]. Thus, where a court dismisses an EJC Application on the basis that there is no genuine defence, the court does not give effect to the parties’ agreement. This infringes party autonomy, which calls for the parties’ choice of forum to be respected. 115 The principle of party autonomy is deeply infused into the law governing the enforcement of exclusive jurisdiction agreements. It underlies the “strong cause” test, which sets a high threshold for a court to refuse a stay of proceedings commenced in breach of an exclusive jurisdiction agreement. It also explains why our courts readily grant anti-suit injunctions to restrain such proceedings. In our judgment, the rule in The Jian He must yield to this fundamental principle. 116 The rule in The Jian He generates uncertainty for commercial parties in the business of international trade. Under that rule, whether a dispute is decided in the agreed forum turns on an uncertain determination, by the non-contractual forum, of the merits, which may turn on contested issues of fact and foreign law. In our judgment, this is contrary to policy. In particular, it undercuts the management of venue risk – the risk that “a party [may be] required to initiate or defend proceedings in an unfavourable forum”: see Fentiman at para 2.01. Jurisdiction agreements allow commercial parties to reduce this risk by selecting the forum to resolve their disputes. But such agreements will only serve their purpose if they are enforced. Under the rule in The Jian He, however, whether a jurisdiction agreement is enforced turns on the merits of the disputes which may arise and, more significantly, on the assessment of the merits by the non-contractual forum. Commercial parties are thus not afforded much certainty that their disputes will be resolved in the agreed forum. This is undesirable because, as noted above, the reduction of venue risk is often critical in commercial agreements. Many such agreements might not have been concluded in the first place without a contractual jurisdiction clause.  117 The rule in The Jian He has led parties to expend significant costs at the interlocutory stage of proceedings and has delayed the resolution of disputes. In our judgment, this too is contrary to policy. The rule in The Jian He has frequently led to this unhappy situation because parties have engaged in costly steps such as translating documents and proving foreign law in a bid to establish a genuine defence, or the other party’s lack thereof. Further, parties have typically brought multiple appeals against the courts’ decisions on jurisdiction which have only served to increase the costs and delay. The present appeal illustrates this. Suit 99 was commenced on 1 February 2016, almost two and a half years before we heard this appeal. Substantial costs must have already been incurred at this early stage.  118 We note that the rule in The Jian He is sometimes justified on the basis that it leads to time and costs savings because it averts the need for the plaintiff to begin fresh proceedings in the agreed court to obtain judgment. We find this defence of the rule to be counterintuitive. First, if the argument is about duplication of resources, it has scant weight because the duplication is attributable to the plaintiff’s choice to sue in Singapore in breach of the jurisdiction agreement. Any prejudice suffered by the plaintiff is therefore entirely self-induced. Furthermore, if there is indeed no genuine defence, the plaintiff should be able to secure (summary) judgment in the agreed forum swiftly and with little expense. Second, if the argument is about relative convenience of litigation abroad and in Singapore, it has little force since this disparity was likely foreseeable when the jurisdiction agreement was made. 119 Finally, abandoning the rule in The Jian He would promote coherence in the law in two ways. First, it would align the law governing EJC Applications with the position in FNC and IAA Applications, where the merits of the defence are irrelevant to whether a stay should be granted (see [105] and [110] above). Second, it would bring consistency to the treatment of exclusive jurisdiction agreements (a point alluded to in Tan at pp 442–443). As noted above, anti-suit injunctions are readily granted to enforce exclusive jurisdiction agreements. We are not aware of any authority for the proposition that such anti-suit injunctions may be refused on the basis that the applicant has no defence to the claim. In our judgment, consistency in the law in these two respects is desirable, because the same normative considerations, such as party autonomy, underlie these areas. The law should therefore speak with a single voice across these fields. (2) Doctrinal arguments120 Furthermore, the doctrinal basis on which the merits of the defence were incorporated into the Eleftheria framework is flawed. 121 In the Jian He line of cases, the courts endorsed the No Desire for Trial Rationale: the proposition that where there is no genuine defence, the defendant does not genuinely desire trial in the agreed forum. However, the No Desire for Trial Rationale is problematic. As we have emphasised, an exclusive jurisdiction agreement is an agreement that a dispute will be resolved, whatever the merits, in the chosen forum. Hence, where parties make such an agreement, they express, at the time of contracting, a desire for trial in the agreed forum, regardless of the merits of the disputes that may arise. To assume that an applicant does not desire trial in the agreed forum whenever it does not have an arguable defence is to assume that the once-held desire fades away in such a case. But there are many reasons why the applicant for a stay may desire trial in the agreed forum, even if it has no genuine defence. For example, the forum may have rules regarding interest on judgment sums or on costs that are favourable to the applicant. In this light, it cannot be inferred from the mere fact that one has no genuine defence that one does not genuinely desire trial in the agreed forum. 122 Against this reasoning, it might be argued that where an applicant in an EJC Application has no genuine defence, it would only seek trial in the agreed forum for procedural advantages, and the second part of factor (d) – whether one is “only seeking procedural advantages” – recognises that this is illegitimate. However, we cannot agree with this argument. It is critical to bear in mind that what is a procedural advantage for one party is necessarily a procedural disadvantage for the other party, and vice versa. In our judgment, there is nothing wrong with a party seeking the procedural advantages of an agreed forum (as distinguished from pursuing tactical advantages in an abusive way, a distinction we elaborate on below). This was the view Prof Yeo took in “The Contractual Basis of the Enforcement of Exclusive and Non-Exclusive Choice of Court Agreements” (2005) 17 SAcLJ 306 at para 44, and he repeated it before us. We accept this view for two reasons:(a) As Yong Pung How J (as he then was) noted in The Asian Plutus [1990] 1 SLR(R) 504 at [19], “by choosing the court, [the parties] have chosen the procedure”. It lies ill in the mouth of the respondent in an EJC Application to suggest that the applicant is seeking illegitimate procedural advantages. Those advantages are the fruits of the agreement. (b) Further, one or both parties may have chosen the forum precisely because of its procedural advantages: see Edwin Peel, “Exclusive jurisdiction agreements: purity and pragmatism in the conflict of laws” [1998] LMCLQ 182 at 196.  In such a case, to refuse a stay on the ground that the applicant is only seeking it for procedural advantages would be to undercut the very basis of the jurisdiction agreement. 123 It follows from this analysis that factor (d) of the Eleftheria factors must be revised. We will return to this point below. In sum, in our judgment, besides the normative arguments set out above, the doctrinal basis on which the merits of the defence were incorporated into the Eleftheria framework is suspect.124 We would add that the No Dispute Rationale – the proposition that there is no dispute where there is no genuine defence – is also subject to criticism. It is inconsistent with the ordinary meaning of a “dispute”, which obtains even if one party to the dispute is clearly wrong. This point was illustrated by Saville J in Hayter v Nelson and Home Insurance Co [1990] 2 Lloyd’s Rep 265 at 268, in a passage that we cited in Tjong Very Sumito at [44]:… Two men have an argument over who won the University Boat Race in a particular year. In ordinary language they have a dispute over whether it was Oxford or Cambridge. The fact that it can be easily and immediately demonstrated beyond any doubt that the one is right and the other is wrong does not and cannot mean that that dispute did not in fact exist. … [emphasis added in italics and bold italics]125 More importantly, we also cannot accept the No Dispute Rationale for the reasons of principle, policy and coherence in the law set out above. Control mechanisms126 Having rejected the rule in The Jian He, there arises the issue of whether, leaving aside cases where the dispute involves persons who are not party to the jurisdiction agreement, which we briefly discuss below, there are any general grounds upon which a stay may be refused in an EJC Application.127 Mr Teh submitted that in an EJC Application, a stay should typically be granted unless the jurisdiction agreement is “incapable of performance”. He pointed out this control mechanism applies in an IAA Application (under s 6(2) of the IAA), and submitted that we should transpose this into the law governing EJC Applications. Prof Yeo submitted that such a control mechanism would be too restrictive. We agree with Prof Yeo. 128  In our judgment, there are at least two general grounds upon which a stay may be refused in an EJC Application where the only parties involved in the dispute are the parties to the jurisdiction agreement: namely, abuse of process and denial of justice. (1) Abuse of process129 In our recent decision in JTrust Asia Pte Ltd v Group Lease Holdings Pte Ltd and others [2018] 2 SLR 159, we observed at [99] that the concept of abuse of process pervades the whole law of civil procedure. In our judgment, this concept underlies factor (d) of the Eleftheria factors. As Prof Yeo opined,
+                   52
+
+
+
+
+Foot Note 52
+
+×
+
+
+
+  Prof Yeo’s opinion at para 47.
+
+
+
+ this factor is essentially targeted at addressing abusive conduct by the defendant. 130 Prof Yeo observed quite rightly, however, that factor (d) is framed infelicitously for two reasons. It suggests that the court must consider whether the applicant has a subjective desire for trial, but this is strictly irrelevant. It also wrongly suggests that it is improper for the applicant to seek procedural advantages in applying for a stay. In our judgment, factor (d) of the Eleftheria factors should be interpreted as encapsulating this inquiry: is the applicant acting abusively in applying for a stay of proceedings? 131 We wish to stress that the threshold for abusive conduct is very high; the cases in which factor (d) is fulfilled will be few and far between. One example that we raised during the hearing was that of an applicant who has clearly admitted to the claim as regards both liability and quantum, but seeks a stay for no reason other than its alleged inability to pay. In Tjong Very Sumito, we suggested at [59] that on those facts, a stay would be refused in an IAA Application, and it seems the position should be the same in an EJC Application. We recognise that in such a case, it might also be argued, by analogy from Tjong Very Sumito, that there is no “dispute” to be referred to the agreed forum. A stay might therefore be refused without the need to invoke the concept of abuse of process. But in our judgment, there is merit in retaining factor (d) to reflect this concept, to cater, at least, for that rare case in which it would be necessary to address abusive conduct. For example, factor (d) might apply if the applicant for the stay had started a media campaign in the agreed forum to malign the plaintiff, thus undermining the prospects of a fair trial. 132 We therefore do not follow Euromark at [17] (see [101] above) to the limited extent that Coulson J stated that factor (d) is irrelevant in an EJC Application. It is relevant to highlight that Coulson J rejected factor (d) on the basis that it related to issues of convenience, whereas we have held that it reflects a different concept, that of abuse of process.(2) Denial of justice133 A second ground upon which a stay might be refused is denial of justice. This might be made out, for example, if the agreed court had been dissolved by the time the dispute arose, or was not realistically available to determine the dispute because war had broken out in the jurisdiction.134  Further, as this court noted in The Vishva Apurva [1992] 1 SLR(R) 912 at [46], there may be some very exceptional cases where trial in the agreed court would be so overwhelmingly difficult or inconvenient that a stay would effectively deny the plaintiff access to justice. However, notorious delay in the judicial system of the agreed forum would generally not suffice in and of itself to constitute denial of justice. This is because the inefficiencies of the contractual forum would have been foreseeable, and the parties should thus be bound by their choice, despite the prospect of such delay, after the dispute arises (see [112] above).  135 We finally turn to address some peripheral issues which were raised in the course of the appeal hearing. Peripheral issues(1) Bills of lading and standard form contracts136 The EJC was not set out in a bill of lading. However, we note that in the Jian He line of cases as well as the cases from which the rule developed, the jurisdiction clauses were all in bills of lading. An issue that arises following our restatement of the law is whether the principles we have set out above apply equally to jurisdiction clauses in bills of lading and standard form contracts that the plaintiff was not in a position to negotiate. 137 On one hand, it might be contended that consistency in the law justifies taking the same approach to such jurisdiction clauses. Moreover, once a bill of lading comes into effect, it has no less contractual force than a freely negotiated contract. On the other hand, the central principle that underlies our restatement of the law is party autonomy, and this principle strictly does not apply with the same force where the plaintiff had no say in the fact or choice of the jurisdiction clause. 138 Prof Yeo submitted that the same principles should apply to jurisdiction clauses even where the plaintiff was not in a position to negotiate. We would express a tentative preference for this view, which appears to have been endorsed by the Supreme Court of Canada in ZI Pompey at [28]–[29]. But given the importance of the issue, and since it was not fully argued, we leave this issue open for determination in a subsequent case. (2) Parallel proceedings and time-bars139 Finally, we briefly discuss two other issues. In our restatement of the law, we have not discussed a case where the grant of a stay would lead to the fragmentation of a dispute across multiple jurisdictions because the dispute involves multiple parties, some of whom are not parties to the jurisdiction clause. In such cases, the risk of duplicative proceedings, inconsistent findings and incentivising a rush to judgment may well establish strong cause to refuse a stay: see Donohue at [27]. It is unnecessary for us to discuss this further, however, because this dispute only involved Vinmar and PTT, the parties to the EJC. It is sufficient for our immediate purposes to observe that the concern arising from such fragmentation of legal proceedings is legitimate and certainly one which merits proper consideration with the benefit of submissions, should the issue arise in a subsequent case before us.140 Second, Prof Yeo invited us to address the issue of time-bars. His main point was that in The Jian He, Golden Shore Transportation and The Hyundai Fortune, the plaintiff’s action was time-barred in the agreed forum but the courts did not treat this as a defence that the applicant could invoke to show that it had a genuine defence. Prof Yeo argued that this approach was not consistent with “the international trend towards a substantive characterisation of the time limitation defence”.
+                   53
+
+
+
+
+Foot Note 53
+
+×
+
+
+
+  Prof Yeo’s opinion at para 64.
+
+
+
+ However, given our holding that the merits of the defence are irrelevant in an EJC Application, the issue of whether the defendant can cite, as a defence, the fact that the action is time-barred in the agreed forum becomes moot. 141 The other point Prof Yeo raised concerned the circumstances where a plaintiff might establish strong cause against a stay on the basis that its claim was time-barred in the agreed forum. This is one of the Eleftheria factors (see [71] above). Prof Yeo submitted that a plaintiff would only be able to rely on this factor if there were “very good reasons” why it did not file a protective writ, that is, it would need “very good reasons” why it did not sue in the agreed forum. Absent a very compelling reason, the expiry of a time bar in the contractual forum would have been self-induced, by the plaintiff’s choice to sue in a non-contractual forum in breach of the exclusive jurisdiction agreement. We agree with this view, which is consistent with the law as it stands: see The Jian He at [33]. Issue 3: Prospective overruling142 We have decided that we should depart from the rule in The Jian He. There thus arises the issue of whether we should only overrule that rule with prospective effect. Mr Ting invited us to do so, submitting that the Jian He line of cases is well-entrenched in our law, and rejecting it would amount to a “wholesale revolutionary abandonment” of the old law that was unforeseeable. He also argued that PTT had relied on the Jian He line of cases, and would be prejudiced in time and costs if prospective overruling was not applied.
+                   54
+
+
+
+
+Foot Note 54
+
+×
+
+
+
+  Respondent’s reply submissions to the Amicus Curiae’s opinion at paras 30–33.
+
+
+
+ 143 In the recent case of Adri Anton Kalangie v Public Prosecutor [2018] 2 SLR 557, we held at [39] that prospective overruling would only apply in an exceptional case and affirmed that “[s]uch exceptionality is likely to be even more prominent in the context of civil cases”, citing our earlier observation in L Capital Jones Ltd and another v Maniach Pte Ltd [2017] 1 SLR 312 at [71]. We elaborated on this at [40] by holding that prospective overruling should only apply where departing from the normal retroactivity of a judgment was “necessary to avoid serious and demonstrable injustice to the parties or to the administration of justice” [emphasis added].144 In our judgment, the test of serious and demonstrable injustice has not been met. During the hearing, Mr Ting submitted that if prospective overruling were not applied, the court would be “changing the very foundation” on which the Contract was made. But as we pointed out to Mr Ting, there was no evidence that the EJC was specifically drafted based on the rule in The Jian He. We would accept the more general point that the Contract was made against the backdrop of the law as it stood. But that is true of all contracts, and cannot suffice to justify prospective overruling. Further, Mr Ting also confirmed that an action against Vinmar in England would not be time-barred. In the premises, we are satisfied that there would be no “serious and demonstrable injustice” that justifies an application of the doctrine of prospective overruling in this case. 145 We recognise, however, that PTT would suffer some prejudice from our departure from the rule in The Jian He because, when PTT resisted the stay, it would have had a legitimate expectation that that rule would be applied. In our judgment, this can be addressed by an order that there will be no order as to costs for the appeal and that the costs orders below shall remain.Issue 4: Application of the law 146 As noted above, the basis on which the AR and the Judge refused a stay of Suit 99 was that Vinmar did not have a genuine defence to PTT’s claim. We have now ruled, however, that the merits of the defence are irrelevant in determining whether to grant a stay in an EJC Application. Accordingly, the principal ground on which PTT sought to establish “strong cause” to refuse a stay falls away.147 Nevertheless, during the hearing, Mr Ting strove to persuade us that the abuse of process ground outlined above was satisfied. He submitted that Vinmar had sought to mislead the court that the parties had agreed for the Cargo to be shipped on or before 20 December 2014.
+                   55
+
+
+
+
+Foot Note 55
+
+×
+
+
+
+  Respondent’s reply submissions to Amicus’ opinion at para 51.
+
+
+
+ We disagree with this submission. As we pointed out to Mr Ting, this submission was an implicit invitation to us to examine the merits – an approach we have now abandoned in departing from the Jian He line of cases. Furthermore, the mere fact that Vinmar took a different position from PTT on the terms of the Contract was insufficient basis on which we could find that it was seeking to mislead the court. Conclusion148 In conclusion, we find that:(a) there is a good arguable case that the EJC governs the dispute in Suit 99; and(b) there is no strong cause to refuse a stay of Suit 99. 149 We therefore allow the appeal and order a stay of Suit 99.  There will be no order as to costs for the appeal and the costs orders below shall remain. In closing, we record our appreciation once again to Prof Yeo for his clear and detailed submissions which were of tremendous assistance. Finally, although we have allowed the appeal, we commend Mr Ting for the candour and tenacity with which he advanced PTT’s case before us. Sundaresh Menon        Andrew Phang Boon Leong     Judith PrakashChief Justice         Judge of Appeal       Judge of AppealTay Yong Kwang        Steven ChongJudge of Appeal        Judge of AppealTeh Kee Wee Lawrence, Loh Jen Wei and Chan Wai Yi, Kevin (Chen Weiyi) (Dentons Rodyk & Davidson LLP) for the appellant;Ting Yong Hong, Chen Zhida and Dinesh Sabapathy (Rajah & Tann Singapore LLP) for the respondent;Prof Yeo Tiong Min SC (School of Law, Singapore Management University) as amicus curiae. 

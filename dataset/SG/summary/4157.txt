@@ -1,0 +1,174 @@
+
+
+
+
+
+SUPREME COURT OF SINGAPORE
+
+
+28 August 2018
+
+
+Case summary
+
+
+
+Cicada Cube Pte Ltd v National University Hospital (Singapore) Pte Ltd
+
+Civil Appeal Nos 138 and 139 of 2016
+
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+Decision of the Court of Appeal (delivered by Justice of Appeal Tay
+Yong Kwang):
+
+
+
+Outcome: CoA dismisses appeals and clarifies the principles and procedures
+applicable to determinations of patent entitlement.
+
+
+Background to the appeal
+
+
+1 These are cross-appeals relating to the ownership of a patent (“the
+Patent”). The Patent relates to a system which allows patient specimens to
+be ordered and collected in an automated manner for laboratory testing,
+thereby reducing human error. Both parties, namely Cicada Cube Pte Ltd
+(“Cicada”) and National University Hospital (Singapore) Pte Ltd (“NUH”),
+worked together to develop this system. Cicada applied for and was granted
+the Patent in 2010. NUH challenged Cicada’s entitlement to the Patent
+through a reference (“the Reference”) to the Registrar of Patents (“the
+Registrar”) and subsequently to the High Court under s 47 of the Patents
+Act (Cap 221, 2005 Rev Ed) (“the Act”).
+
+
+2 The High Court found that both parties contributed to the invention and
+were entitled jointly to the Patent. Both parties appealed to the Court of
+Appeal contending that only their respective employees were responsible for
+the heart of the invention in the Patent, thereby entitling them to sole
+ownership of the Patent. The Court of Appeal dismissed both appeals.
+
+
+Facts
+
+
+3 Cicada is a software engineering company and the registered proprietor of
+the Patent. NUH is a company that operates a hospital. The invention in the
+Patent was developed as part of NUH’s project to digitise the clinical care
+processes in its hospitals. In particular, NUH wanted to develop a software
+to electronically process and store the data required for patient sample
+collection. It appointed Cicada to develop the software for this purpose.
+The software was called the Advanced Test Ordering Management System
+(“ATOMS”). From end-2004 to 2005, Dr Danny Poo Chiang Choon (“Dr Poo”) and
+Dr Anil Kumar Ratty (“Dr Ratty”) from Cicada and Dr Sunil Kumar Sethi (“Dr
+Sethi”) from NUH worked on this project and published various articles on
+it.
+
+
+4 Cicada applied for and was granted the Patent in 2010. The Patent is
+titled “Laboratory Specimen Collection Management System” and describes a
+system for automation of the specimen ordering and collection process, from
+the point of physician-patient contact until specimen delivery to the
+laboratory. After the Patent was granted to Cicada, NUH challenged Cicada’s
+entitlement to the Patent before the Registrar, three days before the
+expiry of two years from the date of grant for the Patent. The Registrar
+ultimately declined to determine the Reference. NUH then applied to the
+High Court for the determination of entitlement to the Patent. The High
+Court held that Dr Poo, Dr Ratty and Dr Sethi jointly invented the Patent
+and therefore Cicada and NUH were jointly entitled to the Patent. Both
+parties appealed against the High Court’s decision.
+
+
+Decision on appeal
+
+
+Procedure
+
+
+5 As the application to the High Court was made more than two years after
+the date of grant of the Patent, the Court of Appeal had to determine
+whether NUH was subject to the conditional time limit in s 47(9) of the
+Act. Section 47(9) of the Act provides that the court shall not in the
+exercise of “any such declaratory jurisdiction” determine patent
+entitlement if proceedings in which the jurisdiction is invoked were
+commenced more than two years after the date of grant of the patent, unless
+the applicant can show that the registered proprietor of the patent knew at
+the time of grant that he was not entitled to the Patent. Cicada argued
+that NUH was caught by this conditional time limit, whereas NUH contended
+that it was not.
+
+
+6 The Court of Appeal held that NUH was caught by the conditional time
+limit as it had commenced the High Court proceedings more than two years
+after the date of grant of the Patent. It held that the High Court and the
+Registrar had concurrent jurisdiction to determine patent entitlement,
+meaning that parties could apply to either forum to determine this
+question. If they applied to the High Court after two years from the date
+of grant of the Patent, the High Court could not determine the question
+unless it was shown that the proprietor knew that he was not entitled to
+the Patent at date of grant or date of transfer. The same would apply even
+if the parties had applied to the Registrar first (within the two-year
+period) and the Registrar declined to determine the question. Therefore, if
+a party chose to apply to the Registrar first and the Registrar had not
+made a determination by the two-year mark, it would be prudent for the
+party to withdraw the reference and commence proceedings in the High Court    ([44]–[47]).
+
+
+7 As NUH had applied to the High Court after the two-year period, it had to
+show that Cicada knew at the date of grant that it was not solely entitled
+to the Patent. On the facts, Dr Sethi, Dr Ratty and Dr Poo worked closely
+together on the invention in the Patent. They also worked jointly on
+academic papers describing the invention. From this, the Court of Appeal
+inferred that Cicada knew that it was not solely entitled to the Patent. It
+was hence empowered to determine the question of patent entitlement    ([55]–[60]).
+
+
+Substantive determination
+
+
+8 The Court of Appeal held that the substantive question of entitlement was
+a two-part inquiry as to the inventive concepts in the Patent, and the
+inventors and owners of the Patent. In identifying the inventive concepts,
+the court could look at both the specifications and the claims in the
+Patent. It was also possible for a Patent to encapsulate more than one
+inventive concept. The Court of Appeal identified two such concepts,
+namely:
+
+
+a. the automatic determination and relaying of specimen requirements to the
+specimen collection system by a specimen processing system that connects
+the specimen test ordering system to the specimen collection system; and
+
+
+b. the automatic and centralised retrieval by the specimen processing
+system of all information required to be printed on a label for the use of
+both the specimen taker and the laboratory analyser and the relaying of
+such information by the specimen processing system to the specimen
+collection system for printing on a single label    ([63]–[75], [83]).
+
+
+9 On the identity of the inventors, the Court of Appeal found that Dr
+Sethi, Dr Ratty and Dr Poo were the inventors as they had jointly
+formulated the inventive concepts. Dr Sethi had materially contributed to
+the various proposals and papers detailing the invention in the Patent, and
+Dr Ratty and Dr Poo had contributed their software expertise in an
+invention that required combined input from the healthcare and software
+sectors ([86]–[96]).
+
+
+10 Given that Dr Sethi, Dr Ratty and Dr Poo were the joint inventors,
+Cicada and NUH were jointly entitled to ownership of the Patent    ([97]). The appeals were hence dismissed.
+
+
+
+This summary is provided to assist in the understanding of the Court’s
+grounds of decision. It is not intended to be a substitute for the
+reasons of the Court. All numbers in bold font and square brackets
+refer to the corresponding paragraph numbers in the Court’s grounds of
+decision.
+
+

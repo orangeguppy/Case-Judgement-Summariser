@@ -4,10 +4,10 @@ from bs4 import BeautifulSoup
 # Scrape all pages (930), collect and combine all urls leading to individual judgement cases from all the pages
 # Link being scraped: https://www.elitigation.sg/gd (this code iterates through all pages in this link by changing the CurrentPage variable in the url)
 def scrape_all_pages(num_pages):
-    counter = 2000
+    counter = 10000
     print("Scraping URLs")
     urls = []
-    for i in range(190, 300):
+    for i in range(500, 600):
         print(i)
         # ...CurrentPage={i}...: i represents the page number to scrape from
         url = f"https://www.elitigation.sg/gd/Home/Index?Filter=SUPCT&YearOfDecision=All&SortBy=DateOfDecision&CurrentPage={i}&SortAscending=False&PageSize=0&Verbose=False&SearchQueryTime=0&SearchTotalHits=0&SearchMode=True&SpanMultiplePages=False"

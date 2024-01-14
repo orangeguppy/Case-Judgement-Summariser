@@ -1,0 +1,203 @@
+
+
+ 
+
+
+SUPREME COURT OF SINGAPORE
+
+
+26 November 2019
+
+
+Case summary
+
+
+
+Harmonious Coretrades Pte Ltd v United Integrated Services Pte Ltd
+
+
+[2019] SGCA 77
+
+
+
+Civil Appeal No 126 of 2019
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+Decision of the Court of Appeal (delivered by Justice Tay Yong Kwang):
+
+
+
+Outcome: CoA gives its reasons for restoring a final garnishee
+order which was set aside on the basis that the debt underlying the
+garnishee order had been extinguished.
+
+
+1 This was an appeal against the decision of a High Court Judge (“the
+Judge”) to set aside a final garnishee order (“the Final Garnishee Order”).
+
+
+Background to the appeal
+
+
+2 The respondent, United Integrated Services Pte Ltd (“UIS”), was the main
+contractor for a construction project. It engaged a third party, Civil Tech
+Pte Ltd (“CTPL”), to carry out construction works for the project. CTPL in
+turn engaged the appellant, Harmonious Coretrades Pte Ltd (“HCPL”), as its
+sub-contractor: at [3].
+
+
+3 On 31 August 2018, HCPL obtained against CTPL an adjudication
+determination under the Building and Construction Industry Security of
+Payment Act (Cap 30B, 2006 Rev Ed) (“the SOPA”). CTPL failed to make
+payment. HCPL thus sought and obtained leave to enforce the adjudication
+determination as a judgment of the court: at [4]-[    6].
+
+
+4 HCPL then commenced garnishee proceedings against UIS, seeking an order
+that all debts due from UIS to CTPL be attached to answer the debt owing
+from CTPL to HCPL. At the hearing for the garnishee to show cause, UIS
+informed the court that it had no objections to the garnishee application.
+The provisional garnishee order was thus made final: at [7
+]-[8].
+
+
+5 UIS later formed the view that CTPL was insolvent and owed money to UIS,
+instead of UIS owing money to CTPL. UIS eventually did not make payment on
+the Final Garnishee Order. On 22 November 2018, UIS filed applications
+against HCPL and CTPL, seeking a stay of enforcement of any adjudication
+determinations and a stay of the Final Garnishee Order. UIS’ position was
+that the Final Garnishee Order was premised on a debt owed by UIS to CTPL,
+which arose from an adjudication determination rendered on 23 October 2018
+(“AD1”). However, by virtue of a subsequent adjudication determination
+rendered on 23 November 2018 (“AD2”), UIS no longer owed CTPL any debt.
+Instead, the adjudicator in AD2 took into consideration the values
+determined in AD1, and arrived at a finding that CTPL owed UIS
+approximately $1.18m: at [10]-[13].
+
+
+6 On 15 January 2019, HCPL, UIS and CTPL appeared before the Judge for the
+hearing of UIS’ stay of enforcement applications. The Judge ordered a stay
+of enforcement of AD1 by CTPL against UIS, unless CTPL obtains an order
+setting aside AD2. The Judge did not order a stay of enforcement in
+relation to the Final Garnishee Order. Upon the hearing of further
+arguments, the Judge varied his order in relation to the stay of
+enforcement of AD1 to an unconditional stay of enforcement. The Judge held
+that as between UIS and CTPL, only AD2 was enforceable, as it had
+superseded AD1. Further, there was clear and objective evidence that CTPL
+was insolvent: at [15]-[19].
+
+
+7 Shortly after AD2 was rendered, on 11 December 2018, UIS applied to set
+aside the Final Garnishee Order. The assistant registrar dismissed UIS’
+application. UIS appealed. The Judge allowed UIS’ appeal and set aside the
+Final Garnishee Order. The Judge first noted that the court retained the
+“residual discretion flowing from its inherent powers to prevent injustice”
+to set aside any order of court. The essential touchstone to invoking the
+court’s inherent powers was that of “need”. The Judge held that there was
+such a need for three reasons: (a) as UIS had obtained a stay of
+enforcement of AD1, the substratum of the Final Garnishee Order was held in
+abeyance; (b) upholding the Final Garnishee Order could expose UIS to a
+debt it may not even owe; and (c) as CTPL was insolvent, allowing the
+enforcement of the Final Garnishee Order would unduly favour HCPL at the
+expense of UIS should CTPL subsequently be wound up. HCPL appealed the
+Judge’s decision to set aside the Final Garnishee Order: at [20]-[23] and [24]-[    25].
+
+
+Decision on appeal
+
+
+8 The Court of Appeal allowed HCPL’s appeal and restored the Final
+Garnishee Order: at [28].
+
+
+9 On the issue of the court’s power to set aside the Final Garnishee Order,
+the Court of Appeal noted that there were at least three circumstances in
+which a court may set aside a judgment or order of court. However, these
+three circumstances were not exhaustive and the court retained a residual
+discretion to set aside a judgment or court order. This flowed from the
+court’s inherent powers to prevent injustice. The court’s inherent powers
+are preserved by O 92 r 4 of the Rules of Court (Cap 322, R 5, 2014 Rev
+Ed). The Court of Appeal emphasised, however, that this is not a licence to
+litigants to make frivolous applications to set aside judgments or court
+orders. The Court of Appeal accepted that one situation where the court’s
+inherent power could be invoked might be where the substratum of a court
+order has been destroyed, such that the continued existence of the court
+order would lead to injustice: at [34], [    36]-[37] and [40].
+
+
+10 The Court of Appeal held that the essential touchstone for the
+invocation of the court’s power was that of “need”. On the facts, the
+grounds relied upon by the Judge did not constitute sufficient reason, or
+caused such injustice, that the court had to invoke its inherent power to
+set aside the Final Garnishee Order: at [43].
+
+
+11 The Judge’s decision was premised upon the reasoning that AD2 had
+superseded AD1, so that AD1 was no longer enforceable by CTPL against UIS.
+This was not correct. Adjudication determinations do not supersede one
+another but are each enforceable independently in their own right unless or
+until impugned on the grounds as provided in the SOPA. It was not disputed
+that AD1 was not impugned under any of the three grounds as provided in the
+SOPA. Accordingly, AD1 was imbued with temporary finality and was binding
+as between UIS and CTPL: at [44]-[45] and
+[47].
+
+
+12 The narrow question that remained was whether AD2 could nonetheless
+impugn or supersede AD1. The Court of Appeal held that AD2 could have no
+such effect for two reasons:
+
+
+a. First, it would run counter to the legislative purpose behind the SOPA
+to hold that parties could seek to rely on subsequent adjudication
+determinations to impugn, set off, or otherwise diminish the enforceability
+of an earlier adjudication determination. The legislative purpose of the
+SOPA was to facilitate cash flow in the building and construction industry.
+The adjudication process established under the SOPA was based on the idea
+that parties to a construction contract should “pay now, argue later”. The
+Judge’s reasoning that only the final adjudication determination between
+parties is enforceable would run counter to this philosophy, and change it
+to “pay only at the end”. The scheme of the SOPA is that even if the
+upstream party has valid counter-claims against a downstream party, its
+obligation is to pay up on an adjudication determination and pursue those
+counter-claims later: at [48] and [52].
+
+
+b. Second, AD2 did not, in itself, create a debt owing from CTPL to UIS.
+Although the adjudicator in AD2 found that it was UIS that had a net claim
+against CTPL for approximately $1.18m, that did not have the effect in law
+of giving UIS a claim against CTPL for $1.18m. All that was decided under
+AD2 was that UIS did not have to pay CTPL on that claim. The SOPA only
+provides for a downstream party to apply for adjudication and an
+adjudication determination cannot result in a downstream party paying an
+upstream party. The net effect of AD1 and AD2 is that the sums owing under
+AD1 still stand. It was thus inaccurate to say that UIS would be required
+to pay a debt it did not owe if the Final Garnishee Order were enforced: at
+[53]-[56].
+
+
+13 The Court of Appeal also held that no injustice would be occasioned by
+reason of CTPL’s insolvency. The consequence of upholding the Final
+Garnishee Order would be that HCPL would have its claim against CTPL
+satisfied in full whereas UIS would not be able to set-off its debt to CTPL
+against claims that it might have against CTPL. However, this did not
+warrant the setting aside of the Final Garnishee Order. The provisional
+garnishee order was made final at the show cause hearing without objection.
+Accordingly, as at that date, UIS was obligated to pay the garnished sum to
+HCPL which had acted diligently in enforcing its claim against CTPL. The
+Court of Appeal expressed no views on whether the Final Garnishee Order
+would constitute a preferential discharge of HCPL’s claim against CTPL: at
+[58], [60]-[62].
+
+
+
+This summary is provided to assist in the understanding of the Court’s
+grounds of decision. It is not intended to be a substitute for the
+reasons of the Court. All numbers in bold font and square brackets
+refer to the corresponding paragraph numbers in the Court’s grounds of
+decision.
+
+

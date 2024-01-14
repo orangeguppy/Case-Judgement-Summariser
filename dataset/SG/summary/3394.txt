@@ -1,0 +1,48 @@
+
+SUPREME COURT OF SINGAPORE
+6 April 2020
+Case summary
+I-Admin (Singapore) Pte Ltd v Hong Ying Ting and others [2020] SGCA 32
+Civil Appeal No 5 of 2019 
+----------------------------------------------------------------------------------------------------
+Decision of the Court of Appeal (delivered by Chief Justice Sundaresh Menon):
+Outcome: CoA partially allows company’s appeal against former employees and related parties for breaches of copyright and confidence. The Court sets out a modified approach for breach of confidence claims. 
+
+Facts
+1 I-Admin (Singapore) Pte Ltd (“the appellant”) is a Singapore incorporated company in the business of payroll administrative data processing services (“Payroll Systems”) and human resource information systems (“HRIS”). The appellant’s services are used in 15 countries across Asia and it operates a number of wholly owned subsidiaries including I-Admin (Shanghai) Pte Ltd (“I-Admin (Shanghai)”). 
+2 Mr Hong Ying Ting (the “first respondent”) joined the appellant in 2001. Sometime in 2009, he began working with an employee of I-Admin (Shanghai), Mr Liu Jia Wei (the “second respondent”), to develop a new payroll software. The pair eventually secured an investor for their business and incorporated Nice Payroll Pte Ltd (the “third respondent”) on 18 March 2011. The first and second respondents also resigned from the appellant and I-Admin (Shanghai) to work for the third respondent.  
+3 In February 2013, the appellant came across the third respondent’s website and decided to conduct forensic investigations into the respondents. Shortly after, it commenced Suit No 585 of 2013 (“Suit 585/2013”) and successfully applied for an Anton Pillar Order (“APO”). The APO was executed at the third respondent’s premises. A number of the appellant’s materials were recovered from the first respondent’s laptop and third respondent’s server. It also came to light that the first and second respondents had circulated some of these materials via email. 
+4 In Suit 585/2013, the appellant brought claims for, among other things, infringement of its copyright and acts in breach of confidence. The allegedly infringed materials included: 
+
+source codes for the appellant’s Payroll Systems and HRIS (“Category 1 materials”)
+databases and other materials constituting the technical infrastructure supporting the Payroll Systems and HRIS (“Category 2 materials”);
+business development and client-related materials (“Category 3 materials”); and 
+materials related to its operations, such as documents setting out internal guidelines and policies (“Category 4 materials”). 
+
+Background to the appeal
+
+5 The High Court judge (“the Judge”) held that there was no copyright infringement. Neither were the respondents in breach of their obligations of confidence. On the former, the Judge determined that there had been no substantial copying of the Category 1 and 2 materials. He also dismissed the claim in relation to the Category 3 materials because the appellant failed to identify and compare infringing materials belonging to the respondent. No substantive submissions were made on the Category 4 materials and the Judge considered it unnecessary to deal with this.
+6 The Judge noted that there were three elements of a successful claim for breach of confidence (set out in Coco v AN Clark (Engineers) Ltd [1969] RPC 41 (“Coco”) at 47): 
+
+the information must possess the quality of confidence; 
+the information must have been imparted in circumstances importing an obligation of confidence; and
+there must have been unauthorised use of the information to the detriment of the party from whom the information originated. 
+
+The appellant’s case failed on the third limb of Coco because there was no unauthorised use of its confidential information in the relevant sense. The Judge rejected the argument that the mere copying of or access to the appellant’s data satisfied this requirement. 
+7 The appellant challenged these findings. It asserted that the respondents had (i) substantially reproduced and/or adapted the Category 2 materials for financial gain (“higher level claim”); and (ii) downloaded, possessed and circulated unauthorised copies of the Category 1 to 3 materials (“lower level claim”). In respect of its breach of confidence claim, the appellant submitted that the Judge took an unduly narrow approach towards the requirement of unauthorised use. This fell short of the policy objectives underpinning the law of confidence.
+The court’s judgment
+8 The Court of Appeal found that while the lower level claim was the primary focus on appeal, it had not been part of the appellant’s pleaded case. Both the pleadings and the manner in which the appellant ran its case below had clearly prioritised the higher level claim (at [30]–[33]). The Court noted that had the lower level claim been signposted, the trial before the Judge would have proceeded quite differently. It was therefore too late for the appellant to pursue this argument on appeal (at [35]).
+9 The higher level claim concerned the substantial reproduction of Category 2 materials to develop the third respondent’s payitem bible (at [36]–[39]). The question of infringement turned on whether the respondents had reproduced the organisation of the Category 2 materials (at [40]). The Court answered this in the negative. Both the drafts and the final version of the third respondent’s payitem bible contained differences in arrangement which sufficiently distinguished them from the appellant’s materials (at [41]–[42]). There was accordingly no copyright infringement. 
+10 In response to the appellant’s argument for a modernised approach towards the law of confidence, the Court addressed its mind to three questions (at [45]): 
+
+What interests are sought to be protected by the cause of action? 
+What is the nature of the threat to these interests? 
+What are the remedies that ought to be made available where the relevant interests have been infringed? 
+
+11 There were two interests that guided the operation of breach of confidence claims: a plaintiff’s interest to (i) prevent the wrongful gain or profit from its confidential information (“wrongful gain interest”) (at [50]); and (ii) to avoid wrongful loss, which was the loss occasioned to a plaintiff whose information had lost its confidential character or had that character threatened by the unconscionable acts of a defendant (“wrongful loss interest”) (at [53]). The legal framework in Coco explicitly protected the wrongful gain but not necessarily the wrongful loss interest. It also failed to offer adequate recourse where the wrongful loss interest had been affected (at [54]–[55], [57]–[58]). 
+12 The Court set out a modified approach to be taken towards breach of confidence claims. In line with the first two requirements of Coco, a court had to consider whether the relevant information had the necessary quality of confidence about it and if it was imparted in circumstances importing an obligation of confidence. Upon satisfaction of these prerequisites, an action for breach of confidence would be presumed. This presumption would be displaced on proof by the defendant that its conscience was not affected in the circumstances in which the plaintiff’s wrongful loss interest had been harmed or undermined. The reversal in the burden of proof placed greater focus on the wrongful loss interest without undermining the protection of the wrongful gain interest (at [61]). It also addressed the evidential difficulties faced by owners of confidential information in bringing a claim in confidence (at [62]). 
+13 It was undisputed that the appellant’s materials were confidential and the respondents were under an obligation to preserve their confidentiality. This obligation was prima facie breached by the acquisition, circulation and reference to the appellant’s materials without permission (at [63]). The respondents had not displaced the presumption that their conscience was negatively affected. They had accordingly acted in breach of confidence (at [64]–[66]). 
+14 The Court held that the appellant’s injury should be vindicated by an award of equitable damages. This remedy was attractive because it afforded the flexibility to determine the manner in which damages should be assessed (at [77]). In that regard, the Court took guidance from the decisions of Seager v Copydex [1967] 1 WLR 923 and Seager v Copydex (No 2) [1969] 1 WLR 809. To assess the value of the appellant’s information, it was relevant to consider the time and expense that the respondents saved by using the appellant’s materials as a springboard to develop their own intellectual property and set up a competing business. The determination of the precise measure of damages was remitted to the Judge (at [78]–[79]).  
+ 
+This summary is provided to assist in the understanding of the Court’s grounds of decision. It is not intended to be a substitute for the reasons of the Court. All numbers in bold font and square brackets refer to the corresponding paragraph numbers in the Court’s grounds of decision.
+ 

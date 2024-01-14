@@ -1,0 +1,90 @@
+
+SUPREME COURT OF SINGAPORE
+12 April
+2019
+Case summary
+Malayan Banking
+Bhd v Barclays Bank PLC [2019]
+SGHC(I) 04
+Originating Summons No 1 of 2018
+----------------------------------------------------------------------------------------------------------------
+Decision of Jeremy Lionel Cooke IJ:
+Outcome: The SICC holds that the
+defendant, Barclays, is liable to reimburse the plaintiff, Maybank, for
+transferring a sum of US$871,085.61 to a third party pursuant to a payment
+instruction which Barclays sent Maybank via the SWIFT (Society for Worldwide
+Interbank Financial Telecommunication) system but which Barclays subsequently
+sought to cancel.
+ 
+Background
+1          The plaintiff, Malayan Banking Berhad (“Maybank”), applied for declarations vis-à-vis the defendant, Barclays Bank PLC
+(“Barclays”), that:
+(a)        an
+implied contract arose between the parties by Barclays sending to Maybank and
+Maybank accepting and acting upon the payment instruction contained in a Society for Worldwide Interbank Financial
+Telecommunication (“SWIFT”) “MT 103 STP”;
+(b)        pursuant
+to such an implied contract, Barclays was obliged to initiate a sequence of
+transfers that would have ultimately led to Maybank being paid the funds in
+relation to the MT 103 STP; and
+(c)        Barclays
+breached such an implied contract by failing to initiate the said sequence of
+transfers.
+Maybank
+further sought an order that Barclays pay Maybank the sum of US$871,085.61,
+being the equivalent of the interbank settlement amount specified in the
+MT 103 STP.
+2          Barclays did not initiate the said
+sequence of transfers set out in para 1(b) because, after sending the MT 103 STP, Barclays received information that the funds to be transferred had been
+received by its customer in “questionable circumstances”. Barclays thus
+cancelled the “MT 202 COV” instruction it had initially sent, where the
+MT 202 COV instruction was supposed to provide the cover payment for
+Maybank in relation to the MT 103 STP.
+3          Maybank’s case, which was founded on principles of contract law and banking law
+relating to entitlement to reimbursement for fulfilment of instructions from
+other banks, was that an implied contract arose between the parties upon
+Barclays sending the MT 103 STP to Maybank and Maybank acting upon it.
+4          Barclays’ case was that Maybank was
+not entitled to treat the MT 103 STP as irrevocable because it could be
+cancelled and was so cancelled by Barclays when it sent another SWIFT message upon
+the discovery of a potential fraud. Barclays also submitted that Maybank acted
+in a manner inconsistent with market practice by effecting the credit transfer
+without having first received the cover payment and that this was an internal
+credit risk decision which Maybank took and for which it should bear the
+consequences. 
+5          The
+originating summons took the form of proceedings with oral evidence and cross-examination.
+ 
+The
+Court’s ground of decision
+6          The
+SICC found the conduct of both Barclays and Maybank explicable only on the
+basis, as supported by the SWIFT documentation, of an implied contract
+requiring Barclays to reimburse Maybank for payment made on Barclays’ express
+instructions (at [23]). The SICC
+held that in the context of the SWIFT system, the sending of the MT 103
+STP carried within it an implied promise on the part of the “Sending Bank” (ie, the bank issuing the MT 103
+STP, which in this case was Barclays) to issue an MT 202 COV and to make
+the necessary payment to cover the payment which the “Receiving Bank” (which,
+in this case, was Maybank) was instructed to make (at [52]). Contrary to Barclays’ case, the MT 103 STP was not merely a document setting out information
+as to the identity of the beneficiary and the amount to be paid, but an
+instruction to pay, which – when acted upon – gives rise to an obligation on
+the part of the Sending Bank to pay the covering sum to the Receiving Bank (at [56]).
+7          The SICC also rejected Barclays’
+alternative arguments. It found that Barclays could not show that there was an
+established banking practice that Receiving Banks did not pay on MT 103
+STPs until a cover payment had been received, let alone that Receiving Banks
+which had paid sums pursuant to MT 103 STPs before receipt of a cover
+payment were not entitled to be reimbursed (at [89]). It also rejected Barclays’ submission that to make payment
+at the material time or after investigation would fall foul of para 5.5 of the
+SWIFT General Terms and Conditions, because Barclays could have made payment
+without breaching industry practice or relevant laws, regulations or third-party
+rights (at [110]).
+8          Thus, the SICC held that Maybank was entitled
+to the declarations sought and to judgment in the sum of US$871,085.61 (at [111]).
+ 
+This summary is provided to assist in
+the understanding of the Court’s grounds of decision. It is not intended to be
+a substitute for the reasons of the Court. All numbers in bold font and square
+brackets refer to the corresponding paragraph numbers in the Court’s grounds of
+decision.

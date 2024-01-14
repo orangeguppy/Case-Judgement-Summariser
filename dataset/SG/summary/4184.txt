@@ -1,0 +1,334 @@
+
+SUPREME COURT OF SINGAPORE
+2 August 2018
+Case summary
+Turf Club Auto Emporium Pte Ltd and
+others v Yeo Boong Hua and others and another appeal [2018] SGCA 44 
+Civil Appeals Nos 168 and 171 of 2015
+----------------------------------------------------------------------------------------------------------------
+Decision of the Court of Appeal
+(delivered by Andrew Phang Boon Leong JA):
+Outcome: CoA finds appellants liable in contract and tort for breaches of
+consent order to settle a joint venture dispute; grants damages assessed by
+reference to respondents’ shareholding in joint venture companies.
+Pertinent and significant points of the
+judgment
+
+
+Wrotham Park damages (this term originates from the
+    English High Court decision of Wrotham Park Estate Co Ltd v Parkside Homes
+    Ltd and Others [1974] 1 WLR 798) are a recognised head of damages
+    under Singapore law. They are objective awards aimed at compensating the
+    plaintiff for the loss of his performance interest (ie, the primary right to performance of the defendant’s
+    obligations) due to the defendant’s breach of contract. However, they fulfil
+    this purpose only in a specific and limited category of cases: at [215].
+
+
+There
+    are three legal requirements that need to be satisfied before a court can award
+    Wrotham Park damages. First, as a
+    threshold requirement, the court must be satisfied that orthodox compensatory remedies
+    are unavailable. Second, it must, as a general rule, be established that there
+    has been (in substance, and not merely in form) a breach of a negative
+    covenant. Third, it must not be irrational or totally unrealistic to expect the
+    parties to bargain for the release of the relevant covenant, even on a
+    hypothetical basis: at [217].
+
+
+Wrotham Park damages are to be measured by such a
+    sum of money as might reasonably have been demanded as a quid pro quo for relaxing the covenant. The assessment is objective
+    and by reference to a hypothetical bargain rather than the actual conduct and
+    position of the parties: at [244].
+
+
+1          Civil
+Appeals Nos 168 and 171 and 2015 arose out of a dispute between two groups
+of parties which entered into a joint venture to develop a site in Bukit Timah
+referred to as “Turf City”.
+Background
+to the appeal
+2          The
+first group, collectively known as the “SAA Group”, comprised five individuals:
+Tan Huat Chye (“Tan Senior”), Tan Chee Beng (“Tan CB”), Koh Khong Meng
+(“Koh KM”), Ng Chye Samuel (“Samuel Ng”) and Ong Cher Keong (“Ong CK”).
+The second group comprised the Respondents. SAA Group and the Respondents held,
+respectively, 62.5% and 37.5% of the shares in the two companies incorporated
+pursuant to this joint venture (“the JV Companies”).
+3          In
+2001, the site was leased from the Singapore Land Authority (“SLA”) by
+Singapore Agro Agricultural Pte Ltd (“SAA”), a company controlled by the SAA
+Group. SAA granted sub-tenancies to the JV Companies, which in turn
+granted sub-sub-tenancies to ultimate tenants. The rent or fees payable by the
+ultimate tenants was the main source of revenue for the JV Companies. In
+2004, this head lease expired and was renewed for another three years through a
+fresh head lease (“the 2004 Head Lease”).
+4          While
+the site was being developed, the two groups fell into disputes. The
+Respondents commenced actions based on, among other things, allegations of
+minority oppression (“the Consolidated Suits”). The named defendants were the
+JV Companies, SAA, Samuel Ng, Koh KM and Tan Senior (“Defendants
+(Consolidated Suits)”), but not Tan CB or Ong CK. 
+5          Before
+the Consolidated Suits proceeded to trial, the parties reached a settlement
+that was recorded by the High Court in a consent order (“the Consent Order”). The
+Consent Order provided for a bidding exercise to be conducted within certain
+timelines so as to end the joint venture by extricating either the Respondents
+or the SAA Group from the JV Companies (“the Bidding Exercise”). The higher
+bidder would purchase the shares of the lower bidder, and those behind the
+lower bid would resign as directors of the JV Companies. Two external
+entities (“the KPMG Entities”) were engaged to conduct a valuation of the
+shares of the JV Companies and supervise the Bidding Exercise.
+6          However,
+there was a delay in the issuance of the valuation reports. During this period,
+unbeknownst to both the KPMG Entities and the Respondents, SAA renewed the
+2004 Head Lease with SLA for another three years (“the 2007 Head Lease”).
+Crucially, unlike in the case of the previous head leases, SAA did not grant
+corresponding sub-tenancies to the JV Companies. As a result, the KPMG Entities’
+valuation reports reflected a very pessimistic outlook because they did not
+take into account the 2007 Head Lease and the earning capacities of the
+JV Companies in the period after the expiry of the 2004 Head Lease. Eventually,
+the 2007 Head Lease came to light. The Respondents called for revised valuation
+reports to be issued but the SAA Group refused to do so.
+Procedural
+history
+7          In
+2009, the Respondents commenced High Court Suit No 27 against the Appellants,
+claiming the following:
+
+
+contractual breaches of the Consent
+    Order, namely, cl 11 (which required parties to preserve the status quo during the implementation of
+    the Consent Order); an implied term that SAA would not appropriate for itself
+    the benefit of the 2007 Head Lease pending full performance of the Consent
+    Order; and cl 5 (which required the Defendants (Consolidated Suits) not to
+    interfere or hinder the KPMG Entities’ discharge of their duties in respect of
+    the valuation exercise);
+
+
+in the alternative, breaches of
+    fiduciary duties owed to the Respondents; and
+
+
+in the alternative, liability in tort
+    for conspiring to breach the Consent Order and/or inducing the breaches of the
+    Consent Order.
+
+
+8          The
+High Court judge (“the Judge”) found that the Defendants (Consolidated Suits)
+had breached cl 11, the implied term and cl 5 of the Consent Order,
+by SAA’s acquisition of the 2007 Head Lease without granting sub-tenancies to
+the JV Companies and their omission to inform the KPMG Entities of the
+2007 Head Lease. The Judge also found that all three breaches were repudiatory
+in nature (“the Repudiatory Breaches”). 
+9          On
+appeal, the Court of Appeal upheld the Judge’s findings on the Repudiatory
+Breaches but disagreed that the Consent Order could therefore be set aside and
+the Consolidated Suits revived. Subsequently, the Court directed parties to
+address three issues: (a) whether the Appellants owed fiduciary duties to
+the Respondents and, if so, whether those duties were breached (“the Fiduciary
+Duties Issue”); (b) which parties were liable in contract for each of the
+Repudiatory Breaches, and therefore subject to any contractual remedies that
+the court may impose (“the Party Issue”); and (c) what remedies should
+follow from the Repudiatory Breaches (“the Remedy Issue”). With regard to the
+Remedy Issue, the key question was whether there was scope for the award of Wrotham Park damages as well as the head of damages recognised
+in the UK House of Lords decision of Attorney-General
+v Blake (Jonathan Cape Ltd Third Party) [2001] AC 268 (“AG v Blake damages”).
+10        Following
+the hearing of these three issues in August 2017, the Court remitted a question
+to the Judge on whether the Appellants who were not liable in contract might
+nonetheless be liable in tort (“the Tort Issue”). The Judge delivered his
+supplementary judgment in October 2017, holding that: (a) Tan CB, Koh KM,
+Tan Senior and Ong CK were liable for the tort of conspiracy to injure the
+Respondents by unlawful means (ie, by
+procuring the breaches of the Consent Order); and (b) Tan CB, Tan
+Senior and Ong CK were liable for the tort of inducing the breaches of the
+Consent Order by SAA. The Court heard the parties on the correctness of these
+findings in March 2018.
+Decision
+on appeal
+11        In
+respect of the four issues mentioned above, the Court of Appeal held as follows:
+
+
+The Respondents’ claim for breach of
+    fiduciary duties was dismissed.
+
+
+SAA and Koh KM were liable in
+    contract for the Repudiatory Breaches.
+
+
+Neither an award of Wrotham Park damages nor AG v
+    Blake damages was appropriate on the facts of the case.
+
+
+Tan CB and Tan Senior were liable for
+    the torts of conspiracy and inducing breaches of contract.
+
+
+The Fiduciary Duties Issue
+12        The
+SAA Group and the Respondents were not in a fiduciary relationship. Their
+relationship was formal and commercial in nature. It was not one of mutual
+trust and confidence that would give rise to a legitimate expectation on the
+part of the Respondents that the SAA Group would not utilise its position to
+act in a way adverse to the Respondents’ interests (at [42]–[45]). 
+13        Even
+if the SAA Group owed the Respondents fiduciary duties, the majority of the
+alleged breaches had not been pleaded and had to be disregarded (at [48]). Moreover, since the same claims were
+pleaded as part of the minority oppression action in the Consolidated Suits, they
+had been compromised by the Consent Order. It would be an abuse of process for
+the Respondents to re-characterise these claims as breaches of fiduciary duties
+and re-litigate them (at [49]). Thus,
+the Respondents’ claim for breach of fiduciary duties was dismissed.
+The Party Issue
+14        Tan
+Senior, Tan CB and Ong CK were not liable in contract for the
+Repudiatory Breaches as they were not parties to the Consent Order. Insofar as
+Tan Senior was concerned, there was insufficient evidence to show that he was a
+party to the Consent Order. The mere fact that he was named within it, or that
+he might have known about it, were both insufficient bases for finding that he
+was party to the same (at [61]–[63]).
+As for Tan CB and Ong CK, they had not been named within the Consent
+Order, nor were they parties to the Consolidated Suits which the Consent Order had
+purported to settle (at [64]).
+16        SAA
+had breached cl 11 and the implied term of the Consent Order by its
+appropriation of the benefit of the 2007 Head Lease (at [68]). In addition, SAA had breached cl 5 by failing to
+disclose the existence of the 2007 Head Lease to the KPMG Entities,
+thereby hindering the discharge of their duties (at [70]).
+17        Koh KM
+had also breached cl 5 of the Consent Order. Given his involvement in the
+SAA Group and his status as director of the JV Companies, Koh KM
+must have known about the 2007 Head Lease at the time when it was granted to
+SAA or shortly thereafter. Since he came to know of such information that was
+material to the KPMG Entities’ discharge of their duties, he should have
+disclosed the existence of the 2007 Head Lease to them. His failure to do so
+was a breach of cl 5 (at [73]–[87]).
+Thus, SAA and Koh KM were liable in contract for the Repudiatory Breaches.
+The Remedy Issue
+18        The
+Court undertook a detailed examination of the nature and applicability of Wrotham Park damages and made some
+tentative observations regarding AG v
+Blake damages. However, on the facts, the Court declined to grant an award
+of either head of damages.
+Wrotham Park damages
+19        Wrotham Park damages are a recognised head
+of damages under Singapore contract law. Their overarching rationale is the protection
+of the plaintiff’s performance interest (ie,
+the primary right to performance of the defendant’s obligations). Although Wrotham Park damages may be descriptively restitutionary in the sense that part
+or all of the defendant’s gain is awarded to the plaintiff, their normative
+basis is compensatory in nature: they are aimed at compensating the plaintiff
+for the loss of his performance interest due to the defendant’s breach. The
+reference to the defendant’s gain is merely a method of quantifying the
+damages, rather than the basis of the award. Wrotham Park damages fulfil their compensatory purpose only in a
+specific and limited category of cases, namely, where there is a remedial
+lacuna arising from the unavailability of orthodox compensatory damages
+(measured by reference to the plaintiff’s expectation or reliance loss) or specific
+relief, but where there is still a need to provide the plaintiff with a remedy
+to protect his performance interest, and where the lacuna can be rationally and
+sensibly filled by reference to the hypothetical bargain measure (at [168]–[177]; [179]–[209]; [215]; [247]).
+20        There
+are three legal requirements that need to be satisfied before a court will
+award Wrotham Park damages (at [217]):
+
+
+First, as a threshold requirement, the
+    court must be satisfied that orthodox
+    compensatory remedies are unavailable. In other words, it must be a case
+    where the plaintiff would otherwise be entitled to no, or only nominal,
+    damages. Such a remedial lacuna will typically be present where the plaintiff
+    has not suffered any financial loss at all arising from the defendant’s breach,
+    and specific relief is not available because the court cannot or will not grant
+    such relief. It may also be present where the plaintiff has suffered some
+    financial loss, but it is practically impossible to assess compensatory damages
+    based on the orthodox measures. This is a high threshold; mere “difficulty” in
+    assessing compensatory damages does not justify an award of Wrotham Park damages (at [173]–[174]; [218]–[225]).
+
+
+Second, it must, as a general rule, be
+    established that there has been a breach
+    of a negative covenant. The obligation breached must be a negative covenant
+    in substance, and not merely a positive obligation “dressed up” as a negative
+    covenant in form (at [171]; [226]–[229]).
+
+
+Third, the case must not be one where it would be irrational or totally unrealistic to expect
+    the parties to bargain for the release of the relevant covenant, even on a
+    hypothetical basis. A clear situation where the hypothetical measure would
+    not apply is where the agreement to release the covenant would be legally
+    impermissible (at [230]–[237]).
+
+
+21        Wrotham Park damages are to be
+measured by such a sum of money as might reasonably have been demanded by the
+plaintiff from the defendant as a quid pro quo for relaxing the covenant
+between them. This is an objective assessment as at the date of the breach and
+by reference to a hypothetical bargain, rather than the actual conduct and
+position of the parties. The actual (or subjective) loss suffered by the
+plaintiff or gain made by the defendant are irrelevant (at [194]; [244]–[246]).
+22        On the facts, an award of Wrotham Park
+damages was not appropriate because the first and third legal requirements were
+not satisfied. On the former, the Respondents could be awarded orthodox
+compensatory damages, assessed by reference to the value of their shareholding
+in the JV Companies at the time of the Repudiatory Breaches, with a premium of
+15% to more accurately reflect their true expectation loss (at [290]–[295]). On the latter, it was
+irrational and totally unrealistic to expect the parties to enter into a
+bargain for the release of SAA’s obligation to refrain from upsetting the status
+quo so that the Bidding Exercise could proceed as contemplated, even on a
+hypothetical basis. This is so for two reasons. First, it would have defeated
+the purpose of the Consent Order and rendered nugatory the settlement of the
+Consolidated Suits. Second, the hypothetical negotiation would have been for
+the SAA Group to buy-out the Respondents’ interests in the joint venture – but such
+a possibility had already been provided for under the Bidding Exercise. It
+would therefore have been wholly irrational for the parties to have entered
+into such a negotiation on the eve of the Bidding Exercise (at [297]–[301]). Accordingly, an award of Wrotham
+Park damages was not appropriate.
+AG v Blake
+damages
+23        The primary difficulty in recognising AG
+v Blake damages as a part of Singapore law was the uncertainty of the legal
+criteria to be applied in awarding such damages. However, it was possible to rationalise
+AG v Blake as a case where the law had a legitimate basis for punishing
+the defendant and deterring non-performance because the contract in question
+concerned a public interest which went beyond the parties’ private interests,
+thus necessitating a departure from the compensatory principle and justifying a
+restitutionary award. Under this rationalisation, AG v Blake damages could
+be recognised as an exceptional remedy confined to this unique category of cases
+(at [252]–[254]). 
+24        In any event, on the facts, there was no
+basis for an award of AG v Blake damages. The present case arose from an
+ordinary commercial dispute following the collapse of a joint venture. This
+fell far below the threshold which would justify stripping away the Appellants’
+gains as an end in itself (at [302]).
+
+The Tort Issue
+25        Tan CB was personally liable for
+the torts of conspiring to procure and inducing SAA’s breaches of the Consent
+Order. Although he was a director of SAA, he was not immune from personal
+tortious liability because he had breached his fiduciary duty to act bona
+fide in SAA’s best interests when he caused it to fail to grant the
+sub-tenancies to the JV Companies, in breach of the Consent Order (at [331]–[344]). The Court also upheld the
+Judge’s holding that the substantive elements of both torts were established (at
+[346]–[358]).
+26        Tan Senior was also liable for both
+torts. In this regard, the Court emphasised that the threshold for appellate
+intervention in the Judge’s factual findings had not been crossed, and thus upheld
+the holding that the substantive elements of both torts were established (at [369]–[372]).
+27        The quantum of damages due to the
+Respondents on the tortious claims was identical to that due to the Respondents
+on the contractual claim. This was because the breaches of the Consent Order
+were at the heart of the tortious claims, and the position that the Respondents
+would have been in had the torts not been committed was identical to the
+position that they would have been in had the Consent Order been performed (at [387]).
+28        Accordingly, SAA and Koh KM (in contract),
+together with Tan CB and Tan Senior (in tort), were jointly and severally
+liable to the Respondents for compensatory damages to be assessed by reference
+to the value of the Respondents’ 37.5% shareholding in the JV Companies at
+the time of the Repudiatory Breaches, with a premium of 15% (at [390(b)]).
+ 
+This summary is provided to assist in
+the understanding of the Court’s judgment. It is not intended to be a
+substitute for the reasons of the Court. All numbers in bold font and square
+brackets refer to the corresponding paragraph numbers in the Court’s judgment.

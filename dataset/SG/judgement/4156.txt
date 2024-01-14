@@ -1,0 +1,818 @@
+
+In the court of appeal of the republic of singapore[2018] SGCA 47Civil Appeal No 142 of 2017BetweenThe Wellness Group Pte Ltd… AppellantAnd(1)Paris Investment Pte Ltd(2)OSIM International Pte Ltd(3)TWG Tea Company Pte Ltd… Respondents No 14 of 2018BetweenThe Wellness Group Pte Ltd… ApplicantAnd(1)Paris Investment Pte Ltd(2)OSIM International Pte Ltd(3)TWG Tea Company Pte Ltd… RespondentsJudgment[Companies] — [Directors] — [Appointment]This judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in LawNet and/or the Singapore Law Reports.The Wellness Group Pte Ltd vParis Investment Pte Ltd and others [2018] SGCA 47Court of Appeal — Civil Appeal No 142 of 2017Tay Yong Kwang JA, Steven Chong JA and Quentin Loh J22 May 201829 August 2018 Judgement reserved.Steven Chong JA (delivering the judgment of the court):Introduction1 It is commonplace for shareholders’ agreements and joint venture agreements to contain a provision entitling a shareholder to nominate or appoint a director to the company’s board of directors. This may be so even where the constitution of the company confers the power to appoint directors upon the board. It is therefore somewhat surprising that there is no reported local precedent in which the court has had to decide on the precise contours of the shareholder’s right or the corresponding obligations of the other parties to the agreement in relation to the appointment of directors. The leading foreign authorities in this area of law are also somewhat dated.2 In this appeal, the parties dispute the legal effect of an implied contractual term entitling the minority shareholder to appoint a director to the board. The appellant, the minority shareholder, claims it has a right to appoint any person unless such appointment would be injurious to the company, and that its nomination of that person, ipso facto, constitutes him or her a director with immediate effect. The respondents claim that the minority shareholder has a mere right to nominate a person for directorship, and that the board of the company retains the discretion not to appoint that person if it would not be in the company’s interests to do so. Central to the appeal are the questions of whether the contractual term obliges the company to accept the shareholder’s nominee/appointee without question; if not, what principles (if any) constrain its discretion to reject the nominee/appointee; and how such a term interacts with a provision in the company’s constitution which vests the power of appointment in the board. The answers to these questions must balance the competing interests of the shareholders and the board of the company.Genesis of the shareholder’s right3 The facts of the case are fairly straightforward and for the most part undisputed. The shares in the third respondent, TWG Tea Company Pte Ltd (“TWG”), are divided between the appellant, The Wellness Group Pte Ltd (“Wellness”), the first respondent, Paris Investment Pte Ltd (“Paris”), and the second respondent, OSIM International Pte Ltd (“OSIM”). Paris is wholly owned by OSIM. 4 TWG was incorporated as a wholly-owned subsidiary of Wellness in October 2007. In 2010, Paris acquired 15.8% of the shares in TWG, Wellness owning the remaining 84.2%. On 18 March 2011, a sale and purchase agreement was signed pursuant to which OSIM purchased a 35% stake in TWG from Wellness and Paris. On the same day, all four parties (ie, Wellness, OSIM, Paris and TWG) also signed a shareholders’ agreement (“the Shareholders’ Agreement”), which included the following clause:
+                   1
+
+
+
+
+Foot Note 1
+
+×
+
+
+
+  Core Bundle Vol II, p 12.
+
+
+
+5. Board of Directors5.1 Number: The Board shall comprise three Directors.5.2 Composition: The Board shall comprise:5.2.1 two persons appointed by [Paris] and [Wellness]; and 5.2.2 one person appointed by OSIM, for so long as OSIM’s Shareholding Percentage is not less than 25 per cent. That person shall be Mr Ron Sim.[emphasis added in italics]5 Following the sale and purchase, Wellness, OSIM and Paris held shares in TWG in the respective proportions of 54.7%, 35% and 10.3%. Clause 5 of the Shareholders’ Agreement therefore ensured that OSIM – a minority shareholder – would be represented on TWG’s Board of Directors so long as its shareholding in TWG did not fall below 25%. 6 Subsequent to the signing of the Shareholders’ Agreement, following a rights issue in 2013 to 2014, these shareholdings were varied to 30.1% (Wellness), 58.6% (OSIM) and 11.3% (Paris) and remain unchanged to date.
+                   2
+
+
+
+
+Foot Note 2
+
+×
+
+
+
+  Record of Appeal (“ROA”) Vol III, p 4.
+
+
+
+ This led to the counterintuitive situation in which OSIM, despite being the majority shareholder, was entitled to appoint only one director to the Board, whereas Paris and Wellness (which together owned 41.4% of the shares in TWG) were entitled to appoint two directors.7 In February 2014, Wellness and its chairman commenced a minority oppression action against OSIM, Paris and the directors of TWG. On 22 April 2016, the High Court dismissed the claim in The Wellness Group Pte Ltd and another v OSIM International Ltd and others and another suit [2016] 3 SLR 729 (“Wellness v OSIM”), and this decision was upheld by this Court. One of the High Court’s findings was that a term should be implied into the Shareholders’ Agreement because it “omitted to address the situation where [Wellness], whether by itself or with Paris, ceased to be the majority shareholder/s in [TWG]” (Wellness v OSIM at [121]). The parties had not contemplated this lacuna, and it was necessary in the commercial sense to imply a term in order to give the contract efficacy because otherwise, Wellness and Paris would continue to control the TWG Board regardless of how small their combined shareholding came to be. The parties could not have intended such a result. The specific term to be implied, in the court’s view, was that “the majority shareholder(s) (whoever they may be) would be entitled to appoint two directors, and the minority shareholder(s) would be entitled to appoint one director so long as they hold at least 25% of the shares in [TWG]” (Wellness v OSIM at [121(c)]). We refer to this hereafter as the Implied Term. Wellness, being the minority shareholder, was entitled to appoint one director pursuant to the Implied Term. The High Court’s findings on the Implied Term were not disturbed on appeal. The dispute between the parties8 Following the dismissal of the appeal, on 26 October 2016, Wellness sought to appoint Mr Manoj Mohan Murjani (“Mr Murjani”) to the Board of TWG. Mr Murjani had previously sat on TWG’s Board before resigning on 28 September 2012, and Wellness had not appointed another director in his place since then. However, TWG, OSIM and Paris refused to appoint Mr Murjani on the basis that his appointment would not be in TWG’s best interests, and instead invited Wellness to appoint either one Ms Kanchan Murjani, who is Mr Murjani’s wife, or Mr Finian Tan, both of whom were also directors of Wellness.9 To resolve this impasse, Wellness wrote to TWG on 13 February 2017 proposing that Associate Professor Mak Yuen Teen (“Prof Mak”) from the National University of Singapore be appointed to the Board of TWG instead of Mr Murjani. Wellness also requested (a) that the Board authorise Prof Mak to disclose to Wellness information in relation to TWG which he would have access to in his capacity as director, in accordance with s 158 of the Companies Act (Cap 50, 2006 Rev Ed) (“the Companies Act”); and (b) that TWG arrange for Prof Mak to be covered by director and officer insurance to the same extent as TWG’s other directors; and if no such insurance had been purchased for the directors, that it be purchased. These two matters will hereafter be referred to as “the Ancillary Matters”. Wellness concluded by requesting TWG to “[p]lease arrange for the appointment of Professor Mak as a Director of [TWG] and the [A]ncillary [M]atters … to be formalised as soon as practicable”.
+                   3
+
+
+
+
+Foot Note 3
+
+×
+
+
+
+  Core Bundle Vol II, pp 26–27.
+
+
+
+10 Having received no reply from TWG, Wellness again wrote to TWG on 17 February 2017 to “request” that it “immediately take all necessary steps to formalise the appointment of Professor Mak, including the [A]ncillary [M]atters”.
+                   4
+
+
+
+
+Foot Note 4
+
+×
+
+
+
+  ROA Vol III, p 144.
+
+
+
+ TWG did not reply and Wellness wrote again on 21 February 2017 to “demand” the formalisation of Prof Mak’s appointment, this time without mentioning the Ancillary Matters.
+                   5
+
+
+
+
+Foot Note 5
+
+×
+
+
+
+  ROA Vol III, p 145.
+
+
+
+11 On 23 February 2017, TWG replied to say that it would not appoint Prof Mak because the Board was “unable to accede” to the Ancillary Matters, which were in any event not in TWG’s interests.
+                   6
+
+
+
+
+Foot Note 6
+
+×
+
+
+
+  Core Bundle Vol II, p 28.
+
+
+
+ 12 On 27 February 2017, Wellness filed Originating Summons No 206 of 2017 (“the OS”) in the court below, by which it sought:
+                   7
+
+
+
+
+Foot Note 7
+
+×
+
+
+
+  Appellant’s Case, para 35; Core Bundle Vol II, p 5.
+
+
+
+(a) a declaration that it was entitled to appoint one director to TWG’s board as long as it held at least 25% of the shares in TWG; (b) an order that Prof Mak be appointed as a director of TWG; and(c) an order that the three defendants (being Paris, OSIM, and TWG) execute the necessary documents to give effect to Prof Mak’s appointment. 13 The Board of TWG presently comprises Mr Taha Bouqdib (“Mr Bouqdib”) (appointed by OSIM) and Mr Ron Sim Chye Hock (appointed by Paris). Wellness has not been represented on the Board since 28 September 2012.
+                   8
+
+
+
+
+Foot Note 8
+
+×
+
+
+
+  ROA Vol III, p 198, para 9.
+
+
+
+Decision below 14 The High Court judge (“the Judge”) dismissed the OS. First, he held that though the Implied Term described Wellness’ contractual right as a right to “appoint” a director to TWG’s Board, it was not disputed that this right was “in effect a right to nominate a person to be appointed as a director” (The Wellness Group Pte Ltd v TWG Tea Co Pte Ltd and others [2017] SGHC 298 (“the GD”) at [23]). We note that this finding is disputed by Wellness.15 Secondly, the Judge observed that Wellness’ submissions, filed two working days before the hearing, stated that the Ancillary Matters were merely requests rather than conditions which it sought to attach to Prof Mak’s appointment.
+                   9
+
+
+
+
+Foot Note 9
+
+×
+
+
+
+  ROA Vol III, p 202, para 22.
+
+
+
+ The Judge found that this constituted a change in Wellness’ position with respect to the Ancillary Matters and was “calculated to steal a march on the defendants at the hearing” (the GD at [26]). In his view, the Ancillary Matters had been “clearly intended and conveyed to the defendants” as conditions attaching to Prof Mak’s appointment, and the defendants had refused to appoint Prof Mak on the basis that the Ancillary Matters were unacceptable (at [25]–[27]). The Judge agreed with the defendants that they should be given an opportunity to reconsider Prof Mak’s appointment afresh without the Ancillary Matters attached and, on that basis, dismissed the application with costs.Parties’ cases on appeal 16 Wellness denies that it has changed its position on the Ancillary Matters. It claims that these were always meant as requests, rather than conditions attaching to Prof Mak’s appointment.
+                   10
+
+
+
+
+Foot Note 10
+
+×
+
+
+
+  Appellant’s Case, paras 37 and 62.
+
+
+
+ Wellness further contends that, in any event, its right to appoint Prof Mak pursuant to the Implied Term is unqualified and not subject to the respondents’ approval. Wellness does not accept the Judge’s characterisation of the Implied Term as giving it a mere “right to nominate”, since any shareholder can “nominate” someone for directorship and need not be expressly authorised to do so. The only two scenarios where the respondents might be entitled to object to an appointment by Wellness would be where (a) the appointee does not meet the statutory requirements for a director of a Singapore company (for example if he is bankrupt or disqualified from acting as a director),
+                   11
+
+
+
+
+Foot Note 11
+
+×
+
+
+
+  Appellant’s Case, paras 72–78.
+
+
+
+ or (b) his appointment would be injurious to the company.17 Wellness also filed Summons No 14 of 2018 (“SUM 14/2018”) for leave to adduce further evidence in this appeal which allegedly shows that the respondents are deliberately obstructing and delaying Prof Mak’s appointment in order to retain control of the Board of TWG.
+                   12
+
+
+
+
+Foot Note 12
+
+×
+
+
+
+  Appellant’s Case, paras 51 and 79.
+
+
+
+ Wellness therefore submits that, since the respondents had already decided not to appoint Prof Mak, the Judge ought not to have dismissed the OS in order to give them an opportunity to reconsider the matter afresh. 18 The respondents, on the other hand, submit that Wellness did attach the Ancillary Matters as conditions to Prof Mak’s appointment at the time of filing of the OS. That being the case, the respondents had no obligation to appoint Prof Mak. Regardless of Wellness’ subsequent disavowal of those conditions, the respondents had not breached the Implied Term at the time the OS was filed, and there was accordingly no valid cause of action. The Court of Appeal cannot determine, or grant relief in connection with, any breach that may have occurred after the filing of the OS.
+                   13
+
+
+
+
+Foot Note 13
+
+×
+
+
+
+  First and Second Respondents’ Skeletal Submissions, paras 12–16.
+
+
+
+ 19 Secondly, the respondents submit that Wellness only has a contractual right to nominate (and not to appoint) one director to the Board of TWG. The appointment of Wellness’ nominee is conditional upon it being in TWG’s best interests.
+                   14
+
+
+
+
+Foot Note 14
+
+×
+
+
+
+  Third Respondent’s Skeletal Arguments, para 11.
+
+
+
+ This is because:(a) Article 91 of TWG’s Constitution vests the power to appoint directors in the Board. The courts will not imply a term which is inconsistent with the express terms of the contract, which in this case includes TWG’s Constitution.
+                   15
+
+
+
+
+Foot Note 15
+
+×
+
+
+
+  First and Second Respondents’ Case, paras 25–26.
+
+
+
+(b) The Implied Term should be construed in a way which conforms with or is consistent with the law. Clause 12 of the Shareholders’ Agreement states that the provisions of that agreement are to prevail over the Constitution only “subject to applicable law”. In particular, shareholders cannot usurp powers which the company’s constitution vests in its directors, and the Board has a statutory and common law duty to exercise its powers in TWG’s interests.
+                   16
+
+
+
+
+Foot Note 16
+
+×
+
+
+
+  First and Second Respondents’ Case, paras 27–29; Third Respondent’s Case, paras 32–33.
+
+
+
+ Moreover, it could not have been the Judge’s intention to imply a term which would have excused the Board from that duty.
+                   17
+
+
+
+
+Foot Note 17
+
+×
+
+
+
+  First and Second Respondents’ Case, para 30.
+
+
+
+(c) Accountability and corporate governance are furthered by empowering the Board to reject nominations. The Board is accountable to shareholders for its acts of appointment, whereas Wellness would not be accountable to shareholders if it abused its contractual right by appointing an unsuitable candidate.
+                   18
+
+
+
+
+Foot Note 18
+
+×
+
+
+
+  First and Second Respondents’ Case, para 34.
+
+
+
+Issues before this Court20 Besides SUM 14/2018, there are broadly speaking three issues in this appeal.
+                   19
+
+
+
+
+Foot Note 19
+
+×
+
+
+
+  Appellant’s Case, paras 58–60; First and Second Respondents’ Case, para 1; Third Respondent’s Skeletal Arguments, para 2.
+
+
+
+ The first issue pertains to the nature of Wellness’ contractual right under the Implied Term. In particular, does the Implied Term entitle Wellness to appoint a director to the Board of TWG, or merely to nominate a director whose appointment can only be effected by the Board? If Wellness has only a right of nomination, must TWG accept Wellness’ nominee without question; and if not, what principles (if any) constrain its discretion to reject the nominee? 21 The second issue is whether the Implied Term has been breached. This requires us to determine whether the Ancillary Matters were mere requests or conditions attached to Prof Mak’s appointment, and whether the respondents’ refusal to appoint Prof Mak in those circumstances constituted a breach of the Implied Term.22 Finally, if there has indeed been a breach of the Implied Term, what relief ought to be ordered? Wellness seeks (a) a declaration that it is entitled to appoint one director to TWG’s Board; (b) an order that Prof Mak be appointed as a director of TWG; and (c) an order that the respondents execute, or procure the execution of, the necessary documents to give effect to Prof Mak’s appointment. The respondents contend that specific performance is unavailable for various reasons, including that such relief will not be ordered in respect of a contract for services, and that Wellness did not come to the court with clean hands and therefore is not entitled to the relief.
+                   20
+
+
+
+
+Foot Note 20
+
+×
+
+
+
+  First and Second Respondents’ Skeletal Submissions, paras 42–44 and 47; Third Respondent’s Skeletal Arguments, para 31.
+
+
+
+The summons for leave to adduce further evidence23 By SUM 14/2018, Wellness sought leave to adduce the following further evidence in this appeal: (a) correspondence between the parties in the wake of the decision below (“the Post-Hearing Correspondence”); and (b) a Post-Hearing Information Pack (“PHIP”) published by OSIM’s sole shareholder V3 Group Limited (“V3”) to comply with the requirements of the Stock Exchange of Hong Kong Limited and the Securities and Futures Commission.24 Both sets of documents came into existence after the date of the decision below. Though they could therefore be produced on appeal without leave pursuant to s 37(3) of the Supreme Court of Judicature Act (Cap 322, 2007 Rev Ed), the Court of Appeal retains an overarching discretion not to receive such further evidence (see O 57 r 13(2) of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) and BNX v BOE and another appeal [2018] 2 SLR 215 (“BNX”) at [97]). The applicable test in these circumstances is whether the further evidence would have “a perceptible impact on the decision such that it is in the interest of justice that it should be admitted” (BNX at [97], citing Yeo Chong Lin v Tay Ang Choo Nancy and another appeal [2011] 2 SLR 1157 at [13]). This requires the Court to confirm that the matters of which evidence is sought to be given did indeed occur after the trial or hearing below, and to be satisfied that the evidence “is at least potentially material to the issues in the appeal” and “at least appears to be credible” (BNX at [99]). 25 The respondents did not object to the admission of the Post-Hearing Correspondence, which was accordingly admitted in evidence.
+                   21
+
+
+
+
+Foot Note 21
+
+×
+
+
+
+  Affidavit of Chow Yee Juan, affirmed on 2 March 2018, para 13.
+
+
+
+ This set of documents comprised the following:(a) On 12 July 2017, Wellness wrote to TWG (copying OSIM and Paris) appointing Prof Mak to TWG’s Board with immediate effect. It requested TWG to “take the necessary steps to formalize his appointment and to update the Company’s register of directors”.
+                   22
+
+
+
+
+Foot Note 22
+
+×
+
+
+
+  Affidavit of Chua Sui Tong, sworn on 5 February 2018, p 17.
+
+
+
+(b) On 17 July 2017, TWG requested written confirmation that Prof Mak’s appointment was not contingent on the Ancillary Matters. Upon receipt of such confirmation, TWG “[would] then consider this request to appoint Prof Mak” and, in doing so, have regard to whether his appointment would be in the best interests of the company. OSIM and Paris replied on 18 July 2017 in essentially identical terms.
+                   23
+
+
+
+
+Foot Note 23
+
+×
+
+
+
+  Affidavit of Chua Sui Tong, sworn on 5 February 2018, pp 21 and 23–24.
+
+
+
+(c) On 19 and 20 July 2017 respectively, Prof Mak and Wellness gave the written confirmation as requested.
+                   24
+
+
+
+
+Foot Note 24
+
+×
+
+
+
+  Affidavit of Chua Sui Tong, sworn on 5 February 2018, pp 25–27.
+
+
+
+ (d) On 21 July 2017, TWG informed Wellness that its Board would be convening a meeting “as soon as practicable to consider [Wellness’] nomination of Prof. Mak” and again disagreed that Wellness had an “absolute and unfettered right to appoint whoever [it] wish[ed]”. OSIM and Paris wrote to Wellness on 24 July 2017 in essentially identical terms.
+                   25
+
+
+
+
+Foot Note 25
+
+×
+
+
+
+  Affidavit of Chua Sui Tong, sworn on 5 February 2018, pp 28–30.
+
+
+
+(e) On 26 July and again on 2 August 2017, Wellness wrote to TWG for confirmation that it had taken the necessary steps to formalise Prof Mak’s appointment.
+                   26
+
+
+
+
+Foot Note 26
+
+×
+
+
+
+  Affidavit of Chua Sui Tong, sworn on 5 February 2018, pp 31 and 33.
+
+
+
+(f) On 3 August 2017, TWG replied that the Board would be meeting on 7 August 2017 to discuss Prof Mak’s appointment. On 8 August, after Wellness wrote to ask for an update, TWG wrote that “it appears to the Board that Prof. Mak does not have any substantive commercial experience, especially not in the industry in which [TWG] operates”, and that the Board was “uncertain” of his ability to add value to TWG’s business. They invited Wellness to “explain how Prof. Mak’s experience and qualifications are relevant to his proposed role on [TWG’s] Board of Directors, and to provide … any further information about Prof. Mak that [Wellness] wish the Directors to consider”.
+                   27
+
+
+
+
+Foot Note 27
+
+×
+
+
+
+  Affidavit of Chua Sui Tong, sworn on 5 February 2018, pp 34–36.
+
+
+
+(g) On 10 August 2017, Wellness filed a Notice of Appeal against the Judge’s decision. On 17 August 2017, OSIM and Paris wrote to Wellness stating that:
+                   28
+
+
+
+
+Foot Note 28
+
+×
+
+
+
+  Affidavit of Chua Sui Tong, sworn on 5 February 2018, pp 37–38.
+
+
+
+We have carefully reviewed the matter. Our view at the moment is that Prof Mak does not appear to have the relevant commercial experience and qualifications and will not be able to add value to TWG Tea’s business and assist in its growth. We are prepared to consider this matter further if you provide us with further details of Prof Mak’s experience and qualifications and an explanation of how his experience and qualifications are relevant and would add value to the board of TWG Tea.According to Mr Bouqdib, “The intention of the Board in seeking this further information was to reconvene once such information had been provided so as to again consider whether to appoint Prof [Mak] to the Board.”
+                   29
+
+
+
+
+Foot Note 29
+
+×
+
+
+
+  Affidavit of Taha Bouqdib, affirmed on 2 March 2018, para 10.
+
+
+
+(h) On 20 September 2017, Wellness wrote to TWG stating that there was no basis to refuse Prof Mak’s appointment and that Wellness was not obliged to justify and/or explain why it had selected him.
+                   30
+
+
+
+
+Foot Note 30
+
+×
+
+
+
+  Affidavit of Chua Sui Tong, sworn on 5 February 2018, p 39.
+
+
+
+(i) The parties exchanged further correspondence on 9 October 2017 essentially reiterating their respective positions.
+                   31
+
+
+
+
+Foot Note 31
+
+×
+
+
+
+  Affidavit of Chua Sui Tong, sworn on 5 February 2018, pp 40–42.
+
+
+
+26 As for the PHIP, we declined to admit it in evidence. We were not convinced by Wellness’ attempts to show, based on various extracts from the PHIP, that the respondents had already made up their minds to oppose Prof Mak’s appointment regardless of its merits, so as not to lose control of the Board.
+                   32
+
+
+
+
+Foot Note 32
+
+×
+
+
+
+  Appellant’s Case at paras 51–56.
+
+
+
+ We considered that the PHIP would not have had any perceptible impact on the issues in the appeal as set out at [20]–[22] above for the following reasons.27 First, the PHIP did not illuminate the respondents’ motive in refusing to appoint Prof Mak. Mr Chow Yee Juan, the Deputy Chief Financial Officer of V3 (which is the sole shareholder of OSIM) until 20 February 2018 and also a director of Paris,
+                   33
+
+
+
+
+Foot Note 33
+
+×
+
+
+
+  Affidavit of Chow Yee Juan, affirmed on 2 March 2018, para 1. 
+
+
+
+ explained that the statements in the PHIP were made in compliance with Hong Kong listing rules requiring V3 to disclose the legal disputes and risk factors that might impact V3’s operations, financials and reputation.
+                   34
+
+
+
+
+Foot Note 34
+
+×
+
+
+
+  Affidavit of Chow Yee Juan, affirmed on 2 March 2018, para 22.
+
+
+
+ The portions of the PHIP which Wellness brought to our attention simply identified risks associated with the loss of the majority shareholders’ control over TWG. They stated that, should Wellness succeed in the appeal, disagreements between Wellness and the respondents could result in the latter being unable to fully control TWG’s business in the manner they deemed to be fit and in TWG’s best interests. This was a matter of importance because TWG’s annual budget and strategic plans required the Board’s unanimous approval.
+                   35
+
+
+
+
+Foot Note 35
+
+×
+
+
+
+  Affidavit of Chua Sui Tong, sworn on 5 February 2018, p 58, under “Legal and Regulatory Matters and Non-Compliance Incidents”; p 81, under “Risk Factors”; and p 217, under “Litigation, Claims and Arbitration”.
+
+
+
+ The existence of these risks was, however, an indisputable fact given the state of relations between the shareholders. It did not follow that TWG was categorically opposed to Prof Mak’s appointment, or that it had taken that position because it feared losing control of the Board. 28 Secondly, it was not part of Wellness’ case below that the Board had refused to appoint Prof Mak in bad faith. This was not alleged in the affidavits filed on behalf of Wellness or its written submissions before the Judge.
+                   36
+
+
+
+
+Foot Note 36
+
+×
+
+
+
+  ROA Vol III, pp 5–13 and 194–202.
+
+
+
+ It is accordingly not open to us to make such a finding on appeal.29 Thirdly, even if the PHIP had suggested some improper motive on the respondents’ part, it would have been impermissible for us to make such a finding on the strength of this documentary evidence alone. The respondents had no opportunity to cross-examine witnesses on the PHIP. 30 In the circumstances, we granted SUM 14/2018 in part at the hearing before us, allowing the admission of the Post-Hearing Correspondence but not the PHIP. Issue 1: Nature of the right31 We now turn to the first issue in the substantive appeal. The parties’ characterisations of the Implied Term are starkly contrasting. Wellness relies on the English decision of British Murac Syndicate, Limited v Alperton Rubber Company, Limited [1915] 2 Ch 186 (“British Murac”) to argue that the Implied Term gives it an unfettered and unqualified right to appoint Prof Mak, and that its nomination of Prof Mak was effective to immediately constitute him a de facto (although not a de jure) director of TWG. Wellness denies that the Board’s approval or acquiescence is required for Prof Mak to assume directorship. The respondents, on the other hand, maintain that the power to appoint directors is vested solely in the Board by virtue of Art 91 of TWG’s Constitution, which states: “The Board of Directors may, at any time, and from time to time, appoint any person to be a Director, either to fill a casual vacancy, or by way of addition to their number…” According to the respondents, the Implied Term only gives Wellness a contractual right to nominate and not to appoint Prof Mak. The Board need not appoint the nominee unless it is satisfied that the appointment would be in TWG’s best interests. The respondents argue, relying principally on Plantations Trust Limited v Bila (Sumatra) Rubber Lands Limited (1916) 85 LJ Ch 801 (“Plantations Trust”), that the court will not order the specific performance of a contract for the appointment of directors as long as such contract remains executory.32 In our view, the appellant’s and respondents’ positions are too broad and too narrow respectively. If Wellness is right, it would mean that Prof Mak has already been appointed a director of TWG, which is not the case for reasons which we set out below. But the respondents’ interpretation, which requires Wellness to persuade the respondents of the suitability of its candidate for its nomination to be accepted, would practically render the Implied Term redundant.33 Instead, for the reasons we set out below, we hold that the Implied Term gives Wellness a right to nominate one person to be a director of TWG, with a corresponding obligation on the part of the Board of TWG to appoint that nominee as a director, subject to two important caveats. First, the nomination of a person who is statutorily disqualified under the Companies Act from assuming directorship, or who does not consent to act as a director, would be defective in and of itself. There would clearly be no obligation to appoint such a person. Secondly, even if the nomination is not defective, the Board of TWG would not be obliged to appoint the nominee if it is able to establish that the nominee would be obviously unfit for office or that his appointment would be obviously injurious to the company. The burden is not on Wellness to positively establish the suitability of its nominee, but upon the Board to prove his unsuitability. In this regard, it will not suffice for the Board to simply assert that the nominee lacks relevant experience or skills. The fact that he might disagree with the other directors on matters pertaining to the management of the company is also not in itself a basis to refuse appointment. Rather, the Board must adduce clear evidence to show the shortcomings of the nomination, such as if the nominee would be placed in a position of a conflict of interest or a breach of fiduciary duty. This might be the case if, as a more specific example, the nominee operates a business in competition with the company to which he is nominated as director (as was the case in British Murac). We now explain how we arrive at this conclusion.34 First, it is clear that the Implied Term must confer more than a mere right to nominate with no corresponding duty to appoint. It would be redundant otherwise. The commercial purpose of the Implied Term is key to its interpretation (Centre for Laser and Aesthetic Medicine Pte Ltd v GPK Clinic (Orchard) Pte Ltd and others and another appeal [2018] 1 SLR 180 at [34]; Zurich Insurance (Singapore) Pte Ltd v B-Gold Interior Design & Construction Pte Ltd [2008] 3 SLR(R) 1029 (“Zurich”) at [131], citing Gerard McMeel, The Construction of Contracts: Interpretation, Implication, and Rectification (Oxford University Press, 2007) at paras 1.124–1.133): Business purpose… [W]ithin this framework due consideration is given to the commercial purpose of the transaction or provision. The courts have regard to the overall purpose of the parties with respect to a particular transaction, or more narrowly the reason why a particular obligation was undertaken.[emphasis in original]35 The purpose of cl 5 of the Shareholders’ Agreement, as well as the Implied Term, is to ensure that the minority shareholder is represented on the Board of TWG and is not totally excluded from decision-making by the majority. Such provisions entitling a shareholder to appoint a director to the board are an important and common feature of joint ventures and serve to guarantee a minimum degree of protection of the shareholder’s interests. The Implied Term would fail to achieve its commercial purpose of protecting Wellness if it were to be interpreted as restrictively as the respondents contend. In particular, the Implied Term would be ineffective if the majority could obstruct or indefinitely delay the appointment of Wellness’ nominee by requiring Wellness to prove the suitability of its nominee to the majority’s subjective satisfaction. Though one of three seats on the Board is technically reserved for Wellness until its nominee is appointed, this, in and of itself, is of little practical utility since the majority controls the Board until such time as Wellness nominates someone acceptable to them. 36 We also note the principle that a power to appoint the directors, “even if conferred on a named shareholder, is not constrained by any fiduciary or similar obligation and may be exercised in the shareholder’s own interests” (Palmer’s Company Law vol 2 (Geoffrey Morse gen ed) (Sweet & Maxwell, Looseleaf Ed, 2018) (“Palmer’s”) at para 8.520 and Company Directors: Duties, Liabilities, and Remedies (Simon Mortimore QC ed) (Oxford University Press, 3rd Ed, 2017) (“Mortimore”) at para 6.49, citing Santos Ltd and another v Pettingell and others (1979) 4 ACLR 110 (“Santos”)). Although Mr Davinder Singh SC, counsel for Paris and OSIM, referred us to In re Harmer Ltd [1959] 1 WLR 62 (“Harmer”) at 82 for the proposition that a power of appointment must “be exercised for the benefit of the company as a whole and not to secure some ulterior advantage”, that remark was made in the context of the majority shareholders appointing directors solely on the basis of whether they would vote in their interests. Jenkins LJ expressed the point as follows at 82:It cannot be denied that the holder of the majority in voting power of the shares in a company may, broadly speaking, appoint any person he thinks fit as director, and the appointment cannot be challenged merely on the ground that he might have found some more suitable person than the person he selected, or that the person he selected was his friend; but I take it that the majority shareholder’s power of appointing directors must within broad limits be exercised for the benefit of the company as a whole and not to secure some ulterior advantage. …[His Lordship then referred to the evidence in relation to changes in the directorate of the company, and continued:] That is the story of the directorate, and it does seem to me to support the conclusion that the [majority shareholder] was guided in making his appointments by the question whether they could be expected with certainty always to vote in accordance with his wishes. But, as I have said, the facts of this case are by no means usual, and I would not have it go forth that every time a majority shareholder appoints directors of his own choosing, he has done something wrong, or something which can be challenged by a dissatisfied minority, but if he goes on … to state his motives for having Mr. A rather than Mr. B, and says: “Mr. A will always vote in the way I tell him to,” then it seems to me it is impinging on dangerous ground. …37 Leaving aside whether Jenkins LJ’s remarks should be the law in Singapore, it suffices for present purposes to note that Harmer is clearly distinguishable. First, it involved a claim of minority oppression by the minority shareholders against the majority, who had allegedly exercised their position qua majority to appoint directors in general meeting who favoured their interests. Significantly, the case did not involve shareholders in a joint venture who each had a contractual right to appoint nominee directors. Secondly, Jenkins LJ accepted that the majority could, “broadly speaking”, appoint whoever it saw fit, and that its duty not to act for some ulterior motive only operated within “broad limits”. Thirdly, Harmer is cited in Mortimore at para 6.48 and Palmer’s at para 8.519 for the proposition that the general meeting must act for proper purposes. Harmer therefore does not detract from our view that where shareholders are conferred a contractual right to select nominee directors, they may exercise that right in their own interests, and this, in turn, would be at odds with the respondents’ construction of the Implied Term. 38 The respondents contend that a mere right to nominate is not redundant but “highly valuable” because the directors remain under a duty to act honestly in what they consider to be the company’s interests and to exercise reasonable diligence. They “cannot willy nilly reject nominations or act for collateral purposes”, and a failure to exercise that discretion properly may be challenged in court, for example in a minority oppression action.
+                   37
+
+
+
+
+Foot Note 37
+
+×
+
+
+
+  First and Second Respondents’ Skeletal Submissions, paras 37–38; Third Respondent’s Case, para 41.
+
+
+
+ But as Wellness points out, a shareholder may nominate a person for directorship at any time without having to acquire that right through contract, and the directors would still remain bound by their directorial duties in their consideration of such nomination. The Implied Term would therefore be redundant if it amounted to nothing more than that submitted by the respondents.
+                   38
+
+
+
+
+Foot Note 38
+
+×
+
+
+
+  Appellant’s Skeletal Arguments, para 42.
+
+
+
+ 39 It should also be noted that the fact that Wellness’ right was provided for by contract, rather than in TWG’s Constitution, does not suggest that the parties intended it to have lesser force or effect. There are multiple advantages to creating such a right by contract, rather than by way of constitutional amendment. Unlike a contract binding the shareholders, the articles are vulnerable to amendment by special resolution and cannot be enforced by a person who is not a member of the company (see Mortimore at para 6.49; Sean FitzGerald and Graham Muth, Shareholders’ Agreements (Sweet & Maxwell, 6th Ed, 2012) (“FitzGerald and Muth”) at para 1.04; Malayan Banking Bhd v Raffles Hotel Ltd [1966] 1 MLJ 206). Indeed, a shareholders’ agreement to which all the shareholders are parties can be “fully effective as a constitutional document” (Sarah Worthington, Sealy & Worthington’s Text, Cases, & Materials in Company Law (Oxford University Press, 11th Ed, 2016) (“Sealy’s”) at p 256). Clause 12 of the Shareholders’ Agreement, which we will revisit below, shows irrefutably that the shareholders intended the Shareholders’ Agreement to take precedence even over the Constitution.40 On the other hand, we do not think that the Implied Term gives Wellness the power to constitute a person a director of the company simply by selecting or nominating its candidate. The original wording of cl 5 was that the Board “shall comprise two persons appointed by [Paris] and [Wellness]; and one person appointed by OSIM” (see [4] above). Although “appoint” in this context could mean conferring directorship upon someone, to “appoint” can also mean to designate. In our view, the parties’ intention behind cl 5 – and by extension the Implied Term – was not necessarily to give the shareholders the ability to constitute someone a director by the act of nomination alone, but rather to enable them to determine who would represent them on the Board. In other words, the purpose of the Implied Term was not to do away with the formalities of appointment or to alter the usual process by which directors are appointed, but to give the shareholders the right to decide on the composition of the Board.41 We do not think that the Implied Term could have been intended to enable the shareholders to constitute their nominee a director with immediate effect. This would give rise to a host of practical problems. First, if the minority shareholder chose someone obviously unfit for office, the nominee could nevertheless immediately exercise the powers and assume the duties of a director, even before being officially appointed by the company. Pending court action by the company, that person would be able to exercise directorial functions and powers to the company’s detriment. By refusing to cooperate, he might impede the other directors from managing the company, particularly if directors’ unanimity is required for particular decisions. Even if the company subsequently managed to remove that person as a director, it may not be able to recover its losses from the minority shareholder, who owes it no fiduciary duties. Secondly, it is unclear whether the company would have to treat such a person as a director if it had genuine reasons to object to the appointment. For example, would the company be obliged to formalise the appointment with the necessary documentation, pending the determination of its challenge? Would it be required to remunerate him as a director? Could the company deny him access to the company’s accounts? Would he have authority to enter into transactions on the company’s behalf, participate in directors’ meetings, and vote on directors’ resolutions? These questions are not answered by the cases cited to us and they illustrate the difficulties imported by the creation of this new category of directorship. Thirdly, we note that the appointment of directors is accompanied by certain formalities (see, eg, s 146 of the Companies Act) which enable the public to know who the directors of a company are. If persons could be directors in law even before being formally appointed as such, this would generate commercial uncertainty for third parties dealing with the company. 42 Counsel for Wellness, Mr Toby Landau QC, argues that until Prof Mak is formally appointed by the process stipulated in the Constitution, he is a de facto rather than a de jure director of TWG. However, Mr Landau’s invocation of the concept of de facto directorship is misplaced. A de facto director is described as follows in the oft-cited words of Millett J in Re Hydrodam (Corby) Ltd [1994] 2 BCLC 180 (cited in Mortimore at paras 3.12–3.15 and Hans Tjio, Pearlie Koh & Lee Pey Woan, Corporate Law (Academy Publishing, 2015) (“Tjio”) at paras 08.060–08.063):A de facto director is a person who assumes to act as a director. He is held out as a director by the company, and claims and purports to be a director, although never actually or validly appointed as such. To establish that a person was a de facto director of a company it is necessary to plead and prove that he undertook functions in relation to the company which could properly be discharged only by a director. It is not sufficient to show that he was concerned in the management of the company’s affairs or undertook tasks in relation to its business which can properly be performed by a manager below board level. A de facto director, I repeat, is one who claims to act and purports to act as a director, although not validly appointed as such.43 A de facto director is one who, notwithstanding his not having been validly appointed, nevertheless performed the functions of a director and was held out by the company as such (see Walter Woon on Company Law (Tan Cheng Han gen ed) (Sweet & Maxwell, Revised 3rd Ed, 2009) (“Woon on Company Law”) at para 7.19). In determining whether an individual acted as a director, the court will take into account such factors as whether he directed others, committed the company to major obligations, and participated on an equal level in collective decisions made by the board; whether the company held him out as a director; whether he used the title “director”; whether he had proper information (for example, management accounts) on which to base decisions; and whether he had to make major decisions (Mortimore at para 3.13; see also Ford, Austin & Ramsay’s Principles of Corporations Law, vol 1 (R P Austin and I M Ramsay) (Butterworths, Looseleaf Ed, 2007) at p 8071.13). It is critical to understand the rationale that underpins the concept of de facto directorship. It is typically invoked to impose directors’ duties and liabilities on someone who, although not officially a director, held himself out as one and performed the functions of a director. Such persons ought to be held to the standard of conduct required of directors and should not be permitted to avoid liability purely for want of official appointment. De facto directorship does not refer to a transitional category of persons who are legally recognised as directors notwithstanding that they have not yet been formally appointed. The concept of de facto directorship is inapplicable in this case, because it is not the case (nor does Wellness contend) that Prof Mak performed directorial functions or held himself out or was held out by TWG as a director. Rather, Wellness contends that Prof Mak became a director as a consequence of being selected by Wellness to represent it on the Board, pursuant to the Implied Term. But that depends on the proper construction of cl 5 of the Shareholders’ Agreement and the Implied Term, and invoking the concept of de facto directorship simply cannot assist in that regard.44 In fact, Wellness has, by its own conduct, acknowledged that Prof Mak is not yet a director. The remedies it seeks include an order that Prof Mak be appointed as a director of TWG (see [11] above) and not, for example, an order restraining the respondents from preventing him from so acting (as was sought in Plantations Trust). Wellness’ letters on 12 July, 26 July and 2 August 2017 urged TWG to take the necessary steps to formalise Prof Mak’s appointment. Moreover, if mere nomination sufficed for appointment, Mr Murjani would already have been a director, having originally been nominated for the role. It surely cannot be Wellness’ position that either Mr Murjani or Prof Mak has, from the moment of their nomination until now, occupied the position of director on TWG’s Board and should therefore share in any liability that the directors of TWG may have incurred during this period. For these reasons, we do not accept that the Implied Term gave Wellness the ability to constitute Prof Mak a director simply by selecting him to sit on the Board. 45 The right that Wellness acquires under the Implied Term therefore lies somewhere between these two poles (a mere right to nominate on one hand, and an unqualified right of appointment on the other). In determining its precise contours, we find it helpful to have regard to British Murac and Plantations Trust. We will explain below how our construction of the Implied Term is further reinforced by Art 91 of TWG’s Constitution.British Murac46 The facts of British Murac are remarkably similar to the present case. The plaintiff and defendant entered into an agreement which, inter alia, provided that so long as the plaintiff held at least 5,000 shares in the capital of the defendant, the plaintiff should have the right of nominating two directors to the board of the defendant. Article 88 of the defendant’s articles of association likewise provided:The [plaintiff], so long as it holds at least 5000 shares in the capital of the company shall have the right of nominating two directors on the board of the company, and the directors so nominated shall not be subject to the provisions of articles 95, 96 and 101 hereof [ie, provisions relating to the mandatory retirement of directors and the re-election of retired directors]. 47 Article 90 of the defendant’s articles (similar to Art 91 of TWG’s Constitution) provided:The directors shall have power from time to time, and at any time, to appoint any other persons to be directors but so that the total number of directors shall not at any time exceed the maximum number fixed above, and so that no appointment under this clause shall have effect unless all the directors for the time being concur therein. The continuing directors may act notwithstanding any vacancies in their body.48 The plaintiff’s nominees assumed directorship until the year 1914, when a difference of opinion arose on the board. In 1915, the plaintiff nominated two persons but the defendant refused to accept the nomination. The defendant’s directors called a meeting for the purpose of passing a special resolution to cancel Art 88 of the defendant’s articles. The plaintiff then commenced proceedings against the defendant and its directors for the following reliefs:(a) a declaration that under and by virtue of the plaintiff’s nomination, the two persons so nominated became and were directors of the defendant;(b) an injunction to restrain the defendant from preventing them from so acting;(c) specific performance of the agreement in question; and(d) an injunction to restrain the defendant from holding a meeting with the object of passing a special resolution altering its articles so as to deprive the plaintiff of its right to nominate two directors.49 The defendant contended that mere nomination by the plaintiff was insufficient to constitute the plaintiff’s nominees as directors, and that some further act of election by the other directors or by the shareholders was required. Rejecting this argument, Sargant J observed at 192:[A] preliminary point was that under article 88 itself in order to complete the appointment of the two directors something further had to be done beyond their mere nomination by the plaintiff syndicate. In my opinion that is not so. According to the true reading of the article I think that when the syndicate formally nominated the persons whom it selected those persons became directors then and there. It was suggested that some form of co-option on the part of the other directors was necessary. I do not think so, but in any case that step would be a mere formality, and the right of the plaintiff syndicate to choose the two directors seems to me to be perfectly clear.50 Sargant J further held that this right was one “which ought to be … enforced”, and could be enforced by way of declaration or injunction (at 195–196; see [89] below). However, he caveated this in relation to two scenarios. First, Sargant J suggested that an agreement which gave the plaintiff the power to nominate an absolute majority of the board of directors might not be enforceable. This arrangement might be susceptible to the objection that it would “[put] the control of the company in the power of an outsider” (at 196). That was not the case in British Murac; the nomination merely secured the presence of “some person or persons—not constituting a majority—on the board of directors in order that the views advocated by the plaintiff syndicate may be represented and find expression on the board” (at 196). British Murac is thus cited in Company Directors: Law and Liability (Neil Sinclair, David Vogel and Richard Snowden eds) (Sweet & Maxwell, 2017) (“Sinclair”) at para 4.64 for the proposition that the court will not compel a company to accept a nominee appointed by a third party if such appointment would divest the members of control of the company’s affairs. The authors express doubt about the rationale for this proposition, but it was obiter and in any case not relevant to the present appeal.51 Secondly, and more importantly, Sargant J stated at 196–197 of British Murac:… I think it is clear that, although an outside body like the plaintiff syndicate in the present case may have the power of nominating two directors on the board, the Court would not by injunction force the company to accept on its board persons who were unfit or thoroughly unacceptable as members of the board of directors.52 Sargant J could not see any possible objection on this ground to one of the plaintiff’s two nominees, Dr Thomson. The other nominee, Mr Warwick, however, had a business which competed with that of the company or that of many of its customers. Sargant J therefore thought that a reasonable objection might be raised against him on this ground and possibly others. Accordingly, he granted the declaration that, by virtue of their nomination, both Dr Thomson and Mr Warwick had become and were directors of the defendant company, but did not immediately grant an injunction to compel their acceptance as members of the board. Sargant J proposed to wait and see if the shareholders – who had until then been trying to get rid of the general obligation towards the plaintiff, rather than obstruct the appointment of any particular person – would call a meeting and object on personal grounds to Mr Warwick’s appointment, and as such gave liberty to apply for an injunction (at 197). It is worth noting that the suitability of the plaintiff’s nominees went to the issue of whether the court would enforce the agreement by way of injunction; it did not affect the validity of the appointment. In other words, the plaintiff could nominate whoever it chose, and that person would be a director in law, but the court would hesitate to compel the company to accept that person as a director should he be found to be totally unsuitable. 53 Although British Murac is somewhat dated, it has been approved in Santos, a more recent decision by the Supreme Court of New South Wales (Equity Division). That case involved an article of association which gave a shareholder “the right at any time and from time to time to appoint one person as a director and … at any time remove from office any person so appointed”. Rath J cited British Murac as authority that “[u]pon an appointment under [the article in question] the person appointed would thereupon become a director of [the company] without any confirmation or other act on the part of [the company]”. The argument in Santos proceeded on the assumption that this proposition was correct (at 113). British Murac has also been cited in Palmer’s at para 8.520 for the following propositions:A company’s articles may legitimately confer the right to appoint the directors (or one or more of them) on a third party, or may authorise the delegation of the power of appointment to a third party. … This right of appointment is effective, although it must be distinguished from a mere right of nomination. If the company then refuses to accept the appointee, the court may enforce acceptance by injunction unless the appointee is unsuitable on personal grounds. [emphasis added]54 British Murac has also been cited in Woon on Company Law at para 7.28 for the proposition that “[w]here a person has a right by contract to appoint a director, such a right may be enforced by an order of specific performance”.55 We agree with Sargant J’s analysis in British Murac insofar as he recognised that the plaintiff’s right under the contractual agreement and under Art 88 gave rise to more than a mere right to nominate. We also agree that the company would be entitled to reject the plaintiff’s nominee as a director if he would be “unfit or thoroughly unacceptable” as a member of the board. This is the same in substance as the second limitation to the Board’s obligation to appoint Wellness’ nominee which we alluded to at [33] above, though we prefer the wording of whether the nominee is obviously unfit for office or if his nomination would be obviously injurious to the company. However, we have difficulty accepting in this case that the appellant’s very act of nomination sufficed to constitute Prof Mak a director, without the need for any further act on the part of the company. The practical difficulties associated with such a position, which we have alluded to at [41] above, do not appear to have been addressed by Sargant J. These are exemplified by the compromise that he struck by declaring that the plaintiff’s nominees had already become directors of the defendant company while refusing to grant an injunction compelling their acceptance as members of the board. It is not clear what precise position the plaintiff’s nominees occupied in these circumstances. We therefore do not agree that mere nomination by Wellness in this case constitutes Prof Mak a director.Plantations Trust56 The respondents rely heavily on the case of Plantations Trust. In that case, the plaintiff held a large number of shares in the defendant. They entered into an agreement for the plaintiff to guarantee an issue of debentures by the defendant. For the protection of the plaintiff’s interest, the defendant agreed to appoint as directors two persons to be nominated by the plaintiff. Clause 6 of the agreement stated: “[t]he [defendant] will appoint two persons, to be nominated by the [plaintiff], to be directors of the company”. The defendant’s articles of association were subsequently amended to provide as follows:Art. 27A. Notwithstanding anything herein contained, the [plaintiff] shall during such time as any of the 110 first mortgage debentures … shall be issued and outstanding, be entitled to nominate from time to time as they shall think fit two persons to be directors of the company, and such directors shall, subject to the clause hereof providing for the disqualification of directors, hold office until the whole of the said 110 debentures shall be redeemed or paid off or until requested to retire by the [plaintiff], and accordingly they shall not be subject to the clauses hereof providing for the qualification of and retirement by rotation of directors.57 The plaintiff’s nominees assumed directorship until 1916, when the defendant refused to recognise the appointment of the plaintiff’s two nominees as directors or allow them to act as such directors. The plaintiff commenced proceedings for an order restraining the defendant from, inter alia, preventing the nominees from taking up their position and acting as directors of the defendant. Eve J considered that British Murac was distinguishable on the following basis, at 679 (left):… The contract is this, the [plaintiff] shall nominate and the [defendant] shall appoint; that is to say, a power to nominate is given to the [plaintiff] and an obligation to appoint is imposed on the [defendant], but, such being the construction of the contract, I am not going to hold that the mere nomination by the [plaintiff] brought about the result of appointing these two individuals directors of the [defendant]. [Counsel for the plaintiff] has relied upon the recent decision of [British Murac], and, if I were here dealing with a contract contained in the agreement and repeated in the articles which, according to its true construction, only required the [plaintiff] to nominate in order to complete the appointment, I might and probably should feel constrained to adopt the view adopted by Sargant, J. in that case; but I am dealing here with a different state of things, a state of things where the contract expressly provides that the one party shall nominate and the other party shall appoint, and I cannot possibly hold that the performance of half the contemplated procedure is to be treated as of the same efficacy as its full performance. It comes, therefore, to this, that this is in effect an action for specific performance, and what I have now to consider is whether at this stage of the proceedings, and in view of the other matters to which I am about to refer, this is a case in which the court ought to grant any relief in the nature of specific performance. [emphasis added]58 This passage is important because it shows that Eve J distinguished British Murac, not on the basis that the plaintiff was an “outsider” (as Wellness claims),
+                   39
+
+
+
+
+Foot Note 39
+
+×
+
+
+
+  Appellant’s Skeletal Arguments, paras 20(b) and 22(b).
+
+
+
+ but because, as a matter of construction, cl 6 of the agreement treated the plaintiff’s right of nomination as separate and distinct from the defendant’s obligation of appointment. This could only mean that, under the agreement, nomination was in itself not sufficient to constitute appointment. It should be noted that Plantations Trust did not disapprove of British Murac. In fact, Eve J expressed sympathy for that decision. The only point on which he differed was whether the plaintiff’s nomination of the director was sufficient to bring about the appointment. On a proper construction of the term and article before him, Eve J thought it did not. Even so, the contract obliged the defendant to accept the plaintiff’s nominee by appointing him as a director. Eve J did not express any doubt about the effect or validity of such an agreement, though he declined to decide whether it was one which the courts would enforce by a decree for specific performance under any circumstances. There therefore appears to be little distance between British Murac and Plantations Trust in practical terms, the primary difference being whether the defendant is required to appoint the plaintiff’s nominee in order for him to be constituted a director.59 In Eve J’s view, the plaintiff’s application for an order restraining the defendant from preventing the nominees from taking up and exercising directorship was “in effect an action for specific performance”. Eve J expressly declined to rule on whether this type of agreement would be enforced by an order of specific performance in all circumstances, though he could imagine situations where the court might hesitate to do so (at 679 (left)):In passing on to consider the merits of the case I must not be considered as expressing any opinion whether a contract to elect the nominees of an outside body as directors of a company is one which the court will in any circumstances enforce by a decree of specific performance. The contract to accept as directors any individuals nominated by a third party, however unsuited they may be for the office, or however injurious to the company their presence and participation in the management of its affairs may be, strikes me as a contract which, so long as it remains executory, the court might well hesitate to enforce; but, assuming for the purposes of the rest of my judgment that it is a contract of which at the hearing the plaintiffs might obtain specific performance, I have now to determine whether in the events which have happened it is one of which I ought now to grant specific performance to this extent, that I ought to restrain the [defendant] from doing anything inconsistent with what they would be doing had they in fact performed the contract. … [emphasis added]60 It is important to note that Eve J did not rule on the general availability of specific performance in such a situation. He only found, “assuming” specific performance was available in theory, that it ought not to be ordered on the facts of the case. It had transpired that the plaintiff was in fact not in a position to carry out its agreement to underwrite, as a result of which the issuance of the debentures was postponed and the defendant was forced to source for alternative finance. Eve J therefore declined to order specific performance for three reasons:(a) As a result of the plaintiff’s non-performance of its obligations towards the defendant, the defendant had to source for alternative financial support elsewhere (at 679 (right)).(b) If the plaintiff were allowed to insist on its right to have two directors on the defendant’s board, the defendant would probably not be able to find a rival commercial house willing to support it (at 680 (left)).(c) The object of inserting the stipulation as to the two directors was to “protect the [plaintiff] as mortgagee and as the holder of the debentures”. Given the events which had occurred, however, the enforcement sought by the plaintiff would no longer serve that purpose. It was obvious that the application “ha[d] been launched and persisted in with some other motive than that of preserving the security” (at 680 (left)).61 Importantly, Eve J did not hold that specific performance would never be available in a situation like the present. Though he considered obiter that the court “might well hesitate to enforce” a contract to accept as directors any nominees however unsuited or injurious, his decision not to order specific performance was primarily based on the plaintiff’s inability to fulfil its obligation to guarantee the debentures, which would have made it unjust to enforce the agreement. It is therefore not accurate for the respondents to rely on Plantations Trust for the proposition that “executory contracts for the appointment of directors are not specifically enforceable where the directors have to take one or more steps to consummate the appointment”, or that “as a matter of principle, a Court will hesitate to enforce a contract for the appointment of directors as long as it remains executory”.
+                   40
+
+
+
+
+Foot Note 40
+
+×
+
+
+
+  First and Second Respondents’ Skeletal Submissions, paras 34–35.
+
+
+
+ Plantations Trust actually favours Wellness in so far as Eve J found that the parties had a contract for the defendant to appoint the plaintiff’s nominees. His reasons for declining to enforce that agreement arose from the facts before him, and do not assist the respondents here. We do, however, share Eve J’s misgivings about the enforcement of such an agreement in respect of a nominee who is “unsuited” for office or “injurious” to the company. This again accords with the second qualification to the Board’s obligation to appoint Wellness’ nominee at [33] above. Thus, Sinclair states at para 4.64 that “if the company refuses to accept a nominee appointed pursuant to a contractual right granted to a third party the court will compel it to do so by injunction”, unless (a) the nominee is unfit to act (citing Plantations Trust); or (b) the appointment would result in control of the company’s affairs being taken away from its members (citing British Murac; see [50] above). 62 Our analysis differs from that employed in both British Murac and Plantations Trust in one respect, however. In both those cases, the court suggested that it would hesitate to enforce the contractual right of appointment if the nominated candidate was unfit, thoroughly unacceptable or injurious to the company (at [51] and [58] above). In other words, on a proper construction of the contractual provision, the contracting party had the right to appoint (or have appointed) any person it so chose, but the court would not enforce that right by way of an order of specific performance if the chosen person was unsuitable. However, this is not the analysis we have adopted. In our view the Implied Term does not, on a proper construction, entail an obligation to appoint an individual who is obviously unfit or injurious to the company. As we elaborate below, this would be incongruent with the fiduciary duties owed by the Board in the exercise of its power of appointment under Art 91 of the Constitution. Moreover, the analysis adopted in British Murac and Plantations Trust would result in the creation of a new genre of directors (or director-nominees) who, although contractually entitled to appointment, would not be able to enforce their right to assume directorship, again giving rise to the practical problems and ambiguities identified at [41] above. On our view, the court would not order TWG to appoint an individual who is obviously unfit or injurious, not because specific performance ought to be withheld, but because there is no contractual right to appoint such persons in the first place. This is why we have stated at [33] above that the Board would not be obliged to appoint such persons.Article 9163 The construction of the Implied Term at [33] above is further supported by Art 91 of the Constitution, which states, “The Board of Directors may, at any time, and from time to time, appoint any person to be a Director, either to fill a casual vacancy, or by way of addition to their number.” 64 We have explained at [40]–[42] above that the Implied Term does not give the shareholders the power to appoint directors per se, but rather to determine who they shall be. The power of appointing the directors remains with the Board pursuant to Art 91 of the Constitution, although it must now be exercised in accordance with the shareholders’ wishes pursuant to the Implied Term. As FitzGerald and Muth notes at para 1-06, one good reason for joining the company as a party to a shareholders’ agreement is so that the agreement will “bind the directors (indirectly) to give effect to the arrangements when exercising the powers conferred on them by the articles of association (or otherwise) to manage the company”. This was, in our view, precisely the intended effect of the Shareholders’ Agreement to which TWG is a party.65 The Board’s power of appointment under Art 91 must also be exercised bona fide in TWG’s interests (see s 157 of the Companies Act, Mortimore at para 6.45 and Tjio at para 08.069). We agree with the respondents
+                   41
+
+
+
+
+Foot Note 41
+
+×
+
+
+
+  First and Second Respondents’ Skeletal Submissions, paras 20–21.
+
+
+
+ that a construction of the Implied Term which accords with that duty is to be preferred over one that does not; “a construction which entails that the contract and its performance are lawful and effective is to be preferred” (Zurich at [131]). It is also unlikely that the parties would have intended to place the Board in a position in which it had no choice but to breach its fiduciary obligation to the company. 66 The construction of the Implied Term which we have adopted at [33] above does not require the Board to rubber-stamp the shareholders’ nominations, since the Board retains the discretion not to appoint persons who are obviously unfit for office or whose appointment would be obviously injurious to the company. The Implied Term therefore accommodates the Board’s fiduciary obligation. It is important to remember that a company “is not a monolith consisting of bland interchangeable digits” but “an entity with many stakeholders” whose interests will often be at variance (see Woon on Company Law at para 8.23). TWG is a joint venture with three shareholders, each of whom has an individual interest in the management and operation of the joint venture. The importance ascribed by the shareholders to this interest is evidenced by cl 5 of the Shareholders’ Agreement and the Implied Term, which guarantee a minimum amount of representation on the Board to any shareholder whose shareholding is at least 25%. As we said at [36] above, the shareholders may appoint nominee directors in consideration of their own interests. This guarantee in turn gives the shareholders confidence in investing. At the same time, the shareholders have a united interest in TWG’s financial success, which at a general level would benefit from the leadership of persons who are suited to office by virtue of their commercial experience and skills. The Board’s limited discretion not to appoint the nominees if they are obviously unfit for office and/or injurious to the company strikes a balance between both types of interest: the shareholders’ liberty to appoint as directors the persons whom they wish to represent them on the Board, and the Board’s interest in appointing persons suitably qualified to manage and supervise the company. 67 Nothing we have said detracts from the fact that directors may often have to sacrifice individual shareholders’ interests for the broader good of the company. Corporate decisions often “impinge upon the personal interests of shareholders, creditors and employees” (Woon on Company Law at para 8.24). In this case, however, the Shareholders’ Agreement clearly gives primacy to the shareholders’ interest in determining the composition of the Board. This is part of the foundational division of power as between the shareholders, and is inextricably connected to their participation in the joint venture. It would therefore be artificial to divorce it from the company’s interests as a commercial entity. The Board’s exercise of its power of appointment under Art 91 within the limits we have delineated at [33] above will enable it to fulfil its fiduciary duty without denuding the Implied Term of effect.Usurpation of power68 The respondents argue that giving the shareholders the ability to appoint directors would usurp the Board’s power of appointment.
+                   42
+
+
+
+
+Foot Note 42
+
+×
+
+
+
+  First and Second Respondents’ Skeletal Submissions, para 21.
+
+
+
+ Since we have found that the power of appointment remains with the Board under Art 91 of the Constitution, that power has not been usurped. It might, however, be thought that our preferred construction of the Implied Term should nevertheless be rejected because it imposes fetters on the Board’s absolute discretion to appoint whom it wishes. We explain in this section why such an argument must fail.69 First, even if the Implied Term and Art 91 of the Constitution are inconsistent, the Shareholders’ Agreement was obviously intended to prevail over the Constitution in the event of any inconsistency. Clause 12 of the Shareholders’ Agreement states:
+                   43
+
+
+
+
+Foot Note 43
+
+×
+
+
+
+  ROA Vol III, p 47.
+
+
+
+12. Prevalence of AgreementIn the event of any inconsistency or conflict between the provisions of this Agreement and the provisions of the Articles, the provisions of this Agreement shall as between the Shareholders prevail (subject to applicable law) and the Shareholders shall, so far as they are able, cause such necessary alterations to be made to the Articles as are required to remove such conflict. 70 Clause 12 unequivocally expresses the shareholders’ unanimous intention that the terms of that agreement should prevail in the event of conflict with the Constitution.
+                   44
+
+
+
+
+Foot Note 44
+
+×
+
+
+
+  Appellant’s Skeletal Arguments, para 34.
+
+
+
+ All the shareholders of TWG are parties to the Shareholders’ Agreement. There is thus no question of the shareholders accomplishing through the Shareholders’ Agreement what they would be unable to achieve at a general meeting for want of unanimity, which was the concern in Automatic Self-Cleansing Filter Syndicate Company, Limited v Cuninghame [1906] 2 Ch 34 (“Cuninghame”) (see Credit Development Pte Ltd v IMO Pte Ltd [1993] 1 SLR(R) 68 (“Credit Development”) at [30]; see also Paul L Davies and Sarah Worthington, Gower: Principles of Modern Company Law (Sweet & Maxwell, 10th Ed, 2016) at para 14–17). Paragraph (c) of the preamble to the Shareholders’ Agreement shows that the shareholders fully intended it to govern the operation of TWG:
+                   45
+
+
+
+
+Foot Note 45
+
+×
+
+
+
+  ROA Vol III, p 35.
+
+
+
+ It is the common intention of the Parties hereto to operate the Company as a joint venture company for the purpose of carrying on the Business and to this end, the Parties have agreed to regulate the affairs of the Company and the respective rights and obligations of the Parties as shareholders of the Company on and after the Effective Date, on the terms and subject to the conditions of this Agreement.71 There is therefore no reason to interpret the Implied Term restrictively. The respondents themselves must accept that it curtails the operation of Art 91, since they acknowledge that the Board cannot simply appoint whoever it pleases without reference and deference to the choice of the shareholders.
+                   46
+
+
+
+
+Foot Note 46
+
+×
+
+
+
+  ROA Vol III, p 207, paras 3–4; p 215, paras 5–9. 
+
+
+
+ Moreover, it has been held that a shareholders’ agreement to exercise their votes in a particular way is valid and enforceable by the courts (Russell v Northern Bank Development Corporation Ltd and others [1992] 1 WLR 588; see also Woon on Company Law para 4.32 n 90 and Tjio at para 05.040). If there was any inconsistency between Art 91 and the Implied Term, the shareholders would have been legally obliged to amend the Constitution, and would not be able to take advantage of their breach of cl 12 to avoid their contractual obligation under the Implied Term to appoint Prof Mak. 72 This is supported by this Court’s decision in Golden Harvest Films Distribution (Pte) Ltd v Golden Village Multiplex Pte Ltd [2007] 1 SLR(R) 940 (“Golden Harvest”). Article 118 of the company’s articles in that case provided that the Directors might from time to time elect a chairman to preside at their meetings, whereas cl 5.1 of the shareholders’ agreement stated that the shareholders would amend the articles so as to provide for the chairman to be appointed by a particular shareholder (“Village”). The articles were never amended. Village – or, to be precise, the directors on the board whom Village had nominated – subsequently appointed a chairman, Phillipson, but the other shareholder argued that the appointment was irregular because the articles had not been amended. This Court rejected this argument, holding at [42] that:… [I]t is clear that, as amongst the parties to the [joint venture], cl 5.1 of the Shareholders’ Agreement is in fact contractually binding. … Indeed, Phillipson’s appointment as chairman of the Board meeting would be justified under cl 5.1(i) itself as a matter of contractual agreement. It is true that cl 5.1 had not yet been incorporated into the articles of association. However, it is clear, as we have just noted, that the clause itself was contractually binding amongst the parties in any event. Shareholder agreements are clearly binding as amongst the parties themselves, and there is nothing in this particular agreement to suggest that it ought not to be enforced, at least in so far as cl 5.1 is concerned … We also note the House of Lords decision of Russell v Northern Bank Development Corporation Ltd [1992] 1 WLR 588 (“Russell”). Although certain aspects of the actual decision in Russell have been the subject of some controversy, including what the case actually decided, the general principle contained therein to the effect that shareholder agreements are generally binding amongst the parties appears to be clear. … [W]e find that Phillipson’s appointment of himself as chairman of the Board meeting was regular. … [internal citations omitted]73 As for the fact that the articles had not been amended, this Court observed that it was not disputed that cl 5.1 of the agreement remained in force as amongst the shareholders. The clause was important because it ensured that there would be no deadlock within the board, on which the two shareholders had an equal number of representatives (at [43]). The Implied Term in the present case is equally important for the purpose of ensuring minority representation on the Board. Golden Harvest therefore supports the proposition that a contractual agreement between the shareholders is legally binding and may be enforced notwithstanding their omission to incorporate it into the company’s constitution, even if there is a contractual duty to do so. 74 The respondents contend that since cl 12 of the Shareholders’ Agreement is “subject to applicable law” – including the rule against usurpation of power – it would not enable the Implied Term to prevail over Art 91 of the Constitution.
+                   47
+
+
+
+
+Foot Note 47
+
+×
+
+
+
+  First and Second Respondents’ Case, para 29. 
+
+
+
+ However, the authorities cited by the respondents, Credit Development at [48] and John Shaw and Sons (Salford), Limited v Peter Shaw and John Shaw [1935] 2 KB 113 (“John Shaw”), do not establish any rule against the construction of the Implied Term at [33] above.75 In both cases, the shareholders sought to do, in general meeting, what they had no power to do under the articles of the company. In John Shaw, the articles vested the permanent directors with control over the financial affairs of the company and all powers of management of the affairs of the company. The permanent directors had passed a resolution that instructions be given for certain writs to be issued against the defendants, but the company in general meeting subsequently passed a resolution directing the chairman to discontinue the proceedings. Greer LJ, refusing to give the resolution effect, stated at 134:… A company is an entity distinct alike from its shareholders and its directors. Some of its powers may, according to its articles, be exercised by directors, certain other powers may be reserved for the shareholders in general meeting. If powers of management are vested in the directors, they and they alone can exercise these powers. The only way in which the general body of the shareholders can control the exercise of the powers vested by the articles in the directors is by altering their articles, or, if opportunity arises under the articles, by refusing to re-elect the directors of whose actions they disapprove. They cannot themselves usurp the powers which by the articles are vested in the directors any more than the directors can usurp the powers vested by the articles in the general body of shareholders. … 76 John Shaw stands for the proposition that where the general management of the company is vested in the directors, the members have no power by ordinary resolution to give directions to the board or overrule its business decisions (see Sealy’s at pp 197 and 200; see also Mortimore at para 4.20). Similarly, if the constitution gives the shareholders the right to appoint directors, the directors cannot confer a power of appointment on a third party by way of contract (James v Eve (1873) LR 6 HL 335 HL, cited in Palmer’s at para 8.523). John Shaw might therefore apply if the shareholders of TWG resolved to appoint a particular director in general meeting, despite Art 91 of the Constitution, if cl 5 and the Implied Term did not exist. But John Shaw is not helpful in the context of a unanimous shareholders’ agreement purporting to regulate the exercise of a power vested in the board.77 Credit Development does not support the respondents’ position either. In that case, the defendant shareholder requisitioned a general meeting to vote on certain resolutions. The plaintiffs sought to know whether the company was bound to give its members notice of the resolutions. Lim Teong Qwee JC decided that no notice had to be given of five of the resolutions as these were ultra vires the powers of the members in general meeting. Lim JC was primarily concerned with the proper interpretation of an article which stated that the business of the company should be managed by the directors, “subject nevertheless to the provisions of the statutes, these articles and to such regulations, being not inconsistent with the said provisions and articles, as [might] be prescribed by the company in general meeting”. Citing the aforementioned passage from John Shaw (at [48]), Lim JC agreed with Greer LJ’s remarks “as a general proposition”, but found them unhelpful as they did not consider the words of limitation in the article in question (at [49]). In Lim JC’s view, those words meant that the company in general meeting might at any time prescribe regulations with which the directors had to comply, provided these regulations were not inconsistent with the rest of the articles and any relevant statutes (see [22]–[23] and [43]; see also Tjio at para 08.007). But the present case does not concern such a provision. In any event, Credit Development may have been statutorily overruled by s 157A of the Companies Act (see the Report of the Company Legislation and Regulatory Framework Committee (October 2002), Chapter 3, para 4.7.2; see also Woon on Company Law at paras 5.11–5.12 and Tjio at paras 08.007–08.008). We note that the respondents have not made any argument on the basis of s 157A of the Companies Act.78 In our view, neither John Shaw nor Credit Development stands for any rule prohibiting the shareholders of a company from unanimously agreeing by way of a shareholders’ agreement that they should choose the directors, notwithstanding that the articles confer the power of appointment on the board. First, both John Shaw and Credit Development involved certain shareholders attempting to directly exercise management powers in general meeting which the articles had conferred upon the board. This would have violated the shareholders’ bargain to vest those powers in the board. Neither case speaks to the effect of a contractual agreement amongst all the shareholders purporting to regulate the exercise of the board’s power in the first place. Secondly, both cases – like Cuninghame – involved powers of management expressly conferred on the board. Sealy’s at pp 198–199 notes that the ruling in Cuninghame “does not apply to decisions outside the company’s business and its management”. There are good reasons for management powers to be vested in the board, particularly since the directors are constrained to act in accordance with their fiduciary duties whereas shareholders are not. As a result, the court will lean towards preserving this division of powers (Chan Siew Lee v TYC Investments Pte Ltd and others and another appeal [2015] 5 SLR 409 at [36]). But that rationale does not apply to the appointment of directors in a joint venture company governed by an agreement which confers the right of appointment on the shareholders. A shareholder who has significant investment in a private company usually ensures that he has the right to appoint one or more directors, so as to safeguard his interest without having to be directly involved in the management of the company (Mortimore at para 6.50). This was the effect of cl 5 of the Shareholders’ Agreement, which enabled the majority and minority shareholders to decide the composition of the Board in broad proportion to their shareholding, thereby ensuring that each shareholder’s interests were represented in the Board’s decision-making. Commercial sense therefore favours giving effect to the shareholders’ desire to elect the Board.79 We accordingly reject the argument that our preferred construction of the Implied Term would be inconsistent with any rule of law against the usurpation of powers.Issue 2: Whether there has been a breach of the Implied Term80 We turn now to examine whether the respondents have breached the Implied Term. The respondents claim that Wellness sought to attach two conditions (that is, the Ancillary Matters) to Prof Mak’s appointment and commenced the OS on the basis that the Board was wrong not to appoint Prof Mak with the two Ancillary Matters. Shortly before the OS was heard, Wellness stopped insisting on the Ancillary Matters. The Judge dismissed the OS in order to give the respondents an opportunity to reconsider appointing Prof Mak without the Ancillary Matters. Wellness’ argument on appeal – ie, that TWG breached the Implied Term by refusing to appoint Prof Mak, regardless of its decision on the Ancillary Matters – is said to amount to a new cause of action. The respondents maintain that they have not, to date, considered Prof Mak’s appointment on its merits. 81 Wellness, on the other hand, denies that the Ancillary Matters were ever attached as conditions to Prof Mak’s appointment. The breach of duty which Wellness alleges on the part of TWG, both in the OS and on appeal, consists simply in the Board’s refusal to appoint Prof Mak without good reason.82 We accept Wellness’ position. The OS filed by Wellness below prayed only for the appointment of Prof Mak as a director of TWG, not for his appointment together with the Ancillary Matters. In fact, the Ancillary Matters were not even mentioned in the OS; Wellness would have had to apply to amend the OS in order to obtain an order on the Ancillary Matters. It is true that the affidavit filed by counsel for Wellness, Mr Chua Sui Tong, in the proceedings below did not say that the Ancillary Matters were mere requests and could be divorced from Prof Mak’s appointment.
+                   48
+
+
+
+
+Foot Note 48
+
+×
+
+
+
+  ROA Vol III, pp 5–13.
+
+
+
+ But neither did it assert that TWG’s breach consisted of its failure to accede to the Ancillary Matters. Mr Chua’s affidavit mentioned the Ancillary Matters as part of the background to the dispute, and concluded as follows: “The refusal by the Board to appoint [Prof Mak] as a director of [TWG] amounts to a breach of the Shareholders’ Agreement.”
+                   49
+
+
+
+
+Foot Note 49
+
+×
+
+
+
+  ROA Vol III, p 13.
+
+
+
+ Moreover, although Wellness passed up an opportunity to clarify its position in response to the respondents’ reply affidavits, which stated that Wellness had “imposed two terms in connection with the appointment of [Prof Mak]”
+                   50
+
+
+
+
+Foot Note 50
+
+×
+
+
+
+  ROA Vol III, pp 173, 184 and 186.
+
+
+
+, its failure to do so does not change the nature of the reliefs sought in the OS or put Wellness’ cause of action on a different footing. The relevant breach, both below and on appeal, is simply TWG’s refusal to give effect to the Implied Term by appointing Prof Mak whom Wellness nominated as its directorial representative. 83 TWG further claims that it has not officially come to a decision on the matter of Prof Mak’s appointment, since Wellness did not respond to its invitation for further information about Prof Mak’s commercial qualifications. It accordingly denies that it is in breach of the Implied Term. We do not accept this assertion. First, the Ancillary Matters clearly had nothing to do with Prof Mak’s suitability for directorship, and it is inconceivable that the respondents rejected his nomination on the basis of the Ancillary Matters alone without even giving thought to his suitability as a candidate. In fact, the respondents have had ample opportunity to do so since it was made clear to them (as early as 6 July 2017) that Wellness sought Prof Mak’s appointment independently of the Ancillary Matters. As for Wellness not replying to TWG’s requests in the Post-Hearing Correspondence for more information about Prof Mak (see [25(f)]–[25(g)] above), we do not think that TWG is entitled to postpone its appointment of Prof Mak by placing the onus on Wellness to justify his candidature. As we have noted above, cl 5 and the Implied Term exist to give the shareholders a minimum amount of control over the directors. With every inquiry and letter, TWG was keeping Wellness out of its right to be represented on the Board. The Implied Term would be rendered futile if the majority could indefinitely delay the appointment of the minority’s nominee in this way. Besides its rejection of the Ancillary Matters, TWG has not given any legitimate reason to refuse Prof Mak’s appointment. We therefore find that the respondents are in breach of the Implied Term.Issue 3: The appropriate relief84 The third issue relates to the relief that should follow from our findings. The respondents contend that, even if they are in breach of the Implied Term, specific performance should not be ordered for three reasons. First, Wellness does not have clean hands,
+                   51
+
+
+
+
+Foot Note 51
+
+×
+
+
+
+  First and Second Respondents’ Skeletal Submissions, paras 42–44 and 47; Third Respondent’s Skeletal Arguments, para 31.
+
+
+
+ but this argument fell away once the evidence on which it was based was excluded, such evidence having surfaced in the parties’ affidavits regarding the PHIP. Mr Singh did not attempt to raise this argument before us during the oral hearing. Second, in reliance on Plantations Trust, the court will not order specific performance of a contract for the appointment of directors as long as it remains executory. Finally, the court will not order specific performance of a contract for services.85 As regards the second reason, the respondents originally took the position, based on Plantations Trust, that specific performance would be unavailable if the Implied Term gave rise only to a right to nominate. But we have explained at [61] above why Plantations Trust does not in fact stand for that proposition. In our view, a provision like the Implied Term can in principle be enforced through an order of specific performance. Sealy’s explains at p 257 that one of the advantages of a shareholders’ agreement is that “contractual obligations are in principle enforceable as of right, and, where appropriate, by injunction”. Woon on Company Law also states at para 7.28, citing British Murac, that “[w]here a person has a right by contract to appoint a director, such a right may be enforced by an order of specific performance”. We agree with Sargant J that merely to award damages for the breach of the Implied Term would be “a wholly inadequate and illusory remedy” for Wellness’ loss of representation on the Board (British Murac at 196, see [89] above). Indeed, Mr Singh accepted during the hearing that if Wellness was able to establish a cause of action then an order of specific performance must follow; the real question was therefore whether there had been a breach. That being the case, this objection accordingly falls away. 86 As for the third reason, the authorities cited by the respondents do not establish that the court will not order specific performance of an obligation to appoint a director on the basis that it is a contract for services. They cite I C F Spry, The Principles of Equitable Remedies (Sweet & Maxwell, 9th Ed, 2014) (“Spry”) at p 128 for the proposition that specific performance is ordinarily refused where enforcement of the agreement would involve the maintenance of a fiduciary relationship. However, the learned author qualifies this proposition in the context of directorship at p 129:Greater difficulties arise where it is sought to enforce contracts that particular persons will act as directors of companies. These contracts also involve the maintenance of a continuing personal relationship and the performance of fiduciary duties. There have been occasions when specific performance of contracts of this nature has been refused by courts of equity [citing Plantations Trust, amongst others], but since there is a conflict in the authorities the position is not yet entirely clear. The better view is that there is no absolute rule that contracts of this nature will not be enforced and that in each case the court will exercise its discretion by reference to all matters that bear on such considerations as hardship and public policy and will take account especially of the relationships of the parties and their interests in the company in question and the extent and nature of the duties that the agreement provides for [citing British Murac, amongst others]. If, for example, a right to appoint directors arises from a contract that is directed to protect the interests of particular shareholders, its enforcement in specie may be appropriate, provided that the proposed directors are not unfit. Indeed, in principle it should be accepted that in special circumstances even a contract to employ a managing director may be specifically enforced, if the protection of shareholders, for example, renders this just in all the circumstances. [emphasis added]87 Spry therefore supports Wellness’ case, particularly as cl 5 of the Shareholders’ Agreement (and by extension the Implied Term) appears to have been necessitated by a concern for shareholder protection. No other rationale for cl 5 has been advanced by the parties. Another authority cited by the respondents, Gareth Jones and William Goodhart QC, Specific Performance (Butterworths, 1986), states at pp 138–139:There is another situation where the courts have contemplated the execution of a contract which is akin to a contract of services. An agreement, a debenture or a simple contract, may provide that a named person shall have the right to nominate a director or directors to the board of a company; and a clause to the same effect may be included in the company’s articles of association. …88 The authors go on to refer to British Murac, in which Sargant J also dealt with the objection that the contract was in the nature of a contract of service and thus not specifically enforceable. Rejecting this argument, Sargant J said (at 195 of British Murac):… I feel great doubt whether the relation between a company and a director is in the nature of a contract of service within the meaning of that doctrine. … [D]irectors may have rights and powers and duties under the constitution of the company independently of the direction of a majority of the shareholders, that is to say, that to some extent at least they may occupy an independent position. …89 Sargant J continued (at 195–196):… It is familiar knowledge that agreements of this kind, under which debenture-holders or preference shareholders or other persons who have a permanent stake in a company have a right to appoint one or more directors of the company for the purpose of protecting their interests, are exceedingly common. It is also obvious that merely to award damages for the breach of such an agreement would be a wholly inadequate and illusory remedy. Accordingly I am not going to be the first to hold that an agreement for good consideration, under which a shareholder in a company, while he continues to hold his shares or a certain number of them, shall in virtue of that holding have the right of appointing or nominating a director of the company, is one that cannot be enforced by the injunction of this Court. In my opinion the right is one which ought to be so enforced, and the enforcement of which by way of declaration or injunction is not in conflict with the ordinary rules against the specific performance of contracts relating to service. … [emphasis added]90 The case of Bainbridge v Smith (1889) 41 Ch D 462 (“Bainbridge”) was also cited and distinguished in British Murac. In Bainbridge, the vendors of a brewery entered into a contract with a company which had been set up to purchase and operate the brewery. The contract provided that one of the vendors should be a managing director of the aforementioned company for a specified time, and that on his death or retirement his son (who was the plaintiff in Bainbridge) should be a managing director for a term. The board of directors of the company prevented the plaintiff from acting as managing director, and the plaintiff then sought an injunction restraining them from doing so. One of the disputed issues was whether the plaintiff had the necessary qualification to be a managing director under the articles of association. Cotton LJ said at 474:[I]n my opinion … if the company says that even if the Plaintiff has the qualification they do not desire him to act as one of their managing directors, we should not grant any injunction, because it would be contrary to the principles on which this Court acts to grant specific performance of this contract by compelling this company to take this gentleman as managing director, although he was qualified so to act, when they do not desire him to act as such. …91 The case was adjourned, and the company passed a resolution in extraordinary meeting stating that it did not desire the plaintiff to act as a managing director. The court then dissolved the injunction (see 475 of Bainbridge). This case was distinguished in British Murac on the basis inter alia that “a managing director is to some extent in a different position from that of an ordinary director because he is half director and half manager”. Furthermore, the contract in Bainbridge was entered into between the vendors of the brewery and their sons, on the one hand, and a trustee for the purchasing company on the other. The court was understandably reluctant to force the shareholders to accept the plaintiff as a managing director on the basis of a contract to which they were not party. But the Shareholders’ Agreement in this case binds all the shareholders (including the respondents) and expresses their unanimous intention to elect directors to the Board. We therefore do not accept the respondents’ arguments that specific performance should not be available to enforce the Implied Term.Conclusion92 For the reasons we have given, we allow the appeal. We order that Prof Mak be appointed a director of TWG and that the respondents, their directors and/or their officers execute or procure the execution of the documents necessary to give effect to his appointment. 93 As regards the costs of SUM 14/2018, given that Wellness did not succeed in admitting the PHIP and the Post-Hearing Correspondence was admitted by consent, we make no order as to costs. For the appeal proper, costs should follow the event. The costs order below is reversed in favour of Wellness and in addition, the respondents are to pay costs fixed at $50,000 inclusive of disbursements in favour of Wellness for the appeal. We also make the usual consequential orders for security of costs. Tay Yong Kwang             Steven Chong   Quentin Loh Judge of Appeal             Judge of Appeal  JudgeToby Landau QC and Calvin Liang (instructed counsel), Chua Sui Tong and Wong Wan Chee (Rev Law LLC) for the appellant;Davinder Singh SC, Lydia Ni Manchuo and Deborah Loh Yu Chin (Drew & Napier LLC) for the first and second respondents;Siraj Omar and Premalatha Silwaraju (Premier Law LLC) for the third respondent.  
