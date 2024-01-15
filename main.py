@@ -3,7 +3,11 @@
 2) Split dataset into train, validation, and test sets
 3) Set hyperparameters (refer to Google Doc)
 4) Instantiate model
-5) Call the train() method to train the model
+5) Call the train() method to train the model. 
+    We will need to test model performance at the end of each epoch on the Validation set as well during the training process.
+    The Validation set is supposed to be like a proxy for the Testing dataset, and is used to select the best version of the model for 
+    evaluating at the end.
+    The number of epochs is the number of times the entire dataset is passed through the model.
 6) Call the test() method to evaluate model performance
 
 Add method parameters as needed, this is just a template/pseudocode. 
