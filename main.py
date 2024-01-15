@@ -1,5 +1,5 @@
 """
-1) Loading/Preprocessing data
+1) Loading/Preprocessing data. Includes tokenisation/anything we need to do to the data before using it to train the model.
 2) Split dataset into train, validation, and test sets
 3) Set hyperparameters (refer to Google Doc)
 4) Instantiate model
