@@ -14,6 +14,11 @@ This is the pipeline for model training.
 Add method parameters as needed, this is just a template/pseudocode. 
 Don't need to follow the steps in this specific order either, it's just a list of things we need to do
 
+Clarifying hyperparameters vs parameters (excerpt from the internet):
+Parameters allow the model to learn the rules from the data while hyperparameters control how the model is training. 
+Parameters learn their own values from data. 
+That's why learning rate/batch size etc are hyperparameters, while model weights are parameters
+
 Some helpful documentation:
 https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
 https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html for training a generic classifier
