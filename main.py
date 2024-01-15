@@ -33,7 +33,6 @@ dataset = utils.generate_dataset() # Maybe can create a separate method for any 
 # Split dataset and create Dataloaders for each training set
 # Need to create the train, validation, and testing dataset
 # To load the data from each of the train, validation, and testing datasets, we need to create corresponding Dataloaders.
-# train_loader, val_loader, test_loader =  # Do modify as needed, don't necessarily need to do it like this!!
 
 # Instantiate model
 # model = 
