@@ -13,6 +13,8 @@ Some helpful documentation:
 https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
 https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html for training a generic classifier
 """
+import model
+import utils
 
 # This line is to set the model to use the GPU if available, else the CPU
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
@@ -21,7 +23,7 @@ print(device)
 # Generate Dataset
 dataset = utils.generate_dataset()
 
-# Specify hyperparameters
+# Specify hyperparameters, we probably will need to pass these hyperparameters into the train() method later on!
 
 # Split dataset and create Dataloaders for each training set
 # Need to create the train, validation, and testing dataset
