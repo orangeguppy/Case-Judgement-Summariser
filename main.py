@@ -21,7 +21,8 @@ device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print(device)
 
 # Generate Dataset
-dataset = utils.generate_dataset()
+dataset = utils.generate_dataset() # Maybe can create a separate method for any additional preprocessing/tokenisation?
+                                    # Just do whichever is easier, no hard/fast rules
 
 # Specify hyperparameters, we probably will need to pass these hyperparameters into the train() method later on!
 
