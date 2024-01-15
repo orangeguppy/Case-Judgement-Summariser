@@ -39,7 +39,7 @@ dataset = utils.generate_dataset() # Maybe can create a separate method for any 
 model.to(device) # Move the model to the GPU if available, else move it to the CPU
 
 # Train the model
-utils.train()
+utils.train(device=device)
 
 # Test the model
-utils.test()
+utils.test(device=device)
