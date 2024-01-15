@@ -6,8 +6,12 @@ Add as needed!!
 def generate_dataset():
     pass
 
-def train(): # This method should be called to train the model on the Training set
+# This method should be called to train the model on the Training set. 
+# Need to include code for saving the model weights when performance on the Validation set is best
+def train(model, device):
     pass
 
-def test(): # This method should be called for testing on both Validation and Test sets
+# This method should be called for testing on both Validation and Test sets
+# Make sure the correct model weights are loaded
+def test(model, device): 
     pass
