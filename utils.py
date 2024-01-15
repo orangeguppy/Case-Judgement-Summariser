@@ -12,6 +12,6 @@ def train(model, device):
     pass
 
 # This method should be called for testing on both Validation and Test sets
-# Make sure the correct model weights are loaded
+# Make sure to include code to load the correct model weights
 def test(model, device): 
     pass
