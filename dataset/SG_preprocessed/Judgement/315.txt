@@ -1,0 +1,715 @@
+in the court of appeal of the republic of singapore[2023] sgca(i) 4civil appeal no 1 of 2023 (summons no 4 of 2023)betweenthe republic of india… applicant anddeutsche telekom ag… respondentgrounds of decision[arbitration — confidentiality — privacy][civil procedure — inherent powers]this judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.the republic of india vdeutsche telekom ag [2023] sgca(i) 4court of appeal — civil appeal no 1 of 2023 (summons no 4 of 2023) sundaresh menon cj31 march, 25 april 2023 9 june 2023 sundaresh menon cj: introduction1 this was a contested application, ca/sum 4/2023 (“sum 4”), brought by the appellant in ca/cas 1/2023 (the “appeal” or “cas 1”) for the appeal and any other applications that may be filed in connection with it to be heard in private, for any information (including the identities of the parties) or documents relating to the appeal to be concealed, for the case file for the appeal to be sealed, for the parties in the appeal to not be identified in any hearing lists and for any published judgment or decision that may be issued in these proceedings to be redacted.
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  summons dated 2 march 2023 in ca/sum 4/2023.
+
+
+
+ the appeal sought to reverse and set aside an order made below for leave to enforce the final award issued in an arbitration between the parties.2 sum 4 raised the question of the legal basis upon which the court may make orders to protect the privacy of arbitration enforcement proceedings in singapore. i dismissed sum 4 on 25 april 2023 and now provide the detailed grounds for my decision.facts the parties 3 the appellant is the republic of india (“india”). the respondent, deutsche telekom ag (“dt”), is a multinational company incorporated under the laws of the federal republic of germany.
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  judgment for originating summons no 8 of 2022 (“os 8 judgment”) at [1].
+
+
+
+ background to the dispute4 an indian state-owned entity, antrix corporation ltd (“antrix”), and a company of which dt was a shareholder, devas multimedia private limited (“devas”), were parties to an agreement which was subsequently terminated.
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  os 8 judgment at [3]–[4] and [29].
+
+
+
+ dt commenced arbitration proceedings seated in geneva, switzerland, against india, contending that india’s annulment of the agreement was in violation of a bilateral investment treaty between india and germany (the “arbitration”).
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  ina roth’s witness statement dated 17 march 2023 at para 10; os 8 judgment at [6]–[7].
+
+
+
+ following the tribunal’s issuance of an interim award in dt’s favour, india applied to the swiss federal supreme court to set aside the interim award but was unsuccessful.
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  os 8 judgment at [12]–[13].
+
+
+
+ the quantum stage of the arbitration was then heard and the final award in the arbitration was rendered thereafter.
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  ina roth’s witness statement dated 17 march 2023 at paras 11(a)–11(c); gd at [11] and [14].
+
+
+
+ dt then commenced hc/os 900/2021 in singapore (the “os 900 enforcement proceedings”) and obtained an ex parte order of court (namely, hc/orc 4992/2021) granting it leave to enforce the final award in singapore (the “orc 4992 leave order”) on 3 september 2021.
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  ina roth’s witness statement dated 17 march 2023 at para 13.
+
+
+
+5 it is relevant to note that dt had applied under hc/sum 4109/2021 (“sum 4109”) for the os 900 enforcement proceedings as well as other applications filed in relation to them to not be heard in open court, for information relating to the os 900 enforcement proceedings, sum 4109 and the parties’ identities to be concealed, for the court file to be sealed and for any published report of the judgment or grounds of decision to be redacted. the parties corresponded in relation to sum 4109 and eventually arrived at a consent order, hc/orc 1321/2022 (the “orc 1321 consent order”) dated 19 january 2022. the orc 1321 consent order required the proceedings to be heard otherwise than in open court, the court file to be sealed and any published judgment given in relation thereto to be redacted.
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  ina roth’s witness statement dated 17 march 2023 at paras 14 and 16.
+
+
+
+6 india subsequently applied on 11 january 2022 in hc/sum 155/2022 (“sum 155”) to set aside the orc 4992 leave order.
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  os 8 judgment at [5] and [15].
+
+
+
+ on 31 march 2022, the os 900 enforcement proceedings and other related proceedings were transferred to the singapore international commercial court (the “sicc”) by way of sic/os 8/2022 (“os 8”).
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  respondent’s written submissions (“rws”) at para 16.
+
+
+
+ the sicc eventually dismissed sum 155 (amongst other applications) on 30 january 2023.
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  os 8 judgment at [191].
+
+
+
+ india then brought this appeal against the dismissal of sum 155 with costs.7 it should be noted that dt had also commenced enforcement proceedings against india with respect to the final award in other jurisdictions such as the united states of america (“usa”) and germany.
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  ina roth’s witness statement dated 17 march 2023 at para 25.
+
+
+
+ additionally, antrix had commenced winding-up proceedings against devas in 2021 before india’s national company law tribunal (the “nclt”). the nclt ordered that devas be wound up, and this winding-up order was upheld on appeal by india’s national company law appellate tribunal (“the “nclat”) and also by the supreme court of india.
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  os 8 judgment at [39]–[40].
+
+
+
+ the present application8 the present application in sum 4 proceeded on two bases: ss 22 and 23 of the international arbitration act 1994 (2020 rev ed) (“iaa”) read with o 16 r 9(1) of the singapore international commercial court rules 2021 (“sicc rules 2021”), and/or the court’s inherent powers. specifically, india sought the following orders (the “sum 4 orders”):(a) that cas 1 and any application filed in cas 1, including this application, be heard in private;(b) that any information (including the identities of the parties) or document relating to cas 1 or any application filed in cas 1 not be revealed or published and be concealed;(c)  that the court file for cas 1 be sealed from inspection by any third parties;(d) that the identity of the parties not be identified in any hearing lists;(e) that, if any judgment or grounds of decision is given in cas 1, this application, or any other applications filed in cas 1, there be no publication, including in any law report or professional publication, of the identities of the parties or any other information that may reveal the identities of the parties; and(f) costs of and incidental to this application be in the cause of the appeal in cas 1.the parties’ cases  9 it is important to note that india’s case rested primarily on its contention that the sum 4 orders were necessary to protect the confidentiality of the arbitration.
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  applicant’s written submissions (“aws”) at para 9.
+
+
+
+ india submitted that the appeal would entail the disclosure of confidential information because the arbitration formed its essential factual background
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  aws at para 22.
+
+
+
+ and the appeal arose from the os 8 proceedings.
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  aws at para 24.
+
+
+
+ details of another related arbitration between devas and antrix were also raised in sum 155 and it was submitted that this too should be subject to the principle of confidentiality.
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  aws at paras 25–27.
+
+
+
+ while india accepted that some information relating to the arbitration had been published online, india maintained that the confidentiality of the arbitration had not been entirely lost, and that there was information pertaining to os 8 and the appeal which was not yet in the public domain.
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+  aws at paras 30–42; 45, 47, 49–50, 52, 53–56, 57.
+
+
+
+10 india also contended that it would be in the interests of justice for this court to grant the orders sought. there was a real risk that india would suffer prejudice if the sum 4 orders sought were not granted because information relating to the arbitration had already been misused by third parties (such as an entity known as “devasfacts”) to portray india negatively.
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+  aws at paras 63–65.
+
+
+
+11 on the other hand, dt argued that the orders sought in sum 4 would serve no real purpose because the information pertaining to the arbitration and the related proceedings was already in the public domain.
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+  rws at para 38. 
+
+
+
+ dt submitted that it was not relevant or material that the orc 1321 consent order had been granted previously because the extent of information about the arbitration and the related proceedings presently available in the public domain was significantly more than was the case when dt had taken out sum 4109, and also because dt’s previous concern over alerting creditors with competing claims to india’s assets was no longer a live concern.
+
+                   21
+
+
+
+
+foot note 21
+
+×
+
+
+
+  rws at paras 45–47.
+
+
+
+12 dt also submitted that india’s reliance on the court’s inherent powers to grant sealing orders did not assist its case because it was not in the interests of justice to invoke these powers.
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+  rws at para 48.
+
+
+
+ the principle of open justice should be the predominant consideration in the present circumstances, this being an investment-treaty arbitration which would touch on matters of public interest.
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+  rws at paras 48–50.
+
+
+
+ 13 in any case, dt also contended that there was no basis for this court to exercise its inherent powers given the lack of a nexus between the os 900 enforcement proceedings and the alleged misuse of information that was said to have taken place as part of a public relations campaign run by anonymous entities to harm india’s reputation.
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+  rws at paras 55–56.
+
+
+
+ rather, india’s purported concerns in this regard lacked bona fides given that india had been content to publicise decisions and information relating to the arbitration when this was in its own interests.
+
+                   25
+
+
+
+
+foot note 25
+
+×
+
+
+
+  rws at para 58.
+
+
+
+the law on protecting the confidentiality of arbitrations and related proceedings14 i begin with the observation that the court may grant a sealing order pursuant to its inherent powers to regulate its own processes and make appropriate orders to achieve the ends of justice (re tay quan li leon [2022] 5 slr 896 (“leon tay”) at [22]–[23]; bbw v bbx and others [2016] 5 slr 755 at [25]–[30], referring to the inherent powers of court reflected in o 92 r 4 of the rules of court (cap 322, 2014 rev ed)). however, the general rule is that the making of such privacy orders is a departure from the hallowed principle of open justice and should therefore be the exception rather than the norm. this is so because open justice is fundamental to ensuring public confidence in and the integrity of the judicial system (leon tay at [17]).15 that being said, the general rule may be departed from in certain circumstances – for instance, in cases involving an abuse of process or the need to prevent a miscarriage of justice or when a statute provides otherwise. the last of this was relevant here because the appeal pertained to arbitration-related proceedings, and the court’s power to grant privacy orders has been statutorily provided for in ss 22 and 23 of the iaa, which read as follows:proceedings to be heard in private22.—(1)  subject to subsection (2), proceedings under this act in any court are to be heard in private.(2)  proceedings under this act in any court are to be heard in open court if the court, on its own motion or upon the application of any person (including a person who is not a party to the proceedings), so orders.restrictions on reporting of proceedings heard in private23.—(1)  this section applies to proceedings under this act in any court heard in private.(2)  a court hearing any proceedings to which this section applies is, on the application of any party to the proceedings, to give directions as to whether any and, if so, what information relating to the proceedings may be published.(3)  a court is not to give a direction under subsection (2) permitting information to be published unless —(a) all parties to the proceedings agree that the information may be published; or(b) the court is satisfied that the information, if published in accordance with such directions as it may give, would not reveal any matter, including the identity of any party to the proceedings, that any party to the proceedings reasonably wishes to remain confidential.(4)  despite subsection (3), where a court gives grounds of decision for a judgment in respect of proceedings to which this section applies and considers that judgment to be of major legal interest, the court is to direct that reports of the judgment may be published in law reports and professional publications but, if any party to the proceedings reasonably wishes to conceal any matter, including the fact that the party was such a party, the court is to —(a) give directions as to the action that is to be taken to conceal that matter in those reports; and(b) if it considers that a report published in accordance with directions given under paragraph (a) would be likely to reveal that matter, direct that no report may be published until after the end of any period, not exceeding 10 years, that it considers appropriate.16 the effect of s 22(1) of the iaa is that proceedings under the iaa are to be heard in private by default. therefore, court proceedings relating to arbitration matters under the iaa are presumptively private as a starting point. moreover, this is so without the need for any application by a party, though the court may nonetheless, on its own motion, or on the application of a party, order that the hearing take place in open court (see s 22(2) of the iaa). where proceedings are to be heard in private, the court may issue further directions pursuant to s 23 of the iaa to permit the disclosure of information in a way that would protect each party’s reasonable interest in confidentiality. for completeness, o 16 r 9(1)(a) and o 16 r 9(1)(b) of the sicc rules 2021 also afford the court similar powers to make orders for a private hearing and for restrictions on publication. these effectively mirror ss 22 and 23 of the iaa respectively, though the court’s powers under the sicc rules 2021 are not limited to the context of arbitration-related proceedings. 17 however, beyond setting out the position on the terms i have just outlined, ss 22 and 23 of the iaa shed limited light on the nature of the interest in confidentiality that is protected. i therefore approached the determination of that interest by considering the purpose that underlies these provisions, having regard to their legislative history. 18 the iaa was largely based on the uncitral model law on international commercial arbitration (the “model law”). the drafters of the model law had been averse to proposals to provide for the confidentiality of arbitral awards, and so chose to leave the position open (uncitral, report of the secretary-general: possible features of a model law on international commercial arbitration, un doc a/cn.9/207 (14 may 1981) at para 101).19 when the iaa was first enacted on 27 january 1995, it did not include provisions in the form of the present ss 22 and 23. while parliament did make provision for the confidentiality of court proceedings arising from arbitrations in s 22, that position was essentially the reverse of the present position. in short, the default position under s 22 (as it was first enacted) was that such proceedings would be open, but these could be heard in private on application to the court. section 22 at the time provided as follows: proceedings to be heard otherwise than in open court22.  proceedings under this act in any court shall, on the application of any party to the proceedings, be heard otherwise than in open court.20 this remained the position for almost the next three decades until the present iteration of s 22 of the iaa came into effect on 1 april 2022 by virtue of the courts (civil and criminal justice) reform bill (bill no 18/2021). the overall effect of the amendment was to bring the legislation in line with what had become the prevailing practice by providing that court proceedings relating to arbitration will be private unless the court orders otherwise. significantly, the minister’s second reading speech clarified that parliament’s underlying intention was and had been to protect the confidentiality of the arbitral proceedings (see singapore parliamentary debates, official report (13 september 2021) vol 95 (edwin tong chun fai, second minister for law)) (“the minister’s speech”):we have considered feedback from various stakeholders, practitioners, that as a matter of practice, it will be common for parties involved in proceedings, involving arbitration, such as in those two acts, to make applications, for the matter to be heard in private. given that these applications relate to arbitrations, such applications are often allowed by the court.hence, to better reflect the prevailing practice and streamline the process for parties, clauses 8 and 30 of the bill will amend the arbitration act and the international arbitration act respectively, to provide that proceedings under these acts are to be heard in private by default, unless the court orders that the proceedings be heard in open court.this is in line with the overall confidential nature of such arbitral proceedings and will result in cost and time savings for parties who now do not have to apply for such proceedings to be heard in private.[emphasis added]21 it follows that the confidentiality interest that was meant to be secured by the present, and in my view, even the original, iteration of s 22 of the iaa is ultimately linked to protecting the confidentiality of the arbitral proceedings by ensuring that the related court proceedings are heard in private. in my judgment, this suggestion that is contained in the minister’s speech that i have extracted above also accords with a common-sense view of the matter. there is no independent interest in the confidentiality of court proceedings. on the contrary, such proceedings are almost always open. and so, when the court gets involved at the stage of enforcement or setting-aside proceedings, the reason why the statute provides for confidentiality is that this is rooted in the conventionally private nature of arbitration proceedings. but for this fact, there would typically be no question of the concomitant enforcement proceedings being conducted in private.22 in line with this, ss 23(3) and (4) provide that if the cloak of privacy is retained, the court may nonetheless publish certain information as long as steps are taken to protect the confidentiality of information that a party “reasonably wishes to remain confidential” or that a party “reasonably wishes to conceal”. it is clear from this that the interest is directed at preserving confidentiality.23 in sum, in my judgment, the purpose of ss 22 and 23 of the iaa is to protect the confidentiality of the arbitration itself and the interest in keeping any enforcement proceedings confidential under the iaa is essentially a derivative interest designed ultimately to protect the confidentiality of the underlying arbitration. this is borne out by the minister’s statement in parliament when the bill introducing these provisions was read, and also by the text of ss 22 and 23 read together in context. 24 this is also consistent with the fact, as i have noted above (at [14]), that imposing a cloak of privacy on court proceedings is an exceptional measure that departs from the general rule that such proceedings are subject to the principle of open justice. in the present context, the departure from that principle is provided for by statute, but given that this was rooted in the need to protect the confidentiality of the arbitration proceedings, where the confidentiality of the arbitration has been lost, then the principle of open justice would weigh strongly in favour of lifting the cloak of privacy that has been provided for by the statute. 25 significantly, india did not appear to contend otherwise. as i have noted above at [9], india’s primary contention was that the confidentiality of the arbitral proceedings had not been entirely lost.my decision26 as i have noted (at [8]), india relied on two bases: (a) ss 22 and 23 of the iaa read with o 16 r 9(1) of the sicc rules 2021, and/or (b) the inherent powers of the court. on either footing, the threshold question was whether the confidentiality of the arbitral proceedings had been lost.27 in my judgment, this was clearly a case where the confidentiality of the arbitration had been lost, as a consequence of which there was no basis for maintaining the confidentiality of the enforcement proceedings in singapore under ss 22 and 23 of the iaa. in these circumstances, i was satisfied that there was insufficient basis to override the strong interest in open justice in curial proceedings. i elaborate on these points below.the confidentiality of the arbitration had been lost28 the court should not be made to go through an empty exercise to protect confidentiality when there is nothing left to protect. as was noted in dorsey james michael v world sport group pte ltd [2014] 2 slr 208 (“dorsey james") at [63], citing attorney-general v observer ltd [1990] 1 ac 109 at 282c (albeit with respect to the law of confidentiality): the first limiting principle (which is rather an expression of the scope of the duty) is … that the principle of confidentiality only applies to information to the extent that it is confidential. in particular, once it has entered what is usually called the public domain (which means no more than that the information in question is so generally accessible that, in all the circumstances, it cannot be regarded as confidential) then, as a general rule, the principle of confidentiality can have no application to it. [emphasis in original]29 if the information in question is known to the public at large, it would be idle (in the sense of being both unrealistic and pointless) to seek to deal with it as though it was confidential (dorsey james at [64], citing r g toulson and c m phipps, confidentiality (sweet & maxwell, 3rd ed, 2012) at para 3-112). indeed, as i have already observed (see above at [22]), s 23(3)(b) of the iaa speaks of protecting information that a party wishes to “remain” confidential which would suggest that the court is not required to protect information that is already in the public sphere. 30 as pointed out by dt, there had already been multiple disclosures of considerable information relating to the arbitration, the identity of the parties and enforcement proceedings in singapore and abroad.
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+  rws at para 38; ina roth’s witness statement dated 17 march 2023 at paras 21–33.
+
+
+
+ 31 first and most significantly, the interim and final awards issued in the arbitration were available online on third-party sites.
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+  ina roth’s witness statement dated 17 march 2023 at para 38.
+
+
+
+ likewise, the award issued in a related arbitration between devas and antrix – which india had submitted should also be subject to the principle of confidentiality (see above at [9]) – was available online.
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+  ina roth’s witness statement dated 17 march 2023 at para 12.
+
+
+
+32 second, the swiss federal supreme court’s decision refusing india’s application to set aside the interim award was publicly available. while the names of dt, devas and antrix were redacted, india’s identity was revealed in the decision.
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+  ina roth’s witness statement dated 17 march 2023 at ir-3 at pp 288–328.
+
+
+
+ 33 third, an article had been published in the global arbitration review (the “gar article”) on 15 march 2022 expressly identifying india and dt as parties to the enforcement proceedings in singapore.
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+  ina roth’s witness statement dated 17 march 2023 at para 21 and ir-8 at pp 532–536.
+
+
+
+ india submitted that the gar article was published without substantiation from formal court documents.
+
+                   31
+
+
+
+
+foot note 31
+
+×
+
+
+
+  aws at para 47.
+
+
+
+ but this ignores the fact that india’s lawyers had proceeded to effectively confirm the identities of the parties to which the gar article referred to – which then brings me to the next disclosure of information.34 fourth, india’s own lawyers in singapore had published a linkedin post on 16 march 2022 naming india as a party to the singapore enforcement proceedings, stating the size of the final award and providing a web link to the gar article. this was subsequently taken down only after dt’s lawyers wrote to india’s lawyers in singapore on the matter.
+
+                   32
+
+
+
+
+foot note 32
+
+×
+
+
+
+  ina roth’s witness statement dated 17 march 2023 at paras 18–22, ir-9 at pp 538–541.
+
+
+
+ it nonetheless constituted the dissemination of information relating to the singapore enforcement proceedings on a widely accessible platform. 35 fifth, information pertaining to dt’s enforcement proceedings against india in other jurisdictions had also entered the public domain. for instance, pleadings, submissions and declarations filed in the enforcement proceedings in the usa were publicly available.
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+  ina roth’s witness statement dated 17 march 2023 at para 26.
+
+
+
+ moreover, the decision of the higher regional court of berlin allowing dt’s request for partial enforcement of the final award was publicly accessible (albeit in german) and received coverage in a publicly available article.
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+  ina roth’s witness statement dated 17 march 2023 at para 25(c) and ir-12 at pp 573–577.
+
+
+
+ 36 india did not dispute that these disclosures had occurred. rather, with respect to the available documents in the usa proceedings, india focused only on documents from the enforcement proceedings in singapore, which it claimed had been filed in the usa proceedings in breach of the orc 1321 consent order.
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+  aws at para 49.
+
+
+
+ as for the enforcement proceedings in germany, india only took issue with the brevity of the news reports and the fact that dt had not placed an english-language translation of the relevant german judgment before this court.
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+  aws at paras 55–56.
+
+
+
+ these arguments did not negate the fundamental fact that in these two sets of enforcement proceedings, disclosures of information relating to the arbitration had indeed occurred. 37 finally, the decisions of the nclt, the nclat and the indian supreme court on antrix’s application to wind up devas in india were publicly available, and it was undisputed that these decisions had disclosed the identities of india and dt as well as the outcome of the arbitration.
+
+                   37
+
+
+
+
+foot note 37
+
+×
+
+
+
+  ina roth’s witness statement dated 17 march 2023 at paras 30–31; aws at para 45.
+
+
+
+38 in light of these disclosures of information, the confidentiality of the arbitration had substantially been lost. there was hence no compelling interest in keeping the enforcement proceedings in singapore confidential.39 dt also submitted that india had made some information regarding the arbitration available in the past and that this would suggest that india’s concerns as to confidentiality lacked bona fides.
+
+                   38
+
+
+
+
+foot note 38
+
+×
+
+
+
+  rws at para 58; ina roth’s witness statement dated 17 march 2023 at para 52.
+
+
+
+ i did not think it necessary to make a finding on this because the making of an order lifting privacy is not typically justified as a means of penalising a party and this allegation, even if true, did not seem to me to be material.40 reference was also made to dt having previously applied for confidentiality measures which culminated in the orc 1321 consent order being made in respect of the os 900 enforcement proceedings. as to this, dt suggested that the situation as regards the present application was quite different from the circumstances under which the orc 1321 consent order was made, in terms of both the confidentiality of the underlying arbitration and the degree to which this had been overtaken by the public disclosures, and also that dt’s interest in keeping information of its enforcement attempts away from other creditors was no longer relevant.
+
+                   39
+
+
+
+
+foot note 39
+
+×
+
+
+
+  rws at para 47; ina roth’s witness statement dated 17 march 2023 at paras 6 and 15.
+
+
+
+ i did not need to reach the question of whether dt’s interest in keeping its enforcement action concealed from other creditors was relevant or sufficient, because i was satisfied that any interest in securing the confidentiality of the singapore enforcement proceedings was no longer compelling and had been substantially lost once the confidentiality of the underlying arbitration had been lost. 41 dt also contended that india’s actions and certain indian court decisions pertaining to the winding up of devas had cast aspersions on dt and it was only fair that any information from the proceedings in singapore be made publicly available.
+
+                   40
+
+
+
+
+foot note 40
+
+×
+
+
+
+  ina roth’s witness statement dated 17 march 2023 at para 53.
+
+
+
+ however, i did not think it was for the court to manage its processes in order to promote public debate. the decisions of this court are governed by the proper ambit of the statutory rules that apply to the court and applying those rules, the point simply was that there was no longer a basis to maintain india’s presumptive statutory entitlement to a private hearing under the iaa.42 therefore, the confidentiality of the enforcement proceedings in singapore did not merit continued protection under ss 22 and 23 of the iaa. for completeness, i turn briefly to consider the court’s inherent powers.there was no basis for the court to exercise its inherent powers to grant the sum 4 orders43 in my judgment, recourse to the inherent powers was unhelpful in the present context. it should be noted that india’s position was supported by the presumptive position of privacy provided for in the statute. india would only need to invoke the inherent powers as an alternative to the statutory position, and that would only be the case where the court had concluded that the presumptive statutory position had been displaced for good reason. in such circumstances, there would be no basis for invoking the court’s inherent powers unless this was done to protect some other interest that was independent of that protected by the statutory provision. that was not the case here because india’s position was advanced on essentially the same grounds, namely that the arbitration was confidential. having held that that was no longer the case here when considering the position under ss 22 and 23 of the iaa, an argument for the exercise of inherent power founded on the same grounds struck me as hopeless. it should be noted that the inherent powers of the court must be exercised judiciously based on the touchstone of necessity (siva kumar s/o avadiar v quek leng chuang and others [2021] 1 slr 451 at [57], citing wee soon kim anthony v law society of singapore [2001] 2 slr(r) 821 at [27]). the position could be otherwise if there was some other independent basis which warranted invoking the inherent powers of the court, but that was not the case here.44 india also submitted that the disclosure of information in the appeal would provide more ammunition for the efforts of third parties to tarnish india’s reputation
+
+                   41
+
+
+
+
+foot note 41
+
+×
+
+
+
+  aws at paras 63–65.
+
+
+
+ and this justified invoking the court’s inherent powers. in support of its claim, india had exhibited twitter posts, website headlines, and statements
+
+                   42
+
+
+
+
+foot note 42
+
+×
+
+
+
+  aditya singh’s witness statement dated 1 march 2023 as-5 at pp 25–27 and as-6 at pp 29-34.
+
+
+
+ from third parties such as “devasfacts” which appeared to express the opinion that india’s conduct with respect to the various arbitrations was repressive and wrongful. 45 i disagreed with india’s submission. an intrinsic feature of open justice is that the conduct of all parties is open to be scrutinised by those who may be interested. the private interest of a party not to be seen in an adverse light does not warrant a grant of privacy orders in a departure from the principle of open justice.46 in any event, i did not see how further information which would be disclosed in the appeal would assist these third parties in their alleged attempts to tarnish india’s reputation. to the contrary, in so far as there was public attention and controversy surrounding dt’s enforcement efforts, it would likely be in india’s interest to open the proceedings in the appeal so that the public could be apprised of its side of the story. 47 hence, i was satisfied that it was not in the interests of justice for the court to exercise its inherent powers to protect the confidentiality of the appeal or the present proceedings. conclusion48 in the circumstances, i dismissed sum 4 and ordered that the question of costs for sum 4 be reserved until after the hearing of the appeal. i also ordered that the security for costs that was provided by india would remain in place until further order of the court of appeal.sundaresh menonchief justicecavinder bull sc, lin shumin, ng shi min nicole and kenneth teo (drew and napier llc) for the applicant;koh swee yen sc, joel quek, axl rizqy and victoria liu (wongpartnership llp) for the respondent.

@@ -1,0 +1,731 @@
+in the court of appeal of the republic of singapore[2020] sgca 33civil appeal no 174 of 2018betweenanan group (singapore) pte ltd… appellantandvtb bank (public joint stock company)… respondentin the matter of companies winding up no 183 of 2018betweenvtb bank (public joint stock company)… plaintiffandanan group (singapore) pte ltd… defendantjudgment[companies] — [winding up] — [disputed debt] — [arbitration agreement] — [standard of review] — [prima facie]this judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.anan group (singapore) pte ltd vvtb bank (public joint stock company)[2020] sgca 33court of appeal — civil appeal no 174 of 2018sundaresh menon cj, andrew phang boon leong ja, judith prakash ja, steven chong ja and quentin loh j26 november 2019; 31 march 20207 april 2020 judgment reserved.steven chong ja (delivering the judgment of the court):introduction1 the jurisprudence governing stay applications in relation to disputes which are subject to arbitration is well settled in singapore. so long as the parties to the dispute are parties to an arbitration agreement and there is a dispute which falls within the ambit of that agreement, the court would ordinarily stay the court proceedings in favour of arbitration. the court would not embark on any examination of the merits since that would be the role and task of the arbitral tribunal. such has been termed the prima facie standard of review.2 should the position be any different if the same claimant unilaterally elects to proceed against the same alleged debtor in respect of the same claim by way of a winding-up application instead of an action in court? two high court judges separately decided that the position should be no different while the high court judge below (“the judge”), believing that he was bound by a previous decision of this court, adopted a different standard of review, ie, the triable issue standard which typically applies to claims which are not subject to arbitration.3 the two contrasting standards of review, ie, the prima facie standard and the triable issue standard, were developed to address different policies and when applied independently of each other, they do not give rise to difficulties. this appeal ultimately concerns the applicable standard of review when the seemingly conflicting policies underpinning the arbitration and insolvency regimes intersect and interact with each other. as a winding-up application directly impacts on the commercial viability and survival of an alleged debtor company with its attendant adverse consequences upon the mere presentation of the application, this appeal provides an opportunity for this court to pronounce on the applicable standard of review in respect of a claim which is subject to arbitration albeit in the context of an insolvency setting.factsthe relationship between the parties 4 the appellant is anan group (singapore) pte ltd (“anan”), a singapore holding company. the respondent is vtb bank (public joint stock company) (“vtb”), a state-owned russian bank. on 3 november 2017, anan and vtb entered into a global master repurchase agreement (“gmra”) under which anan would sell vtb global depository receipts (“gdrs”) of shares in en+ group plc (“en+”) and then repurchase the gdrs from vtb at a later date at pre-agreed rates. the pre-agreed rates that anan would pay vtb at the date of repurchase amounted in essence to the original purchase price paid by vtb plus interest and other costs. despite the structure of the transaction as a sale and repurchase, this was in substance a loan from vtb to anan.
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  record of appeal (“roa”) vol iii part a p 40, cl 1(e).
+
+
+
+ obligations under the gmra5 according to the gmra, anan was under an obligation to maintain sufficient collateral, with the level of collateral being measured by an indicator known as the repo ratio which was essentially calculated based on the purchase price of the gdrs plus accrued interest, divided by the prevailing value of the gdrs. as the value of the gdrs dropped, the repo ratio would rise accordingly. under cl 2(a)(i) of annex 1 to the gmra, anan was obliged to maintain the repo ratio at below 60%.
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  roa vol iii part a pp 41 and 62.
+
+
+
+ should the repo ratio exceed 60%, vtb would be entitled under the gmra to issue a margin trigger event notice, requiring anan to provide sufficient cash to reduce the repo ratio to the initial repo ratio of 50%. if anan failed to do so, an event of default would be deemed to have occurred under cl 10(b)(xiii) of annex 1 to the gmra.
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  roa vol iii part a p 49.
+
+
+
+ separately, the gmra required anan to maintain the repo ratio below the liquidation repo ratio of 75%. if the repo ratio equalled or exceeded the liquidation repo ratio, a liquidation event would be deemed to have occurred, and this would constitute another event of default under cl 10(b)(xxiii) of annex 1 to the gmra.
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  roa vol iii part a p 50.
+
+
+
+ 6 upon the occurrence of an event of default, the non-defaulting party was entitled to provide a notice to the defaulting party specifying the relevant event of default, and to designate the early termination date. the repurchase date of the gdrs would then be brought forward to the early termination date,
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  cll 10(b), (c) gmra, roa vol iii part a p 27.
+
+
+
+ and the non-defaulting party would undertake an exercise to calculate the amounts owed by each party. where vtb was the non-defaulting party, and since it held the gdrs from the date of purchase, it would first have to determine the default market value of the gdrs held and to ask anan for a top up if the value of the gdrs fell short of the repurchase price. clause 10(f) of the gmra provided for three possible “routes” by which this default market value could be assessed by vtb:
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  roa vol iii part a p 29.
+
+
+
+ (a) first, under cl 10(f)(i), vtb could sell the gdrs on or about the early termination date and treat the sale price as the default market value of the gdrs;(b) secondly, under cl 10(f)(ii), vtb could obtain bid quotations from two or more market makers or regular dealers in the appropriate market in a commercially reasonable size, using customary pricing methodology, and treat the price quoted (or the arithmetic mean of multiple quotes) with commercially reasonable adjustments, as the default market value;(c) thirdly, under cl 10(f)(iii), if vtb had endeavoured but was unable to sell the gdrs or obtain quotations for the gdrs, or had determined that it would not be commercially reasonable to sell the gdrs at the prices bidded or to obtain quotations or to use any of the quotations obtained, it could treat the “net value” of the gdrs as the default market value.where this third route under cl 10(f)(iii) was adopted, cl 10(e)(iii) of the gmra further provided that the “net value” refers to “the amount which, in the reasonable opinion of the non-defaulting party, represents their fair market value, having regard to such pricing sources (including trading prices) and methods (which may include, without limitation, available prices for securities with similar maturities, terms and credit characteristics as [the gdrs] as the non-defaulting party considers appropriate…)”.
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  roa vol iii part a p 28.
+
+
+
+ 7 clause 15(a) of annex 1 to the gmra provided that the gmra is governed by english law while cl 15(b) contains the following arbitration clause:
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  roa vol iii part a p 52.
+
+
+
+any dispute arising out of or in connection with this agreement, including any question regarding its subject matter, existence, negotiation, validity, termination or enforceability (including any non-contractual dispute or claim) (a “dispute”), shall be referred to arbitration and finally settled on the following terms:(i) the arbitration shall be conducted in accordance with the arbitration rules of the singapore international arbitration centre (“siac rules”) which rules are deemed incorporated into this clause; […]the sale of gdrs and subsequent claim for debt 8 on 7 november 2017, pursuant to the gmra, anan sold 35,715,295 en+ gdrs for approximately us$249,999,990 to vtb. at the time of the sale, the price of en+ shares was approximately us$13 per share.9 a few months later, on 6 april 2018, sanctions were imposed on major shareholders of en+ by the united states treasury’s office of foreign assets control (“the ofac sanctions”), causing en+ shares to plummet to about us$5.60 per share.
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  roa vol iii part a p 6 para 17 to p 7 para 21 and p 92; roa vol iii part c p 77, para 14.
+
+
+
+ on the same day that the ofac sanctions were imposed (ie, 6 april 2018), vtb issued a margin trigger event notice, informing anan that the repo ratio was at approximately 74.57%, thus exceeding the margin trigger repo ratio of 60%. in this notice, vtb asked anan to top up a cash margin of approximately us$85m by 10 april 2018, so as to bring the repo ratio to 50% or below.
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  roa vol iii part a pp 77 and 237.
+
+
+
+ anan failed to restore its collateral by transferring the cash margin within the stipulated timeframe.10 on 12 april 2018, vtb sent a default notice to anan, designating 16 april 2018 as the early termination date of the gmra. according to this notice, two events of default had occurred – first, the repo ratio had exceeded the liquidation repo ratio of 75%, thus constituting a liquidation event; second, the repo ratio had exceeded the margin trigger repo ratio of 60% and anan had failed to top up a cash margin of approximately us$85m by 10 april 2018 as stipulated in the margin trigger event notice, and this constituted a further event of default under the gmra.
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  roa vol iii part a p 79, pp 239–240.
+
+
+
+11 on 24 april 2018, vtb sent a calculation notice to anan, stating that a sum of approximately us$170m was owed by anan.
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  roa vol iii part a p 81–84.
+
+
+
+ according to the calculation notice, this figure was arrived at by subtracting the net value of the gdrs from the purchase price and interest and costs.
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  roa vol iii part a p 84.
+
+
+
+ as stated at [6] above, the designation of a net value of the gdrs as its default market value was one of three routes available to vtb under cl 10(f) of the gmra. in this case, vtb stated that it had not sold the gdrs under cl 10(f)(i) of the gmra, and that it had sought firm bids under cl 10(f)(ii) of the gmra but “none of the brokers and/or dealers provided [vtb] with a firm quote”.
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  roa vol iii part a p 84 para 3.
+
+
+
+ thus, vtb elected to use the net value to determine the default market value of the gdrs pursuant to cl 10(f)(iii) of the gmra, and arrived at a net value of us$2.50 per gdr, which it purported to be an arithmetic average of all the indicative quotes that it had received from market makers and dealers. 12 on 23 july 2018, vtb served a statutory demand for the sum of approximately us$170m (“the claimed sum”), which sum anan failed to repay within the three-week period.
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  roa vol iii part a p 74.
+
+
+
+procedural historythe proceedings below and the findings of the judge13 on 17 august 2018, vtb applied to wind up anan on the basis of the statutory demand (“the winding-up application”).
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  roa vol ii, p 13.
+
+
+
+ anan resisted the winding-up application, disputing the debt that was claimed by vtb. in the main, anan argued that the ofac sanctions constituted an event of frustration or, alternatively, a force majeure event.
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  gd at [22].
+
+
+
+ anan also argued that the claimed sum of about us$170m was overstated, and that the amount allegedly owing to vtb was “much lower”.
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+  roa vol iii part c, p 187, para 12 and pp 188 to 189, paras 15–16.
+
+
+
+ 14 before considering the disputed debt, the main point of contention that arose before the judge was the applicable standard of review – whereas a debtor seeking to resist a winding-up application would ordinarily be required to raise triable issues relating to the disputed debt, anan argued that because the gmra contained an arbitration agreement, the applicable standard was to demonstrate a prima facie dispute which fell within the scope of that arbitration agreement.
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+  gd at [29].
+
+
+
+15 considering apparently conflicting case authorities in this area of the law, the judge concluded that, notwithstanding the existence of the arbitration agreement in the gmra, anan was required to establish triable issues in relation to the debt: vtb bank (public joint stock company) v anan group (singapore) pte ltd [2018] sghc 250 (the “gd”) at [58]. in coming to his decision, the judge was primarily persuaded by this court’s decision in metalform asia pte ltd v holland leedon pte ltd [2007] 2 slr(r) 268 (“metalform”). in metalform, even though there was a cross-claim which went to the crux of the winding-up application and which was indubitably governed by an arbitration agreement, this court applied the triable issue standard of review. according to the judge, since the standard of review for cross-claims and disputed debts “necessarily mirror each other” (pacific recreation pte ltd v s y technology inc and another appeal [2008] 2 slr(r) 491 (“pacific recreation”) at [25]), he considered himself bound by the decision in metalform to hold that the standard of review that anan had to meet in a disputed debt case was the triable issue standard (gd at [60]–[61]). 16 nonetheless, the judge stated that had he not considered himself bound by this court’s decision in metalform, he would have been amenable to apply the standard adopted by aedit abdullah jc (as he then was) in bdg v bdh [2016] 5 slr 977 (“bdg”). in bdg, abdullah jc considered that where a company is seeking to stave off a winding-up application on the basis of a disputed debt that is subject to an arbitration clause, the appropriate standard ought not to be the triable issue standard. instead, the debtor-company would only need to establish a prima facie case that the dispute falls within the scope of the arbitration agreement, and that the debt is bona fide (or genuinely) disputed (bdg at [22]–[23]) (“the bdg approach”). according to the judge, the bdg approach was attractive as the triable issue standard requires the court to investigate whether the debt is bona fide disputed on substantial grounds. this invariably necessitates a consideration of the merits of the disputed debt, thereby allowing parties to circumvent their arbitration agreement by presenting a winding-up application. adopting the lower standard of review when the debt is subject to an arbitration clause would align with the judicial policy of facilitating and promoting arbitration.
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+  gd at [62], [63], [64] and [72].
+
+
+
+17 however, regardless of the applicable standard of review, the judge concluded that anan’s dispute of the debt was not bona fide.
+21
+
+
+
+
+foot note 21
+
+×
+
+
+
+  gd at [73].
+
+
+
+ this, in his view, was evident from the shifting nature of its case (re whether the ofac sanction was an event of frustration or a force majeure), as well as the lack of any genuine attempt by anan to quantify the alleged reduced debt amount. the judge pointed out that anan did not dispute its liability from april to august 2018, despite vtb sending notices to anan during this period on its calculations of the amounts payable. the judge also opined that anan’s argument that the gmra had been frustrated by the ofac sanctions was not a genuine argument, as it was entirely unclear as to how the ofac sanctions and the falling share price of en+ shares made it impossible for anan to maintain the required level of collateral in the transaction.
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+  gd at [77].
+
+
+
+ similarly, anan’s arguments on force majeure were not only belated but also completely unsustainable as the gmra did not even contain a force majeure clause.
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+  gd at [78].
+
+
+
+ whereas anan sought to argue that vtb’s computation of the debt was erroneous, anan failed to properly substantiate its position as to what the correct computation method should be, and failed to firmly state its case on the quantum of debt owed to vtb.
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+  gd at [79].
+
+
+
+ according to the judge, anan deliberately omitted to particularise its case on the quantum of the debt as it knew that there would in any case be a substantial debt which would provide a sufficient basis for the court to grant a winding-up order, since the massive sums involved clearly exceeded the statutory minimum of $10,000 for the issuance of a statutory demand.
+
+                   25
+
+
+
+
+foot note 25
+
+×
+
+
+
+  gd at [81].
+
+
+
+ 18 the judge therefore ordered the winding up of anan. the present appeal is anan’s appeal against the judge’s decision.application to adduce fresh evidence19 pending the hearing of the substantive appeal, anan made an application for leave to adduce fresh evidence in the form of a valuation report prepared by deloitte & touche financial advisory services pte ltd (“the deloitte report”).
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+  affidavit of andrew ooi lih de (22 march 2019) (“deloitte report”).
+
+
+
+ the deloitte report opines that the gdrs ought to have been valued at between us$8.01 and us$8.68 per gdr at the early termination date of 16 april 2018.
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+  deloitte report p 17.
+
+
+
+ it further comments on the methodology adopted by vtb in arriving at its valuation of us$2.50.
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+  deloitte report pp 19–21.
+
+
+
+ if the valuation in the deloitte report were adopted, the gdrs would collectively have been worth between approximately us$286m to us$310m as at 16 april 2018, and there would have been no debt due from anan to vtb at the material time.
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+  deloitte report p 21.
+
+
+
+ 20 the application to adduce the deloitte report was heard and granted by this court on 24 may 2019, and the grounds of decision were issued in anan group (singapore) pte ltd v vtb bank (public joint stock co) [2019] 2 slr 341. vtb was also granted leave to file an affidavit in reply to the deloitte report, and it did so on 19 july 2019 in the form of a report prepared by mr franck risler of fti consulting llc. in mr franck risler’s report, it is opined that vtb’s valuation of us$2.50 per gdr was consistent with the range of market prices for gdrs during the solicitation period, after adjusting for the illiquidity discount.
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+  affidavit of franck risler (19 july 2019), p 19, para 2.5.
+
+
+
+the issues before the court21 anan’s case on the substantive appeal proceeds primarily on two bases: first, that the appropriate standard of review where the dispute is governed by an arbitration agreement is the prima facie standard of review; second, that this threshold has been crossed in the instant case. anan relies on the deloitte report to argue that there have been two breaches of the gmra on vtb’s part which would disentitle it to be paid the claimed sum – first, that vtb failed to obtain bids from the appropriate market contrary to cl 10(f)(ii) of the gmra; second, that the sheer disparity between the net value of the gdrs of us$2.50 utilised by vtb and the valuation arrived at in the deloitte report shows that the valuation of us$2.50 could not have been arrived at reasonably in compliance with cl 10(f)(iii) of the gmra.
+
+                   31
+
+
+
+
+foot note 31
+
+×
+
+
+
+  appellant’s case at paras 74–75. 
+
+
+
+ anan argues in the alternative that even if the appropriate standard of review were the triable issue standard, the issues identified in the deloitte report would suffice to cross this threshold.
+
+                   32
+
+
+
+
+foot note 32
+
+×
+
+
+
+  appellant’s case at para 77.
+
+
+
+22 anan is no longer pursuing the frustration and force majeure arguments on appeal.
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+  appellant’s case at para 15.
+
+
+
+ 23 in contrast, and as in the hearing below, vtb takes the position that the appropriate standard of review where a dispute is governed by an arbitration agreement remains the triable issue standard, but its primary argument is that no bona fide dispute has been raised by anan regardless of the applicable standard of review. vtb essentially agrees with the judge’s findings that anan’s disputes were raised belatedly and not in good faith, and argues further that the deloitte report is of limited relevance because the valuation exercise undertaken by deloitte “does not address what is permitted to be done by vtb and/or required from vtb under the gmra”.
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+  respondent’s supplementary case at para 3. 
+
+
+
+24 the issues that arise for our consideration are:(a) what is the standard of review when a dispute that is subject to an arbitration agreement arises in relation to a debt which forms the basis of a winding-up application; and(b) whether the applicable standard of review is satisfied in this case.the applicable standard of review25 it is well established that a “debtor-company need only raise triable issues in order to obtain a stay or dismissal of the winding-up application”. to raise such triable issues, the company can show that there exists a substantial and bona fide dispute, whether in relation to a cross-claim or a disputed debt: pacific recreation ([15] supra) at [23] and [25].the decision in metalform26 as the judge was largely persuaded by his understanding of this court’s holding in metalform ([15] supra), it is perhaps convenient to begin by explaining our decision in that case. there, the appellant metalform owed the respondent holland an undisputed debt. despite various efforts on metalform’s part to refinance and to pay the undisputed debt by instalments, the debt ultimately remained unsatisfied, and holland thus served a statutory demand on metalform in respect of the undisputed debt. anticipating a winding-up application, metalform then applied for an injunction to restrain holland from presenting a winding-up application until its cross-claim against holland for damages arising under a sale-and-purchase agreement was determined by an arbitrator. the parties agreed that the arbitrator was the proper adjudicator for the cross-claim. on appeal, this court held that metalform had a genuine cross-claim based on substantial grounds (metalform at [47], [52], [53] and [55]). this was sufficient to grant the injunction. 27 nonetheless, this court went on to consider the applicable standard of review in a cross-claim situation. reviewing authorities from singapore, england, australia, and new zealand, the court disagreed with the “bound to fail” standard adopted in new zealand (metalform at [86]), and instead held that the standard of review “in a stay application founded on a serious cross-claim on substantial grounds is that the petition is unlikely to succeed” [emphasis added] (metalform at [87]). the “unlikely to succeed” standard is the same as the “triable issue” standard set out in pacific recreation: see pacific recreation at [23] and [25]–[26].28 notably, even though the cross-claim in metalform was governed by an arbitration clause, the issue of whether the standard of review ought to be the same as that applicable for disputes (in a non-insolvency context) subject to arbitration was not expressly argued in metalform. in any case, given the court’s finding that metalform had a genuine cross-claim which was properly to be determined by arbitration (metalform at [89]), applying either the triable issue or the prima facie standard would have yielded the same result, ie, the injunction would have been granted.29 hence, the significance of the arbitration clause was not directly engaged in metalform, and the issue is thus being directly contested before this court for the first time in the present appeal.the position in other jurisdictionsengland30 reviewing the authorities, the issue appears to have been first squarely considered in 2014, when the english court of appeal was directly confronted with the question of whether the standard of review in respect of a disputed debt governed by an arbitration agreement should be the prima facie standard. in its decision in salford estates (no 2) ltd v altomart ltd (no 2) [2015] ch 589 (“salford”), it was held that the standard of review ought to be lowered, and that, when faced with a disputed debt that was subject to an arbitration agreement, the english courts ought to dismiss or stay the winding-up application, save in “wholly exceptional circumstances” which the judge found “difficult to envisage” (salford at [39]). this would be in accordance with the accepted principle which mandated upholding the parties’ agreement to arbitrate and the legislative policy in favour of arbitration (at [40], per sir terence etherton c, delivering the only reasoned judgment of the court):  40 … the intention of the legislature in enacting the [arbitration act 1996 (c 23) (uk) (“uk aa”)] was to exclude the court’s jurisdiction to give summary judgment, which had not previously been excluded under the arbitration act 1975. it would be anomalous, in the circumstances, for the companies’ court to conduct a summary judgment type analysis of liability for an unadmitted debt, on which a winding up petition is grounded, when the creditor has agreed to refer any dispute relating to the debt to arbitration. exercise of the discretion otherwise than consistently with the policy underlying the [uk aa] would inevitably encourage parties to an arbitration agreement – as a standard tactic – to bypass the arbitration agreement and the [uk aa] by presenting a windingup petition. the way would be left open to one party, through the draconian threat of liquidation, to apply pressure on the alleged debtor to pay up immediately or face the burden, often at short notice on an application to restrain presentation or advertisement of a winding petition, of satisfying the companies court that the debt is bona fide disputed on substantial grounds. that would be entirely contrary to the parties’ agreement as to the proper forum for the resolution of such an issue and to the legislative policy of the [uk aa]. [emphasis added]31 the salford decision remains authoritative in england, and it has been referred to by the english court of appeal in revenue and customs commissioners v changtel solutions uk ltd (formerly enta technologies ltd) [2015] 1 wlr 3911 and applied by the english high court in eco measure market exchange ltd v quantum climate services ltd [2015] ewhc 1797 (ch) (“eco measure”) and fieldfisher llp v pennyfeathers ltd [2016] ewhc 566 (ch) (“fieldfisher”). in eco measure, the judge observed that “[t]he result of salford … is to place a very heavy obstacle in the way of a party who presents a petition claiming sums due under an agreement that contains an arbitration clause … what the [english] court of appeal decided in clear terms in [salford] was that, where there is an arbitration clause, it is sufficient to show that the debt is ‘disputed’ and for that it is sufficient to show that the debt is not admitted.” in fieldfisher, nugee j concluded that under the salford approach, “the fact that the alleged debtor has made admissions in the past that money is due cannot fall within the description of wholly exceptional circumstances” (at 704).hong kong 32 in re southwest pacific bauxite (hk) ltd [2018] 2 hklrd 449 (“lasmos”), harris j considered that like england, the hong kong legislature and courts have adopted a pro-arbitration stance (lasmos at [15] and [16]). given the policy favouring arbitration, it would be anomalous for the court to “conduct a summary judgment type analysis of liability for an unadmitted debt, on which a winding-up petition is grounded” as this would give “no weight to the policy underlying the [arbitration ordinance (cap 609) (hk)]” (lasmos at [17], citing salford at [40]). the judge also considered that the salford approach had been broadly accepted in singapore in bdg ([16] supra) (lasmos at [22]–[23]).33 apart from the english and singapore authorities in support of the prima facie standard, the judge in lasmos considered that it was incorrect to impose the higher triable issue standard simply because a winding-up order, unlike an order in an ordinary dispute between contracting parties, is a class remedy affecting all the creditors of the company. this was because the true purpose for creditors to issue an application for winding up is “not out of some altruistic concern for the creditors of the company generally”, but for the recovery of his own debt, “albeit through the collective insolvency regime that is engaged when a winding-up order is made” (lasmos at [25]). furthermore, by dismissing the winding-up application, the court is simply holding parties to their bargain. the lowered standard of review would not bar the courts from invoking the collective insolvency process in exceptional circumstances, such as where there was an urgent need to appoint independent persons to investigate into the company’s assets which had gone missing, or where there are substantiated concerns of fraudulent preferences or a need to engage the avoidance provisions in insolvency (lasmos at [29]–[30]).34 hence, harris j held that, save in the exceptional cases such as those set out at [33] above, a winding-up application ought to be dismissed if: (a) the debtor-company disputes the debt relied on by the creditor-applicant; (b) the contract under which the debt is alleged to arise contains an arbitration clause that covers any dispute relating to the debt; and (c) the debtor-company takes the steps required to commence the arbitration and files an affirmation demonstrating this (lasmos at [31]) (“the lasmos approach”).35 however, the hong kong court of appeal (“hkca”) in but ka chon v interactive brokers llc [2019] hkca 873 (“but ka chon”) subsequently raised several doubts in its obiter remarks about the lasmos decision. in but ka chon, mr but was an experienced trader who traded on the creditor’s online trading platform. mr but took long positions on the euro appreciating against the euro/swiss franc (“chf”). however, due to actions taken by the swiss national bank, the chf reached a record high against the euro, resulting in mr but’s account suffering huge losses. the creditor then issued a statutory demand for over hk$79m, being the deficit in mr but’s account and interest. mr but applied to set aside the statutory demand on the principal argument that the customer agreement contained a mandatory arbitration clause. the hkca agreed with the first instance judge that mr but had no genuine intention to commence arbitration proceedings. it observed that while mr but’s solicitors had written to the creditor’s solicitors to inquire if they had instructions to accept service of mr but’s notice of arbitration, mr but’s solicitors did not follow up when the creditor’s solicitors failed to reply to their query, nor did they effect service of any notice of arbitration on the creditor. in the circumstances, the third requirement in lasmos, which requires the debtor to take steps to commence the arbitration, was not satisfied, and this was sufficient to dismiss mr but’s appeal against the judge’s decision not to set aside the statutory demand.36 nonetheless, the hkca expressed reservations about the lasmos approach as it amounted to a substantial curtailment of a creditor’s right to present a winding-up application (but ka chon at [63] and [67]). the court referred to etherton c’s comments at [35] of salford, where, in the context of holding that the arbitration act 1996 (c 23) (uk) (“uk aa”) does not confer a non-discretionary or automatic stay of a winding-up application, the learned chancellor observed:furthermore, it seems highly improbable that parliament, without any express provision to that effect, intended section 9 of the [uk aa] to confer on a debtor the right to a non-discretionary order striking at the heart of the jurisdiction and discretionary power of the court to wind up companies in the public interest where companies are not able to pay their debts.37 according to the hkca, the “above comments are in line with the principle of statutory interpretation that the court is reluctant to attribute to the legislature an intention to make a radical change by way of side-wind … we have not been referred to any legislative materials in the enactment of the arbitration ordinance in 2011 [(hk)] as indicative of any legislative intent to change the insolvency legislation” (but ka chon at [65]). furthermore, the court recognised that in jinpeng group ltd v peak hotels and resorts ltd (bvihcmap2014/0025 and bvihcmap2015/0003) (“jinpeng”), the eastern caribbean court of appeal declined to adopt the salford approach and instead retained the triable issue standard as it was “too firmly a part of bvi law” to require a creditor exercising his statutory right to wind up a company to prove exceptional circumstances before he may do so (jinpeng at [47]). 38 despite these reservations, the hkca went on to acknowledge that “considerable weight should be given to the factor of arbitration in the exercise of the discretion”, and that “it may well be that insufficient weight had been given to the arbitration factor pre-lasmos” (but ka chon at [70]). however, the court considered that an alternative middle-ground, which gives more weight to the insolvency regime, could be adopted (but ka chon at [71], citing hollmet ag & another v merdian success metal supplies ltd [1997] hklrd 828 (“hollmet”) at 832b):if a company wishes to obtain a stay of winding-up proceedings on the basis that the underlying debt upon which the statutory notice is founded is disputed, it must establish in the normal way that there is a bona fide dispute on substantial grounds. if it has not satisfied the court as to the bona fides and substantial nature of its claim it can only expect a short adjournment to enable it to commence the arbitration and then, if sufficient evidence to establish a genuine dispute is still absent it can expect to have to give an undertaking to proceed with the arbitration with all due dispatch. it cannot simply put up its hands and say: "you, the court, have no jurisdiction because of my contract." that is not what the contract says, and the companies court is entitled to be satisfied that there is a proper dispute. [emphasis added in bold]39 after the hearing of the present appeal, william wong sc, sitting as a deputy high court judge, delivered his decision in dayang (hk) marine shipping co, ltd v asia master logistics ltd [2020] hkcu 494 (“dayang”). as this decision was not before the court when the appeal was heard, we invited the parties to submit on its relevance. that case involved a claim of about us$321k from the petitioner-creditor, who had chartered a vessel to the respondent-debtor for approximately 77 days. the debtor did not dispute that the debt was due and owing, but it sought to raise a counterclaim against the creditor and submitted that the dispute ought to have been dealt with by way of arbitration.40 the judge found that the debtor failed to demonstrate triable issues, as its counterclaim was founded on “pure allegations”, and was not substantiated by precise factual evidence. accordingly, the winding-up order was granted (dayang at [36]). furthermore, even if the lasmos approach were applicable, the third requirement of the approach was not satisfied, as the debtor had not commenced any arbitration (dayang at [43]).41 nonetheless, in the event that he was wrong about the applicability of the lasmos approach, the judge proceeded to consider the merits of that approach. in his view, there were two possible justifications for the salford/lasmos approach. 42 first, there was the contractual justification – under the triable issue standard of review, the court would be engaged in a “summary judgment” type analysis, which would undercut the parties’ freedom to contract and the policy of the arbitration legislation to support party autonomy. however, in the judge’s view, the correct question to ask is whether the presentation of a winding-up petition per se would amount to a breach of an agreement to resolve disputes by way of arbitration, to which the answer was an unequivocal “no” (dayang at [71]). this was because the court does not, when hearing a winding-up petition, make any determination on the dispute; instead, its “role is simply to consider the prospective merits and ascertain whether the debtor-company had proven a triable case on the defence” (dayang at [72]). the dispute between the debtor and creditor would then be finally and conclusively determined by a liquidator (subject to an appeal), who will have to assess de novo whether to accept any proof of debt by the creditor. in so doing, the liquidator would be acting in a quasi-judicial capacity, and would not be estopped from disclaiming liability to pay a creditor even if the proof of debt regime had arisen from the creditor’s winding-up petition (dayang at [76]–[77]).43 second, there was the comparative justification, which contended that the triable issue standard of review is out-of-step with the developments in other common law jurisdictions, namely the english and singaporean decisions. reviewing the authorities, the judge considered that, while harris j had considered that the approach in england and singapore tended to support the adoption of the prima facie standard of review, a review of the authorities post-lasmos, including the judge’s gd below, suggested that the “salford-lasmos approach is far from settled … if anything, the hesitancy by the singapore courts to stay or dismiss winding-up proceedings on the mere say-so of the debtor-company should also give some cause for concern” for the adoption of the lasmos approach (dayang at [117]).44 in the light of the obiter remarks of the hong kong courts in but ka chon ([35] supra) and dayang, the position in hong kong appears unsettled, and the lasmos approach may well be revisited in the future. eastern caribbean 45 turning to other jurisdictions, as explained at [37] above, the eastern caribbean court of appeal held in jinpeng ([37] supra) that the triable issue standard continues to apply even when the court is faced with a disputed debt that is subject to an arbitration agreement. a key reason for the court’s reservations in adopting the salford approach, apart from the fact that the triable issue standard is “too firmly a part of bvi law”, appears to be that “[t]he position outlined [in salford] … comes close to the automatic stay position … [etherton c] is saying in very clear terms that a winding up application based on a debt that is covered by an arbitration agreement will be stayed unless there are exceptional circumstances” (jinpeng at [47]).  malaysia46 in contrast, malaysia appears to have adopted the prima facie standard of review. in awangsa bina sdn bhd v mayland avenue sdn bhd (wa-28ncc-1146-12/2018), the high court of malaya concluded, after laying out the decisions in salford ([30] supra), bdg ([16] supra) and lasmos ([32] supra), that the standard is not one of triable issues. instead, the task of the court is simply to “ascertain whether there is a prima facie dispute of the debt claimed by the [applicant]” (at [25]). applying the prima facie standard, the court struck out the winding-up application as the debtor had shown that there was a disputed debt (by simply denying its indebtedness) which was the subject matter of an arbitration clause (at [28]).singapore 47 in singapore, pitted against the judge’s decision are two decisions of the high court which have endorsed and applied the prima facie standard of review.(1)  bdg: the bona fide prima facie standard 48 in bdg, abdullah jc accepted that the salford approach ought to be followed. at [22] of his decision, the judge gave several reasons for preferring the prima facie standard of review over the triable issue standard:i accept that the broad approach in salford estates should be followed. the objective of the triable issue or good arguable case standard is to ensure that winding-up is not staved off on flimsy or tenuous grounds. similarly, summary judgment should not be avoided if the defendant’s case is without foundation or basis. the triable issue standard thus ensures that remedies are readily obtained when nothing much can be said against the claim or application. this helps to oil the machinery of commerce and trade, and presumably helps promote certainty and efficiency. that objective is however less pressing and dominant when one is confronted with an arbitration clause. the countervailing concern is to hold parties to their agreement; if they have made a bargain that disputes are to be arbitrated, then they should be held to it. it may be that their case is weak, and would be readily dismissed by the arbitrators; but such weakness of the case would be a matter for the arbitrators to decide. the court should not generally step in; indeed, it may be that the parties selected process, arbitration, may lead to a different result from the court’s assessment. given such different considerations, the adoption of a different standard from the usual one in the stay or enjoining of winding-up proceedings would be justified on principle. in addition, in these situations, the parties are essentially in dispute about the existence of a dispute. trying to ascertain a triable issue in this context is likely to be an exercise that is not fruitful, efficient or proportionate, without any countervailing benefit.49 while abdullah jc broadly accepted the salford approach, he added a gloss to the test. under his approach, it is not necessary for the creditor to show “exceptional circumstances”. instead, the creditor merely needs to show that the issues (or dispute) “are not raised bona fide” (bdg at [23]):it may be thought that adopting this lower standard would stymie the winding-up regime by opening the door to gaming of the system by companies desperate to fend off their creditors. there are two responses to this. firstly, if indications are that issues are not raised bona fide, that would be a reason to find that there is no dispute prima facie, or that the court’s powers should not be exercised in the applicant’s favour. secondly, any apparent injustice suffered by the creditors would have to be assessed in the context of the bargain struck between these creditors and the company. arbitration would have been contemplated as being part of the process from the moment the parties signed off on the agreement. nothing inequitable or unfair would result from the parties being made to go through arbitration before they invoke the winding-up process. if an arbitration clause was included, there is no real injustice: pacta sunt servanda. [emphasis added in bold]50 applying the lower standard of review to the facts of the case, abdullah jc found that there existed a prima facie dispute as “there is an allegation of a binding settlement on one side, and a denial on the other.” there was no need to go into the merits of the respective parties’ claims, as doing so would be to apply something other than the prima facie standard (bdg at [26]). he also found that there had been prima facie compliance with the tiered-dispute resolution clause, and that the debtor-company was ready, willing and able to proceed with the arbitration (bdg at [27]–[29]). finally, the arbitration clause was broad enough to encompass the dispute raised by the debtor-company (bdg at [30]). in the circumstances, he granted an injunction, preventing the creditor from initiating winding-up proceedings against the debtor.(2) bwf v bwg: prima facie standard of review with an abuse of process control51 in bwf v bwg [2019] sghc 81 (“bwf”), valerie thean j similarly had to examine the applicable standard of review. in that case, a dispute arose as to whether the plaintiff was obliged to pay a sum of us$30,245,600 to the defendant. the plaintiff informed the defendant that it was entitled to various defences under the parties’ contract, which also provided that such disputes ought to be referred to arbitration. despite this, the defendant served a statutory demand on the plaintiff. the plaintiff thus took out an application to restrain the defendant from commencing winding-up proceedings against it, arguing that the disputes ought to be referred to arbitration. given that the dispute was to be referred to arbitration, thean j adopted the lower standard of review, and granted the injunction.52 according to thean j, the lower standard coheres with the importance of party autonomy in the field of arbitration (bwf at [29]–[34]). there was also the desirability of achieving coherence in the law, by aligning the law governing exclusive jurisdiction clauses (“ejc”), forum non conveniens, and stay applications under the international arbitration act (cap 143a, 2002 rev ed) (“iaa”): across these various areas, the merits of the defence are irrelevant to the issue of whether a stay ought to be granted (bwf at [34]). furthermore, while the triable issue standard is appropriately utilised to sieve out plainly unmeritorious cases, where an arbitration agreement governs the dispute between the parties, parties ought not to be allowed to renege on their agreement by arguing on the merits of the dispute in a winding-up application (bwf at [35]).53 it was thus held that the applicable standard of review was whether there exists a bona fide prima facie dispute (bwf at [38]). accordingly, the court did not have to concern itself with the merits of the parties’ arguments, although it would have declined to grant the injunction to restrain the commencement of winding-up proceedings if the debtor was guilty of an abuse of process.54 the bwf decision is the subject of a separate appeal, which was heard together with this present appeal. our full decision in the bwf appeal will be set out in a separate judgment. for present purposes, it would suffice to say that we largely agree with thean j’s decision in relation to the lower standard of review. the prima facie standard of review is to be adopted55 our survey of the developments reveals that, in the short period since salford ([30] supra) was decided, the interfacing issue of a dispute that is subject to an arbitration agreement has been raised in the insolvency context on several occasions across a multitude of jurisdictions. locally, the same issue has spawned three recent decisions from the high court. this appeal thus affords an opportunity for this court to pronounce on the appropriate standard of review to be adopted.56 in our judgment, when a court is faced with either a disputed debt or a cross-claim that is subject to an arbitration agreement, the prima facie standard should apply, such that the winding-up proceedings will be stayed or dismissed as long as (a) there is a valid arbitration agreement between the parties; and (b) the dispute falls within the scope of the arbitration agreement, provided that the dispute is not being raised by the debtor in abuse of the court’s process. 57 for reasons which we shall elaborate in the following section, we are of the view that the reduced standard of review promotes coherence in the law, gives effect to the principle of party autonomy and helps to achieve cost savings and certainty in the law.no differing standards for disputed debts and cross-claims58 before detailing our reasons for adopting the prima facie standard of review, we pause to emphasise that the standard of review applies equally to disputed debts and cross-claims, which are the two bases that a debtor may raise to resist a winding-up application. 59 in this regard, we do not accept the submission of the appellant’s counsel, mr lee eng beng sc (“mr lee”), who, in attempting to distinguish this court’s decision in metalform ([15] supra), argued that different standards of review ought to apply for cross-claims and disputed debts.
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+  transcripts (ca 174 of 2018) p 23 line 4 to p 24 line 13.
+
+
+
+ as we explained to mr lee in the course of the appeal, like a disputed debt, a cross-claim is itself capable of operating as a legal set-off of the entire debt that is claimed by the creditor. whether a cross-claim or disputed debt is raised, the debtor is simply asserting that the debt claimed is insufficient to prove its insolvency, and that the winding-up order ought therefore not to be granted.
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+  transcripts (ca 174 of 2018) p 26 line 10 to 11, p 27 lines 13–28.
+
+
+
+ there is therefore no justifiable basis for applying a different standard of review to cross-claims on the one hand, and disputed debts on the other. as this court had observed in pacific recreation ([15] supra) at [25], the “tests for both of the situations” must “necessarily mirror each other.” coherence in the law60 adopting the lower standard of review would, in our view, promote coherence in the law concerning stay applications, so that parties to an arbitration agreement are not encouraged to present a winding-up application as a tactic to pressure an alleged debtor to make payment on a debt that is disputed or which may be extinguished by a legitimate cross-claim. (1) coherence is to be preferred to prevent abuse of winding-up proceedings61 in this regard, the prima facie standard has been adopted for stay applications under s 6 of both the arbitration act (cap 10, 2002 rev ed) (“aa”) and the iaa. in tomolugen holdings ltd and another v silica investors ltd and other appeals [2016] 1 slr 373 (“tomolugen”) at [63], this court held that the prima facie standard of review applies when hearing a stay application under s 6 of the iaa. the prima facie standard similarly applies for stay applications under s 6 of the aa: sim chay koon and others v ntuc income insurance co-operative ltd [2016] 2 slr 871 (“sim chay koon”) at [5]. hence, if a creditor claims for a debt simpliciter before the court, the debtor would simply have to demonstrate on a prima facie basis that there is an arbitration clause and that the dispute is caught by that clause. once such a burden is discharged by the debtor, the court will grant a stay of the claim and defer the actual determination of the dispute to an arbitral tribunal. 62 however, if the same debt is relied on as the basis for presenting a winding-up application, as discussed, some authorities suggest that the triable issue standard may apply, such that the debtor would have to demonstrate a substantial and bona fide dispute before the winding-up application can be stayed.63 in our judgment, there is no principled basis to apply differing standards to what is essentially the same disputed debt. under the present dichotomy of standards, the applicable standard of review would depend solely on the creditor’s arbitrary or tactical choice – if the creditor pursues an ordinary claim for debt, the prima facie standard would apply; if the creditor applies, on the basis of the same disputed debt, for the debtor to be wound up, the higher triable issue standard would apply. this would in turn encourage the abuse of the winding-up jurisdiction of the court, which is not the appropriate forum to adjudicate on disputed claims that are subject to arbitration (see bnp paribas v jurong shipyard pte ltd [2009] 2 slr(r) 949 at [7]); as etherton c observed in salford ([30] supra) at [40], applying the triable issue standard: would inevitably encourage parties to an arbitration agreement – as a standard tactic – to bypass the arbitration agreement … by presenting a winding-up petition. the way would be left open to one party, through the draconian threat of liquidation, to apply pressure on the alleged debtor to pay up immediately or face the burden … of satisfying the [court] that the debt is bona fide disputed on substantial grounds.64  indeed, the report of the sub-committee on review of arbitration laws (1993) (chairman: giam chin toon) (“1993 report on review of arbitration laws”) expressly considered against allowing the courts to summarily determine an issue that is the subject of an arbitration agreement (at para 29):the grounds under the model law for refusal of stay are limited to the agreement being "null and void, inoperative and incapable of being performed." [article 8]. the existing singapore law in respect of domestic arbitration, however, does not allow a stay in cases where there is in fact no dispute that needs to be referred to arbitration (e.g. where a summary judgment could have been granted). the committee considered whether this position should be extended to international arbitrations, the principle being that arbitration should be a process of resolving disputes and not an expedient to delay the payment of just debts. this was the stand taken by new zealand. the committee felt however that where foreign parties agree to arbitrate in singapore, they should be assured that their consent must not be construed as a submission to the jurisdiction of the singapore courts. to allow one party to insist on proceeding to the singapore court for the purpose of determining the issue summarily would be totally inconsistent with the agreement to arbitrate in singapore. the committee therefore recommends that the model law provision on stay of proceedings be adopted in its original form. [emphasis added]65 the iaa, which was enacted in 1994, drew heavily from the 1993 report on review of arbitration laws (tomolugen at [65]). it is not disputed that s 6 of the iaa requires the court to grant a stay so long as the matter is the subject of an arbitration agreement, and the arbitration agreement is not “null and void, inoperative or incapable of being performed”. while the language of s 6 of the aa differs from s 6 of the iaa, and grants the court some discretion in deciding whether a stay ought to be granted in domestic arbitrations, such discretion must still be exercised in a guarded manner that gives weight to the autonomy of the arbitral process (soh beng tee & co pte ltd v fairmount development pte ltd [2007] 3 slr(r) 86 at [65]), and the prima facie standard applies in guiding the exercise of such discretion (sim chay koon ([61] supra) at [5]).(2) the insolvency and arbitration regimes are not in conflict66 in attempting to distinguish the present case from stay applications under the aa and iaa, counsel for the respondent, mr philip jeyaretnam sc (“mr jeyaretnam”) submitted that an ordinary claim for a debt and a winding-up application are materially different. according to mr jeyaretnam, the insolvency regime trumps arbitration clauses in a number of contexts. hence, for example, once a company is in insolvency, the proof of debt regime takes over, and the merits of the dispute are no longer dealt with by way of arbitration.
+
+                   37
+
+
+
+
+foot note 37
+
+×
+
+
+
+  transcripts (ca 174 of 2018) p 70 lines 8–20.
+
+
+
+ 67 similarly, in but ka chon ([35] supra) at [63]–[67], the hkca expressed its reservations about the lasmos approach, which adapted the salford test, because it was of the opinion that the prima facie standard affords too little weight to the policy underpinning the insolvency regime. the judge also observed at [67] of the gd that the salford approach “may be seen to deal a blow to the insolvency regime since creditors legitimately seeking to wind up insolvent companies may be delayed in or entirely derailed from the recovery of their debts by debtor-companies … even if these allegations may be entirely unmeritorious.”68 this court has recognised that arbitration and insolvency processes appear to embody contrasting policies (larsen oil and gas pte ltd v petroprod ltd (in official liquidation in the cayman islands and in compulsory liquidation in singapore) [2011] 3 slr 414 (“larsen oil”) at [1]):arbitration and insolvency processes embody, to an extent, contrasting legal policies. on the one hand, arbitration embodies the principles of party autonomy and the decentralisation of private dispute resolution. on the other hand, the insolvency process is a collective statutory proceeding that involves the public centralisation of disputes so as to achieve economic efficiency and optimal returns for creditors.69 in larsen oil, this court was concerned with the non-arbitrability of certain types of disputes involving an insolvent company that was in liquidation. we held that a distinction ought to be drawn between disputes involving an insolvent company that stem from its pre-insolvency rights and obligations, and those that arise only upon the onset of insolvency due to the operation of the insolvency regime (larsen oil at [45]). where the dispute arises under the insolvency regime, such as disputes relating to the avoidance and wrongful trading provisions, the objective is to recoup assets for the benefit of the company’s creditors. in such a case, the collective enforcement procedure would clearly be in the wider public interest. therefore, the court ought to treat disputes arising from the operation of the statutory provisions of the insolvency regime per se as non-arbitrable even if the parties expressly included them within the scope of their arbitration agreement (larsen oil at [45]–[46]).70 however, where the dispute involving the insolvent company stems from its pre-insolvency rights and obligations, “[s]uch disputes differ from those arising on the onset of insolvency because they do not involve public policy considerations such as the protection of creditors.” (larsen oil at [47]). thus, we observed at [51] of larsen oil that: where the agreement is only to resolve the prior private inter se disputes between the company and another party there will usually be no good reason not to observe the terms of the arbitration agreement. the proof of debt process is merely a substituted means of enforcing debts against the company, and does not create new rights in the creditors or destroy old ones … hence, even if the claim is subsequently proved to be valid and enforceable against the liquidator, the pool of assets available to all creditors at the time of the liquidation of the company is not affected. for the same reason, allowing a creditor to arbitrate his claim against an insolvent company in such circumstances does not undermine the insolvency regime’s underlying policy aims. [emphasis added] 71 as a matter of principle, in an application to stay or dismiss a winding-up application on the ground that the dispute involving pre-insolvency rights and obligations ought to be determined by arbitration, the policies underpinning the arbitration and insolvency regime are not necessarily at odds. as mr lee submitted, the view that adopting the prima facie standard of review deals a blow to the insolvency regime begs the question, as it assumes that the company is in fact a debtor, when that question is precisely what the company and the creditor have agreed to refer to arbitration.
+
+                   38
+
+
+
+
+foot note 38
+
+×
+
+
+
+  appellant’s case, para 34.
+
+
+
+ a statutory demand that is unsatisfied merely leads to the presumption that the debtor is insolvent; it does not determine that the debtor is in fact insolvent. hence, when a dispute arises in relation to a debt that is subject to an arbitration agreement (as opposed to a claim which arises under the insolvency regime), the policy concerns of the insolvency regime are strictly not engaged. it is only when the debt is established to be due and owing to the creditor by way of arbitration, and that debt remains unsatisfied, that it can be said that the company is insolvent, such that the collective interest of the insolvent company’s creditors becomes a relevant consideration. in other words, the arbitration of the dispute vis-a-vis the debt is a necessary precondition to bringing the insolvency regime into the equation. there is thus strictly speaking no conflict of policy interests between the two regimes under such circumstances. this is especially so in a case such as the present appeal where there is only a single disputed claim against the debtor-company which is subject to arbitration.72 with the exception of winding-up proceedings, a party to an arbitration agreement can usually obtain a stay of court proceedings by simply demonstrating on a prima facie basis that the dispute is properly to be determined by arbitration. the above analysis shows that this exclusive treatment of winding-up proceedings is not justified by any perceived conflict of policies between the insolvency and arbitration regime. retaining the triable issue standard also makes the winding-up regime vulnerable to abuse by creditors, who may utilise the draconian threat of liquidation to pressurise the alleged debtor into payment. this would undercut the parties’ pre-agreed method of dispute resolution, being arbitration. given that the prima facie standard applies for ordinary claims which are subject to arbitration, a fortiori, it should apply to a winding-up application, which carries far more severe consequences for a company. as this court observed in metalform ([15] supra) at [82]:… the commercial viability of a company should not be put in jeopardy by the premature presentation of a winding-up petition against it where it has a serious cross-claim based on substantial grounds. such a petition may adversely affect the reputation and the business of the company and may also set in motion a process that may create cross-defaults or cut the company off from further sources of financing, thereby exacerbating its financial condition. …73 similarly, in dayang ([39] supra), the judge observed (at [84]) that “the presentation of winding up petitions can as a matter of practical reality put considerable pressure on the debtor-company to pay in lieu of arbitration, given the risk of reputational damage to the debtor-company arising from the commencement of the winding up process. to that extent, there is indeed a risk of debtor-companies being strong-armed into settling disputes.”74 coherence is therefore not sought for coherence’s sake. by adopting the prima facie standard, the law will speak with one voice, and parties will thereby be discouraged from abusing the court’s winding-up jurisdiction as a means to avoid the parties’ agreed method of dispute resolution. this is the fundamental reason why the courts forbear from examining the merits of a claimant’s case in forum non conveniens, iaa and ejc applications: see vinmar overseas (singapore) pte ltd v ptt international trading pte ltd [2018] 2 slr 1271 (“vinmar”) at [119]. party autonomy75 the triable issue standard when applied in the context of disputes subject to arbitration also offends against the principle of party autonomy, which is the “cornerstone underlying judicial non-intervention in arbitration”: tjong very sumito and others v antig investments pte ltd [2009] 4 slr(r) 732 (“tjong very sumito”) at [28].76 this is so because the triable issue standard is an exacting one, and it requires a thorough examination of the evidence. as this court observed in goh chok tong v chee soon juan [2003] 3 slr(r) 32 at [25]:it is a settled principle of law that in an application for summary judgment, the defendant will not be given leave to defend based on mere assertions alone: banque de paris et des pays-bas (suisse) sa v costa de naray and christopher john walters [1984] 1 lloyd’s rep 21 at 23. the court must be convinced that there is a reasonable probability that the defendant has a real or bona fide defence in relation to the issues. in this regard, the standard to be applied was well-articulated by laddie j in microsoft corporation v electro-wide limited [1997] fsr 580, where he said at 593 to 594 that: [i]t is not sufficient just to look at each factual issue one by one and to consider whether it is possible that the defendant’s story in relation to that issue is credible. the court must look at the complete account of events put forward by both the plaintiff and the defendants and … look at the whole situation. the mere fact that the defendants support their defence by sworn evidence does not mean that the court is obliged to suspend its critical faculties and accept that evidence as if it was probably accurate. if, having regard to inconsistency with contemporaneous documents, inherent implausibility and other compelling evidence, the defence is not credible, the court must say so. it should not let the filing of evidence which surpasses belief deprive a plaintiff of its entitlement to relief. [emphasis added]77 the triable issue standard thus requires the court to critically consider the merits of the company’s defences. if the defences raised are deemed frivolous, the company will be wound up. this is in spite of the parties’ agreement that such disputes are to be determined by an arbitrator. arbitration, in this regard, could have been preferred by the parties for a multitude of reasons, such as the finality, confidentiality and the ease of enforcement it guarantees (tjong very sumito at [29]). by winding-up the company on the basis that its defences are unmeritorious, the court in effect takes the place of the arbitral tribunal, against the parties’ agreement, thereby eroding any of the advantages which they had sought to obtain in electing arbitration in place of other modes of dispute resolution. 78 more crucially, by displacing the decision-making capacity of the arbitral tribunal in respect of the dispute, the court is in effect presuming that it has arrived at the same result as the tribunal would have, when this may not necessarily be the case. as abdullah jc noted in bdg ([16] supra) at [22], “the parties[’] selected process, arbitration, may lead to a different result from the court’s assessment.” hence, substantive prejudice may be caused to the parties if their choice of dispute resolution is not strictly adhered to. such prejudice is exacerbated by the severe reputational and commercial damage that follow a winding-up application.79 problems of undercutting the parties’ pre-dispute bargain will be amplified if the court directs, on the basis that no triable issues are demonstrated by the alleged debtor, that the debtor be wound up. the judge in dayang ([39] supra) considered that this would not affect the parties’ agreement to arbitrate, as the court would not, in so deciding, have determined the matter, since the liquidator would be the final arbiter of the dispute vis-a-vis the disputed debt (dayang at [71]–[72] and [76]). but, the practical implication of this is that the court would then offload the decision-making function, which properly belongs to the arbitral tribunal, onto the liquidator, for determination via the proof of debt process. that the dispute is to be decided by the liquidator and not the court misses the point altogether. in either event, the dispute will not be decided by the parties’ agreed method of dispute resolution, ie, arbitration. this plainly raises the same problem of undermining the parties’ agreement. 80 upon being placed in liquidation, the only way the debtor could then insist on the parties’ agreed method of dispute resolution, being arbitration, would be to initiate arbitration proceedings. however, once a winding-up order is made by the court, the board of directors of the debtor-company becomes functus officio, and the powers of the company, including to initiate proceedings, vest with the liquidator. this could inhibit the arbitration of the creditor’s debt, as the liquidator could then decide (against the ex-directors’ wishes) not to arbitrate the debt claimed by the creditor. furthermore, even if the liquidator decides to defend the creditor’s claim, as we discuss below (at [109]), there may be several practical difficulties with requiring the defendant-debtor to seek “mirror image declarations of non-liability”. more crucially, such an approach, which requires the debtor to undertake a circuitous route to arbitrate its dispute, not only results in increased uncertainty and unnecessary costs for parties, but could also result in the unnecessary winding up of companies, on the basis of a disputed debt that is properly referable to arbitration. the consequences of such a winding up order would be rendered more egregious if, as the judge in dayang contemplated, the liquidator then decides to reject the debt claimed by the petitioner-creditor, with the result that the basis for having wound up the debtor would fall away. yet, given that a winding-up order is irreversible, and the court can only order a permanent stay of the order under s 279 of the companies act (cap 50, 2006 rev ed) (“companies act”), the net result would be irreparable harm to the debtor-company’s stakeholders, including shareholders and other creditors.81 in vinmar ([74] supra), we held that in an application to stay court proceedings pursuant to an ejc, the overarching test remains the “strong cause” test. however, this court overruled the jian he [1999] 3 slr(r) 432 line of cases, and held that in determining whether to grant a stay, the merits of the defence are irrelevant. in coming to the conclusion, this court considered the proposition that where the defendant has no genuine defence, it would follow that he does not genuinely desire trial in the agreed forum. this proposition had hitherto been employed to justify the court’s consideration of the merits in the jian he line of cases. in rejecting the proposition, this court held that (vinmar at [121]):where parties make such an agreement [under an ejc], they express, at the time of contracting, a desire for trial in the agreed forum, regardless of the merits of the disputes that may arise. to assume that an applicant does not desire trial in the agreed forum whenever it does not have an arguable defence is to assume that the once-held desire fades away in such a case. but there are many reasons why the applicant for a stay may desire trial in the agreed forum, even if it has no genuine defence. for example, the forum may have rules regarding interest on judgment sums or on costs that are favourable to the applicant. in this light, it cannot be inferred from the mere fact that one has no genuine defence that one does not genuinely desire trial in the agreed forum. [emphasis in original]82 we therefore agree with mr lee that these considerations are equally apposite in the context of arbitration. a party does not lose his genuine desire for recourse to arbitration just because his case may appear weak. indeed, the party may wish to leverage on procedural advantages which he may otherwise not have if the matter is determined by the courts.
+
+                   39
+
+
+
+
+foot note 39
+
+×
+
+
+
+  appellant’s case, para 39.
+
+
+
+ the courts should not undercut the bargain of the parties by examining the merits of the company’s defence(s) irrespective of whether the debt is pursued by way of a court action or a winding-up application.certainty and savings83 vinmar is also relevant as this court provided other normative justifications for declining to review the merits of the defence. 84 first, the rule in the jian he was problematic as it can lead to uncertainty. this is because the evaluation of the merits of a defence does not afford parties with much certainty that their dispute will be resolved in the agreed forum (vinmar at [116]). the triable issue standard presents the same uncertainty, as alleged debtors must convince the court on the merits that there is a substantial and bona fide dispute before they can stay or strike out the winding-up application in favour of arbitration.85 second, allowing parties to argue on the merits despite an ejc in favour of another jurisdiction can cause parties to expend significant costs at the interlocutory stage, and this delays the resolution of disputes (vinmar at [117]). the same difficulty exists when parties are compelled to contest the merits of their dispute both before the court and the arbitral tribunal. the present case illustrates this – in attempting to show that their defence is not unmeritorious, anan had to apply by way of ca/sum 33/2019 to adduce the deloitte report. significant legal costs were undoubtedly incurred to adduce the deloitte report for the court’s consideration. more costs were then incurred for the present appeal, which also delays the prompt resolution of the dispute between the parties. had the dispute been resolved expeditiously by way of arbitration, which is the parties’ agreed mode of dispute resolution resulting in an award in favour of vtb, the court would then be better placed to decide on the merits of the winding-up application.86 hence, to promote certainty in the law and costs savings, the triable issue standard ought to be replaced by the prima facie standard in cases where the dispute raised in a winding-up application is referable to arbitration.perceived entrenchment of the triable issue standard87 in arriving at our conclusion, we noted the eastern caribbean court of appeal’s observation in jinpeng ([37] supra) that the triable issue standard is too well-entrenched to be disturbed. however, we note that in hualon corporation (m) sdn bhd (in receivership) v marty limited (bvihc (com) 2014/0090) (“hualon”), the eastern caribbean high court decided that the prima facie standard ought to apply when there is an application to stay court proceedings in favour of arbitration. the prima facie approach was adopted after the court’s consideration of, inter alia, this court’s decision in tomolugen. however, we note that hualon does not appear to have been considered in jinpeng. as such, the benefits of promoting coherence in the law in the eastern caribbean, and preventing abuse of the winding-up jurisdiction of the courts were not specifically raised before the court in jinpeng.88 in any case, while it may well be that commercial practice would have to be adjusted if the standard of review is lowered to the prima facie standard, this would, in our judgment, be an adjustment in the right direction, as parties would be discouraged from bypassing the arbitration agreement by presenting a winding-up application. ultimately, parties should be held to their bargains. there is no principled reason to depart from this settled position merely because the creditor elects to pursue his claim by way of a winding-up application. for similar reasons, unlike the judge in dayang ([39] supra at [117]), we do not consider the perceived state of flux in the commonwealth on this issue as a relevant factor pointing towards or against the prima facie standard of review. ultimately, the court is required to make a principled decision on the appropriate standard of review. in this regard, the conflicting decisions across the commonwealth serve as guideposts, in so far as the reasoning contained therein help direct this court to the appropriate standard of review to adopt. this is precisely the methodology that we have adopted in the course of this judgment; the state of flux in the law, in and of itself, is a wholly neutral factor that does not assist in our analysis.the scope of the prima facie standard of review89 what then are the parameters of the prima facie standard of review? the judge considered that there were two versions of the prima facie standard, namely (gd at [71]):(a) under the salford approach, the debtor-company would need to show that there is a dispute over the debt which is governed by an arbitration agreement. save in wholly exceptional circumstances, the court should then dismiss or stay the winding-up application.(b) under the bdg approach, the debtor-company would need to establish a prima facie case that there is a dispute between the parties which falls within the scope of the arbitration agreement, and that the debt is bona fide (or genuinely) disputed.90 in bwf ([51] supra), thean j expressed the relevant standard as that of a bona fide prima facie dispute. under this approach, which expands on the meaning of “bona fide” espoused by abdullah jc in bdg ([16] supra), the court will decline to grant a stay where the debtor-company is guilty of an abuse of process in seeking such a stay (bwf at [38]–[39]).91 we do not think that there is much to choose amongst these three approaches in respect of the prima facie standard of review. fundamentally, the prima facie standard exhorts limited judicial intervention, such that the court is merely required to determine “whether it appears on a prima facie basis that there is an arbitration clause and that the dispute is caught by that clause” (sim chay koon ([61] supra) at [5]). if so, unless there are exceptional circumstances (salford approach) or an abuse of process (bwf approach) or if the debt is not genuinely disputed (bdg approach), the winding-up application ought to be dismissed or stayed. 92 under all three approaches, the debtor-company is required to show on a prima facie basis that (a) there is a valid arbitration clause (b) which captures the dispute before the court (or any part thereof). 93 however, the question remains as to what the appropriate measure to check against abuses of this lower standard of review should be. borrowing the words of rogers j in hollmet ([38] supra) (at 832), the prima facie standard may lend itself to abuse if a stay is automatically granted once a party puts up its hands and says “[y]ou, the court, have no jurisdiction because of my contract”. 94 in our judgment, there is no question of an automatic stay. the bona fides of the debtor (bdg approach) in raising the dispute remains a relevant factor in determining whether there has been an abuse of process in attempting to obtain the stay or dismissal of the winding up application. however, it ought not to be the sole controlling factor against the abuse of the prima facie standard of review. this is because certain cases may not fall neatly under the bona fides exception. for example, a debtor may genuinely dispute a debt which it had expressly and repeatedly admitted on previous occasions. in such a case, the debtor may appear bona fide in raising the ‘dispute’, but the court ought, in the absence of a clear and convincing reason for the change of position, to refuse a stay as it would amount to an abuse of process. as this court stressed in vinmar ([74] supra) at [131], while “the threshold for abusive conduct is very high … [o]ne example … was that of an applicant who has clearly admitted to the claim as regards both liability and quantum, but seeks a stay for no reason other than its alleged inability to pay.” 95 as for the “wholly exceptional circumstances” approach advocated in salford ([30] supra), what amounts to such exceptional circumstances may not be entirely clear, and the standard seems to be pitched extremely high. this can be seen in the case of fieldfisher ([31] supra), where the court held that past admissions on a debt do not fall within the description of wholly exceptional circumstances (fieldfisher at 704). this holding appears to be at odds with this court’s example in vinmar.96 in striking the right balance, the following observations in tomolugen ([61] supra) at [188] are apposite:... the court must in every case aim to strike a balance between three higher-order concerns that may pull in different considerations: first, a plaintiff’s right to choose whom he wants to sue and where; second, the court’s desire to prevent a plaintiff from circumventing the operation of an arbitration clause; and third, the court’s inherent power to manage its processes to prevent an abuse of process and ensure the efficient and fair resolution of disputes. the balance that is struck must ultimately serve the ends of justice. …97 the first and second “higher-order concerns” are given weight by the prima facie standard, whereby the court grants significant leeway to the parties to determine their dispute by arbitration. the third “higher-order concern” would be adequately addressed by subjecting the prima facie standard to an overarching restriction, ie, that the court will not grant a stay notwithstanding that the prima facie standard has been met if the application for a stay amounts to an abuse of process. this closely mirrors thean j’s proposed approach in bwf ([51] supra) at [39].98 adopting the concept of abuse of process also better coheres with the whole law of civil procedure, including stay applications based on an ejc (vinmar) or under s 6 of the iaa (tjong very sumito ([75] supra)). as was held in jtrust asia pte ltd v group lease holdings pte ltd and others [2018] 2 slr 159 at [99], … the concept of abuse of process … pervades the whole law of civil (and criminal) procedure. as lord sumption observed in virgin atlantic airways ltd v zodiac seats uk ltd (formerly contour aerospace ltd) [2014] ac 160 at [25], “abuse of process is a concept which informs the exercise of the court’s procedural powers”. in particular, it is a concept by which the court ascertains whether the proceedings in question constitute an “improper use of its machinery” (gabriel peter & partners v wee chong jin [1997] 3 slr(r) 649 at [22] per yong pung how cj), and if they do, then the court in the exercise of its inherent jurisdiction will disallow their continuance without hesitation.…99 abuse of the court’s process can manifest itself in a multitude of scenarios. as a control mechanism, it is “essentially targeted at addressing abusive conduct by the defendant” (vinmar at [129]). it bears emphasis that the threshold for abusive conduct is very high. examples of when such a high threshold is met would include the following:(a) where the debt is admitted as regards both liability and quantum: vinmar at [131];(b) where the debtor has waived or may be estopped from asserting his rights to insist on arbitration, such as where the parties have agreed subsequently that disputes may be resolved by litigation: tjong very sumito at [53]; and(c) where the debtor-company is seeking to stave off substantiated concerns which justify the invocation of the insolvency regime. examples include instances when assets have gone missing and there is an urgent need to appoint independent persons to investigate with a view of recovering the company’s assets, or when there is a proper basis to conclude that there had been fraudulent preferences or the need to engage the avoidance provisions in the bankruptcy act (cap 20, 2009 rev ed): lasmos ([32] supra) at [29]–[30]. while these are non-exhaustive examples, it must be emphasised that the abuse of process control mechanism cannot be used as a gateway for parties to introduce arguments on the merits of the underlying dispute, when such arguments are plainly irrelevant under the prima facie standard. hence, the court will not be in the position to determine whether the defence is “so obviously lacking in merit”, a concern raised by the judge at [83] of the gd. in our view, that the defence is “so obviously lacking in merit” ought not to be a basis for the court to find abusive conduct on the part of the alleged debtor. if abuse of process can be established by demonstrating that the defence is plainly unmeritorious, parties would effectively be granted a backdoor to argue on the merits of the dispute, even though the prima facie standard precisely prevents such arguments from being raised or entertained. 100 thus, in determining whether an applicant for a stay or dismissal of the winding-up application is guilty of an abuse of process, the court must be wary that it does not engage in examining the merits of the parties’ dispute, since the court is not the proper forum to adjudicate the dispute between the parties. the adoption of such an approach gives deference to the parties’ agreement to arbitrate, while the court retains its inherent powers to check against abuses of the court’s processes. in our view, such an approach strikes the proper balance between the competing interests identified in tomolugen ([61] supra) at [188] (see [96] above). application of the prima facie standard101 in our judgment, it is clear that there is a prima facie dispute in this case that would justify allowing the appeal and restraining the winding-up application presented by vtb. it is uncontroversial that anan has disputed that the claimed sum is due and owing, and that this dispute is governed by the arbitration clause in cl 15(b) of annex 1 to the gmra. 102 we are also satisfied that there was no abuse of process on anan’s part. as far as the arguments on frustration and force majeure are concerned, we say no more of them since the arguments have been abandoned on appeal, save to point out that the mere fact that the arguments were misconceived or legally unsustainable does not in our judgment give rise to the inevitable conclusion that they were put forth in bad faith. as for the dispute in relation to the quantification of the claimed sum, we are of the view that anan’s delay in particularising its case and in adducing information such as the deloitte report similarly does not rise to the level of an abuse of process. it is crucial to note that anan did not at any time expressly admit to its liability for the claimed sum. even though anan could have raised its objections earlier and could have fleshed out its case on the quantification of the claimed sum in greater detail before the judge, we do not think that this delay suffices to show an abuse of process. as noted in vinmar at [131], “the threshold for abusive conduct is very high” [emphasis added], and it ought not to be met simply because a party has not raised its defence with sufficient expediency and diligence. in this connection, it should be noted that this is not a case where anan had ample time to refine its defence but deliberately chose to raise this defence on the quantification of the claimed sum as an afterthought. rather, the short timelines in the proceedings below meant that anan had less than two months from the date of the statutory demand to prepare its defence for the hearing of the winding-up application. further, we are unable to agree with the judge that anan had deliberately omitted to particularise its case on the quantum of the debt as it knew that there would in any case be a substantial debt in excess of the statutory minimum of $10,000. in our view, this is speculative and appears to be premised on an understanding that at least some debt is due and owing to vtb, when such is disputed and properly to be determined by arbitration.  appropriate order: dismissal or stay of winding-up application103 in deciding on the appropriate order to be made, we agree with mr lee that the court should ordinarily dismiss the entire winding-up application, as a stay of the winding-up application carries in itself severe consequences for the company.
+
+                   40
+
+
+
+
+foot note 40
+
+×
+
+
+
+  transcripts (ca 174 of 2018) p 18 lines 6–13.
+
+
+
+ a listed company, for instance, will be trading under the threat of being wound up, thereby possibly stifling critical capital injections into the company. 104 however, balanced against the company’s interests are the interests of its creditors, both individually and collectively. in this regard, we recognise that in rare situations, a debtor-company can strategically rely on the prima facie standard to forestall winding-up proceedings. in the hearing before us, we gave the example of a company which does not appear to be immediately insolvent, but which is faced with a substantial claim which could push the company to insolvency if the claim is subsequently proved to be legitimate; in relation to this claimed debt, the debtor-company is able to raise a prima facie but not a triable dispute. if the court dismisses the winding-up application on the basis that the dispute is governed by an arbitration agreement and that the prima facie standard of review is satisfied, subject to other applications to wind up the company, the potentially insolvent company would be given unrestrained freedom to continue trading and incurring ordinary business and legal expenses until the conclusion of the arbitration of the dispute. in the interim, the assets of the company could be further depleted, thereby reducing the pool of assets available to be distributed amongst the company’s creditors should the company be eventually wound up.
+
+                   41
+
+
+
+
+foot note 41
+
+×
+
+
+
+  transcripts (ca 174 of 2018) p 9 lines 1–23; transcripts (ca 12 of 2019) p 3 lines 1–13.
+
+
+
+105 alternatively, a debtor-company may face many claims, with the large claims being subject to arbitration while the smaller claims are not subject to arbitration. should the creditor of the substantial claim file a winding-up application, the company may easily stave off the application by demonstrating, on a prima facie standard, that there is a dispute relating to the debt, and that such dispute is subject to arbitration. in the meantime, the debtor-company may elect to pay off the smaller debts which are not subject to arbitration. the result could be that a company which is ridden by mounting debt may prefer, in a bid to avoid liquidation, to pay off smaller creditors who are not bound to arbitrate. this may work to the detriment of the creditors who are bound to arbitrate their disputes, but who may find the company’s assets significantly depleted once the arbitration award is rendered, such that satisfaction of the award would become difficult.
+
+                   42
+
+
+
+
+foot note 42
+
+×
+
+
+
+  transcripts (ca 174 of 2018) p 9 line 23 to p 10 line 16.
+
+
+
+106 we acknowledge that the law at present takes into account the interest of third-party creditors when a company is insolvent, or near the state of insolvency. in such a situation, directors owe a duty to consider the interests of creditors (liquidators of progen engineering pte ltd v progen holdings ltd [2010] 4 slr 1089 at [48]). furthermore, should the company undertake transactions that are deemed to be unfair preferences or at an undervalue, the liquidator (if one is subsequently appointed) may set aside such acts pursuant to ss 98 and 99 of the bankruptcy act (cap 20, 2009 rev ed) read with s 329 of the companies act if they occurred within the relevant period. the liquidator also has the power to initiate proceedings against errant directors for breaches of their fiduciary duties to the company. such errant conduct would include a director’s failure to act in the best interests of the company’s creditors, if the company was in a state of near insolvency at the relevant time.107 nonetheless, in our judgment, the difficulties presented by the examples at [104] and [105] above are not insignificant. however, for the reasons given above, they do not displace our decision to adopt the prima facie standard in winding-up proceedings where the dispute is governed by an arbitration agreement. any misuse of the prima facie standard to stay or dismiss winding-up proceedings can be addressed by the abuse of process control mechanism. furthermore, any possible misuse of the prima facie standard must be contrasted with the real possibility of abuse by creditors unilaterally choosing the insolvency route to bypass their obligation to refer the dispute to arbitration.108 a possible middle ground may be to require the prompt resolution of the dispute which is to be referred to arbitration. under the lasmos approach, other than showing that there is a dispute which is subject to arbitration, the debtor-company must also take steps to commence arbitration and to file an affirmation to the court demonstrating this (lasmos ([32] supra) at [31(3)]). this is broadly consistent with the approach mooted in but ka chon ([35] supra) at [71], which draws from the example in hollmet ([38] supra), whereby a debtor who has not satisfied the court that there are triable issues “can only expect a short adjournment to enable it to commence the arbitration and then, if sufficient evidence to establish a genuine dispute is still absent it can expect to have to give an undertaking to proceed with the arbitration with all due dispatch.”109 such an approach is attractive, as it would significantly militate against any undue delay which could stifle the prompt recovery of a legitimate debt. however, it may not always be workable as it would have the effect of compelling the defendant to initiate arbitration proceedings and seek a declaration of non-liability in respect of the creditor’s claims. as the privy council observed in anzen limited and others v hermes one limited [2016] 1 wlr 4098 (“anzen”), there are several issues with requiring a debtor to seek “mirror image declarations of non-liability”:(a) first, the requirement for a defendant to commence arbitration seeking a declaration of non-liability “might prove a substantial obstacle” as, for example, (i) the international chamber of commerce (“icc”) arbitration rules postulate that a person requesting arbitration is a claimant making claims, to which the respondent will have to respond. to request icc arbitration of the creditor’s claim, the putative debtor would have to specify why such claims should be rejected, and to seek negative declaratory relief (anzen at [11]); and(ii) the debtor would have to pay a non-refundable filing fee, and any advance to cover the costs of the arbitration (anzen at [11]).(b) secondly, the party commencing litigation may have no interest in pursuing or ability to pursue arbitration. if it is unable to litigate, it might let matters lie. nonetheless, the defendant would be required to commence arbitration to bring the litigation to an end, even though in commencing such arbitration it would simply be seeking a declaration of non-liability in respect of any claim made by the party in the litigation. such an approach might not “make much commercial sense” (anzen at [32]), and could lead to wasted costs.110 in our view, the appropriate middle ground to be struck may be reflected in the order granted by the court, once it is satisfied that there is a prima facie dispute that is governed by an arbitration agreement between the applicant creditor and the alleged debtor. in most cases, once this threshold is met, the court will dismiss the winding-up application, provided that the dispute is not raised by the debtor in abuse of the court’s process.111 however, in cases where the applicant creditor is able to demonstrate legitimate concerns about the solvency of the company as a going concern, and that no triable issues are raised by the debtor, the court can grant a stay (as opposed to a dismissal) of the winding-up proceedings. the creditor will then be given liberty to apply to the court to proceed with the winding up if, for example, it can be shown that the debtor-company has no genuine desire to arbitrate the dispute, and that it is taking active steps to stifle the arbitration. we should emphasise that such an assessment can be undertaken without entailing the court directing the defendant-debtor to commence arbitration proceedings given our reservations at [109] above. another instance would be when there is evidence to show that the debtor-company is paying off other creditors to stave off other winding-up proceedings, to the detriment of the applicant creditor, and there is no legitimate explanation for the different treatment of the creditors. 112 we must stress however that these examples are not to be utilised as a backdoor for creditors to resort to the triable issue standard. the prima facie standard is the applicable standard, and the merits of the dispute are irrelevant, save in the exceptional case where there are legitimate concerns about the solvency of the company as a going concern. such legitimate concerns may be raised by the balance sheet of the company, which is another marker of insolvency (encus international pte ltd (in compulsory liquidation) v tenacious investment pte ltd and others [2016] 2 slr 1178 at [53]), or by the fact that there are other winding-up applications against the company by other independent creditors, and there are substantiated concerns that the company is simply seeking to rest on the arbitration clauses to delay payment of legitimate debts. 113 in the present case, no evidence has been tendered before us to show that there are legitimate concerns relating to the solvency of anan. indeed, apart from vtb’s winding-up application, we have not been referred to any other winding-up application or claim that is pending against anan. further, there is also no evidence to suggest that anan is balance sheet insolvent, independent of vtb’s claim. as anan has demonstrated on a prima facie basis that it has a dispute in relation to vtb’s claimed debt which is governed by an arbitration agreement, this suffices for us to dismiss the winding-up application in its entirety.the parties’ arguments on the gmra and the relevance of the deloitte report114 as the parties had expended considerable time before us on the dispute in relation to the claimed sum and the valuation of the gdrs in the deloitte report, we shall briefly address them for completeness to show that the winding-up application would have been dismissed in any event even if we had adopted the higher triable issue standard. 115 as discussed at [21] above, the basis for anan’s dispute of the claimed sum rests on two levels. we are satisfied that each of these areas of dispute, whether taken individually or together, raise triable issues, notwithstanding our conclusion that the prima facie standard ought to apply. first, it is unclear to us whether vtb’s obligations under cl 10(f) of the gmra have been complied with. vtb had purported to proceed under the third “route” pursuant to cl 10(f)(iii), which permits the non-defaulting party to determine the net value of the gdrs based on the definition of net value in cl 10(e)(iii) of the gmra. however, it is clear from cl 10(f)(iii) that certain prerequisites must be met before that route can be invoked, namely that the non-defaulting party must have either endeavoured but failed to sell the gdrs in accordance with cl 10(f)(i), and must have determined that it would not be commercially reasonable to sell the gdrs at the prices bid or to obtain such quotations, or that it would not be commercially reasonable to use quotations obtained under cl 10(f)(ii). without making any findings on this issue, we observe that vtb’s approach in seeking quotations in accordance with cl 10(f)(ii), and thereafter using the same quotations and no more as the basis for the calculation of net value under cl 10(f)(iii), appears to be at odds with the three clearly delineated routes contemplated by cl 10(f). even though vtb’s expert mr franck risler has opined that vtb’s approach was in compliance with either cl 10(f)(ii) or cl 10(f)(iii),
+
+                   43
+
+
+
+
+foot note 43
+
+×
+
+
+
+  franck risler’s affidavit at para 2.6.
+
+
+
+ anan’s complaint as we understand it is not simply that the prerequisites for invoking cl 10(f)(iii) have not been met, but rather that vtb cannot purport to obtain quotations in accordance with cl 10(f)(ii), decide that it is not commercially reasonable to use those quotations, and yet use those exact quotations to determine the net value under cl 10(f)(iii). this appears to us at the very least to raise triable issues as to whether the obligations under cl 10(f) of the gmra have been complied with, and is clearly a dispute that ought to be resolved by arbitration. further, the very fact that the deloitte report and the report prepared by mr franck risler had arrived at opposing positions, seems to point to the presence of triable issues for determination at the arbitration. 116 secondly, anan’s dispute with the claimed sum pertains also to the valuation method adopted by vtb in arriving at the net value of us$2.50 per gdr. vtb argued that anan’s submissions are misconceived and that the deloitte report’s valuation of the gdrs is irrelevant, because cl 10(e)(iii) of the gmra clearly contemplates that it is vtb as the non-defaulting party who has the right to determine the appropriate valuation of the gdrs. even though cl 10(e)(iii) does provide vtb significant leeway in arriving at the net value, we are not convinced that the dispute is entirely baseless, as it is equally clear that cl 10(e)(iii), and specifically the language of “reasonable opinion” contained therein, does place some objective restraints on the valuation adopted by the non-defaulting party. in this regard, the fact of the sheer disparity between the valuation of the gdrs adopted by vtb and that stated in the deloitte report, together with the fact that the indicative quotes obtained by vtb which formed the basis of its calculations similarly showed a considerable variance, are significant in indicating that a dispute exists on a triable issue standard. again, the fact that the experts engaged by both parties are unable to agree on the proper valuation of the gdrs suggests that there are triable issues.117 vtb submitted that the gmra is governed by english law, and that under english law, the lender’s rights under the gmra are well-established in cases such as lbi ehf v raiffeisen bank international ag [2018] ewca civ 719 (“lbi”). like the present case, lbi involved a sale and repurchase agreement with securities provided as collateral for what was in essence a loan. the version of the gmra used in lbi stipulated that in the event of a default where the non-defaulting party fails to serve a default valuation notice within a specified time, the default market value of the securities was to be equal to the net value determined by the non-defaulting party, defined as “the amount which, in the reasonable opinion of the non-defaulting party, represents their fair market value, having regard to such pricing sources and methods […] includ[ing], without limitation, available prices for [similar] securities […] as the non-defaulting party considers appropriate”. this was broadly identical to cl 10(e)(iii) of the gmra in the present case. in lbi, an event of default occurred on the borrower’s insolvency, and the lender did not serve a default valuation notice on time. as it was common ground that the lender did not adopt the correct valuation process, the issue that arose for determination at the trial was what the default market value would have been if the lender had acted in accordance with the gmra, and specifically what the meaning of “fair market value” in the definition of net value was. on appeal, the borrower’s sole ground of appeal was that the judge had erred in finding that the assessment of “fair market value” could be based on quotations obtained in a distressed or illiquid market. in rejecting this argument, the english court of appeal emphasised that the quoted clause in the gmra gave a wide discretion to the non-defaulting party in determining the “fair market value”, and that in the absence of some express or implied limitation in the contract on the exercise of that discretion, the only limitation is that the decision-maker must have acted rationally and not arbitrarily or perversely (lbi at [38]). the argument that the assessment of “fair market value” must be by reference to a price agreed between a willing buyer and willing seller under no compulsion to trade, so that any illiquidity or distress in the market is not taken into account, is thus contrary to the express terms of the gmra and the wide discretion conferred on the non-defaulting party. 118 in our judgment, lbi does not assist vtb for two reasons. first, it has no bearing with regard to vtb’s alleged non-compliance with the three routes available under cl 10(f) of the gmra. secondly, even though lbi did find that a clause such as cl 10(e)(iii) confers a wide discretion on vtb in determining the net value of the gdrs, it does not allow us to conclude that vtb’s approach in the circumstances of the present case would have necessarily crossed the threshold of rationality. whether a contractual clause has been complied with would certainly require a contextual analysis of the facts of each case, notwithstanding that the clause is found in a standard contract that has been interpreted widely. in this regard, we note that the issue in lbi was determined at a trial and not summarily in a winding up setting. conclusion119 for the foregoing reasons, we allow the appeal, and reverse the order for anan to be wound up. 120 costs should follow the event. we note from the parties’ respective costs schedules that the bulk of the costs relate to their experts’ fees. anan’s expert fees amounted to approximately $230,000 while vtb’s expert fees amounted to about $436,000. in our view, it would be premature to award the expert fees at this stage. it seems to us that the expert fees would have been incurred in any event for the purposes of the arbitration or at the very least will be relied on by the parties in the arbitration in the light of our order striking out the winding-up application in favour of arbitration. 121 that being the case, we order that the liability for the expert fees should left to be decided by the arbitral tribunal. vtb is to pay the costs of the hearing below fixed at $30,000 inclusive of disbursements and the costs of the appeal fixed at $70,000 inclusive of disbursements and such costs shall include the costs for ca/sum 33/2019 and ca/sum 89/2019. the usual consequential orders will apply.sundaresh menon    andrew phang boon leong           judith prakashchief justice     judge of appeal            judge of appeal           steven chong                 quentin lohjudge of appeal      judgelee eng beng sc, chew xiang and cheong tian ci, torsten (rajah & tann singapore llp) for the appellant;philip antony jeyaretnam sc, shobna d/o v chandran, lee chia ming, ashwin nair vijayakumar and alexander choo wei wen (dentons rodyk & davidson llp) for the respondent.

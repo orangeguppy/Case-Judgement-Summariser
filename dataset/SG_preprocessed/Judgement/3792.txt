@@ -1,0 +1,868 @@
+in the court of appeal of the republic of singapore[2019] sgca 36civil appeal no 204 of 2018betweenfar east square pte ltd… appellant andyau lee construction (singapore) pte ltd… respondentin the matter of originating summons no 258 of 2018in the matter of section 27 of the building and construction industry security of payment act (cap. 30b)andin the matter of order 95, rule 2 of the rules of court (cap. 322, rule 5)andin the matter of sop aa406 of 2017betweenyau lee construction (singapore) pte ltd… applicantandfar east square pte ltd… respondent grounds of decision[building and construction law] — [dispute resolution][building and construction law] — [building and construction contracts][building and construction law] — [architects, engineers and surveyors] this judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.far east square pte ltd vyau lee construction (singapore) pte ltd [2019] sgca 36court of appeal — civil appeal no 204 of 2018sundaresh menon cj, steven chong ja and quentin loh j26 march 201916 may 2019 steven chong ja (delivering the grounds of decision of the court):introduction1 this court in audi construction pte ltd v kian hiap construction pte ltd [2018] 1 slr 317 (“audi construction”) at [69]–[70] decided that the scheme of the building and construction industry security of payment act (cap 30b, 2006 rev ed) (the “sopa”) imposes on an employer a duty to speak by way of a payment response in fully spelling out its objections, jurisdictional or otherwise, and accordingly its reasons for withholding payment so that the claimant is not caught by surprise at the adjudication. underpinning this duty is the consideration that such claimants should be afforded the opportunity to rectify the defects which give rise to these objections, if they so choose. it is implicit that such defects must be capable of being rectified or cured. furthermore, although we held that the duty to speak extends to “any” jurisdictional objection, it is clear that our holding was predicated on the terms of the contract and the sopa; both of which “define the rights the parties have in relation to each other”: at [62]. in other words, the objection must fall within the ambit of the contract and the sopa. 2 despite its recent vintage, audi construction has been cited in more than ten decisions by the high court and this court, of which five are sopa-related. this included the decision of the high court judge below (the “judge”) in yau lee construction (singapore) pte ltd v far east square pte ltd [2018] sghc 261 (the “decision below”). the judge, in applying audi construction, found that the duty to speak extended to jurisdictional objections even in respect of payment claims which were submitted after the issuance of the final certificate by the architect in a construction project governed by the singapore institute of architects articles and conditions of building contract (measurement contract), (7th edition, april 2005), (the “sia articles of contract” and the “sia conditions of contract” respectively, collectively the “sia form of contract”). given that the employer had omitted to file any payment response, the judge found that it was estopped from raising any jurisdictional objection including the objection that such a payment claim was outside the purview of the sopa.3 we heard and allowed the appeal on 26 march 2019 with brief oral grounds and indicated that we will issue full grounds in due course. we stated, inter alia, that upon the issuance of the final certificate under the terms of the sia form of contract, the architect became functus officio and therefore the present claim (which was a payment claim submitted after the issuance of the final certificate by the architect) was not a progress claim within the meaning of the sopa. that being the case, the adjudication proceedings were effectively void and the employer could not be estopped from challenging the adjudication determination.4 this case is thus a good opportunity for us to explain the precise scope and correct application of our decision in audi construction. we will explain, as a matter of principle, why any estoppel arising from an alleged failure to speak by way of an omission to file a payment response cannot arise in respect of a payment claim which was clearly outside the ambit of the sopa. given that the sia form of contract is one of the most widely adopted forms of construction contract in singapore, this appeal also provides an opportune platform for this court to properly consider the interplay between the sopa and the sia form of contract. specifically, we will examine how the role of the architect as provided for in the sia form of contract affects the progress payment regime and the impact of that role in the context of the duty to speak under the sopa.5 in light of the foregoing, there are three main issues which we consider in these grounds:(a) first, whether further payment claims can be submitted after a valid final certificate has been issued by the architect under the sia form of contract.(b) second, if the answer to the first issue is in the negative, whether the employer is nevertheless estopped from raising such an objection as it has not raised this objection by way of a payment response. this issue will require a consideration of the precise scope and application of our decision in audi construction.(c) third, independent of the answer to the second issue, whether the submission of a payment claim after the issuance of the final certificate would constitute a “patent error” as most recently defined by this court in comfort management pte ltd v ogsp engineering pte ltd [2018] 1 slr 979 (“comfort management”).facts6 the background facts of this appeal are straightforward and not in dispute. the appellant, far east square pte ltd (“far east”), is the developer of an integrated commercial and residential development at yio chu kang/seletar road (the “project”).
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  yau lee construction (singapore) pte ltd v far east square pte ltd [2018] sghc 261 (“gd”) at [2].
+
+
+
+ the respondent, yau lee construction (singapore) pte ltd (“yau lee”) was engaged as the main contractor for the project. yau lee’s engagement was pursuant to a letter of award dated 29 november 2010, which incorporated with amendments the sia form of contract (the “contract”).
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  1 ab 129.
+
+
+
+7 the final phase of the works for the project was completed on 6 may 2014.
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  gd at [3].
+
+
+
+ the maintenance period for the works lasted from 6 may 2014 to 5 august 2015. clause 31(11) of the sia conditions of contract provided for the contractor to submit its final claim to the architect of the project (the “architect”) before the end of the maintenance period.
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  1 ab 189.
+
+
+
+ despite this, yau lee submitted 18 payment claims between 16 november 2015 and 23 july 2017 (the “18 payment claims”). the architect issued interim certificates in respect of the 18 payment claims, which were deemed to be far east’s payment responses under cl 31(3)(c) of the sia conditions of contract.
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  gd at [4].
+
+
+
+ 8 on 4 august 2017, the architect issued the maintenance certificate, which certified that all defects had been notified to yau lee and all outstanding works had either been made good or taken into account by way of a separate letter of undertaking (the “maintenance certificate”).
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  2 ab 39–44.
+
+
+
+ notably, the 18 payment claims while issued after the end of the maintenance period, were submitted before the architect issued the maintenance certificate.9 on 23 august 2017, yau lee submitted a further payment claim; payment claim number 73 (“pc 73”).
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  2 ab 68.
+
+
+
+ 13 days later, on 5 september 2017, the architect issued to yau lee a letter described as the final certificate (the “final certificate”), certifying the final balance payable from far east to yau lee in the sum of $1,545,776.20.
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  2 ab 205–206.
+
+
+
+ on 12 september 2017, far east issued a payment response to yau lee entitled “payment response reference number 73 (final)” (“pr 73”).
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  2 ab 208–209.
+
+
+
+ yau lee responded with a letter that same day, stating that they disagreed with the response amount contained in pr 73.
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  2 ab 224.
+
+
+
+ nevertheless, yau lee issued an invoice to far east for the sum stated in pr 73.
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  2 ab 225.
+
+
+
+10 on 24 october 2017, yau lee submitted yet another payment claim; payment claim number 74 (“pc 74”).
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  2 ab 101.
+
+
+
+ far east did not issue a payment response to pc 74.
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  gd at [7].
+
+
+
+ the architect instead wrote to inform yau lee that since the final payment claim had to be submitted before the end of the maintenance period and yau lee had failed to do so, it had proceeded to issue the final certificate within three months from the issue of the maintenance certificate in accordance with cl 31(12)(a) of the sia conditions of contract.
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  2 ab 227.
+
+
+
+11 despite this letter from the architect, yau lee submitted a further payment claim on 24 november 2017; payment claim number 75 (“pc 75”).
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  2 ab 130.
+
+
+
+ other than the difference in the dates, pc 75 is exactly the same as pc 74. the architect issued a further letter in response stating that there will be no further progress payments after the issuance of the final certificate.
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  2 ab 229.
+
+
+
+ we should mention that pc 75 is largely similar to pc 73 save for the sums which were paid under pr 73 as well as some reductions in the sums claimed for additional preliminaries and prime costs sum and direct contracts.12 on 27 december 2017, yau lee lodged adjudication application sop/aa 406 of 2017 (the “adjudication application”) in relation to pc 75.
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  2 ab 231–237.
+
+
+
+ far east duly filed its adjudication response on 5 january 2018.
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+  3 ab 4–7.
+
+
+
+ an adjudication determination was issued on 14 february 2018 (the “adjudication determination”) by the adjudicator, mr tai chean ming (the “adjudicator”).
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+  1 ab 73–126.
+
+
+
+13 in the adjudication determination, the adjudicator found far east liable to pay yau lee the sum of $2,276,284.68.
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+  1 ab 75, para 3.1.
+
+
+
+ included in this sum were yau lee’s claims for additional preliminaries arising out of prolongations to the works, which were partially allowed by the adjudicator.
+
+                   21
+
+
+
+
+foot note 21
+
+×
+
+
+
+  1 ab 118, para 132; 1 ab 119, para 139.
+
+
+
+ it should also be noted that the adjudicator first examined far east’s objection that pc 75 was submitted after the issuance of the final payment claim and/or the final certificate and was therefore invalid for failing to comply with the sia conditions of contract and s 10(2)(a) of the sopa.
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+  1 ab 82, para 26.1.
+
+
+
+ however, the adjudicator agreed with yau lee and held that because far east had not raised this objection in a payment response, he was “prohibited” from considering the objection pursuant to s 15(3) of the sopa.
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+  1 ab 89, para 47.
+
+
+
+ in this regard, the adjudicator considered himself bound by our decision in audi construction.
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+  1 ab 87, paras 40–41.
+
+
+
+14 yau lee subsequently filed originating summons no 258 of 2018 to enforce the adjudication determination. in response, far east filed summons no 1455 of 2018 for the adjudication determination to be set aside.decision below15 far east’s primary argument in the court below was that pc 75 was invalid as the sia conditions of contract did not allow yau lee to submit further payment claims after the final payment claim and/or after the final certificate had been issued by the architect. therefore, the adjudicator lacked jurisdiction as pc 75 did not fall within the purview of the sopa, and accordingly the adjudication determination had to be set aside.
+
+                   25
+
+
+
+
+foot note 25
+
+×
+
+
+
+  gd at [11]–[12].
+
+
+
+ 16 the judge relied on audi construction and found that far east was estopped from challenging the validity of pc 75 given that it had not raised its objection to pc 75 in a payment response.
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+  gd at [39].
+
+
+
+ the judge expressly rejected far east’s argument that a respondent is not obligated to file a payment response if the payment claim is invalid because it falls outside the sopa from the outset. he did so on the basis of his understanding that we had, in audi construction, stated that the duty to speak arises in relation to any jurisdictional objection to a payment claim.
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+  gd at [35]–[36].
+
+
+
+17 in any event, the judge found pc 75 to be a valid payment claim. he stated that far east and the architect were not entitled to unilaterally treat pc 73 as the final payment claim and to issue a final certificate on that basis; thereby preventing any further payment claims from being submitted thereafter. the judge held that to allow otherwise would result in injustice to the contractor who may have intended to include other heads of claim if the payment claim in question were to be treated as the final payment claim.
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+  gd at [46].
+
+
+
+ the judge also found that pursuant to s 10(4) of the sopa, yau lee would be entitled to submit pc 75 even if pc 73 were deemed to be its final payment claim, on the basis that pc 75 was essentially a repeat of pc 73 which had not yet been adjudicated upon.
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+  gd at [48].
+
+
+
+18 for completeness, we note that far east had also raised two other arguments in relation to: (a) whether the adjudication application was made within the applicable timelines; and (b) whether the adjudicator had exceeded his jurisdiction by allowing yau lee’s claim for additional preliminaries arising from prolongation. both of these arguments were rejected by the judge. however, since we did not have to refer to these two arguments in our brief oral grounds in allowing this appeal, it is no longer necessary to address them.parties’ cases19 given that our focus in these grounds is on the three issues identified at [5] above, we reproduce only the parties’ arguments that relate to those issues.appellant’s case20 on appeal, far east reiterated its argument that the sia conditions of contract provides for the entire certification process to come to an end with the issuance of the final certificate. since pc 75 was issued after the final certificate, it is necessarily invalid and the adjudication determination that arose from pc 75 must be set aside.
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+  appellant’s written submissions, paras 30–36.
+
+
+
+ far east submitted that even if its alleged acceptance of the 18 payment claims is regarded as a waiver of the requirement for a final payment claim to be submitted before the end of the maintenance period under cl 31(11) of the sia conditions of contract, it should not be regarded as a blanket waiver of the entire certification process.
+
+                   31
+
+
+
+
+foot note 31
+
+×
+
+
+
+  appellant’s written submissions, para 32.
+
+
+
+21 far east also argued that pc 73 should be regarded as a final payment claim as it bears the “substantive hallmarks of a final claim”, notwithstanding yau lee’s subjective intentions to the contrary. therefore, pc 75 is invalid as that there is no entitlement under the sia conditions of contract for a contractor to serve any further payment claim after the submission of its final payment claim.
+
+                   32
+
+
+
+
+foot note 32
+
+×
+
+
+
+  appellant’s written submissions, paras 37–40.
+
+
+
+22 with regard to the judge’s finding that far east was estopped from raising any objections arising from its failure to file a payment response in relation to pc 75, far east argued that the duty to speak as set out in audi construction does not extend to inoperative payment claims which fall outside the ambit of the sopa from the outset. since yau lee was never entitled to submit pc 75, it follows that far east did not have a corresponding obligation to raise a payment response to pc 75.
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+  appellant’s written submissions, paras 25–28.
+
+
+
+23 finally, far east argued that yau lee’s reliance on pc 75 as a valid payment claim capable of reference to adjudication under the sopa constitutes a “patent error” which the adjudicator had failed to apply his mind to. far east cited comfort management, where it was held that a respondent who had not filed a payment response remains entitled to raise patent errors in the material properly before the adjudicator. in the premises, even if far east had not issued a payment response to pc 75, it should not be precluded from raising a patent error to set aside the adjudication determination.
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+  appellant’s written submissions, paras 48–54.
+
+
+
+respondent’s case24 in response, yau lee argued that there was nothing in the sia form of contract which precluded it from submitting further payment claims after the issuance of the final certificate. yau lee submitted that even if the architect failed to provide a payment certificate in response to a payment claim, far east remains obligated to provide a payment response pursuant to cl 31(3)(b) of the sia conditions of contract if it wishes to raise any objections it had to that payment claim.
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+  respondent’s written submissions, para 22.
+
+
+
+ in any event, even if there were provisions in the sia form of contract which precluded the submission of further payment claims after the issuance of the final certificate, these provisions would be inoperative as they would be regarded as “excluding, modifying, restricting or prejudicing the operation” of the sopa pursuant to ss 36(1) and (2) of the sopa.
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+  respondent’s written submissions, para 24.
+
+
+
+ 25 yau lee also cited grouteam pte ltd v ues holdings pte ltd [2016] 5 slr 1011 (“grouteam”) as authority for the proposition that pursuant to s 10(4) of the sopa, repeat claims are permissible as long as they have not been adjudicated upon on the merits. as such, even if pc 73 were regarded as the final payment claim, pc 75 is a repeat claim of pc 73 and can thus be validly submitted under the sopa.
+
+                   37
+
+
+
+
+foot note 37
+
+×
+
+
+
+  respondent’s written submissions, paras 26–27.
+
+
+
+26 with regard to far east’s submission that it did not have a duty to speak in relation to pc 75 because it was outside the purview of the sopa, yau lee raised the following arguments. first, a respondent’s duty to speak under s 15(3) of the sopa arises upon service of a payment claim, regardless of whether the adjudicator has threshold or substantive jurisdiction. so long as an adjudicator has the power under s 17(3) of the sopa to determine an objection, a respondent would have the corresponding obligation to raise that objection before the adjudicator. as the adjudicator did have the power under s 17(3) of the sopa to determine the pc 75 objection, far east had a corresponding duty to speak which it did not discharge.
+
+                   38
+
+
+
+
+foot note 38
+
+×
+
+
+
+  respondent’s written submissions, paras 31–38.
+
+
+
+ second, far east’s objection as to the validity of pc 75 merely went towards the adjudicator’s substantive jurisdiction and not his threshold jurisdiction. so long as there is a purported payment claim and service thereof, the appointed adjudicator will have threshold jurisdiction. matters such as the validity of the payment claim would only go towards the adjudicator’s substantive jurisdiction.
+
+                   39
+
+
+
+
+foot note 39
+
+×
+
+
+
+  respondent’s written submissions, paras 39–42.
+
+
+
+ in any event, yau lee argued that audi construction made clear that a respondent has a duty to issue a payment response regardless of its belief as to the validity of the payment claim and service thereof.
+
+                   40
+
+
+
+
+foot note 40
+
+×
+
+
+
+  respondent’s written submissions, para 47.
+
+
+
+27 as for far east’s argument that pc 75 constituted a patent error, yau lee submitted that patent errors constitute an exceptional and extremely narrow category of errors. in the present case, the validity of pc 75 was an issue of considerable legal complexity and was clearly not an obvious or manifest error.
+
+                   41
+
+
+
+
+foot note 41
+
+×
+
+
+
+  respondent’s written submissions, paras 52–55.
+
+
+
+our decisionissue 1: whether further payment claims can be submitted after the final certificate has been issued by the architect under the sia form of contract28 in our judgment, when dealing with a construction contract which incorporates the sia form of contract, any payment claim which is submitted after the architect has issued the final certificate is outside the ambit of the sopa. in order to appreciate how we arrived at our determination, it is first essential to explain the manner in which the terms of the sia form of contract interact with the provisions of the sopa.the centrality of the construction contract to the sopa29 it has often been said that cash flow is the life blood of those in the building and construction industry. indeed, the sopa was enacted to facilitate cash flow in the construction industry by establishing a fast and low cost adjudication system to resolve payment disputes: w y steel construction pte ltd v osko pte ltd [2013] 3 slr 380 at [18]–[19]. in chow kok fong, security of payments and construction adjudication (lexisnexis, 2nd ed, 2013) (“security of payments and construction adjudication”), the sopa was described as comprising “two central pillars” (at para 3.9):although the text of the singapore sop act has been divided into seven parts, for the purpose of exploring its provisions it is convenient to view the main act as consisting of two central pillars. the first of these is the conferment on the party undertaking construction work or supplying goods and services a right to progress payment. underpinning this, the singapore sop act provides for the making of a payment claim and the requirement of a payment response … these matters constitute the payment processes. the second pillar is the adjudication machinery. this part of the singapore sop act deals with the making of an adjudication application, the duties and powers of adjudicators and the process relating to the making of the adjudication determination. it also contains a series of enforcement provisions: these include the right of the principal to make direct payment, the creation of a lien on unpaid goods, the right to suspend work or supply and the enforcement of an adjudication determination as a judgment debt. [emphasis added] 30 that being said, we must stress that the sopa is merely a legislative framework to expedite the process by which a contractor may receive payment through the payment certification/adjudication process in lieu of commencing arbitral or legal proceedings. it does not, in and of itself, grant the contractor a right to be paid. the right of a contractor to be paid ultimately stems from the construction contract; pursuant to which construction works are carried out. indeed, a “progress payment” is defined in s 2 of the sopa as “a payment to which a person is entitled for the carrying out of construction work, or the supply of goods or services, under a contract” [emphasis added]. in the same vein, it was noted in security of payments and construction adjudication (at para 3.14) that: … the emphasis of the singapore sop act is on progress payments. this is plainly stated in section 5 of the singapore sop act which provides that ‘any person who has carried out any construction work, or supplied any goods or services, under a contract is entitled to progress payment’. … the qualification ‘under a contract’ in section 5 serves to premise the right to be paid on the performance of a contract so that if there is a breach of performance, the right to be paid does not crystallise. however, while the right to be paid derives from the underlying contract, the right to be paid progressively – the entitlement to progress payments – is given statutory force by the singapore sop act. [emphasis added]31 in our judgment, the sopa was not meant to alter the substantive rights of the parties under the contract, neither was it intended to give rise to a payment regime independent of the contract. in order to claim for progress payments under the sopa, it is imperative for the contractor to first establish that he is entitled to such payment under the contract. it follows that in order to determine a contractor’s entitlement to submit payment claims under the sopa, the court must necessarily have regard to the provisions of the underlying construction contract.the payment mechanism under the sia form of contract32 we turn then to examine the provisions of the underlying construction contract in the present case, which incorporates the sia form of contract. it cannot be gainsaid that under the sia form of contract, the architect plays a fundamental role in the entire construction process. in chin ivan v h p construction & engineering pte ltd [2015] 3 slr 124 (“chin ivan”), we explained the role of the architect and the architect’s certificate under the sia form of contract (at [13]):the roots of the sia [form of contract] can be traced to a set of standard forms of contract and subcontract drafted by the late mr ian duncan wallace qc. these standard forms were first introduced in 1980 and made significant changes to the regime reflected in the then existing standard [building and construction] contracts. the standard forms were intended to address a number of issues that had bedevilled the local [building and construction] industry; in particular, the fact that contractors sometimes found themselves at the mercy of employers who might withhold payment of certified sums on account of alleged counterclaims and set-offs. an important feature of the sia [form of contract] is the regulation, by way of architect’s certificates, of the payment of monies due to contractors and of the deductions that can be made by employers. the architect’s certificate serves as the basis for both the contractor’s claim for payment of monies and also the employer’s right to make deductions against such claims. under a [building and construction] contract which incorporates the sia [form of contract] … , the architect, in essence, is the quasi-adjudicator of both the contractor’s right to receive payment for work done as well as the employer’s right to withhold payment on account of any cross-claim(s). this fundamental role of the architect and his certificates is clearly described in the singapore institute of architects’ guidance notes on articles and conditions of building contract (singapore institute of architects, 3rd ed, 2011) (“the guidance notes”) as follows (at p 1):2. architect’s powersthe scheme of the contract is to ensure that virtually all areas of possible financial controversy, except most cases of breach of contract by the employer and all terminations of the contract by either party, are to be regulated by the certificates of the architect. …[emphasis in original in italics; emphasis added in bold italics]33 this role is reinforced by the terms of the sia form of contract in the present case, under which article 3 of the sia articles of contract provides:
+
+                   42
+
+
+
+
+foot note 42
+
+×
+
+
+
+  1 ab 156.
+
+
+
+the term “architect” in the contract shall meanmr. lim meng hwaof the firm of addp architects llpby whom or under whose administrative control on behalf of the employer the works have been designed and the contract documents prepared, and under whose supervision or administrative control on behalf of the employer the works will be carried out. …[emphasis added]it is evident from the foregoing that the sia form of contract was designed to be administered by an architect. in fact, in the absence of a person duly appointed to perform the duties of the architect under the contract, the processes leading to payments, approvals and instructions will grind to a halt: chow kok fong, the singapore sia form of building contract (sweet & maxwell, 2013) (“the singapore sia form of building contract”) at paras 2.13 and 2.15.34 among his various responsibilities, the architect plays an integral role in the payment certification process under the contract. interim payments to the contractor are governed by cl 31 of the sia conditions of contract. specifically, cl 31(2)(a) provides for the situations under which a contractor shall be entitled to serve a payment claim on the employer. notably, a copy of the payment claim must always be forwarded to the architect. the amended cl 31(3)(a) of the sia conditions of contract as found in the contract provides that “[w]ithin 14 days after receipt of the payment claim or the day on which the contractor is required under clause 31(2) to submit his payment claim, whichever is later, the architect shall … issue an interim certificate to the contractor”
+
+                   43
+
+
+
+
+foot note 43
+
+×
+
+
+
+  1 ab 232.
+
+
+
+ [emphasis added]. this is in contrast to cl 31(3)(b) which merely states that the employer “shall be entitled”
+
+                   44
+
+
+
+
+foot note 44
+
+×
+
+
+
+  1 ab 232.
+
+
+
+ [emphasis added] to issue a payment response. indeed, if the employer elects not to file a payment response, cl 31(3)(c) provides that the interim certificate issued by the architect shall be deemed the payment response from the employer and shall have full effect as ascribed to a payment response under the sopa. therefore, while an employer may elect to file a payment response, it is mandatory for the architect to issue an interim certificate in response to a payment claim from a contractor.35 the importance of an architect’s certificate in the payment process under the sia form of contract was also underscored in chin ivan at [20]:… a properly-issued architect’s certificate functions as a condition precedent to the contractor’s right to receive payment and the employer’s right to deduct claims (if any). the “financial machinery” of a standard form sia contract is “regulated by the certificates of the architect”, which, if issued in accordance with cl 31(13), place the contractor or the employer (as the case may be) “in a position to enforce payment … [or] to deduct his legitimate claims” respectively. a contractor’s right to receive payment and an employer’s right to deduct claims would typically not even materialise if the particular architect’s certificate in question was not issued in accordance with the contract concerned. this much is also noted in chow kok fong, law and practice of construction contracts (sweet & maxwell asia, 4th ed, 2012) … (at vol 1, paras 8.29–8.30):8.29 construction contracts frequently require that a contractor’s entitlement to payment be conditioned on the issue of a certificate. in these situations, it has been suggested that the issue of the certificate thus operates as a condition precedent to payment. the general principle is that a contractor who fails to obtain the certificate has no basis to claim for payment in law or in equity. …8.30 effectively, the right to be paid for work done derives not from the actual execution of the work or supply of materials but from the issue of the payment certificate in respect of the work. …[emphasis added in bold italics]36 however, the payment certification process, and indeed the works under the contract itself, comes to an end once the architect issues the final certificate. the final certificate shows the architect’s final measurement and valuation of the works in accordance with the terms of the contract, and states the final balance between the contractor and the employer. this “finalisation of accounts” typically signifies the end of the project works: the singapore sia form of building contract at para 1.2. 37 additionally, the final certificate is generally issued after the maintenance certificate is issued, by which time the works under the contract would be completed. clause 31(12)(a) of the conditions of contract states that “[w]ithin 3 months of receipt from the contractor of [the final claim documents referred to in cl 31(11)] or of the issuance of the maintenance certificate (whichever is the later) the architect shall issue a final certificate” [emphasis added”].
+
+                   45
+
+
+
+
+foot note 45
+
+×
+
+
+
+  1 ab 189.
+
+
+
+ clause 27(5) of the conditions of contract states that the issuance of the maintenance certificate by the architect “shall finally discharge the contractor from any further physical attendance upon the works for the purpose of making good defects”.
+
+                   46
+
+
+
+
+foot note 46
+
+×
+
+
+
+  1 ab 182.
+
+
+
+ upon the issuance of the final certificate, there would in most cases be no further works undertaken pursuant to the contract.38 another important consequence of the issuance of the final certificate is that the architect’s duties under the contract are concluded and he becomes functus officio: hudson’s building and engineering contracts (nicholas dennys & robert clay gen ed) (sweet & maxwell, 13th ed, 2015) at paras 4-027–4-028. for this reason, cl 37(3)(i) of the sia conditions of contract states that an architect’s power to issue further certificates to correct earlier interim certificates continues “until his final certificate”.
+
+                   47
+
+
+
+
+foot note 47
+
+×
+
+
+
+  1 ab 199.
+
+
+
+ similarly, the architect’s power to determine extensions of time under cl 23(3),
+
+                   48
+
+
+
+
+foot note 48
+
+×
+
+
+
+  1 ab 178.
+
+
+
+ and his power to issue delay certificates under cl 24(1),
+
+                   49
+
+
+
+
+foot note 49
+
+×
+
+
+
+  1 ab 179.
+
+
+
+ only extends “up to and including the issue of the final certificate”.whether pc 75 could be submitted after the architect became functus officio39 in the light of the integral role that the architect plays in the administration of the sia form of contract, it is axiomatic that once he becomes functus officio, the entire certification process under the contract comes to an end. as we observed at [30]–[31] above, the entitlement to submit progress claims under the sopa stems from the underlying contract. once the role of the architect under the contract has come to an end, there is simply no basis to submit further payment claims. as it is undeniable that the architect’s certificate is a “condition precedent” to the contractor’s right to receive payment, the contractor would no longer be able to receive progress payments once the architect loses his capacity to issue such certificates. hence, any payment claim that is issued after the architect is functus officio would be incapable of being certified by the architect so as to entitle the contractor to progress claims under the sopa.40 that said, we emphasise that there is a distinction between a situation where an architect has improperly withheld a payment certificate, and a situation where an architect is unable to issue a further certificate by reason of his functus officio status. we accept that in the former situation, the contractor may bring a claim to adjudication under the sopa if the architect has improperly withheld the issuance of a payment certificate despite the submission of a valid payment claim. however, where the architect is unable to certify any further payment claims, the payment claim itself would be outside the ambit of the sopa and therefore incapable of supporting an adjudication under the sopa.41 another important caveat that we should highlight is that in order for the final certificate to render the architect functus officio and bring the works under the contract to an end, the final certificate must prima facie comply with the requirements in the sia form of contract. in chin ivan, we listed the requirements that had to be complied with in order for an architect’s certificate to be accorded temporary finality (at [18]):…the granting of such temporary finality to an architect’s certificate is subject to certain conditions that are stipulated within cl 31(13) [of the sia conditions of contract]. first, the certificate must be issued “in the absence of fraud or improper pressure or interference by either party”. secondly, it must be issued “strictly in accordance with the terms of the contract” [emphasis added]. for example, it cannot be issued at a time when the contractor has yet to submit a payment claim. thirdly, as can be seen from the need for the architect to clarify, upon either party’s request “[i]n any case of doubt”, what was or was not taken into account in his certificate, the architect must have considered the matters which are said to have been dealt with in his certificate. this requirement that the architect must exercise his own professional judgment when issuing a certificate was specifically noted by warren l h khoo j in aoki corp v lippoland (singapore) pte ltd [1995] 1 slr(r) 314, where he observed as follows (at [36]):needless to say, the architect must exercise his function as the certifier in good faith and to the best of his uninfluenced professional judgment, even though he is usually appointed by the employer. otherwise, the object of the provisions for temporary finality could be defeated.42 in our view, the requirements which have to be satisfied in order for an architect’s certificate to be accorded temporary finality would be equally applicable for a final certificate to be valid. if, for example, an architect purported to issue a final certificate before the project has even reached the stage of practical completion, or before the end of the maintenance period, the final certificate would be manifestly invalid and the contractor should still be able to avail itself of its rights and remedies under the sopa, including the issuance of further payment claims. this ensures that the architect cannot unilaterally and erroneously issue a final certificate and thereby deprive the contractor of its right to make progress claims under the sopa.43 flowing from the discussion above, we hold that pc 75 was outside the ambit of the sopa from the outset and was incapable of supporting the adjudication application. it is undisputed that pc 75 was submitted by yau lee after the issuance of the final certificate, by which time the architect was functus officio. moreover, the final certificate had been issued in accordance with the terms of the sia form of contract, and was therefore prima facie valid. we note that mr raymond chan, counsel for yau lee, had not suggested otherwise.44 it should also be mentioned that yau lee’s claim under pc 75 was essentially for additional preliminaries arising out of delays in the project. before us, mr chan accepted that if the claim for additional preliminaries were characterised as a claim for damages, the architect would not have the power to certify damages under the sia form of contract, and the adjudicator would also have no power to consider such claims for damages. mr chan sought to characterise yau lee’s claim for additional preliminaries as a claim for work done. his argument was that even though the architect had previously certified the valuation of the variations and measurement of the project works, he had certified them erroneously because his earlier certificates did not reflect an accurate mark up for the “t” items under cl 5(2) of the sia conditions of contract. we were prepared to accept that if yau lee had persuaded the architect at that point in time that he had not adequately dealt with the “t” adjustments in his certificate, the architect could have issued a further certificate to correct his earlier certificate pursuant to cl 31(6) of the sia conditions of contract. however, as we stated at [38] above, cl 37(3)(i) makes it clear that the architect’s power to issue further certificates to correct earlier certificates continues only up to the issuance of the final certificate. 45 for completeness, we would also briefly address far east’s argument that pc 73 was yau lee’s final payment claim, and pc 75 was therefore invalid since it was submitted after the final payment claim. far east relied on lau fook hoong adam v gth engineering & construction pte ltd [2015] 4 slr 615 (“lau fook hoong”) for the proposition that no further payment claims should be submitted after the final payment claim as this would defeat the final nature of the final payment claim and accounting process (at [48]–[49]). the judge held at [47] of his decision that lau fook hoong was inapplicable to the present case on the basis that pc 73 was not the final payment claim. the judge appeared to have focused his inquiry on whether or not pc 73 was in fact a final payment claim; and if it were not, lau fook hoong would be inapplicable and pc 75 would be valid. however, we are of the view that it was immaterial whether or not pc 73 was yau lee’s final payment claim. the key question, which the judge did not consider, was whether a payment claim could be validly submitted after the architect had issued the final certificate. for the reasons as explained at [36]–[39] above, no further payment claims can be validly issued after the final certificate has been issued. therefore, even if pc 73 were not the final payment claim, pc 75 would still be invalid because it was indisputably submitted after the final certificate was issued. as such, there is strictly no need for us to determine whether pc 73 was the final payment claim and we will say nothing more on the issue.46 we should also take the opportunity to clarify certain misconceptions in relation to when an architect is entitled to issue the final certificate. the judge stated at [46] of the decision below: in this regard, [far east] and the [architect] were not entitled to unilaterally treat pc 73 as the final payment claim, proceed to issue the final certificate, and prevent any further payment claims from being submitted thereafter by the contractor. to allow otherwise would result in injustice to the contractor who may have intended to include other heads of claim if the payment claim in question was to be treated as the final claim. it appears that the judge was under the impression that the architect could only issue the final certificate after the submission of the final payment claim. with respect, we disagree. first, it is not the case that the architect necessarily had to regard pc 73 as the final payment claim in order to issue the final certificate. as we alluded to at [41] above, cl 31(12)(a) of the sia conditions of contract states that the architect shall issue the final certificate “[w]ithin 3 months of receipt from the contractor of the [final claim documents referred to in cl 31(11)] or of the issue of the maintenance certificate (whichever is the later)” [emphasis added]. if a contractor for whatever reason chooses not to issue a final payment claim, and the architect proceeds to issue the maintenance certificate, this triggers a separate timeline for the issuance of the final certificate. indeed, the architect had on 7 november 2017 specifically written to inform yau lee that since it had failed to submit its final payment claim before the end of the maintenance period, it had proceeded to issue the final certificate pursuant to cl 31(12)(a) of the conditions of contract (see [10] above). in this regard, for the purposes of examining the validity of pc 73, it was irrelevant that the 18 payment claims were submitted and certified after the end of the maintenance period since they were all issued before the issuance of the maintenance certificate. once the maintenance certificate was issued, the separate timeline under cl 31(12)(a) was triggered and the architect could thereafter validly issue the final certificate within three months and duly did so on 5 september 2017.47 secondly, the manner in which the sia form of contract is structured ensures that an architect cannot unilaterally end the payment process so as to cause “injustice to the contractor who may have intended to include other heads of claim if the payment claim in question was to be treated as the final claim”, the precise point identified by the judge at [46] of the decision below. clause 31(11) provides for the final claim to be submitted to the architect before the end of the maintenance period. therefore, in the usual case, a contractor should endeavour to put in its final claim documents before the end of the maintenance period, or seek an extension from the architect if it is unable to do so. if, as was the case before us, a contractor continues submitting payment claims even after the end of the maintenance period, the subsequent issuance of the maintenance certificate should serve as a further indication that the certification process is coming to an end as the contractor would or ought to have known that the final certificate is right around the corner. 48 in any event, we did not think that the architect’s issuance of the final certificate had caught yau lee by surprise. even before the end of the maintenance period, the quantity surveyor had emailed yau lee to request for the submission of its final account documents.
+
+                   50
+
+
+
+
+foot note 50
+
+×
+
+
+
+  1 ab 268.
+
+
+
+ this was followed by a long chain of correspondence in relation to the preparation of the final accounts. this should have, at the very least, put yau lee on notice that the parties were in the midst of finalising their accounts and the performance under the contract was about to come to an end. if yau lee had any outstanding progress claims for work done which it wished to make, it had ample opportunity to do so before the final certificate was issued. in this connection, we would add that it is incumbent on a contractor to submit interim payment claims on a consistent and regular basis during the progress of the works, so as to make full use of the expedited payment regime under the sopa.49 it should be noted that s 10(4) of the sopa would also be of no assistance to yau lee. the judge stated (at [48] of the decision below) that “as pc 75 was essentially a repeat of pc 73 which had not been adjudicated upon, the contractor was also entitled under s 10(4) of the sopa to submit pc 75 even if pc 73 was deemed the final payment claim.” at the hearing before us, mr chan reiterated the point made by the judge and argued that yau lee’s right to issue a repeat claim under s 10(4) would persist even after the final certificate was issued. in our judgment, s 10(4) of the sopa does not have the effect of allowing a contractor to submit payment claims indefinitely. in grouteam at [56], we held that s 10(4) could be invoked to mitigate the draconian consequence of a payment claim being invalidated solely on the basis that it was served out of time. in lee wee lick terence (alias li weili terence) v chua say eng (formerly trading as weng fatt construction engineering) and another appeal [2013] 1 slr 401 at [59], we stated that even if the mandatory force of a contractual term prevents a payment claim from being made outside the contractually stipulated period, no harm would be caused to the claimant because the claimant could still include the undetermined payment claim in a fresh payment claim by virtue of s 10(4). however, this necessarily entails that the regime for submitting fresh payment claims under the contract continues to apply. here, the repeat claim (ie, pc 75) was made after the architect became functus officio. the architect could no longer issue any payment certificates. it follows that s 10(4) of the sopa cannot be invoked to validate such a payment claim.50 yau lee also argued that any provision in the sia form of contract which precluded the submission of further payment claims after the issuance of the final certificate would be inoperative as it would be regarded as “excluding, modifying, restricting or prejudicing the operation” of the sopa pursuant to ss 36(1) and (2). these have been termed “anti-avoidance provisions”, and prevents parties from contracting out of the operation of the sopa: security of payments and construction adjudication at para 4.2. sections 36(1) and (2) provide as follows:36.—(1) the provisions of this act shall have effect notwithstanding any provision to the contrary in any contract or agreement.(2) the following provisions in any contract or agreement (whether in writing or not) shall be void:(a) a provision under which the operation of this act or any part thereof is, or is purported to be, excluded, modified, restricted or in any way prejudiced, or that has the effect of excluding, modifying, restricting or prejudicing the operation of this act or any part thereof;(b) a provision that may reasonably be construed as an attempt to deter a person from taking action under this act.51 as we have noted at [36] above, the scheme of the sia form of contract is such that the payment certification process and the works under the contract come to an end once the architect issues the final certificate and becomes functus officio. there is no provision per se which expressly prohibits further payment claims from being submitted after the issuance of the final certificate. this however begs the question of whether the sia form of contract itself, which premises the entitlement of the contractor to be paid on the issuance of the architect’s certificate, is incompatible with the sopa and therefore in breach of ss 36(1) and (2). 52 in our view, the fact that the payment certification mechanism under the sia form of contract ends with the issuance of the final certificate and thereby prevents further payment claims from being submitted does not offend the purpose and operation of the sopa as regards ss 36(1) and (2). it must be borne in mind that the sopa was enacted to facilitate cash flow during the course of the project works. however, as we have explained at [37] above, the issuance of the final certificate typically signifies that the works under the contract have come to end. as was noted in security of payments and construction adjudication at para 3.20, at this stage the risks associated with non-payment would be less likely to threaten the delivery and completion of the works. as such, the rationale for expedited payment under the sopa ceases to apply. moreover, given that no further works will be carried out after the final certificate is issued, there ceases to be any basis for the contractor to make further progress claims. we therefore do not think that the inability of a contractor to submit further payment claims under the sopa after the architect has become functus officio should be viewed as “excluding, modifying, restricting or prejudicing the operation of” the sopa as yau lee contends.53 finally, we would stress that even if yau lee were precluded from bringing pc 75 to adjudication under the sopa, it is not left without a remedy. indeed, it is still open to yau lee to take its claim to arbitration if it considers it necessary. the fact that the architect is functus officio only serves to bring an end to the certification process under the contract. it does not purport to deprive yau lee of its right to have any disputes arising out of the contract to be fully and finally settled in arbitration. it merely disentitles yau lee from making further progress claims, be it under the sopa or based on the architect’s certificates. issue 2: whether far east is estopped from objecting to the validity of pc 75 because it did not file a payment response54 we turn next to consider whether far east was in any event estopped from raising an objection as to the validity of pc 75 because it had not filed a payment response. both yau lee and the judge relied on our decision in audi construction for the proposition that s 15(3)(a) of the sopa requires a respondent to raise any jurisdictional objections it may have in its payment response. otherwise, the respondent may be regarded as having waived its right to make that objection or as being estopped from doing so.55 in audi construction, we were concerned with whether a payment claim had been validly served in accordance with the parties’ contract, as required by s 10(2)(a) of the sopa. we held at [26] that the payment claim was indeed validly served and hence there was no breach of s 10(2)(a). we went on to consider whether the respondent would have been estopped from raising an objection that the payment claim was invalidly served in the absence of a payment response. we held at [66] that in the context of the sopa, a respondent has a duty to speak by including in its payment response any jurisdictional objection it wishes to rely on before the adjudicator. this included objections as to both the validity of the payment claim, as well as the validity of service of the payment claim (at [63]). on the facts of audi construction, it was clear that the sopa applied to the payment claim in question, but the issue was whether the adjudication determination would be defective if the payment claim was not validly served in accordance with the contract.  56 in this regard, we should clarify that our holding in audi construction in relation to the respondent’s duty to speak was never intended to apply to a situation where the payment claim fell outside the purview of the sopa from the outset. indeed, our entire discussion on waiver and estoppel was predicated on the basis that “[t]he contract and the [sopa] define the rights the parties have in relation to each other” (at [62]). if the purported payment claim was one which did not entitle the contractor to commence adjudication under the sopa in the first place, there would be no corresponding duty to speak. in other words, it is clear from the context of our decision in audi construction that “any” jurisdictional objection refers to objections in respect of payment claims that were otherwise within the purview of the sopa.57 the distinction between (a) an invalid and/or invalidly served payment claim; and (b) a payment claim that is outside the ambit of the sopa from the outset was in fact expressly alluded to at [68] of audi construction. the respondent in that case had argued that there was no legal obligation to issue a payment response if the payment claim in question was invalid for non-compliance with s 10(2)(a) of the sopa, because it would not qualify as a “payment claim” as defined by s 2 of the sopa. in rejecting this argument, we stated that s 2 of the sopa does not define a payment claim as one which complies with s 10. instead, it defines a payment claim as one which is “made … under section 10” [emphasis added]. in audi construction, we held that a payment claim which failed to comply with s 10 of the sopa was nevertheless one which was made under s 10; to which there was a corresponding obligation to issue a payment response. in our view, such a payment claim would belong to the former category of payment claims (ie, category (a) above).58 however, a payment claim such as pc 75 in the present case, which does not entitle a contractor to make progress claims under the sopa to begin with, cannot be said to be “made” under s 10 of the sopa. as we emphasised at [39] and [43] above, yau lee lost its ability or right to make progress claims once the architect became functus officio and hence could no longer issue certificates which are “condition precedents” to payment. in such a situation, the sopa machinery is not even engaged since yau lee does not have a right to issue a further progress claim to which the sopa can apply. pc 75 would thus not be regarded as a “payment claim” within the meaning of the sopa and there would be no corresponding obligation to issue a payment response on the part of far east.59 another crucial consideration that we had in audi construction in holding that a respondent had a duty to speak at the earliest possible opportunity was to ensure that a claimant would have a chance to rectify any invalidity by submitting a new payment claim (at [68] and [69]). in other words, it contemplates a situation where the contractor is able to issue a fresh payment claim. however, that consideration would clearly be inapplicable once the final certificate was issued, and the architect rendered functus officio, as there would be no possibility of yau lee submitting any fresh payment claim to replace or rectify pc 75.60 although by no means exhaustive, these are, in our view, some other examples of payment claims that would fall outside the ambit of the sopa from the outset:(a) payment claims made pursuant to oral contracts (s 4(1) of the sopa);(b) payment claims made pursuant to contracts for the carrying out of construction works, or the supply of good and services in relation to any residential properties (s 4(2)(a) of the sopa);(c) payment claims made pursuant to contracts which contains provisions under which a party undertakes to carry out construction works or supply goods and services, as an employee of the party for whom the construction work is to be carried out, or the goods and services supplied (s 4(2)(b)(i) of the sopa);(d) payment claims made in respect of construction projects outside singapore (s 4(2)(b)(ii) of the sopa);(e) payment claims made pursuant to non-construction contracts, or contracts for the supply of goods and services, within the meaning of s 3 of the sopa; and(f) payment claims submitted beyond the six-year limitation period as set out in s 10(4) of the sopa.61 in the course of the appeal hearing, mr chan, in order to maintain his argument, contended that estoppel would apply even if the payment claim was submitted in respect of a non-construction contract or a construction project outside singapore. this is clearly flawed as the sopa was never intended to govern such claims. the same logic applies in the instant case to a payment claim such as pc 75 which was clearly outside the purview of the sopa.62 we pause at this juncture to make some observations on sito construction pte ltd (trading as afone international) v pbt engineering pte ltd [2019] sghc 7 (“sito construction”), a recent decision of the high court that was cited to us by mr chan. mr chan highlighted that in sito construction, the court found that the respondent had waived its right to raise a jurisdictional objection on the basis that there was no contract between the parties, because it had failed to raise this objection in its adjudication response. relying on this holding, mr chan argued that even when the objection concerned the absence of a contract between the parties and the purported payment claim was outside the ambit of the sopa, there was nevertheless an obligation to file a payment response. as sito construction is presently pending an appeal before this court, we propose to confine our views only in relation to its application of the principles governing the duty to speak as set out in audi construction.63 in sito construction, the respondent entered into a construction contract with a sole proprietorship that subsequently underwent a change in ownership without the respondent’s knowledge. the respondent and the sole proprietorship continued performing their respective obligations under the contract notwithstanding this change of ownership. payment claims were made pursuant to this contract, the majority of which were paid by the respondent. when the respondent failed to issue a payment response to one of the last few payment claims, the sole proprietorship commenced an adjudication under the sopa. the respondent only discovered the change in ownership of the sole proprietorship after the adjudication application was filed, but nevertheless relied on the contract during the adjudication proceedings. the adjudicator decided in favour of the sole proprietorship and issued an adjudication determination. the respondent subsequently applied to the high court to set aside the adjudication determination. 64 before tan siong thye j, the respondent sought to argue that because of the sole proprietorship’s change of ownership, it was not bound by the contract. tan j rejected the respondent’s argument and found that there was in fact a valid contract between the respondent and the sole proprietorship (at [42]). however, he went on to consider in obiter whether the respondent had in any event waived its rights to raise the jurisdictional objection that there was no contract between the parties because it had not been raised in its adjudication response or in the adjudication proceedings. tan j held at [54] that the respondent ought to have raised the objection in its adjudication response and since it had failed to do so, it had waived its rights to raise this jurisdictional challenge at the setting aside stage.65 with respect, we do not think that where the jurisdictional objection is that there is no contract between the parties, the respondent can be taken to have waived its right to raise this objection if it did not raise it at the earliest possible opportunity. mr chan correctly noted that if there were indeed no contract between the parties, this would take the payment claim outside the ambit of the sopa from the outset. for the reasons set out at [56]–[59] above, we have explained that the duty to speak does not extend to payment claims that are outside the ambit of the sopa. therefore, in situations where the objection is founded on an absence of any valid contract between the parties, the respondent could not possibly be estopped from raising this objection at the setting aside stage notwithstanding its failure to raise it earlier. we should add that it would also have been construed as a patent error (see [71]–[75] below). it would be odd that an omission to raise a patent error could be subject to estoppel.66 at the hearing before us, mr chan also strenuously argued that s 17(3) of the sopa gives the adjudicator the power to rule on both his substantive and threshold jurisdiction, and if he has that power, there must be a corresponding obligation under s 15(3) for the employer to raise any objections to the adjudicator’s jurisdiction in its payment response. mr chan submitted that an objection in relation to whether the payment claim was within the ambit of the sopa, as in the present case, would be an objection to the adjudicator’s threshold jurisdiction, and a respondent would therefore be obligated to raise it by way of a payment response or be estopped from raising it before the adjudicator or the court. 67 we agree that a payment claim that falls outside the ambit of the sopa from the outset would deprive an adjudicator of his threshold jurisdiction. indeed, we observed at [49] of grouteam that in the absence of a payment claim or the service of such a claim, there would be no basis at all for the adjudicator to be appointed and this would then go towards the adjudicator’s jurisdiction at the threshold. in our view, an adjudication that is commenced pursuant to a payment claim which is outside the ambit of the sopa would in effect be the same as commencing an adjudication in the absence of a payment claim. in such a case, the adjudicator would also be deprived of jurisdiction at the threshold.68 however, contrary to mr chan’s argument, we disagree with the proposition that because the adjudicator is empowered to rule on his substantive and threshold jurisdiction, the respondent has a corresponding obligation to raise jurisdictional objections in its payment response and that a failure to do so invariably translates into an estoppel. in our view, a purported payment claim which falls outside the ambit of the sopa can be set aside by the adjudicator independent of any payment response. 69 the power, and indeed the duty, of an adjudicator under s 17(3) of the sopa to consider the matters in the material properly before him (including whether he has threshold jurisdiction to hear a payment claim dispute) is separate and distinct from the respondent’s obligation under s 15(3) to raise all reasons for withholding payment in its payment response or be estopped from doing so. in comfort management at [34], we held that notwithstanding s 15(3), and regardless of whether any payment response has been filed, an adjudicator has an independent duty to address his mind to and consider the true merits of a payment claim. in order to allow a claim, the adjudicator must be satisfied that the claimant has established a prima facie case that the construction work which is the subject of the payment claim has been completed and that the value of the work is as stated in the payment claim. we would add that as part of the adjudicator’s independent duty to consider the true merits of the payment claim, he would also be required to consider, based on the material that is properly before him, whether the payment claim is within the ambit of the sopa to begin with. in our view, this is a fundamental issue that goes to the heart of the adjudication and which the adjudicator should consider regardless of whether any objections are raised by the respondent. moreover, the adjudicator could make this determination by simply considering the provisions of the sopa itself (see s 17(3)(a)) and the provisions of the contract to which the adjudication application relates (see s 17(3)(b)), even in the absence of a payment response from the respondent. 70 that said, we observed that “an adjudicator’s duty to adjudicate is conceptually distinct from a respondent’s entitlement to make submissions before him”: comfort management at [34]. therefore, if a respondent has failed to file a payment response, it is permitted to challenge the payment claim by highlighting only patent errors in the material properly before the adjudicator. however, this assumes that the payment claim in question is within the ambit of the sopa. as we have held at [56] above, the duty to speak does not extend to payment claims which are outside the ambit of the sopa. therefore, notwithstanding the lack of a payment response, the respondent will not be estopped from objecting to the adjudicator’s jurisdiction on the basis that the sopa does not even apply to the purported payment claim. even in the absence of a payment response, the adjudicator would be independently empowered by s 17(3) to find that the sopa does not apply to the purported payment claim, and consequently that he does not have the threshold jurisdiction. issue 3: whether pc 75 being outside the ambit of the sopa because it was submitted after the issuance of the final certificate constitutes a patent error71 in its written submissions, far east argued that even if it were estopped from raising jurisdictional objections due to its failure to file a payment response, pc 75 constituted a patent error that far east could nonetheless raise before the adjudicator and the court. given our finding that the duty to speak does not extend to payment claims which are outside the ambit of the sopa, such as pc 75, it is not strictly necessary for us to consider whether pc 75 was a patent error. be that as it may, we are of the view that pc 75 does constitute a patent error. specifically, it should have been clear from the material before the adjudicator that pc 75 was outside the ambit of the sopa, given that it was clearly submitted after the architect had become functus officio. far east would in any event have been able to raise it before the reviewing court to set aside the adjudication determination, notwithstanding its failure to lodge a payment response.72 if pc 75 were indeed a patent error, far east would be entitled to set aside the adjudication determination notwithstanding its lack of a payment response. in comfort management at [68], we stated that a respondent who has not filed a payment response remains entitled to raise patent errors in the material properly before the adjudicator. we went on to define a patent error as follows (at [22]–[23]):22 in essence, a patent error is an error that is obvious, manifest or otherwise easily recognisable. it refers to an error that is in the material that is properly before an adjudicator for the purpose of his adjudication. it is therefore strictly not an error that is committed by an adjudicator. that type of error would be an error in his decision-making. but the expression “patent error” is not used in this context to refer to an error of that sort. it instead refers to an error in the material before an adjudicator when he is making his decision.23 an example of a patent error might be where the contract adduced by the claimant in support of the payment claim is not even the contract between the parties. another example, illustrated by tan siong thye j in kingsford construction pte ltd v a deli construction pte ltd [2017] sghc 174 at [35], is where “the documentary evidence submitted by the claimant plainly contradict[s] the claimed amount”. yet another example might be where no supporting material or explanation whatsoever is adduced to support the payment claim. while in principle these are not exhaustive examples of patent error, it is difficult to conceive of other forms of error that may properly be regarded as patent. ultimately, whether an error is properly characterised as patent will depend on the facts. but the point to be made here is that patent errors constitute by definition an exceptional and extremely narrow category of errors.[emphasis in original in italics; emphasis added in bold italics]73 in the present case, the works under the construction contract between yau lee and far east came to an end upon the architect’s issuance of the final certificate. the underlying construction contract in support of pc 75 was in effect no longer a subsisting contract between the parties permitting the submission of any further payment claims under the sopa. in our view, this would be similar to patent errors that we had identified at [23] of comfort management, ie, where the contract adduced by the claimant in support of the payment claim is not even the contract between the parties. we would add that the situations we have identified at [60] involving payment claims which fall outside the ambit of the sopa would likewise be regarded as patent errors.74 in this regard, we note that yau lee had argued in its written submissions that pc 75 could not be treated as a patent error because even if it were an error, the error was not “obvious, manifest or otherwise easily recognisable”. this is because it was an “issue of considerable legal complexity, meriting considerable submissions from both parties”.
+
+                   51
+
+
+
+
+foot note 51
+
+×
+
+
+
+  respondent’s written submissions, para 54.
+
+
+
+ we should first state that the issue before us can hardly be said to involve any “legal complexity”. here, the patent error relied on by far east concerned the architect’s lack of capacity to certify which is plain and evident on the face of the material properly before the adjudicator. 75 in the present case, notwithstanding the lack of a payment response from far east, it would have been patently clear to the adjudicator based on the contract, the final certificate, and pc 75 itself, that by the time pc 75 was submitted, the architect had become functus officio and any payment claims submitted thereafter would be outside the ambit of the sopa.conclusion76 for the reasons as elaborated above, we allowed the appeal and set aside the adjudication determination and the judgment below. we fix the costs of the appeal at $40,000 inclusive of disbursements to be paid by yau lee to far east. yau lee shall also bear the costs below fixed at $17,000 all in.sundaresh menon  steven chong   quentin loh chief justice   judge of appeal  judgechristopher chuah chee kian, lee hwai bin, valerie koh huini and hoe siew min deborah (wongpartnership llp) for the appellant;raymond chan and oung hui wen karen (chan neo llp) for the respondent. __________________________

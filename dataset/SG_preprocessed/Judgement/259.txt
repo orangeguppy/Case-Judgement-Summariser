@@ -1,0 +1,766 @@
+in the general division of the high court of the republic of singapore[2023] sghc 199originating claim no 320 of 2022 (summonses nos 910 and 1526 of 2023)betweenbybit fintech limited… claimant and(1)ho kai xin(2)persons unknown(3)foris dax asia pte ltd(4)ftx trading ltd(5)consensys software inc(6)quoine pte ltd… defendantsjudgment[civil procedure — summary judgment][trusts — constructive trusts — institutional constructive trust and remedial constructive trust][trusts — constructive trusts — trust over cryptocurrency][choses in action — legal requirements — whether cryptocurrency is a chose in action] this judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.bybit fintech ltd vho kai xin and others[2023] sghc 199general division of the high court — originating claim no 320 of 2022 (summonses nos 910 and 1526 of 2023)philip jeyaretnam j5 may, 24 july 202325 july 2023 judgment reserved.philip jeyaretnam j: introduction1 this case concerns a crypto asset called tether which is an example of what has been described as a stablecoin. by this it is meant that its issuer represents that it backs each stablecoin issued with an equivalent value in fiat currency or other reserves. the issuer typically offers terms of service under which verified holders of the stablecoin have the right to redeem it with the issuer for fiat currency. this link to a fiat currency, in this case the united states dollar, is reflected in the name by which tether is commonly referred to, namely usdt, standing for united states dollar tether. i will adopt this acronym in this judgment.2 in this application, bybit fintech limited (“bybit”) seeks summary judgment against the first defendant, one ms ho kai xin (“ms ho”). the claim against her is that in breach of her employment contract, she abused her position to transfer quantities of usdt to “addresses” secretly owned and controlled by her, as well as a quantity of fiat currency to her own bank account. the main relief sought is a declaration that ms ho holds both the usdt and the fiat currency on trust for bybit. bybit accordingly seeks an order for the return of the same or of its traceable proceeds, or for payment of a sum equivalent in value. 3 the courts in singapore and elsewhere have in granting interlocutory injunctions recognised that there is at least a serious question to be tried or a good arguable case that crypto assets are property capable of being held on trust. in so doing, it has not been necessary to determine whether such crypto assets are things in action or are instead a novel type of intangible property. to grant judgment and finally declare a trust, this court must go further and decide that the crypto assets in question, here usdt, are indeed property capable of being held on trust and, if so, what type of property they are.4 in this case, i find that usdt, which may be transferred from one holder to another cryptographically without the assistance of the legal system, nonetheless are choses in action. in this judgment, i mostly use the phrase things in action, which means the same as choses in action. while the fact that usdt also carries with it the right to redeem an equivalent in united states dollars from tether limited, a company incorporated in the british virgin islands (“bvi”), makes it look more like traditionally recognised things in action, i do not consider that this feature is necessary for a crypto asset to be classed as a thing in action. like any other thing in action, usdt is capable of being held on trust.5 i further hold that bybit has established its case for summary judgment, and accordingly grant the declarations sought on the basis of institutional constructive trust.6 i now explain my reasons for these conclusions.background 7 bybit, a seychellois company, owns a namesake cryptocurrency exchange. bybit remunerates its employees with traditional currency, cryptocurrency, or a mixture of both. wechain fintech pte ltd (“wechain”), a singapore incorporated company, provides payroll services for bybit and related entities. ms ho was employed by wechain and was responsible for the payroll processing of bybit’s employees.
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  1st defendant’s defence (amendment no 1) dated 24 march 2023 at paras 5 and 10.
+
+
+
+8 as part of her duties, ms ho maintained microsoft excel spreadsheets which tracked the cash and cryptocurrency payments due to bybit’s employees each month (respectively, the “fiat excel files” and “cryptocurrency excel files”). the cryptocurrency excel files list the “address” designated by bybit’s employees for the receipt of cryptocurrency payments. an “address” can be understood as an encrypted digital “folder” which can “receive” and “store” cryptocurrency. each address takes the form of a unique string of alpha numerals. a corresponding “private key” is required to access and authorise transfers between addresses. these private keys are in turn stored in “wallets”, which can thus be understood as the means of interfacing with cryptocurrency. wallets which are hosted online by a service provider, usually a cryptocurrency exchange, are known as “custodial wallets”. custodial wallets usually take the form of an application with a user interface. offline wallets are known as “self-custodial wallets” and may range from a simple piece of paper inscribed with the private key or complex encryption software restricting access to the private key. in short, access to a wallet grants access to the stored private keys which provide control over an address and thus the cryptocurrency stored therein. bybit’s employees could and did regularly change their designated address by communicating a new address to ms ho, who would then update the cryptocurrency excel files.
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  1st defendant’s defence (amendment no 1) dated 24 march 2023 at para 16; 2nd affidavit of jonathan cheong hao wei dated 18 may 2023 at paras 7–14.
+
+
+
+ ms ho was singularly responsible for updating the cryptocurrency excel files and was the only person with access, save that the cryptocurrency excel files would be submitted to her direct superior, ms casandra teo, for approval each month.
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  1st defendant’s defence (amendment no 1) dated 24 march 2023 at para 17.
+
+
+
+9 on 7 september 2022, bybit discovered that eight unusual cryptocurrency payments had been made (the “anomalous transactions”) between 31 may 2022 and 31 august 2022, involving large payments of usdt into four addresses, which i will refer to for simplicity as address 1, 2, 3 and 4. in total, 4,209,720 usdt had been transferred (the “crypto asset”).
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  3rd affidavit of yuchen zhou dated 5 april 2023 at paras 44–46 and 63.
+
+
+
+ usdt is so named because its value is tethered to the us dollar and each usdt grants a holder who is a “verified customer” of its issuer, tether limited, a contractual right to redeem their usdt for us dollars.
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  2nd affidavit of jonathan cheong hao wei dated 18 may 2023 at paras 18–33.
+
+
+
+ the anomalous transactions were compiled into an excel spreadsheet (the “reconciliation excel file”), and ms ho was tasked with accounting for the discrepancies. ms ho initially attributed the anomalous transactions to inadvertent mistakes or technical errors and offered to calculate the amounts required to be clawed back from bybit’s employees.
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  1st defendant’s defence (amendment no 1) dated 24 march 2023 at paras 20–22.
+
+
+
+10 between 9 to 22 september 2022, ms ho remained unable to provide any explanation for the anomalous transactions. when asked why payments to different employees were made to the same address, address 1, ms ho suggested that she had made an inadvertent mistake. ms ho continued to provide status updates in the reconciliation excel file, characterising the anomalous transactions as amounts “overpaid” to bybit’s employees.
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  1st defendant’s defence (amendment no 1) dated 24 march 2023 at paras 23–24.
+
+
+
+11 on 27 september 2022, bybit contacted one of the supposed recipients of the anomalous transactions. 1,300,000 usdt had been paid to address 1 in his name. however, according to bybit, that employee denied ever designating an address as he had only ever been remunerated with traditional currency and did not know who owned address 1.
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  3rd affidavit of yuchen zhou dated 5 april 2023 at paras 53–54.
+
+
+
+ bybit’s internal investigations revealed that ms ho’s work email had sent to itself an email containing address 1 on 19 may 2022. ms ho’s work email had also received an email containing all four addresses on 29 august 2022, this time originating from ms ho’s personal email.
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  1st defendant’s defence (amendment no 1) dated 24 march 2023 at para 31; 3rd affidavit of yuchen zhou dated 5 april 2023 at 47 and 49.
+
+
+
+ these emails had to be recovered by bybit as they had been deleted.
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  3rd affidavit of yuchen zhou dated 5 april 2023 at para 60.
+
+
+
+ 12 bybit also discovered that ms ho had caused $117,238.46 (the “fiat asset”) to be paid into her personal bank account in may 2022. it is undisputed that ms ho is not entitled to the fiat asset and ms ho expressly accepts that she holds the fiat asset on trust for bybit.
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  1st defendant’s defence (amendment no 1) dated 24 march 2023 at paras 12, 39, and 55.
+
+
+
+ however, ms ho has to date not taken any steps to return the fiat asset.13 bybit interviewed ms ho on 29 september 2022 and 4 october 2022. in the first meeting, ms ho claimed that she was unable to recall the details of the anomalous transactions. in the second meeting, ms ho was confronted with the fruits of bybit’s investigations. ms ho told bybit that she did not own the wallets associated with the four addresses, which belonged to her maternal cousin, and that she did not have access to them. ms ho said that it was her cousin who had proposed that she assist in transferring cryptocurrency to him and that she possessed closed circuit surveillance footage recording him carrying out the anomalous transactions in her house. ms ho confessed that she had become involved in the scheme some three months prior to the interview and told bybit that she preferred that a police report be made as she did not possess the crypto asset. after the interview, ms ho refused to sign an acknowledgment on a single page statement recording what transpired. nevertheless, it is undisputed that ms ho made these representations to bybit.
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  1st defendant’s defence (amendment no 1) dated 24 march 2023 at paras 40–41 and 44.
+
+
+
+ thereafter, ms ho ceased contact with bybit and wechain and failed to attend follow up interviews.
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  1st defendant’s defence (amendment no 1) dated 24 march 2023 at para 46.
+
+
+
+14 bybit commenced this action on 12 october 2022. bybit succeeded in obtaining several items of interim relief, including a worldwide freezing order against ms ho and a proprietary injunction in respect of the cryptocurrency in the four addresses (ie, the crypto asset) and the fiat asset in ms ho’s bank account.
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  hc/orc 5249/2022.
+
+
+
+ ms ho was personally served with the originating claim and the orders on 18 october 2022.
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  2nd affidavit of yuchen zhou dated 30 november 2022 at para 15.
+
+
+
+ on 31 october 2022, ms ho disclosed by affidavit that the wallets associated with the four addresses were owned by one mr jason teo (“jason”), her maternal cousin. ms ho averred that she did not have access to any of the wallets, that she had deleted her text conversation history with jason prior to the service of the orders, and that she no longer had the closed-circuit surveillance footage as recordings older than seven days were automatically deleted.
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  1st affidavit of ho kai xin dated 31 october 2022 at paras 5–7, and 9–12.
+
+
+
+ ms ho filed her defence on 11 november 2022 and took out a third-party notice against jason. 15 ms ho fully accepts that the crypto asset belongs to bybit and that she is not entitled to the same.
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  1st defendant’s defence (amendment no 1) dated 24 march 2023 at para 48.
+
+
+
+ the core of ms ho’s defence is that jason stole the crypto asset from bybit without her knowledge. she did not receive or benefit from them as the wallets associated with the four addresses are owned and controlled by jason alone. her case is that from may 2022, she had asked jason to assist in checking the cryptocurrency excel files on “numerous occasions” when jason visited her home. jason had thereafter accessed her work laptop without her knowledge or consent, which ms ho only discovered after reviewing her home’s closed-circuit surveillance footage when bybit drew her attention to the anomalous transactions. she then confronted jason, who admitted that he had intentionally substituted the designated address of several bybit employees with the four addresses. despite repeated requests, jason has refused to return the crypto asset.
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+  1st defendant’s defence (amendment no 1) dated 24 march 2023 at paras 6–7, 38, 47, and 49.
+
+
+
+ ms ho’s position is that she remained unaware of the cause of the anomalous transactions on 9 september 2022,
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+  1st defendant’s defence (amendment no 1) dated 24 march 2023 at para 23.
+
+
+
+ which was well over seven days after the last anomalous transaction (dated 31 august 2022). no explanation is provided for how ms ho was able to view the incriminating footage.16 dissatisfied with ms ho’s disclosure, bybit sought and obtained on 7 december 2022 orders for more extensive disclosure against ms ho and a number of third-parties, including her father and husband.
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+  hc/orc 6154/2022.
+
+
+
+ this was because bybit had discovered that ms ho had made several substantial purchases from july 2022 onwards, including a freehold penthouse apartment with her husband, a brand new car, and several louis vuitton products.
+
+                   21
+
+
+
+
+foot note 21
+
+×
+
+
+
+  2nd affidavit of yuchen zhou dated 30 november 2022 at para 36; 3rd affidavit of ho kai xin dated 19 december 2022 at paras 8 and 11; 4th affidavit of ho kai xin dated 30 january 2023 at paras 6–7.
+
+
+
+ notably, despite initially denying ownership of any real property,
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+  3rd affidavit of ho kai xin dated 19 december 2022 at para 7.
+
+
+
+ ms ho subsequently explained that she had acquired the freehold penthouse using moneys earned from cryptocurrency trading on metamask and crypto.com.
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+  4th affidavit of ho kai xin dated 30 january 2023 at para 6(e).
+
+
+
+ this was contrary to her previous claim that her metamask account was entirely unused. ms ho did not provide her metamask and crypto.com address nor furnish accounts statements for transactions. according to ms ho, she lost access to her crypto.com account because it was registered to her personal email, which has since become disabled for reasons unknown. similarly, she could not access her metamask account as she had purchased a brand new handphone in october 2022 and was unable to access the necessary passcode from her previous device.
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+  3rd affidavit of ho kai xin dated 19 december 2022 at para 6.
+
+
+
+ i also note that contrary to the disclosure order, ms ho initially failed to disclose all her assets, such as her bank accounts, which required bybit to carry out a further round of questioning.
+
+                   25
+
+
+
+
+foot note 25
+
+×
+
+
+
+  3rd affidavit of ho kai xin dated 19 december 2022 at para 5; 4th affidavit of ho kai xin dated 30 january 2023 at paras 8–9.
+
+
+
+17 simultaneously, ms ho applied for and obtained permission to effect substituted service on jason. curiously, ms ho averred in her supporting affidavit that it was jason who had deleted their text conversation history after she informed him that she had been served the originating claim.
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+  2nd affidavit of ho kai xin dated 7 december 2022 at para 14.
+
+
+
+ jason has not made an appearance in these proceedings.18 on 30 march 2023, bybit took out this application for summary judgment. ms ho did not file any affidavit disputing the application pursuant to o 9 r 17(3) of the rules of court 2021. on 18 april 2023, prior to the hearing, ms ho took over the conduct of her own defence. ms ho did not attend any of the hearings before me and did not file submissions. 19 for completeness, bybit also applied to amend their claim and to put in further submissions, which i directed to be filed by 19 may 2023. bybit had originally pleaded that ms ho held the crypto asset and fiat asset on remedial constructive trust. bybit therefore sought the amendment in order to run an alternative argument premised on institutional constructive trust. i granted ms ho leave to file submissions in respect of the amendment and granted an extension for her to file submissions in respect of summary judgment by 26 may 2023. as before, ms ho neglected to file any submissions and did not oppose the amendment application. 20 bybit submitted that the amendments were merely clarificatory and did not introduce any new facts. the pleadings already specified that ms ho wrongfully caused the anomalous transactions and ms ho’s defence would not be affected by the amendments. instead, the amendments enabled the real issue in controversy to be determined and no prejudice would be caused to ms ho that could be compensated by costs.
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+  claimant’s written submissions dated 19 may 2023 at paras 12–13.
+
+
+
+21 i agreed that the proposed amendments were clarificatory in nature, and that adding the alternative legal conclusion of institutional constructive trust on the basis of the already pleaded facts enabled the real controversy to be fully and finally determined. accordingly, on 30 june 2023 i allowed the amendments, and proceeded with the application for summary judgment on the basis of bybit’s statement of claim (amendment no. 2), which was filed on 5 july 2023.the parties’ casesms ho’s case22 as stated, ms ho’s case is essentially that the blame should fall solely on jason (see above at [15]). from the affidavits, it appears that ms ho claims that she has no means of identifying jason and does not know his personal details or residential address.
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+  2nd affidavit of ho kai xin dated 7 december 2022 at paras 14–16.
+
+
+
+ additionally, ms ho believes that it was jason who accessed her work and personal email, sent, and then deleted, the emails stating the four addresses (see above at [11]). jason did this without her authorisation and ms ho denies deleting the emails.
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+  1st defendant’s defence (amendment no 1) dated 24 march 2023 at paras 33 and 34.
+
+
+
+ furthermore, ms ho claims that she had lied to bybit when she implicated herself during the interview on 4 october 2022 (see above at [13]). according to ms ho, bybit had sternly warned her of the criminality of her conduct and badgered her by insisting that she was responsible for the anomalous transactions. ms ho had responded as she did out of a desire to protect jason, with whom she was close, and also because ms ho was in a rush to leave to care for her unwell two-year-old son. on account of her son’s illness, she refused to sign the single page acknowledgement after the interview, as she did not have time to review its contents, and refused to attend the follow up interviews.
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+  1st defendant’s defence (amendment no 1) dated 24 march 2023 at paras 41, 44, and 46.
+
+
+
+ 23 as for the fiat asset, ms ho suggests that she had accidentally entered her own data in place of another employee’s when preparing the fiat excel files, resulting in a mistaken payment.
+
+                   31
+
+
+
+
+foot note 31
+
+×
+
+
+
+  1st defendant’s defence (amendment no 1) dated 24 march 2023 at para 12.
+
+
+
+ bybit’s case24 bybit submits that it is entitled to summary judgment pursuant to o 9 r 17(1)(a) of the rules of court 2021 as it has proven a prima facie case and ms ho has no defence to the claim. bybit’s submissions focus on the crypto asset, as ms ho accepts that she holds the fiat asset on trust for bybit. 25 first, bybit submits that “jason” is an outright fabrication. ms ho has no evidence supporting jason’s existence and her version of events is inherently implausible.
+
+                   32
+
+
+
+
+foot note 32
+
+×
+
+
+
+  claimant’s skeletal written submissions dated 3 may 2023 at paras 66–69
+
+
+
+ contemporaneous with the anomalous transactions, ms ho also engaged in a suspicious luxury spending spree.
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+  claimant’s skeletal written submissions dated 3 may 2023 at para 71(c).
+
+
+
+ ms ho had spent approximately $362,000 on the new car and $30,000 on the louis vuitton products, and abruptly cancelled her existing built-to-order hdb flat to purchase a penthouse valued at approximately $3.7m.
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+  3rd affidavit of yuchen zhou dated 5 april 2023 at para 70.
+
+
+
+ furthermore, bybit obtained disclosure of incriminating information from the service provider of the wallet associated with address 1. this revealed that ms ho owns the wallet and included details such as ms ho’s identity card and even a self-portrait, which were provided by her as part of the account registration process. disclosed transaction records also match the anomalous transactions flowing into address 1, and amounts transferred on certain dates appear to show that the usdt transferred into address 2 and address 3 were shortly thereafter transferred into address 1. this proves that ms ho owns and controls the wallet associated with address 1 and likely owns and controls the wallets associated with the other addresses.
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+  3rd affidavit of yuchen zhou dated 5 april 2023 at para 79 and pp 81–85; claimant’s skeletal written submissions dated 3 may 2023 at paras 47–50.
+
+
+
+26 second, bybit submits that the crypto asset is comprised of choses in action and is therefore property capable of being the subject matter of a trust. this is because usdt grants a verified customer of tether limited the contractual right to redeem usdt for an equivalent value in fiat currency.
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+  claimant’s further written submissions dated 19 may 2023 at paras 7–12.
+
+
+
+ bybit submits that address 3 is associated with a self-custodial wallet, meaning that ms ho has direct access to the relevant private key and therefore direct control over address 3 and the usdt therein, which can be held on trust as a chose in action.
+
+                   37
+
+
+
+
+foot note 37
+
+×
+
+
+
+  claimant’s further written submissions dated 19 may 2023 at paras 20–21; 2nd affidavit of jonathan cheong hao wei dated 18 may 2023 at paras 60–61.
+
+
+
+ for address 1, 2, and 4, these are associated with custodial wallets. in the case of custodial wallets, access to the private keys is kept by the service provider rather than the user of the custodial wallet. instead, the user of the custodial wallet is contractually entitled to instruct the service provider to transfer cryptocurrency between addresses. bybit likens this to a bank account, where the cryptocurrency balance stated in the custodial wallet (equivalent to an account balance) is a chose in action against the service provider (equivalent to the bank). the relevant property is therefore also a chose in action, being the right to instruct the service provider in respect of the credit balance of usdt.
+
+                   38
+
+
+
+
+foot note 38
+
+×
+
+
+
+  claimant’s further written submissions dated 19 may 2023 at paras 13–19 and 24–26; 2nd affidavit of jonathan cheong hao wei dated 18 may 2023 at paras 37 and 39–58.
+
+
+
+27 third, bybit submits that ms ho holds the crypto asset and fiat asset as constructive trustee, or alternatively, that ms ho was unjustly enriched in the sum of the crypto asset and fiat asset. bybit submits that ms ho acquired the crypto asset by fraud, as she manipulated the cryptocurrency excel files and thereby wrongfully caused bybit to pay the crypto asset into the four addresses controlled by ms ho, thereby giving rise to an institutional constructive trust.
+
+                   39
+
+
+
+
+foot note 39
+
+×
+
+
+
+  claimant’s further written submissions dated 19 may 2023 at paras 37–43.
+
+
+
+ alternatively, bybit submits that a remedial constructive trust should be recognised in the circumstances as there has been fraud or wrongdoing and ms ho’s conscience has been affected.
+
+                   40
+
+
+
+
+foot note 40
+
+×
+
+
+
+  claimant’s skeletal written submissions dated 3 may 2023 at paras 22–28 and 45–53.
+
+
+
+ accordingly, bybit submits that i should grant a tracing order as ms ho has transacted the crypto asset and fiat asset in breach of the freezing order.
+
+                   41
+
+
+
+
+foot note 41
+
+×
+
+
+
+  claimant’s further written submissions dated 19 may 2023 at para 51.
+
+
+
+ for the backstop claim in unjust enrichment, bybit relies on the unjust factor of mistake of fact, namely that bybit was misled into believing that cryptocurrency payments were due and payable to its employees at the four addresses. bybit therefore submits it is entitled to restitution of the value of the crypto asset.
+
+                   42
+
+
+
+
+foot note 42
+
+×
+
+
+
+  claimant’s skeletal written submissions dated 3 may 2023 at paras 34 and 58–63.
+
+
+
+issues to be determined 28 the issues in this matter are twofold:(a) whether usdt is property capable of being held on trust; and (b) whether bybit is entitled to summary judgment. issue 1: usdt is property capable of being held on trust29 crypto assets, notwithstanding their novelty, have not only been transferred for value but also when held by companies appear on their balance sheets, as the accounting profession develops standards for how to value and report them. the monetary authority of singapore (“mas”) has recently issued a consultation paper on proposed amendments to the payment services regulations that will implement segregation and custody requirements for digital payment tokens: mas, “response to public consultation on proposed regulatory measures for digital payment token services” published on 3 july 2023. these proposed amendments reflect the reality that it is possible in practice to identify and segregate such digital assets, and hence support the view that it should be legally possible to hold them on trust. 30 moreover, general recognition has been given to cryptocurrency as property in the rules of court. in order 22 of the rules of court 2021, which deals with the enforcement of judgments and orders, o 22 r 1(1) defines “movable property” to include “cash, debt, deposits of money, bonds, shares or other securities, membership in clubs or societies, and cryptocurrency or other digital currency” [emphasis added]. cryptocurrency has thus been expressly recognised as a form of property capable of being the subject matter of an enforcement order. although the drafters of the rules of court 2021 did not specify a precise method for carrying out such an enforcement order (see the civil justice commission report (29 december 2017) (chairperson: justice tay yong kwang)), i observe in passing that the procedures for serving a notice of seizure on the persons or entities having possession or control of movable property (o 22 r 6(4)(b) of the rules of court 2021) or on the persons or entities which register the ownership of intangible movable property (o 22 r 6(4)(g) of the rules of court 2021) are logically extendable to cryptocurrency or other digital currency. 31 crypto assets are not classed as physical assets because we cannot possess them in the way we can possess objects like cars or jewellery. they do not have a fixed physical identity. yet, crypto assets do manifest themselves in the physical world, albeit in a way that humans are unable to perceive. the combination of private key with public key unlocks the previous cryptographic lock and in turn locks the unspent transaction output of the crypto asset to the holder’s public address on the blockchain. professor kelvin low suggests that the right that the holder of the private key has by virtue of holding the private key is “properly conceptualised as a narrow right to have the unspent transaction output (utxo) of a cryptoasset locked to a holder’s public address on a blockchain”: see kelvin fk low, “trusts of cryptoassets” (2021) 34(4) trust law international 191. this physical manifestation at the level of digital bits and bytes is not permanent, and changes with every transaction. nonetheless, we identify what is going on as a particular digital token, somewhat like how we give a name to a river even though the water contained within its banks is constantly changing.32 while some people are sceptical of the value of crypto assets, it is worth keeping in mind that value is not inherent in an object. while we speak of expensive materials, with gold being more valuable than wood, this is a judgment made by an aggregate of human minds. it is also a judgment that varies with circumstances. a wooden chair that can float is more valuable on a ship that is sinking than a golden throne would be. 33 this description of crypto assets shows that they can be defined and identified by modern humans, such that they can be traded and valued as holdings. they certainly meet lord wilberforce’s oft-quoted dictum in national provincial bank v ainsworth [1965] 1 ac 1175 at 1248:before a right or an interest can be admitted into the category of property, or of a right affecting property, it must be definable, identifiable by third parties, capable in its nature of assumption by third parties, and have some degree of permanence or stability.34 the next question is whether usdt can be classed in the category of things in action. the argument that crypto assets should not be classified as things in action rests on the origin of this category as rights enforceable by action (in the sense of litigation in court) against persons, such as the right to be paid money or debts, or contractual rights. there is no individual counterparty to the crypto holder’s right. but over time the category of things in action has expanded to include documents of title to incorporeal rights of property, and ultimately incorporeal rights themselves such as copyrights: see w.s. holdsworth, “the history of the treatment of ‘choses’ in action by the common law” (1920) 33(8) harvard law review 997. as holdsworth noted at 998 in the introduction to his authoritative essay:it is clear that the diversity of the things included under the category of choses in action must lead to a diversity in the legal incidents of various classes of choses in action. in fact their legal incidents do differ very widely; for, being different in themselves, they have necessarily been treated differently both by the courts and by the legislature. it is impossible to treat fully of the law of choses in action in general; and the various classes of choses in action are usually treated, not under this one general category, but under the separate branches of law to which they more properly belong. if we want to know the law, for instance, as to bills and notes, or shares, or copyright, or patents, we should not think of looking for it in a treatise on choses in action, but rather in books on mercantile law, company law, or in special treatises devoted to these particular things.35 holdsworth’s historical survey demonstrates the diversity of incorporeal property that has been classed as things in action. this diversity suggests that the category of things in action is broad, flexible, and not closed. it is these features that both explain and justify fry lj’s oft-cited dictum in colonial bank v whinney (1885) 30 ch d 261 at 285, that: “all personal things are either in possession or action. the law knows no tertium quid between the two.”36 my conclusion is therefore that the holder of a crypto asset has in principle an incorporeal right of property recognisable by the common law as a thing in action and so enforceable in court. while it might be said that this conclusion has an element of circularity in that it could also be said that the right to enforce in court is what makes it a thing in action, this type of reasoning is not strikingly different from how the law approaches other social constructs, such as money. it is only because people generally accept the exchange value of shells or beads or differently printed paper notes that they become currency. money is accepted by virtue of a collective act of mutual faith. this is reflected in lord mansfield’s famous observation in miller v race (1758) 1 burr 452 at 457, that what is treated as money “by the general consent of mankind” is given “the credit and currency of money to all intents and purposes”. 37 bybit also relies on the current terms of service for usdt which provide for a contractual right of redemption.
+
+                   43
+
+
+
+
+foot note 43
+
+×
+
+
+
+  2nd affidavit of jonathan cheong hao wei dated 18 may 2023 at 93–114.
+
+
+
+ clause 3 includes the following provision concerning this right of redemption: tether issues and redeems tether tokens. tether tokens may be used, kept, or exchanged online wherever parties are willing to accept tether tokens. tether tokens are 100% backed by tether's reserves. tether tokens are denominated in a range of fiat. for example, if you purchase eurt, your tether tokens are 1-to-1 pegged to euros. if you cause to be issued eurt 100.00, tether holds reserves valued at €100.00 to back those tether tokens. the composition of the reserves used to back tether tokens is within the sole control and at the sole and absolute discretion of tether. tether tokens are backed by tether's reserves, including fiat, but tether tokens are not fiat themselves. tether will not issue tether tokens for consideration consisting of the digital tokens (for example, bitcoin); only money will be accepted upon issuance. in order to cause tether tokens to be issued or redeemed directly by tether, you must be a verified customer of tether. no exceptions will be made to this provision. the right to have tether tokens redeemed or issued is a contractual right personal to you. tether reserves the right to delay the redemption or withdrawal of tether tokens if such delay is necessitated by the illiquidity or unavailability or loss of any reserves held by tether to back the tether tokens, and tether reserves the right to redeem tether tokens by in-kind redemptions of securities and other assets held in the reserves. tether makes no representations or warranties about whether tether tokens that may be traded on the site may be traded on the site at any point in the future, if at all.38 the terms of service are governed by bvi law. bybit tendered a legal opinion from a bvi-qualified counsel, mr sam goodman, opining that under bvi law a holder of usdt who is a “verified customer” of tether limited has a contractual right to redeem usdt which may be enforced by way of suit against tether limited.
+
+                   44
+
+
+
+
+foot note 44
+
+×
+
+
+
+  2nd affidavit of jonathan cheong hao wei dated 18 may 2023 at 87–90.
+
+
+
+ bybit relies on this in support of its contention that usdt is a thing in action. 39 in my analysis, this feature of usdt may constitute an additional thing in action that the holder of a usdt may have, but its presence is not necessary to my conclusion that the right represented by the usdt is itself a thing in action.issue 2: bybit is entitled to summary judgment40 bybit submits that it has established a prima facie case, having already surmounted the hurdle of proving a good arguable case for the purposes of securing the worldwide freezing order.
+
+                   45
+
+
+
+
+foot note 45
+
+×
+
+
+
+  claimant’s skeletal written submissions dated 3 may 2023 at paras 5 and 13.
+
+
+
+ conversely, ms ho cannot establish a fair or reasonable probability of a real or bona fide defence.jason does not exist41 i accept on a balance of probabilities the inference that bybit seeks to draw from the totality of the evidence that jason does not exist (or at any rate did not play the role asserted for him by ms ho). the evidence is indeed compelling that ms ho fraudulently transferred the crypto asset and the fiat asset to herself. as outlined in [25] above, there is the direct evidence that ms ho owns the wallet associated with address 1 as well as the circumstantial evidence of her unexplained spending spree. taking advantage of her employment with wechain which was engaged to handle bybit’s payroll and abusing the trust reposed in her, ms ho manipulated the cryptocurrency excel files to steal the crypto asset and the fiat asset.constructive trust42 an institutional constructive trust arises over stolen assets at time of the theft, and the remedy of tracing in equity is available in respect of stolen assets. as lord browne-wilkinson noted in westdeutsche landesbank girozentrale v islington london borough council [1996] 1 ac 669 at 716:i agree that the stolen moneys are traceable in equity. but the proprietary interest which equity is enforcing in such circumstances arises under a constructive, not a resulting, trust. although it is difficult to find clear authority for the proposition, when property is obtained by fraud equity imposes a constructive trust on the fraudulent recipient: the property is recoverable and traceable in equity. thus, an infant who has obtained property by fraud is bound in equity to restore it: stocks v. wilson [1913] 2 k.b. 235, 244; r. leslie ltd. v. sheill [1914] 3 k.b. 607. moneys stolen from a bank account can be traced in equity: bankers trust co. v. shapira [1980] 1 w.l.r. 1274, 1282c-e. see also mccormick v. grogan (1869) l.r. 4 h.l. 82, 97.43 i should also add that the constructive trust may operate even if ms ho mixed the usdt with other usdt in the balances of the respective online custodial wallets, or the fiat asset with other money in her bank account: foskett v mckeown [2001] 1 ac 102.44 given my findings on the facts, i declare a constructive trust over the crypto asset and the fiat asset. bybit is the legal and beneficial owner of the crypto assets. in view of my grant of relief on the basis of institutional constructive trust, i need not deal with the alternative bases of remedial constructive trust and unjust enrichment. 45 bybit following its investigations has sought a mix of proprietary and personal orders, which i now grant, as follows: (a) a declaration of constructive trust over the crypto asset and fiat asset;(b)  an order that ms ho does forthwith pay to bybit the sum of usd 647,880 (being the value of the crypto assets in wallets 3 and 4); and (c) an order that ms ho does forthwith pay to bybit the sum of sgd 117,238.46 (the fiat asset); (d) an order that ms ho does forthwith transfer all sums remaining in wallet 1 to bybit, up to the sum of usd 3,561,840 (being the value of the crypto assets transferred to wallets 1 and 2); (e) in respect of the remainder of the crypto assets transferred to wallets 1 and 2 (being usd 3,561,840 worth of usdt) after deducting the amount transferred in (d) above (the “remainder sum”):(i) an order that ms ho give an account of the remainder sum, or such money or funds representing the value of the remainder sum as have been possessed or received by her or by any person on their behalf or to their order;(ii) a tracing order in respect of the remainder sum, or any part thereof, for bybit to trace and recover the assets or the proceeds thereof into which the aforesaid properties have been converted, if any;(iii) an order for payment by ms ho to bybit of all sums found to be due to bybit on the taking of the account.46 i also award interest at the standard rate of 5.33% per annum on the sums payable under [45(b)] and [45(c)] above from the dates the assets in question were transferred by ms ho until date of judgment.conclusion 47 having granted bybit summary judgment against ms ho, i also award costs in favour of bybit in the amount of $45,000.00 (which takes into account the legal novelty of the issues argued as well as the work done in seeking interim relief for which costs were in the cause) and disbursements of $11,500.00.philip jeyaretnamjudge of the high courtquek wen jiang gerard, kyle gabriel peters, ling ying ming daniel, mato kotwani and chua ze xuan (pdlegal llc) for the claimant;the first to sixth defendants absent and unrepresented.

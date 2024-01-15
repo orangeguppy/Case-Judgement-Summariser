@@ -1,0 +1,290 @@
+in the court of appeal of the republic of singapore[2018] sgca(i) 01civil appeal no 126 of 2017betweenqilin world capital ltd… appellantandcpit investments ltd… respondentcivil appeal no 145 of 2017betweencpit investments ltd… appellantandqilin world capital ltd… respondentin the matter of singapore international commercial court – suit no 5 of 2016betweencpit investments ltd… plaintiffandqilin world capital ltd… defendantjudgment[credit and security] — [mortgage of personal property] — [stocks and shares] — [non-recourse loan agreement][contract] — [breach] — [causation of loss]this judgment is subject to final editorial corrections to be approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.qilin world capital ltd vcpit investments ltd and another appeal[2018] sgca(i) 01court of appeal — civil appeal nos 126 and 145 of 2017sundaresh menon cj, bernard rix ij and dyson heydon ij 15 january 20186 march 2018 judgment reserved.dyson heydon ij (delivering the judgment of the court):introduction1 before the court are two appeals arising out of a loan transaction. the two appeals were argued together. the appeals are against orders made by ramsey ij sitting in the singapore international commercial court. his decision is recorded at cpit investments ltd v qilin world capital ltd [2017] sghc(i) 05.2 many complex questions were dealt with by ramsey ij in a manner which has not attracted challenge in these appeals.factsthe loan agreement3 on 16 november 2015 the parties entered two agreements. the first was a stock secured financing agreement (“the loan agreement”). the lender was qilin world capital ltd (“qilin”). it is incorporated in the british virgin islands. the loan was advanced on 2 december 2015. the borrower was cpit investments ltd (“cpit”). the sum lent was hk$31.25 million (“the loan”).4 the loan was secured on 25 million shares (“the pledged shares”). the expression “pledged shares” is a misnomer. the process of pledging applies to choses in possession (see chase manhattan bank na v wong tui sun and others [1992] 3 slr(r) 436 at [24]). a share is a chose in action, not a chose in possession. while share certificates, which were once common, can be treated as choses in possession, there is no evidence that there were any share certificates involved here. by “pledged shares” the parties meant “shares used as security for the loan”. the pledged shares were shares in millennium pacific group holdings ltd (“millennium”). cpit also owned 1.27 billion shares in millennium which were not used as security for the loan.5 the term of the loan was 36 months. it was agreed that repayment would only take place after 18 months. thus qilin was assured of interest on the loan for that period. on repayment of the loan, qilin was obliged to return the pledged shares. the loan was a non-recourse loan. in the event that it was not repaid, qilin could only enforce its rights against the security – the pledged shares. qilin had no right to pursue personal claims against cpit as debtor.6 on 1 december 2015 a stock price of hk$2.50 was set. it was by reference to that figure that the loan lent was fixed at hk$31.25 million.
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  joint core bundle vol ii, tab 3, p 21.
+
+
+
+ in short, the lender was only prepared to lend against security agreed to be worth twice as much as the loan.the control agreement7 the second agreement entered into on 16 november 2015 was the control agreement (“the control agreement”). the parties were cpit, qilin and prominence financials ltd (“prominence”, also described as the “depository broker”). the recitals recorded that qilin had agreed to make a loan to cpit and that cpit had granted to qilin “a security interest and/or pledge in [cpit’s] assets” which were held in a brokerage account maintained by prominence for cpit (“the account”).
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  joint core bundle, vol ii, tab 2, p 15.
+
+
+
+8 clause 1 of the control agreement provided that “[qilin] may from time to time provide notifications to the depository broker directing it to transfer, pledge, hypothecate, withdraw or redeem any funds or other property in the account…”.
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  joint core bundle vol ii, tab 2, p 15.
+
+
+
+ clause 1 gave the lender (ie, qilin) complete control of the property in the account until the lender’s security interest had come to an end. 9 the loan agreement and the control agreement each contained an exclusive jurisdiction clause in favour of singapore and a choice of law clause choosing singapore law as the governing law.
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  joint core bundle vol ii, tab 1, pp 10–11 and tab 2, p 18. 
+
+
+
+prominence account 0310 on or about 20 november 2015 an account was opened in the name of cpit with prominence (“prominence account 03”). cpit transferred 210,000,000 shares in millennium into that account. at that time, it was contemplated that some or all of them might be used as security for further loan advances from qilin to cpit.the 2 december transaction11 by letter of 2 december 2015, qilin gave certain instructions to the depository broker. one was to create a sub account in the name “qilin sub acct cpit invs ltd”. another was to transfer the pledged shares into the new sub account “for value 2nd december, 2015 free of payment”.  another was to “debit qilin world capital ltd (c083188) for hk$30,781,250 to the account of qilin sub acct cpit investments ltd for value 2dec15”. another was: “[u]pon successful of funds tranefer [sic] into qilin sub acct cpit invs ltd, pls debit hk$30,781,250 into cpit investents [sic] ltd (c083103) with you value 2dec15”.
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  record of appeal, vol iii part f, p 1270.
+
+
+
+ those instructions were obeyed. and a new account was opened in the name of “qilin sub acct cpit invs ltd” (“prominence account 20”). 12 there is in evidence a “sold note” dated 2 december 2015 stating that 25 million shares in millennium at hk$2.50 each were transferred to qilin.
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  joint core bundle vol ii, tab 4, p 22.
+
+
+
+ it stated “consideration received” as hk$62,500,000. there is also in evidence a corresponding “bought note” of 2 december 2015. it stated that the transferor of 25 million shares in millennium at hk$2.50 was “qilin world capital ltd sub acct cpit investments ltd”. it, too, stated, “consideration received” as hk$62,500,000. thus, the documents suggested, mysteriously, that both seller and buyer received consideration of hk$62.5 million. 13 on each of the sold note and the bought note is a stamp placed by the assistant collector stamp office hong kong on 17 december 2015, recording the payment of hk$125,000 as well as an indication that the payment included a penalty for late stamping. it is to be inferred that each of the sale and the purchase required the payment of hk$62,500 of stamp duty (0.1% of hk$62,500,000) and that in each case a penalty was imposed equal to the amount of the stamp duty because stamping took place more than two days after the sale or purchase (see ss 9(1) and 19(1), and first schedule, head 2(1) of the hong kong stamp duty ordinance (cap 117)). the total stamp duty was hk$250,000. cpit submitted that the incurring of liability for this substantial sum excludes the possibility that the consideration was another sum, or was non-existent.
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  respondent’s case for ca 126/2017, para 6.
+
+
+
+14 on 3 december 2015, on qilin’s instruction to  prominence, the pledged shares were transferred from prominence account 20 to qilin’s account with haitong  international securities company ltd (“haitong”) (judgment at [23]–[24]).
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  see also record of appeal, vol iii part f, pp 1276–1277.
+
+
+
+ on 4 december 2015, cpit became aware of this.
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  record of appeal, vol iii part g, pp 1469–1470.
+
+
+
+ the transfer of the pledged shares from prominence account 03 to prominence account 20 and then to qilin’s account with haitong shall be referred to as the “2 december  transaction”.15 cpit did not become aware that the “sold note” and the “bought note” existed until it received qilin’s third supplementary list of documents filed on 30 november 2016.
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  respondent’s case for ca 126/2017, para 4.
+
+
+
+ the affidavit verifying the list stated in para 7(b) that “the transfer form…indicates that stamp duty was paid when legal title in the [pledged] shares was transferred subsequent to the said disbursement of the loan amount [cpit]”.
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  respondent’s supplemental core bundle for ca 126/2017, p 9.
+
+
+
+the 8 december 2015–14 january 2016 share sales16 between 8 december 2015 and 14 january 2016, qilin sold most of the pledged shares on the open market. the following table sets out the closing price, the numbers qilin sold on each day, and the total numbers sold on the market on each day. dateclosing price(hk$)numbers of millennium shares sold by qilintotal traded8 december 20151.981,500,0004,100,0009 december 20151.651,160,0006,108,00014 december 20151.732,340,0006,332,00015 december 20151.66800,0004,668,00016 december 20151.58136,0002,040,00018 december 20151.421,000,0003,988,00021 december 20151.351,556,0003,372,00022 december 20151.27824,0003,628,00023 december 20151.3092,000752,00028 december 20151.33204,0002,820,00029 december 20151.29476,0002,028,00031 december 20151.2444,000116,0004 january 20161.2024,000168,0005 january 20161.001,368,0002,004,00011 january 20160.89368,0005,352,00012 january 20160.754,644,0009,148,00013 january 20160.704,488,0005,404,00014 january 20160.681,116,00011,336,20017 thus in this period qilin sold 22.14 million pledged shares. that left a balance of 2.86 million pledged shares. the origins of the proceedings18 by letters of 18 and 22 december 2015, qilin claimed that there had been “a decrease in the price of the collateral of more than thirty-five (35%) for three consecutive trading days” within the meaning of cl 5(b)(i) of the loan agreement. the letters contended there was thus a default under the loan agreement. 19 on 4 january 2016, solicitors for cpit contended that qilin’s sales of pledged shares were in repudiatory breach of the loan agreement and the control agreement, and stated that cpit accepted the repudiatory breaches as terminating the agreements. on 11 january 2016, solicitors for qilin challenged this.20 on 12 january 2016, cpit commenced proceedings in the high court of singapore. on 12 and 13 january 2016, cpit applied for an injunction to restrain qilin from selling further pledged shares or disposing of the proceeds of sale in relation to those sold (“the first injunction”), and for a mareva injunction. despite these events qilin continued to sell the pledged shares until 14 january 2016.21 on 18 january 2016, the first injunction was granted. on 12 february 2016, parties reached an agreement for qilin to pay the proceeds of sale of the pledged shares, together with other money, into a designated solicitor’s account. this was recorded in a consent order (judgment at [40]).22 on 28 june 2016, the proceedings were transferred to the singapore international commercial court.the decision belowthe orders of ramsey ij23 the trial took place over three days from 13–15 december 2016. on 17 july 2017, ramsey ij made orders which, as sealed on 31 july 2017, included the following:1. the 2nd defendant holds the sum of hk$31,250,000.00, being the proceeds from the sale of the pledged shares less the value of the loan, on trust for the plaintiff;2. the 2nd defendant shall pay to the plaintiff the said sum of hk$31,250,000.00 held on trust; 3. the plaintiff shall be entitled to an account of the profits made by the 2nd defendant in respect of the said sum of hk$31,250,000.00 held on trust;4. …5. the 2nd defendant’s counterclaim against the plaintiff is dismissed…24 the “2nd defendant” was qilin.the reasoning of ramsey ij25 the central steps in ramsey ij’s reasoning were, in outline, as follows. 26 first, the loan agreement did not transfer legal title to the pledged shares to qilin. it transferred to qilin only a security interest in them as equitable mortgagee (judgment at [72]–[89] and [187]).27 secondly, qilin had no entitlement to sell any of the pledged shares until and unless an event of default had taken place (judgment at [74]–[79]). an important aspect of the reasoning concerned cl 5(f) of the loan agreement. it provided: “the lender shall have the right to transfer, re-hypothecate and assign the shares. in the event of a default, the lender shall have the right to dispose of the shares.” ramsey ij held that the rights conferred in the first sentence did not extend to a right to dispose of the pledged shares. the second sentence indicated that disposal could only take place in the event of a default. ramsey ij said that the first sentence gave qilin the right to transfer the pledged shares to another account, or to use the pledged shares as security for another transaction (subject to cpit’s rights) or to assign qilin’s rights in the pledged shares to another party (again subject to cpit’s rights) (judgment at [73]). but it gave qilin no right to dispose of the pledged shares and thereby destroy cpit’s rights, absent any default which remained uncured. this construction is important. it was not challenged.28 thirdly, there had been no default before the 2 december transaction.29 fourthly, there had been no event of default justifying the sale of pledged shares in the market in the period from 8 december 2015 to 14 january 2016. clause 5(b) of the loan agreement began:if the borrower defaults…on any terms and conditions set forth in this agreement, then the borrower shall have a three (3) calendar day period within which they may cure the default…in the event that no such cure is effected, the borrower will have no rights, claims or interest in the collateral.the only event of default relied on was alleged to be that stated in cl 5(b)(i): “a decrease in the price of the collateral of more than thirty-five (35%) percent for three (3) consecutive trading days”. ramsey ij held that this required a decrease of at least 35% from the previous day’s price on the first day and a maintenance of that decrease on the following two days. he rejected the proposition “that the decrease must be calculated by reference to the price of the collateral [ie, the pledged shares] when it was first pledged” (judgment at [96]). qilin did not challenge ramsey ij’s approach on appeal.30 fifthly, on the correct construction of cl 5(b)(i) there had been no relevant decrease. even if there had been, qilin had not complied with the preconditions to a valid sale of the pledged shares created by cll 5(b) and (d). these sub-clauses required qilin to give cpit notice of the default (a “notice of default”), and give cpit time within which to cure the default by providing further security. hence the relevant notice of default of 18 december 2015 on which qilin relied had been given too early (judgment at [114]–[119]).31 sixthly, qilin’s breach of cl 5(f) was a breach of condition. alternatively, the sales of the pledged shares from 8 december 2015 to 4 january 2016 deprived cpit of substantially the whole benefit which it was intended that cpit should obtain from the loan agreement (judgment at [140]–[150]).32 seventhly, cpit’s acceptance of qilin’s repudiatory breach and its termination of the loan agreement was valid. it was not a precondition that cpit repay the loan (judgment at [151]–[161]).33 eighthly, qilin, as equitable mortgagee of the pledged shares, held the monies received as a result of the 2 december transaction, less the value of the loan and costs of sale, on trust for cpit (judgment at [187]–[200] and [295]). there were no relevant costs (judgment at [295]). qilin failed to establish any estoppel defence barring that outcome (judgment at [214]–[242]).34 ninthly, an account should be taken of any profits made by qilin as a result of the 2 december transaction since it was in breach of its fiduciary duty to cpit (judgment at [198] and [297]–[299]).the appeals35 qilin has appealed against the first three of ramsey ij’s orders (see [22] above). cpit has appealed against the fifth order. qilin’s appeal will be considered first.qilin’s appealqilin’s criticisms of ramsey ij’s reasoning36 qilin centred its attack on the eighth of ramsey ij’s conclusions (see [33] above).37 ramsey ij characterised the 2 december transaction as the sale of the pledged shares in breach of the loan agreement. qilin’s primary contention was that the 2 december transaction purported to be a sale by qilin of the pledged shares to itself, and that a “sale” to oneself was not a sale in law. hence the 2 december transaction cannot have been a sale and can only have been a “transfer”; and transfers were permitted by the first sentence of cl 5(f) of the loan agreement. it also contended that the sold note and bought note did not evidence a sale.evaluation of qilin’s submissions38 to evaluate qilin’s arguments it is necessary to characterise the 2 december transaction. 39 it is clear that the 2 december transaction involved only qilin. cpit was not consulted about it in advance. cpit was only told on 4 december 2015 that the pledged shares had been transferred from prominence account 20 to qilin’s haitong account. upon learning of the 2 december transaction, mr chu of cpit contacted ms suen, who had been acting for qilin. ms suen told mr chu that qilin was entitled to transfer the shares as it had an account with haitong. mr chu also contacted prominence, which confirmed the transactions (judgment at [25]). cpit took no action on the information.40 the lawfulness of the 2 december transaction turns on the question: was the 2 december transaction a disposal of the pledged shares (which would have been a breach of cl 5(f), second sentence, unless there had been a default)? or was it a transfer of the pledged shares (which would have been permissible under the first sentence of cl 5(f))? in submissions below, cpit cited the remarks of chan sek keong cj in pacrim investments ltd v tan mui keow claire [2008] 2 slr(r) 898 (“pacrim”) at [16], where chan cj noted that, in the context of a contractual restriction on the transfer of shares, the meaning of terms such as “sell”, “assign” and “dispose of” depends on the context, the intention of the parties, and the purpose for which the restriction was agreed to or imposed (judgment at [62]). that approach was correctly accepted by the judge (judgment at [68]). his construction of cl 5(f) distinguished between, on one hand, “transferring” and “assigning” – which would be subject to the rights and interest of cpit (judgment at [73]) – and the right to dispose of the shares on the other hand (judgment at [76]). for the purposes of the loan agreement, a “disposal”, as opposed to a mere “transfer”, is a transaction which would not be subject to cpit’s rights and interest. in other words, a disposal would be a conveyance of full unrestricted ownership which would destroy cpit’s interest. 41 it is therefore crucial, in analysing the nature of the 2 december transaction, to decide what the intention of qilin was. was qilin’s intention to acquire full legal and beneficial title to the pledged shares, thereby destroying cpit’s beneficial rights and interest? it is qilin’s intention that is crucial to the question: was the 2 december transaction a disposal of the pledged shares or a transfer? 42 issue 3 of the issues which the parties agreed that ramsey ij should examine was whether qilin was “entitled, under clause 5(f) of the loan agreement…to sell the [pledged shares] in the absence of an event of default under the loan agreement”. but that formulation did not explicitly separate out the issue of whether the 2 december transaction was a disposal or a transfer.43 nor did it explicitly separate out any issue as to whether the 2 december transaction related to the transfer of legal but not beneficial title. 44 this seems to have been because the parties did not direct enquiry into what it means to “transfer” or “deposit” shares into an account. they did not direct enquiry into who held legal title to the shares before or after 2 december 2015. ramsey ij did say that “the starting point was that the legal and equitable owner of the [pledged shares] was cpit” (judgment at [70]), but the point does not appear to have been argued or considered in depth. the parties also did not direct enquiry into what is meant by transferring the pledged shares.45 nor did they direct enquiry into what happened to the hk$62.5 million referred to as “consideration” in the sold note and the bought note.46 the 2 december transaction is mysterious. in oral argument, counsel for qilin, mr roderick martin sc, said that qilin thought it had to transfer the pledged shares to itself in order to obtain legal title. ramsey ij did not make any finding that the transaction passed cpit’s beneficial interest to qilin. it would be impossible for qilin to pass its equitable interest as equitable mortgagee to itself.47 it makes no sense to treat qilin as having intended through the 2 december transaction to acquire the whole legal and equitable interest in the 25 million shares. that is so for the following reasons:(a) qilin had already parted with hk$31.25 million in favour of cpit, being the advance of the loan, just a short while before. that advance was secured solely by the pledged shares. qilin’s sole means of securing repayment was to exercise its rights as a mortgagee against the pledged shares.(b) qilin had gone to considerable lengths to ensure that it had security that on the face of it was worth at least twice as much as the hk$31.25 million loan. this built in a buffer against volatility and the vagaries affecting the market price of the shares.(c) if cpit is correct in its submission that the 2 december transaction was a “sale” by qilin qua mortgagee to qilin qua purchaser of the entire legal and beneficial interest in those shares, even assuming this could be done in law, which is questionable, given the difficulties facing self-dealing by a mortgagee without the mortgagor’s consent, the net position would be that qilin had acquired the shares for itself for a price of hk$62.5 million. this increased its original exposure in the sense that it would, on this basis, have taken the equity risk on the shares to the tune of hk$62.5 million in addition to having already paid cpit the loan advance of hk$31.25 million. if the shares proved worthless, it would lose the hk$62.5 million it had “paid” for the acquisition. it would also have to pay cpit hk$31.25 million because cpit’s position would have been crystallised by the sale and this was the net amount payable to cpit on this basis (being the sale proceeds of hk$62.5 million minus the loan amount of hk$31.25 million which it would be entitled to recover from the sale proceeds).(d) nobody else could have had any interest in the hk$62.5 million on the hypothesis outlined in (c) above because the transaction had to cover both the legal and beneficial interest in the shares and it was and is common ground that cpit had the beneficial interest subject only to qilin’s security interest.(e) to conclude that qilin intended to increase its exposure in this way would make no sense. the end result of this would have been to lock in the value for cpit and transfer the equity risk in relation to the 25 million shares for which qilin had “paid” hk$62.5 million to itself. this would have been inconsistent with its desire to have security of a value double the amount of the loan.(f) the only basis on which this could make sense would be if qilin believed that the value of the pledged shares was going to go up. but it clearly did not believe this. that is revealed by its actual conduct in the market. the transfer to haitong was effected as a means of increasing its ability to sell the shares. days after the 2 december transaction, qilin started to sell shares on a falling market for less than hk$2.50. if qilin had believed that the shares were going to go up in value, it would have been buying shares when the price fell rather than selling them. no reason has been suggested why qilin would suddenly go from being extremely bullish to being extremely bearish in the space of those few days.(g) if qilin’s entire strategy was driven by the view that the shares would increase in price it could not possibly have thought it could limit cpit’s rights to hk$62.5 million and reap the rewards of a massive windfall in the event that the price did go up. (h) on 2 december 2015, the stock market price was hk$2.42. it is improbable that qilin intended to buy the 25 million shares for hk$2.50 through the 2 december transaction when it could perhaps have bought them on the stock market for hk$2.42.48 there is no evidence that the consideration of hk$62.5 million referred to in the sold note and bought note was paid, or that qilin intended that it ever should be. therefore, qilin received no proceeds from the transaction. there is nothing to which a constructive trust could attach.49 if the 2 december transaction had purported to transfer to qilin the whole title to the pledged shares, without distinguishing legal and equitable ownership, it would have been completely unauthorised and voidable at the suit of cpit. qilin would not have been able to rely on the defence that it was a bona fide purchaser for value without notice of cpit’s equitable rights. hence it is improbable that that was qilin’s intention.50 it seems that qilin’s intention in relation to the 2 december transaction was, by attempting to gain legal title, to prepare for any attempt to sell the pledged shares on the open market to bona fide purchasers for value without notice (either lawfully, in the event of a default, or unlawfully, if it felt it necessary to so to despite the absence of a default). it further seems that in aid of that enterprise it was felt desirable to generate evidence of stamping, and that this was why the sold note and bought note were created. an attempt to transfer legal title, unlike an attempt to transfer equitable title, would not itself affect cpit’s interests.  ramsey ij analysed the first sentence of cl 5(f) as permitting transactions as long as they were subject to the rights of cpit. (judgment at [73]). on that unchallenged conclusion, the attempt would be lawful.51 this corresponds with an argument advanced by qilin that between 2 december 2015 and 8 december 2015 “cpit’s right of redemption remained undisturbed or intact until 8 december 2015 when the pledged shares were sold on the open market, which only then resulted in the loss of…cpit’s right of redemption and hence a breach of clause 5(f)”.
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  appellant’s case for ca 126/2017, para 17.
+
+
+
+52 the view that the 2 december transaction was an attempt to pass legal title is supported by the evidence of mr morgan wilbur that by virtue of the transaction, “legal title was conveyed to [qilin]”.
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  record of appeal, vol iii part e, p 1049, para 34. 
+
+
+
+ it is also supported by the affidavit verifying qilin’s third supplementary list of documents, which said the sold note and bought note indicated that “stamp duty was paid when legal title in the … shares was transferred” (see [15] above).  53 on that view there was no breach of the loan agreement on 2 december 2015. cpit certainly did not contend that there had been a breach after it heard of the movement of the pledged shares into qilin’s haitong account. in this regard its behaviour stands in contrast with its speedy protests once it learned of the sales of the pledged shares in the open market early in january 2016.54 in view of these conclusions it is unnecessary to consider other ways in which qilin put its primary argument, or its other arguments.  55 to put the matter shortly, a consideration of points seemingly not advanced to ramsey ij suggests that there is no reasonable basis for viewing the 2 december transaction as a sale resulting in the acquisition by qilin of the entire interest in the 25 million pledged shares, without differentiation into legal or equitable title. there is no evidence that qilin actually received any money from the transaction. there is no evidence that qilin was entitled to receive any money from it. hence the 2 december transaction was a transfer permitted by the first sentence of cl 5 (f) of the loan agreement, not a disposal prohibited by the second sentence.56 for those reasons, qilin’s appeal is allowed. orders 1–3 made by ramsey ij should be set aside.cpit’s appeal57 cpit’s appeal concerns the sales of 22,140,000 of the pledged shares by qilin on the market from 8 december 2015 to 14 january 2016 in breach of cl 5(f) of the loan agreement. 58 during that period, the market price of millennium shares fell from hk$2.32 to hk$0.68. the paper value of cpit’s shareholding in millennium (excluding the pledged shares) fell to the extent of over hk$2 billion. cpit argues that this loss was caused by qilin’s breach.the reasoning of ramsey ij on causation59 ramsey ij used the expression “disposals” to describe qilin’s sales of pledged shares after 8 december 2015 (judgment at [26]). he concluded that “the cause of the substantial fall of the millennium share price was the overinflated share price at the beginning of december 2015 and not the disposals of the pledged shares by qilin.” (judgment at [287]). this language indicates that he did not consider that any other cause was operating even to a minor degree. the finding is thus a very strong one. it is, however, desirable to note that ramsey ij rejected one allegation which qilin thought it right to make – that the market price of millennium shares was artificially maintained and that cpit knew or was involved in this. (judgment at [251]–[263]). in this court qilin did not challenge that rejection.60 the reasoning of ramsey ij began with application of a “but for” causation test. he pointed out that there was an agreement between the two experts, which he seemed to accept, that the millennium share price was “overinflated and ‘a bubble ripe for bursting’”. he then said (judgment at [284]): i do not consider it can be said that but for qilin’s sale of the shares the market price would not have fallen. the fall in the market price was waiting to happen and the dominant or effective cause of the actual fall in the market price was the overinflated price of the shares. the overinflated price meant that a sale of shares which normally would have had a minimal, if any, effect on the share price had a vastly disproportionate effect on the share price. thus, i consider that it is unrealistic to describe the sale of shares as being the cause of the fall in the price of the millennium shares. the effective cause was the overinflated price of the shares.he continued (judgment at [285]):given my view of the cause of the fall in the share price, i do not consider that it can be said that part of the fall in share prices was caused by the disposals and part by the overinflated price of the millennium shares, even if it were possible to quantify each part separately. further, there were, as the figures show, other substantial sales of the shares in the relevant period and, equally, it could not be said that a particular sale by qilin rather than a sale by others caused a particular fall. in fact the fall that actually happened was caused by the overinflated millennium share price.cpit’s criticisms of qilin’s reasoning61 qilin contended that the sole cause of loss was the overinflated price of the shares. cpit argued that this was inconsistent with common sense and was against the weight of the expert evidence – both that of mr clive derek conway louis rigby (“mr rigby”), the expert called on behalf of cpit, and that of mr christopher chong meng tak (“mr chong”), the expert called on behalf of qilin. 62 cpit also contended that qilin was in error in contending that a share price which is “overinflated” must inevitably decline. 63 cpit began by accepting that the relevant test for causation of damage in the law of contract is whether the breach was an “effective” or “dominant” cause: sunny metal & engineering pte ltd v ng khim ming eric [2007] 3 slr(r) 782 at [60] per vk rajah ja. but it was also said in that case that the courts have avoided laying down formal tests for causation and have instead relied on common sense (at [62]). and, it may be added, it is not necessary that the “effective” cause be the sole cause. common sense64 cpit argued that it is common knowledge that the sale of a large volume of publicly listed shares on the open market would have a destabilising effect on the market price.  that is because if the supply of shares is increased substantially over a short period and demand is static, the price is likely to fall.  these submissions are consistent with judicial reasoning both in hong kong (hengshi international investments v bayspring international ltd [2015] hkcfi 2282 at [59]) and singapore (pacrim at [20]). cpit submitted that qilin sold shares in relatively large quantities over a short period and the price of the shares fell over that period. this permitted an inference of causation. the expert evidence65 cpit stressed particular aspects of the experts’ evidence. mr chong testified that though the magnitude of the fall in the share price was due to a pre-existing condition, qilin’s selling on 8 december 2015, which represented 65.23% of the previous five trading days’ average, was “aggressive” and acted as a “trigger” for the fall.
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  appellant’s case for ca 145/2017, para 20.
+
+
+
+ 66 for his part, mr rigby thought that qilin’s selling “must have materially contributed to the price decline albeit not to an extent that can be quantified.” [emphasis added].  a material contribution is usually regarded as a cause, particularly when the proposition is asserted with the vigour employed by mr rigby. mr rigby also said that while it was not possible to assess the price impact of qilin’s sales with any precision, he was “quite certain” that the effect was meaningful.  that which causes a meaningful effect can be an “effective” or “dominant” or “common sense” cause. qilin discounted mr rigby’s evidence on the ground that he did not use the actual words “dominant” or “effective”. however, those words are not to be used in a talismanic way. 67 qilin, incidentally, relied on a remark in an article by a mr david webb (“mr webb”) stating that “millennium is still only worth about $0.25 per share.”
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  respondent’s case for ca 145/2017, paras 18 and 54.
+
+
+
+  this was not testimony. the author was not available to be cross-examined. the entirety of the article was not tendered. mr chong, who cited the article, did not endorse the author’s view. it must be accepted, however, that mr webb’s view receives some retrospectant support from the fact that the market price is currently hk$0.19, according to what the parties agreed in telling the court during the hearing of these appeals. 68 both experts said that an industry accepted method of assessing the causal impact of qilin’s selling on the market price was to compare the volume of qilin’s selling each day there were sales with the daily average volume for that day or historical average traded volume over a period such as five days.
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  record of appeal, vol iii part c, pp 743–744 (paras 5.2–5.3) and p 757 (para 10.4); record of appeal, vol iii part h, pp 1819 ff, 1845 ff and 1902 (line 5).
+
+
+
+ 69 mr chong said that sales exceeding 10% of average trading volume were “material” in relation to market price changes. sales exceeding 20% were “significant”, and “most likely” to have an impact on market price. sales exceeding 50% were “very significant” and “must” have had an impact on market price.  on that basis, an analysis of percentages of the trading volumes on the day of sale revealed that 11 of qilin’s sales were less than material, four were material, eight were significant and three were very significant.  if the percentages of sales of the preceding five-day average are analysed, 15 were less than material, three were material, four were significant and five were very significant. cpit submitted that these results suggest that on the balance of probabilities, the wrongful sales were an effective cause of the price falls. it submitted that while it is true that the onus of proving causation rested on cpit, at an evidentiary level, the fact that there is no evidence that those falls would have happened even without the wrongful sales supports the weight attaching to the frequency and volume of qilin’s sales, together with the expert evidence of the fact that some were material, some significant, and some very significant. mr rigby said it was not possible to “quantify precisely what factors affected what percentage of a price.”  but despite the difficulty of precise quantification, mr rigby did not deny that aggressive, frequent and substantial selling had the capacity to affect the price to some degree. as mentioned, according to mr chong, on particular days the sales were “most likely” to have an impact on the share price and on other days they “must” have had an impact. cpit submitted that impacts of these kinds suggest that the qilin selling was an effective cause even if other factors may have been causes or effective causes as well. erroneous assumption that market prices will tend towards true value70 cpit submitted that attribution of the fall in share prices to the overinflated price of millennium shares rested on an erroneous assumption. the assumption is that market prices will tend towards true value. cpit further contended that the expert evidence did not reveal what the “true value” was. was it a value assessed on a break up basis? or was it the present value of probable future earnings? or was it something else? indeed, mr rigby said there was “no such thing as true value”.  one measure of value, however, is the market price, for that is what willing but not unduly anxious buyers and sellers establish. the value of a share in that sense may continue for some time or may change from time to time. 71 cpit further submitted that the evidence did not permit analysis of the mechanics of how the overinflation led to the price fall. no cause alternative to the qilin sales was pointed to, other than that there were other sales of millennium shares in the market in the relevant period, some substantial. nothing else can explain why the fall happened at that very time. the overinflated price was not a recent phenomenon. the disparity between price on the one hand and asset value/performance success on the other had existed for some time. there is no apparent reason why it could not have gone on longer, perhaps a great deal longer, save for the qilin sales. cpit’s submission that it is erroneous to assume that market prices will tend towards true value is correct so far as it asserts that the assumption does not sufficiently explain why the falls occurred at the precise moment that they did unless they were caused by the sales. yet equally, the fact that a single price fall follows a single sale may not by itself establish that the sale caused the fall. cpit submitted that the repetition of the pattern after many of the qilin sales justifies an inference of causation. qilin pointed to the fact that sometimes the price rose after the qilin sales. but cpit submitted that the overall picture is one of turbulence created by qilin’s sales and leading, over the whole period, to a marked trend of price falls.evaluation of cpit’s submissions72 those who prepared and presented cpit’s submissions on causation had a difficult task.  they played their hand well, but the cards were bad. the submissions must be rejected on grounds which can be put briefly as follows.(a) the opinion of the experts was that the stock was a bubble stock. they based this in part on the fact that in the days when its price was rising, the fundamentals of the business were weakening: business, profits and cash flow were declining, various proposed strategic alliances had not materialised in any useful way, and the price/earnings ratio at various times was exceptionally high, for example, in excess of 1,200. that opinion is supported by the fact that by the date of the appeal hearing the price had fallen to hk$0.19.(b) only a tiny percentage of the total shares in millennium was being sold on any one day.(c) numbers of shares which were greater than the pledged shares sold by qilin were placed on the market during the relevant period. sellers other than qilin sold 80.7% of the total volume of shares sold during this time. some of these sales were in quite large lots. it is impossible to say that a particular sale or group of sales by qilin making up the 19.3% it sold caused a particular fall.(d) though the market fell heavily, the falls were not congruent with sales. that is, the price movements did not correspond with either qilin’s decisions to sell or its decisions not to sell. the price sometimes rose on days when there were no qilin sales, but it also fell on some of those days. for example, when qilin did not make any sales of the pledged shares on 11 december 2015, the closing price rose from hk$1.68 on 11 december 2015 to hk$1.73 on 14 december 2015 (the next trading day). however, the closing price also fell from hk$1.77 to hk$1.68 from 10 december 2015 to 11 december 2015, during which time qilin also did not sell any shares. on occasion, the price was static despite qilin’s sales. for example, the closing price remained at hk$1.29 from 29–30 december 2015, despite qilin having sold 476,000 shares on 20 december 2015. the price sometimes rose on days when there was heavy selling by qilin. for example, despite qilin selling 1,368,000 shares on 5 january 2016, the closing price went from hk$1.00 that day to hk$1.10 on 6 january 2016.
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  record of appeal, vol iii part c, pp 704 (table 7.1) and 709 (table 7.8).
+
+
+
+ (e) what price will be achieved as a result of an offer to sell shares on a particular day will depend on many circumstances peculiar to that day. the fact that on particular days particular offers were only accepted at lower prices than on other days does not point to any particular event or factor as having caused the lower price.(f) the central question is: “would the price have dropped even if qilin had not sold?” it is hard to support a negative answer in view of the fact that the general trend of the market price had been downwards for some time before qilin’s first sale. the closing price of millennium shares had fallen from a high of hk$2.65 on 26 november 2015 to hk$2.32 on 7 december 2015, immediately before qilin started selling.(g) the experts sometimes spoke in the language of causation – for example, they used terms like “trigger”, or described qilin’s sales as being “like the removal of a finger on a cork in water”. but so far as their evidence suggests that there was causation, it does not, taken with all the circumstances, demonstrate on the balance of probabilities that but for the sales by qilin there would have been no loss.  that is, the evidence does not suggest that its selling was at least an effective cause.(h) though it was difficult to identify which factors caused the price fall, there were “a myriad of factors”, according to mr rigby. (i) while cpit relies on mr chong’s evidence that qilin’s selling was like a “trigger”, the evidence does not bear this out. the initial qilin sales were of 1.5 million shares on 8 december 2015 – a day when the total traded volume was 4.1 million shares. those sales therefore fell within mr chong’s “significant” category, or, when compared against the preceding five-day average, within the “very significant” category. on the next day qilin sold 1.65 million shares. the total traded volume was 6.108 million. those sales nearly fall within the “significant” category, or, in comparison with the preceding five-day average, they fall comfortably within the “significant” category. yet there was no evidence that those two days of sales, taken alone or together, were sufficient to be the effective or dominant cause of the later price falls.73 hence ramsey ij’s conclusion that cpit had not satisfied the burden of proving causation on the balance of probabilities was correct.conclusion74 for these reasons, qilin’s appeal is allowed and cpit’s is dismissed.75 the parties were informed at the close of argument that after the decision was handed down written submissions would be received on the question of costs.76   subject to that, the orders are that the appeal in civil appeal no 126 of 2017 be allowed and the appeal in civil appeal no 145 of 2017 be dismissed.sundaresh menon              bernard rix               dyson heydon   chief justice          international judge            international judgemartin roderick edward sc, renganathan nandakumar, nandhu and yap yongzhi, gideon (rhtlaw taylor wessing llp) for the appellant in ca 126 of 2017 and the respondent in ca 145 of 2017;tan poh ling wendy and chua han yuan, kenneth (morgan lewis stamford llc) for the appellant in ca 145 of 2017 and the respondent in ca 126 of 2017.

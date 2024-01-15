@@ -1,0 +1,1123 @@
+in the appellate division of the high court of the republic of singapore[2022] sghc(a) 42civil appeal no 69 of 2021betweengomez, kevin bennett… appellantand(1)bird & bird atmd llp(2)boey swee siang… respondentsin the matter of hc/s 198/2019betweengomez, kevin bennett… plaintiffand(1)bird & bird atmd llp(2)boey swee siang… defendantsjudgment [civil procedure — appeals — admission of further evidence on appeal][civil procedure — appeals — leave to raise new points — o 56a r 9(5)(b)of the rules of court (2014 rev ed)][legal profession — professional conduct] [tort — negligence — breach of duty][tort — negligence — causation][tort — negligence — damages][res judicata — issue estoppel] this judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.gomez, kevin bennettvbird & bird atmd llp and another [2022] sghc(a) 42appellate division of the high court — civil appeal no 69 of 2021belinda ang jca, kannan ramesh jad and hoo sheau peng j26 august 2022 6 december 2022 judgment reserved.hoo sheau peng j (delivering the judgment of the court): introduction 1 this is an appeal by the appellant against the decision of the high court judge (the “judge”) in hc/s 198/2019 (“suit 198”), dismissing his claim against the respondents for professional negligence. the first respondent is a law firm and the second respondent was its partner at the material time. the appellant was a former client of the respondents.background2 the background facts are stated in the judge’s grounds of decision in gomez, kevin bennet v bird & bird atmd llp and another [2021] sghc 230 (the “gd”) at [2]–[43]. the brief facts are as follows. 3 in hc/s 700/2008 (“suit 700”), the respondents acted for the appellant who claimed against mr kuhadas vivekananda (“mr kuhadas”) and magnetron insurance & financial services pte ltd (“magnetron”) for commissions that magnetron had failed to pay the appellant when he was previously working for magnetron. mr kuhadas was the managing director and a major shareholder of magnetron.4 on 1 april and 28 april 2011, the appellant obtained default judgment against mr kuhadas and magnetron respectively for the sum of $140,967.87 for “[o]ver-riding commissions” for april and may 2008, with damages to be assessed for “[f]ull commissions from june to july 2008”.
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  roa vol 5 part p at pp 3939 to 3942, 3998 to 4001.
+
+
+
+ subsequently, the total damages owed to the appellant were assessed to be $1,226,289.70, and judgment for this amount was granted against mr kuhadas and magnetron jointly and severally on 28 october 2011 (the “judgment sum” and the “october 2011 judgment” respectively).5 many events transpired in relation to the enforcement of the october 2011 judgment, and we highlight only the material ones.6 on 18 february 2012, the respondents served on mr kuhadas a statutory demand (the “first statutory demand”) for the judgment sum with interest.
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  roa vol 3 part a at p 198; roa vol 5 part r at p 282.
+
+
+
+ on 20 june 2012, the respondents filed a bankruptcy application against mr kuhadas (the “first bankruptcy application”).
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  roa vol 5 part t at pp 5048 to 5061.
+
+
+
+ this was withdrawn on 19 july 2012
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  roa vol 3 part a at p 12 para 18.
+
+
+
+ because it was filed a day or two after the first statutory demand had lapsed.
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  roa vol 3 part g at p 200 lines 6 to 14.
+
+
+
+7 on 18 july 2012, the respondents served a second statutory demand on mr kuhadas.
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  roa vol 5 part u at pp 5293 and 5294.
+
+
+
+ on 30 august 2012, the appellant filed a second bankruptcy application against mr kuhadas (the “second bankruptcy application”).
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  roa vol 5 part u at pp 5376 to 5393.
+
+
+
+ negotiations then took place between mr kuhadas and the second respondent (on behalf of the appellant), with an exchange of e-mail correspondence leading up to 22 february 2013 (the “preceding correspondence”). on 22 february 2013 at 11.36am, the second respondent sent the following e-mail to mr kuhadas (the “22 february 2013 e-mail”):
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  roa vol 5 part z at pp 6909 and 6910.
+
+
+
+dear sir,in response to your e-mail:1. the first tranche of s$25,000 shall be paid to us by no later than 1 march 2013 at 4 p.m.2. the second tranche of s$25,000 shall be paid to us upon sale of of [sic] your unit in ballota park, with interest at the rate of 10% p.a. from 1 march 2013 until date of full payment.3. we shall continue to retain your cheque of s$50,000 as security for the above payment.4. you shall sign and return the properly and duly executed documents for the issuance of new magnetron shares by today, 4 p.m.in consideration of the same, our client is agreeable to withdraw the bankruptcy application [referring to the second bankruptcy application] once items 1 and 4 have been done, and you have unequivocally given your agreement to item 3.8 for completeness, we digress to explain the term in paragraph 4 of the 22 february 2013 e-mail in relation to the “magnetron shares”. sometime in october 2012, certain magnetron shares belonging to mr kuhadas were seized pursuant to a writ of seizure and sale. mr kuhadas claimed to have lost the share certificates. therefore, paragraph 4 provided that in his capacity as director of magnetron, mr kuhadas was to issue new “replacement” shares to facilitate the enforcement process. as it was, on the same day, at 3.53pm, mr kuhadas replied by e-mail, enclosing the documents for the issuance of new magnetron shares and indicating his agreement to the other items.
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  roa vol 5 part z at p 6909.
+
+
+
+9 it is not in dispute that an agreement was reached between the appellant and mr kuhadas, on the terms contained in the 22 february 2013 e-mail (the “22 february 2013 agreement”). however, it is disputed whether that agreement constituted a full and final settlement of the judgment sum, and that became one of the primary issues before the judge and the central issue in the appeal. it should be noted that mr kuhadas did not testify in the proceedings below before the judge. however, as we will explain below (at [11]-[12]), mr kuhadas’ position in december 2013 and thereafter in bankruptcy proceedings brought by the appellant against him in other courts was that the 22 february 2013 agreement had been a full and final settlement, and that his fulfilment of its terms discharged him from any further obligation to pay the balance of the judgment sum. in contrast, during that period, the appellant disagreed with mr kuhadas, and took the position that mr kuhadas’ fulfilment of the terms of the 22 february 2013 agreement did not effect such a discharge. notably, there was no negotiation on the complete discharge of the judgment sum. instead, the negotiation was limited to the appellant withdrawing the second bankruptcy application upon mr kuhadas’ fulfilment of the terms of the 22 february 2013 agreement in order to facilitate the sale of a property at ballota park (the “ballota park property”) co-owned by mr kuhadas, his wife and his sister-in-law. the bankruptcy proceedings against mr kuhadas were an impediment to the sale. while this remains the respondents’ stance in these proceedings, the appellant has departed from his earlier position.10 in the event, mr kuhadas fulfilled the terms of the agreement, and made the payments amounting to $50,000. on 7 march 2013, leave was granted for the appellant to withdraw the second bankruptcy application. the second respondent informed mr kuhadas of this on the same day by way of an e-mail (the “7 march 2013 e-mail”).
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  roa vol 5 part bb at p 7501; aws at p 34.
+
+
+
+11 in november 2013, the appellant engaged a different solicitor, mr vijai parwani (“mr parwani”) from parwani law llc, to issue another statutory demand against mr kuhadas (the “third statutory demand”).
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  roa vol 5 part a at pp 229 to 232; roa vol 3 part e at pp 23 and 24 para 60.
+
+
+
+ on 11 december 2013, mr kuhadas wrote to the second respondent. referring to the 7 march 2013 e-mail, he claimed that he did not know that the appellant had not, by the 22 february 2013 agreement, given him an unconditional discharge of the judgment sum.
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  roa vol 5 part bb at p 7497 to 7500.
+
+
+
+12 the appellant registered the october 2011 judgment (see [4] above) in the supreme court of new south wales on 14 february 2014
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  roa vol 5 part d at p 790.
+
+
+
+ and served a bankruptcy notice on mr kuhadas on 4 march 2014 (the “australian bankruptcy notice”).
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  roa vol 5 part d at pp 791 to 794; roa vol 5 part e at pp 1132.
+
+
+
+ mr kuhadas successfully applied to the federal circuit court of australia (“fcc”) to set aside the australian bankruptcy notice.
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  roa vol 5 part d at pp 795 to 806.
+
+
+
+ in its judgment dated 30 may 2014 (the “fcc judgment”), the fcc reasoned that mr kuhadas had at the very least “raised an arguable case that the effect of [the 22 february 2013 agreement] was to discharge mr kuhadas of his obligation to satisfy the [october 2011 judgment]”.
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  roa vol 5 part e at pp 1119 para 34.
+
+
+
+ for the hearing before the fcc, the appellant was represented by his solicitor in australia, mr nicholas james christiansen (“mr christiansen”) from sparke helmore lawyers. thereafter, acting in person, the appellant appealed to the federal court of australia (respectively, the “australian appeal” and the “fca”). the australian appeal was dismissed on 5 june 2015,
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  roa vol 5 part g at pp 1673 to 1691.
+
+
+
+ with the fca adopting largely the same reasoning and coming to the same conclusion as the fcc.13 meanwhile, on 8 april 2014, the third statutory demand was served on mr kuhadas by parwani law llc.
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+  roa vol 5 part e at p 1213.
+
+
+
+ citing the fcc judgment in support, mr kuhadas then applied to set aside the third statutory demand.
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+  roa vol 5 part c at p 723 line 32 to p 724 line 2.
+
+
+
+ on 18 july 2014, the assistant registrar (“ar”) dismissed the application.
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+  roa vol 5 part c at p 719.
+
+
+
+ on 7 august 2014, parwani law llc filed the appellant’s third bankruptcy application against mr kuhadas (the “third bankruptcy application”). however, mr kuhadas appealed against the decision of the ar dismissing his setting aside application. on 1 september 2014, chan seng onn j (as he then was) allowed the appeal and set aside the third statutory demand.
+
+                   21
+
+
+
+
+foot note 21
+
+×
+
+
+
+  roa vol 5 part c at p 727; roa vol 5 part e at pp 1307 and 1308.
+
+
+
+ for the appeal before chan j, the appellant acted in person.14 on 21 february 2019, the appellant commenced suit 198 against the respondents, alleging professional negligence relating to the enforcement of the october 2011 judgment.the decision below 15 as identified by the judge, based on the statement of claim (amendment no 1) (the “soc”),
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+  roa vol 2 at pp 11 to 17.
+
+
+
+ the particulars of negligence pleaded by the appellant concern three aspects of the second respondent’s conduct:(a) that the second respondent failed to apply for the taxation of costs of suit 700 (see paras 10 to 12 of soc and gd at [44(a)]).(b) that the second respondent had “carelessly allowed” the first statutory demand to lapse (see [6] above) and provided mr kuhadas with a “window of opportunity” to sell two of his properties, namely, the “thane st property” and the “changi court property”, which were sold on 23 may 2012 and 29 may 2012 respectively (see paras 13 to 16 of the soc and gd at [44(b)]); and(c) that the 22 february 2013 e-mail was “poorly drafted”, failed to communicate the appellant’s intentions to mr kuhadas “more clearly”, and “ran contrary” to the appellant’s instructions to the second respondent to “allow mr kuhadas the freedom to sell ballota park without encumbrances, and to receive mr kuhadas’ share of the proceeds (i.e. an aggregate sum of s$50,000) from the sale … and then to recommence bankruptcy proceedings against mr kuhadas so that the official assignee can investigate the sale of thane st and changi court, among other things” (see paras 21 to 25 of the soc and gd at [44(c)]). in this judgment, we refer to this as the “negligent drafting claim”. finally, the appellant also pleaded that the second respondent failed to take steps to “rectify matters when he had the chance to” (see para 31 of the soc and gd at [44(c)]).16 as a result of “the sum of all his failures”, the second respondent caused the appellant loss and damage (see para 31 of the soc). with regard to the first respondent, the soc simply states that the first respondent is “vicariously liable for the actions of the [second respondent]” (see para 2 of the soc). 17 in relation to the failure to apply for taxation, the judge found that the second respondent had acted in accordance with the appellant’s instructions to “hold off” from taxing the costs of suit 700 (gd at [53]). in relation to the failure to proceed before the lapsing of the first statutory demand, the judge found that this claim was time barred (gd at [63]). turning to the drafting of the 22 february 2013 e-mail, the judge found that the second respondent did not breach his duty of care in its drafting (gd at [64]). specifically, the judge found that the second respondent did not fall below the standard of care required of a reasonably competent and diligent solicitor (gd at [94]). it therefore followed that the second respondent did not, as the appellant claimed, commit errors in the drafting, which he then came under a duty to “rectify” afterwards (gd at [95]).18 even if the second respondent had been negligent in drafting the 22 february 2013 e-mail, the evidence indicated that mr kuhadas did not have the funds or means to satisfy the entire judgment sum. the element of causation was therefore not proven by the appellant (gd at [96]-[97]). further, even if causation was established, the appellant had failed to take reasonable steps to mitigate his losses as he was insistent that full satisfaction of the judgment sum had to come from bankrupting mr kuhadas instead of exploring the alternative route of using magnetron to recover funds allegedly owed by mr kuhadas, his wife and father to magnetron and to thereafter enforce the october 2011 judgment against it (gd at [100] and [104]).19 turning to the claim against the first respondent, the judge noted that it was premised on the incorrect legal basis of vicarious liability. instead, it should have been founded on s 8(4) of the limited liability partnerships act (cap 163a, 2006 rev ed). in any event, as the appellant failed to make out his claim against the second respondent, the question of the liability of the first respondent for the act of the second respondent did not arise for the judge’s determination (gd at [108]).20 accordingly, the action was dismissed with costs to be paid by the appellant to the respondents.the appeal the appellant’s arguments 21 in the present appeal, the appellant does not contest the judge’s findings in relation to the first two aspects of the second respondent’s conduct set out at [15(a)] and [15(b)] above. therefore, the appeal does not concern the first two aspects.the appellant’s case22 it would seem to follow that the appeal should focus on the third aspect of the second respondent’s conduct as set out at [15(c)] above, viz, the negligent drafting claim. however, this was left uncertain by the appellant’s case.23 to begin with, while the appellant claims that there are no new allegations made in the appeal, he proceeds to allege for the first time that the second respondent breached his duty of care in failing to inform him of the available options he could have pursued in singapore following the outcome of the fcc judgment (including the option of obtaining a decision in singapore on the construction of the 22 february 2013 agreement). this has caused him loss. we shall refer to this as the “negligent advice claim”.
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+  ac at p 26 section 2.5 and para 47.
+
+
+
+24 however, we note that there were parts of the appellant’s case which appear to concern the negligent drafting claim. in relation to whether there was a breach of duty of care, the appellant makes the following two contentions. first, the appellant submits that “a lay person reading the 22 february 2013 agreement together with the 7 march 2013 email would have reasonably concluded that he was being permanently discharged from his debt obligations under the 22 february 2013 agreement”.
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+  ac at para 21.
+
+
+
+ second, the appellant contends that in construing the 22 february 2013 agreement, the judge had erred in relying on the preceding correspondence (see [7] above).
+
+                   25
+
+
+
+
+foot note 25
+
+×
+
+
+
+  ac at paras 18, 22, 50 to 52.
+
+
+
+skeletal submissions 25 in his skeletal submissions, the appellant’s submissions concern the negligent drafting claim.26 he submits that based on the preceding correspondence, the second respondent should have known that mr kuhadas was trying to work his way towards a full and final settlement of his obligation to satisfy the judgment sum.
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+  aws at para 36.
+
+
+
+ therefore, to safeguard the appellant’s interests, the second respondent should have drafted the 22 february 2013 e-mail more clearly and taken steps to rectify any deficiencies thereafter. in this regard, he claims that the second respondent should have added a phrase such as “all my client’s rights are expressly reserved” in the 22 february 2013 e-mail.
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+  aws at para 64.
+
+
+
+ the judge therefore erred in finding that the second respondent did not breach his duty of care.27 the appellant further submits that the judge also erred in finding that causation was not established, and that the appellant had not taken reasonable steps to mitigate his losses. however, the appellant now contends that he had suffered loss in the form of a loss of a chance to recover the remainder of the judgment sum.
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+  aws at paras 76 to 80.
+
+
+
+oral submissions28 at the hearing of the appeal, the appellant’s oral submissions were solely focused on yet another new claim. the appellant claims that the second respondent should have, by 27 february 2013, taken steps to rectify mr kuhadas’ understanding that the 22 february 2013 agreement was a full discharge of his obligations to pay the judgment sum.
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+  transcript (26 august 2022) at p 7 line 26 to p 10 line 6; p 14 lines 6 to 9.
+
+
+
+ the appellant submits that the second respondent’s failure to do so constituted a breach of his duty of care and thereby caused him loss. we shall refer to this claim as the “negligent omission claim”.the respondents’ arguments 29 in response, the respondents submit that the appellant should not be permitted to raise the negligent advice claim on appeal as “it did not form part of [the appellant’s] case in the suit”.
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+  rc at para 14.
+
+
+
+ further, the respondents argue that in the appellant’s case, the appellant has not sought leave to raise a new point.
+
+                   31
+
+
+
+
+foot note 31
+
+×
+
+
+
+  rc at para 15.
+
+
+
+ this is, in their view, in contravention of o 56a r 9(5)(b) of the rules of court (2014 rev ed) (“roc 2014”). therefore, the appellant should not be permitted to raise this issue in the appeal. even if the appellant applies to seek leave to raise this issue, such leave should not be granted. in any event, the respondents argue that the negligent advice claim is without merit.
+
+                   32
+
+
+
+
+foot note 32
+
+×
+
+
+
+  rc at para 16.
+
+
+
+30 in respect of the negligent omission claim that was only raised by the appellant at the hearing of the appeal, the respondents adopt the same position as at [29] above, submitting that it was not pleaded and only raised for the first time in the appellant’s oral submissions on appeal.
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+  transcript (26 august 2022) at p 25 lines 8 to 21.
+
+
+
+31 as regards the negligent drafting claim, the respondents submit that the judge did not err in relying on the preceding correspondence and in arriving at her finding that the second respondent was not negligent in drafting the 22 february 2013 e-mail. the respondents also adopt the judge’s findings on causation and mitigation and argue that they should be upheld.
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+  rc at pp 27 to 46; rws at pp 21 to 32.
+
+
+
+the issues for determination 32 based on the arguments as summarised above, we address all three claims, viz, the negligent advice claim, the negligent drafting claim and the negligent omission claim. we shall deal with each claim in turn.33 we pause to observe that by way of ad/sum 5/2022 (“sum 5”), the appellant applied for leave to adduce five categories of documents in support of the appeal. on 2 june 2022, leave was not granted to adduce the category 1, 2 and 5 documents, but for the category 4 documents. it was further determined that leave was not required to adduce the category 3 documents. 34 the category 3 documents comprise e-mails exchanged after the judge dismissed the appellant’s claims in suit 198 on 30 june 2021. pursuant to s 41(5) of the supreme court of judicature act 1969 (2020 rev ed), such evidence may be adduced before the appellate division of the high court without leave. however, as set out in the court of appeal’s decision in bnx v boe and another appeal [2018] 2 slr 215 (“bnx”) at [97], it remains for this court to decide the issue of whether these e-mails should be admitted. therefore, in due course, we shall rule on the admissibility of the category 3 documents. we shall also briefly discuss the relevance of the category 4 documents, the contents of which we briefly outline below at [89]. our decision the negligent advice claim   35 we begin with the negligent advice claim. to elaborate, the appellant argues that the second respondent agreed to guide him in the australian appeal, which was filed against the decision of the fcc to allow mr kuhadas’ application to set aside the australian bankruptcy notice.
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+  ac at para 26. 
+
+
+
+ on that basis, the appellant discharged mr christiansen, who had represented him in the proceedings before the fcc (see [12] above), and thereafter relied solely on the second respondent’s guidance. thus, the second respondent owed him a duty of care. specifically, the scope of the second respondent’s duty included advising the appellant of the option of obtaining a decision in singapore on the construction of the 22 february 2013 agreement to increase his prospects of success in the australian appeal and advising the appellant of any other options that would have been helpful in overturning the fcc judgment.
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+  ac at paras 32 and 40(iv). 
+
+
+
+ in breach of his duty of care, the second respondent failed to do so.36 as noted at [29] above, the respondents object to the appellant raising this claim, on the basis that it did not form part of his case below. the respondents also argue that the appellant failed to seek leave to raise the negligent advice claim as a new point pursuant to o 56a r 9(5)(b) of the roc 2014.37 from our review of the pleadings, it is clear that the negligent advice claim was not pleaded by the appellant. it is a new claim with distinct allegations of negligence made against the respondents. it did not form part of the appellant’s case below. being an unpleaded claim, it is not open to the appellant to raise it in the appeal. in order to be able to do so, the appellant must first have applied for and then obtained leave to amend his pleadings to introduce the claim. he has not done so. that aside, it is doubtful that leave would have been granted. we make two inter-related points.38 first, the negligent advice claim can hardly be characterised as a new point within the ambit of any pleaded claim as particularised by the appellant. we note that in the soc, the appellant made allegations to the effect that the second respondent ought to have rendered “realistic advise [sic] relating to strategies for enforcing the [october 2011 judgment]”, “advised me better”  and “taken steps to rectify matters when he had the chance to” (see paras 4 and 31 of the soc). however, the material particulars pleaded in support concern the alleged poor wording of the 22 february 2013 e-mail and the lack of steps taken to clarify the purported deficiencies of that e-mail (see paras 21 to 31 of the soc). the particulars of negligence did not extend to the second respondent’s failure to inform him of the available options he could have pursued in singapore following the fcc judgment (including the option of obtaining a decision in singapore on the construction of the 22 february 2013 agreement). once again, we reiterate that these are distinct allegations of negligence giving rise to a new claim in negligence. in other words, the negligent advice claim is not a new point within an existing claim and so o 56a r 9(5)(b) is not relevant and could not have assisted the appellant even if he had attempted to seek leave under that provision: see wei ho-hung v lyu jun [2022] sghc(a) 30 at [25].39 second, if this claim had been pleaded by the appellant, there would have been evidence adduced and submissions made by the parties, and findings made by the court below on the issues raised. it would therefore be untenable for a court hearing the appeal to entertain this new claim with such gaps, as to do so would be prejudicial to the respondents who did not have an opportunity to meet it below. the negligent advice claim therefore cannot be raised for determination in this appeal. indeed, we note that in jwr pte ltd v edmond pereira law corp and another [2020] 2 slr 744 at [32], the court of appeal cautioned that the conduct of raising a new case is an abuse of the appeal process. 40 we would add that this is not the appellant’s first attempt to raise new and unpleaded allegations of negligence. at [105] and [107] of the gd, the judge highlighted other instances of unpleaded allegations of negligence put forward by the appellant in his written submissions and also in his cross-examination of the second respondent. the allegations were rightly disregarded by the judge. citing v nithia (co-administratrix of the estate of ponnusamy sivapakiam, deceased) v buthmanaban s/o vaithilingam and another [2015] 5 slr 1442 at [38], the judge made the important point that generally, parties are bound by their pleadings, and the court is precluded from deciding on a matter that the parties have not put into issue (gd at [106]). 41 given the judge’s clear exposition in the gd, it appears to us that the appellant is well aware that he should not be raising unpleaded allegations on appeal. indeed, as mentioned above at [23] above, in the appellant’s case, he asserts that he would not raise any new allegations on appeal. unfortunately, this is precisely what he proceeded to do by introducing the negligent advice claim. we therefore reject the appellant’s attempt to introduce the unpleaded negligent advice claim, and disregard all the arguments raised in relation to it.the negligent drafting claim 42 next, we turn to the issues surrounding the negligent drafting claim.duty of care43 it is settled law that in carrying out the work instructed by a client, a solicitor is expected to exercise the care and skill of a reasonably competent solicitor in discharging his duties under his retainer (lie hendri rusli v wong tan & molly lim (a firm) [2004] 4 slr(r) 594 at [42]). it is therefore not disputed that the second respondent had owed such a duty of care to the appellant.breach of duty of care 44 we turn to consider the question of whether the second respondent had breached this duty of care. the judge identified the key question before her as whether, in drafting the 22 february 2013 e-mail in the terms that he did, the second respondent was guilty of any error which no reasonably competent solicitor would have made. in other words, the material issue was whether the second respondent had failed to discharge the standard of care expected of a reasonably competent and diligent solicitor in the drafting of the 22 february 2013 e-mail (gd at [70] and [87]). this, the judge said, should be assessed in the light of the circumstances at that time, and not with the benefit of hindsight (gd at [69]). we do not see the appellant challenging these parts of the judge’s decision.45 significantly, the judge noted that she was not required to arrive at a conclusive finding as to whether the 22 february 2013 agreement discharged mr kuhadas of any further obligation in relation to the judgment sum in order to answer the question of whether the second respondent had breached his duty of care (gd at [87]). this brings us neatly to the first argument made by the appellant as set out at [24] above. disputing the approach taken by the judge, he argues that the 22 february 2013 agreement should be construed to be a full and final settlement of the judgment sum. in support, he claims that “[t]his was the point made by three senior judges”, the judges of the fcc and the fca as well as chan j.
+
+                   37
+
+
+
+
+foot note 37
+
+×
+
+
+
+  ac at para 21.
+
+
+
+ we also note that in his reply (amendment no 2) (“reply”), the appellant asserted that the second respondent “caused a full and final settlement of the singapore judgment [referring to the october 2011 judgment]” (see para 6 of the reply), and that “the courts in singapore and australia have construed the [22 february 2013 agreement] to be a full and final settlement of the [october 2011 judgment].” (see para 20 of the reply). along a similar vein, the appellant contends in this appeal that chan j’s decision to set aside the third bankruptcy application “is res judicata”.
+
+                   38
+
+
+
+
+foot note 38
+
+×
+
+
+
+  ac at para 2.5.1.
+
+
+
+46  in response, the respondents submit that “both literal and contextual interpretation of the 22 february 2013 e-mail show that parties’ agreement related only to the withdrawal of the second bankruptcy application, and was not intended to constitute a full and final settlement of the judgment sums”.
+
+                   39
+
+
+
+
+foot note 39
+
+×
+
+
+
+  rc at para 72.
+
+
+
+ the respondents thus urge that the judge’s “construction of the 22 february 2013 email” be upheld.
+
+                   40
+
+
+
+
+foot note 40
+
+×
+
+
+
+  rc at para 72.
+
+
+
+47 we disagree with the parties’ positions. contrary to the appellant’s contentions, we agree with the judge that in deciding the key question set out at [44] above, it was not necessary for her to adjudicate on the legal effect of the 22 february 2013 agreement. this is because the issue before her was what a reasonably competent solicitor in discharging his duties would have done in drafting the 22 february 2013 e-mail. as for the respondents, they appear to have misunderstood the judge’s reasoning, labouring under the wrong impression that the judge has made a determination of the legal effect the 22 february 2013 agreement and that it related only to the withdrawal of the second bankruptcy application. as we have sought to explain, contrary to the respondents’ arguments, the judge did not find that the 22 february 2013 agreement discharged mr kuhadas’s obligation to pay the judgment sum. she did not have to. it follows therefore that the judge left open the question of the legal effect of the 22 february 2013 agreement. in this connection, the parties have provided us with no reason at all to fault the judge’s approach not to rule on the construction of the 22 february 2013 agreement for the purposes of determining breach. in our view, the approach was not wrong in principle. 48 we turn to deal with the appellant’s reliance on the findings made by the fcc and the fca on the construction of the 22 february 2013 agreement.49 in merck sharp & dohme corp (formerly known as merck & co, inc) v merck kgaa (formerly known as e merck) [2021] 1 slr 1102 at [25] (“merck sharp”), the court of appeal held that foreign judgments are capable of giving rise to issue estoppel (“transnational issue estoppel”). there are three elements to be met. the first element of transnational issue estoppel is the existence of a foreign judgment that is capable of being recognised in the jurisdiction in which issue estoppel is invoked. this means that the foreign judgment in question must be a final and conclusive decision on the merits by a court of competent jurisdiction that has transnational jurisdiction over the party sought to be bound, and there must be no defences to the recognition of the judgment (merck sharp at [35]). the second and third elements of transnational issue estoppel are identity of issues and identity of parties respectively. in considering the element of identity of issues, care will be needed in determining: (a) what was actually decided by the foreign court and whether the specific issue that is said to be the subject matter of an issue estoppel was necessary, as opposed to merely collateral, to the foreign judgment; (b) whether the foreign court’s decision on that specific issue was final and conclusive; and (c) whether the party against whom the estoppel is invoked had the occasion or opportunity to raise that specific issue, or whether it was foreclosed from doing so (merck sharp at [40]). 50 applying the above requirements, these findings do not bind the singapore courts in the context of the present proceedings for two reasons.51 first, we agree with the judge (gd at [68]) that issue estoppel does not arise because the parties to the present proceedings are clearly not the same as the parties in the australian proceedings (merck sharp at [40]).52 second, the findings made by the fcc on the construction of the 22 february 2013 agreement, which was largely upheld by the fca (see [12] above), are not strictly necessary to its decision on mr kuhadas’ application to set aside the australian bankruptcy notice. as noted by the judge (gd at [36] and [67]), the fcc held, inter alia, that mr kuhadas had at the very least “raised an arguable case that the effect of [the 22 february 2013 agreement] was to discharge mr kuhadas of his obligation to satisfy the [october 2011 judgment]” [emphasis added]. the fcc also held that, even though the october 2011 judgment had been registered in australia pursuant to the foreign judgments act 1991 (cth), it was nonetheless open to the court to examine whether there were substantial reasons for challenging the registration.
+
+                   41
+
+
+
+
+foot note 41
+
+×
+
+
+
+  roa vol 5 part e at pp 1119 para 34.
+
+
+
+ this was the real question before the fcc, and it was to this end that the fcc considered the effect of the 22 february 2013 agreement. thus, in our view, this holding sufficed for the australian bankruptcy notice, which had been obtained based on the october 2011 judgment, to be set aside and it therefore was not necessary for the fcc to have made the finding, which it did, that the 22 february 2013 agreement “released mr kuhadas from his obligation to satisfy the [remainder of the judgment sum]”. the same point can be made as regards the observations of the fca which were on similar terms.53 in addition, we observe that the fcc did not have a complete picture of the available evidence, as compared to that adduced before us. in the australian appeal, the fca noted that the appellant attempted to adduce further evidence comprising:
+
+                   42
+
+
+
+
+foot note 42
+
+×
+
+
+
+  roa vol 5 part g at p 1681 para 14.
+
+
+
+(a) the full set of 19 emails exchanged between mr boey and mr kuhadas leading to the emails of 22 february 2013;(b) transaction reports said to relate to mr kuhadas’ disposal of assets in singapore ‘thus negating the effectiveness of the 1st ba’ (a reference to bankruptcy proceedings against mr kuhadas in singapore that were withdrawn by mr gomez);(c) an email communication between mr kuhadas and his travel agent dated 8 december 2012.the fca refused to receive this further evidence because they were available to be tendered at the hearing before the fcc and the appellant could not satisfactorily explain why he did not do so.
+
+                   43
+
+
+
+
+foot note 43
+
+×
+
+
+
+  roa vol 5 part g at p 1684 para 27.
+
+
+
+ at the hearing before us, the appellant explained that it was his australian solicitors who advised him against tendering some of those supporting documents.
+
+                   44
+
+
+
+
+foot note 44
+
+×
+
+
+
+  transcript, 26 aug 2022, p 12 lines 14-23. 
+
+
+
+ be that as it may, it seemed to us that, as regards the construction of the 22 february 2013 agreement, the undisclosed documents would have served to provide the fcc and the fca with the context in which the 22 february 2013 e-mail was written. since the fcc and the fca did not have the benefit of those documents, we are cautious about relying on their findings in relation to the construction of the 22 february 2013 agreement.54 this leaves us with the question of the effect of chan j’s decision. in setting aside the third statutory demand under r 98(2)(b) of the bankruptcy rules (2002 rev ed) then in force, the question before chan j was whether there was a substantial dispute as to the debt. this was similar to the issue before the fcc and the fca. in our view, for the purpose of the appeal against the ar’s decision to not set aside the third statutory demand (see [13] above), chan j would only have determined that there was a triable issue as to the debt. there is certainly no indication that he construed the 22 february 2013 agreement to be a full and final settlement of the judgment sum. therefore, we also agree with the judge that chan j’s decision is not “probative of negligence” on the part of the second respondent in drafting the 22 february 2013 e-mail (gd at [90]). chan j’s decision therefore does not assist the appellant’s case. 55 moreover, it appears that even the appellant had previously believed that chan j’s decision had the limited legal consequences that we have set out above. after the third statutory demand was set aside on 1 september 2014, the appellant believed that he had other means of enforcing the remainder of the judgment sum against mr kuhadas. on 7 september 2014, the appellant sent an e-mail to mr kuhadas, which states as follows:
+
+                   45
+
+
+
+
+foot note 45
+
+×
+
+
+
+  rscb at pp 83 to 85.
+
+
+
+dear mr. kuhadas,your email refers.bankruptcy proceedings1. i have re-appointed messrs parwani law llp to look into the legal basis for challenging the decision of the honourable justice chan seng onn. ......clarifying the effect of the judgment on 1 september 20145. the judgment dated 1 september 2014 only allows the statutory demand to be set aside. it does not go behind or invalidate the judgment debt itself.6. in the circumstances, i am exploring other ways of enforcing the judgment debt which has been obtained against you....[emphasis added]hence, the appellant’s submission now that the issues raised before chan j are res judicata and the remainder of the judgment sum is therefore unenforceable as a result of the 22 february 2013 agreement,
+
+                   46
+
+
+
+
+foot note 46
+
+×
+
+
+
+  ac at para 55.
+
+
+
+ is clearly inconsistent with his prior belief to the contrary. at the hearing, the appellant attempted to explain this inconsistency by characterising the above e-mail as “nothing more than an empty threat” to mr kuhadas.
+
+                   47
+
+
+
+
+foot note 47
+
+×
+
+
+
+  transcript (26 august 2022) at p 36 lines 6 to 13.
+
+
+
+ we are unpersuaded by this explanation and are of the view that the appellant’s reliance on chan j’s decision is disingenuous.56 with that, we move on to the appellant’s second argument set out at [24] above that in construing the 22 february 2013 agreement, the judge had erred in referring to the preceding correspondence because: (a) they “do not clarify the context of the 22 february 2013 agreement”;
+
+                   48
+
+
+
+
+foot note 48
+
+×
+
+
+
+  ac at para 22. 
+
+
+
+ and (b) they were made on a without prejudice basis.
+
+                   49
+
+
+
+
+foot note 49
+
+×
+
+
+
+  ac at para 18. 
+
+
+
+ also, it is unclear if the appellant contends that the “22 february 2013 agreement” contravenes the parol evidence rule
+
+                   50
+
+
+
+
+foot note 50
+
+×
+
+
+
+  ac at para 52.
+
+
+
+ or that the judge’s reference to the preceding correspondence contravenes the same.
+
+                   51
+
+
+
+
+foot note 51
+
+×
+
+
+
+  ac at para 50.
+
+
+
+ reading his argument charitably, we take it that he means the latter. we will deal with these points in turn. we note that the crux of the argument here is that the judge erred in relying on the preceding correspondence in arriving at her finding that the second respondent did not breach the duty of care. thus, this is a convenient moment to turn to also consider whether on all the facts and circumstances, the judge was wrong in determining that the second respondent did not breach his duty of care in the drafting of the 22 february 2013 e-mail.57 as clarified by the judge, the examination of the preceding correspondence was only to determine the key question of whether the second respondent had breached the standard of care, and not to construe the 22 february 2013 agreement (gd at [87]). in any event, as the judge correctly stated (gd at [72]), in considering whether an agreement (like the 22 february 2013 agreement) amounted to a settlement agreement, the court would have to consider the context in which the agreement was arrived at, including the preceding negotiations between the parties. the judge also highlighted that if an agreement between parties is intended to embody a settlement or compromise, it is prudent for the parties to clearly provide for this in the agreement. if this is not done, the court will have to construe the contract objectively, having regard to the relevant terms in the context in which they were arrived at and the substance of the contract (man financial (s) pte ltd (formerly known as e d & f man international (s) pte ltd) v wong bark chuan david [2008] 1 slr (r) 663 (“man financial”) at [40]). in our view, given the state of the law as set out by the court of appeal in man financial, the judge did not err in relying on the preceding correspondence to understand the context of the 22 february 2013 agreement, to allow her to determine the material issue in question as to whether the second respondent breached his duty of care.58 the argument that the preceding correspondence is protected by without prejudice privilege is without merit. we agree with the respondents that, since these documents were included in the affidavits of evidence-in-chief of the appellant and the second respondent and formed part of the agreed bundle of documents for trial, any without prejudice privilege had been waived by the appellant.
+
+                   52
+
+
+
+
+foot note 52
+
+×
+
+
+
+  rc at paras 52-53.
+
+
+
+59 we turn to the appellant’s contention that the judge’s reference to the preceding correspondence contravenes s 93 of the evidence act (cap 97, 1997 rev ed) and the parol evidence rule set out at [29] of sandar aung v parkway hospitals singapore pte ltd (trading as mount elizabeth hospital) and another [2007] 2 slr(r) 891.
+
+                   53
+
+
+
+
+foot note 53
+
+×
+
+
+
+  rc at para 54.
+
+
+
+ it is clear to us that the judge relied on the correspondence for context and not to introduce any terms to the 22 february 2013 agreement (gd at [77]–[87]). therefore, there is no contravention of the parol evidence rule.60 we turn next to the appellant’s argument that “from [mr kuhadas’] perspective”, the 22 february 2013 agreement “had released him from his debt obligations under suit 700”.
+
+                   54
+
+
+
+
+foot note 54
+
+×
+
+
+
+  aws at para 15.
+
+
+
+ according to the appellant, the second respondent should have known from the preceding correspondence that mr kuhadas was trying to work his way towards a full and final settlement. despite this, the second respondent did not draft the 22 february 2013 e-mail clearly to address this. to safeguard the appellant’s interest, the second respondent should have clarified the nature of the agreement. it was not for mr kuhadas to state his intention clearly. if the agreement was poorly drafted, “it is reasonable to assume that mr. kuhadas would proceed with the agreement on the basis that it conferred an additional benefit to him”.
+
+                   55
+
+
+
+
+foot note 55
+
+×
+
+
+
+  aws at para 43.
+
+
+
+61 this argument relies on the preceding correspondence to fault the judge’s reasoning. this contradicts the appellant’s position in his appellant’s case that the preceding correspondence should not be considered (see [24] above). in any event, at this juncture, it is important to emphasise that in relation to findings of facts made by the trial court, the appellate court intervenes only in narrowly circumscribed circumstances. in particular, a trial judge’s findings of fact would not be disturbed unless they are plainly wrong or against the weight of the evidence (tat seng machine movers pte ltd v orix leasing singapore ltd [2009] 4 slr(r) 1101 at [41]). based on the appellant’s submissions, we are unpersuaded that the judge was plainly wrong or that the findings she reached were against the weight of the evidence. in fact, we are of the view that the findings are well supported by the detailed reasons provided by the judge (gd at [71]–[94]).62 as the judge fairly noted, it is true that the 22 february 2013 e-mail did not expressly reserve the appellant’s rights in relation to the balance of the judgment sum and interest (gd at [92]). however, it should be noted that the 22 february 2013 e-mail also did not contain a provision that it constitutes a full and final settlement of the judgment sum.63 having examined the preceding correspondence, the judge found that, some time prior to entering into the 22 february 2013 agreement, on 2 january 2013, there had been a clear rebuff by the appellant of the option to accept from mr kuhadas a part payment in full and final settlement of the judgment sum (gd at [77]). further, an e-mail on 21 january 2013 by mr kuhadas showed that the $50,000 payment was offered as the amount his sister-in-law was willing to lend him to persuade the appellant to “drop” the bankruptcy application and to let the sale of the ballota park property go ahead smoothly so that the sister-in-law can get back her cpf monies which were invested in the property. in the e-mail, mr kuhadas did not state that the payment of $50,000 was meant to be a full and final settlement of the judgment sum. in his reply to mr kuhadas’ e-mail, the second respondent sought more information about the intended sale of the ballota park property, so that the appellant could decide whether to withdraw the second bankruptcy application. again, there was no mention of a full and final settlement of mr kuhadas’ liability under the october 2011 judgment for the judgment sum (gd at [79]). we should highlight that although mr kuhadas did not have legal representation at the time in his communications with the second respondent, mr kuhadas appeared aware of the significance of such a term. to reiterate, he had previously discussed this as an option with the second respondent.64 given the state of the law and on the materials available, the judge found that there was sufficient basis for a reasonably competent and diligent solicitor to take the view that as drafted, the 22 february 2013 e-mail went no further than documenting the parties’ agreement for the withdrawal of the second bankruptcy application in order to facilitate the sale of the ballota park property (gd at [88]). based on a review of the facts and circumstances, we do not see any basis to disturb the judge’s findings that the second respondent was not negligent in the drafting of the 22 february 2013 e-mail, and so thereafter, he came under no duty to rectify any deficiencies.causation65 having reached this view, strictly, we need not deal with the other elements of negligence. however, for completeness, we set out our observations on the judge’s comments on issue of causation. proceeding on the assumption that there was negligent drafting by the second respondent, the judge found that it was not possible to conclude that but for the alleged negligence, the appellant would probably have been able to recover the entire judgment sum from mr kuhadas. this was because mr kuhadas did not have “funds or means available to pay up the entire judgment sum” (gd at [96] and [97]).66 while we agree with the judge that the appellant has failed to establish causation, with respect, we doubt that the judge’s analysis of that issue is correct. at the heart of the appellant’s claim is that as a result of the second respondent’s breach in concluding the 22 february 2013 agreement, the appellant could no longer take any further steps to enforce the october 2011 judgment. in other words, as pleaded, the appellant’s grievance is that the 22 february 2013 agreement prevented subsequent action being taken to enforce the october 2011 judgment because it was a full and final settlement of the judgment sum.67 therefore, to successfully establish factual causation, the appellant must prove that the 22 february 2013 agreement has that legal effect. in this regard, no conclusive construction of the 22 february 2013 agreement has been made by any court at any time. for the reasons set out above at [48]–[55], reliance on the decisions of chan j, the fcc and the fca do not assist the appellant. based on the events that transpired, the most that can be said is that the 22 february 2013 agreement had prevented the appellant from bankrupting mr kuhadas in the australian proceedings and by way of the third bankruptcy application (see [12]-[13] above). the appellant has not shown that the legal effect of the 22 february 2013 agreement is such that he was prevented from taking any other enforcement action. that issue has not been determined. therefore, for reasons different from those given by the judge, we agree that the appellant has failed to establish causation.proof of loss or loss of chance 68 with that said, we return to the judge’s observation about mr kuhadas’ impecuniosity. in our view, when the judge proceeded on the basis that there was a breach of the duty, she made a further assumption of proof of causation in the appellant’s favour. should causation be proven, we think that mr kuhadas’ impecuniosity would relate to the issue of proof of loss. to reiterate, the appellant’s claim is that because of the 22 february 2013 agreement, he could no longer enforce the remainder of the judgment sum against mr kuhadas. hence, he suffered loss for that amount. 69 on the premise that causation had been proven, the appellant would then have to prove on a balance of probabilities that through enforcement action, he would have recovered the remainder of the judgment sum from mr kuhadas. this is where mr kuhadas’ impecuniosity could have featured; it could have undermined the appellant’s contention that he would have obtained full recovery of what is owed to him from mr kuhadas. 70 relatedly, we note that in the appellant’s skeletal submissions, he argues that the loss caused was the loss of a chance to recover the remainder of the judgment sum from mr kuhadas (see [27] above).
+
+                   56
+
+
+
+
+foot note 56
+
+×
+
+
+
+  aws at paras 76 to 80.
+
+
+
+ specifically, the appellant argues as follows:
+
+                   57
+
+
+
+
+foot note 57
+
+×
+
+
+
+  aws at paras 76 and 77.
+
+
+
+loss of chance76. in its evaluation of the loss of chance, the court will evaluate whether there was a real and substantial loss of chance or whether it was a speculative one.77. it is humbly submitted that mr. kuhadas has sufficient assets … to satisfy the entire judgment debt with interest. however, recovery of the judgment debt is not possible due to the estoppel of further enforcement proceedings against mr. kuhadas. in the circumstances, the loss of chance is a real and substantial one. the claim against the respondents, therefore, is for compensation for the sums that i would have had a legitimate right to claim against mr. kuhadas if the judgment debt was still good.[emphasis added] 71 we note that this marks a shift from the appellant’s pleaded position where he claims as loss caused to him the remainder of the judgment sum (see [68] above). the appellant did not plead, and it was not his case below, that he lost the chance to recover the remainder of the judgment sum from mr kuhadas.
+
+                   58
+
+
+
+
+foot note 58
+
+×
+
+
+
+  roa vol 2 at pp 11 to 17.
+
+
+
+ a loss of chance claim requires facts to be adduced on the various factors that go towards the assessment of that chance, and must therefore be pleaded. we therefore reject this new claim for the same reasons stated above at [37]–[41].72 in any event, the appellant’s arguments remain centred on “the estoppel of further enforcement proceedings against mr kuhadas”. as we have addressed above, there is no determination as yet that the 22 february 2013 agreement has the effect of a full and final settlement of the judgment sum. therefore, there is no merit to the appellant’s arguments. mitigation of loss73 while it is unnecessary to consider the issue of mitigation of loss, we pause to observe that we would not have been inclined to agree with the judge that the appellant had insufficiently mitigated his loss.74 it is trite law that a plaintiff owes a duty to mitigate his loss in respect of his claim in negligence. in cristian priwisata yacob and another v wibowo boediono and another and another suit [2017] sghc 8 (“cristian priwisata yacob”) at [310] (cited with approval in pilgrim private debt fund v asian appraisal company pte ltd [2022] sghc 10 at [215]), the court summarised the applicable principles as follows:(a) a claimant should use its resources to do what is reasonable to put itself into as good a position as if the tort had not been committed;(b) if the defendant is able to show that the claimant had failed to do so, the loss claimable by the claimant would be reduced accordingly; and(c) the standard of conduct expected of the claimant in mitigation is generally not a high one since the defendant is the wrongdoer.75 in the decision below, the judge found that the appellant had failed to take all reasonable steps to mitigate his loss (gd at [100]). the judge reasoned that since magnetron was jointly and severally liable with mr kuhadas for the judgment sum, and since the appellant had control of magnetron, which mr kuhadas, his wife and his father owed monies to, it was open for the appellant to use magnetron to recover those monies owed to it in a fresh action, and once that was done, the appellant could enforce the october 2011 judgment against magentron (gd at [101] and [103]). furthermore, the second respondent had even offered to have the first respondent take on the matter pro bono, such that the appellant would only have to pay for disbursements and not legal fees (gd at [101]). the judge therefore found the appellant’s refusal to consider this option as an unreasonable position to take as regards mitigation of loss (gd at [102]), especially in view of the evidence which showed that the appellant’s refusal was motivated by his obsession with bankrupting mr kuhadas (gd at [104]).76 with respect, we disagree with this finding, which is in our view, too onerous a burden to place on the appellant. it is unclear to us how it can be said that the steps outlined by the respondents could be regarded as reasonable for the appellant to have taken in mitigation. presumably, the option that was available to the appellant was to use magnetron to commence an action against mr kuhadas, his wife and his father for siphoning monies from magnetron. this is by no means a straightforward process. whether a cause of action was available was unclear though there were references to evidence of monies being siphoned away. such an action would entail investigations into the financial affairs of magnetron, and the circumstances surrounding the amounts purportedly taken by mr kuhadas, his wife and his father out of magnetron. there is also no guarantee that there would be recovery even if the appellant were successful in pursuing this option. indeed, on the respondents’ case, mr kuhadas was not a man of means which the appellant did not appear to have successfully challenged. in our view, it is therefore difficult to conclude that the appellant should have been placed with a burden to pursue a rather difficult option in the interest of mitigating his loss stemming from a sum that he was already entitled to. this is the case even if the appellant could have been represented pro bono. as noted in cristian priwisata yacob, the standard expected of the claimant is not a high one.conclusion on the negligent drafting claim77 to sum up, we agree with the judge that the second respondent is not liable for negligence in respect of the negligent drafting claim.the negligent omission claim78 we now turn to address the negligent omission claim. as stated above at [28], the appellant claims that the second respondent should have, by 27 february 2013, taken steps to rectify mr kuhadas’ understanding that the 22 february 2013 agreement was a full discharge of his obligations to pay the judgment sum.
+
+                   59
+
+
+
+
+foot note 59
+
+×
+
+
+
+  transcript (26 august 2022) at p 7 line 26 to p 8 line 5; p 14 lines 6 to 9.
+
+
+
+ on this basis, he alleges that the breach in respect of the negligent omission claim occurred on 27 february 2013. 79 in support of his submission, the appellant relies on an e-mail sent by mr kuhadas to the second respondent on 26 february 2013. in that e-mail, mr kuhadas stated, inter alia, that “[i]nconsideration [sic] as stated in the same email of 22 feb 2013, [the appellant] will withdraw the bankruptcy application and i must add unconditionally and indefinitely” and “[a]las, finally this great legal drama can be put to rest and many thanks to [the appellant’s mother] and [the appellant] for their decision and all of us can now get on with on respective life”.
+
+                   60
+
+
+
+
+foot note 60
+
+×
+
+
+
+  roa vol 5 part aa at p 7023; transcript (26 august 2022) at p 8 line 20 to p 9 line 28; p 13 lines 13 to 21.
+
+
+
+ on the appellant’s view, these remarks suggest that mr kuhadas understood the 22 february 2013 agreement to be a full discharge of his obligations to pay the judgment sum. the appellant argues that the second respondent should have questioned why mr kuhadas made these remarks. the second respondent should have known that “mr kuhadas is a layperson and ... also a slippery fish [who] will twist and turn things”, and therefore, he should have taken steps to correct mr kuhadas’ understanding.
+
+                   61
+
+
+
+
+foot note 61
+
+×
+
+
+
+  transcript (26 august 2022) at p 8 line 21 to p 10 line 13.
+
+
+
+ however, the second respondent did not do so because he merely replied to mr kuhadas on 27 february 2013, inter alia, as follows:
+
+                   62
+
+
+
+
+foot note 62
+
+×
+
+
+
+  roa vol 5 part aa at p 7023; transcript (26 august 2022) at p 9 lines 21 to 28.
+
+
+
+upon clearance with my [accounts] staff that the funds have been received, we will withdraw the bankruptcy application unconditionally. your phrase ‘indefinitely’ is not conceptually applicable from a legal perspective, since once the application is withdrawn, it no longer exists.in the appellant’s view, this is where the second respondent had breached his duty of care owed to the appellant. flowing from the above, the appellant submits that the negligence caused him the loss of a chance to recover the remainder of the judgment sum – similar to his submission in the context of the negligent drafting claim (see [70] above).80 the negligent omission claim is a new claim taken up by the appellant only during oral submissions. like the negligent advice claim, this claim was not pleaded. for the same reasons we have stated above at [37]–[41] and [71], we reject the appellant’s attempt to introduce this new claim during oral submissions and his reliance on loss of chance.81 while the above conclusion is sufficient to dispose of the present issue, we shall briefly address the merits of the appellant’s claim, especially since at the hearing of the appeal, the appellant indicated that his final position is to focus on this claim (rather than all the other claims raised previously).82 we have concluded above at [77] that the appellant could not prove that the second respondent should be held liable for the negligent drafting claim. it follows that the second respondent had discharged his duty of care owed to the appellant in drafting the 22 february 2013 e-mail, ie, that the second respondent had met the standard of a reasonably competent solicitor in doing so. in other words, the second respondent did not fail to meet this standard of care in the drafting of that e-mail. hence, as the judge found, subsequent to 22 february 2013, there was no duty on the part of the second respondent to rectify any deficiencies (gd at [95]). further, the e-mails exchanged after 22 february 2013 were of no consequence. to put it in another way, the agreement was reached on 22 february 2013, and the e-mails which were exchanged subsequent to that date would not alter the legal effect of the agreement. in respect of the negligent omission claim, the sole inquiry is similarly whether the second respondent had met the requisite standard in drafting the 22 february 2013 e-mail. therefore, the appellant’s claim that the breach in respect of the negligent omission claim occurred on 27 february 2013 must necessarily fail.conclusion on the negligence claim83 for the above reasons, the appellant’s claim in negligence against the second respondent, which is premised on various claims from a constantly changing case, is not established. in view of this, the liability of the first respondent does not arise for consideration. we therefore do not see any reason to disturb the judge’s decision below.admissibility of the category 3 documents 84 it leaves us then to deal with the admissibility of the category 3 documents (see [33] above). to elaborate, the category 3 documents comprise e-mails between the appellant and the respondents’ then solicitors, messrs a.ang seah & hoe, in the period between 1 july 2021 and 5 july 2021.85 as pointed out by the court of appeal in bnx (see [34] above) at [97] and [99], in deciding whether evidence arising after the delivery of a decision of the court below should be admitted, the appellate court considers whether such further evidence would have a perceptible impact on the decision (and hence should be admitted) and its principal concern is with securing the interests of justice. in considering whether such evidence should be admitted, the court should: (a) ascertain what the relevant matters are, of which evidence is sought to be given, and ensure that these are matters that occurred after the trial or the hearing below; (b) satisfy itself that the evidence of these matters is at least potentially material to the issues in the appeal; and (c) satisfy itself that the material at least appears to be credible.86 the category 3 documents show that in early july 2021, the appellant had approached messrs a.ang seah & hoe for assistance on a pro bono basis with filing a fourth bankruptcy application against mr kuhadas, but this was rejected by the firm. the e-mails suggest that in 2015, the firm had extended such an offer of assistance, which the appellant attempted in july 2021 to accept belatedly. the appellant explains that this e-mail shows: (a) “how direct enforcement actions against mr. kuhadas have been limited and that ‘any claim through magnetron is no longer feasible, as it has been struck off’” [emphasis in original]; and (b) that he had attempted to extract some form of settlement and professional assistance from the respondents after his claim was dismissed “in the hopes of avoiding the high costs and uncertainties associated with litigation”.
+
+                   63
+
+
+
+
+foot note 63
+
+×
+
+
+
+  appellant’s affidavit in ad/ca 69/2021 at paras 12-13. 
+
+
+
+87 based on the contents of the category 3 documents, it is evident to us that these matters are not relevant to the appeal, and that the evidence of these matters is not material to any of the issues herein. as the respondents rightly submit, in so far as the appellant claims that the documents show that he has, since the decision of the judge below was rendered, been unable to recover the judgment sum through magnetron, this is simply not relevant to the issues at hand.
+
+                   64
+
+
+
+
+foot note 64
+
+×
+
+
+
+  respondent’s skeletal arguments at para 15. 
+
+
+
+ we reiterate that we agree with the appellant that it would in any event be too onerous to expect him to pursue recovery through magnetron (see [76] above), and so we do not see the relevance of the point which the appellant claims the category 3 documents make. as regards the appellant’s claim that the category 3 documents show that he had attempted to negotiate a settlement between the parties post-decision, that must plainly be irrelevant to the appeal as well.88 indeed, from our analysis above on the substance of the appeal, it must be abundantly clear that the category 3 documents would not matter in the appeal. we therefore hold that these documents should not be admitted. relevance of the category 4 documents 89 as for the category 4 documents, they comprise documents relating to 11 jalan melor singapore 368846 (the “jalan melor property”). the documents show that mr kuhadas’ half interest in the jalan melor property was registered on 6 june 2021.
+
+                   65
+
+
+
+
+foot note 65
+
+×
+
+
+
+  appellant’s affidavit in ad/ca 69/2021 at p 20. 
+
+
+
+ we note that this was after the trial had concluded on 8 april 2021 but before the decision below was rendered on 30 june 2021. according to the appellant, the purpose of adducing these documents was to show that mr kuhadas’ half interest in the jalan melor property, valued at approximately s$1.815m, was “probably sufficient to satisfy the full [judgment sum]” and therefore the appellant’s loss was “wholly recoverable”.
+
+                   66
+
+
+
+
+foot note 66
+
+×
+
+
+
+  aws in sum 5 at para 27.
+
+
+
+ based on the appellant’s arguments, these documents go to the issues of loss or loss of a chance. however, as noted above, the appellant has not even established breach of duty of care and causation. accordingly, we do not consider the category 4 documents to be material.  conclusion90 for the foregoing reasons, we dismiss the appeal. as for costs, having considered the parties’ submissions, we award the respondents costs of the appeal and sum 5 fixed at $70,000 (all-in). the usual consequential orders will apply.belinda ang saw eanjustice of the court of appealkannan ramesh judge of the appellate division hoo sheau pengjudge of the high courtthe appellant in person;anparasan s/o kamachi and vinodhan gunasekaran (whitefern llc) for the respondents.

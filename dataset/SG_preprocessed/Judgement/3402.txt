@@ -1,0 +1,783 @@
+in the court of appeal of the republic of singapore[2020] sgca 28civil appeal no 142 of 2018 betweenbxh … appellant andbxi… respondent judgment [arbitration] — [award] — [recourse against award] — [setting aside] — [existence of arbitration agreement] — [assignment and novation of arbitration agreement][arbitration] — [award] — [recourse against award] — [setting aside] — [invalidity of arbitration agreement] — [inconsistency between arbitration agreement and jurisdiction clause]this judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.bxh vbxi[2020] sgca 28court of appeal — civil appeal no 142 of 2018 sundaresh menon cj, steven chong ja and belinda ang saw ean j21 january 20202 april 2020  judgment reserved.steven chong ja (delivering the judgment of the court):introduction1 this appeal arose from an unsuccessful application to set aside an arbitral award which was rendered under a rather convoluted set of agreements involving the assignment, novation and reassignment of rights to certain debts. in the main, the underlying dispute concerned a distributorship and its related agreements.2 owing to the intricate web of agreements, by the time the arbitration was commenced, a dispute had arisen in relation to the respondent’s (the claimant in the arbitration) right to bring the arbitration proceedings against the appellant. the appellant elected not to participate in the arbitration proceedings.3 while it is uncontroversial that an assignment of an agreement containing an arbitration clause is effective to assign the right to arbitrate to the assignee, the respondent nonetheless argued that it was entitled to commence arbitration proceedings against the appellant (in relation to a specific debt) on the premise that it was an original party to the underlying agreement. we have no difficulty in agreeing with the high court judge’s rejection (“the judge”) of this argument since such an argument, if accepted, would mean that the legal right to arbitrate would be vested simultaneously in both the assignor and assignee. this is plainly wrong. notwithstanding the rejection of this argument, this appeal has raised a number of novel issues arising from the assignment, novation and reassignment agreements. first, is a dispute relating to the right of suit following an assignment of the underlying agreement, a dispute that pertains to the scope or existence of an arbitration agreement under the uncitral model law on international commercial arbitration (“the model law”)? second, can such a notice of assignment be validly sent by the assignee instead of the assignor? third, if a debt is reassigned to the claimant only after the commencement of the arbitration, would the arbitrator have jurisdiction over the dispute given that the arbitrator’s jurisdiction is rooted in the consent of the parties? these are some of the interesting issues that will be examined in this judgment.  facts background to the dispute4 the respondent, bxi, is a developer and manufacturer of consumer goods. it is a wholly-owned subsidiary of a singapore company (“the parent company”). the appellant, bxh, distributes and markets the respondent’s goods in russia. the two parties (“the parties”) possess, in the words of  the judge, a “complicated legal relationship”. in order to understand this relationship, regard must be had to eight related contracts, all of which involved at least one of the parties. the distributor agreement5 in december 2010, the appellant and the parent company entered into the distributor agreement.
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  appellant’s core bundle vol 2 part 1 (“2 acb(1)”) at p 49.
+
+
+
+ clause 1.1 of the distributor agreement authorised the appellant to sell and market the parent company’s products and services in russia.
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  2 acb(1) at pp 50, 53.
+
+
+
+ 6 the distributor agreement also contained cl 25.8, titled “governing law, jurisdiction and venue”, and cl 25.9 of the distributor agreement, titled “disputes”, which contained the arbitration agreement between the parties. the content of these two clauses will be examined in further detail below.7 while the distributor agreement was expressed to have an end date of 26 december 2011, it provided that “[u]nless either party notifies the other not less than one (1) month prior to the end date, this agreement shall continue after the end date for a period of one (1) years”.
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  2 acb(1) at p 50.
+
+
+
+ the transition agreement8 the transition agreement, which came into effect on 14 january 2013, was an agreement between the respondent and the parent company. it purported to enable the respondent to assume the rights of the parent company and “fulfill [sic] its obligations” under a number of agreements.
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  respondent’s supplementary core bundle vol 3 (“3scb”) at p 70.
+
+
+
+ under the transition agreement, the parent company was to “assign or novate, as applicable, and transfer all its rights and obligations under the existing agreements to [the respondent] as per the effective date and [the respondent] shall become party to each existing agreement, as applicable, in its own name”.
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  3 scb at p 71.
+
+
+
+ this included the distributor agreement with the appellant.
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  3 scb at p 81.
+
+
+
+the assignment and novation agreement9 on 25 january 2013, the appellant, the respondent and the parent company entered into the assignment and novation agreement. it provided that the parent company:
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  2 acb(1) at p 242
+
+
+
+ … hereby assigns, conveys, transfers and delivers all of its rights and obligations in and under the agreements to [the respondent] effective on a date between january 1, 2013 and june 30, 2013, as notified by [the parent company] to [the appellant] and [the respondent] not less than thirty (30) days prior to such date (“effective date”).10 notably, prior to the assignment and novation agreement, the parent company had emailed the appellant on 19 november 2012 enclosing a letter dated 1 november 2012 (which explained its plans to transition its operations to the respondent in the first half of 2013), as well as a template assignment and novation agreement for its business partners to insert their company names, print out, sign and return.
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  2 scb at pp 82–84; 4 scb at pp 53–54 and record of appeal (“roa”) vol 3 part 26 at pp 266–272.
+
+
+
+ another email was sent by the parent company to its business partners on 14 december 2012, enclosing a letter dated 14 december 2012 confirming that the transition of its operations to the respondent would occur on 14 january 2013.
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  4 scb at pp 56–58.
+
+
+
+the participation agreement11 following the assignment and novation agreement, on 2 october 2013, the respondent entered into the participation agreement with another party (“the factor”). this was purportedly to improve the respondent’s cash flows.
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  respondent’s case at para 26.
+
+
+
+ under cl 2.9.1 of the participation agreement, the respondent was to “offer to sell to [the factor] all its invoices for products and or services”.
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  2 acb(1) at p 249.
+
+
+
+ this included the invoices arising from its dealings with the appellant.12 if the factor accepted the offer, the respondent was, pursuant to cl 2.9.6, to transfer to the factor “the ownership of all [the respondent’s] invoices and associated rights purchased by [the factor]”. such ownership would “be complete and unencumbered by any lien or charge or other interest and it shall vest in [the factor] from the date of [the respondent’s] invoice”.
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  2 acb(1) at p 249.
+
+
+
+ 13 following the participation agreement, the invoices that the respondent issued to the appellant and which the factor had purchased were endorsed with a caution reminding the appellant that its debt to the respondent represented by the invoice could be discharged only by payment directly to the factor (“the caution”):
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  roa vol 3 part 1 at p 14.
+
+
+
+caution: this prof. receivable is transferred to [the factor] … the payment in full (with all costs on payer) must be done in direct to its bank account … only the payment to [the factor] … will be a valid and discharging payment. [emphasis in original omitted]the gold plan agreement14 on 15 november 2013, the appellant and the factor entered into the gold plan agreement. pursuant to it, the factor would provide financing to the appellant in relation to invoices that were issued to the appellant by the factor. the factor would also provide financing for supplier invoices that the factor purchased from other suppliers, under which the appellant would pay the factor instead of the supplier in question.
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  2 acb(1) at p 259.
+
+
+
+ this included invoices that the factor had purchased from the respondent. thus, cl 2.1.2 of the gold plan agreement stated:applies where supplier is not [the factor]: you agree on the terms of this agreement that you will pay [the factor], and not the non [factor] supplier, in order to settle supplier invoices which [the factor] from time to time purchase[s] … [emphasis in original] 15 the respondent claims that it was never party to the agreement, that it had no rights thereunder and that it never purported “to rely on or enforce any right under the gold plan agreement”.
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  respondent’s case at para 33. 
+
+
+
+ the debt transfer agreement16 on 12 december 2014, the respondent, the appellant and a russian corporation (“the russian corporation”) entered into the debt transfer agreement. the russian corporation was to pay us$32,275,841.78 in invoices (“the open debt”) for products ordered by the appellant under the distributor agreement. 17 under cll 2 and 3 of the debt transfer agreement, if the russian corporation made payment within 90 banking days to the respondent’s bank account, the appellant would “be released and discharged from all duties and obligations” to pay the open debt.
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  2 acb(1) at p 281.
+
+
+
+ the fourth paragraph, however, stated that the debt transfer agreement would “constitute a novation of the rights, duties and obligations” of the appellant under the distributor agreement.18 the parties disagree on the impact of the debt transfer agreement on the appellant’s obligation to pay the open debt.
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  appellant’s case at para 15; respondent’s case at para 36.
+
+
+
+ the open debt agreement19 shortly after the debt transfer agreement, the appellant, respondent and the russian corporation entered into the open debt agreement with the factor. this agreement was dated 22 december 2014. 20 the open debt agreement, in its first two clauses, noted the conclusion of the debt transfer agreement between the appellant, respondent and the russian corporation and the gold plan agreement between the factor and the appellant. thereafter, at cll 3 and 4, the agreement stated that as “[the factor] purchased the receivables under the open debt from [the respondent]”, the russian corporation was thus instructed by the respondent and the factor to “pay total amount of open debt to [the factor]”.
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+  2 acb(1) at p 291.
+
+
+
+21 clause 7 of the agreement also stated that should the russian corporation fail to make payment to the factor for the open debt, the appellant would have to pay the factor “immediately upon [the factor’s] instruction to [the appellant]”.
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+  2 acb(1) at p 291.
+
+
+
+the buy back agreement22 subsequently, the factor decided to withdraw its business operations from russia. on 23 april 2015, the respondent and the factor entered into the buy back agreement.23 the buy back agreement noted that the factor and the respondent had entered into the participation agreement to establish the terms under which the factor would purchase the respondent’s invoices, “certain of which purchases to be on non-recourse basis and certain to be on a recourse basis”.
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+  3 scb at p 92.
+
+
+
+ at the time, the appellant still owed the factor a sum of us$28,477,365.85 “in respect of the with recourse invoices” (“the with recourse obligations”).24 the buy back agreement then states:1) notwithstanding that the relevant financing agreements have not been formally terminated and a date of determination established pursuant to section 2.10 of the participation agreement, [the respondent] acknowledges and agrees that the total amount of the with recourse obligations is as set forth above, and agrees to pay to [the factor] the amount of usd 43,877,255.79 in immediately available funds on or before april 17, 2015.2) by the indefeasible payment of the with recourse obligations, [the respondent] shall be released from any liabilities therefor.3) the parties agree that [the factor] will continue to collect payments (if any) from or on behalf of … [the appellant] … and that [the factor] will remit to [the respondent] any such monies received within 3 business days. 25 while cl 1 of the buy back agreement made reference to the sum of us$43,877,255.79 that the respondent owed to the factor, this was a collective sum due in respect of with recourse invoices for not only the appellant but also several other parties. for our purposes, these other invoices are irrelevant. the respondent duly made payment to the factor.26 there was, subsequently, a second buy back in december 2015 of another batch of invoices owed by the appellant (c3 to c6).
+
+                   21
+
+
+
+
+foot note 21
+
+×
+
+
+
+  1 scb at p 160; 2 cb(3) at p 21.
+
+
+
+ this concerned an amount of us$2,178,539.00, and did not form part of the buy back agreement because certain invoices had mistakenly been closed by the factor.  27 on 24 april 2017, the appellant received a letter from the factor, dated 5 april 2017 (“the 2017 letter”).
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+  roa vol 5 part 1 at pp 31–32 and 91–92.
+
+
+
+ the 2017 letter purported to make clear that the effect of the buy back agreement was to reassign the factor’s rights relating to the invoices that had originally been assigned from the respondent to the factor back to the respondent. it stated:[the factor] confirms and hereby notifies that any rights which it may have under the distributor agreement between [the respondent] and [the appellant] dated 24 december 2010 and any further rights which it may have had to collect payment from [the appellant] in respect of invoices for [the parent company’s] products have been assigned to [the respondent].overview of the eight agreements28 the following table, helpfully produced by the judge, enumerates the details of each of the eight contracts:s/nagreementdateparties1the distributor agreement24 december 2010the appellantthe parent company2the transition agreement14 january 2013the respondentthe parent company3the assignment and novation agreement25 january 2013the appellantthe respondentthe parent company4the participation agreement2 october 2013the respondentthe factor5the gold plan agreement15 november 2013the appellantthe factor6the debt transfer agreementon or around 12 december 2014the appellantthe respondentthe russian corporation7the open debt agreementon or around december 2014the appellantthe respondentthe factorthe russian corporation8the buy back agreement 23 april 2015the respondentthe factorarbitration proceedings29 on 1 october 2015, the respondent issued a notice of arbitration to the appellant. the appellant served a response to the notice of arbitration on 16 october 2015, resisting the claim on various grounds – including that a tribunal appointed by the singapore international arbitration centre (“siac”) would not have jurisdiction to hear the dispute. 30 following the appellant’s objection to the siac’s jurisdiction, the respondent nominated its arbitrator on 21 october 2015 by a letter to the siac copied to the appellant’s lawyers. the appellant refused to nominate its arbitrator within the thirty-day period stipulated in cl 25.9 of the distributor agreement, which lapsed on 20 november 2015. the respondent’s nominated arbitrator subsequently accepted his appointment as the sole arbitrator.31 on 22 april 2016, the siac constituted the arbitral tribunal, which consisted only of the respondent’s nominated arbitrator. the appellant maintained its refusal to participate in the arbitration despite an invitation by the tribunal to attend a preliminary meeting on 29 april 2016.32 over the next few months, the appellant continued to rigorously challenge the tribunal’s jurisdiction and the arbitrator’s purported lack of independence. on 14 november 2016, approximately three months after the respondent served its first memorial, the appellant filed its first memorial in the arbitration. these memorials included arguments pertaining to the appellant’s jurisdictional challenge.33 on 19 december 2016, the siac wrote to the parties, acknowledging that the appellant had lodged a notice of challenge to the arbitrator under rule 12.1 of the 2013 siac rules. the siac then called for the parties and the tribunal to provide their comments on the jurisdictional challenge so that the court of the siac could proceed to determine it.34 on 4 may 2017, the siac dismissed the appellant’s challenge to the tribunal. following this, the appellant refused to participate any further in the arbitration. the evidential hearing before the tribunal took place from 16 to 17 may 2017. the tribunal issued its award on 28 july 2017.proceedings below35 the judge found that the debts stemming from the eight agreements could be categorised according to the following (see bxh v bxi [2019] sghc 141 (“the judgment”) at [38]):not part of theopen debt(debt 1)part of theopen debt(debt 2)not purchased by the factor(debt a)debt 1a(c86 – c106)debt 2a (n.a.)purchased bythe factor(debt b)debt 1b(c3 – c6, c13, c18, c28, c30 – c85)debt 2b(c7 – c12, c14 – c17, c19 – c27, c29)36 debt 1a comprises invoices that the factor never purchased from the respondent. these invoices were never endorsed with the caution.37 debt 1b comprises invoices that the factor did purchase from the respondent, but were purportedly bought back by the respondent. these invoices were endorsed with the caution.38 debt 2a comprises open debt invoices that the factor never purchased from the respondent. there is no need to consider this category.39 debt 2b comprises open debt invoices that the factor did purchase from the respondent but were purportedly bought back by the respondent. they were endorsed with the caution.40 for ease of reference, debts 1b and 2b will hereafter be referred to collectively as debt b. we note that while the respondent contends that invoices c94 and c95 were not assigned to the factor, it accepts their classification as part of debt b. apart from this, neither party has taken issue with this categorisation.the judge’s findings41 after considering the numerous arguments raised by the parties, the judge decided in favour of the respondent – that the tribunal did possess jurisdiction over the parties’ dispute. in reaching his conclusion, the judge made a number of findings.42 first, despite the apparent contradiction between cll 25.8 and 25.9 of the distributor agreement, the two clauses did not give rise to an irreconcilable inconsistency. according to the approach adopted by steyn j (as he then was) in paul smith ltd v h&s international holding inc [1991] 2 lloyd’s rep 127 (“the paul smith approach”), where there is a clear intent to arbitrate disputes in a commercial contract, such an intent should be upheld. the parties were thus bound by the arbitration agreement contained in cl 25.9 of the distributor agreement (see the judgment at [233]–[245]).43 second, despite the use of the word “assigns”, cl 1 of the assignment and novation agreement effected a novation of the distributor agreement from the parent company to the respondent. there is no general requirement for notice to be given to an obligor before an obligee, whose rights arise by a novation, may enforce those rights. the requirement of notice only arose due to the express terms of cl 1 requiring that notice had to be given by the parent company to the appellant and respondent (see the judgment at [113]).44 third, a valid contractual notice was given by the parent company to the appellant pursuant to cl 1 of the assignment and novation agreement. the requisite notice did not have to be issued only after cl 1 acquired contractual effect – an email sent by the parent company to the appellant before the agreement came into effect sufficed (see the judgment at [118]–[123]).45 fourth, the right to arbitrate disputes in relation to debt b, as well as debt b itself, was assigned to the factor by the respondent. however, given that various substantive rights remained in force under the distributor agreement between the appellant and respondent, this assignment of debt b went towards the issue of scope, rather than the existence of an arbitration agreement between the parties (see the judgment at [138]–[142]).46 fifth, the right to arbitrate in relation to debt b was re-assigned to the respondent through the buy back agreement. the contractual purpose of the buy back agreement was to give effect to the intention to sever any legal link between the factor and the respondent’s distributors, as indicated by the factor’s withdrawal from operations in russia. this could only be achieved by a repurchase of the debt (see the judgment at [157]). reliance was also placed on the decision of lanxess pte ltd v app chemicals international (mau) ltd [2009] 2 slr(r) 769 (“lanxess”) in finding that an email dated 18 june 2015 sent by the respondent constituted notice of assignment to the appellant, despite the lack of the word “assignment” in said email (see the judgment at [172]–[173]). the fact that the respondent only repurchased invoices c3 to c6 (under debt 1b) after the commencement of arbitration was also not fatal (see the judgment at [191]).47 sixth, the debt transfer agreement, on its proper interpretation, did not relieve the appellant entirely of its obligation to pay the open debt. although the debt transfer agreement was, on its face, internally inconsistent, on its proper construction, if the russian corporation failed to pay the open debt, the appellant’s obligation to pay would revive. the appellant was thus the proper party in respect of debt 2b, and the tribunal had jurisdiction over this portion of the respondent’s claim (see the judgment at [196]–[214]). issues to be determined 48 on appeal, the parties narrowed the scope of their submissions. the following issues rise for determination:(a) whether cll 25.8 and 25.9 of the distributor agreement are irreconcilably inconsistent, such that the court is unable to give effect to cl 25.9 alone (“the repugnancy argument”); (b) whether there was any valid notice given under cl 1 of the assignment and novation agreement, such that the novation of the right to arbitrate from the parent company to the respondent was effective;(c) whether the right to arbitrate in relation to debt b was assigned by the respondent to the factor, and, if so, whether there was a subsequent reassignment of debt b from the factor back to the respondent; and (d) whether debt 2b was novated to the russian corporation. 49 we shall deal with each issue in turn.the repugnancy argument50 we will first set out cll 25.8 and 25.9 in full. clause 25.9 of the distributor agreement, which sets out the arbitration agreement between the appellant and the parent company, provides:
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+  2 acb(1) at p 60. 
+
+
+
+disputes arising out of or in connection with this agreement shall be finally settled by arbitration which shall be held in singapore in accordance with the arbitration rules of singapore international arbitration center (“siac rules”) then in effect. the arbitration award shall be final and binding on the parties, the award shall be in writing and set forth the findings of fact and the conclusions of law. any award shall not be subject to appeal. the number of arbitrators shall be three, with each side to the dispute entitled to appoint one arbitrator. the two arbitrators appointed by the parties shall appoint a third arbitrator who shall act as chairman of the proceedings. vacancies in the post of chairman shall be filled by the president of the siac. other vacancies shall be filled by the respective nominating party. proceedings shall continue from the stage at the time of vacancy. if one of the parties refuses or otherwise fails to appoint an arbitrator within thirty (30) days of the date the other party appoints its arbitrator, the first appointed arbitrator shall be the sole arbitrator. all proceedings shall be conducted, including all documents presented in such proceedings, in the english language. the english language version of this agreement prevails over any other language version. 51 clause 25.8, entitled “governing law, jurisdiction and venue” states:
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+  2 acb(1) at p 60.
+
+
+
+this agreement shall be governed by and interpreted in accordance with the laws of singapore, except for its rules regarding conflict of laws. the jurisdiction and venue for any legal action between the parties hereto arising out of or connected with this agreement, or the services and products furnished hereunder, shall be in a court located in singapore. the ‘united nations convention on contracts for the international sale of goods’ does not apply to this agreement. 52 following the assignment and novation agreement, the right to arbitrate in relation to disputes arising out of the distributor agreement was novated from the parent company to the respondent.53 counsel for the appellant, mr randolph khoo, argued that cl 25.9, which contains the parties’ agreement to arbitrate, ought not to be given effect. this submission was premised on two key points. first, given the inconsistencies between cll 25.8 and 25.9 of the distributor agreement, the court ought not to “give effect to cl 25.9 alone” [emphasis in original].
+
+                   25
+
+
+
+
+foot note 25
+
+×
+
+
+
+  appellant’s case (amendment no 1) at para 48.
+
+
+
+ second, cl 25.8 ought to prevail over cl 25.9 as “an earlier clause will prevail over a later inconsistent clause”.
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+  appellant’s case (amendment no 1) at para 51.
+
+
+
+ reliance was placed on the decisions of paul smith ([42] supra) and ejr lovelock ltd v exportles [1968] 1 lloyd’s rep 163 (“lovelock”).54 as noted by the judge, prior to this case, the only local decision addressing the construction of a contract containing both jurisdiction and arbitration clauses appears to be that of pt tri-mg intra asia airlines v norse air charter limited [2009] sghc 13 (“pt tri-mg”). 55 the defendant in pt tri-mg sought a stay of proceedings pursuant to s 6 of the international arbitration act (cap 143a, 2002 rev ed) (“iaa”). a key issue before the assistant registrar was “[w]hether a stay under s 6 of the iaa ought to granted when the agreement ex facie contains an arbitration clause as well as a jurisdiction clause” (see pt tri-mg at [3(a)]). after conducting a review of various english authorities, the learned assistant registrar decided to apply the paul smith approach to reconcile the arbitration and jurisdiction clauses – he read the latter as “a submission to the singapore court’s supervisory jurisdiction over the arbitration” (see pt tri-mg at [46]). the judge affirmed the assistant registrar’s use of the paul smith approach and applied it to the present case. 56 in paul smith, steyn j was faced with an arbitration clause entitled “settlement of disputes”. it provided as follows:… if any dispute or difference shall arise between the parties hereto concerning the construction of this agreement or the rights or liabilities of either party hereunder the parties shall strive to settle the same amicably but if they are unable to do so the dispute or difference shall be adjudicated upon under the rules of conciliation and arbitration of the international chamber of commerce by one or more arbitrators appointed in accordance with those rules.57 the parties’ agreement also contained a clause entitled “language and law”, which purported to set out a governing law and jurisdiction. it stated:… this agreement is written in the english language and shall be interpreted according to english law. the courts of england shall have exclusive jurisdiction over it to which jurisdiction the parties hereby submit.58 as the judge observed (at [237] of the judgment), steyn j rejected the plaintiff’s argument that the parties’ arbitration agreement was invalid due to the inconsistency between the two clauses, holding that it would be drastic and very unattractive to find a total failure of the agreed method of dispute resolution in an international commercial contract. steyn j preferred to interpret the “language and law” clause as applying to the parties’ arbitration itself, such that the english courts had supervisory jurisdiction over the arbitration. such an approach was preferable to treating the arbitration clause as pro non scripto, ie, as if it had never been written. 59 when assessing the effect of purportedly inconsistent clauses, one should always start with their plain language. as stated by the judge at [242]–[243] of the judgment:242 as the authorities acknowledge, the paul smith approach to construing arbitration and jurisdiction clauses together is not perfect. in particular, in this case, the parties agreed in cl 25.8 that “[t]he jurisdiction and venue for any legal action … arising out of or connected with this agreement, or the services and products furnished hereunder” shall be the singapore courts. on the face of it, this clause envisages that substantive disputes surrounding the distributor agreement, and not only matters of curial review of an arbitration under cl 25.9, will be determined by the singapore courts.243 nonetheless, a dispute over the parties’ substantive rights and obligations arising out of or connected with the distributor agreement cannot obviously be the subject of both litigation and arbitration. the only practical – thought [sic] not entirely satisfactory – solution is to adopt the paul smith approach and hold that the parties intended to resolve substantive disputes in arbitration under cl 25.9 and to resolve disputes arising out of any such arbitration in the singapore courts in the exercise of their supervisory jurisdiction under cl 25.8.[emphasis in original]60 we agree with this approach. where parties evince a real intention to have matters resolved by arbitration, the court ought to give effect to that intention. minor inconsistencies between clauses cannot be allowed to detract from the parties’ agreement to arbitrate. instead, a generous and harmonious interpretation should be given to the purportedly conflicting clauses such as to give effect to the parties’ true intention.61 we do not think that the wording of the two clauses preclude an adoption of the paul smith approach. we are fortified in reaching this conclusion given the amount of detail provided by the parties in cl 25.9. the clause painstakingly provides for the binding effect of the award on parties, the manner in which the award was to be made, the manner in which the arbitrators were to be appointed, the number of arbitrators, as well as the language of the proceedings. this is in contrast to cl 25.8, which simply provides for the applicability of singapore law and the jurisdiction of the courts located in singapore.62 while the appellant sought to rely on the decision of lovelock ([53] supra) to further its case, we are of the view that it has little applicability here. the court in lovelock was faced with a dispute resolution clause that consisted of two parts. the first provided for arbitration before english arbitrators. the second provided for the referral of the dispute to the ussr chamber of commerce foreign trade arbitration commission in moscow, in accordance with the law of the ussr. the court eventually found the parties’ dispute resolution clause to be meaningless, and had to be rejected, as it was not possible to discern whether a dispute would fall within the first or second part of the clause – both parts provided for arbitration (see lovelock at 166). the present case, in contrast, is more akin to the situation in paul smith.whether valid notice was given under the assignment and novation agreement 63 the appellant argues that the judge erred in finding that an email sent to the appellant prior to the execution of the assignment and novation agreement cannot suffice as valid notice, and that as a result, the right to arbitrate under the distributor agreement remained with the parent company rather than the respondent. 64 it is clear that under cl 1 of the assignment and novation agreement, valid notice had to be given to the appellant and the respondent. to reiterate, cl 1 states that the parent company:… hereby assigns, conveys, transfers and delivers all of its rights and obligations in and under the agreements to [the respondent] effective on a date between january 1, 2013 and june 30, 2013, as notified by [the parent company] to [the appellant] and [the respondent] not less than thirty (30) days prior to such date (“effective date”).65 the parties agree that following an initial email dated 1 november 2012, the parent company had sent an email dated 14 december 2012 to the appellant, which was titled “assignment and novation to [the respondent] – transition will occur on 14 january 2013”.
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+  4 scb at pp 56–58.
+
+
+
+ it stated:please be advised that, starting from 14 january 2013, [the parent company] will move its operations from singapore to hong kong.please find our information letter attached.66 the information letter attached to the email stated the following:we are writing further to our communication dated november 1, 2012, which announced the transition of certain operations from [the parent company] to [the respondent].in accordance with the assignment and novation agreement included in that communication, we are now able to confirm that the transition will occur on 14 january 2013.67 having considered the parties’ submissions, we find that the key issue remains, as the judge noted, whether, as a matter of construction of the assignment and novation agreement, the 14 december 2012 email is capable of constituting the contractual notice required by cl 1 of that agreement.68 there was no need for notice to be given only after the parent company, the appellant, and the respondent entered into the assignment and novation agreement on 25 january 2013. we agree with the judge at [118], that nothing in the plain wording of cl 1 suggests that the notification is only effective after a certain date or event. all cl 1 states is that the parent company’s rights and obligations would be transferred to the respondent “effective on a date between january 1, 2013 and june 30, 2013, as notified” by the parent company to the appellant and respondent. there is no reason to read the term “as notified” as prescribing a specific timeframe for the parent company to give notice – such a finding would simply go against the text of the parties’ agreement.69 we thus find that the 14 december 2012 email constituted the requisite contractual notice under cl 1 such that the novation of the right to arbitrate from the parent company to the respondent was effective.whether the respondent possessed the right to arbitrate in relation to debt b70 the appellant mounted two arguments in relation to the respondent’s purported inability to arbitrate in relation to debt b specifically. first, that the respondent had assigned away its right to arbitrate over debt b to the factor when it entered into the participation agreement. second, this right to arbitrate was not reassigned to the respondent through the buy back agreement. any reassignment would only have taken effect in 2017, through the 2017 letter. according to the appellant, the respondent thus lacked “the right to start the proceedings” in relation to debt b when it filed its notice of arbitration in 2015.
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+  notes of evidence (“ne”) at p 40, lines 4–17.
+
+
+
+ whether the right to arbitrate was assigned to the factor 71 it is clear that arbitration agreements are, as a class, capable of assignment (see rals international pte ltd v cassa di risparmio di parma e piacenza spa [2016] 5 slr 455 at [52]–[53]). it is also common ground that pursuant to the participation agreement, the respondent’s rights to debt b were assigned to the factor.
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+  notes of evidence (“ne”) at p 44, lines 1–5.
+
+
+
+72 the key question is, to borrow the words of the judge at [133], where the right to arbitrate a dispute in relation to a particular debt resides after the respondent assigns that debt to the factor. 73 counsel for the respondent, mr toh chen han, argued that the effect of the assignment of debt b is that both the respondent and the factor would simultaneously possess the right to commence arbitration against the appellant.
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+  respondent’s case at para 84.
+
+
+
+ in support of this, the respondent relies on the doctrine of separability, as well as the fact that the arbitration agreement (as contained in cl 25.9 of the distributor agreement) continues to attach to other rights and obligations arising from the distributor agreement.
+
+                   31
+
+
+
+
+foot note 31
+
+×
+
+
+
+  respondent’s case at paras 78 and 86.
+
+
+
+74 we reject this argument. while the respondent claims that the decision of montedipe spa and another v jtp-ro jugotanker (the “jordan nicolov”) [1990] 2 lloyd’s rep 11 (“the jordan nicolov”) demonstrates the ability of an assignor to commence arbitration,
+
+                   32
+
+
+
+
+foot note 32
+
+×
+
+
+
+  respondent’s case at para 89.
+
+
+
+ a proper reading of it suggests quite the opposite. the court had made clear that “[t]he legal assignment extinguishes the legal cause of action of the assignor against the party liable so that the assignor cannot thereafter himself ask for an award against the party liable” (see the jordan nicolov at 15).75 the fact that there remains an arbitration agreement between the parties with regard to residual rights and obligations in the distributor agreement (including, for instance, the obligation for each party to use care and discretion to avoid the disclosure of confidential information contained in cl 4) does not change this analysis. an arbitration agreement does not have a purpose or a life independent of the substantive obligations that it attaches to. once the substantive right to debt b was assigned, the respondent could no longer arbitrate in relation to debt b. 76 this brings us to another contention between the parties – whether the right to arbitrate in relation to debt b concerns the existence or scope of the parties’ arbitration agreement.existence or scope of the arbitration agreement77 the appellant had, in its pleadings, premised its application on the tribunal having acted in excess of its jurisdiction under art 34(2)(a)(i) of the model law.
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+  roa vol ii at p 14.
+
+
+
+ it did not plead that the tribunal lacked jurisdiction under art 34(2)(a)(iii) of the model law. 78 the relevant portions of art 34(2) state:(2) an arbitral award may be set aside by the court specified in article 6 only if:(a) the party making the application furnishes proof that: (i) a party to the arbitration agreement referred to in article 7 was under some incapacity; or the said agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law of this state; or…(iii) the award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the award which contains decisions on matters not submitted to arbitration may be set aside …79 as noted by the judge at [141], following our decision in pt first media tbk (formerly known as pt broadband multimedia tbk) v astro nusantara international bv and others and another appeal [2014] 1 slr 372 (“astro”) at [152]–[158], it has been made clear that under singapore law, the ground for setting aside under art 34(2)(a)(i) of the model law relates to the existence of an arbitration agreement (or lack thereof), while art 34(2)(a)(iii) deals with whether a dispute can properly be said to fall within the scope of an agreement. this was accepted by the parties.80 the parties, however, differ as to whether the right to arbitrate in relation to debt b would fall to be considered under art 34(2)(a)(i) or art 34(2)(a)(iii). the respondent argues that this dispute is one of scope under art 34(2)(a)(iii), which was not pleaded by the respondent. on this basis, the appellant’s arguments should be disregarded by the court. the appellant naturally takes issue with such a characterisation, arguing that the present issue is more properly considered as one relating to the existence of an arbitration agreement – whether there was a valid and subsisting arbitration agreement between the parties in respect of the disputes arising out of debt b.  81 the judge had found that art 34(2)(a)(iii), rather than art 34(2)(a)(i), was engaged on the present facts. he stated:140 … the distributor agreement governs the overarching business relationship between the [appellant] and the [respondent]. as a result, it confers rights on the [respondent] which are wholly unrelated to its right to payment under an invoice which it issues to the [appellant] within that overarching business relationship. these unrelated rights include, among others, a right to review the [appellant’s] records for compliance with the distributor agreement (cl 4); a right to require protection of its confidential information (cl 8); and a right to adjust prices or terminate the distributor agreement for non-payment by the plaintiff (cl 13). it cannot have been the parties’ intention that these rights should be assigned to the factor together with the invoices. those rights are relevant only to the [respondent] as against the [appellant], in their capacity as supplier and distributor respectively, within the framework of the distributor agreement. 141 the parties obviously continued to be parties to the arbitration agreement in cl 25.9 of the distributor agreement in relation to these unrelated substantive rights. the argument then that their arbitration agreement does not include the right to arbitrate disputes in relation to debt b is indeed a question of scope. …[emphasis added]82 as may be seen above, the judge had placed much emphasis on the fact that there remained a number of substantive rights that continued to subsist between the appellant and respondent, which meant that they continued to be parties to the arbitration agreement. the question of whether the respondent possessed the right to arbitrate in relation to debt b was, accordingly, a question relating to the scope of the arbitration agreement between the parties.83 we take a differing view. as stated above at [75], an arbitration agreement does not have a purpose or a life independent of the substantive obligations that it attaches to. the right to arbitrate cannot be seen in isolation – it must necessarily attach to a specific right. we are concerned with the existence of one’s right to arbitrate in relation to debt b.84 having assigned the right to debt b to the factor, the right to arbitrate in relation to that debt would subsist between the appellant and the factor. the respondent would not be considered as a proper party to the agreement to arbitrate disputes arising over debt b. the fact that there remains unrelated substantive rights between the respondent and the appellant (such as the right to require protection of confidential information under cl 8) cannot affect the nature of the inquiry. the question remains whether the respondent, at the relevant time, was able to commence arbitration in relation to debt b pursuant to a valid arbitration agreement with the appellant.85 this question is properly considered under the ground of art 34(2)(a)(i), which concerns the existence and validity of any alleged arbitration agreement. as stated in gary born, international commercial arbitration, vol iii (wolters kluwer, 2nd ed, 2014) at p 3448:a corollary of the consensual nature of arbitration is the unenforceability of awards that are unsupported by a valid arbitration agreement. …... … [a]uthorities dealing with the existence and validity of arbitration agreements under article ii are also generally relevant under article v(1)(a) ... 86 the learned author was making reference to arts v(1)(a) and (c) of the 1958 convention on the recognition and enforcement of foreign arbitral awards (“new york convention”), which are substantially similar to arts 34(2)(a)(i) and (iii) of the model law (save that the relevant provisions in the new york convention concern grounds for the refusal of recognition and enforcement of an arbitral award while art 34(2)(a) involves the setting aside of an arbitral award). 87 a similar view was expressed by judith prakash j (as she then was) in relation to s 31(2)(b) of the iaa in aloe vera of america, inc v asianic food (s) pte ltd and another [2006] 3 slr(r) 174 (“aloe vera”), which concerns the refusal of enforcement of a foreign arbitration award on the basis of the invalidity of the arbitration agreement. 88 the wording of s 31(2)(b) of the iaa is substantially similar to that of art 34(2)(a)(i) of the model law. it states that a court may refuse enforcement of a foreign award if the court is satisfied that: the arbitration agreement is not valid under the law to which the parties have subjected it or, in the absence of any indication in that respect, under the law of the country where the award was made; …89 the learned judge held, at [63], that in order for s 31(2)(b) to be satisfied, she would have had to be satisfied that “the arbitration agreement was invalid vis-à-vis [the second defendant] and that the arbitrator was not entitled to find that [the second defendant] was a party to the agreement and the arbitration” [emphasis added]. the question of whether one was a proper party to an arbitration agreement was not to be considered under s 31(2)(d) (which instead concerns the scope of an arbitration agreement). prakash j’s decision in aloe vera was subsequently cited and considered by this court in astro ([79] supra) at [153] – we had affirmed her views on the inapplicability of art v(1)(c) of the new york convention to issues relating to the existence of an arbitration agreement.90 we went on to state, in astro, our views on the applicability of art 34(2)(a)(i) to issues concerning the existence of the arbitration agreement, despite its wording possibly suggesting otherwise:156 that said, there is no doubt some difficulty with the express language of [art 34(2)(a)(i)]. as lord collins jsc in [dallah real estate and tourism holding co v ministry of religious affairs of the government of pakistan [2011] 1 ac 763] observed at [77], the words used in the first ground suggest that its purpose is limited to issues of validity of an arbitration agreement which at least once existed (in addition to any issue of capacity which is not relevant for present purposes). nevertheless, in our view, the question of the existence of an arbitration agreement can be subsumed within the issue of the validity of an arbitration agreement. in addition to lord collins jsc’s observations (at [77]) that this interpretation of the first ground is ‘consistent international practice’, we would add some further observations.157 the existence or, more accurately, formation of a contract has not always been considered as part of the basket of issues concerned with the material validity of a contract. this is not unexpected as the notion of validity of a contract might be conditioned on the supposition of a contract which at least once existed. however, as the development of the law in the area of the conflict of laws has shown, this fine divide can be bridged … in the latest edition of the same treatise, now known as dicey, morris & collins on the conflict of laws vol 2 (lord collins gen ed) (sweet & maxwell, 15th ed, 2012) at para 32-107, r 225 which prescribes the choice of law rule for material validity of a contract is introduced as such:this rule is based on art. 10 of the [rome i] regulation, which is headed ‘consent and material validity.’ … the reference in art. 10(1) to existence and validity thus includes such matters as formation (including the effect of silence), absence of consideration, fraud, duress, mistake, and also the legality of a contract. [emphasis added]…158 if validity in the first ground is interpreted in this manner (which interpretation we cannot see any strong objections to), the issue of the existence of an arbitration agreement would be capable of being subsumed under the first ground. …[emphasis in original]91 our decision in the present case is thus consistent with the position adopted in astro. 92 having confirmed that the right to arbitrate was assigned to the factor, and that the question of whether the respondent had the right to sue in relation to debt b is one concerning the existence of an arbitration agreement rather than scope, we turn to consider whether this right was eventually reassigned to the respondent.when the right to arbitrate was reassigned to the respondent93 as stated above at [70], the appellant argues that the buy back agreement in 2015 did not have the effect of reassigning debt b back to the respondent. while there was initially some confusion during the hearing as to whether the 2017 letter by the factor constituted notice of an assignment that took place in 2015 (via the buy back agreement), or whether the letter itself effected a reassignment in 2017, the respondent eventually accepted that, assuming that the buy back agreement in 2015 did not reassign the right to arbitrate back to the respondent, that right would only have been reassigned in 2017.
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+  ne p 57 at lines 9–12.
+
+
+
+94 nevertheless, the respondent’s primary argument remained that the buy back agreement did effect a reassignment. this was despite the fact that there was no reference or use of the terms “assignment”, “reassignment” or “buy back” in the buy back agreement itself. mr toh emphasised that the buy back agreement was “not meant to be read on its own”, but had to be understood in conjunction with the participation agreement.
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+  ne p 43 at lines
+
+
+
+ this was especially so considering the references to the participation agreement in the preamble of the buy back agreement, which spoke of the buy back agreement “amend[ing] for the purpose of [the buy back agreement] the existing [participation agreement]”.
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+  respondent’s supplemental core bundle (“scb”) vol iii at p 92.
+
+
+
+ 95 upon closer inspection, however, we find it clear that the buy back agreement was not meant to effect a reassignment of debt b. 96 following the participation agreement, under which the rights to debt b were transferred to the factor, the respondent owed the factor a sum of us$28,477,365.85 in respect of the with recourse invoices. thus, at the time the buy back agreement was entered into, there was a subsisting bipartite arrangement between the respondent and the factor, where the latter had a contractual right against the respondent in relation to the with recourse obligations.97 under cl 2 of the buy back agreement (see above at [24]), the respondent was to make “indefeasible payment of the with recourse obligations”, following which the respondent would “be released from any liabilities therefor”. the buy back agreement was primarily concerned with the discharge of the respondent’s with recourse obligations, not with reassignment. 98 the actions taken by the factor are consistent with such a reading of the buy back agreement. prior to its entrance into the buy back agreement, the factor was issuing monthly statements of its accounts to the appellant.
+
+                   37
+
+
+
+
+foot note 37
+
+×
+
+
+
+  appellant’s core bundle (“acb”) vol ii part 2 at pp 120–197.
+
+
+
+ these statements set out the amount of payments made by the appellant, the applicable interest charges on the remaining debt, the loan amounts due on specific invoices, and the outstanding balance owed to the factor. we endorse the words of andrew ang j (as he then was) in lanxess ([46] supra), that a statement of account indicates and asserts a right by the issuer to repayment of the debt – as mr khoo noted, the “exacting detail” provided by these monthly statements leave little doubt as to the need for the appellant to make payment to the factor.
+
+                   38
+
+
+
+
+foot note 38
+
+×
+
+
+
+  ne p 22 at line 12.
+
+
+
+99 these monthly statements continued to be issued even after the parties entered into the buy back agreement on 23 april 2015 – the last of these monthly statements was issued for the month of november 2015. had there been a genuine reassignment to the respondent via the buy back agreement, the factor would have ceased its issuance of such monthly statements. 100 mr toh’s reliance on the participation agreement does not assist the respondent’s case. according to the respondent, reading the buy back agreement together with cl 4.3 of the participation agreement would make clear that there had indeed been a reassignment of debt b.
+
+                   39
+
+
+
+
+foot note 39
+
+×
+
+
+
+  ne p 48 at lines 3–11.
+
+
+
+ upon payment to the factor pursuant to the buy back agreement, the right to debt b, which included the right to arbitrate, was reassigned to the respondent. this was an argument that the judge had also dealt with (see the judgment at [152]). 101 clauses 4.3.1 and 4.3.3 of the participation agreement form the cornerstone of the respondent’s case:
+
+                   40
+
+
+
+
+foot note 40
+
+×
+
+
+
+  acb vol ii part 1 at pp 251–252.
+
+
+
+4.3.1 repurchase obligation [the respondent] agrees to purchase and [the factor] agrees to sell at the repurchase price all or any part of [an invoice of the respondent’s] not paid by the relevant remarketer (a) immediately upon demand by [the factor] when the cause of non payment is due to a breach of any of the [respondent’s] representations and warranties, (b) immediately upon notice by [the factor] if payment has not been received in full by [the factor] within 180 calendar days of the date of [the respondent’s] invoice for [an invoice] which is under dispute between [the respondent] and the remarketer....4.3.3 return of [the respondent’s] rights upon payment by [the respondent] to [the factor] of the repurchase price of all [the respondent’s] invoices in respect of which demand has been made under section 4.3.1 then [the factor] shall transfer to [the respondent] all its right to such ... invoices and all associated rights which relate solely to such … invoices. payment of the repurchase price by [the respondent] shall not affect any other right or remedy of [the factor].102 however, as the judge observed, cl 4.3.1 is not a general obligation for the respondent to repurchase unpaid debt from the factor. the judge proceeded to state at [155] of the judgment:instead, cl 4.3.1 on its face provides that the [respondent’s] repurchase obligation arises only in the two specific situations set out in the clause: (a) if the cause of non-payment is a breach of the [respondent’s] representations and warranties; and (b) if the distributor disputes the debt and fails to pay it within 180 days. there is no suggestion by the [respondent] that it repurchased the debt under the buy back agreement because either situation (a) or (b) had arisen. to that extent, the repurchase in this case was voluntary rather than obligatory. 103 we agree – cll 4.3.1 and 4.3.3 are inapplicable to the present circumstances and do not assist the respondent. 104 we note, however, that while the judge disagreed with the respondent’s use of the participation agreement to support its case, he nevertheless found that the buy back agreement did reassign the right to debt b to the respondent. the judge applied the contextual approach to contractual interpretation, finding that there was evidence that by the end of 2014, “the factor was trying to withdraw entirely from operations in russia”. he held at [157] that: although the buy back agreement was entered into voluntarily rather than pursuant to an obligation under cl 4.3.1 of the participation agreement, the factor’s decision to terminate its russian business indicates to me an intention to sever entirely any legal link between the factor and the defendant’s distributors. that could be achieved only by a repurchase of the debt in the true sense of the word, ie a legal assignment of the debt under which the factor drops out completely. [emphasis added]105 in sembcorp marine ltd v ppl holdings pte ltd and another and another appeal [2013] 4 slr 193 (“sembcorp”), we explained the applicability and utility of the contextual approach of interpretation in allowing the court to ascertain the parties’ objective intentions. we stated at [71]–[72]:71 in our judgment, courts must achieve justice and fairness by protecting the individual against an unduly strict construction of a document that does not fairly represent the intentions of the parties. however, this worthwhile objective can be perverted if the proverbial grain is not separated from the chaff. as spigelman cj has cautioned in another article, “extrinsic material and the interpretation of insurance contracts” (2011) 22 insurance law journal 143 at 145, the greater the scope of materials relevant to an issue of construction that can be taken into account, the greater the scope for differences between legal advisors charged with the task of construing a contract when a dispute is looming. this, in turn, causes greater uncertainty for the parties and increases the time and cost of legal proceedings.72 from this perspective, a robust approach unaccompanied by sufficient safeguards may be counterproductive. more fog, not less, might ensure. in our judgment, it is time to refine our approach by synchronising our rules of pleading and evidence with the contextual approach to contractual construction laid down in zurich insurance ([34] supra). this is necessary because the broad language associated with the contextual approach is susceptible to being misunderstood and misapplied. the utility of the contextual approach is to place the court in the best possible position to ascertain the parties’ objective intentions by interpreting the expressions used by the parties in the relevant instrument in their proper context; it is not a license to admit all manner of extrinsic evidence …[emphasis added]106 the court is ultimately concerned with the parties’ objective intentions. while the court will not adopt an unduly strict construction of a document that does not fairly represent the intentions of the parties, the primary use of the contextual approach is to ascertain the parties’ objective intentions by “interpreting the expressions used by the parties in the relevant instrument in their proper context”. 107 however, the judge did not actually interpret the wording of the buy back agreement in reaching his decision. instead, he took an overly broad brush approach – excessive weight was placed on the extrinsic evidence of the factor’s planned exit from russia without regard for the plain text of the buy back agreement itself. as stated above at [94] and [97], there was no mention of any terms relating to “assignment”, “reassignment”, or “buy back” in the buy back agreement. instead, the buy back agreement was squarely focused on the with recourse obligations that were owed to the factor. 108 in such a situation, it would be inappropriate to wholly disregard the terms of the parties’ contractual agreement in favour of an independent finding of intention. extrinsic evidence ought to guide the court’s interpretation of the terms contained in an agreement – it cannot take on a life of its own and overshadow the written contract. 109 we are thus of the view that the buy back agreement did not reassign the rights to debt b to the respondent. as mr toh acknowledged during the hearing, the right to debt b was instead reassigned to the respondent in april 2017, via the 2017 letter, which confirmed that “any rights which [the factor] may have under the distributor agreement between [the respondent] and [the appellant] dated 24 december 2010 and any further rights which it may have had to collect payment from [the appellant] in respect of invoices for [the respondent’s products] have been assigned to [the respondent]”.
+
+                   41
+
+
+
+
+foot note 41
+
+×
+
+
+
+  roa vol 5 part 1 at pp 31–32 and 91.
+
+
+
+ the significance of the date of reassignment110 having found that debt b was only reassigned in 2017, the natural question which ensues is the significance of such a finding to the respondent’s rights of suit. this necessarily entails an inquiry into the decision of the “jarguh sawit” [1997] 3 slr(r) 829 (“jarguh sawit”) which, according to the respondent, retroactively vested in it the right to sue in relation to debt b (“the retrospective vesting principle”).
+
+                   42
+
+
+
+
+foot note 42
+
+×
+
+
+
+  respondent’s further submissions at para 39.
+
+
+
+111 at the conclusion of the hearing, we directed the parties to file further submissions on the applicability of jarguh sawit to the present case, taking into account the fact that an arbitrator’s jurisdiction is rooted in the parties’ consent. 112 before delving into our discussion on the state of the law on this issue, we pause to note that while the case of jarguh sawit was raised before the judge, the specific nuances of how the principle laid down by this court in jarguh sawit might not be applicable in the context of arbitration was not raised before him. to put it another way, the judge was not asked to consider whether the consensual nature of arbitration would affect the principle that jarguh sawit purportedly stands for – that there can be a retrospective vesting of a cause of action in an assignee. 113 in jarguh sawit, the respondent, navigation maritime bulgare (“nmb”) had agreed to sell to oxford jay international pte ltd (“oji”) a vessel (“the vessel”). the vessel was to be sold fully as a lloyd’s register class vessel. however, nmb failed to deliver the vessel as required – it had not been upgraded to comply with lloyd’s classification requirements. it subsequently agreed to modify the vessel to reclass it, with the costs of this modification being shared in agreed proportions. a dispute subsequently arose between nmb and oji over oji’s purported failure to pay an instalment that was due. as nmb and oji were unable to reach a compromise, nmb commenced legal action against oji and arrested the vessel. by this time, ownership of the vessel had been transferred to the appellant – jaguh harimau sdn bhd. 114 in the course of court proceedings, the appellant filed a defence and counterclaim alleging, inter alia, that the court did not have jurisdiction as nmb did not have an admiralty in rem or in personam claim against the appellants. nmb applied for, and obtained before an assistant registrar, summary judgment and an order striking out the paragraphs alleging lack of jurisdiction. 115 subsequent to the assistant registrar’s orders, oji assigned all its rights, title and interest under the memorandum of agreement to the appellant by a deed of assignment. the appellant then appealed to the high court to amend their counterclaim – their original counterclaim was confined to a claim for damages for wrongful arrest of their vessel, but they wanted to include an additional claim against nmb for its failure to deliver a fully classed lloyd’s vessel. the high court judge made a number of orders, including a dismissal of the appellant’s application to amend its counterclaim. he did so on the basis that the causes of action sought to be introduced arose after the filing date of the counterclaim. the appellant then appealed against the high court judge’s orders.116 this court in jarguh sawit found that the high court judge had erred in his dismissal of the appellant’s application to amend their counterclaim. this court held at [62] that since oji’s claim for damages against nmb was already accrued at the date of the writ, it did not matter that the cause of action was only vested in the appellant subsequent to that date. this was because the vesting of oji’s rights would have retrospective effect. as stated in jarguh sawit at [63]:… [t]his vesting has retrospective effect: see read v brown (1888) 22 qbd 128. thus, the 1997 white book [the supreme court practice] states, at para 20/5–8/16 that:an assignment whether legal or equitable, of a subsisting and viable claim against the defendant or what is sometimes called ‘a right of subrogation’ is not in itself, and does not create a cause of action against the debtor and therefore the plaintiffs would be allowed to re-amend their writ and statement of claim so as to include a claim by them as legal or equitable assignees of the various rights of cargo owners in respect of lost cargo and to join the assignors if necessary, since such a claim did not assert retrospectively a new or different cause of action, although such amendments are made after the expiry of the current period of limitation, since the action was brought within such period (central insurance co ltd v seacalf shipping corp [1983] 2 lloyd’s rep 25, ca).117 the cases of read v brown (1888) 22 qbd 128 (“read v brown”) and central insurance co ltd v seacalf shipping corp [1983] 2 lloyd’s rep 25, ca (“central insurance”) were thus crucial to the court’s decision. in our view, both of these decisions do not actually establish that an assignment can retrospectively vest rights in the assignee. we begin with the decision of central insurance.118 central insurance has to be seen in its context, namely a situation of subrogation. the appellant, central insurance, was an insurer. it became subrogated to the rights of 28 taiwanese buyers when the latter purchased 30 policies of insurance covering quantities of soya-bean meal which had been consigned to the buyers. in its statement of claim, the appellant stated that it had become subrogated to the rights and entitlements of the buyers against the respondent, and pleaded that it had suffered damage as a result of the respondent’s failure to deliver. the appellant, however, did not add the buyers as plaintiffs at the outset. more than a year later, the appellant sought to amend its statement of claim to add the buyers as plaintiffs, and to add: first, a claim by it as an assignee of the rights of the cargo owners; and second, claims for damages in the alternative by the buyers. the respondent argued that such an amendment would be time barred.119 oliver lj framed the critical question before him in the following terms: … [d]oes the pleading of a title by assignment, whether or not accompanied by the joinder of the assignors, constitute the assertion, retrospectively, of some new or different cause of action which, were it not contained in a writ issued prior to the expiry of the limitation period, would otherwise be barred? [emphasis added]120 in deciding to allow the amendment, oliver lj stated that subrogation “is not itself and does not create a cause of action against the debtor”, and does not alter the nature of the claim made against the defendant. there “could not be any doubt at all about what the claim was that was being asserted” – it was a claim for short delivery of cargo, full particulars of which had already been delivered and referred to in the indorsement. 121 it is hence clear that the focus of the english court of appeal was placed on the nature of subrogation, rather than whether a free-standing principle of retrospective vesting applied in the context of assignments.122 the decision of read v brown ([117] supra) is also of limited assistance as the court was unconcerned as to whether an assignment had retrospective effect. rather, it was focused on the significance of an assignment in determining a plaintiff’s cause of action. the plaintiff had brought an action as an assignee of a debt alleged to be due in respect of the price of goods sold and delivered to the defendant by the assignor. the sale and delivery of the goods had taken place in surrey, but the assignment of the debt took place in the city of london, which was within the jurisdiction of the mayor’s court. the defendant took the position that the plaintiff was prohibited from bringing an action in the mayor’s court as the “mere fact” that the assignment took place within the jurisdiction of the mayor’s court was insufficient.123 the court considered, at 131, that the question before the court was “whether any part of the cause of action arose in the city [of london]”. this required the court to analyse the nature of an assignment. it stated at 132 that upon assignment:… the debt is transferred to the assignee and becomes as though it had been his from the beginning; it is no longer to be the debt of the assignor at all, who cannot sue for it, the right to sue being taken from him; the assignee becomes the assignee of a legal debt and is not merely an assignee in equity, and the debt being his, he can sue for it, and sue in his own name … he must, if suing, prove the assignment to himself in order to recover judgment, and the fact of the assignment is therefore part of his cause of action. in the present case part of the cause of action has arisen in the city … [emphasis added]the fact that the assignment took place in the city of london was sufficient for the mayor’s court to exercise its jurisdiction. 124 the respondent, in its further submissions,
+
+                   43
+
+
+
+
+foot note 43
+
+×
+
+
+
+  respondent’s further submissions at para 36.
+
+
+
+ sought to highlight that the court in read v brown had stated that the debt “is transferred to the assignee and becomes as though it had been his from the beginning”. on the respondent’s case, this demonstrates a clear affirmation of the retrospective vesting effect of assignments. we disagree. the court’s statement has to be seen in context – the statement that the debt “becomes as though it had been [the assignee’s] from the beginning” was made to emphasise that an assignor would no longer possess a cause of action against the debtor. in fact, as seen above at [123], the issue of retrospective vesting was not before the court. 125 irrespective of our views as to the significance of central insurance and read v brown on the principle of retrospective vesting for an assignment, such a principle should not, in any event, apply in the present case as it concerns arbitration proceedings, as opposed to court proceedings. 126 litigation and arbitration are founded on fundamentally different bases. as noted by the high court in jvl agro industries ltd v agritrade international pte ltd [2016] 4 slr 768 at [174], “[u]nlike litigation, which is founded on the state’s coercive power, arbitration is founded entirely upon the parties’ consent”. the differences between litigation and arbitration were further highlighted in gary born, international commercial arbitration, vol i (wolters kluwer, 2nd ed, 2014) at p 256: … simply put, absent an “agreement” to arbitrate, there is, by definition, obviously no “arbitration agreement”. thus, although it is tautological, consensual arbitration is most obviously not national court litigation pursuant to mandatory jurisdictional rules. [emphasis in original]127 in the singapore context, the high court derives its powers from s 16 of the supreme court of judicature act (cap 322, 2007 rev ed) (“the scja”), which provides for the general civil jurisdiction of the courts. it states:16.–(1) the high court shall have jurisdiction to hear and try any action in personam where — (a) the defendant is served with a writ of summons or any other originating process — (i) in singapore in the manner prescribed by rules of court or family justice rules; or(ii) outside singapore in the circumstances authorised by and in the manner prescribed by rules of court or family justice rules; or(b) the defendant submits to the jurisdiction of the high court.(2) without prejudice to the generality of subsection (1), the high court shall have such jurisdiction as is vested in it by any other written law.128 while s 16 of the scja does provide for the court’s jurisdiction where a defendant submits to jurisdiction, it is clear that the court’s power is not limited to such a circumstance. the court may possess and exercise jurisdiction over parties, whether willing or unwilling, as long as the requirements of s 16 are met.129 it is also clear that o 20 r 5 of the rules of court (cap 322, r 5, 2014 rev ed) confers upon the court a general power to allow or order amendments to be made to pleadings (see singapore civil procedure 2020, vol i (chua lee ming gen ed) (sweet & maxwell, 2020) at para 20/8/2). in fact, jarguh sawit ([110] supra) should be seen as a case that was decided in the context of singapore procedural laws. as this court noted there at [57]: at the heart of this issue is the question under what circumstances the court will grant leave to amend pleadings in a manner so as to introduce a new cause of action into the proceedings. …130 it is clear that the procedural laws of a state do not apply to an arbitration simply because that state is the arbitral seat (see gary born, international commercial arbitration, vol ii (wolters kluwer, 2nd ed, 2014) at p 1623).131 there is good reason for this especially considering the distinct principles governing the court and the arbitral tribunal’s jurisdiction. in kenya railways v antares pte ltd (“the antares”) (nos 1 and 2) [1987] 1 lloyd’s law rep 424 (“kenya”), the english court of appeal considered the applicability of s 35(1) of the limitation act 1980 (c 58) (uk) (“uk limitation act”) to arbitral proceedings.132 in kenya, msc chartered the vessel antares for the shipping of cargo. when damage to the cargo on board was discovered, the cargo owners, kenya railways, commenced arbitral proceedings against msc in london, on the assumption that msc were the owners of the vessel. sometime later, msc informed kenya railways of the true state of affairs, and kenya railways then put forward a claim against the true owners, who took the view that the claim was time barred. as s 35(1) of the uk limitation act allowed for any new claim made in the course of any action to be deemed as being made on the same date as the original action, kenya railways argued that it ought to be able to substitute a new party to an existing arbitration.133 in holding that s 35(1) was inapplicable, the english court of appeal emphasised that allowing such a substitution would undermine the consensual basis of arbitration. lloyd lj stated at 432:… i have great difficulty in seeing how s. 35 could ever apply to arbitrations. arbitration is a consensual method of settling disputes. the arbitrator has no jurisdiction save what he derives from the contract between the parties. section 35 covers the addition or substitution of new parties as well as the addition or substitution of new causes of action. as for new parties, it would be contrary to the whole consensual basis of arbitration if the court were to have power to add or substitute a new party to an existing arbitration. i have equal difficulty in seeing how the court could order the addition or substitution of a new cause of action, for the arbitrator’s jurisdiction is confined to the dispute or disputes which have been referred to him. he has no jurisdiction to decide disputes which have not been referred to him even though they may arise out of the same facts or substantially the same facts … [emphasis added]134 as alluded to by the english court of appeal, an arbitral tribunal would not possess such a free-standing power to allow for the addition of new causes of action that are independent from the parties’ arbitration agreement. the importance of the parties’ consent is such that the tribunal’s jurisdiction in respect of each cause of action should be jealously scrutinised by the tribunal – the tribunal has to satisfy itself that it possesses jurisdiction (based on party consent) in relation to each issue that is submitted for adjudication. the existence of an arbitration agreement between the parties cannot be taken to automatically confer jurisdiction on the arbitrator in respect of all causes of action that arise between them – the scope and content of the parties’ agreement must be taken into consideration. as noted in andrea marco steingruber, consent in international arbitration (loukas mistelis ed) (oxford university press, 2012) at para 1.05:the principal characteristic of arbitration is that it is chosen by the parties by concluding an agreement to arbitrate. the arbitration agreement is considered the foundation stone of international (commercial) arbitration, as it records the mutual consent of the parties to submit to arbitration – mutual consent which is indispensable to any process of dispute resolution outside national courts. … [emphasis added]135 the issue of party consent is also closely tied to the importance of ensuring that the proper parties are involved at the onset of arbitral proceedings. the decision of internaut shipping gmbh and another v fercometal sarl (the “elikon”) [2003] 2 lloyd’s rep 430 (“internaut”) amply demonstrates this point. in internaut, there was a voyage charterparty between fercometal as the charterer and sphinx as the owner. internaut shipping had signed the charter-party under the heading “owners” without qualification. it then started arbitral proceedings against fercometal for a demurrage claim, but the points of claim as subsequently served by its lawyers were in the name of sphinx. the arbitration was conducted in the name of sphinx, with an interim award made in favour of sphinx. 136 a key question that the english court of appeal had to consider was whether the arbitral tribunal had the power to substitute internaut shipping for sphinx, and whether the references to sphinx were a mere misnomer. the court of appeal decided in the negative, stating at [87]–[88]:87. in these circumstances, it seems to me that there are the following theoretically possible alternative analyses of the situation. (1) the arbitration started as one between internaut and fercometal, the naming of sphinx was a mere misnomer, a mere case of falsa demonstratio, and can be cured, if the arbitrators see fit to do so, by a mere amendment of the title to the arbitration. that was the judge’s solution. (2) the arbitration started as one between internaut and fercometal and, despite everything that has happened since, always remained (and still remains) an arbitration between internaut and fercometal. that is so, even though the naming of sphinx was more than a mere misnomer. despite that, the misnaming of sphinx remains an incident of the arbitration which it is within the competence of the arbitrators to manage. … (3) the arbitration started as one between internaut and fercometal, but metamorphosed into one between sphinx and fercometal. such an arbitration is a jurisdictional impossibility, either because the court has now determined that the true owner under the charter-party is internaut and not sphinx or because in any event ince & co were never instructed by sphinx (albeit they now say that sphinx has ratified an arbitration commenced in its name), or for a combination of those reasons. since that is a matter going to jurisdiction, this court is entitled to say, and should conclude, that the conduct of the arbitration in the name of sphinx is a nullity. …88. …[a]lternative (3) is the correct one. once the decision has been taken that the identification (and acceptance) of sphinx as the arbitrating party goes beyond a case of mere misnomer, then it seems to me that the consequence must be that the further conduct of the arbitration in the name of a claimant who was never in truth a party to the charter-party or to the arbitration agreement was a nullity, and it is for this court to say so. sphinx therefore never had any possible role to play in the arbitration, and cannot ratify what has been done in its name. …[emphasis added]137 as the court held, it was irrelevant whether sphinx wanted to ratify what had been done in its name. given the misidentification of the parties at the outset of the arbitration, the entire set of arbitral proceedings were rendered a nullity. 138 similarly, at the time the respondent in the present case commenced the arbitration in 2015, debt b was still assigned to the factor. there was thus only an agreement to arbitrate over disputes relating to debt 1a. the respondent would not have been a proper party to any arbitration arising out of disputes over debt b. whether notice ought to be given by an assignor or assignee139 at this point, we pause to consider an ancillary matter: whether notice of assignment can effectively be given by a purported assignee instead of the assignor. while this was not a point expressly taken by the appellant (that notice was improperly given by the parent company instead of the respondent), mr toh did submit, as part of the respondent’s case that the buy back agreement reassigned the right to arbitrate in relation to debt b to the respondent, that valid notice of the assignment can be given by an assignee to the debtor. 140 we think that the question of whether notice ought to be given to the debtor by the assignor or the assignee is an issue of some significance, which deserves some ventilation. 141 we begin with the law on statutory assignment in singapore. section 4(8) of the civil law act (cap 43, 1999 rev ed) (“cla”) states: any absolute assignment by writing under the hand of the assignor, not purporting to be by way of charge only, of any debt or other legal chose in action of which express notice in writing has been given to the debtor, trustee or other person from whom the assignor would have been entitled to receive or claim such debt or chose in action, shall be and be deemed to have been effectual in law, subject to all equities which would have been entitled to priority over the right of the assignee under the law … [emphasis added]142 the wording of s 4(8) is substantially similar to s 136 of the law of property act 1925 (c 20) (uk) (“the lpa”). section 136 provides:any absolute assignment by writing under the hand of the assignor (not purporting to be by way of charge only) of any debt or other legal thing in action, of which express notice in writing has been given to the debtor, trustee or other person from whom the assignor would have been entitled to claim such debt or thing in action, is effectual in law (subject to equities having priority over the right of the assignee) to pass and transfer from the date of such notice … [emphasis added]143 as can be seen above, while the cla and lpa make clear that “express notice in writing” is a key requirement for a statutory assignment, neither statute provides guidance as to the party that ought to provide this notice. 144 both singapore and english case law suggest that valid notice may be provided by either the assignor or the assignee.  145 in lanxess ([46] supra), andrew ang j (as he then was) stated at [25]:… [t]he requirement of notice does not oblige the assignor or assignee to follow a prescribed form or even make express, direct reference to the assignment. all that the assignor or assignee must do under s 4(8) of the [civil law] act is to convey, in writing, information relative to the assignment that indicates to the debtor that by virtue of the assignment the assignee has the right to the benefit of the obligation in question ... [emphasis added]146 a similar position was adopted by the english court of appeal in bateman and another v hunt and others [1904] 2 kb 530, where the defendant took issue with the fact that the plaintiffs (the assignees) had given notice of the assignment. the applicable provision at the time was s 25(6) of the supreme court of judicature act 1873 (36 & 37 vict, c 66) (uk) – it served as the predecessor provision to s 136 of the lpa. after reviewing the wording of s 25(6), which required “express notice in writing” to be given to the debtor, the english court of appeal held that the assignees were entitled to give the requisite notice. it stated at 538:… in order that this title should become effectual at law as well as in equity, all that the statute requires is that ‘express notice in writing’ should be given to the debtor, and such notice was given by the plaintiffs before action brought. the statute prescribes no limit of time within which notice must be given, nor does it lay down that the notice must be given by any particular person; and we can see no good ground for holding that the notice given by the plaintiffs was ineffectual. … [emphasis added]147 the learned authors of snell’s equity (john mcghee gen ed) (sweet & maxwell, 33rd ed, 2015) concur with this view, affirming at para 3-008 that “the section does not state by whom or at what time [notice] must be given”. subsequent decisions such as james talcott ltd v john lewis & co ltd and north american dress co ltd [1940] 3 all er 592 and holt v heatherfield trust ltd and another [1942] 2 kb 1 have also affirmed the ability of an assignee to provide valid notice of the assignment to the debtor.148 it is thus clear that under s 4(8) of the cla, notice can be given by either an assignor or an assignee. however, when notice is given by an assignee, the debtor faces the risk that the notice is false – a debtor may, in reliance of a false notice, make payment to a false assignee who is unable to give the debtor a good discharge of the debt. it is therefore open and undoubtedly advisable for the debtor to verify the fact of the assignment with the assignor. 149 a debtor would possess the right to request for evidence of the assignment when faced with a notice from a purported assignee. we agree with the statement of lord denning mr in van lynn developments ltd v pelias construction co ltd (formerly jason construction co ltd) [1969] 1 qb 607 at 613, that:… after receiving the notice, the debtor will be entitled, of course, to require a sight of the assignment so as to be satisfied that it is valid, and that the assignee can give him a good discharge. …this is crucial, in order that the rights of the debtor be protected. 150 multiple international instruments reflect this same concern. article 9.1.12(1) of the unidroit principles of international commercial contracts 2016 provides that:if notice of the assignment is given by the assignee, the obligor may request the assignee to provide within a reasonable time adequate proof that the assignment has been made. similarly, article 11.303(2) of the principles of european contract law 2002 allows for a debtor to, “within a reasonable time request the assignee to provide reliable evidence of the assignment, pending which the debtor may withhold performance.” finally, the draft common frame of reference: principles, definitions and model rules of european private law 2009 at iii-5:120 allows for a debtor who has received a notice of assignment from the assignee, but not from the assignor, to request the assignee “to provide reliable evidence of the assignment”. 151 we thus affirm the right of a debtor to verify the fact of assignment prior to making payment to a purported assignee. this, we should add, is a risk management issue and does not mandate that notice must be provided by the assignor instead of the assignee.whether debt 2b was novated to the russian corporation152 given our finding that the arbitral tribunal acted beyond its jurisdiction when determining issues in relation to debt b, the portion of the award dealing with debt 2b would thus be set aside. nevertheless, for completeness, we turn to address the appellant’s final argument. 153 the appellant takes the position that the arbitral tribunal lacked jurisdiction over the parties’ dispute because: first, claims in relation to debt 2b ought to have been brought against the russian corporation (rather than the appellant);
+
+                   44
+
+
+
+
+foot note 44
+
+×
+
+
+
+  appellant’s case (amendment no 1) at para 102.
+
+
+
+ and second, that the dispute resolution procedure under the gold plan agreement ought to have been used in place of siac arbitration under the distributor agreement.
+
+                   45
+
+
+
+
+foot note 45
+
+×
+
+
+
+  ne at p 36, line 30 to p 37, line 2.
+
+
+
+ 154 a review of the debt transfer agreement, the open debt agreement and the gold plan agreement is in order.the legal effect of the debt transfer agreement155 in order to address the appellant’s contention that the proper parties in relation to debt 2b was the parent company and the russian corporation, we will analyse the wording and effect of the relevant clauses (cll 3 and 4) of the debt transfer agreement.156 clause 3 provides that:3. [the respondent] hereby consents to the assignment and transfer of all such obligations of [the appellant] in and under the [distributor] agreement to [the russian corporation] and agrees that [the appellant] shall be released and discharged from all duties and obligations in and under the [distributor] agreement related to payment to [the respondent] of the open debt on the date when [the respondent] gets full amount of the open debt to [the respondent’s] bank account as stipulated in section 2 above. [emphasis added]157 clause 4 states:4. [the appellant], [the russian corporation] and [the respondent] hereby agree that this debt transfer agreement shall constitute a novation of the rights, duties and obligations of [the appellant] in and under the [distributor] agreement and accordingly, all such rights, duties and obligations of [the appellant] shall be extinguished and of no force or effect on and after the effective date. [the respondent] acknowledges and agrees that on and after the effective date [the russian corporation] shall be [the appellant’s] successor in duties and obligations related to payment to [the respondent] of the open debt in and under the [distributor] agreement. [emphasis added]158 at first blush, cll 3 and 4 appear inconsistent. while cl 3 purported to release the appellant from its obligations under the distributor agreement only when the respondent received the “full amount of the open debt”, cl 4 appeared to allow for an immediate extinction of the appellant's obligations.159 we however agree with the judge below that the two clauses can and should be read harmoniously. as he held at [211] of the judgment, cl 4 should be read to mean that the appellant’s obligation to pay the open debt is extinguished with immediate effect and transferred to the russian corporation until the time stipulated for the russian corporation to pay the open debt under cl 2 of the debt transfer agreement expires. this obligation would then revive if the russian corporation fails to make full payment to the respondent in discharge of the open debt. such an approach is infinitely preferable to disregarding one of the clauses altogether and rendering it otiose.160 clause 7 of the open debt agreement should also be highlighted. it states as follows:7) in case [the russian corporation] fails to pay the amount of open debt, then [the appellant] agrees to pay [the factor] immediately upon [the factor’s] instruction to [the appellant].161 to our minds, the presence of cl 7 of the open debt agreement, which is consistent with our interpretation of cll 3 and 4, further reinforces our view that the appellant would not be automatically let off the hook upon the conclusion of the debt transfer agreement. although there is a slight difference between cl 7 of the open debt agreement and cl 3 of the debt transfer agreement, in that the former relates to the russian corporation (or the appellant) paying the factor as a result of the factor’s purchase of the open debt from the respondent, this does not detract from the obligation in both provisions being on either the russian corporation or the appellant to pay the open debt. we thus affirm the judge’s reading of the debt transfer agreement – the appellant remained the proper party to debt 2b, given that the russian corporation failed to fully discharge the open debt.the applicable dispute resolution clause for debt 2b162 the appellant argues that any reassignment of the factor’s rights of action to the respondent would be of rights under the open debt agreement, which arguably incorporates the dispute resolution provision under the schedule to the gold plan agreement (“the gold plan dispute resolution clause”), which provided for arbitration to be held in vienna, austria.
+
+                   46
+
+
+
+
+foot note 46
+
+×
+
+
+
+  2 acb(1) at p 272. 
+
+
+
+ thus, the dispute resolution provisions under the distributor agreement, which provided for siac arbitration, would be inapplicable.163 we were not convinced by this argument. the gold plan dispute resolution clause was never meant to apply to invoices issued by the respondent. this is made clear from its wording, which states, at the “governing law” section:… all disputes under this agreement in relation to a supplier invoice issued by [the parent company] or related to its violation, termination or nullity shall be finally settled under rules of arbitration and conciliation of the federal economic chamber in vienna (vienna rules) by three arbitrators appointed in accordance with these rules. …164 in addition, the respondent was, at all material times, not a party to the gold plan agreement. there is no reason for disputes arising out of invoices that were issued under the distributor agreement to be adjudicated according to the dispute resolution provision of a separate, unrelated agreement. conclusion165 having found that the arbitral tribunal had exceeded its jurisdiction when adjudicating on matters relating to debt b, the arbitral award is thus set aside in part under art 34(2)(a)(i) of the model law. accordingly, the appeal is likewise allowed in part in relation to debt b.166 taking into account the parties’ respective costs schedules, the complexity and novelty of some of the issues, the parties’ further submissions and the fact that the appellant had substantially succeeded in setting aside the bulk of the arbitral award, we order the respondent to pay the appellant costs fixed at $50,000 inclusive of disbursements. the costs order below is also reversed in favour of the appellant. the usual consequential orders shall apply. sundaresh menon  steven chong         belinda ang saw ean chief justice    judge of appeal         judge   khoo boo teck randolph, chan jian da and vanessa chiam hui ting (drew & napier llc) for the appellant;toh chen han, chan yong neng, rakesh nelson and charlotte wang (mpillay) for the respondent._______________________________

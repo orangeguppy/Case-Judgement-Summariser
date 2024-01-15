@@ -1,0 +1,834 @@
+in the court of appeal of the republic of singapore[2018] sgca 17civil appeal no 106 of 2017between(1)(2)(3)pt sandipala arthaputrapaulus tannoscatherine tannos… appellantsand(1)(2)(3)st microelectronics asia pacific pte ltdoxel systems pte ltdvincent pierre, luc, cousin… respondentsjudgment[tort] — [conspiracy] — [directors’ liability][contract] — [breach]this judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.pt sandipala arthaputra and others vstmicroelectronics asia pacific pte ltd and others[2018] sgca 17court of appeal — civil appeal no 106 of 2017sundaresh menon cj, judith prakash ja and steven chong ja5 february 20186 april 2018 judgment reserved.steven chong ja (delivering the judgment of the court):1 this appeal has its origin in a dispute between two contracting parties, the appellant, pt sandipala arthaputra (“sandipala”), and the second respondent, oxel systems pte ltd (“oxel”), for the supply of 100 million microchips (“the supply contract”) for use in an electronic identification card project in indonesia (“the project”). the microchips were however not compatible for use with the electronic identification cards to be used for the project and sandipala commenced this action against oxel and others for, inter alia, breach of express and implied terms of the supply contract.2 in response, oxel brought a counterclaim against sandipala for breach of the supply contract in failing to take delivery of the microchips and for non-payment. in addition, oxel also claimed against sandipala and its directors, mr paulus tannos and ms catherine tannos (collectively “the tannoses”) for conspiracy to cause oxel loss in seeking to unlawfully extricate sandipala from its contractual obligations under the supply contract.3 the high court judge (“the judge”) dismissed sandipala’s claims and allowed oxel’s claims against sandipala for breach of the supply contract. he further found sandipala and the tannoses liable for the tort of conspiracy by unlawful means to cause oxel economic loss.4 the principles engaged for the determination of the contractual dispute are fairly settled. the interesting issue arising from this appeal concerns the counterclaim for the tort of conspiracy by unlawful means against sandipala and the tannoses for what was essentially a contractual breach by sandipala. as a leading academic astutely observed, “can two legal persons who share one and the same mind conspire?” (lee pey woan, “the company and its directors as co-conspirators” (2009) 21 saclj at 409 (“company and its directors as co-conspirators”))
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+ aboa part 3 tab 30.
+
+
+
+ in that regard, it is no longer controversial that a company can conspire with its director to cause harm to a third party even if the director is its alter ego. that said, most breaches by companies would entail the involvement of its directors. after all, a company typically acts on the direction of its directors and it would be odd to speak of a breach of contract by a company as a legal person divorced from the reality that the breach would often occur with the knowledge and/or active participation of its directors. it is, therefore, clear that liability cannot be imposed on directors merely because they had some involvement in causing the breach. to hold otherwise might cause, in the dramatic words of mccardie j in said v butt [1920] 2 kb 497 at 504 (“said v butt”),
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+ aboa part 3 tab 23.
+
+
+
+ “the gravest and widest consequences” to ensue.5 this appeal provides a useful opportunity for this court to examine the proper legal basis to justify the imposition of tortious liability on directors in respect of contractual breaches by the company. in identifying the legal basis, we must be mindful of the need to ensure that directors are free to make decisions on behalf of the company without fear of attracting unwarranted legal actions against themselves.facts6 the full facts are set out in the judge’s decision, published as pt sandipala arthaputra v stmicroelectronics asia pacific pte ltd and others [2017] sghc 102 (“the judgment”) at [10]–[48]. we only briefly canvass the relevant events.7 we start with the parties involved and how their trades interrelate. the first appellant and the plaintiff in the suit below, sandipala, produces personalised electronic identification cards. the second and third appellants, mr and ms tannos, are father and daughter and are sandipala’s directors. they are responsible for most, if not all, of the decisions involving sandipala. the first to third respondents were the defendants in the suit below. the first respondent, stmicroelectronics asia pacific pte ltd (“st-ap”), sells microchips, which we will refer to simply as “chips” below for convenience. these chips can be used by companies like sandipala to produce electronic identification cards. the third respondent, mr vincent pierre, luc, cousin (“mr cousin”), is st-ap’s country manager in indonesia. the second respondent, oxel, also supplies and sells chips for use in electronic identification cards. unlike st-ap, which produces the hardware, ie, the physical chip, oxel supplies the software for the chip, ie, its operating system. the chip produced by st-ap is encoded with oxel’s software. when the chip is produced and encoded, sandipala uses the completed chip to produce the physical electronic identification cards.8 the dispute centres on the supply contract concluded on 9 november 2011 between sandipala and oxel. it is a one-page signed acceptance of oxel’s quotation and a one-page purchase order reflecting the same terms.
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+ acb vol ii, part 1, p 122.
+
+
+
+ sandipala ordered a “committed quantity” of 100m chips at a price of us$0.60/unit (a total price of us$60m), to be delivered in four batches quarterly. these chips were manufactured by st-ap (namely the st23yr12 chips, which will be referred to as the “st chip”) and encoded with oxel’s software known as “pac” for the chips’ operating system (“the oxel chips”). the oxel chips are thus st chips encoded with oxel’s operating system. sandipala was to make a 20% down payment of the price of the chips to be delivered per quarter. it accordingly paid us$1.2m as down payment for the first batch on 14 november 2011.9 the oxel chips were purchased by sandipala for the purpose of fulfilling its obligations under a separate tender contract with the indonesian government for the production of electronic identification cards called electronic-ktp cards (“e-ktp cards”) for all its citizens (“the tender”). the tender was launched in february 2011 and set out requirements for the chips and its operating systems.
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+ acb vol ii, part 1, pp 13–15.
+
+
+
+ sandipala is the only party in the present appeal who directly participated in the tender. it joined an existing consortium led by perusahaan umum (perum) percetakan negara (“pnri” and “the consortium”) to bid for the tender.
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+ acb vol ii, part 1, p 141.
+
+
+
+ among the five companies in the consortium, pnri and sandipala were responsible for producing the e-ktp cards. the other members were responsible for other segments of the project, including conducting training seminars or installing other systems (eg, the government database).10 after sandipala joined the consortium, the consortium submitted its tender proposal to the indonesian government. as part of the tender process, each applicant had to submit two chips for evaluation, and the operating system masked onto each chip had to be an “open operating system”, ie, it could be put into the two types of chips specified.
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+ bruno louis s. vanhoucke’s (st-ap’s sales manager) aeic at paras 14–15 (ra vol iii, part 2, pp 83 and 126).
+
+
+
+ in the proposal, the consortium specified two chips made by different manufacturers, namely the nxp p308g0p3 chip (“the nxp chip”) and the st chip manufactured by st-ap.
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+ acb vol ii, part 1, p 147 at para 29 (mr tannos’ aeic).
+
+
+
+11 after the proposal stage, the indonesian government carried out proof of concept testing in may and june 2011. bidders had to demonstrate how they would carry out the population data collection, production and personalisation of the e-ktp cards to the indonesian government. this included the use of a sample set of the proposed chips (the nxp chip and st chip) encoded with the proposed software and operating system. the judge found that the evidence only established one test carried out at sandipala’s factory on 20 may 2011 (“the tender evaluation”).
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+ judgment at para 15.
+
+
+
+ in the court below, the parties disputed the type of chips that were tested during the tender evaluation. sandipala claimed that the st chip (with a compatible operating system) was successfully tested, and st-ap and/or oxel had promised that chips identical to those that were successfully tested would be supplied under the supply contract. sandipala argued that the st chip for the tender evaluation was supplied under a contract between softorb (a subcontractor of one of the companies in the consortium) and st-ap for 100,000 chips (the “tender evaluation chips”).
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+ acb vol ii, part 1, p 147 at para 30 (mr tannos’ aeic).
+
+
+
+ the respondents, st-ap, oxel and mr cousin, claim that only the nxp chip, and not the st chip, was tested because the st chip was not ready for testing as of may 2011. they could not have promised sandipala that they would supply the same st chips as those tested during the tender evaluation because no such chips were tested. for reasons we will describe later (see [19] below), the judge preferred the respondents’ version.12 a month later on 21 june 2011, the indonesian government awarded the tender to the consortium.
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+ acb vol ii, part 1, p 145 at para 23.
+
+
+
+ its award approved the use of both the nxp chip and the st chip. no operating system was specified. shortly before or after the tender was awarded, sandipala purchased 14 personalisation machines from datacard (to personalise the cards) that were configured to work with the nxp chips.
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+ roa vol iii, part 15, p 8 at para 11 (mr tannos’ supplementary aeic).
+
+
+
+ a month later, it purchased the nxp chips from two distributors.
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+ roa vol iii, part 8, p 159 at para 45 (mr tannos’ aeic).
+
+
+
+ during the four months which followed, it received or obtained quotations from other entities (including oxel and st-ap) for chips that could be used to produce the e-ktp cards.
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+ acb vol ii, part 1, pp 150–151.
+
+
+
+ some of these quotations were for chips encoded with an operating system that would not be compatible with the existing e-ktp system. 13 sandipala eventually ordered chips from oxel in november 2011 under the supply contract (see [8] above), with the first batch of 10m chips to be delivered in the last quarter of 2011 or the first quarter of 2012.
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+ acb vol ii, part 1, p 122.
+
+
+
+ 14 the first batch of the oxel chips were accordingly delivered in december 2011. these were accepted by sandipala. a few days earlier, the consortium had decided to reduce sandipala’s allocation of card production from about 103m chips to 60m chips.
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+ acb vol ii, part 2, pp 68–69.
+
+
+
+ sandipala claims that it only realised two months later, in january 2012, that the oxel chips could not be used to produce the e-ktp cards. (oxel and the other respondents conversely claim that sandipala knew of the incompatibility the moment it entered into the supply contract.) this was because although oxel used the st chip, which had been approved for use by the indonesian government, oxel’s operating system, pac, which was encoded on the chip, was incompatible with the e-ktp system unless certain fundamental changes were made to the system. sandipala then attempted to obtain the indonesian government’s approval for changes to be made to the e-ktp system to accommodate the oxel chips but this was not granted. ms tannos wrote to mr andi bharata winata (“mr winata”), oxel’s sales and marketing representative in indonesia, on 10 january 2012, requesting a temporary reduction of sandipala’s order,
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+ acb vol ii, part 2, p 68.
+
+
+
+ which was rejected. ms tannos wrote again on 19 january 2012 asserting that the order for 100m chips was only an indicative order, save for 10m chips.
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+ acb vol ii, part 1, pp 162–163 at para 184; roa vol iii, part 6, p 76 at paras 72–73 (ms ika kusuma’s aeic).
+
+
+
+ oxel replied that the order was for a “committed quantity” of 100m chips.
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+ roa vol iii, part 6, p 77 at para 74 (ms ika kusuma’s aeic).
+
+
+
+ 15 sandipala rejected chips delivered to it from february to april 2012. to date, oxel has purchased 19,426,284 chips (completed and encoded with the pac operating system)
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+ ika kusama’s aeic at para 172 (roa vol iii, part 6, p 96).
+
+
+
+ to fulfil its obligations under the supply contract but sandipala has only accepted delivery of 5,874,364 chips in nine shipments. out of the chips it has accepted delivery of, it has only paid for approximately a sixth of them, ie, 1,068,489 chips.
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+ ika kusama’s aeic at paras 48–49 (roa vol iii, part 6, p 71).
+
+
+
+ it has rejected six shipments amounting to 6,457,414 chips and has not paid for them.
+
+                   21
+
+
+
+
+foot note 21
+
+×
+
+
+
+ judgment at para 234; ika kusama’s aeic at para 93 (roa vol iii, part 6, p 81).
+
+
+
+ 16 sandipala commenced the proceedings in the suit below against st-ap, oxel and mr cousin on 28 june 2012. oxel counterclaimed against sandipala and the tannoses for its losses stemming from sandipala’s breach of the supply contract.the judge’s decision17 sandipala’s claims in the suit below against st-ap, oxel and mr cousin (st-ap’s country manager) were primarily for breach of obligations in contract and tort owed to sandipala by selling chips to sandipala that could not be used to produce the e-ktp cards or fraudulently representing that the oxel chips that were to be supplied under the supply contract would be identical to the tender evaluation chips tested by the indonesian government during the tender evaluation (see [11] above) and/or could be used to produce the e-ktp cards for the project. sandipala also claimed that the respondents had misrepresented that oxel was the exclusive distributor of all of st-ap’s chips (“the st-ap chips” as distinct from the st chip, which refers to a specific st-ap chip approved for the project – see [8] above) in indonesia. oxel counterclaimed against sandipala for breach of contract by failing to pay for and accept delivery of the oxel chips under the terms of the supply contract, and against sandipala and the tannoses for conspiracy to cause oxel loss by attempting to unlawfully extricate themselves from their contractual obligations under the supply contract without paying compensation.18 the judge dismissed all of sandipala’s claims, found that sandipala had breached the supply contract by not paying oxel for the oxel chips, and that the tannoses had conspired with sandipala to cause oxel loss by attempting to unlawfully extricate sandipala from its obligations under the supply contract.sandipala’s claims19 the judge reached two findings of fact that made the dismissal of sandipala’s claims against the respondents inevitable. first, the judge found that st-ap had no involvement in the tender evaluation. it did not recommend the chip hardware and software to softorb, the company who ostensibly supplied the st chips for testing during the tender evaluation (see [11] above), and it did not supply chips for the tender evaluation through softorb. the evidence showed that softorb had been developing its own software and submitted the software for st-ap so that st-ap could encode the chips with the software. st-ap also could not have (through softorb) supplied the tender evaluation chips for the tender evaluation because the st chips ordered by softorb were not ready before the tender evaluation in may 2011. although softorb ordered 100,000 st chips from st-ap in march 2011, softorb asked st-ap to halt production in april 2011 because they realised that the code for softorb’s operating system was wrong and could not work. softorb was only able to confirm its purchase of 100,000 st chips on 8 june 2011, more than a month after the tender evaluation. contrary to sandipala’s claim, no st chips could have been successfully tested during the tender evaluation. this means that the tender evaluation chips, ie, the st chips allegedly supplied through softorb for the purposes of the tender evaluation in may 2011, simply did not exist. 20 second, the judge found that sandipala (through mr tannos) knew at all times that the oxel chips would not be compatible with the existing e-ktp system unless changes were made to the latter. mr tannos possessed sufficient technical knowledge to appreciate that the oxel chips would not be compatible with the existing e-ktp system. he had in fact been actively sourcing for chips with operating systems that would not be compatible with the existing e-ktp structure from at least three companies other than oxel, namely ubivelox international pte ltd (“ubivelox”), oberthur technologies (“oberthur”) and hongda. this showed that he was aware of and unconcerned about the incompatibility of the chips with the e-ktp system. further, mr tannos had already taken certain steps to modify the existing e-ktp system. he had ordered 14 datacard personalisation machines configured for use with the nxp chips but wanted datacard to reconfigure the machines for use with the oxel chips. finally, sandipala’s reaction in january 2012 was not consistent with its claim that it had been defrauded. it instead sought indulgence from oxel to temporarily reduce its order of the oxel chips.21 on the basis of these two critical findings of fact, it was clear that sandipala’s claims were unmeritorious. given that st-ap had no involvement in the tender evaluation, and that no st chips were tested at the tender evaluation at all, st-ap (and its country manager, mr cousin) could not have promised or represented to sandipala that it would supply sandipala (through oxel) with chips that were the same as the non-existent tender evaluation chips. sandipala pleaded that the st chips were indeed tested and approved at the tender evaluation, and st-ap, oxel and mr cousin had promised that the same chips would be supplied under the supply contract. this pleaded narrative could not stand in the light of the evidence. further, given that mr tannos at all times knew that the oxel chips were incompatible with the existing e-ktp system, there was no question of any of the respondents fraudulently misrepresenting to him that the oxel chips could be used to produce the e-ktp cards without any modifications. it could not also have been the case that there was an implied term in the supply contract that the oxel chips would be suitable for the production of e-ktp cards. sandipala’s claims in negligence, conspiracy and mistake were also not made out. the judge thus dismissed sandipala’s claims against all the respondents.oxel’s counterclaims22 the judge held that oxel’s counterclaims, namely that (a) sandipala had breached the supply contract; and (b) sandipala and the tannoses had unlawfully conspired to cause loss to oxel, were successfully made out. 23 for the breach of contract counterclaim, the judge found that sandipala had breached the supply contract by wrongfully rejecting and/or not paying for the oxel chips. sandipala’s defence that it was entitled to reject the chips as oxel had breached the supply contract was dismissed since the judge had already found that sandipala’s allegations were unmeritorious. sandipala also argued that it had only made a confirmed order for 10m chips instead of 100m chips. the judge held that sandipala’s contention was inconsistent with the evidence. oxel’s quotation stated that the order was for a “committed quantity” of 100m chips for us$60m,
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+ acb vol ii, part 1, p 122 / annex b.
+
+
+
+ the tannoses had admitted that they had intended to purchase 100m chips, and sandipala’s letter to oxel in january 2012 reflected that understanding. thus, he found that sandipala had ordered 100m of the oxel chips, wrongfully rejected them and was hence in breach of the supply contract.24 for the unlawful means conspiracy counterclaim, the judge found that sandipala and the tannoses had unlawfully conspired to cause loss to oxel by attempting to extricate sandipala from its contractual obligations under the supply contract without accepting the consequences of its breach. this was done through (a) creating a paper trail falsely stating different terms of the supply contract to found a claim against oxel; (b) bringing a false, trumped up claim in the suit below to apply pressure on oxel; and (c) causing articles with false allegations about oxel to be published. however, the judge found that although sandipala and the tannoses were engaged in the conspiracy, mr tannos’ wife, mrs lina rawung (who was one of the defendants in the counterclaim below), was not. oxel does not appeal this last finding.25 having allowed both of oxel’s counterclaims, the judge then assessed the quantum of oxel’s losses. oxel had produced a total of approximately 19m chips under the supply contract. as regards damages for breach of contract, the judge allowed oxel’s claims against sandipala for 80% of the sale price of chips delivered to but not paid for by sandipala; down payments payable by sandipala where the contract of sale had been performed; oxel’s payments to its suppliers in reliance on the supply contract; oxel’s loss of profits that it would otherwise have earned; and storage costs and freight charges for the chips. given that the tannoses were engaged in a conspiracy with sandipala to cause loss to oxel through the unlawful breach of the supply contract, they were also personally liable for oxel’s losses as assessed. the total quantum of the damages as assessed by the judge amounted to us$21,822,183.17 and s$39,208.38.the scope of the appeal26 in their appellants’ case, sandipala and the tannoses state that they are appealing against the entirety of the judge’s decision,
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+ appellants’ case at para 6.
+
+
+
+ but the arguments they advance are clearly limited. we thus first ascertain the scope of this appeal, beginning with the dismissal of sandipala’s claims against the respondents. 27 in the court below, sandipala pursued claims for breach of contract, fraudulent misrepresentation, unlawful means conspiracy, negligence, and unilateral mistake against the respondents (see [17] above). however, their arguments on appeal consist of only two principal points. first, they argue that the judge did not consider all the relevant evidence, leading to his erroneous finding of fact that sandipala (through mr tannos) knew at the time the supply contract was concluded that the oxel chips were incompatible with the e-ktp system.
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+ appellants’ skeletal arguments at paras 10–34.
+
+
+
+ second, they argue that the judge erred in finding that the respondents did not misrepresent to sandipala that oxel was the exclusive distributor of the st-ap chips in indonesia.
+
+                   25
+
+
+
+
+foot note 25
+
+×
+
+
+
+ appellants’ skeletal arguments at paras 36–40.
+
+
+
+ sandipala’s second point of appeal is thus confined to the fraudulent misrepresentation claim against the respondents only in respect of the purported representation as to oxel’s exclusive distributorship status (and not about the quality or characteristics of the oxel chips). 28 sandipala’s first argument is against the judge’s finding of fact that sandipala knew of the incompatibility of the oxel chips at the point of entry into the supply contract. this alone cannot affect the judge’s dismissal of sandipala’s claim in contract because, as the respondents have correctly pointed out, sandipala does not challenge the judge’s finding that the tender evaluation chips did not exist (see [19] above). during the oral hearing, mr r govintharasah, on behalf of sandipala, agreed that sandipala was not challenging this finding and conceded that no st-ap chips were indeed tested during the tender evaluation. we agree with the respondents that sandipala’s failure to challenge this finding means that it can no longer rely on any claims which are predicated on oxel’s failure to supply chips that were identical to the tender evaluation chips, which formed the bulk of their pleaded case, especially in contract. oxel, st-ap and mr cousin simply could not have promised sandipala that chips that were identical to the tender evaluation chips would be provided under the supply contract, because they were at the time non-existent. sandipala’s pleaded contractual terms, which sandipala claimed that oxel and st-ap breached, are almost entirely premised on the tender evaluation chips. sandipala pleaded that oxel breached its obligations under the supply contract, including the express or implied terms that oxel would supply to sandipala “[100m] pieces of electronic chips that were identical to the tender evaluation chips”, that the chips would “correspond to the agreed description, namely that the electronic chips would be the same as the tender evaluation chips”, and/or that “[oxel] would supply [chips that were] identical to the tender evaluation chips”.
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+ statement of claim (amendment no 4) at para 24.
+
+
+
+ the collateral contract between sandipala and st-ap was based on the same terms as those in the supply contract between sandipala and oxel, and thus similarly centred on the tender evaluation chip.29 sandipala’s case on breach of contract against st-ap and oxel thus cannot stand in the light of the judge’s finding, which was unchallenged and which we in any event agree with. mr govintharasah sought to argue the appeal on a different premise since the appellants allegedly did not know, when the pleadings were filed, that no physical st chips were tested at the tender evaluation as they were admittedly not ready till months after the tender evaluation. his case on appeal was that although the st chip, with softorb’s operating system, was not physically tested during the tender evaluation, it was somehow nevertheless approved by the indonesian government either during or after the tender evaluation, and perhaps based on the use of a chip emulator. he however candidly accepted that this did not form part of sandipala’s pleaded case. we note that the judge at [84] of the judgment considered sandipala’s alternative case regarding the chip emulator, rejected this alternative case, and rightly held that sandipala should not be permitted to pursue an argument constituting a “glaring departure” from its pleaded case. we agree entirely.no30 in relation to the rest of the claims in fraudulent misrepresentation as regards the compatibility of the oxel chips, unlawful means conspiracy, negligence and mistake, we hold that even if sandipala can prove that it was not aware of the incompatibility of the oxel chips when it concluded the supply contract, it nonetheless cannot succeed on any of these claims unless it proves that there was a representation made by the respondents that the oxel chips would be compatible (in relation to misrepresentation and unlawful means conspiracy), that st-ap and oxel owed sandipala a duty of care that involved supplying chips compatible with the e-ktp cards and/or alerting sandipala that they were not compatible (in relation to negligence), and that the respondents were aware of sandipala’s mistake as to the compatibility of the oxel chips (in relation to unilateral mistake). sandipala does not challenge any of the judge’s findings, which were all in the negative, on the foregoing matters. the judge also noted that sandipala had appeared to have dropped its negligence claim entirely.
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+ judgment at para 189.
+
+
+
+ thus, even if sandipala can prove that it was unaware of the incompatibility of the oxel chips, it makes no difference to the substantive outcome of its appeal. in any event, as we will go on to show, the judge’s finding that sandipala (through mr tannos) was at all times aware of the incompatibility of the oxel chips was clearly supported by the evidence, and completely undermined sandipala’s claims.31 in relation to oxel’s counterclaims for breach of contract and unlawful means conspiracy against sandipala and the tannoses, the appellants have two main arguments on appeal. first, the judge erred in finding that oxel was unable to mitigate its losses because it could not find an alternative market for its chips and/or was prevented from re-selling the chips. the appellants are thus only challenging the quantum of damages assessed by the judge and not the finding of breach of contract. second, the judge erred in finding that unlawful means conspiracy was made out because the tannoses, as directors of sandipala, were acting in good faith within the scope of their authority in directing sandipala’s breach of contract, and should therefore not be held liable.32 finally, we note that after the judge rendered his decision in the high court, the tannoses were ordered to attend three examination of judgment debtor hearings as judgment debtors. they failed to attend those hearings and oxel applied for committal orders against them. on 12 january 2018, the judge found the tannoses guilty of contempt of court and sentenced them to seven days’ imprisonment each: pt sandipala arthaputra v stmicroelectronics asia pacific pte ltd and others [2018] sghc 20. the tannoses are appealing against the judge’s decision on contempt and the appeal is scheduled to be heard at a later date. the present appeal, however, does not directly concern the contempt proceedings against the tannoses since the contempt finding arose in relation to events which occurred after the decision being appealed against in the present appeal was rendered.sandipala’s claims33 as mentioned above, in so far as the dismissal of sandipala’s claims is concerned, sandipala has raised only two arguments on appeal in relation to (a) the state of sandipala’s knowledge when the supply contract was entered into; and (b) the alleged misrepresentation as to oxel’s exclusive distributorship. we examine them in turn.finding on mr tannos’ knowledge34 sandipala challenges the judge’s finding that sandipala knew (through mr tannos) that the oxel chips would be incompatible with the existing e-ktp system from the outset. the judge found that mr tannos was actively sourcing for alternative chips that were either not approved by the indonesian government in the awarded tender or were incompatible with the e-ktp system because he believed that he could persuade the indonesian government to make the necessary changes to the existing e-ktp system. 35 as stated above at [30], although sandipala spent the bulk of its appellants’ case challenging this finding of fact, ultimately, it is inconsequential to its appeal against all the respondents. the fact that sandipala did not know that the chips were incompatible does not give rise to any cause of action unless there was a representation made by the respondents that the oxel chips would be compatible with the e-ktp system. the judge found that no such representation was made and sandipala does not challenge this finding. in our view, this is fatal to sandipala’s appeal.36 for completeness, however, we agree with the judge’s finding that sandipala (through mr tannos) was aware of the incompatibility of the oxel chips. sandipala argues that it, through the tannoses, had never pursued alternative chips or software and had blindly ordered chips from oxel on the consortium’s instructions to purchase the chips from st-ap, and mr cousin’s representation that the oxel chips would be suitable for the tender and hence the e-ktp system. in particular:(a) the appellants had never sought to modify the existing e-ktp system. the indonesian government had already approved the hardware (chips) and software (operating system) prior to awarding the tender and the appellants simply wanted to purchase the approved chips.(b) the appellants had no technical knowledge of chips and the software to be encoded on these chips. mr tannos had never been involved in the production of smartcards or silicon semiconductor microchips prior to the tender. sandipala’s involvement was only as a card manufacturer, and not as a chip or software supplier. (c) the appellants had never sought alternative software and chips from other suppliers, including oxel. the appellants did not approach ubivelox and oberthur on their own accord and there were never any formal written proposals given by hongda. (d) it was illogical for the appellants to attempt to source for chips encoded with software that the government had not approved. the appellants would not benefit from undertaking such an endeavour and would instead be risking the tender, being blacklisted for future tenders, or facing criminal penalties.37 sandipala’s claims have no merit for the comprehensive reasons given by the judge at [87]–[147] of the judgment. the evidence is clear that at all material times, mr tannos was aware of the incompatibility:(a) ubivelox’s vice president and director, mr kim soung jin (“mr kim”), an independent witness, testified that he had met mr tannos on 4 august 2011 and mr tannos had informed him that he wanted to buy st chips encoded with ubivelox’s software, and that “he was also looking for a new key management system and security access module to be used together with the ubivelox software”.
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+ mr kim’s aeic at paras 7–8 (ra vol iii, part 7, pp 177–178).
+
+
+
+ the key management system (“kms”) and security access module (“sam”) are essentially security software for the e-ktp system that need to be compatible with any chip’s operating system for the e-ktp system to work (judgment at [22]). mr kim told mr tannos that a project like the e-ktp system would not allow for changes in the chip’s software, and these changes would require modification work that the indonesian government would have to accept. mr tannos acknowledged that he was aware of that. this shows that mr tannos was not only interested to purchase the tender evaluation chips, as he had claimed, and was, in fact, sourcing for alternatives notwithstanding its potential incompatibility. in doing so, he disclosed a sufficient appreciation of the incompatibility issue between the required chips with the e-ktp system. the judge accepted mr kim’s evidence (judgment at [98]–[100]) and there is nothing to suggest that this was wrong. (b) at the same august 2011 meeting, ie, crucially before the supply contract was concluded with oxel, mr kim and mr cousin (who attended) gave evidence that the discussion focused on the kms and personalisation software, the operating system, etc. mr kim said that he had “explained [to mr tannos] in details about his questions on… personalisation of machines, kms and security”.
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+ ne 5 april 2017 pp 42–44 (ra vol iii, part 25, pp 122–124).
+
+
+
+ this would also have enabled mr tannos to appreciate the significance of the chip’s encoded software. (c) mr winata testified that mr tannos had set out to look for 100m chips encoded with an operating system different from that approved by the indonesian government. mr winata had told mr tannos that modifications would have to be made to the e-ktp system, requiring the indonesian government’s approval. this was corroborated by a secretly recorded conversation on 22 january 2012, where mr tannos affirmed mr cousin’s statement that “the initial plan was to change everything which is not possible anymore”.
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+ ra vol iv, part 28, p 276.
+
+
+
+(d) despite mr tannos’ claim that it was illogical for him to purchase chips other than those approved by the indonesian government, the recorded conversations in january 2012 establish that he still wanted to “talk hard” to the indonesian officials and to “force in [their] own kms”.
+
+                   31
+
+
+
+
+foot note 31
+
+×
+
+
+
+ ra vol iv, part 28, pp 275, 280.
+
+
+
+ he clearly felt that he had the influence over the indonesian government to convince it to modify the existing e-ktp system. 38  thus, in our view, the judge correctly found that mr tannos was fully aware of the incompatibility of the oxel chips with the e-ktp system when the supply contract was concluded.fraudulent misrepresentation on exclusive distributorship39 we move on to examine sandipala’s claim in fraudulent misrepresentation. sandipala only challenges the judge’s findings in relation to st-ap, oxel and mr cousin’s alleged misrepresentation that oxel was the exclusive distributor of the st-ap chips in indonesia.
+
+                   32
+
+
+
+
+foot note 32
+
+×
+
+
+
+ appellant’s skeletal arguments at para 36.
+
+
+
+ the judge found that there was no such representation made and even if it had been made, it was highly improbable that sandipala (acting through mr tannos) had relied upon it when it entered into the supply contract (judgment at [155]). this was because st-ap had itself offered to sell sandipala its chips, and mr tannos was in fact in discussion with other companies for the supply of the st-ap chips. he thus could not have believed that oxel was the sole distributor of the st-ap chips in indonesia.40 on appeal, sandipala claims that the judge did not consider all the available evidence in determining that the alleged representation was not made. the judge allegedly failed to consider the following pieces of evidence, which were not referred to in his judgment:(a) an e-mail dated 9 november 2011 where oxel sent a quotation for “e-ktp solution using [st] chipset from st-microelectronics” (“the 9 november 2011 e-mail”);
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+ acb vol ii, part 1, p 118; ra vol iv, part 3, pp 10–12.
+
+
+
+(b) mr cousin’s attempt on 13 january 2012 to persuade the appellants that oxel was the exclusive distributor of the st-ap chips by referring to oberthur (an alternative chip supplier)’s chips as fakes;
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+ ra vol v, part 8, pp 134, 138, 139, 147, 148.
+
+
+
+ (c) a meeting on 22 january 2012 where mr cousin confirmed that the chips supplied to sandipala by oxel were in accordance with the indonesian government’s approval for the e-ktp project;
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+ ra vol iii, part 12, p 144.
+
+
+
+(d) a draft written contract dated 8 february 2012 between sandipala and oxel where mr winata (on behalf of st-ap) warranted that oxel was the “exclusive supplier” of the st-ap chips (“the february 2012 draft contract”); (e) mr tannos had referred to oxel as an exclusive distributor during cross-examination.41 in response, st-ap and mr cousin argue that on the totality of the evidence, it was clear that no such representation had been made. the pieces of evidence relied upon by sandipala were either already considered by the judge or of no probative value. oxel echoes these arguments but also contends that given mr tannos’ own evidence that he relied on mr cousin (of st-ap) and not mr winata (of oxel)’s representation, oxel cannot be held liable for the alleged misrepresentation in any event.42 we agree with the respondents that even though the judge may not have specifically referred to the evidence in his judgment, it does not follow that he did not consider it. sandipala’s appeal can only succeed if the evidence it raises is credible and materially inconsistent with the judge’s finding. even then, given that this is a question of fact, an appellate court would be slow to intervene unless the finding of fact is against the weight of the evidence. none of the evidence referred to by sandipala proves that the representation was made. we also note that although sandipala’s appeal is ostensibly against the judge’s finding on the exclusive distributorship representation, some of the evidence highlighted instead pertains to the representation as regards the suitability of the oxel chips for producing the e-ktp cards. 43 first, the 9 november 2011 e-mail containing oxel’s quote for an “e-ktp solution using [st] chipset from st-microelectronics”
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+ acb vol ii, part 1, 120.
+
+
+
+ referred to at [40(a)] above is clearly not a representation that oxel was st-ap’s exclusive distributor. in so far as it could be a representation that the oxel chips were suitable for the e-ktp system, the e-mail referring to the chipset as an “e-ktp solution” has to be read in context with the quotation enclosed in the e-mail, which was for 100m st23yr12aw0npaca chips.
+
+                   37
+
+
+
+
+foot note 37
+
+×
+
+
+
+ acb vol ii, part 1, 122–123 / annex b.
+
+
+
+ this referred to st23yr12 chips encoded with the pac operating system. similarly, the february 2012 draft contract referred to at [40(d)] above was not a representation that oxel was the exclusive supplier of the st-ap chips. article 5 stated that “[oxel] is the exclusive supplier of st-micro st23yr12aw0npaca chips”.
+
+                   38
+
+
+
+
+foot note 38
+
+×
+
+
+
+ ra vol iv, part 14, p 177.
+
+
+
+ this was true as oxel was the only one licensed to sell st chips encoded with the pac operating system. 44 second, the alleged representations referred to at [40(b)] and [40(c)] above were conversations between sandipala and oxel which were secretly recorded by st-ap’s mr cousin. the judge considered these conversations (judgment at [139]–[140]). in relation to the specific parts relied upon by sandipala, although mr cousin said that oberthur’s chips were “counterfeit” in the 13 january 2002 conversation,
+
+                   39
+
+
+
+
+foot note 39
+
+×
+
+
+
+ ra vol v, part 8, p 134.
+
+
+
+ this is entirely different from saying that oxel was the exclusive distributor of the st-ap chips in indonesia. finally, even if mr cousin had represented that the oxel chips were those that were approved by the indonesian government, it does not follow that oxel was st-ap’s exclusive supplier. in so far as this relates to mr cousin’s alleged misrepresentation that the oxel chips were suitable for the e-ktp system, a review of the entire conversation shows that mr tannos already knew that the oxel chips were incompatible with the existing e-ktp system and was trying to come up with ways to justify the incompatibility with the operating system to the indonesian government by arguing that the tender contract only stated that the st chips were needed, and did not specify the operating system. mr tannos explicitly stated that the oxel chips had “different software” that “cannot run on the [e-ktp] application”.
+
+                   40
+
+
+
+
+foot note 40
+
+×
+
+
+
+ ra vol iii, part 12, pp 167, 184, 186.
+
+
+
+ this shows that mr tannos knew that the oxel chips were encoded with software which was incompatible with the e-ktp system. mr cousin thus could not have represented that the chips were suitable for the e-ktp system.45 finally, mr tannos’ reference to oxel as st-ap’s exclusive distributor  under cross examination at [40(e)] above has no probative value whatsoever as it was his own unsubstantiated assertion. further, the judge also found that mr tannos’ evidence was unreliable and that he had the “propensity to make allegations without a genuine belief in their truth” (judgment at [224]).46 in any event, the judge’s finding that no representation as to oxel’s exclusive distributorship could have been made or relied upon by mr tannos was strongly supported by the evidence. mr tannos himself admitted in his affidavit of evidence-in-chief that ubivelox and st-ap had also offered to supply sandipala with the st-ap chips in august 2011, three months before sandipala entered into the supply contract with oxel.
+
+                   41
+
+
+
+
+foot note 41
+
+×
+
+
+
+ mr tannos’ aeic at para 55 (ra vol iii, part 8, p 156, paras 37–41.
+
+
+
+ thus, the judge was correct in holding that no representation was made by oxel as regards its exclusive distributorship and even if it was made, mr tannos could not have relied on it. 47 for all the reasons above, we dismiss sandipala’s appeal against the judge’s dismissal of all its claims against the respondents. this leaves only the appellants’ appeal against the judge’s decision on the second respondent (oxel)’s counterclaim, and we now turn to this.oxel’s counterclaims48 oxel counterclaimed against sandipala for breach of contract for wrongfully rejecting delivery of and failing to pay for the oxel chips under the supply contract. it also counterclaimed against sandipala and the tannoses for unlawful means conspiracy to cause damage to oxel. the judge held in favour of oxel on both counts. sandipala appeals against the judge’s decision only in relation to the counterclaim in conspiracy and the judge’s findings on oxel’s duty to mitigate its losses arising from the breach of the supply contract.unlawful means conspiracy49 we start with oxel’s counterclaim against sandipala and the tannoses for conspiracy to cause oxel loss by unlawful means, namely by attempting to unlawfully extricate sandipala from its contractual obligations owed to oxel under the supply contract by bringing a false claim against oxel, creating a false paper trail for this purpose, and causing to be published articles containing false allegations against oxel. although the judge did not expressly identify the unlawful means oxel relied upon, it was clear both from oxel’s pleadings and the damages awarded by the judge for the conspiracy claim (damages for breach of contract) that oxel argued, and the judge considered, that the unlawful means in question was sandipala’s breach of contract, rather than the other causes of action such as defamation or fraudulent misrepresentation. certainly none of these causes of action were held to have been made out before the judge. this was also accepted by oxel’s counsel, mr davinder singh sc, during the hearing. 50 the question before this court, as we alluded to at the beginning of the judgment, is when a director should be held personally liable for the consequences arising from his company’s breach of a contract, to which only the company, and not he himself, is party. a company often acts through its directors, who in turn may decide that it is sometimes in the company’s interest for it to breach its contract and compensate the other contracting party rather than continuing to perform. to hold that a director may be liable for taking such a decision, notwithstanding that he is acting in the company’s best interests and is not himself a party to the contract, is not only unduly onerous on the director but also effectively penalises the company when the director refrains from directing a breach of contract for fear of personal liability even though it may be in the best interests of the company to do so. the limits to such personal liability must therefore be clearly demarcated, and it is in this context that we evaluate the present law.a director’s liability for his company’s breach of contract51 directors may be held personally liable for the consequences of the company’s breach of contract under three potential causes of action. the first is the tort of procurement of breach of contract, where the director induces or procures his company to breach its contract with a third party. the second is unlawful means conspiracy as between the directors, where directors conspire to procure their company to breach its contract. the underlying unlawful means would be the tort of inducement of breach of contract, which is the same as that of the first cause of action. an action of this sort was brought against the directors in chong hon kuan ivan v levy maurice and others [2004] 4 slr(r) 801 (“chong hon kuan”),
+
+                   42
+
+
+
+
+foot note 42
+
+×
+
+
+
+ aboa part 1 tab 7.
+
+
+
+ where a company’s ex-managing director sued three other directors of the company for unlawfully conspiring to induce the company to terminate the former’s employment agreement with the company. the third is unlawful means conspiracy as between a director and his company, where the director conspires with the company to cause the company to breach the contract. this was the case in nagase singapore pte ltd v ching kai huat and others [2008] 1 slr(r) 80 (“nagase”),
+
+                   43
+
+
+
+
+foot note 43
+
+×
+
+
+
+ aboa part 2 tab 19.
+
+
+
+ where a director, acting on behalf of the company, fraudulently overcharged the plaintiff in breach of his company’s contract with the plaintiff and the plaintiff brought a successful claim for unlawful means conspiracy against the director and his company.52 we note that it is unclear in the last scenario whether the unlawful means relied on would be the tort of inducement of breach of contract (by the director) or breach of contract (by the company). it is settled law that in unlawful means conspiracy, it is not a requirement that all conspirators commit or are able to commit the unlawful means in question, so long as they participate in the overall conspiracy to cause loss. in nagase, judith prakash j (as she then was) appeared to find that the unlawful means was the breach itself, namely deliberately overcharging the plaintiff amounts that the company was not entitled to charge (see nagase at [9]). in our view, the unlawful means relied on should be the company’s breach of contract rather than the directors’ tort of inducement of breach, as it would be conceptually unsatisfactory to speak of a company conspiring with its directors to induce the company itself to breach a contract. a company, like any other person, does not induce itself to breach a contract or even to commit any act; it simply intends to do so, and does. a person who is induced to breach a contract would not be concurrently liable for conspiring with the inducers to induce himself into committing the breach. conversely, although a director is incapable of legally breaching a contract to which he is not party, he can nevertheless participate or assist in the acts which, when done by the company, would amount to a breach.53 however, in relation to all the above causes of action, the courts have accepted that a director is immune from personal liability if he falls within the application of the principle in said v butt which provides that when a director acts bona fide within the scope of his authority, he is immune from tortious liability for procuring his company’s breach of contract. in said v butt, the plaintiff asked a friend to buy a ticket to a theatre performance for him. he had previously made serious allegations against the theatre’s members and knew that he would not be able to obtain a ticket in his own name. when he turned up for the performance, the theatre’s managing director ordered that he be refused admission. the plaintiff sued the theatre director for procuring the theatre’s breach of contract with him. mccardie j held (at 506) that:… if a servant acting bona fide within the scope of his authority procures or causes the breach of a contract between his employer and a third person, he does not thereby become liable to an action of tort at the suit of the person whose contract has thereby been broken. i abstain from expressing any opinion as to the law which may apply if a servant, acting as an entire stranger, or wholly outside the range of his powers, procures his master to wrongfully break a contract with a third person.54 mccardie j’s statement in said v butt was made obiter as he had already found that there was no contract between the plaintiff and the theatre. nevertheless, the said v butt principle has been consistently endorsed and applied in the united kingdom and other jurisdictions such as australia and canada (see the high court of australia’s decision in o’brien v dawson (1942) 66 clr 18 (“o’brien v dawson”) at 34 and the newfoundland court of appeal’s decision in imperial oil ltd v c&g holdings ltd (1989) 62 dlr (4th) 261 (“imperial oil”) at 266). the principle has also been applied by our courts in chong hon kuan, nagase (at [8]–[9]), and more recently in m+w singapore pte ltd v leow tet sin and another [2015] 2 slr 271 (“m+w singapore”) (at [93]–[97]). although said v butt concerned the tort of inducement of breach of contract, which was the applicable tort in that case, its application has been extended to other torts involving a company’s breach of contract, such as unlawful means conspiracy where the unlawful means pertains to the contractual breach: see o’brien v dawson at [58] below.55 however, there has thus far been no detailed analysis by the courts of what precisely the principle entails, in particular what it means to act “bona fide within the scope of [the director’s] authority”. previous decisions of our courts have interpreted the said v butt principle to comprise two conjunctive requirements namely: (a) acting bona fide; and (b) acting within the scope of the director’s authority, and to apply only to “protect persons in authority within corporate entities who genuinely and honestly endeavoured to act in the company’s best interests”: see chong hon kuan at [49] and nagase at [9]. thus in nagase, where the company’s director, through the company, fraudulently overcharged the plaintiff, the director was held not to be entitled to the protection of the principle. 56 conversely, a director who acts in good faith and within his authority would be immune from tortious liability, notwithstanding that he may have been genuinely mistaken as to the company’s contractual obligations or even that he had the predominant intention of causing loss to another. an example of the former is the case of ng joo soon (alias nga ju soon) v dovechem holdings pte ltd and another suit [2011] 2 slr 1155 (“ng joo soon”), where the plaintiff sued the company’s directors in the tort of inducement of breach of contract and in conspiracy for the wrongful breach of the company’s obligation to pay the plaintiff certain sums under a contract. philip pillai j held (at [77]) that the directors were immune from such liability as they had acted within their authority and in good faith, and it thus did not matter that they had been mistaken as to the company’s contractual obligations. for the latter, woo bih li j opined in chong hon kuan (at [46] and [48]) that the requirement of a predominant intention to injure was an essential requirement for lawful means conspiracy. if such an allegation could deprive a defendant of the protection of the said v butt principle, such a principle would become emasculated. something more was thus needed, although it was not necessary for woo j to consider what that was.57 a brief examination of the application of the said v butt principle in other jurisdictions also reveals scant authority on its precise scope. in the united kingdom, the principle has been consistently endorsed by the courts but without much judicial exploration: see scammell g & nephew ltd v hurley [1929] 1 kb 419 at 443 and 449, and dc thomson & co ltd v deakin and others [1952] ch 646 at 680–681. of particular significance is the decision in ridgeway maritime inc v beulah wings ltd and dr tunji braithwaite (the “leon”) [1991] 2 lloyd’s rep 611 (“the leon”), where waller j investigated the limitations of a director’s liability for his company’s breach of contract, in particular the definition of bona fide. he stated (at 624 col 2–625 col 1):there certainly are well known circumstances in which an employee may be liable for inducing a breach of contract where the employee is himself acting unlawfully including in breach of his own contract with his employer. … i find the words “bona fide”, if they are meant to add anything to acting unlawfully, quite difficult in this context. do they contemplate that an individual who knows that what he is doing will lead to the company being in breach of contract being somebody not acting bona fide? or do the words bona fide relate to the relationship of the individual with the company i.e. if he is seeking to force the company to do something contrary to its own interests? if the latter, i am not satisfied that without the action of the employee also being a breach of contract or legal duty to the employer, it could found an action for tort for inducing a breach. [emphasis added]waller j thus acknowledged that an employee could be liable in tort for procuring his employer to breach the latter’s contract with a third party, provided that the act of inducement was in breach of the employee’s own contract with or legal duty owed towards his employer. 58 in australia, the said v butt principle was approved by the high court of australia in o’brien v dawson but without specifically addressing the bona fides requirement, ie, that directors who exercise their functions as directors and act within their authority are immune from the tort of inducing the breach of contract. the plaintiffs in o’brien v dawson sued a company and two of its directors for conspiracy to injure the plaintiffs when the defendants ejected the plaintiffs from certain theatres, even though the plaintiff had been occupying the theatres pursuant to an agreement with the company. the court held that the directors could not be held personally liable either for conspiracy with the company or for procuring the company to breach its contract because a director acting within the scope of his authority in the exercise of his functions acted in the capacity of and as the company, and not himself. the company should thus be properly liable for such acts, and not its directors.59 the uncertainty of the scope of the principle, in particular whether it protects directors ordinarily acting within their authority but not in good faith or in the best interests of the company, was recently canvassed by the supreme court of western australia in knights capital group ltd v bajada and associates pty ltd [2016] wasc 69. the plaintiff sued the company’s directors for inducing the company to wrongfully repudiate a management agreement with the plaintiff. the defendant-directors applied under o 16 r 1 of the rules of the supreme court 1971 (wa) for summary judgment on the basis that they had a good defence on the merits, namely that they had acted within their authority in taking the decision to terminate the management agreement and were entitled to immunity on the basis of the principle in o’brien v dawson. the plaintiff argued that the defendant-directors were not entitled to immunity because their conduct, although ordinarily within their authority as the company’s directors, was not engaged in good faith or in the best interests of the company, and their conduct was thus an exception to the said v butt rule. pritchard j, in considering the plaintiff’s argument, stated (at [80]–[81]) that the scope of the rule in said v butt remained “largely unexplored” and that the rule did not sit comfortably with the body of law recognising that a director may be personally liable for procuring other wrongs by the company. however, as there was no evidence to suggest that the directors had not acted in the best interests of the company, summary judgment was granted in favour of the defendant-directors and the case did not progress any further. this case is however useful in demonstrating, first, that the scope of the principle in said v butt should be more clearly demarcated, and second, that there is a question as to the consistency of the said v butt principle with the other body of law which provides that a director is generally liable for other torts he has procured the company to commit (we address the latter at [74]–[79] below).60 in canada, the said v butt principle was approved by the newfoundland court of appeal in imperial oil. the court interpreted the principle to mean that a director was immune when he acted bona fide within the scope of his authority in the best interests of the company. however, even when the director was not so acting, he would only be personally liable if the circumstances additionally showed that his dominant concern was on depriving the third party of its contractual benefits. marshall ja reasoned that the director’s duty to act bona fide was owed to his company and was of no concern to third parties. to require directors to justify their corporate actions to third parties such that they would obtain immunity from suit would “extend the concept of piercing the corporate veil beyond the limits prescribed by law” (at 266). thus, even where a director was not acting bona fide, the additional factor of a dominant purpose to deprive the plaintiff of its contractual benefits was required. 61 the ontario court of appeal in adga systems international ltd v valcom ltd [1999] oj no 27 (“adga systems”)
+
+                   44
+
+
+
+
+foot note 44
+
+×
+
+
+
+ aboa part 1 tab 2.
+
+
+
+ similarly approved the said v butt principle as an exception to the general rule that directors are personally liable for their tortious conduct even though their conduct may be bona fide in the best interests of the company. but carthy ja held (at [43]) that the exception did not apply in that particular case. the plaintiff and defendant were competitors. the plaintiff held a contract with the canadian prison services for technical support and maintenance of security systems, which was expiring, and fresh tenders were called. the defendant company’s sole director and senior employees convinced the plaintiff’s employees to permit their names to be used in the defendant’s tender documents (such that the defendant could show that they had technicians with the requisite experience) and to work for the defendant if the defendant won the tender. the plaintiffs sued the defendant company’s director and senior employees for inducing a breach of contract and breach of fiduciary duties between the plaintiff and its employees. carthy ja noted that the said v butt exception applied to exempt only directors acting bona fide within the scope of their authority from personal liability for the tort of inducement of breach of contract. in that case, the plaintiff’s claim was premised on the inducement of breach of fiduciary duties and not inducement of the breach of contract (at [4]). the said v butt principle also did not apply to protect the defendant-directors because the defendant-directors were not causing a breach of a contract between their company and the plaintiff, but between the plaintiff and its employees. the plaintiff there had no contractual relationship with any of the defendants. the defendants’ appeal to the supreme court of canada was refused.62 having reviewed the authorities, we find that the scope of the said v butt principle should be more clearly demarcated and defined to provide certainty for directors in the performance of their duties. in our judgment, the said v butt principle should be interpreted to exempt directors from personal liability for the contractual breaches of their company (whether through the tort of inducement of breach of contract or unlawful means conspiracy) if their acts, in their capacity as directors, are not in themselves in breach of any fiduciary or other personal legal duties owed to the company.63 we begin by determining the reasons for limiting a director’s personal liability for his company’s contractual breaches. first, conceptually, when a director acts in the exercise of his functions as a director and within the scope of his authority, he essentially acts in the company’s capacity and not his own; he is effectively the company. this is the natural consequence of the separate personality doctrine. the company is an artificial entity which is given personality and status only through the machinery of the law. all of its acts are, in some manner or another, carried out or directed by its agents. it thus makes little sense for a company to be induced into breaching its contract with a third party by the director’s acts, which are treated in law as the company’s own acts. as jordan cj stated in the supreme court of new south wales decision in o’brien v dawson [1941] 43 sr (nsw) 295 (at 307), which was affirmed on appeal to the high court of australia ([54] supra), when an incorporated company acts through its agents, the agents “are not in the position of outsiders who are influencing the independent volition of a contracting party who is capable of exercising volition for himself”. it would also be wrong to treat the director as conspiring with the company, given that the director is acting as the company. there is effectively only one legal actor in play, ie, the company, and this is typically fatal to the fundamental requirement of a conspiracy that there be two or more persons acting in concert. to hold that the company’s agents are nevertheless personally liable for the acts taken by the company in relation to a contract entered into by the company, when they act in the company’s capacity and in fulfilment of their duties towards the company, undermines the separate legal personality doctrine and makes nonsense of this fiction that undergirds the fundamental tenets of company law.64 the second reason is one of policy, namely, that of ensuring that directors are not unduly deterred by fear of personal liability when taking decisions in the company’s interests. this ensures the efficacious conduct of commercial life. carthy ja in adga systems (at [15]) stated, and we respectfully agree, that the said v butt principle assures that directors are capable of directing that a contract of employment be terminated or that a business contract not be performed, if it is in company’s best interest to instead pay the damages for failure to perform. here, v k rajah jc’s warning in vita health laboratories pte ltd and others v pang seng meng [2004] 4 slr(r) 162 at [17] against unduly putting directors at risk of legal liability for commercial decisions that they had made in the best interests of the company is apposite: … directors should not be coerced into exercising defensive commercial judgment, motivated largely by anxiety over legal accountability and consequences. bona fide entrepreneurs and honest commercial men should not fear that business failure entails legal liability. a company provides a vehicle for limited liability and facilitates the assumption and distribution of commercial risk. undue legal interference will dampen, if not stifle, the appetite for commercial risk and entrepreneurship.65 on the basis of the two reasons above, our view is that the most appropriate elucidation of the said v butt principle is that a director would ordinarily be immune from tortious liability for authorising or procuring his company’s breach of contract in his capacity as a director, unless his decision is made in breach of any of his personal legal duties to the company. in our judgment, the principle operates as a requirement of liability and not a defence; in other words, the onus is on the plaintiff to prove that the defendant-directors’ acts were in breach of their personal legal duties to the company. such breach may be a breach of a fiduciary duty to act in the best interests of the company, or it may be a breach of his contractual duty towards the company to act within the scope of his authority as granted by the company. we thus endorse, to a large extent, waller j’s interpretation of the principle in the leon (see [57] above) and the reasons proffered by associate professor lee in support of this approach in company and its directors as co-conspirators, which we quote (at [28]):[the said v butt] immunity will be lost if … [the director] commits a breach of a personal legal or contractual duty. such unlawful conduct may include, for instance, a breach of the director’s fiduciary duty to the company, as may occur where a director has acted to advance his own or another’s interests rather than the best interests of the company, or where his conduct is akin to fraud. by insisting on proof of some independently unlawful conduct on the part of the director, this approach precludes any attempt to affix personal liability on a director whose only wrong is having acted with malice or ill motive towards the claimant. …66 importantly, the applicability of the principle focuses on the director’s conduct and intention in relation to his duties towards his company, and not towards the third party. this was succinctly explained by kan ting chiu j in his decision in otech pakistan pvt ltd v clough engineering ltd and another [2005] sghc 98 (“otech”) at [25], where he interpreted the requirement of bona fide in the said v butt principle to mean that the defendant was acting in good faith in the discharge of his office, and not that he was acting in good faith in the action complained of; a director may believe that it is for the good of the company to breach a contract intentionally. we thus respectfully disagree with mr singh’s submission that an intention to injure the third party would suffice to take the director outside the said v butt principle, and andrew ang j’s observation in lim leong huat v chip hup hup kee construction pte ltd [2009] 2 slr(r) 318 (“lim leong huat (no 1)”) at [36] to similar effect. mr singh’s submission assumes that a director in deciding that the company should breach a contract with the intention to injure a third party cannot ipso facto be said to be acting bona fide in the best interests of the company.  this was precisely the argument which was correctly rejected by kan j in otech because the relevant focus of the bona fide inquiry is vis-à-vis the company and not the third party. it is thus insufficient that the director, through the company, directed a breach of contract that would have benefitted the director and the company to the detriment of third parties. if the director acted in the best interests of the company and not in breach of any of his other duties owed to the company, notwithstanding that he also possessed the intention to injure the third party or to induce a breach of contract as against the third party (as the case may be), he would still be entitled to the protection of the said v butt principle. 67 further, in our judgment, this formulation of the said v butt principle obviates the need for the presence of any other “additional factor” to determine a director’s liability, such as the requirement of a dominant purpose to injure the third party, as suggested by marshall ja in imperial oil (see [60] above). the superimposition of the “additional factor”, with respect, misses the focus of the said v butt principle, which is directed at a director’s actions in relation to the company as opposed to third parties, and also unnecessarily conflates the requirements for unlawful means conspiracy (where only an intention to injure is required) and lawful means conspiracy (where a predominant intention to injure is required). we note also that woo j in chong hon kuan had observed that even for lawful means conspiracy, “something more” beyond a predominant intention to injure would be required to take the director out of the protection of the said v butt principle (see [56] above). our view is that the requirement that the director’s conduct be a breach of his personal duties to the company would operate as a robust limiting principle. 68 we reach this conclusion for a number of reasons. first, the re-characterisation avoids the difficulties that have plagued the said v butt principle, such as what it means to act in good faith or whether a predominant intention to cause harm to the contracting party is sufficient to take the director out of the protection of the principle. it leaves the answer to the body of law that already regulates how a director should act in relation to his company, and ensures consistency in the law. thus, the question of whether a director who has acted with the predominant intention to cause economic harm to the other contracting party should be personally liable can be answered with reference to whether the director has acted in the best interests of the company. this approach also supports commercial certainty and efficacy in the performance of a director’s functions. a director should be free to make decisions regarding the company’s contracts as long as he does not breach his personal duties to the company, which he should be well aware of. 69 second, it is desirable that the answer to the question of whether a director is acting in a manner that ought to absolve him from personal liability is consistent with whether he has acted in breach of his duties to the company. the alignment of immunity from personal liability with a director’s personal duties to his company reinforces the view that where a director is acting within such confines, his acts ought properly to be regarded as those of the company’s and not himself. it would thus be unfair to hold him personally liable for such decisions. but where a director has stepped outside of his authority, or has otherwise breached his duties to the company in directing the company’s breach of contract, he ceases to act in the company’s best interests and steps outside as a third party capable of conspiring or otherwise dealing with the company. in so doing, his act becomes his own, as does any consequent tort. he is no longer entitled to protection on the basis that he has acted as the company, and should be treated as any other stranger who has procured a breach of contract by a company. this also addresses marshall ja’s objection in imperial oil that a director’s duties are owed to his company and he should not answer to third parties for his performance of such duties (see [60] above). the focus is not on the third party’s relationship with the director but the director’s relationship with the company: it is not that third parties have any influence or stake in a director’s performance of his duties to his company, but that only a director who properly acts in the capacity of the company should be absolved from personal liability for his role in the company’s breach of contract. the balance we have struck also makes sense because there is a compelling policy imperative in not having to place a director in a conflict between acting in the best interests of the company and having to face the prospect of any resultant liability to a third party. this balance also explains why it is inherent in the cause of action itself that the plaintiff must establish that the director was not acting in the best interests of the company and not that it is a defence for the director to mount.70 this approach also satisfactorily explains most of the cases that have come before our courts involving a director’s personal liability for his company’s breach of contract. in nagase, the director who fraudulently overcharged in breach of the company’s contract with the plaintiff was clearly in breach of his fiduciary duties owed to the company. in tembusu growth fund ltd v acatek, inc and others [2015] sghc 206 (which was reversed on appeal on a different point), vinodh coomaraswamy j held (at [119]) that a director was not entitled to immunity from personal liability because he had acted in his own interest instead of the company’s interest by paying his own salary in breach of a convertible loan agreement. conversely, in ng joo soon, although the directors might have been mistaken as to the company’s contractual obligations, they had not acted in breach of their personal legal duties to their company by terminating the plaintiff’s employment with the company.71 the decisions in lim leong huat (no 1) (which concerned adding the company’s director as a defendant to the action), and lim leong huat v chip hup hup kee construction pte ltd [2011] 1 slr 657 (“lim leong huat (no 2)”) (which concerned the substantive claim in conspiracy) warrant a closer look because they concern conspiracy by lawful means rather than by unlawful means. here, the court found that a director and his company who conspired to bring a substantial counterclaim based on lies and false evidence against the plaintiff were liable for conspiracy. quentin loh j did not expressly state whether he found for the plaintiff in unlawful or lawful means conspiracy, but given that he found that the director and his company had the predominant intention of injuring the plaintiff, which is only a requirement for lawful means conspiracy, and he did not find the express presence of any unlawful means (such as malicious prosecution or otherwise), it appears that the case was decided on the basis of lawful means conspiracy. our view is that the interpretation of the said v butt principle should apply equally to lawful means conspiracy, ie, the inquiry would be whether, in mounting a false claim by the company, the director acted in breach of his duties to the company. we note that in company and its directors as co-conspirators (at [28]), associate professor lee opined that if directors had to be in breach of some personal legal duty to be held personally liable for the consequences of the company’s breach of contract, then conceivably they could never be liable in lawful means conspiracy (because the director’s breach of duty would itself constitute the unlawful means). we express no concluded view on this and leave it for decision in a future case when this specific issue becomes germane.72 thus, our view is that unless the plaintiff can prove that the defendant-directors breached their personal legal duties to the company in directing or participating in the breach of contract, the defendant-directors would be entitled to immunity under the said v butt principle. for the avoidance of doubt, this approach does not contradict the position (established in cases such as nagase) that a company and its director, notwithstanding that the director is the moving spirit of the company, can in principle conspire to cause harm to third parties. what we are concerned with is demarcating the situations in which a company could be held to be conspiring with its director to breach the company’s contract. as correctly observed in company and its directors as co-conspirators (at [40]), although it is not disputed that a company could in theory conspire with its director, the analysis of a conspiracy between a company and its directors raises considerations that are different from that of an alleged conspiracy between natural persons. the critical dimension is the fair and principled allocation of responsibility between the corporate entity and the human agent. our view is simply that the proper allocation of such responsibility depends on whether a director has breached his personal duties to the company.73 before leaving this issue, we make two clarifications on the interaction between the said v butt principle and the elements of tortious liability. the first is that even if the said v butt principle does not apply to the director in question, the director may be personally liable for the tort of inducement of breach of contract or conspiracy only if all the requisite elements of the applicable tort are made out. the second is that even if the director is entitled to the protection of the said v butt principle, this applies only in relation to his tortious liability for procuring his company’s breach of contract or conspiring with the company to breach its contract. if a plaintiff can show that the director in question authorised or procured another tort by the company or employed unlawful means other than the breach of contract to cause loss to the plaintiff, the director may still be personally liable for his company’s tort. so, for example, in chew kong huat and others v ricwil (singapore) pte ltd [1999] 3 slr(r) 1167, the court of appeal held that a company (sintalow) and its director (chew) had conspired to cause loss to the plaintiff company (ricwil), the unlawful act being chew’s breach of his fiduciary duty to ricwil (chew was, at the material time, director of both sintalow and ricwil). the said v butt principle only applies to a director’s tortious liability for his company’s breach of contract, and not for other torts or unlawful means. this distinction between torts involving a breach of contract and other torts has given us some pause, and we briefly discuss whether it is justified in principle.a director’s liability for the company’s torts74 the said v butt principle, which protects a director from tortious liability in relation to his company’s breach of contract, appears at first glance to be at variance with a director’s personal liability for other torts committed by the company that are directed, authorised, or procured by the director. in virtually every other tort, such as trespass, intimidation, defamation, deceit, the director is liable for any tort that is personally directed, authorised, or procured by him, notwithstanding that he may have done so in the best interests of the company, and the company is itself liable for the consequences of the tort. mccardie j observed in said v butt (at 506) that he did not intend for the principle to be “inconsistent with the rule that a director or a servant who actually takes part in or actually authorises such torts as assault, trespass to property, nuisance, or the like may be liable in damages as a joint participant” for such wrongs. similarly, yong pung how cj in gabriel peter & partners (suing as a firm) v wee chong jin and others [1997] 3 slr(r) 649 (“gabriel peter”) affirmed that “it is an established principle that a director can, in certain circumstances, be liable for a tort committed by the company if he directed or procured the commission thereof” (at [35]). this has been justified on the basis that a person should be liable for the wrongs that he or she has committed, and is therefore not entitled to hide behind the company. a director has been held personally liable for passing a resolution that was allegedly defamatory of a law firm (as in gabriel peter) and also for authorising his company to import slimming tablets containing undeclared substances (tv media pte ltd v de cruz andrea heidi and another appeal [2004] 3 slr(r) 543).75 is there a legitimate justification to permit immunity for directors in relation to their company’s breach of contract, but not for other torts? this has frequently been acknowledged by courts and academics to be anomalous, and was the reason why dillon lj in the english court of appeal expressed “grave reservations” about the said v butt principle in welsh development agency v export finance co ltd [1992] bclc 148 at 173. we earlier expressed (at [63]–[64] above) that there were two reasons for the said v butt principle, one conceptual and the other based on policy. if a director acting in the exercise of his duties without breaching his personal legal duties to the company acts as the company and thus cannot be taken to have committed an independent act for which he is personally liable, it is uncertain why the same could not be said of directors who have, in the same capacity, authorised the company to commit a different tort. if the justification of said v butt is based on policy in terms of preventing over-deterrence, it is uncertain why a director may not also legitimately consider that it is in the best interests of the company to commit a tort (such as trespass or intellectual property infringement) in the best interests of the company and compensate the victim consequently.76 an answer may be to distinguish torts involving a breach of contract (namely the tort of procurement of breach of contract and conspiracy involving a breach of contract as the unlawful means) from other torts as a corollary of the contractual privity rule. having contracted with a specific party (in this case, the company), parties are taken to have accepted that remedies for any breach of contract would be restricted to the contracting parties and nothing more. put another way, the third party had the opportunity to seek further contractual guarantees from the directors themselves, and should accept the consequences if it had chosen not to do so. this “jurisprudential division” was suggested by carthy ja in adga systems (at [17]) and is well-explained by associate professor lee ([1] supra) at [37]:… where an attempt is made to attribute personal liability to a director for the breach of a company’s contractual undertaking, the case for a presumption against such liability is compelling because it is consistent with the ordinary incidence of the privity rule. since a contract is made between the company and a third party, the third party’s recourse in the event of breach is ordinarily limited to the company alone. but a person injured by a company’s tort is likely to be in a vastly different position. ... since the third party victim has not in any meaningful sense consented to deal with the company, he is a complete stranger and there is thus no obvious reason for confining responsibility to the company. on the contrary, the law’s usual response in such circumstance is to attribute responsibility to all actors who are personally implicated in the tort.77 however, this does not seem to address the concerns stated at [75] above regarding the justifications of the said v butt principle. the learned author also correctly points out that if there is a conceptual distinction between cases where the contracting party is taken to have accepted limits on its available legal recourse, and cases where a victim is harmed as a complete stranger to the tortfeasor, then the said v butt principle may also apply to instances of concurrent liability in tort and contract.78 the second possible response of the courts is to re-consider the position of a director’s liability for other torts and hold that a director is likewise protected from personal liability if he has acted properly in the discharge of his duty to the company. in tan cheng han, “tortious acts and directors” (2011) 23 saclj 816, the learned author suggests a two-stage test in determining a director’s liability for such torts. first, the director must have been involved in a material way in the company’s tortious act. second, the liability upon directors should only be imposed where the directors were not acting properly in the discharge of the duties to the company. he states (at [26]):… liability should not be imposed where directors have acted bona fide and in the best interests of the company, have exercised their powers for proper purposes, have not acted outside the scope of their authority, and have exercised reasonable care, skill and diligence. in their management of a company, directors are required to act honestly in what they believe is in the best interests of the company and they should be allowed to do so without any fear that if they inadvertently cause the company to commit a tortious act through the act of another, they will be personally liable for such act. [emphasis added]79 although the two-stage test is not dissimilar from our elucidation of the said v butt principle, it requires a closer assessment of the conceptual and policy considerations behind holding directors personally liable for other torts that have been directed, authorised and procured by directors. the basic tenet of tort law is that civil wrongs must be remedied, but the question is who should be liable for such remedies. when a director personally participates in the tort, such as personally trespassing on another’s property even though authorised by the company, there may well be a good reason to hold him personally liable as a tortfeasor. where the director authorises or directs the tort on behalf of the company, although his involvement may be materially different, it is understandable that the victim may view him as equally culpable. as this issue is not directly material to the present appeal, we do not express a concluded view but raise these observations for future consideration when this issue becomes central to the outcome. suffice it to say that there are compelling arguments in support of both views.application to the facts80 we come to the facts before us. oxel counterclaimed against sandipala and the tannoses for conspiring to cause loss to oxel through unlawful means, namely to extricate themselves from their contractual obligations under the supply contract without suffering the corresponding consequences (ie, damages). the judge found that such a conspiracy to extricate sandipala from its contractual obligations was made out. as mentioned earlier, the unlawful means relied on in the present case is clearly sandipala’s breach of contract. however with respect, we are unable to agree with the judge’s finding primarily because the acts he relied on as acts in furtherance of the conspiracy occurred post-breach. to the extent that the tannoses directed sandipala’s breach of contract, our view is that they are entitled to the protection of the said v butt principle.81 the judge did not provide an exact date of the breach, but our view is that the breach occurred at least from february 2012, when sandipala began rejecting the chips that oxel delivered to its warehouses, and perhaps even before that, when they failed to pay for the chips that they accepted in january 2012. the conspiracy inquiry must necessarily be examined with reference to sandipala’s breach of the supply contract. during the appeal hearing, mr singh argued that sandipala’s breach was continuing and thus the judge correctly relied on these acts as furtherance of the conspiracy to breach the supply contract. in our view, this is untenable. it would have been clear, from the tenor of the parties’ discussions and letters, and from sandipala’s rejection of the oxel chips from february 2012 that sandipala no longer had any intention of fulfilling its obligations under the supply contract.82 even though the supply contract had already been breached by february 2012, the judge relied on acts occurring after the breach as acts in purported furtherance of the conspiracy. these acts included the creation of a false paper trail that appeared to be generated so as to found a claim against oxel; a false, trumped up claim brought against oxel to apply pressure on oxel; and there was some indication that mr tannos was responsible for causing to be published articles that contained allegations against oxel that mr tannos knew not to be true. sandipala only brought a claim against the tannoses in june 2012, four months after the supply contract had been breached. the article relied on by the judge as containing false allegations was published more than a year later, in april 2013. many of the letters relied on by the judge as creating a “paper trail” also post-dated the breach, and in any event we find it difficult to accept that those letters were intended to “create a paper trail” to found a claim against oxel. they appear to be flawed attempts to re-negotiate or re-characterise sandipala’s obligations under the supply contract. we also note that there is nothing independently unlawful about such acts; the law does not penalise those who make false statements if no one is deceived, and clearly neither oxel nor anyone else believed or relied on these statements.83 thus, the acts that furthered the alleged conspiracy would only have been acts constituting the breach, namely sandipala’s wrongful rejection of the chips and failure to pay the down payments or for the accepted chips. we find that there is no question that the tannoses authorised and directed sandipala’s breaches of the supply contract. however, the tannoses are entitled to the protection of the said v butt principle as there is no evidence that they had acted in breach of their personal legal duties to the company. even if mr tannos, on behalf of sandipala, had entered into the supply contract knowing that the oxel chips would be incompatible with the existing e-ktp system, the judge found that he did so in the belief that he could convince the indonesian government to make the necessary modifications to the e-ktp system. implicit in this finding is that sandipala through mr tannos entered into the supply contract expecting it to be performed, albeit on a flawed basis. having failed to do so, fulfilment of its obligations under the supply contract would have meant that sandipala would end up with 100m of the oxel chips that were seemingly useless for its purposes. given this, it was indeed in the best interests of the company to breach the contract with oxel and attempt to re-negotiate its terms, which the tannoses did as a matter of fact. although the tannoses unsuccessfully attempted to misrepresent the terms of the supply contract, which stated that the order for 100m of the oxel chips was a confirmed quantity, and this was done in bad faith towards oxel, we do not consider that the tannoses breached their personal legal duties towards the company in so doing, and it is the latter, not the former, that determines their entitlement to the protection of the said v butt principle. finally, in the words of starke j in o’brien v dawson (at 32), it is neither “law nor sense” to claim that the tannoses in deciding that sandipala should reject the oxel chips in breach of the supply contract did not act as directors in the best interests of sandipala given the circumstances.84 for the reasons above, we allow sandipala and the tannoses’ appeal against oxel’s claim in unlawful means conspiracy. what this means is that although sandipala is still liable for the consequences arising from the breach of the supply contract, the tannoses are not personally liable for the same.oxel’s duty to mitigate85 sandipala’s second argument on appeal in relation to oxel’s counterclaims is that the judge erred in finding that oxel did attempt to mitigate its losses arising from the breach of the supply contract.
+
+                   45
+
+
+
+
+foot note 45
+
+×
+
+
+
+ appellants’ case at paras 122–135.
+
+
+
+ in particular, they argue that:(a) the judge’s finding that it was difficult for oxel to find a market for its rejected chips was wrong. the oxel chips were not specifically made for the tender; its encoded software, ie, the pac operating system, was a generic operating system with several applications. oxel could have used its chips for other projects, such as a driving license project.(b) the judge’s finding that oxel could not sell the chips after it lodged a criminal report in indonesia against the appellants was wrong. this was a bare allegation by oxel’s mr winata. there was no record of any police requirement for the oxel chips to be retained for evidence.(c) the judge’s finding that oxel could not sell the chips because the property in the chips that sandipala had rejected had already passed to sandipala was wrong. despite the supply contract being on ex-works terms, sandipala’s refusal to accept delivery of the chips showed that it did not intend to accept any property rights in the chips. 86 in response, oxel argues that:
+
+                   46
+
+
+
+
+foot note 46
+
+×
+
+
+
+ oxel’s respondent’s case at paras 83–89.
+
+
+
+(a) the appellants did not challenge the evidence that the large number of chips made it difficult to find a market for them. the tender was the largest of its kind in the world with an order of 100m chips. the evidence also showed that the driving license project (at least in 2011/2012) required chips encoded with the “pad” or “pab” operating system, as opposed to the pac operating system (which was encoded in the oxel chips for the purposes of the supply contract).(b) the judge was entitled to assess mr winata’s testimony as to the police investigation and accept the truth of his statement. further, the appellants did not even challenge mr winata’s evidence on this point during cross-examination. (c) the judge’s finding that the contract was on an ex-works basis, meaning that title in the goods passed as soon as they left the factory gate, was supported by the english court of appeal case of sabaf spa v mfi furniture centres ltd [2002] ewca civ 976 (“sabaf”),
+
+                   47
+
+
+
+
+foot note 47
+
+×
+
+
+
+ r2sboa tab 2.
+
+
+
+ which the appellants did not challenge in the court below.87 we agree with the respondents that the judge did not err in finding that oxel did not fail to mitigate its losses, primarily because there was no available market for the chips. in determining the alternative uses for the oxel chips, the oxel chips had to be understood as a particular model of an st chip with a lower memory (12kb as opposed to the more common 18kb), encoded with the pac software and in a large quantity. the judge was entitled to accept that this made it difficult for oxel to offload the oxel chips even though the pac operating system had generic application. although sandipala claimed that oxel could have used the chips for an ongoing driving license project, and it appears that in 2012, the pac operating system was being used, mr cousin confirmed that the st chip used for the driving license project in 2012 had a greater memory capacity (18kb) than the oxel chips (12kb).
+
+                   48
+
+
+
+
+foot note 48
+
+×
+
+
+
+ ra vol iii, part 25, pp 249–250.
+
+
+
+. the appellants’ expert, mr michael choong, also stated that “you can use an application written for the 12kb chip on the mask developed for an 18kb chip but not the other way round due to insufficient memory”.
+
+                   49
+
+
+
+
+foot note 49
+
+×
+
+
+
+ ra vol iii, part 7, p 223, para 2.
+
+
+
+ this confirms that it would have been difficult to use the oxel chips for the driving license project. the appellants did not propose any other alternative market for the oxel chips, and accordingly there is no basis to suggest that the judge’s finding was against the weight of the evidence.88 the two other points raised by the judge are immaterial to the outcome of the appeal given our acceptance of the judge’s findings regarding the lack of an alternative market for the oxel chips. as there was no readily available market for the chips, oxel could not have reasonably resold the chips even if property in the chips had not passed to sandipala or the indonesian police had not retained the chips for investigation. nonetheless, for completeness, we shall deal with these two points briefly. 89 first, in relation to mr winata’s testimony as regards the inability to resell the chips owing to the police investigation, we accept that there appears to be no corroborating evidence. however, given that there is no evidence suggesting otherwise and more importantly that mr winata’s evidence was not challenged in cross-examination, we do not see any basis to disturb the judge’s acceptance of mr winata’s testimony.90 second, in relation to the 6,457,414 chips which sandipala refused to accept delivery of, sandipala argues that property in the chips had not passed to sandipala and hence oxel had the power to sell them. section 17 of the sale of goods act (cap 393, 1999 rev ed) states that property passes at such time as the parties to the contract intend it, and this is to be determined by the terms of the contract, the conduct of the parties and the circumstances of the case. sandipala relies on this to argue that since it rejected the chips when it was delivered to it, it clearly did not intend for property to pass to it. however, the intention of the parties has to be determined at the time when the contract of sale was made, and not by their subsequent conduct (although it may shed light on their prior intention). if this were not the case, all buyers would be able to reject the goods at any time and then claim that property had not passed.91 the judge found that the parties’ intention was reflected in entering into the supply contract on ex works terms. the supply contract being ex works (ie, out of works) singapore meant that title in the goods passed to the buyer (sandipala) as soon as they left the seller (oxel)’s premises, even if oxel had undertaken to arrange for a contract of carriage to deliver it to sandipala. ex works is an internationally recognised commercial term which connotes that the seller’s responsibility is to make the goods available at its premises. the judge relied on the case of sabaf, where the seller sold infringing goods made in italy on ex-works terms to an english buyer. the english court of appeal held that title and risk in the goods passed to the buyer as soon as the goods left the factory gate, even if the seller had helped to arrange a contract of carriage, and hence the seller could not have been said to have imported the infringing goods into england. hence, once oxel had passed the chips to a carrier, to be delivered to sandipala, the property in the oxel chips would have passed to sandipala.92 in our view, the judge did not err in finding that parties intended that property would pass once the oxel chips were out for delivery. although we are not saying that parties should be taken to intend, simply by concluding a contract on ex-works terms, that property will invariably pass once the goods leave the seller’s factory gates, in the present case, there is no evidence contradicting the intention for the passing of title (and hence risk) that ensues from a contract on ex-works terms. further, given that sandipala relied on oxel to arrange transport of the goods to jakarta without any prior approval or involvement required by sandipala, sandipala should be taken to have implicitly assented to any appropriation of the oxel chips to the supply contract. the quantity of chips delivered in the 5th to 9th shipments were also largely within the order of 10m chips that sandipala subsequently claimed that they had confirmed (taking the first four shipments into account). finally, the  supply contract also states that “[oxel] retain[s] security interest in the [chips] until invoice is paid in full”, which supports the conclusion that oxel did not intend for the title in the chips to pass only at payment. sandipala’s point is thus without merit.conclusion93 in conclusion, we allow sandipala and the tannoses’ appeal only in relation to the claim in unlawful means conspiracy. we thus dismiss the entirety of sandipala’s appeal against the first and third respondents (st-ap and mr cousin) and the remainder of the appellants’ appeal against the second respondent (oxel). the result is that sandipala is still liable for oxel’s losses from sandipala’s breach of the supply contract, but the tannoses are not personally liable in conspiracy. for the avoidance of doubt, the quantum of damages for sandipala’s breach of contract, as assessed by the judge, remains undisturbed.94 although sandipala and the tannoses have succeeded in their appeal against the conspiracy finding, the main appeal by sandipala in respect of its claim against oxel for breach of the supply contract and fraudulent misrepresentation are both dismissed. in addition, sandipala also fails in its appeal in relation to oxel’s alleged failure to mitigate its damages. in the circumstances, we award oxel net costs fixed at $35,000 inclusive of disbursements against sandipala. no separate order as to costs is made as regards the tannoses given that they and sandipala were represented by the same set of solicitors. as for costs of the first and third respondents, since the appeal is dismissed in their entirety, sandipala is ordered to pay costs fixed at $40,000 inclusive of disbursements.sundaresh menon              judith prakash              steven chongchief justice                          judge of appeal              judge of appealprem gurbani, govintharasah s/o ramanathan and shafkat fahmid sifat (gurbani & co llc) for the appellants;                              ong tun wei danny, yam wern jhien, danitza hon cai xia, gan eng tong and teo li ping, annabelle (rajah & tann singapore llp) for the first and third respondents;davinder singh sc, jaikanth shankar, timothy lin, jaspreet singh, tan ruo yu and low wu yang (drew and napier llc) for the second respondent.

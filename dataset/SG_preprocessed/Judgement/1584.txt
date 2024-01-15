@@ -1,0 +1,1004 @@
+in the court of appeal of the republic of singapore[2021] sgca 4civil appeal no 30 of 2020betweencbs… appellantandcbp… respondentbetweencbp… plaintiffandcbs… defendantjudgment[arbitration] — [award] — [recourse against award] — [setting aside] — [breach of natural justice] — [witness gating][arbitration] — [award] — [recourse against award] — [remission]this judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.cbs vcbp[2021] sgca 4court of appeal — civil appeal no 30 of 2020sundaresh menon cj, judith prakash jca and quentin loh jad 5 august 2020; 26 august 2020  20 january 2021 judgment reserved.quentin loh jad (delivering the judgment of the court):introduction1 this is an appeal by an award creditor, against the decision of the high court judge (“the judge”) in cbp v cbs [2020] sghc 23 (“the judgment”) to set aside the arbitral award (“the final award”), chiefly on the ground of a breach of natural justice.factsbackground to the dispute2 the appellant, cbs, is a bank incorporated in singapore (“the bank”). the respondent, cbp, is a company incorporated in india, which is engaged in the business of steel manufacturing and power generation (“the buyer”). 3 by an email dated 19 november 2014, the buyer entered into an agreement with a third party, (“the seller”), to purchase 50,000 metric tonnes (“mt”) of coal from the seller at a price of us$74 per mt. the coal from australia was to be delivered in two tranches: the first 30,000 mt to be delivered in december 2014 and the second 20,000 mt to be delivered in january 2015. this came to be recorded in two separate sale and purchase agreements for the respective tranches. we refer to these as “the first agreement” and “the second agreement”. both agreements were executed on 7 january 2015 but backdated to 24 november 2014 and 20 december 2014 respectively.  4 both agreements contained an arbitration clause which stipulated arbitration under the rules of the singapore chamber of maritime arbitration (3rd edition, 2015) (“scma rules”) in the event of a dispute: any dispute arising out of or in connection with this contract including any question regarding the existence, interpretation, validity, frustration, novation, scope of the contract:, performance of the contract, breach of contract, termination and consequences of termination of this contract shall be referred to and finally resolved by arbitration under the rules of singapore chamber of maritime arbitration (‘scma rules’) as amended and in force, from time to time.5 as is not unusual in these cases, sometime earlier, on or around 8 october 2014, the seller had entered into an accounts receivable purchase facility with the bank. the facility agreement provided for the assignment of the seller’s trade debts to the bank. pursuant to this facility agreement, the seller wrote to the buyer on 19 january 2015 that it had assigned all of its trade debts so that “all amounts due both now and in the future, in respect of invoices, must be paid only to [the bank]”. the second agreement contains an assignment clause, cl 22, which provides as follows:… the seller is permitted to assign any receivables due under the agreement to any bank or other institution as part of its financing agreement. the buyer hereby agrees to execute any deeds, documents or letters or do such other things as may be reasonable [sic] be required by the seller to give effect to or recognise any such assignment.…6 the first tranche of 30,000 mt of coal was duly delivered by the seller to the buyer in india and there are no disputes over this shipment. the dispute arises over the delivery of the second shipment of coal. this 20,000 mt of coal was shipped by the seller to the buyer on 21 december 2014. 7 on 22 january 2015, the bank sent a bill of exchange drawn by the seller to the buyer for the payment of us$1,480,400 by 22 june 2015 (“the bill of exchange”).
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  core bundle (“cb”), vol ii, pp 61 to 62.
+
+
+
+ on 12 february 2015, the buyer’s bank sent a “swift” message to the bank stating unequivocally that the buyer “has accepted the [bill of exchange] and will make payment on due date” (“the swift message”).
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  cb, vol ii, p 62.
+
+
+
+ the swift message also made clear that the “amt accepted” was us$1,480,400. it appears this bill of exchange was never given to the bank as it did not feature in its claim against the buyer.8 the buyer contends that upon arrival of the coal on 14 january 2015 at gangavaram, india, it was unable to lift 5,000 mt of coal from the port because the seller had only procured the issuance of delivery orders for 15,000 mt of coal.
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  cb, vol iii, p 110, para 28.
+
+
+
+ the buyer failed to make any payment on the bill of exchange by 22 june 2015. between 6 july 2015 and 20 october 2015, the bank sent a number of emails to the buyer seeking payment. the buyer responded twice via email explaining that it was “trying [its] level best to arrange maximum funds so that [the] liabilities can be paid at the earliest” and that the delay was the result of temporary cash flow issues. in the correspondence, the buyer also alluded to the unfavourable market conditions which had apparently softened demand for the buyer’s finished goods and depressed its prices.
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  record of appeal (“roa”), vol iii(c), p 153 and 155. 
+
+
+
+9 however, sometime in october 2015, in a notable volte-face from its foregoing admissions of debt, the buyer raised two issues in an email to the bank. first, as mentioned earlier, the buyer averred that only 15,000 mt of the 20,000 mt of coal had been supplied to it and that it had to procure the remainder from elsewhere. secondly, the buyer stated that there had been a “steep decline in the prices of coal” and that it was “not inclined” to pay the us$74 per mt under the second agreement.
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  roa, vol iii(a), pp 121 to 123.
+
+
+
+ instead, it offered to bear some of the price fluctuation and pay us$61 per mt.10 it is not disputed that on 2 december 2015 the seller met with the buyer’s representatives to discuss the outstanding payment and the alleged shortfall in delivery (“the december 2015 meeting”). the buyer alleges it had four representatives and the seller had two representatives who were accompanied by a third person from a trade credit entity. however, what transpired at that meeting is disputed. 11 according to the buyer, the parties reached an oral agreement for the global settlement of their disputes during the december 2015 meeting. specifically, both parties agreed that the price of the coal would be revised to us$61 per mt for all 50,000 mt of coal contracted under the two sale and purchase agreements; however, the seller refused to honour this agreement. whilst the seller does not dispute that the december 2015 meeting took place, it contends that they did not agree to any new price at the meeting.
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  cb, vol iii, p 60, para 14.
+
+
+
+the arbitration12 on 21 october 2016, not having received any payment, the bank commenced arbitration against the buyer claiming the outstanding sum of us$1,480,400 and interest. a sole arbitrator was appointed on 25 april 2017 under the scma rules. 13 the buyer raised a jurisdictional objection to the arbitration on the basis that there was no arbitration agreement between it and the bank because the seller’s assignment was only for its receivables. this was heard by the arbitrator as a preliminary issue and on 6 december 2017 the arbitrator issued a partial award concluding that the assignment of receivables by the seller included the assignment of the entire second agreement including the arbitration clause (“the partial award”). the arbitrator therefore found that he had jurisdiction over the dispute.  late filing of defence and counterclaim14 after the issuance of the partial award, the buyer was directed to file its defence to the bank’s statement of case by 8 january 2018. it failed to do so. on 9 january 2018, the arbitrator stated that unless he was otherwise advised, he would “conclude that [the buyer] has elected not to file a defence and/or counterclaim and the arbitration will proceed accordingly”. the buyer replied stating that it was challenging the partial award in the indian courts and requested that the arbitrator await the outcome of that challenge before proceeding.
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  roa, vol iii(a), p 249. 
+
+
+
+15 on 16 march 2018, shortly before the scheduled final oral hearing, the buyer suddenly informed the arbitrator that it intended to contest the claim on its merits, albeit under protest as to his jurisdiction, and asked for eight weeks to file its statement of defence.
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  cb, vol iii, p 14.
+
+
+
+ on 20 march 2018, the arbitrator granted the buyer 14 calendar days to file its defence and counterclaim together with a list of witnesses, if any. notably, the arbitrator directed in his email that:
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  cb, vol iii, p 6.
+
+
+
+once all submission [sic] have been completed i would ask the parties to review and agree on the necessity of an oral hearing. should the parties not be able to agree that the decision should be based on documents only then pursuant to scma rule 28 we will schedule a hearing. [emphasis added]16 on 8 april 2018, one day before the buyer’s pleadings were due, it sought a further extension. the arbitrator denied the buyer’s request but allowed an extension for the submission of the buyer’s list of witnesses. on 10 april 2018, the buyer submitted its defence and counterclaim, which was entitled “reply on merits”, along with a list of seven named witnesses. six of the witnesses were persons which the buyer claimed were present at the december 2015 meeting where, according to the buyer, the parties had agreed to a reduction of the coal price for the entire 50,000 mt of coal from us$74 per mt to us$61 per mt. furthermore, the buyer claimed in its pleadings that the seller had failed to deliver 5,000 mt of coal and thus, the buyer counterclaimed for the cost of procuring that balance from the open market.need for witness testimony17 once the buyer’s “reply on merits” was submitted, the parties were, as directed, to consider whether an oral hearing was necessary.  as shall be seen, the particular question of whether the buyer’s witnesses should be permitted to give oral testimony at a hearing formed the crux of the setting aside application below and the appeal before us.  18 the bank filed its reply and defence to the buyer’s “reply on merits” on 24 april 2018. in its cover email, the bank informed the arbitrator that it did not intend to call any witnesses or submit any witness statements. the bank provided a list of reasons for this, which included its view that the dispute turned “primarily on the contractual interpretation” of the second agreement and that the buyer had not explained its reasons for calling the seven witnesses in its list. therefore, the bank submitted that the arbitration should proceed on a documents-only basis. alternatively, if an oral hearing was necessary, a hearing could be held for oral submissions only – as opposed to the taking of oral evidence from witnesses. this, according to the bank, was in accordance with r 28.1 of the scma rules, which is the key provision in dispute in the present appeal. 19 following the bank’s indications, the arbitrator requested that the buyer provide “its position/reasons for calling the 7 witnesses and/or the need for their oral testimony”. on 7 may 2018, the buyer replied stating simply that an oral hearing was “required and necessary” as it had submitted in the scma questionnaire attached to the same email. however, the questionnaire was found by the arbitrator to be lacking in detail (see also below at [72]).20 dissatisfied with the buyer’s answers, the arbitrator again sought, on 8 may 2018, a “descriptive basis of what [the buyer] expects to develop with the introduction of the proposed witnesses”.
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  roa, vol iii(d), p 152. 
+
+
+
+ in its response on 11 may 2018, the buyer re-asserted the “necessity of examining the witnesses” because “the case does not solely turn on the documents [sic] interpretation” as had been submitted by the bank.
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  roa, vol iii(b), pp 106 to 107.
+
+
+
+ 21 on 1 june 2018, the arbitrator wrote to parties directing as follows:before i rule on whether the arbitration will be on documents only or an oral hearing is necessary i require the following:a. detailed written statements from each of the witnesses [the buyer] plans to call…b. a brief submitted separately by [the bank] and [the buyer] regarding what constitutes ‘breach of natural justice’ under the laws of singapore. [emphasis added]this direction set off a chain of correspondence concerning the modalities of the hearing.22 the buyer replied on the same day, stating that it was a breach of the rules of natural justice for the arbitrator to require it to submit witness statements before he decided whether to hold an oral hearing. it also highlighted that some of the witnesses on its list were representatives of the seller and reiterated the necessity for it to cross-examine the witnesses.23 on 4 june 2018, the arbitrator replied to the buyer’s email assuring parties that he had not made any decisions on whether a hearing ought to be held and if so, what form it should take on. the arbitrator also highlighted that pursuant to r 33.1(c) of the scma rules, he had the authority to “conduct such enquiries as may appear to the tribunal to be necessary or expedient”.24 in its response, the buyer replied on 6 june 2018 stating that the calling of witnesses was within its entitlement under r 28.1 of the scma rules, which provides that an arbitrator “shall hold a hearing for the presentation of evidence by witnesses, including expert witnesses, or for oral submissions” [emphasis added] unless parties have agreed to a documents-only arbitration. the buyer also stated that r 33.1(c) did not allow the arbitrator to negate its right to call witnesses at a hearing. 25 on 7 june 2018, the arbitrator replied denying the buyer’s request to dispense with the detailed witness statements, stating that his instructions of 1 june 2018 remained. nearly a month later, on 4 july 2018, the arbitrator wrote to both counsel, repeating his request for the witness statements from the buyer and a brief of what constitutes breach of natural justice under singapore law. importantly, he stated that if the buyer still did not submit its witness statements, it would be taken as having waived “any right to submit witnesses in the event of an oral hearing”.
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  roa, vol iii(b), p 130.
+
+
+
+26 on 16 july 2018, the buyer reiterated its earlier position that it was entitled to call its witnesses to give oral evidence notwithstanding the lack of written statements for each witness. 27 finally, on 20 july 2018, the arbitrator directed that since parties have not agreed to a documents-only arbitration, pursuant to r 28.1 of the scma rules, a hearing would be held on 21 august 2018 for oral submissions only.
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  cb vol (iii), p 101.
+
+
+
+ the arbitrator stated that there would be no witnesses presented at the hearing because the buyer had “failed to provide witness statements or any evidence of the substantive value of presenting witnesses”. it is this specific direction barring all of the buyer’s witness testimony that forms the foundation of the buyer’s setting aside application on the ground of breach of natural justice. in addition, the arbitrator stated that the buyer’s counterclaim on the 5,000 mt of purportedly undelivered coal would not be heard since it had failed to deposit the necessary funds with the scma. 28 a day before the scheduled hearing for oral submissions, the buyer wrote to the arbitrator to reiterate that the denial of witness examination was “a violation of [the] principles of natural justice and also against the principles of [a] full and fair hearing.”
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  cb vol (iii), p 102.
+
+
+
+ it asserted that the hearing would be a “mere formality” and alleged that the arbitrator had pre-judged the matter. thus, the buyer considered that “no fruitful purpose [was] served” by its participation in the scheduled hearing.
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  cb vol (iii), p 105.
+
+
+
+ in response, the arbitrator stated that he had not made up his mind on the matter.the hearing and the final award29 on 21 august 2018, the arbitrator conducted the hearing via telephone.  the buyer did not join the call and no witness testimony was given. the arbitrator allowed the bank to make its oral submissions. as noted by the arbitrator in his final award, no new or additional documents, evidence or submissions were presented by the bank.30 the final award was issued on 16 november 2018. the arbitrator allowed the bank’s claim for the us$1,480,400 under the second agreement as well as interest. the buyer’s counterclaim for 5,000 mt of alleged undelivered coal was dismissed. the arbitrator addressed, inter alia, two main issues: (a) whether the contracted quantity and quality of coal had been delivered pursuant to the second agreement; and (b) whether there was a subsequent agreement for a price adjustment as alleged by the buyer. 31 the arbitrator found that 20,000 mt of coal had been delivered by the seller and this was supported by the documentary evidence. in contrast, there was no documentation presented by the buyer evidencing the alleged shortfall of 5,000 mt of coal. further, the arbitrator dismissed the suggestion that there had been a subsequent agreement to lower the price of the coal. the arbitrator noted that the first tranche of 30,000 mt of coal had been duly delivered and paid for, and there was no written evidence that the buyer or the seller intended to change this price during the december 2015 meeting. this was bolstered by the clear admissions by the buyer and its bank that they would satisfy the debt claims (see [7]–[8] above). cll 19 (which required all amendments to be in writing and signed by the representatives of the buyer and the seller) and 20 (an entire agreement clause which similarly required variations to be written and signed by authorised agents of both parties) of the second agreement also militated against the formation of a subsequent oral agreement. there was no evidence that these formalities had been complied with.decision below32 before the judge, the buyer sought to set aside the entirety of the final award. importantly, we note, no application was made to remit the final award back to the arbitrator. three main issues arose in the application (judgment at [52]):(a) first, whether there was a breach of natural justice in connection with the making of the award, and whether the rights of the buyer were prejudiced as a result.(b) secondly, if the award is not set aside under issue (a), whether the buyer is precluded from raising jurisdictional objections at this point.(c) thirdly, if the buyer is not precluded from raising jurisdictional objections, whether the arbitrator was properly seised of jurisdiction.33  to be clear, the buyer only contested the failure of the arbitrator to allow the hearing of its witnesses in relation to the oral agreement reached at the december 2015 meeting. it did not contest the arbitrator’s decision on its counterclaim since it concedes that it did not pay the requisite fees to the scma.
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  roa, vol iii(d), p 237, lines 7 to 9.
+
+
+
+34 the judge found that there was a breach of the rule of natural justice that parties must have the opportunity to be heard by the arbitral tribunal. as noted above at [18], the bone of contention was the interpretation of r 28.1 of the scma rules, which reads:unless the parties have agreed on a documents-only arbitration or that no hearing should be held, the tribunal shall hold a hearing for the presentation of evidence by witnesses, including expert witnesses, or for oral submissions.[emphasis added]the dispute was whether the word “or” in the last part of r 28.1 should be read disjunctively such that the arbitrator could decide whether to hold a hearing for the presentation of evidence or only for oral submissions, which was what the arbitrator had effectively done. 35 the judge found that r 28.1 did not allow the arbitrator to decide on its own accord to hold a documents-only arbitration where parties did not agree to do so (judgment at [63]). the judge also held that the rule does not support the bank’s assertion that the arbitrator had wide-ranging witness-gating powers such that he could reject all of the buyer’s witnesses by deciding to only allow a hearing for oral submissions. when read holistically, r 28.1 did not mean that oral submissions were an alternative to the presentation of witness evidence. rather, where parties have not agreed to a documents-only arbitration, they must be allowed to call witnesses to give evidence, if they wish to do so. further, the judge acknowledged that under r 25.1 of the scma rules, the arbitrator has general and broadly worded case management powers. however, this did not allow the arbitrator to gate all of the buyer’s witnesses, as the buyer had argued. in the judge’s view, those procedural powers are not unfettered and must be balanced against the rules of natural justice (judgment at [76]). 36 given the centrality of the purported oral settlement agreement to the buyer’s defence to the bank’s claim, the judge was satisfied that there was a sufficiently serious breach of the fair hearing rule (judgment at [81]). neither r 28.1 nor the general case management powers under r 25 allowed the arbitrator to deny the buyer its right to call its witnesses. the arbitrator had misapprehended the scma rules in this regard (judgment at [88]–[91]). in absence of the witness testimony, the arbitrator had rejected the buyer’s claims of a subsequent oral agreement in its entirety. therefore, the breach of the fair hearing rule was directly connected to the making of the final award (judgment at [93]).37 finally, the judge found that there was some actual or real prejudice caused to the buyer as a result of the arbitrator’s decision to shut out all of its witness evidence. whilst the judge noted that the documentary evidence prima facie supports the bank’s claim, he highlighted that the buyer’s defence based on a subsequent oral agreement could supersede the documentary evidence (judgment at [98]–[99]). he also noted that cll 19 and 20 in the second agreement did not foreclose the buyer’s defence since it is possible for parties to have agreed to dispense with those formalities (judgment at [101]). for the above reasons, the judge set aside the final award in its entirety for breach of natural justice. 38 in the circumstances, the judge did not consider it necessary to address the alternative jurisdictional ground for setting aside or whether the buyer might be precluded from raising it in the first place at this stage (at [104]). the parties’ cases on appeal39 the key issue on appeal centred on whether the grounds for setting aside the final award for breach of natural justice were made out. the appellant 40 the bank’s main argument is that, even taking the buyer’s case at its highest, the alleged breach of natural justice did not or could not prejudice the buyer.
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  appellant’s case (“ac”), para 22.
+
+
+
+ this is because the buyer’s defence based on the purported oral agreement was unlikely to succeed and could not have made a difference to the arbitrator’s deliberations.
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+  ac, para 32.
+
+
+
+ the bank argues that it is unclear whether the buyer’s defence is that at the december 2015 meeting, there was a mere agreement to review the price of the coal or that parties actually agreed on a lower price of us$61 per mt. in any event, the arbitrator had considered the buyer’s defence in the final award and had properly rejected it. 41 the bank submits that the judge erred in concluding that there had been a breach of natural justice in the first place. this is because it cannot be said that the arbitrator had acted “irrationally or capriciously” or that his direction falls outside the “range or what a reasonable and fair-minded tribunal in those circumstances might have done”, citing soh beng tee & co pte ltd v fairmount development pte ltd [2007] 3 slr(r) 86 (“soh beng tee”) and china machine new energy corp v jaguar energy guatemala llc and another [2020] 1 slr 695 (“china machine”). the bank highlights that the arbitrator’s direction came about only as a last resort because of the buyer’s persistent non-compliance and disregard for the arbitral process.
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+  ac, para 76.
+
+
+
+ in such a case, a margin of deference ought to be afforded to the arbitrator if there were doubts as to his exercise of broad case management powers.
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+  ac, paras 78 to 79.
+
+
+
+ moreover, the judge had misinterpreted rr 28.1 and 25 of the scma rules as to whether the arbitrator had procedural powers to “gate” witnesses.
+
+                   21
+
+
+
+
+foot note 21
+
+×
+
+
+
+  ac, para 80.
+
+
+
+ 42 the bank also argues that there is no causal connection between the alleged breach and the making of the final award since such breach, if any, was the result of the buyer’s dilatory tactics at the arbitration.
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+  ac, para 92.
+
+
+
+43 finally, even if the entirety of the buyer’s defence was accepted, it was only a partial defence as it would only have reduced the overall contract price payable given that the dispute between the parties related only to price and not liability.
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+  ac, para 53.
+
+
+
+ thus, the final award should have been set aside partially or remitted  back to the arbitrator pursuant to art 34(4) of the uncitral model law on international commercial arbitration (“model law”), notwithstanding that neither application was made before the judge. the respondent44 the buyer affirms the judgment below that there was a breach of natural justice. it highlights that the arbitrator knew of the significance and correct interpretation of r 28.1 of the scma rules but yet chose to ignore it.
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+  respondent’s case (“rc”), para 30.
+
+
+
+ on the judge’s holistic interpretation of the rule, unless parties agree otherwise, an oral hearing for the presentation of witnesses is mandatory.
+
+                   25
+
+
+
+
+foot note 25
+
+×
+
+
+
+  rc, para 36.
+
+
+
+ thus, the arbitrator’s request for the witness statements before determining whether the proceeding should be documents-only or an oral hearing was ultra vires.
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+  rc, para 40.
+
+
+
+ as to the arbitral power of witness-gating, the scma rules has no express provisions as such, and in any case, those powers, if they are to be implied, must be balanced against considerations of natural justice.
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+  rc, para 46.
+
+
+
+ the decision to deny all of the buyer’s witnesses the opportunity to give evidence resulted in prejudice to it since the buyer was deprived the opportunity to adduce evidence and make arguments on the december 2015 meeting. this could have made a difference to the final award.
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+  rc, para 61.
+
+
+
+45 the buyer argues that the final award cannot be partially set aside as suggested by the bank since the breach of natural justice was egregious.
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+  rc, para 76.
+
+
+
+ there is also no legal or factual basis for remission back to the arbitrator at this stage.issues 46 the primary issue before us is whether there has been a breach of natural justice in the making of the final award. an applicant who wishes to set aside an arbitral award on this basis must establish: (a) which rule of natural justice was breached; (b) how it was breached; (c) in what way the breach was connected with the making of the award; and (d) how the breach prejudiced its rights: soh beng tee at [29]. the relevant rule of natural justice here is the right of a party to be given a full opportunity of presenting its case, and, in particular, the opportunity of responding to the case against it: soh beng tee at [42].47 the sub-issues that fall for determination are therefore:(a) whether, in breach of the rules of natural justice, the buyer was not afforded a full opportunity of responding to the bank’s claim.(b) if so, whether that breach affected the final award.(c) if so, whether that breach prejudiced the buyer’s rights, in that the material which it did not get to present could reasonably have made a difference to the arbitrator (l w infrastructure pte ltd v lim chin san contractors pte ltd and another appeal [2013] 1 slr 125 (“l w infrastructure”) at [54]).48 as mentioned, the buyer also raised an alternative ground in its setting aside application – whether the arbitrator had jurisdiction to hear the dispute, which in turns rests on whether there was a valid assignment of the arbitration clause in the second agreement to the bank. in the light of our findings on the ground of breach of natural justice explained below, it is not necessary for us to address this alternative ground, which in any case was not seriously pursued. breach of natural justice49 the key principles for setting aside an arbitral award on the ground of breach of natural justice were reiterated in our recent decision in china machine at [87]–[104].50 it is uncontroversial that the parties’ right to be heard in legal proceedings is a fundamental rule of natural justice. in the arbitral context, the rule finds expression in art 18 of the model law, which provides that each party shall have a “full opportunity” of presenting its case. the “full opportunity” of presenting one’s case is not an unlimited one and must be balanced against considerations of reasonableness, efficiency and fairness: china machine at [96]–[97]; adg and another v adi and another matter [2014] 3 slr 481 at [105]. in this connection, it has been noted that the threshold for finding a breach of natural justice is a high one, and hence courts would be slow to intervene in cases of technical and inconsequential breaches. at the same time however, where the conduct of proceedings clearly violates the rules of natural justice, the arbitral award that is rendered as a result may be annulled under art 34(2)(a)(ii) of the model law and/or s 24(b) of the international arbitration act (cap 143a, 2002 rev ed) (“iaa”).51 what constitutes a “full opportunity” can only be meaningfully assessed within the specific context of the particular facts and circumstances of the complaint (triulzi cesare srl v xinyi group (glass) co ltd [2015] 1 slr 114 (“triulzi”) at [125]). the overarching inquiry is whether the proceedings were conducted in a fair manner. the question is whether “what the tribunal did (or decided not to do) falls within the range of what a reasonable and fair-minded tribunal in those circumstances might have done”: china machine at [98]. in asking that question, the court places itself in the position of the tribunal at the material time. the corollary to that is twofold. first, the tribunal’s decisions can only be assessed by reference to what was known to the tribunal at the time, and hence the alleged breach of natural justice must have been brought to the attention of the tribunal at the material time. secondly, the court will accord a margin of deference to the tribunal in matters of procedure and will not intervene simply because it might have done things differently. we turn now to consider each sub-issue for making out a case of breach of natural justice. whether there was breach52 the first question that arises is whether there is a breach of the rules of natural justice. the determination of this first question turns on the interpretation of r 28.1 of the scma rules. for context, we reproduce r 28 of the scma rules in full:28. hearings28.1. unless the parties have agreed on a documents-only arbitration or that no hearing should be held, the tribunal shall hold a hearing for the presentation of evidence by witnesses, including expert witnesses, or for oral submissions.28.2. the tribunal shall fix the date, time and place of any meetings and hearings in the arbitration, and shall give the parties reasonable notice thereof.28.3. prior to the hearing, the tribunal may provide the parties with a list of matters or questions to which it wishes them to give special consideration.28.4. in the event that a party to the proceedings, without sufficient cause, fails to appear at a hearing of which the notice has been given, the tribunal may proceed with the arbitration and make the award.28.5. all meetings and hearings shall be in private unless the parties agree otherwise.[emphasis added]53 it cannot be gainsaid that arbitrations held under the scma rules are governed by its fairly comprehensive provisions. rule 28, as the heading states, deals with “hearings”. on a plain reading, it is apparent that r 28 is concerned with the general conduct and modalities of the arbitral hearing. the opening words of r 28.1 make clear that the tribunal must hold a hearing unless the parties have agreed to a documents-only arbitration or that no hearing shall be held. absent such agreement by the parties, the tribunal “shall hold a hearing” for the presentation of evidence by witnesses, including expert witnesses. what can be queried however is what exactly the following phrase “or for oral submissions” entails.54 the bank argues that r 28.1 allows the tribunal to decide whether to allow the hearing for the presentation of witnesses or for oral submissions; the word “or” is read disjunctively and the two options are, in effect, mutually exclusive. the buyer in turn contends that the rule is to be read holistically such that where a party requests that there be a hearing of oral evidence from witnesses, the tribunal is obliged to allow it (subject to certain limits as discussed below), and cannot decide to convene a hearing only for oral submissions instead.55 the judge agreed with the buyer’s contention. we agree with the judge’s holistic interpretation of r 28.1 and his citation (at [64]) of the commentary in simon davidson (scma head of procedure committee), commentary on the 3rd edition of the rules of scma (21 october 2015):unless the parties have agreed documents only, the tribunal shall hold a hearing for the presentation of evidence by witnesses. however, the testimony of witnesses can be submitted in written form and the tribunal may place such weight on the written testimony as it thinks fit, in particular if the witness does not attend the hearing to give oral evidence…[emphasis added]56 in our view,  r 28.1 provides for two situations where a hearing need not be held. first, where the parties have agreed to a documents-only arbitration, ie, that the dispute will be determined based on documentary evidence only, without witness testimony, whether oral or written. this situation is purely concerned with the type of evidence that may be led. secondly, where the parties agree that there no hearing shall be held, ie, no hearing will be held even for oral submissions with the matter being decided based purely on documents and written submissions. the latter part of r 28.1 – holding a hearing “for the presentation of evidence by witnesses, including expert witnesses, or for oral submissions” [emphasis added] – is thus made clear. unless the parties have agreed on a documents-only arbitration, meaning that unless they have agreed to dispense with evidence from witnesses in any form (which was plainly not the case here), the tribunal shall hold a hearing for the presentation of evidence by witnesses, including expert witnesses. unless the parties have agreed that no hearing shall be held, ie, unless they have agreed to dispense even with oral submissions, then a hearing shall be held for oral submissions. 57 r 28.1 therefore sets out two broad types of agreements the parties may make and of course the precise form of the hearing depends very much on the extent of the parties’ agreement (see judgment at [66] and [67]). there can be various permutations. it is thus open to the parties to agree that the reference proceeds only on documents, agreed facts and agreed issues with written submissions and without the need for a hearing; or the parties may agree to have witness statements in addition to the documents, but without cross-examination and a hearing only for submissions. the parties may even agree no cross-examination of factual witnesses but allow for cross-examination of expert witnesses in appropriate cases. in the more complex cases, the reference will probably proceed with pleadings, documents, witness statements (both factual and expert), cross-examination and written and/or oral submissions. these are but some permutations along which a reference can proceed and procedural flexibility is one of the great strengths of arbitration. however, r 28.1 has to be read as a whole and it does not give the tribunal the power to choose what type of hearing to hold in the absence of an agreement. this coheres with the basic fact that the parties are allowed (within certain limits, see [49] – [51] above and from [58] below on the tribunal’s case management powers) to decide what evidence they want to lead. the buyer here was unequivocal in requesting a hearing for the presentation of oral evidence as to what transpired at the december 2015 meeting and the buyer was acting within its legal rights to do so.  58 contrary to the bank’s suggestions,
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+  ac, para 9.
+
+
+
+ none of this means that an arbitral tribunal is helpless or impotent in managing the case and regulating the evidentiary process. even in arbitral rules such as the scma rules which contain no express witness-gating provisions, it is commonplace to find provisions conferring broad case management powers upon a tribunal. rule 25 of the scma rules provides:25. conduct of the proceedings25.1. the tribunal shall have the widest discretion allowed by the act (where the seat of the arbitration is singapore) or the applicable law (where the seat of the arbitration is outside singapore) to ensure the just, expeditious, economical and final determination of the dispute.25.2. subject to these rules, it shall be for the tribunal to decide the arbitration procedure, including all procedural and evidential matters subject to the right of the parties to agree to any matter.25.3. unless the parties agree that the reference is ready to proceed to an award on the exclusive basis of the written submissions that have already been served, both parties must complete the questionnaire set out in schedule a…[emphasis added in italics]59 the bank relied heavily on r 25 in support of its argument that the arbitrator had not breached the rules of natural justice. apart from rr 25.1 and 25.2, the bank highlights that questions 7 and 8 of the questionnaire referred to in r 25.3 respectively asks “whether the arbitration will be a documents-only arbitration or whether an oral hearing is required?” and “what statement evidence is it intended to adduce and by when; and (if there is to be a hearing) what oral evidence will be adduced?”
+
+                   31
+
+
+
+
+foot note 31
+
+×
+
+
+
+  ac, para 62.
+
+
+
+ 60 however, we do not think the questions in the questionnaire at schedule a of the scma rules are of much assistance to the bank. the questionnaire calls for “information to be provided as required in rule 25” in all cases other than cases where the parties agree that the reference is ready to proceed on the exclusive basis of written submissions that have already been served. it is not a rule empowering the tribunal to dispense with a hearing where one party is asking for a hearing. the questionnaire is akin to a checklist of items to assist parties by addressing their minds to certain procedural issues which will help to streamline the arbitral process towards a just, expeditious and economical resolution. if anything at all, question 7 is consistent with our construction of r 28.1 in referring to two broad approaches, viz, a documents-only arbitration or whether an oral hearing is required. question 8 then moves on to ask about the statement evidence intended to be adduced and timelines and if there is to be a hearing, what oral evidence will be adduced. question 9 asks about the expert evidence and question 10 deals with the length of the hearing. question 11 asks which witnesses of fact and experts are likely to called at the hearing. such questions bear unmistakable resemblance to items set out for consideration in case management conferences.      61 we have little difficulty accepting that tribunals have the power to limit the oral examination of witnesses as part of their general case management powers. this can occur when the evidence from multiple witnesses are repetitive or of little or no relevance to the issues. this much is also envisioned by art 19(2) of the model law. however,  r 25.1 cannot be an unfettered power that overrides the rules of natural justice. this is evident from the plain language of the provision itself. the “widest discretion” afforded to the tribunal is that “allowed” by the iaa and s 24(b) of the iaa specifically provides that an award rendered in breach of the rules of natural justice by which a party‘s rights have been prejudiced is liable to be set aside. more generally, this discretion in r 25.1 is tethered to the “just, expeditious, economical and final” [emphasis added] disposal of the matter. it is in this context that r 25.2, which is expressly subject to the rest of the scma rules, should be understood. this point is made explicitly in judith levine, “can arbitrators choose who to call as witnesses? (and what can be done if they don’t show up?)” in albert jan van den berg (ed), legitimacy: myths, realities, challenges (kluwer law international, 2015) as follows:most commentators acknowledge that the authority to limit witness testimony ‘must be tempered by a tribunal's duty to afford the parties a fair opportunity to present their case’. some are more restrictive in their approach than others. for example, bernard hanotiau expects that ‘it would be very unusual for an arbitral tribunal to decide not to hear a witness, notwithstanding the request of a party to present it, unless the testimony of the said witness were deemed to be manifestly irrelevant’.according to bühler and dorgan, the requirement to treat the parties equally and allow them a reasonable opportunity to present their case means that, in practice, tribunals ‘will hear virtually any witnesses whom the parties wish to present, although the arbitrators may actively exercise their power to limit witness testimony and/or to limit the testimony of a witness to a particular subject’. the perceived safer option seems to be to wait and see what the witness has to say, and then decide only after hearing the witness that the testimony added nothing of value to the record. rubino-sammartano disapproves of the practice of limiting the number of witnesses with a view to saving time because, except in special situations, the arbitrator is not in a position to assess, before hearing the witnesses, whether one or more of them will be necessary.[emphasis added]62 decided cases have also stated that the broad procedural powers of an arbitral tribunal are subject to the fundamental rules of natural justice (see, for example, anwar siraj and another v ting kang chung and another [2003] 2 slr(r) 287 (“anwar siraj”) at [41], which was cited with approval in soh beng tee at [60]). as the judge noted (judgment at [72]–[76]), a number of decisions including dalmia dairy industries ltd v national bank of pakistan [1978] 2 lloyd’s rep 223 (“dalmia”) and triulzi, have also acknowledged the same. the bank has relied on both these cases but its reliance thereon is misplaced.63 in dalmia, the plaintiff, an indian company, sold certain cement factories upon certain conditions to a buyer in pakistan. the defendant bank guaranteed the obligations of the buyer under a guarantee that was expressed, in effect, to be unconditional and irrevocable, to subsist if the buyer failed to fulfil its obligations and even if the buyer’s obligations under the sale and purchase agreement should be discharged by operation of law. when the buyer defaulted, the plaintiff commenced an arbitration against the defendant bank and secured an award in its favour. one of the grounds upon which the defendant bank resisted enforcement of the award was that there had been a breach of the principles of natural justice when the arbitrator exercised his discretion to decline to hear any oral evidence (dalmia at 269). during the arbitration, the defendant bank had applied for leave to call witnesses. after receiving the indications as to the relevance and purpose of the witness evidence, the arbitrator rejected the defendant’s request on the basis of his discretion under the rules of conciliation and arbitration of the international chamber of commerce (the “icc rules”) and the rules of the local procedure that governed the arbitration. in the final award, the arbitrator concluded that it was “completely unnecessary” to hear the witnesses which the defendant had requested; he ruled that “… both parties have had more than ample opportunity to present and argue the case, orally as well as in writing … the dispute being essentially, and indeed exclusively, of a legal nature.” the main issues related to indian law, jurisdiction, whether a state of war between india and pakistan had come into existence in or around 1965 and whether the common law on “trading with the enemy” applied to india and related issues of illegality.64 both the english high court and the court of appeal rejected the bank’s challenge on the grounds of breach of natural justice. it noted, amongst other things, that art 20 of the icc rules merely provides that the arbitrator “shall have the power to hear witnesses”, ie, that this is a discretion, not an obligation (at 270). moreover, the court also went on to cite the following passage of shanbhu dayal singh’s law of arbitration at p 375 with approval (as the judge below also noted at [73] of the judgment):refusal to examine witnesses. whether the arbitrators should or should not hear evidence and the parties, must depend on the particular circumstances in every case; and the arbitrators should exercise their discretion in a judicial manner. if the reference be such that the arbitrators cannot decide the dispute without hearing evidence, the refusal to hear evidence will amount to misconduct. refusal on the part of the arbitrator to examine witnesses for a party is judicial misconduct warranting the court to set aside the award … where, however, there is nothing to show that the arbitrator was not acting within his powers and where in the exercise of a prudent and wise discretion he declined to summon the witness, or where the evidence was unnecessary and would not have in any way influenced the decision of the arbitrators, the awards were upheld. [emphasis added in bold italics]65 the bank in the present case relies on dalmia to argue that national courts have expressly recognised a tribunal’s power to gate witnesses even where the arbitral rules, such as the icc rules, do not contain such an express provision.
+
+                   32
+
+
+
+
+foot note 32
+
+×
+
+
+
+  ac, para 83(2).
+
+
+
+ however, the exercise of the witness-gating power must be considered in the context of the facts in dalmia. the issues there were almost exclusively legal in nature and factual evidence from witnesses would not have assisted in arriving at or affecting the outcome. the one factual issue, the form and content of dalmia’s despatch instructions to the buyer to deliver cement, which formed part of the consideration under the sale and purchase agreement, though challenged before the arbitrator, was no longer pursued before the court during the enforcement proceedings. the decision in dalmia was, with respect, correctly decided given the facts of the case and the issues before the arbitrator. it is not inconsistent with our explanation above that even if a witness-gating power can be implied from the general case management powers of a tribunal, it is difficult to envision a scenario where they should not be weighed against the rules of natural justice.66  the second case, triulzi, is similarly of no assistance to the bank. on the contrary, in that case, belinda ang saw ean j held that despite the broad and flexible case management powers conferred upon the tribunal by the international chamber of commerce rules of arbitration 2012 and the international bar association rules on the taking of evidence in international arbitration, the exercise of such powers is subject to the rules of natural justice, which includes the right to be heard (at [128]–[131] citing anwar siraj and soh beng tee). the plaintiff (respondent in the arbitration) applied to set aside the award on the ground, inter alia, that it was not afforded a reasonable opportunity to be heard in calling an expert witness to meet the expert evidence of the defendant (claimant in the arbitration). when one examines the facts more closely, it becomes evident that the plaintiff’s complaint was without any basis whatsoever. pursuant to a procedural timetable, the defendant duly filed its witness statements but included that of an expert witness. the plaintiff objected, asking for the expert’s statement to be excluded, on the basis that there was an agreement to exclude expert witnesses, or that in the alternative, the plaintiff be afforded an opportunity to file one too. the arbitrator replied that his case management note contained no record of such an agreement (at [31]–[32]). after a further exchange of correspondence, on 5 april 2013, the arbitrator directed that the plaintiff was to file its expert statement by 15 april 2013 and admitted the defendant’s expert report (at [34]). on 12 april 2013, the plaintiff complained that it did not have sufficient time to file its expert report and attempted to vacate the hearing dates, which had been fixed for 22 to 25 april 2013. on 16 april 2013, the arbitrator gave the parties further directions and stated that the hearing dates would not be vacated. when the hearing commenced, the defendant called two factual witnesses and its expert witness. on the last day of the hearing, and after the defendant’s expert had given evidence, the plaintiff applied to submit the report of its expert. the arbitrator refused to admit the defendant’s expert report (at [43]). 67 it is not surprising that the court rejected the plaintiff’s complaint that the award was in breach of the fair hearing rule and refused to set aside the award. ang j dismissed this ground of challenge and the application for setting aside the award. in discussing the relevant principles, it was expressly noted that whilst the tribunal is the master of its own procedure, it is subject to the rules of natural justice (at [131]). ang j found that none of the tribunal’s procedural orders or directions could be criticised since the tribunal had properly taken into account a myriad of factors and notably, the circumstances were actually the result of the plaintiff’s own doing in so far as it had omitted to disclose the full extent of its need for its expert before the tribunal (at [111], [141] and [155]).68 it is apparent that the facts of triulzi are quite different from the present case. as noted above, the buyer here was unequivocal in its insistence on presenting oral witness evidence and the arbitrator was not unaware of this. whilst due latitude will be given to an arbitral tribunal to control the proceedings before it, in the final analysis, the tribunal must weigh the laudable desire for efficient and effectual arbitral proceedings against the necessity of affording parties their right to be heard. the fundamental nature of the rules of natural justice means that they must not be sacrificed in the name of efficacy and due weight must be afforded to those rules. it is self-evident that this balance is not amenable to prescriptive rules and each case will turn on its precise facts and circumstances. 69 furthermore, it seems to us that the effect of accepting the bank’s disjunctive interpretation of r 28.1 is to confer a broad and unqualified power on the tribunal with respect to witness-gating when this power is not expressly contained in the scma rules. this is unlike the express witness-gating provisions found in other arbitral rules such as the london maritime arbitrators association terms (2017) and the international bar association rules on the taking of evidence in international arbitration (2010) (as noted in the judgment at [68]). 70 in the present case, the arbitrator had directed on 20 july 2018 as follows:
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+  cb vol (iii), p 101.
+
+
+
+…pursuant to scma rule 28.1 the final hearing shall be limited to oral submissions only. there will be no witnesses presented at the final hearing as [the buyer] has failed to provide witness statements or any evidence of the substantive value of presenting witnesses. the final hearing shall not be used as an evidentiary mechanism. [emphasis added]71 the arbitrator was clearly alive to the fact that he could not hold a documents-only arbitration without the agreement of the parties (see his email dated 20 july 2018 referred to above).
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+  cb vol (iii), p 101; final award, para.62(a).
+
+
+
+ however, perhaps somewhat exasperated with the uncooperative attitude of the buyer, the arbitrator wrongly interpreted r 28.1 as requiring an oral hearing but where he could, at his discretion, hear either evidence or legal arguments. the arbitrator had no power in this case to impose a condition that a party could be required to show that its evidence had “substantive value” before he decided whether to allow it being adduced into the evidence through an oral hearing or to disallow it (see [21] above). it is clear to us that the arbitrator’s directions in excluding the entirety of the buyer’s witness evidence is a material breach of the rules of natural justice. as noted above, r 28.1 does not confer on the arbitrator the power to summarily and effectively exclude all the buyer’s witnesses from giving evidence at the hearing. the buyer had made the purpose and the importance of the seven witnesses it intended to call sufficiently clear – their evidence was to prove what transpired during the december 2015 meeting – and in particular, whether the buyer and seller had agreed to a reduction of the sums owed for the sale of coal. the material portions of the buyer’s defence and counterclaim (ie, the “reply on merits”) bear quoting at some length:16. it is submitted herein that the terms of the contract formed over the email dated 18.11.2014 and 19.11.2014 were therein agreed and promised by [the seller] in its meeting in around 2.12.2015 to be reviewed and modified to include the reduced coal price for the coal supply. it was also agreed to have the new coal price for the entire 50000 mt of coal and not just the 20000 mt of coal and upon agreeing to a mutually reviewed price the payments shall be made or adjusted. however as submitted, [the seller] reneged on these promises and representations and agreement on reduced price.…18. without prejudice it is submitted that [the buyer] being a responsible company has never denied its liability to pay for any goods which it purchases. however, the price which has to be paid is a matter between the parties … and it is the price which is seriously disputed between [the buyer] and [the seller] as it is the entire case of the respondent that officials of [the seller], namely … on 2.12.2015 at … wherein they had specifically agreed that since there had been decrease in the price of coal, therefore, they shall be reviewing the contract price and the mutually agreed price shall then be payable. it is submitted that telephonic discussions were also held between the officials of [the buyer] and … of [the seller] for reviewing the coal price and accordingly reducing the same.19. it was specific admission [sic] on the part of the officials of [the seller] that the contracted coal price shall be suitably modified to take into account the reduced coal prices that [the buyer] took delivery of the 15000 mt of coal. it is submitted that [the seller] had also agreed to a price of 61$ per mt during the meetings however it later reneged on the same. however as disputes arose the delivery order for the balance 5000 mt of coal was not given by [the seller] and the said quantity is still present at the port in india and [the buyer] is being issued notices for demurrage and wharfage. it is submitted that it was [the seller] which has misled, breached and defaulted [the buyer] when it specifically agreed in the personal meetings that it shall review coal price and also agreed to a new coal price during the meeting of 61$ per mt and then later reneged on its representation and promise and agreement.[emphasis added]72 the relevant parts of the buyer’s answers to the questionnaire filed in the arbitration state as follows:7. whether the arbitration will be a documents-only arbitration or whether an oral hearing is required?oral hearing is necessary and also as evidence is to be adduced and examined of the individuals mentioned in the list of witness [sic].8. what statement evidence is it intended to adduce and by when; and (if there is to be a hearing) what oral evidence will be adduced?the individuals mentioned in the list of witness [sic] have to be examined and evidenced [sic] adduced with respect to the submissions made by the respondent in its defence.73 we acknowledge that from a review of the e-mail correspondence between the parties (see above at [19]–[26]) as well as the answers to the questionnaire set out above, the buyer had been rather oblique in explaining the purpose of calling the witnesses despite being asked several times to clarify its position on this. nevertheless, we are satisfied that the buyer’s defence on this issue, as set out above, had disclosed sufficient facts that gave the bank notice as to what the buyer’s material allegations were in respect of the december 2015 meeting. while we also accept that the buyer’s defence is not a model of clarity as to what the terms of the agreement (if any) were, we note that the buyer had listed in its defence the specific names of individuals that attended the said meeting, which matches the list of witnesses submitted by the buyer to the tribunal.
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+  cb vol iii, p 51.
+
+
+
+ therefore, generally what the evidence of the witnesses would entail was not unknown.  74 in these circumstances, we do not think it can be counted against the buyer that it refused to furnish the witness statements requested by the arbitrator. the buyer was faced with a veritable hobson’s choice: on the one hand, the arbitrator had repeatedly insisted on the witness statements to decide whether to convene an oral hearing; on the other hand, if it had acceded to the arbitrator’s request, it might be taken to have agreed with the arbitrator that he had the power to decide whether or not to deny their request for a hearing of the witness testimony.  on 4 july 2018, the arbitrator wrote to the parties essentially issuing an ultimatum to the buyer:… [the buyer] has not directly address three outstanding items, (i) providing written statements from each of the witnesses respondent plans to call should there be an oral hearing and (ii) a brief by [the buyer] regarding what constitutes ‘breach of natural justice’ under the laws of singapore …unless i have definitive responses to each of these outstanding items by end of business singapore time 5 july 2018, i will consider [the buyer’s] actions to mean [the buyer] waives any right to submit witnesses in the event of an oral hearing, [the buyer] chooses not to brief me on its understanding of what constitutes a breach of natural justice under the laws of singapore and is happy for me to rely solely on [the bank’s] brief on the subject and [the buyer] no longer wishes to pursue its counterclaim.counsel, please consider my next direction very carefully and i direct you discuss this with [the buyer], i will not tolerate another ‘11th hour’ change of mind …[emphasis added]75 for avoidance of doubt, as alluded to earlier, the arbitrator was entitled to request witness statements as is contemplated in r 30.5 of the scma rules: subject to such order or direction which the tribunal may make, the testimony of witnesses may be presented in written form, either as signed statements or by duly sworn/affirmed affidavits. if a witness does not attend the hearing to give oral evidence, the tribunal may place such weight on his written testimony as it thinks fit.76 however, it is clear to us that the arbitrator’s direction for witness statements issued on 1 june 2018 was not simply for the purpose of “facilitating the adducing of witness testimony and the presentation of evidence at the oral hearing” (judgment at [90]). if that had been the intention, the arbitrator’s directions might be warranted if the buyer failed to comply. it is clear from the correspondence that even up till 4 july 2018, the arbitrator was still proceeding on the mistaken premise that he could decide between whether to hold a documents-only arbitration or an oral hearing only for submissions (see [74] above).77 the bank suggests in its written submissions that it is de rigueur for the tribunal to decide whether to hear witnesses after a review of witness statements in international arbitrations.
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+  ac, para 77.
+
+
+
+ even if we accept that it is customary for arbitral tribunals to determine whether or not to hear a witness based on their witness statements, that does not assist the bank’s case here. rule 28.1 of the scma rules, as we have explained above, is sufficiently clear as to when an oral hearing is necessary. rule 30.5 does not change the analysis. rule 30.5 simply envisions the scenario where a written witness statement may be considered as part of the evidence as a substitute to oral evidence, if the witness does not attend the hearing for whatever reason. to the extent that there might be any apparent inconsistency between the scma rules and what the bank postulates to be de rigueur (a question on which we make no determination), primacy must be given the express rules agreed upon by the parties.78 none of the foregoing should be taken as suggesting that the court is countenancing any dilatory tactics on the part of the buyer. it is not lost on us that the buyer’s conduct of the arbitration was less than cooperative, to say the least. however, the conduct of such reluctant respondents, when they are acting within their rights, does not furnish any legal defence against a setting-aside application. as the judge was at pains to explain, perhaps a better route which the arbitrator should have taken in the premises, was to fix a hearing for the presentation of the buyer’s witness evidence and at the same time, ask for the witness statements from the buyer (even then, this would probably not have included the evidence from the sellers and the person from the trade credit insurance entity). at the hearing, the arbitrator can, as he sees fit, manage the evidentiary process by for instance, limiting the amount of time for individual witnesses, as he is entitled to under the case management powers in r 25.1 of the scma rules (judgment at [92]). where the arbitrator fell into error was by suggesting that whether a hearing for witness testimony would be convened would be determined based on the buyer’s witness statements, which had to be submitted beforehand. as we have noted above, this was not an option open to the arbitrator to pursue. for these reasons, we are unable to accept the bank’s submission before us that the arbitrator’s conduct fell within the “range or what a reasonable and fair-minded tribunal in those circumstances might have done”: china machine at [98].79 we are therefore satisfied that the arbitrator’s denial of the entirety of the witness evidence from the buyer constitutes a breach of natural justice. whilst it is correct that the courts would generally accord a margin of deference to the tribunal’s decisions, especially on procedural matters, this is a clear case of a serious breach of the rules of natural justice and to decide otherwise would be to reduce the content of those rules to a vanishing point.whether the breach affected final award80 the second question is whether the above breach is directly connected to the making of the final award. the bank’s main argument on this point is that such a breach was the result of the buyer’s own dilatory actions. hence, it submits that there is no causal link between the breach and the final award.81 in our judgment, this argument is without merit and we have no difficulty dismissing it. the real cause for the arbitrator’s direction was a misapprehension of his powers under the scma rules. whilst it is acknowledged that the buyer’s conduct in the arbitration left much to be desired, it cannot be said to be in violation of the scma rules or to be the real cause of the breach. the arbitrator’s direction resulted in the gating of all seven of the buyer’s witnesses. according to the buyer, six of these witnesses were present at the disputed december 2015 meeting, where purportedly, an oral agreement had been reached to lower the price of the coal or at least, to consider reviewing it. in disallowing the witness evidence, the arbitrator breached the fair hearing rule and went on to find the buyer liable for the entire sum claimed by the bank based on the original contract price.82 therefore, we are satisfied that this breach of the fair hearing rule directly affected the final award.whether the buyer was prejudiced83 finally, the question which remains is whether the breach of natural justice resulted in any prejudice to the buyer. as a starting point, the following observations on the requirement of prejudice in soh beng tee at [91]–[92] bear quoting:91  … it appears to us that in singapore, an applicant will have to persuade the court that there has been some actual or real prejudice caused by the alleged breach. while this is obviously a lower hurdle than substantial prejudice, it certainly does not embrace technical or procedural irregularities that have caused no harm in the final analysis. there must be more than technical unfairness. it is neither desirable nor possible to predict the infinite range of factual permutations or imponderables that may confront the courts in the future. what we can say is that to attract curial intervention it must be established that the breach of the rules of natural justice must, at the very least, have actually altered the final outcome of the arbitral proceedings in some meaningful way. if, on the other hand, the same result could or would ultimately have been attained, or if it can be shown that the complainant could not have presented any ground-breaking evidence and/or submissions regardless, the bare fact that the arbitrator might have inadvertently denied one or both parties some technical aspect of a fair hearing would almost invariably be insufficient to set aside the award.92   in addition, assuming that the breach is in respect of only a single isolated or stand-alone issue or point, it would normally not be sensible or appropriate to set aside the entire award. instead, the policy of minimal curial intervention implies that the court’s focus should be on the proportionality between the harm caused by the breach and how that can be remedied …[emphasis added]84 the perceived harshness of soh beng tee on the requirement for prejudice was ameliorated somewhat in l w infrastructure at [51]. there, the court stated that it is not the case that an applicant seeking relief must demonstrate affirmatively that a different outcome would have followed but for the breach of natural justice. the central question is whether the breach of natural justice “was merely technical and inconsequential or whether as a result of the breach, the arbitrator was denied the benefit of arguments or evidence that had a real as opposed to a fanciful chance of making a difference to his deliberations”: l w infrastructure at [54] [emphasis added].85 we find that the breach of natural justice resulted in prejudice to the buyer. we accept the bank’s point that the objective documentary evidence prima facie shows that the seller had duly delivered 20,000 mt of coal, and the buyer and its bank had conceded its liability for the sum of us$1,480,400 based on the original contract price (see [7]–[8] above).
+
+                   37
+
+
+
+
+foot note 37
+
+×
+
+
+
+  ac, paras 31 to 37.
+
+
+
+ however, the buyer’s defence against the bank rests on a different footing – that is, the formation of an oral agreement subsequently in december 2015. hence, it is plausible that the parties agreed to the reduced price of us$61 per mt for the coal. the court’s task here is not evaluate the merits of the alleged claim, which would be impermissible – the paramount question is whether the procedural defect has any material effect on the party seeking to invoke it as a ground for setting aside the arbitral award. what is required is that there be a real possibility that the deliberation and conclusion of the arbitration would be different. on the facts of the present case, the alleged oral agreement at the december 2015 meeting was a critical component of the buyer’s defence against the bank’s claim. when the witness evidence of the buyer in relation to that meeting was shut out altogether, it is plain that the buyer was prejudiced.86 in this regard, cll 19 and 20 of the second agreement do not pose any real hurdle to the buyer’s defence. the two clauses state:19  amendments – the contract cannot be changed except by written instrument duly signed by legally authorised representatives of both parties. 20  entire contract – this instrument contains the entire agreement between the parties in relation to the sale and purchase of product … and supersedes all prior negotiations, understandings and agreements, whether written or oral, in relation to that product. the parties shall be bound only by the express provisions of this agreement and documents executed in the future by duly authorised representatives of the parties.on the face of it, the two clauses might obviate the buyer’s defence of a subsequent oral agreement. however, we agree with the judge that they are not fatal to that defence since it is possible that parties agreed to dispense with them. in any case, that is a question that had to be determined by the tribunal when considering the buyer’s witness evidence.87 the bank points out in its case that the arbitrator did consider the buyer’s alleged defence and decided that the oral evidence excluded would not have made a difference.
+
+                   38
+
+
+
+
+foot note 38
+
+×
+
+
+
+  ac, para 39.
+
+
+
+ this is a circuitous argument. nowhere in the final award does the arbitrator say that the excluded oral evidence could not have made a difference to the determination. the arbitrator could not do so simply because no such evidence was adduced, a consequence which flowed directly from his mistaken directions. 88 the bank also submits that there was no prejudice because of the list of witnesses furnished by the buyer; it could not have expected those who were employees of the seller to give any evidence to support its case concerning the december 2015 meeting.
+
+                   39
+
+
+
+
+foot note 39
+
+×
+
+
+
+  ac, paras 29, 44.
+
+
+
+ this argument is clearly one that cannot get off the ground and we need say nothing further about it.89 before we turn away from the issue of breach of natural justice, we note that counsel for the bank argues that the judge had impermissibly engaged in “after the event” analysis instead of considering what was contemporaneously available to the arbitrator (china machine at [104(d)]).
+
+                   40
+
+
+
+
+foot note 40
+
+×
+
+
+
+  ac, paras 30, 49 to 52.
+
+
+
+ in particular, the bank took issue with the judge’s “careful and patient reading” of the buyer’s defence in the arbitration and the judge’s interpretation of cll 19 and 20 of the second agreement. with respect, it is absurd to suggest the judge was wrong to take a careful and patient reading of the defence because implicit in this argument is that the arbitrator was not somehow obliged to do just that. if the judge below could decipher, from the same evidence and facts that were contemporaneously before the arbitrator, the relevant factors by a careful reading of the defence, then the arbitrator will be bound to have done the same. the bank’s criticisms are without any merit.90 therefore, we are satisfied that all the requirements for setting aside the final award for a breach of natural justice have been met. 91 we now turn to the remaining issue of whether this court should, as requested by the bank, remit the final award back to the tribunal instead of setting aside of the final award.the appropriate remedy92 two points of contention were raised as to whether the final award should be set aside. neither of these, we emphasise, were raised before the judge below. first, the bank argues that the final award should only have been set aside in part since the buyer’s defence is only a partial defence; on the buyer’s pleaded case, the underlying dispute is only as to the price of the coal payable and not liability to pay the bank altogether. secondly, in the course of the appeal before us, the bank applied to remit the matter back to the tribunal under art 34(4) of the model law. partial setting aside93 the bank argues that even if the arbitrator or the court accepts at face value the buyer’s defence of an oral agreement reducing the price of the coal, it would only reduce the overall contract price payable by some 17% on its calculation.
+
+                   41
+
+
+
+
+foot note 41
+
+×
+
+
+
+  ac, para 53.
+
+
+
+ this much is evident from the buyer’s own defence (see [71] above).94 the arbitrator found, in the absence of any witness evidence from the buyer, that it was liable to the bank for the entire sum of us$1,480,400.
+
+                   42
+
+
+
+
+foot note 42
+
+×
+
+
+
+  final award, paras 101, 102 and 123.
+
+
+
+ in our view, it is not the role of the court to apply a pro tanto reduction to the sum awarded by an arbitrator, which is essentially the effect of the bank’s submission for a partial setting aside. putting aside that problem, counsel for the bank candidly acknowledged before us that this remedy of a partial setting aside was not raised before the judge. hence, we do not think the judge can be faulted for not considering this alternative. more importantly, we consider the judge’s decision to set aside the entire award to be realistic and wholly defensible. this is because if he had allowed a partial setting aside, the doctrine of merger may operate to obviate the bank from pursuing a claim for the difference of 17% in any separate proceeding. we therefore decline to partially set aside the final award.remittal95 more importantly, counsel for the bank invited this court to consider remitting the final award back to the arbitrator pursuant to art 34(4) of the model law. in this regard, we invited parties to address us in further submissions on two questions:(a) first, whether the power of the court under art 34(4) of the model law to order a remittal of an award to the arbitrator with a view to curing a breach of natural justice that affects that award is available to the court of appeal in circumstances where (i) the award has already been set aside by the high court, before which no request was made for an order for remittal; and (ii) the court of appeal is otherwise satisfied that there has been a breach of natural justice and that the high court’s decision was correct (the “legal question”).(b) secondly, assuming the court of appeal has such a power in these circumstances, whether it would be appropriate to exercise that power in this case on the request of the bank (the “factual question”).(1) the parties’ submissions96 in response to the legal question, the bank argues that this court has the power to order a remittal of the final award at this stage notwithstanding that both the judge below and this court are satisfied that the ground of breach of natural justice for setting aside of the award is made out. it cites three main reasons for this submission:(a) first, the relevant provisions in s 37 of the supreme court of judicature act (cap 322, 2007 rev ed) (“scja”) state that the court of appeal “shall have all the powers … of the high court” and may “make any order which ought to have given or made”.
+
+                   43
+
+
+
+
+foot note 43
+
+×
+
+
+
+  appellant’s further submissions, para 3.
+
+
+
+(b) secondly, the plain wording of art 34(4) of the model law affords such a power of remittal. in particular, the “court” as referenced therein can refer to both the high court and the court of appeal.
+
+                   44
+
+
+
+
+foot note 44
+
+×
+
+
+
+  appellant’s further submissions, para 7.
+
+
+
+ in this connection, the fact that the judge in the high court has set aside the final award does not deprive this court of the power to remit.
+
+                   45
+
+
+
+
+foot note 45
+
+×
+
+
+
+  appellant’s further submissions, para 10.
+
+
+
+(c) thirdly, the travaux préparatoires to art 34(4) highlights that the power of remittal was meant to provide a “useful device” to cure procedural defects and avoid the draconian consequence of setting aside an arbitral award.
+
+                   46
+
+
+
+
+foot note 46
+
+×
+
+
+
+  appellant’s further submissions, para 12.
+
+
+
+ the timing of the request for remittal is unimportant as long as it was made during the course of setting-aside proceedings.
+
+                   47
+
+
+
+
+foot note 47
+
+×
+
+
+
+  appellant’s further submissions, paras 15, 21.
+
+
+
+ in this vein, since remittal is simply an alternative remedy to setting aside of an award, there is nothing to suggest that the request requirement must be satisfied at the first-instance of setting aside.
+
+                   48
+
+
+
+
+foot note 48
+
+×
+
+
+
+  appellant’s further submissions, para 23.
+
+
+
+97 on the factual question, the bank submits that this court should exercise the power of remittal.
+
+                   49
+
+
+
+
+foot note 49
+
+×
+
+
+
+  appellant’s further submissions, para 30.
+
+
+
+ the bank argues that the breach in question is a discrete issue which only concerns a partial defence of price reduction resulting from the december 2015 meeting, and can be addressed by the arbitrator with relative ease. moreover, regard must be had to the proportionality between the harm arising from the breach and the possible remedies available to a supervisory court. setting aside the entire final award is a disproportionate response given the minimal prejudice to the buyer, the length of the proceedings and the buyer’s belligerent conduct in the arbitration.
+
+                   50
+
+
+
+
+foot note 50
+
+×
+
+
+
+  appellant’s further submissions, paras 34, 37
+
+
+
+ in the circumstances, the bank submits that the judge should have invited parties to address the question of remittal.
+
+                   51
+
+
+
+
+foot note 51
+
+×
+
+
+
+  appellant’s further submissions, para 35.
+
+
+
+ nonetheless, that no request was made before the judge below is not fatal since a request has been made in the setting aside proceedings before this court.
+
+                   52
+
+
+
+
+foot note 52
+
+×
+
+
+
+  appellant’s further submissions, para 36.
+
+
+
+ 98 the buyer, on the other hand, argues that this court does not have the power to order a remittal of the final award under art 34(4) of the model law. this is because the setting-aside proceedings before the high court have concluded and no request for remittal was made then, as is required by the plain text of art 34(4).
+
+                   53
+
+
+
+
+foot note 53
+
+×
+
+
+
+  respondent’s further submissions, paras 6 to 8.
+
+
+
+ this, the buyer submits, is the result of the bank’s “go-for-broke” strategy both before the tribunal and the proceedings before the high court, where the only issue was the setting aside of the final award. whilst the court of appeal has the discretion to hear a point that was not taken below, that should only be exercised in exceptional circumstances. in the present appeal, there are no such exceptional circumstances.
+
+                   54
+
+
+
+
+foot note 54
+
+×
+
+
+
+  respondent’s further submissions, paras 19 to 21.
+
+
+
+ moreover, this court would be exercising original jurisdiction instead of appellate jurisdiction if it ordered a remittal.
+
+                   55
+
+
+
+
+foot note 55
+
+×
+
+
+
+  respondent’s further submissions, para 26.
+
+
+
+99 on the factual question, the buyer submits that remittal is inappropriate for a number of reasons. first, the arbitrator is unfit to continue hearing the matter because there is a real likelihood that he will not be able to fairly determine the issues given the conduct and development of the case thus far.
+
+                   56
+
+
+
+
+foot note 56
+
+×
+
+
+
+  respondent’s further submissions, para 40.
+
+
+
+ secondly, as there has been a serious miscarriage of justice occasioned by the breach of natural justice, the most appropriate remedy is for the final award to be set aside and for the dispute to be heard afresh before a new arbitrator. this is especially so since the remittal would require a full hearing.
+
+                   57
+
+
+
+
+foot note 57
+
+×
+
+
+
+  respondent’s further submissions, para 46.
+
+
+
+ thirdly, given the substantial amount of time elapsed since the issuance of the final award on 16 november 2018, there is no benefit in terms of time and cost savings for the matter to be remitted to the same arbitrator.
+
+                   58
+
+
+
+
+foot note 58
+
+×
+
+
+
+  respondent’s further submissions, para 49.
+
+
+
+ 100 in any event, the buyer notes that because the effect of remittal would essentially be to confer jurisdiction on the arbitrator, the prior question of whether the arbitrator has the requisite jurisdiction over the parties’ dispute – which was the alternative ground of challenge against the final award apart from the breach of natural justice – must be addressed.
+
+                   59
+
+
+
+
+foot note 59
+
+×
+
+
+
+  respondent’s further submissions, para 34.
+
+
+
+(2) our analysis101 article 34(4) of the model law states:article 34. application for setting aside as exclusive recourse against arbitral award…(4) the court, when asked to set aside an award, may, where appropriate and so requested by a party, suspend the setting aside proceedings for a period of time determined by it in order to give the arbitral tribunal an opportunity to resume the arbitral proceedings or to take such other action as in the arbitral tribunal’s opinion will eliminate the grounds for setting aside.102 in order to answer the legal question, the key interpretive issue is whether the “court” referred to in art 34(4) includes the court of appeal. having reviewed the parties’ submissions and the secondary materials, we find that the power to remit an arbitral award back to the same tribunal is vested only in the high court for the following reasons.  103 in our view, the phrase “when asked to set aside an award”, which immediately follows the opening reference to “the court” is critical. two interrelated observations can be made here. first, it is settled that under the model law, the only grounds for setting aside an award are those stipulated in art 34(2). the opening words of art 34(2) of the model law stipulate that an award may be set aside “by the court specified in article 6” on various enumerated grounds. as clearly provided in s 8(1) of the iaa, this specific court in art 34(2) is the high court. as a matter of construction, thereafter, whenever the phrase “the court” is used in the following paragraphs of article 34, it must similarly mean the high court. secondly, in the present case, it cannot be said that the court of appeal is being “asked to set aside an award”. we have passed that point. the buyer succeeded in setting aside the final award before the high court and now the bank is seeking to reverse the high court’s decision. put differently, there is no longer any award to set aside and since we have found no basis for reversing the judge’s decision below, the issue of remittal does not arise. 104 the above interpretation of art 34(4) is, in our opinion, consistent with its purpose as disclosed in the travaux préparatoires which was discussed in akn and another v alc and others and other appeals [2016] 1 slr 966 (“akn (no 2)”). in sum, the remedy of remittal was tabled as “a useful device for curing procedural defects without having to set aside the award” (report of the working group on international contract practices during its seventh session, un doc a/cn.9/246 at para 139). this echoed the report of the working group on international contract practices on the work of its sixth session, un doc a/cn.9/245 at paras 154–155 cited in akn (no 2) at [32]:154. divergent views were expressed as to whether paragraph (3) should be retained. under one view, the draft provision was useful in that it provided some guidance on procedural questions which were relevant in the case of remission. under another view, the provision should be deleted since remission was not known in all legal systems and, in particular, the idea of orders or instructions to an arbitral tribunal was not acceptable. under yet another view, the option of remission should be retained, without the giving of orders or instructions as envisaged in the second sentence; it was stated in support that this device would allow to cure a procedural defect without having to vacate the award.155. the working group, after deliberation, adopted this latter view and requested the secretariat to revise the provision accordingly.[emphasis added]in other words, the remittal of a matter to the same tribunal is an alternative remedy which may be used to mitigate the draconian consequences associated with the setting aside of an award altogether (akn (no 2) at [33]).105 in akn (no 2), one of the questions raised was whether the appellants’ application to remit certain issues in question to the tribunal should be acceded to. they argued that even after the award had been set aside in akn and another v alc and others and other appeals [2015] 3 slr 488, the court could and should remit the matter to the tribunal. on the other hand, the respondents argued that the court had no power to remit, and even if it did, it was not an appropriate case on the facts. the court of appeal found that on the plain words of art 34(4), since it had upheld the setting aside of certain portions of the award by the high court, the question of remittal did not arise (at [34]).106 in our judgment, the bank’s interpretation of art 34(4) is incorrect. the power to remit vests in the high court alone and the proper occasion for its exercise was before the high court when it was asked to set aside the award. the role of the court of appeal in the present context is limited to reviewing the high court’s decision on the issue, assuming an application had been made below. put differently, the court of appeal has no (original) jurisdiction to deal with an ab initio application to remit. as noted earlier, the bank could have, but did not, make any application for remittal before the judge. as counsel for the bank accepted, they “went for broke” in only seeking the full sum due. the bank argues in its submission that the judge could have invited the parties to consider this alternative remedy. whilst we agree that it was open to the judge to do so (see for example, bsm v bsn and another matter [2019] sghc 185 at [21]; jvl agro industries ltd v agritrade international pte ltd [2016] 4 slr 768 at [127]), the judge was not obliged to do so and no criticism can be levelled against him in the circumstances.107 finally, we address the bank’s argument on s 37 of the scja. the bank relies on s 37(2) and s 37(5), which state as follows: (2) in relation to such appeals, the court of appeal shall have all the powers and duties, as to amendment or otherwise, of the high court, together with full discretionary power to receive further evidence by oral examination in court, by affidavit, or by deposition taken before an examiner or a commissioner.…(5) the court of appeal may draw inferences of facts, and give any judgment, and make any order which ought to have been given or made, and make such further or other orders as the case requires.[emphasis added]these provisions are reflected in o 57 rr 13(1) and 13(3) of the rules of court (cap 322, r 5, 2014 rev ed) respectively as well.108 we do not think either provision assists the bank’s case here. it is clear that both of these general provisions contain broadly worded powers granted to the court of appeal (see koh sin chong freddie v chan cheng wah bernard and others and another appeal [2013] 4 slr 629 at [94]–[100] for a discussion of s 37(5) of the scja). if remittal had been applied for below and a decision thereon was made by the high court, then on appeal, this court’s function would be limited to affirming or reversing the high court’s decision on the issue. it is in this context that the court of appeal has all the powers of the high court but the court of appeal has no jurisdiction to deal with an ab initio application to remit. 109 however, what appears to us to be separate and insurmountable obstacle in the present context is art 5 of the model law, which reads:article 5. extent of court interventionin matters governed by this law, no court shall intervene except where so provided in this law.[emphasis added]110 the import of art 5 of the model law, which is lex specialis, has been considered on a number of occasions. in akn (no 2), this court reiterated at [21] that art 5 serves to “confine the power of the court to intervene in an arbitration to those instances which are provided for in the model law and to ‘exclude any general or residual powers’ arising from sources other than the model law” (citing howard m holtzmann & joseph e neuhaus, a guide to the uncitral model law on international commercial arbitration: legislative history and commentary (kluwer law and taxation publishers, 1989) at p 216, which in turn was also cited in l w infrastructure at [36]). thus, a user is essentially guaranteed that “he will find all instances of possible court intervention in [the model law], except for matters not regulated by it” (see uncitral model law on international commercial arbitration: note by the secretariat (un doc a/cn.9/309), which was issued following the adoption of the model law by the uncitral on 21 june 1985, at para 16). 111 we have already explained that the power of remittal stipulated under art 34(4) of the model law is a matter reserved to the high court, the decision of which is subject to appeal. in our view, it would be impermissible for the court of appeal in the exercise of its appellate jurisdiction and the broad powers set out in s 37 of the scja to, in effect, circumvent the particular statutory regime under the model law and iaa. 112 for the above reasons, we dismiss the bank’s argument on the legal question. in the premises, we need not address the factual question, save to note that we would have had serious reservations as to the appropriateness of remittal as referred to in our judgment above and given the nature of evidence that has been excluded in breach of the fair hearing rule.  we therefore make no order on remittal and affirm the decision of the judge to set aside the final award on the ground of breach of natural justice.the tribunal’s jurisdiction113 given our finding above, it is also unnecessary for us to deal with the alternative ground of setting aside the final award in relation to the arbitrator’s jurisdiction. conclusion114 for all the foregoing reasons, we see no basis for interfering with the judge’s decision to set aside the final award in its entirety, and accordingly, we dismiss the appeal. unless the parties come to an agreement on costs, they are to furnish written submissions limited to 10 pages each, within 3 weeks of the date of this judgment on the appropriate costs order to be made.sundaresh menonchief justicejudith prakashjustice of the court of appealquentin lohjudge of the appellate divisionpeh aik hin, lee may ling, rebecca chia su min and sampson lim jie hao (allen & gledhill llp) for the appellant; clarence lun yaodong, samuel lim jie bin, leng ting kun, ammani mathivanan and charles ho jun ji (foxwood llc) for the respondent.

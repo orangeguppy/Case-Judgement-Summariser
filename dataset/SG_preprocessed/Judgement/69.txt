@@ -1,0 +1,868 @@
+in the singapore international commercial courtof the republic of singapore[2023] sghc(i) 21originating application no 6 of 2023between(1)dbo(2)dbq(3)dbs(4)dbu… applicants and(1)dbp(2)dbr(3)dbt(4)dbv(5)dbw… respondentsgrounds of decision[arbitration — award — recourse against award — setting aside]this judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.dbo and others vdbp and others [2023] sghc(i) 21singapore international commercial court — originating application no 6 of 2023chua lee ming j, thomas bathurst ij and zhang yongjian ij21 august 2023 23 november 2023 chua lee ming j (delivering the judgment of the court):introduction1 this was an application to set aside a partial award dated 30 january 2023 (the “partial award”) issued by an arbitral tribunal (the “tribunal”) in arbitration proceedings seated in singapore (the “arbitration”). the arbitration was administered by the singapore international arbitration centre (the “siac”) and conducted in accordance with the arbitration rules of the singapore international arbitration centre (6th edition, 1 august 2016) (the “siac rules”). 2 the partial award was made on an application for early dismissal under rule 29 of the siac rules by the respondents in the arbitration (the “aed”). a key question before the tribunal was whether the claimants in the arbitration (who were the borrowers and guarantors under a facility agreement) could rely on the doctrine of frustration (in the context of the covid-19 pandemic) to escape their liabilities to repay moneys due under the facility agreement. the tribunal decided that they could not and granted the aed.3 on 21 august 2023, we dismissed the application to set aside the partial award. the applicants have appealed against our decision. background facts4 on 26 february 2020, the 1st and 2nd applicants and the 1st to 4th respondents entered into a facility agreement (the “fa”). pursuant to the fa, the 2nd to 4th respondents (the “lenders”) granted a term loan facility (the “loan”) to the 1st and 2nd applicants (the “borrowers”). the 1st respondent was the agent and security agent (the “agent”).5 the 3rd and 4th applicants, and the 5th respondent were the guarantors (together, the “guarantors”). 6 the borrowers’ obligations under the fa were secured by (among others) assignments, share pledges, powers of attorney and mortgages (the “security”).7 the loan was taken for the purposes of a construction and development project in the borrowers’ home country (the “project”). the 2nd applicant also owned, operated and managed a shopping mall, also located in the borrower’s home country (the “mall”).8 in early 2020, the covid-19 pandemic (the “pandemic”) struck. throughout 2020, several control orders were issued by the relevant governmental authorities that restricted movement and business activities in the borrowers’ home country. the pandemic adversely affected the sales of units in the project as well as the 2nd applicant’s income from the mall. the borrowers claimed that consequently they were unable to repay the loan when it matured on 26 march 2021.9 sometime in late 2021, the agent and the lenders took over the operation and control of the 5th respondent. the applicants’ position was that the agent and the lenders took over control of the 5th respondent unlawfully.
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  3rd applicant’s 1st affidavit, at para 14 (case management bundle, vol 1, (“1 cmb”) at p 16). 
+
+
+
+10 on 30 november 2021, the lenders commenced restructuring proceedings against the borrowers in the courts of the borrowers’ home jurisdiction (the “restructuring proceedings”). two applications were taken out by the lenders in furtherance of the restructuring proceedings, but both applications were dismissed on the basis that there was an arbitration agreement in the fa.
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  statement of claim in the arbitration, at paras 61–62, 63, 68 (1 cmb 521–524).
+
+
+
+the arbitration proceedings11 the fa contained an arbitration agreement that provided for disputes to be resolved by arbitration in accordance with the siac rules. the arbitration tribunal was to consist of three arbitrators, one nominated by the claimants, one by the respondents and the third by the two arbitrators, failing which the president of the court of arbitration of the siac was to appoint the third arbitrator. the seat of the arbitration was to be singapore.
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  3rd applicant’s 1st affidavit, at pp 210 (1 cmb 219). 
+
+
+
+12 on 6 december 2021, the borrowers served a notice of arbitration on the agent and lenders.
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  3rd applicant’s 1st affidavit, at pp 365–389 (1 cmb 374–398).
+
+
+
+ the agent and lenders will henceforth be referred to collectively as the “arbitration respondents”. 13 on 21 december 2021, the arbitration respondents submitted their response to notice of arbitration.
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  3rd applicant’s 1st affidavit, at pp 391–407 (1 cmb 400–416).
+
+
+
+ the arbitration respondents also applied for the guarantors to be joined as claimants in the arbitration. on 25 march 2022, the court of arbitration of siac granted the application for joinder pursuant to rule 7.4 of the siac rules.
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  partial award, at para 22 (1 cmb 795).
+
+
+
+ the borrowers and guarantors will henceforth be referred to collectively as the “arbitration claimants”. 14 the arbitration tribunal (the “tribunal”) was duly constituted on 26 april 2022, comprising mr govindarajalu asokan, sir bernard eder and mr vk rajah sc (as presiding arbitrator (the “chairman”), after he was jointly nominated by mr asokan and sir eder).15 on 4 july 2022, the arbitration claimants filed their statement of claim.
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  3rd applicant’s 1st affidavit, at pp 481–531 (1 cmb 490–540).
+
+
+
+ essentially, the arbitration claimants claimed that the fa had been discharged by frustration and that consequently, the arbitration respondents had no rights under the fa or the security documents. the arbitration claimants’ case was that the fa was discharged by frustration based on the following:
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  partial award, at para 156 (1 cmb 828–829).
+
+
+
+(a) it was an express term of the fa that the repayment of the loan would be from a specific source of funds, ie, from the sale of units in the project. the express term could not be performed because of the pandemic and/or the various laws, governmental decrees and orders passed as a result of the pandemic (the “frustrating event”).(b) it was a condition (implied or otherwise) that the servicing of the loan was to be sourced from the income of the mall. the condition could not be performed because of the frustrating event.(c) alternatively, there was a condition and/or implied term that could not be performed because of the frustrating event. one such implied term was that the servicing of the loan was to be sourced from the income of the mall.(d) the parties had negotiated the fa on the common assumption that the repayment of the loan would be from a specific source of funds, being the moneys from (i) the sales of the units in the project during the term of the fa, and (ii) the income of the mall. the sale of the units did not take place as a result of the frustrating event and the same removed the income from the mall.16 on 15 august 2022, the arbitration respondents filed their defence and counterclaim.
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  3rd applicant’s 1st affidavit, at pp 533–602 (1 cmb 542–611).
+
+
+
+ the arbitration respondents denied that the fa was frustrated and counterclaimed against the arbitration claimants. the arbitration respondents sought, among other things, a declaration that the fa was valid and enforceable, and for payment of the total amount due and payable under the fa.17 on 5 september 2022, the arbitration claimants filed their reply and defence to counterclaim.
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  3rd applicant’s 1st affidavit, at pp 604–660 (1 cmb 613–669).
+
+
+
+ on 26 september 2022, the arbitration respondents filed their reply to the defence to counterclaim.
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  3rd applicant’s 1st affidavit, at pp 662–687 (1 cmb 671–696).
+
+
+
+the aed18 on 18 october 2022, the arbitration respondents filed the aed in which they sought, among other things:
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  3rd applicant’s 1st affidavit, at pp 689–702 (1 cmb 698–711).
+
+
+
+(a) a dismissal of the arbitration claimants’ claim that the fa had been discharged by frustration, and consequently, a dismissal of the arbitration claimants’ other claims and defences;(b) a declaration that the fa was valid and enforceable (save for a determination in due course of the arbitration claimants’ claim that a particular clause in the fa was unenforceable as a “penalty clause”); and(c) an order that the arbitration claimants were jointly and severally liable to the arbitration respondents for all sums due under the fa. 19 the aed was made pursuant to rule 29.1 of the siac rules, which states as follows:29.1 a party may apply to the tribunal for the early dismissal of a claim or defence on the basis that:a. a claim or defence is manifestly without legal merit; orb. a claim or defence is manifestly outside the jurisdiction of the tribunal.20 as stated at [15] above, the arbitration claimants’ case that the fa was frustrated was based on the alleged express term, condition, implied term and/or common assumption. the common thread in all of these was the arbitration claimants’ claim that payment under the fa was to be made only from specific sources of funds.21 the arbitration respondents’ case in the aed was that the arbitration claimants’ arguments on frustration were manifestly without legal merit. in particular, the arbitration respondents submitted that:
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  partial award, at paras 149–153 (1 cmb 823–826). 
+
+
+
+ (a) the doctrine of frustration could not be lightly invoked because of its drastic consequences. changes in economic conditions, financial difficulties or inconveniences or market movements, including the adverse economic impact of covid-19 restrictions, were not frustrating events.(b) the borrowers’ obligation to repay the loan and interest was plainly unconditional. an unconditional payment obligation could not be frustrated; the debtor would be expected to locate an alternative source of funds. under the fa, the parties had expressly allocated to the borrowers the risk of their subsequent inability to repay the loan and interest.(c) there was plainly no scope for the implication of any term/condition as to the availability of a specific source of funds. 22 the arbitration claimants contested the aed. in summary, they submitted that:
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  partial award, at paras 157, 160, 162–164, 168 (1 cmb 829–833).
+
+
+
+(a) the jurisdiction under rule 29.1 was only for the consideration of legal merit; it had to be a purely legal issue. rule 29.1 was intended “only to apply undisputed or genuinely indisputable rules of law to uncontested facts”. the question as to whether the pandemic had caused a contract to be frustrated had to go to trial.(b)  the dispute dealt with the express term, condition, implied term and common assumption as pleaded. the payment obligations were not unconditional and these were issues to be established by a full hearing on the evidence, both oral and written.(c) a multi-factorial approach had to be applied when determining whether a particular contract had been discharged by frustration. such an approach had to delve thoroughly into the disputed facts. under this approach, the determination of frustration of a contract inherently meant there could not be a dismissal under rule 29.1.23 the tribunal heard oral submissions on the aed on 16 december 2022.
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  3rd applicant’s 1st affidavit, at pp 854–1014 (2 cmb 863–1023).
+
+
+
+ during the hearing, the arbitration claimants sought to amend their pleadings for the purposes of the aed to include a pleading that there was a collateral contract to the effect that the funds for repaying the amounts due under the fa would come from the sales of units in the project and the income from the mall (the “collateral contract”). the arbitration respondents did not object to the arbitration claimants’ amendment to the pleadings for the purposes of the aed.24 the tribunal delivered its partial award dated 30 january 2023. the tribunal accepted that it was only in plain and obvious cases where either the claim or the defence was undoubtedly legally unsustainable that the rule 29.1 procedure for early resolution could be properly invoked.
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  partial award, at para 176 (1 cmb 837).
+
+
+
+ the tribunal concluded that, taking the arbitration claimants’ pleaded case at its highest, the arbitration claimants’ claim and defence that the fa had been discharged by frustration was manifestly without legal merit.
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  partial award, at para 179 (1 cmb 838).
+
+
+
+ the tribunal’s reasons may be summarised as follows:(a) the arbitration claimants failed to even begin to establish that the fa required them to make payments only from the income received from sales of units in the project and/or the income of the mall.
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+  partial award, at para 188 (1 cmb 840).
+
+
+
+ a plain reading of the fa did not evince any particular or exclusive requirements that payments must be made only from a specific source of funds.
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+  partial award, at para 189 (1 cmb 841).
+
+
+
+ (b) even if the fa did expressly specify a source of funds for payment, the arbitration claimants would still not succeed in their claim and defence of frustration since they had failed to establish that payment from a specific source of funds was the “foundation” or “essence” of the fa.
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+  partial award, at para 190 (1 cmb 841).
+
+
+
+ while it appeared that the arbitration respondents were expecting repayment of the loan to come from the income received from the project and the mall, the fa did not restrict them from enforcing their rights if repayments from these sources were not forthcoming.
+
+                   21
+
+
+
+
+foot note 21
+
+×
+
+
+
+  partial award, at para 191 (1 cmb 842).
+
+
+
+ the arbitration claimants had been unable to explain why the guarantors were required if the understanding or agreement was that the only source of loan repayment and interest payments was the income from the sale of units in the project and the rental income from the mall.(c) on their pleaded case, taken at its highest, the arbitration claimants had failed to satisfy the test for implying a term that a specific source of funds would be used to repay the loan and pay interest.
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+  partial award, at paras 194 and 196 (1 cmb 843–844).
+
+
+
+ first, in the absence of a source of funds being specified, the fa was still commercially viable, permitting the arbitration claimants to make payments under the fa from the source of choice. second, the implied was not so obvious it went without saying. third, implying the term asserted by the arbitration claimants would be inconsistent with inter alia the express unconditional payment obligations in the fa. (d) the alleged common assumption concerning the source of funds for payment/repayment as pleaded did not suffice to satisfactorily establish that the fa was frustrated; the assumption, on the pleaded facts, was at best no more than an “expectation” by the parties as to the likely sources of repayment.
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+  partial award, at para 200 (1 cmb 845).
+
+
+
+ in any event, a mere common assumption, not amounting to an agreement, which ceased to exist would be insufficient to frustrate the fa.
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+  partial award, at para 202 (1 cmb 846).
+
+
+
+ (e) therefore, even if the pandemic and the resulting restrictions were generally capable of being frustrating events for some contractual situations, they did not frustrate and discharge the fa on the basis of the pleaded circumstances; the fa imposed an unconditional and uncompromising obligation to repay the loan and pay interest.
+
+                   25
+
+
+
+
+foot note 25
+
+×
+
+
+
+  partial award, at para 203 (1 cmb 846).
+
+
+
+(f) the fa could not be discharged by frustration as it had allocated all the risks of the arbitration claimants failing to make payments to the lenders, ie, the alleged frustrating event had already been provided for.
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+  partial award, at paras 207–208 (1 cmb 848–849). 
+
+
+
+(g) the collateral contract could not be made out by the facts relied on by the arbitration claimants in their pleadings; there was simply no factual substratum for this on the basis of all the documentation and submissions.
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+  partial award, at para 233 (1 cmb 857).
+
+
+
+ 25 consequently, the tribunal made the following orders:
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+  partial award, at para 237 (1 cmb 858).
+
+
+
+(a) the arbitration claimants’ claim and defence that the fa had been discharged by frustration, and consequently, that the arbitration respondents had no rights under the fa or the security documents were dismissed.(b) the arbitration claimants’ other claims and defences that fell away in light of the above relief were unenforceable and were dismissed.(c) the fa was valid and enforceable (save for the eventual determination in due course of the arbitration claimants’ claim that a particular clause of the fa was unenforceable as a penalty clause).(d) the arbitration claimants were jointly and severally liable to the arbitration respondents for all sums due under the fa, but excluding any default interest (pending the determination in due course of the arbitration claimants’ claim regarding the alleged penalty clause).the present application26 on 20 march 2023, the applicants applied to the general division of the high court to set aside the partial award pursuant to s 24 of the international arbitration act 1994 (2020 rev ed) (“iaa”) and article 34(2) of the uncitral model law on international commercial arbitration (“model law”). the 5th respondent took a neutral position in the present proceedings.27 on 11 may 2023, the present proceedings were transferred to the singapore international commercial court pursuant to o 23 r 11, read with o 2 r 4, of the singapore international commercial court rules 2021.28 the applicants’ case was that the tribunal breached the rules of natural justice and exceeded its jurisdiction for the following reasons:(a) the tribunal failed to assume the existence of the collateral contract despite:(i) having proceeded with the hearing on the basis that it would be assumed that the collateral contract existed, and the arbitration respondents having acknowledged that the hearing would proceed on this basis;(ii) the arbitration respondents having agreed to assume the truth of the case that repayment of the fa would only be from the proceeds of rental and sale; and(iii) the tribunal being bound to assume the existence of the collateral contract.(b) the tribunal should not have decided that the arbitration claimants’ case on the collateral contract was manifestly without legal merit when the existence of the collateral contract was in dispute.(c) the tribunal should not have decided that the doctrine of frustration did not apply when the applicability of that doctrine involved a legal controversy.the issues29 the issues before us (which the parties had agreed to) were as follows:(a) whether the tribunal proceeded with the hearing of the aed on the basis that it would be assumed that the collateral contract existed, and whether the arbitration respondents acknowledged that the hearing would proceed on this basis.(b) whether the arbitration respondents agreed to assume the truth of the case that the repayment of the facility would only be from the proceeds of rental or sale. (c) whether the tribunal was bound in any event to assume that the collateral contract existed given that the application was for early dismissal.(d) if the answer to either (a) or (c) was yes, whether the tribunal acted in breach of natural justice or in excess of its jurisdiction by finding that there was no factual substratum for the collateral contract.(e) whether the tribunal acted in breach of natural justice and/or in excess of jurisdiction by deciding that the arbitration claimants’ case on the collateral contract was manifestly without legal merit when the existence of the collateral contract was in dispute.(f) whether the tribunal acted in breach of natural justice and/or in excess of jurisdiction by deciding that the doctrine of frustration did not apply when the applicability of the doctrine involved a legal controversy.whether the tribunal proceeded on the basis that it would be assumed that the collateral contract existed, and whether the arbitration respondents acknowledged that the hearing would proceed on this basis30 the applicants relied on certain statements made during the hearing before the tribunal, in particular the following:
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+  applicants’ written submissions, at paras 59 and 61.
+
+
+
+(a) the chairman’s statement to the arbitration claimants’ counsel, mr peter gabriel (“mr gabriel”) that:
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+  transcript, at 147:4–6 (1 cmb 1009).
+
+
+
+mr patton has - - proceeds rightly on the basis that whatever you say in this pleading anyway he has to assume to be correct for these purposes.mr conall patton kc (“mr patton”) was the arbitration respondents’ counsel.(b) the statements by mr patton, to the tribunal that:
+
+                   31
+
+
+
+
+foot note 31
+
+×
+
+
+
+  transcript, at 109:23–110:2 and 128:17–19 (1 cmb 971–972 and 990).
+
+
+
+… those i assume are the high points of his case or points that are pleaded, and we are entirely content that you should assume those are the facts for the purposes of this application and you should decide our application on that basis……… the other thing that we say is that the claimants have pleaded the facts that they rely upon, and we are happy to assume that those are all correct …31 based on the above, the applicants contended that:(a) the tribunal had proceeded with the hearing on the basis that the facts pleaded by the arbitration claimants (including the collateral contract) would have to be assumed in their favour;
+
+                   32
+
+
+
+
+foot note 32
+
+×
+
+
+
+  applicants’ written submissions, at para 59.
+
+
+
+ and(b) the arbitration respondents had confirmed, as a general proposition, that the arbitration claimants’ pleaded case should be assumed to be correct for purposes of the aed.
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+  applicants’ written submissions, at para 61.
+
+
+
+ 32 the respondents disputed the applicant’s contentions.
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+  respondents’ written submissions, at paras 29–31. 
+
+
+
+33 we agreed with the respondents and rejected the applicants’ contention that the tribunal proceeded on the basis that the existence of the collateral contract would be assumed. there was nothing in the transcript of the hearing before the tribunal that supported this contention. what the tribunal (and the arbitration respondents) did assume to be true were the pleaded facts relied on by the arbitration claimants to prove their case on the alleged express term, condition, implied term, common assumption and/or collateral contract. 34 the statements that the applicants relied on had to be looked at in proper context. it was clear to us that the statements by the chairman and mr patton (see [30] above) merely meant that the pleaded facts that the arbitration claimants relied on in support of their case on the alleged express term, condition, implied term, common assumption and/or collateral contract would be assumed to be true. whether those facts could support the arbitration claimants’ case was a different matter altogether. there was no suggestion, acknowledgement or assurance that it would be assumed that the alleged implied term, condition, implied term, common assurance and/or collateral contract existed. on the contrary, the transcript of the hearing before the tribunal demonstrated otherwise.35 first, sir eder remarked to mr gabriel that the latter would “have to identify between whom [the collateral contract] was reached and when”.
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+  transcript, at 148:20–23 (1 cmb 1010).
+
+
+
+ the chairman pointed out to mr gabriel that he had not “pleaded the facts on which the implied term can be based”.
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+  transcript, at 81:2–4 (1 cmb 943).
+
+
+
+ further, the chairman specifically sought confirmation from mr gabriel that the arbitration claimants’ case was based “on the facts that [he] had disclosed to [the tribunal]” and that there were “no more facts”, and mr gabriel confirmed that there were “no more facts”.
+
+                   37
+
+
+
+
+foot note 37
+
+×
+
+
+
+  transcript, at 156:3–11 (1 cmb 1018).
+
+
+
+ the focus on the underlying facts would have been unnecessary if the alleged express term, condition, implied term, common assumption and/or collateral contract were already assumed to be true.36 second, during the oral hearing before the tribunal, there was nothing from mr gabriel that suggested that he was proceeding on the basis that the alleged express term, condition, implied term, common assumption and/or collateral contract would be assumed to exist. instead, mr gabriel acknowledged the distinction between the agreement and the facts that established the existence of the agreement. in his oral submissions to the tribunal, he referred to “the essential facts that … show the agreement that the parties had arrived at.”
+
+                   38
+
+
+
+
+foot note 38
+
+×
+
+
+
+  transcript, at 152:18–20 (1 cmb 1014).
+
+
+
+37 third, the context of the first of mr patton’s statements (see [30(b)] above) was as follows:
+
+                   39
+
+
+
+
+foot note 39
+
+×
+
+
+
+  transcript, at 109:8–110:2 (1 cmb 971).
+
+
+
+now mr gabriel took you to some passages in the statement of claim …at page 244 …, he took you to the email … in which someone on behalf of the lenders said … that:“the financing is now predicated on the successful completion of [the project] …”and he also took you at page 249 to a consultancy agreement where a project monitor was appointed on behalf of the lenders, and those i assume are the high points of his case or points that are pleaded, and we are entirely content that you should assume those are the facts for the purpose of this application and you should decide our application on that basis … mr patton’s statement was made with reference to two of the underlying facts that mr gabriel had referred to. mr patton certainly did not acknowledge or concede that the alleged express term, condition, implied term, common assumption and/or collateral contract had to be assumed to be true.38 fourth, with respect to the second of mr patton’s statements (see [30(b)] above), the complete statement made by mr patton was as follows:
+
+                   40
+
+
+
+
+foot note 40
+
+×
+
+
+
+  transcript, at 128:17–22 (1 cmb 990).
+
+
+
+the other thing that we say is that the claimants have pleaded the facts that they rely upon, and we are happy to assume that those are all correct, and if you assume all of those facts, even so, there is nothing in that factual matrix that would enable you to imply the term. …it was clear from the above that mr patton had not conceded that the implied term alleged by the arbitration claimants would be assumed to be correct. all that he accepted as true for purposes of the aed were the underlying facts relied upon by the arbitration claimants to support the alleged implied term.39 fifth, mr patton’s statements to the tribunal were explicit:
+
+                   41
+
+
+
+
+foot note 41
+
+×
+
+
+
+  transcript, at 155:24–156:2, 156:19–157:2 (1 cmb 1017–1019).
+
+
+
+mr patton: … i just want to make clear that what i am not agreeing is an allegation that there was an agreement that the loan would only be repayable from a particular source of funds.…mr asokan: mr gabriel, let me just come on board. you are saying this is a contract collateral to the facility agreement?mr gabriel: that is right.chairman: okay.mr patton: well, that i don’t accept because i don’t accept that any facts have been identified which would enable it to be said that there was an agreement that that would be the only basis for repayment. …the statements above were explicit and clear. the arbitration respondents did not agree that the existence of the collateral contract would be assumed. they also did not agree that there was any agreement that the amounts due under the fa would only be repaid from specified sources of funds. it was therefore clear from the transcript that the arbitration respondents did not agree that the existence of the alleged express term, condition, implied term, common assumption or collateral contract would be assumed. whether the arbitration respondents agreed to assume the truth of the case that the repayment of the facility would only be from the proceeds of rental or sale40 the applicants referred to the following exchanges:
+
+                   42
+
+
+
+
+foot note 42
+
+×
+
+
+
+  transcript, at 153:2–8, 153:25–154:9, 155:2-56:2, 157:13–158:7 (1 cmb 1015–1020). 
+
+
+
+ chairman: okay, mr patton. so perhaps you should start off by telling us whether for the purposes of this application you are prepared to accept all the additional facts that mr gabriel has adverted to shall be deemed for the purposes of this application to be part of the pleadings, that we don’t need to go through a formal application? you waive that?…mr patton: yes, sir. so as i understand it, the amendment which is sought to be made for the purposes of this application … i think the essence of it is that the parties were agreed, or agreed that the source of funds to service the interest was from the rental, and the source of the principal is the sale of the residences, and if that is the agreement that is being alleged, then for the purpose of this application we are happy to accept that you should proceed on that basis as well. ……chairman: … mr gabriel has said these are the additional facts and changes that he would like to make to his pleadings … we are asking you whether you would agree that these facts, for the purposes of this application only, be deemed to be part of the claimants’ pleadings so as to dispense with the need for the formal amendment of the pleadings. is that agreed?mr patton: yes, that is agreed … i just want to make clear that what i am not agreeing is an allegation that there was an agreement that the loan would only be repayable from a particular source of funds.…mr patton: … but the facts that have been suggested by mr gabriel i am content for those to be taken into account by the tribunal and – – but the reason for that or the consequence of that is we say that makes absolutely no difference to the basis for our application because whether you call it a common assumption or whether you call that an agreement, whatever the label that you apply to it, makes no difference to the substance of the matter because in the end all that is being said is that it was agreed or understood that these particular source of monies would be the source for the borrower to repay.but that doesn’t answer the question as to what is the contractual obligation to repay and who is under the contractual risk if that source doesn’t materialise. the answer to that question is found on the express terms of the written facility agreement and it is on that basis for the reasons i have already given that we say there is no room for the doctrine of frustration to apply.41 the applicants submitted that the above extracts from the transcript of the hearing before the tribunal showed that the arbitration respondents’ counsel specifically confirmed to the tribunal that the collateral contract should be assumed to be correct.
+
+                   43
+
+
+
+
+foot note 43
+
+×
+
+
+
+  applicants’ written submissions, at para 63. 
+
+
+
+42 in our view, the applicants’ submission was wholly unmeritorious. it was clear that the arbitration respondents only agreed to the arbitration claimants’ case on the collateral contract being deemed to be part of the pleadings without a formal amendment application. there was no basis for the applicants’ submission that the arbitration respondents also agreed that the collateral contract should be assumed to exist. on the contrary, it must have been clear to the arbitration claimants that the existence of the collateral contract was disputed. mr patton had expressly stated that he did not accept that there was a contract collateral to the fa; in addition, his express denial of any agreement as to repayment only from specified sources of funds made it clear that the arbitration respondents did not agree that the existence of the alleged express term, condition, implied term, common assumption or collateral contract would be assumed (see [39] above).whether the tribunal was bound to assume that the collateral contract existed 43 the applicants submitted that the tribunal was bound to assume that the collateral contract existed because the threshold under rule 29.1 of the siac rules was that of “manifestly without legal merit”. the applicants argued that the following principles were applicable:
+
+                   44
+
+
+
+
+foot note 44
+
+×
+
+
+
+  applicants’ written submissions, at paras 72–74.
+
+
+
+(a) first, a tribunal hearing an aed should not delve into areas of disputed facts. (b) second, the specific inclusion of the adjective “legal” in the threshold of “manifestly without legal merit” made clear that tribunals were not supposed to decide contested factual matters and limited the tribunal’s jurisdiction to only clear and obvious cases that were legally unsustainable. (c) third, to the extent that a tribunal had to look at the facts for the purposes of deciding whether a claim was manifestly without legal merit, it should assume contested facts in favour of the resisting party.44 we agreed with the respondents that the tribunal was not bound to assume the existence of the collateral contract. it only had to assume the existence of the facts alleged by the arbitration claimants in support of the contention that the collateral contract existed. the tribunal did assume the existence of those facts. it found that the collateral contract “[could not] be made out by the facts relied on by the [arbitration] claimants in their pleadings.”
+
+                   45
+
+
+
+
+foot note 45
+
+×
+
+
+
+  partial award, at para 233 (1 cmb 857).
+
+
+
+ it bears emphasis that the factual premises supporting the existence of the alleged collateral contract were distinct from the existence of the collateral contract itself. 45 the applicants referred us to cbs v cbp [2021] 1 slr 935 (“cbs v cbp”). in that case, a seller of coal assigned its trade debts to the appellant, a bank. the buyer refused to pay the bank for a shipment of coal, stating that (a) the full quantity of coal had not been delivered, and (b) there had been a subsequent agreement with the seller to pay less for the coal. the bank commenced an arbitration pursuant to the rules of the singapore chamber of maritime arbitration (3rd ed, 2015) (the “scma rules”). the buyer requested a hearing for witnesses to give evidence regarding the alleged agreement to reduce the price of the coal. the arbitrator directed the buyer to submit its proposed witness statements so that he could decide if they had substantive value before he would convene a hearing. the buyer refused and insisted on its right to call witnesses without such a condition. the arbitrator convened a hearing for oral submissions only and the buyer withdrew from further participation in the arbitration. the arbitrator allowed the bank’s claim.46 the court of appeal upheld the high court’s decision setting aside the award for breach of natural justice. the court of appeal agreed with the high court that under the scma rules, where a party requested a hearing of oral evidence from witnesses, the tribunal was obliged to allow it (subject to certain limits) and could not decide to convene a hearing only for oral submissions (at [54]–[55]). the court of appeal found that the arbitrator’s denial of the entirety of the witness evidence from the buyer constituted a breach of natural justice (at [79]).47 during oral submissions, the applicants submitted that the present case was similar to cbs v cbp in that the hearing of the aed was based on legal submissions and the arbitration claimants were denied the opportunity to adduce witness testimony. we rejected the applicants’ submission. in cbs v cbp, the buyer had requested a hearing for witnesses to give evidence on what transpired at a meeting at which it was alleged there was a subsequent agreement to reduce the price of the coal. in other words, the underlying facts supporting the alleged subsequent agreement were in dispute. the present case was very different. the tribunal’s conclusion and reasons did not depend on any disputed underlying facts; the tribunal assumed the underlying facts as pleaded (see [24] above). there was no necessity for witness testimony to prove the underlying facts. 48 we were also of the view that in any event, even if the “manifestly without legal merit” threshold under rule 29.1 of the siac rules required the tribunal to assume that the collateral contract existed, the tribunal’s failure to do so would have been an error of law, which was not a ground to set aside the partial award. it is trite that errors of law per se would not amount to a breach of natural justice (blc and others v blb and another [2014] 4 slr 79 at [100]).whether the tribunal acted in breach of natural justice and/or in excess of jurisdictionthe lawbreach of natural justice49 under s 24(b) of the iaa, the court may set aside the award of the arbitral tribunal if a breach of the rules of natural justice occurred in connection with the making of the award by which the rights of any party have been prejudiced. article 34(2)(a)(ii) of the model law also provides that the award may be set aside on the basis that the party was unable to present his case. these two bases (ie, s 24(b) of the iaa and article 34(2)(a)(ii) of the model law) are coextensive (see adg v adi [2014] 3 slr 481 at [118]; china machine new energy corp v jaguar energy guatemala llc and another [2020] 1 slr 695 (“china machine”) at [86]–[104]). 50 for the applicants to make out their case that there had been a breach of natural justice, they had to establish which rule of natural justice was breached, how that rule was breached, in what way the breach was connected to the making of the award, and how the breach prejudiced their rights (soh beng tee & co pte ltd v fairmount development pte ltd [2007] 3 slr(r) 86 (“soh beng tee”) at [29]).51 there are two pillars of natural justice: the first is that the arbitrator must be disinterested and unbiased; the second is that parties must be given adequate notice and opportunity to be heard (soh beng tee at [43]). the right to be heard requires each party to have a “full opportunity” to present its case, subject to considerations of reasonableness and fairness. the result is that what constitutes a “full opportunity” is a contextual inquiry of whether the proceedings were conducted in a manner which was fair, and the approach a court should take is to ask itself if what the tribunal did (or decided not to do) falls within the range of what a reasonable and fair-minded tribunal in those circumstances might have done: china machine at [104].scope of parties’ submission to arbitration52 under article 34(2)(a)(iii) of the model law, the court can set aside the award if the award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration or contains decisions on matters beyond the scope of the submission to arbitration. 53 to establish a breach of article 34(2)(a)(iii), a two-stage enquiry should be undertaken (crw joint operation v pt perusahaan gas negara (persero) tbk [2011] 4 slr 305 at [30] (“crw joint operation”)). first, the ascertainment of the matters that were within the scope of submission to arbitration. second, whether the award touched on such matters, or whether it fell outside the scope of the arbitration. 54 as noted by the court of appeal in crw joint operation at [33], there is a crucial distinction between the erroneous exercise by an arbitral tribunal of an available power vested in it (which would amount to no more than a mere error of law) and the purported exercise by the arbitral tribunal of a power which it did not possess. only in the latter situation would an arbitral award be liable to be set aside. this is because an issue that is within the scope of submission to arbitration does not go outside the scope simply because the arbitral tribunal comes to a wrong conclusion on it (quarella spa v scelta marble australia pty ltd [2012] 4 slr 1057 at [54]). the tribunal’s finding that there was no factual substratum for the collateral contract55 in para 233 of the partial award, the tribunal said:
+
+                   46
+
+
+
+
+foot note 46
+
+×
+
+
+
+  1 cmb 857.
+
+
+
+… in the tribunal’s view, the belated introduction of collateral agreement at the eleventh hour during the oral hearing cannot be made out by the facts relied on by the claimants in their pleadings. there is simply no factual substratum for this on the basis of all the documentation and submissions that have been placed on record todate. … any notion that a collateral agreement existed is manifestly untenable and entirely inconsistent with the express written terms of the fa as well as the claimants’ arguments todate of the existence of only “a common assumption.[emphasis in original]56  the applicants’ case was that the tribunal’s finding that there was no factual substratum for the collateral contract was in breach of natural justice or in excess of its jurisdiction. however, this was predicated on their submissions that:
+
+                   47
+
+
+
+
+foot note 47
+
+×
+
+
+
+  applicants’ written submissions, at paras 79, 82 and 85.
+
+
+
+(a) the tribunal proceeded on the basis that it would be assumed that the collateral contract existed, and the arbitration respondents acknowledged that the hearing would proceed on this basis; and/or (b) the tribunal was bound to assume that the collateral contract existed. 57 as we had rejected both of the applicants’ submissions in (a) and (b) above (see [33] and [44] above), the applicants’ case failed. whether the tribunal should have decided that the applicants’ case on the collateral contract was manifestly without legal merit when its existence was in dispute58 the applicants submitted that:(a) the arbitration claimants were deprived of their right to present their case because the tribunal summarily dismissed their claim and defence at an early stage (ie, the stage of the aed), despite there being a critical disputed fact (ie, whether the collateral contract existed).
+
+                   48
+
+
+
+
+foot note 48
+
+×
+
+
+
+  applicants’ written submissions, at paras 77–78.
+
+
+
+ (b) the tribunal acted in excess of jurisdiction by:
+
+                   49
+
+
+
+
+foot note 49
+
+×
+
+
+
+  applicants’ written submissions, at paras 62, 81–82.
+
+
+
+(i) failing to act in accordance with the agreed procedure in that the tribunal failed to assume the existence of the collateral contract; and(ii) granting an early dismissal in a case where the arbitration claimants’ case was not “manifestly without legal merit”. 59 we rejected the applicants’ submissions. it was clear that there was no breach of natural justice. the arbitration claimants were permitted to amend their statement of claim to include the pleading on the collateral contract without a formal application to amend, and they had every opportunity to argue their case based on the alleged collateral contract. as for the applicants’ submission that the tribunal proceeded with the hearing of the aed on the basis that the collateral contract would be assumed to exist, we had rejected that submission (see [33] above).60 it was also clear that the tribunal had not acted in excess of its jurisdiction. first, the tribunal was not bound to assume the existence of the collateral contract. therefore, there was no agreed procedure that it would do so. second, the mere fact that the existence of the collateral contract was in dispute did not mean that therefore the tribunal could not dismiss the collateral contract claim at the stage of the aed. as the tribunal noted, the rule 29.1 procedure for early resolution could be properly invoked in plain and obvious cases where either the claim or the defence was undoubtedly legally unsustainable.
+
+                   50
+
+
+
+
+foot note 50
+
+×
+
+
+
+  partial award, at para 176 (1 cmb 837).
+
+
+
+ 61 in this case, the tribunal found that there was no factual substratum for the alleged collateral contract on the basis of all the documentation and submissions, and that any notion that the collateral contract existed was manifestly untenable and entirely inconsistent with the express written terms of the fa as well as the arbitration claimants’ arguments of the existence of only “a common assumption” (see [55] above).62 the applicants’ submission that the tribunal had exceeded its jurisdiction by granting early dismissal when their case was not “manifestly without legal merit” was wholly unmeritorious. there was no suggestion that the tribunal applied the wrong test under rule 29.1. the substance of the applicants’ submission was simply that they disagreed with the tribunal’s application of the “manifestly without legal merit” test to the facts of the case. obviously, this was not a ground for challenging the partial award. whether the tribunal was correct or wrong in its conclusion was not a ground for challenging the partial award. whether the tribunal should have decided that the doctrine of frustration did not apply when its applicability involved a legal controversy63 the applicants submitted that:
+
+                   51
+
+
+
+
+foot note 51
+
+×
+
+
+
+  applicants’ written submissions, at paras 89–90.
+
+
+
+(a) their claim and defence of frustration was not “manifestly without legal merit” because there were conflicting legal authorities on whether the fa could be discharged by frustration in light of the covid-19 pandemic and the surrounding circumstances; and(b) by not affording the arbitration claimants the opportunity to make submissions on the applicable law with reference to the evidence taken at a full hearing, the tribunal acted in breach of natural justice. 64  we agreed with the respondents that there was no breach of natural justice. 65 with respect to the conflicting authorities on the applicability of frustration, the arbitration claimants had the opportunity to and did make submissions on the relevant authorities and on whether the doctrine of frustration applied to the fa in the circumstances of the case. the fact that there were conflicting authorities on this issue did not mean that the tribunal could not decide (at the stage of the aed) that the arbitration claimants’ case on frustration was manifestly without legal merit. again, whether the tribunal’s view of the law was correct or not was irrelevant; at most, it would have been an error of law, which was not a ground for setting aside the partial award.66 the applicants’ complaint was that the arbitration claimants were denied the opportunity to make their submissions with reference to evidence taken at a full hearing. in our view, this too did not give rise to any breach of natural justice. in rejecting the arbitration claimants’ claim that the fa was frustrated, the tribunal had proceeded on the basis that the underlying pleaded facts were true. in the circumstances, there was no reason for further evidence at a full hearing. the applicants’ complaint had no merit. conclusion 67  for the above reasons, we dismissed the application. we ordered the applicants to pay costs to the 1st to 4th respondents fixed at $113,000 and disbursements fixed at $1,670.34. chua lee mingjudge of the high courtthomas bathurstinternational judgezhang yongjianinternational judgereuben gavin peter and hannah chua (dentons rodyk & davidson llp) for the applicants;ong tun wei danny, bethel chan ruiyi, mazie tan and yoong joon wei, aaron (setia law llc) for the first to fourth respondents;zhuo jiaxiang and leo zhi wei (providence law asia llc) for the fifth respondent.

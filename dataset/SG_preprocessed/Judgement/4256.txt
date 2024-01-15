@@ -1,0 +1,1718 @@
+in the court of appeal of the republic of singapore[2018] sgca 27civil appeal no 46 of 2018betweenjtrust asia pte ltd… appellant and(1)group lease holdings pte ltd(2)mitsuji konoshita(3)cougar pacific pte ltd… respondents judgment[civil procedure] — [mareva injunctions][civil procedure] — [interlocutory appeals] — [adducing fresh evidence]this judgment is subject to final editorial corrections approved by the court and/or redaction pursuant to the publisher’s duty in compliance with the law, for publication in lawnet and/or the singapore law reports.jtrust asia pte ltdvgroup lease holdings pte ltd and others [2018] sgca 27court of appeal — civil appeal no 46 of 2018steven chong ja and quentin loh j16 april 20181 june 2018 judgment reserved.steven chong ja (delivering the judgment of the court):introduction1 mareva injunctions occupy a significant role in modern commercial litigation due to their powerful effect, extraterritorial reach, and correspondingly, potential for abuse. while the court’s jurisdiction to grant mareva relief is well established, as are the basic principles that govern its exercise, the variety of equitable considerations which necessarily feature in any proper assessment of whether such relief should be granted continues to raise questions which probe at the boundaries of the court’s discretion to grant it. this appeal is concerned with a number of those questions, the principal one being whether the presence of a collateral or ulterior purpose in seeking mareva relief is sufficient to deny a plaintiff such relief even if he has established a good arguable case on his claim and demonstrated a real risk that the defendant will dissipate his assets to frustrate any eventual judgment.2 the appellant, jtrust asia pte ltd (“jtrust”), has brought an action against the respondents in the high court in the tort of conspiracy, alleging that the respondents conspired to defraud jtrust of its investment in the parent company of the first respondent. the respondents are alleged to have conspired to facilitate the making of sham loans by the first respondent to certain borrowers (namely, the third to seventh defendant, the third defendant being the third respondent in this appeal), who then paid the interest on those loans using the loan principals under a round-tripping scheme. this artificially inflated the operating results of the parent company, which jtrust claims misled it into investing in the parent company. pursuant to this action, jtrust applied for ex parte and obtained a mareva injunction against the respondents. the respondents later successfully applied to set aside the mareva injunction before the high court judge (“the judge”), whose decision is reported at jtrust asia pte ltd v group lease holdings pte ltd and others [2018] sghc 38 (“the judgment”). jtrust now appeals against that decision.3 having carefully considered all the evidence adduced and the parties’ submissions, we have decided to allow jtrust’s appeal. we reinstate the domestic mareva injunctions that were granted against all three respondents, and expand the injunctions against the first and third respondents to worldwide mareva injunctions, in the terms proposed by jtrust. we turn now to explain our reasons, beginning with the factual background, which we will describe with some granularity because it is of crucial importance in examining whether the two principal requirements for the grant of mareva relief, namely, a good arguable case on the claim and a real risk that the defendant will dissipate his assets, have been made out. background parties to the dispute4 jtrust is a company incorporated in singapore which is in the investment business. its managing director and ceo is mr nobuyoshi fujisawa, and its other director is mr shigeyoshi asano. both of them are japanese nationals. jtrust is wholly owned by a japanese public company called jtrust co, ltd (“jtrust japan”).5 the first respondent, group lease holdings pte ltd, is a company also incorporated in singapore. it is wholly owned by a thai public company called group lease public company limited. like the judge below, we shall refer to these two companies as “group lease singapore” and “group lease thailand” respectively. both are principally in the business of hire purchase financing for motorcycles.
+
+                   1
+
+
+
+
+foot note 1
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) tab 9, p 47 at para 3.1.
+
+
+
+ group lease singapore has four directors, including mr mitsuji konoshita, who is the second respondent in this appeal, and mr tatsuya konoshita, who is his brother and is also a director of group lease thailand. to avoid confusion, we shall refer to the two brothers as mr konoshita and mr tatsuya respectively.6 mr konoshita is a japanese national and a singapore permanent resident. he was chairman of group lease thailand until october 2017, when he relinquished his office after the publication of an incriminating news release by the securities and exchange commission of thailand (“the commission”), which is the regulatory body in thailand that oversees listed companies there. after mr konoshita stepped down, mr tatsuya assumed his office.7 the third respondent, cougar pacific pte ltd (“cougar”), is a company incorporated in singapore. it has the same registered address as group lease singapore. its sole shareholder is a company incorporated in luxembourg called pacific opportunities holdings s.a.r.l. (“pacific”). pacific is owned by mr tep rithivit, a cambodian businessman. he was from august 2015 to end 2017 a director of cougar. he was also a former director of group lease thailand’s subsidiary in cambodia, gl finance plc. the current director of cougar is one mr khith sipin, who appears to be mr rithivit’s business associate.
+
+                   2
+
+
+
+
+foot note 2
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a), tab 18 at p 207.
+
+
+
+jtrust’s casejtrust invests in group lease thailand8 between march 2015 and september 2017, jtrust made a number of investments in group lease thailand. during this time, mr konoshita was chairman of the company, and was also one of its directors. group lease thailand filed accounts every year and every quarter, and before deciding on its investments, jtrust reviewed those accounts and relied on their accuracy.9 in march 2015, jtrust invested us$30m in group lease thailand under an investment agreement which provided that jtrust would subscribe to us$30m worth of group lease thailand’s convertible debentures.
+
+                   3
+
+
+
+
+foot note 3
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) tab 17, p 163 at para 21.
+
+
+
+ jtrust completed the subscription in may 2015. in december 2015, it exercised its right to convert the debentures into shares at thb 10 per share.
+
+                   4
+
+
+
+
+foot note 4
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) tab 17, p 163 at para 22.
+
+
+
+ this gave jtrust 98.1m shares in group lease thailand, which was 6.43% of the company’s shareholding. in june 2016, jtrust invested a further us$130m in group lease thailand under a second, similar investment agreement,
+
+                   5
+
+
+
+
+foot note 5
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) tab 17, p 163 at para 23.
+
+
+
+ but has yet to convert the debentures into shares. if jtrust elects not to do so, it is entitled to be repaid its investment in 2021. in december 2016, jtrust invested a further us$50m in group lease thailand under a third, similar investment agreement
+
+                   6
+
+
+
+
+foot note 6
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) tab 17, p 164 at para 25.
+
+
+
+ and has likewise not converted the debentures into shares. if it chooses not to do so, it is entitled to be repaid its investment in 2020. a fourth set of investments was made between march and september 2017 which we shall mention below. the stock exchange of thailand requests information10 on 9 march 2017, the stock exchange of thailand (“the exchange”) issued a public notice to group lease thailand, requiring it to provide to its investors information on loans that it had extended to two sets of borrowers.
+
+                   7
+
+
+
+
+foot note 7
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) at tab 6.
+
+
+
+ the first set is referred to in these proceedings as the “singapore borrowers”. they comprise cougar, pacific, mr rithivit, and a brazilian company called kuga reflorestamento ltda (“kuga”), which like cougar is also wholly owned by pacific (and, ultimately, by mr rithivit). the second is referred to as the “cyprus borrowers”. they comprise four cyprus companies who constitute the fourth to the seventh defendants in the present conspiracy action commenced by jtrust. we shall refer to this action as the “conspiracy action” and to the singapore and cyprus borrowers collectively as “the borrowers”.11 on 13 march 2017, group lease thailand responded to the exchange’s notice by issuing a clarificatory note which contained various assurances.
+
+                   8
+
+
+
+
+foot note 8
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) at tab 7.
+
+
+
+ in the note, group lease thailand stated that it had loaned approximately us$56.3m to the singapore borrowers from may 2015 to january 2017
+
+                   9
+
+
+
+
+foot note 9
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a), tab 7 at pp 34–35.
+
+
+
+ and approximately us$39.5m to the cyprus borrowers from september 2015 to december 2016.
+
+                   10
+
+
+
+
+foot note 10
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a), tab 7 at pp 35–38.
+
+
+
+ group lease thailand stated that the singapore borrowers and the cyprus borrowers were each part of a well-established group of companies owned respectively by a japanese family and a cambodian family.
+
+                   11
+
+
+
+
+foot note 11
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a), tab 7 at pp 27–28.
+
+
+
+ group lease thailand also explicitly disclaimed any directorship of or ownership in either set of borrowers, but noted that some of them or their affiliates owned shares in group lease thailand.12 on the same day group lease thailand’s clarificatory note was released, jtrust purchased approximately 8.1m units of warrants from group lease thailand for about thb 34.8m.
+
+                   12
+
+
+
+
+foot note 12
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) tab 17, pp 164–165 at para 27. 
+
+
+
+ jtrust later sold all but 500,000 of those units, which it still holds. from april to september 2017, jtrust purchased 24m shares in group lease thailand for approximately thb 492.5m.the securities and exchange commission of thailand issues a news release13 the next significant development occurred seven months later, on 16 october 2017, when the commission published the news release that we have referred to at [6] above. the commission stated that they had found that group lease singapore in 2016 had, under mr konoshita’s directions, issued loans totalling us$54m to four registered companies in cyprus (ie, the cyprus borrowers) and to a singapore company (ie, cougar), and that mr konoshita was the “controller and ultimate benefactor” of all of these companies.
+
+                   13
+
+
+
+
+foot note 13
+
+×
+
+
+
+  appellant’s case at para 23; appellant’s core bundle vol ii (part a) at p 39.
+
+
+
+ the commission found that this “contradicted” the information that group lease thailand had provided in the clarificatory note of 13 march 2017.
+
+                   14
+
+
+
+
+foot note 14
+
+×
+
+
+
+  appellant’s case at para 24; appellant’s core bundle vol ii (part a) at p 39.
+
+
+
+ the commission went on in the news release to state that the principal in the loans had been used by the borrower companies to repay the interest on those loans to group lease singapore. that interest was recorded as income in group lease singapore’s 2016 financial statements, which was in turn a “fabrication of accounting records and exaggeration of [group lease thailand’s] operating results”.
+
+                   15
+
+
+
+
+foot note 15
+
+×
+
+
+
+  appellant’s case at para 23; appellant’s core bundle vol ii (part a) at p 39.
+
+
+
+ as a result, the commission said, it had decided to lodge a criminal complaint against group lease thailand and had banned mr konoshita from occupying directorships in thai companies.14 after the commission’s news release, ernst & young, who was the independent auditor of group lease thailand and its subsidiaries, issued on 13 november 2017 a “report on review of interim financial information” to the shareholders of group lease thailand.
+
+                   16
+
+
+
+
+foot note 16
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) at tab 9.
+
+
+
+ this report, in the light of the news release, revises group lease thailand’s 2015, 2016, 1q2017 and 2q2017 profits and net assets, stating for that purpose that profits for 2015 and 2016 had to be revised downwards by 30% and 45% respectively.
+
+                   17
+
+
+
+
+foot note 17
+
+×
+
+
+
+  appellant’s case at para 39.
+
+
+
+ the report also states that if the commission’s allegations are true, then the relevant past financial statements would “have to be actively corrected and revised with the now known fraud which is indicative of wholesale-fraudulent misrepresentation in the past of the loans granted by [group lease thailand] to the borrowers in cyprus and singapore”.
+
+                   18
+
+
+
+
+foot note 18
+
+×
+
+
+
+  appellant’s case at para 39; appellant’s core bundle vol ii (part a) tab 9, p 44 at para (e). 
+
+
+
+ 15 jtrust claims that during this time, it “tried to make sense of what happened and explored its options for potential recovery”.
+
+                   19
+
+
+
+
+foot note 19
+
+×
+
+
+
+  appellant’s case at para 27. 
+
+
+
+ one option was to discuss with mr konoshita the possibility of integrating jtrust and group lease thailand’s parent company in japan, wedge holdings. this was explored, but negotiations for that purpose by mid-december 2017 had not reached any landing. jtrust asserts, in particular, that mr konoshita asked for more time, but later “dropped out of touch after 28 november 2017”, after which his brother mr tatsuya carried on the correspondence. eventually, jtrust came to the view that group lease thailand was simply “engaging in delaying tactics”,
+
+                   20
+
+
+
+
+foot note 20
+
+×
+
+
+
+  appellant’s case at para 29.
+
+
+
+ and decided that it had to take a decision for which it could give an account to its shareholders.jtrust investigates and sues16 jtrust then instructed two consultancy firms, control risks group (s) pte ltd (“control risks”) and matson, driscoll & damico pte ltd (“mdd”), to investigate the ownership and profile of group lease singapore’s borrowers and the nature of the loans. two expert reports were produced, one by mr charles warren of control risks dated 22 december 2017 (“the warren report”)
+
+                   21
+
+
+
+
+foot note 21
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) at tab 18.
+
+
+
+ and the other by mr iain potter of mdd also dated 22 december 2017 (“the potter report”).
+
+                   22
+
+
+
+
+foot note 22
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) at tab 19.  
+
+
+
+17 the reports state that group lease singapore’s loans to the singapore and cyprus borrowers served no discernible commercial purpose.
+
+                   23
+
+
+
+
+foot note 23
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a), tab 18 at p 207.
+
+
+
+ there was little information to suggest that these borrowers had commercial activities at the time the loans were made. the reports also state that group lease singapore’s real reason for extending loans to the singapore and cyprus borrowers was questionable because these companies had been incorporated just months before millions of dollars were loaned to them.
+
+                   24
+
+
+
+
+foot note 24
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) tab 19, p 244 at para 3.7.
+
+
+
+18 the potter report, in particular, states the following:(a) it was very unlikely that the loans were entered into on a commercial arms’ length basis, given (i) the absence of a commercial rationale for the borrowers to enter into loans that had very high interest rates (of 14.5% or 25%); (ii) the commission’s finding, indicated in the news release of 16 october 2017, that the cyprus borrowers and cougar were “controlled” by mr konoshita; and (iii) group lease thailand’s ability to obtain early repayment of the loans.
+
+                   25
+
+
+
+
+foot note 25
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) tab 19, p 246 at paras 3.16.
+
+
+
+(b) it was very likely that the interest repayments received by group lease singapore were being made from the capital that had been loaned by group lease singapore to the borrowers, unless the borrowers had been able to put the loan funding they had received into investments which generated returns in excess of 25% annually, but that was unlikely because there was no information to suggest that they had commercial activities.
+
+                   26
+
+
+
+
+foot note 26
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) tab 19, p 246 at para 3.17.
+
+
+
+ in other words, a round-tripping scheme was in place.(c) after the commission’s news release, group lease thailand’s management decided to account for a provision equal to the remaining balance of the loan receivables and accrued interest as of 30 september 2017, which was approximately us$65m. this meant that group lease thailand had recognised that they had suffered a loss of that amount. this fact indicated that the true nature of the loans was a series of interest-free loans with large portions of the capital being forgiven.
+
+                   27
+
+
+
+
+foot note 27
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) tab 19, pp 248–249 at paras 4.7–4.8.
+
+
+
+19 considering that group lease thailand had to recognise an irrecoverable loss of us$65m on the loans it had extended to the singapore and cyprus borrowers, and considering that its auditor, ernst & young, had to revise its declared profits for 2015 and 2016 downwards by 30% and 45% respectively in the light of the commission’s news release (see [14] above), group lease thailand did not appear to be the successful profit-making company that jtrust had invested in.20 on the footing of this and other information, jtrust on 26 december 2017 brought the conspiracy action against seven parties, comprising group lease singapore, mr konoshita, cougar, and the cyprus borrowers.
+
+                   28
+
+
+
+
+foot note 28
+
+×
+
+
+
+  writ of summons in suit no 1212 of 2017 dated 26 december 2017.
+
+
+
+ according to its statement of claim, these seven parties together with group lease thailand conspired to defraud jtrust of its investment of us$180m in group lease thailand. jtrust also alleges that mr konoshita misappropriated jtrust’s investment in group lease thailand by transferring the monies from the investments in the form of loans to the third to the seventh defendants in the conspiracy action, who then used part of those monies to purchase from mr konoshita shares in a company called apf group co ltd (“apf”), which jtrust alleges is mr konoshita’s personal investment vehicle.
+
+                   29
+
+
+
+
+foot note 29
+
+×
+
+
+
+  see the statement of claim for this action at the joint record of appeal (vol ii) at pp 20–39.
+
+
+
+ 21 jtrust claims that but for the fraud, it would not have converted the debentures obtained under the first investment agreement. nor would it have invested the sum of us$180m under the second and third investment agreement or later purchased group lease thailand’s shares and warrants. therefore, its claimed losses include the monies it invested under the three agreements; the expenses it incurred in entering those agreements and in converting the first agreement’s debentures and in the purchase of shares and warrants; and the costs of financing its investments in group lease thailand.the respondents’ case22 the respondents do not contest the general sequence of events in jtrust’s narrative. instead, their central contention is that the conspiracy action and the application for the mareva injunction, together with this appeal, are part of jtrust’s global scheme to bring the group lease group of companies to its knees by inflicting upon it “maximum commercial and reputational damage” so that it would be “easy prey” for a forcible takeover, thus enabling jtrust to obtain the integration it had failed to negotiate in the immediate aftermath of the commission’s news release.
+
+                   30
+
+
+
+
+foot note 30
+
+×
+
+
+
+  1st and 2nd respondents’ case at paras 8, 158–161 and 184; 3rd respondent’s case at para 91.
+
+
+
+ jtrust, say the respondents, is therefore not really interested in recouping its investment. the respondents also say that the facts outlined below should have been fully and frankly disclosed at the ex parte application, and that they show that jtrust has not come to court with clean hands and should therefore be disqualified from obtaining mareva relief.the weston entities sue jtrust japan in mauritius23 the respondents highlight that in 2015, jtrust’s parent company, jtrust japan, together with one of its subsidiaries, pt bank jtrust indonesia tbk (“jtrust indonesia”), were sued in mauritius by a group of companies referred to in these proceedings as the weston entities for conspiracy to defraud the group of substantial monies. in may 2015, the supreme court of mauritius granted the weston entities final judgment against jtrust japan and jtrust indonesia in the sum of us$110.5m. that judgment has since given rise to a judgment debt in the sum of approximately us$200m due to accrued interest. in june 2015, the same court granted the weston entities worldwide mareva injunctions against jtrust japan and jtrust indonesia to ensure payment of the judgment sum.
+
+                   31
+
+
+
+
+foot note 31
+
+×
+
+
+
+  1st and 2nd respondents’ supplementary core bundle, tab 1 at p 13–14. 
+
+
+
+24 the weston entities later brought contempt proceedings against jtrust, alleging that it had caused jtrust japan’s failure to pay the judgment debt by using funds which had been frozen to invest in group lease thailand through the very investment agreements in respect of which jtrust seeks now to recover its investment from group lease thailand.
+
+                   32
+
+
+
+
+foot note 32
+
+×
+
+
+
+  joint record of appeal vol iii (part k), p 95 at para 2; 1st and 2nd respondents’ supplementary core bundle, tab 1 at p 10.
+
+
+
+ the supreme court of mauritius found jtrust, as well as mr fujisawa and mr asano, in contempt of court for breaching the mauritian mareva injunction issued in june 2015.
+
+                   33
+
+
+
+
+foot note 33
+
+×
+
+
+
+  see 1st and 2nd respondents’ supplementary core bundle tab 18, pp 416–417 at paras 29–33.
+
+
+
+25 the weston entities then brought an action
+
+                   34
+
+
+
+
+foot note 34
+
+×
+
+
+
+  writ of summons in suit no 1060 of 2015 dated 16 october 2015.
+
+
+
+ in singapore in october 2015 against jtrust japan and jtrust indonesia to recover the judgment sum that the weston entities were awarded in mauritius in may 2015. the weston entities are represented in that action by mr eugene thuraisingam, who appeared before the judge below on behalf of the weston entities on a watching brief. as the judge observed in the judgment, at the hearing, counsel for group lease singapore and mr konoshita, mr edric pan, denied that his clients were collaborating with the weston entities. also, mr thuraisingam stated that sum claimed in the action involves the same fund as does the sum claimed by jtrust in the conspiracy action, but this was denied by counsel for jtrust, mr chan leng sun sc: see the judgment at [9]. although the weston entities’ action in singapore was commenced in 2015, it is currently still at the pleadings stage.jtrust courts group lease thailand despite investigations26 the respondents also highlight that after the exchange on 9 march 2017 publicly asked group lease thailand for information on the singapore and cyprus borrowers, and after group lease thailand responded with assurances on 13 march 2017, jtrust did not demand any further explanation from group lease thailand about the loans.
+
+                   35
+
+
+
+
+foot note 35
+
+×
+
+
+
+  1st and 2nd respondents’ case at para 122.
+
+
+
+ instead, it made numerous further investments into group lease thailand from march to september 2017.27 also, after the commission issued its news release of 16 october 2017, jtrust did not immediately issue a legal claim against group lease thailand. instead, mr fujisawa expressed solidarity with mr konoshita and group lease thailand.
+
+                   36
+
+
+
+
+foot note 36
+
+×
+
+
+
+  1st and 2nd respondents’ case at para 124.
+
+
+
+ on the day of the news release, mr fujisawa and mr konoshita exchanged a number of text messages
+
+                   37
+
+
+
+
+foot note 37
+
+×
+
+
+
+  see 1st and 2nd respondents’ case at para 115.
+
+
+
+ in which mr fujisawa advised the latter to be “very careful” as thailand was “no longer a law-abiding country”
+
+                   38
+
+
+
+
+foot note 38
+
+×
+
+
+
+  1st and 2nd respondents’ supplementary core bundle, tab 15 at p 373.
+
+
+
+ and agreed with him that the commission’s suggestion that the loans to the cyprus borrowers posted an excessive profit was “totally untrue”.
+
+                   39
+
+
+
+
+foot note 39
+
+×
+
+
+
+  1st and 2nd respondents’ supplementary core bundle, tab 15 at p 387.
+
+
+
+28 mr fujisawa then spent the next month and a half meeting with mr konoshita and other representatives of group lease thailand to negotiate a merger with jtrust. the two men during that period remained on cordial terms, although mr fujisawa had by the end of november grown impatient. on 30 november 2017, jtrust served a letter of demand on group lease thailand purporting to cancel the second and third investment agreements. but even after that, email communications on the proposed merger continued into mid-december 2017. the respondents highlight that not once during this time did mr fujisawa claim to have been defrauded by group lease thailand or mr konoshita.
+
+                   40
+
+
+
+
+foot note 40
+
+×
+
+
+
+  1st and 2nd respondents’ case at para 128.
+
+
+
+ instead, mr fujisawa twice stated, in his emails in december 2017, that if the commission retracted its allegation that mr konoshita had acted fraudulently, then jtrust would resume its partnership with group lease thailand without terminating the agreements.
+
+                   41
+
+
+
+
+foot note 41
+
+×
+
+
+
+  1st and 2nd respondents’ case at para 129; appellant’s core bundle vol ii (part b), tab 27 at pp 114 and 117.
+
+
+
+jtrust sues to force a merger29 the negotiations for the proposed merger eventually broke down in mid-december. the respondents highlight that this was the “most proximate event” to the commencement of the conspiracy action.
+
+                   42
+
+
+
+
+foot note 42
+
+×
+
+
+
+  1st and 2nd respondents’ case at para 133.
+
+
+
+ jtrust displayed no urgency in bringing the claim after the commission published its news release because jtrust had waited until mid-december to appoint its experts to investigate the singapore and cyprus borrowers and the nature of the loans that group lease singapore extended to those entities.
+
+                   43
+
+
+
+
+foot note 43
+
+×
+
+
+
+  1st and 2nd respondents’ case at para 135.
+
+
+
+ by then, say the respondents, jtrust had already decided to commence proceedings, and “just needed an ‘expert’ to rubber-stamp its intended case theory”.
+
+                   44
+
+
+
+
+foot note 44
+
+×
+
+
+
+  1st and 2nd respondents’ case at para 135.
+
+
+
+30 in addition to bringing the conspiracy action in singapore on 26 december 2017, jtrust on 21 december 2017 brought proceedings in the british virgin islands (“bvi”) against mr konoshita and apf. we shall call this the “bvi action”. in the bvi action, jtrust claims that mr konoshita and apf dishonestly induced it to invest in group lease thailand, knowing that the investment monies would be misappropriated to mr konoshita and apf, and that mr konoshita acted dishonestly by failing to inform jtrust that he was the ultimate controller and beneficial owner of cougar and the cyprus borrowers.
+
+                   45
+
+
+
+
+foot note 45
+
+×
+
+
+
+  1st and 2nd respondents’ supplementary core bundle tab 9, p 83 at paras 35–40.
+
+
+
+ jtrust has obtained a worldwide mareva injunction against mr konoshita and apf in the bvi action (“the bvi order”). the respondents rely on this order to argue that jtrust is abusing the court’s process by seeking another set of worldwide mareva injunctions in these proceedings.proceedings belowapplications under the conspiracy action31 on the day jtrust commenced the conspiracy action, jtrust applied for ex parte and obtained from kan ting chiu sj mareva injunctions against the respondents in respect of us$180m of their assets located in singapore.
+
+                   46
+
+
+
+
+foot note 46
+
+×
+
+
+
+  appellant’s core bundle vol ii (part b) at tab 34.
+
+
+
+ jtrust then filed two applications to vary the scope of the injunction it had obtained: first, to expand the injunction into a worldwide mareva injunction;
+
+                   47
+
+
+
+
+foot note 47
+
+×
+
+
+
+  summons no 148 of 2018.
+
+
+
+ and second, to vary the terms of the injunction to include a specific prohibition to preclude the respondents from disposing their assets by way of asset sales, investments or loans.
+
+                   48
+
+
+
+
+foot note 48
+
+×
+
+
+
+  summons no 377 of 2018.
+
+
+
+ we refer to these as the “worldwide application” and the “prohibitory application” respectively.32 on 23 january 2018, the respondents applied to set aside the ex parte injunctions. there were two applications to this effect, one by group lease singapore and mr konoshita,
+
+                   49
+
+
+
+
+foot note 49
+
+×
+
+
+
+  summons no 436 of 2018.
+
+
+
+ and the other by cougar.
+
+                   50
+
+
+
+
+foot note 50
+
+×
+
+
+
+  summons no 435 of 2018.
+
+
+
+ we refer to both applications as the “setting aside application”. the decision below33 on 5 march 2018, the judge dismissed the worldwide application and the prohibitory application, and allowed the setting aside application, for the following reasons. first, the judge did not think that jtrust had established a good arguable case on the conspiracy action. he found that jtrust had only a plausible case that it may be left holding on to useless convertible debentures, which was insufficient to warrant a mareva injunction: judgment at [7]. he also found that group lease thailand had not been made a party to the conspiracy action: judgment at [6], [12] and [13]. in his view, this seriously undermined jtrust’s attempt to put forward a good arguable case because without group lease thailand, the validity of the agreements by which jtrust invested in group lease thailand cannot be adjudicated: judgment at [13].34 second, the judge did not think that jtrust had shown that there was a real risk that the respondents would dissipate their assets. he considered that even if group lease thailand had transferred jtrust’s investment of us$180m to group lease singapore, and then to their subsidiaries in indonesia and elsewhere in the world, that was not itself evidence of dissipation. this was because (a) the assets that were the subject of jtrust’s action related to investments agreements with group lease thailand, who had not been made a party to the action; and (b) the respondents were in the business of investment: judgment at [14].35 finally, the judge appeared to take into account two other factors in his decision. first, he appeared to accept that when jtrust applied ex parte for the injunctions before kan sj, it did not disclose the fact that it had already obtained a worldwide mareva injunctions against mr konoshita in the bvi action. the judge then expressed doubt as to the need to obtain a similar order by way of the present proceedings: judgment at [8]. second, the judge appeared to consider that the real dispute existed between jtrust and group lease thailand, and that the nature of that dispute was whether the investment agreements were valid or voidable for misrepresentation or breach. to the judge, that was an issue that the singapore courts had no business to determine: judgment at [14].issues to be determined36 in the light of the parties’ cases, the judgment and the applicable law, we consider that there are four main issues to be determined:(a) has jtrust shown a good arguable case on the merits of its claim in the conspiracy action?(b) has jtrust shown a real risk that the respondents will dissipate their assets to frustrate the enforcement of an anticipated judgment?(c) has jtrust applied for the mareva injunctions against the respondents with clean hands?(d) is jtrust abusing the court’s process by applying for the mareva injunctions?37 we turn now to analyse the issues in turn.issue 1: good arguable case38 a good arguable case is one which is more than capable of serious argument, but not necessarily one which the court considers would have a better than 50 per cent change of success: bouvier, yves charles edgar and another v accent delight international ltd and another and another appeal [2015] 5 slr 558 (“bouvier”) at [36] per sundaresh menon cj, citing ninemia maritime corporation v trave schiffahrtgesellschaft mbh und co kg (the niedersachsen) [1984] 1 all er 398 (“the niedersachsen”) at 404d per mustill j. in making this assessment, the court must not try to resolve conflicts of evidence on affidavit, or to decide difficult questions of law which call for detailed argument and mature consideration: derby & co ltd v weldon (no. 1) [1989] 2 wlr 276 at 283c–d per parker lj. but the court will examine the apparent strength or weakness of the respective cases to decide whether the plaintiff’s case, on the merits, is sufficiently strong to reach the threshold: steven gee qc, commercial injunctions (sweet & maxwell, 6th ed, 2016) (“commercial injunctions”) at para 12-026.39 more specifically, a plaintiff must show a good arguable case on the claim that it has brought. here, jtrust’s claim is that the respondents have conspired to defraud jtrust of its investment of us$180m in group lease thailand. the cause of action is the tort of conspiracy by unlawful means. the elements of this tort are well travelled: (a) a combination of two or more persons and an agreement between them to do certain acts; (b) the conspirators intended to cause damage or injury to the plaintiff; (c) the acts were performed in furtherance of the agreement; and (d) damage was suffered by the plaintiff: nagase singapore pte ltd v ching kai huat and others [2008] 1 slr(r) 80 at [23] per judith prakash j (as she then was). 40 for reasons which will become apparent, we are satisfied that jtrust has shown a good arguable case on the conspiracy action with reference to each of these elements. in brief, we consider, first, that there is objective basis for the view that the respondents conspired to defraud jtrust into investing in group lease thailand by engaging in a round-tripping scheme, where interest on the loans extended to the singapore and cyprus borrowers were repaid using the loan principals and using such loan repayments to inflate group lease thailand’s profits to attract further investment by jtrust. second, we find that the respondents’ submissions do not reveal any weaknesses in that case theory that may properly be regarded as fatal at this stage. third, the respondents elected not to disclose the identity of the owners of the borrowers, and this ultimately undermined their attempt to erode jtrust’s factual case.objective evidence for jtrust’s case41 there are four main pieces of documentary evidence which constitute objective support for jtrust’s case: (a) the commission’s news release of 16 october 2017; (b) ernst & young’s interim report on the group lease group of companies dated 13 november 2017; (c) the warren report; and (d) the potter report. the respondents have produced nothing to contradict the contents of these documents, which we have set out at [13], [14] and [16] above, and we therefore have no reason not to take these documents at face value. below, we highlight aspects of these documents that lend particular support to jtrust’s case, and we explain why we reject the respondents’ interpretation of them.42 first, the respondents say that the warren report and the potter report were produced simply to “rubber stamp” jtrust’s case theory.
+
+                   51
+
+
+
+
+foot note 51
+
+×
+
+
+
+  1st and 2nd respondents’ case at para 135.
+
+
+
+ however, the respondents have produced nothing to deny the specific finding stated in the warren and potter reports that the singapore and cyprus borrowers (save for kuga) had no discernible commercial activities at the time the substantial loans were made to them, and that the cyprus borrowers, in particular, were incorporated shortly before the loans were extended to them. this supports the inference that the borrowers could have repaid the interest on the loans extended to them by group lease singapore only by using the loan principals.43 second, the respondents characterise the commission’s news release as nothing more than a “police report” which provides no indication as to whether mr konoshita really committed fraud.
+
+                   52
+
+
+
+
+foot note 52
+
+×
+
+
+
+  1st and 2nd respondents’ case at para 81.
+
+
+
+ however, when the news release is considered on its face, it cannot be denied that the commission itself claimed to have evidence for the allegations it made against mr konoshita.
+
+                   53
+
+
+
+
+foot note 53
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a), tab 8 at p 39.
+
+
+
+ moreover, weight must be given to the commission’s procedure for investigating and handling criminal cases, which is published online for public viewing and which is exhibited in evidence.
+
+                   54
+
+
+
+
+foot note 54
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a), tab 12 at p 60. 
+
+
+
+ its procedure is first to conduct its own investigation and assessment, decide whether a “[v]iolation of law under [the commission’s] authority has been found”,
+
+                   55
+
+
+
+
+foot note 55
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a), tab 12 at p 60.
+
+
+
+ and if such violation has been found, then to refer the matter to the police, which is what it has now done in relation to mr konoshita. hence, on its face, the commission’s news release indicates that there is evidence that mr konoshita has been involved in misappropriating funds and concealing fraudulent transactions.  44 third, the respondents say that the ernst & young report was produced as a “knee-jerk reaction” to the commission’s news release.
+
+                   56
+
+
+
+
+foot note 56
+
+×
+
+
+
+  1st and 2nd respondents’ case at para 86. 
+
+
+
+ however, it is noteworthy that the auditor says that the commission’s investigation into group lease thailand was prompted by the auditor himself. thus, the auditor says that “[t]he [commission’s] finding as stated in the charges against ex-ceo [ie, mr konoshita] was a follow-up to my previous observations on these cyprus-singapore ‘borrowers’ as extraordinary”.
+
+                   57
+
+
+
+
+foot note 57
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a), tab 9 at p 42.
+
+
+
+ hence, far from being a knee-jerk reaction, the report implies that the auditor in fact had some basis to believe that there was some impropriety in the loans that were being extended to the singapore and cyprus borrowers. 45 apart from these documents, a status report that apf filed with the kanto local finance bureau on 11 july 2017 (“the apf status report”) is also relevant. it shows that as of 31 march 2017, mr konoshita held a 51% shareholding in apf with cougar and the cyprus borrowers holding 4% and 10% shareholding in apf respectively.
+
+                   58
+
+
+
+
+foot note 58
+
+×
+
+
+
+  appellant’s core bundle vol ii (part b) tab 26, p 81 at paras 130–131 and pp 91–92.
+
+
+
+ this suggests that the cyprus borrowers are connected to mr konoshita, and this in turn supports the commission’s allegation that mr konoshita is ultimately in control of them. the respondents’ remaining submissions46 the respondents place significant emphasis on group lease thailand’s omission as a defendant in the conspiracy action. this was accepted by the judge as fatal to jtrust’s attempt to establish a good arguable case on that action. this argument has two distinct strands, and we explain below why, in our view, they have minimal bearing on the inquiry as to whether jtrust has demonstrated a good arguable case against the respondents.47 the first strand asserts that the validity of the investment agreements is the core of the dispute, and that this issue cannot be adjudicated without group lease thailand’s participation as a defendant to the conspiracy action. in our judgment, this argument is misconceived. it is not the validity per se of the agreements that jtrust is contesting. instead, the true dispute is over the purpose for which the loan monies advanced under the agreements were used, ie, whether they were being round-tripped to inflate group lease thailand’s profits and induce further investment from jtrust. moreover, even if the agreements in question are held to be invalid, their invalidity does not ipso facto entail that the loss that jtrust has suffered as a result of entering into those debentures may be recovered from the respondents, who were not parties to the agreements. to obtain that remedy, jtrust needs to establish that they are liable in tort for that loss, hence the conspiracy action.48 the second strand claims that as group lease thailand is the “key player”
+
+                   59
+
+
+
+
+foot note 59
+
+×
+
+
+
+  1st and 2nd respondents’ case at para 12.
+
+
+
+ in the alleged conspiracy, jtrust has no valid reason for not adding group lease thailand in the conspiracy action. however, there is no rule that every alleged conspirator must be made a defendant for a conspiracy action to succeed. indeed, liability for the tort of conspiracy is joint and several, and a plaintiff is entitled to sue whomever he wishes: chan kern miang v kea resources pte ltd [1998] 2 slr(r) 85 at [20] per chao hick tin j (as he then was). of course, if the party omitted from suit is a protagonist in the alleged conspiracy, then the plaintiff will find it difficult, as a matter of evidence, to prove his case in the absence of the court hearing from that party: see fornet enterprise co ltd v howell universal pte ltd and others [2006] 2 slr(r) 349
+
+                   60
+
+
+
+
+foot note 60
+
+×
+
+
+
+  1st and 2nd respondents’ bundle of documents and authorities at tab 11.
+
+
+
+ at [62]–[64] per andrew ang j. unless a good reason is provided for that party’s omission as a defendant, the trial judge will have difficulty finding that the alleged conspiracy existed: see eg, sck group bhd & anor v sunny liew siew pang & anor [2011] 4 mlj 393 at [20]–[21] per low hop bing jca.49 in this regard, we observe that jtrust’s case has always been that mr konoshita is the true mastermind behind the alleged conspiracy.
+
+                   61
+
+
+
+
+foot note 61
+
+×
+
+
+
+  appellant’s case at para 44.
+
+
+
+ it is not disputed that he was in control of group lease thailand at the material time, and he is now alleged also to be ultimately in control of all his co-defendants in the conspiracy action. there is at least some objective evidence in the form of the commission’s news release and the apf status report to support that allegation. if mr konoshita were omitted as a defendant, perhaps that would have a critical negative bearing on the viability of the conspiracy action but, in our view, not so with group lease thailand’s omission.50 in any event, jtrust has a good reason for not including group lease thailand as a defendant. the investment agreements are governed by thai law and provide for disputes to be subject to the jurisdiction of the thai courts.
+
+                   62
+
+
+
+
+foot note 62
+
+×
+
+
+
+  appellant’s case at para 104; appellant’s core bundle vol ii (part a), tab 15 at pp 103–108.
+
+
+
+ it is therefore entirely legitimate for jtrust to pursue its claim in contract on the debentures against group lease thailand in thailand, as it has done,
+
+                   63
+
+
+
+
+foot note 63
+
+×
+
+
+
+  appellant’s case at para 31.
+
+
+
+ and to pursue a separate claim in tort in singapore against those entities which are part of the alleged conspiracy to defraud it.51 the respondents’ other submission is that because the loans to the cyprus and singapore borrowers were backed by collateral, they could not have been sham loans.
+
+                   64
+
+
+
+
+foot note 64
+
+×
+
+
+
+  1st and 2nd respondents’ case at para 68.
+
+
+
+ in our view, this argument misses the point. as we have noted, jtrust’s case is not that the loans were a sham per se, but that they were part of a round-tripping scheme to defraud jtrust. it is appropriate to emphasise in this context the unchallenged finding in the potter report that loans were extended to entities (ie, the borrowers) that had no discernible commercial activity, and that the loans were unusually for short three-month terms and were often rolled over. there is also the plain assertion in the commission’s news release that the loans were sham loans. hence, the mere fact that the loans might have been backed by collateral does not address the point that the borrowers do not have any discernible commercial activity.identity of the ultimate owners of the borrowers52 this leads us appropriately to discuss group lease singapore’s and mr konoshita’s request for leave to file an affidavit to disclose the names of the ultimate owners and controllers of the singapore and cyprus borrowers.
+
+                   65
+
+
+
+
+foot note 65
+
+×
+
+
+
+  1st and 2nd respondents’ letter dated 17 april 2018. 
+
+
+
+ this request was submitted by way of letter after the hearing of the appeal, and was intended to persuade us that the borrowers were not connected to mr konoshita, and were instead legitimate business entities. we rejected this request for reasons that we shall now explain.53 the court of appeal has the power, under o 57 r 13(2) of the rules of court (cap 322, r 5, 2014 ed), to receive further evidence on questions of fact, and in the case of an appeal from a judgment after trial or hearing of any cause or matter on the merits, to receive such evidence on “special grounds”. it is well established that the term “special grounds” refers to the three conditions articulated by denning lj in ladd v marshall [1954] 1 wlr 1489 for the admission of fresh evidence on appeal. thus, jtrust responded to the respondents’ request by submitting that it should be rejected because it does not meet the ladd v marshall conditions.
+
+                   66
+
+
+
+
+foot note 66
+
+×
+
+
+
+  appellant’s letter dated 17 april 2018 at para 3.
+
+
+
+ 54 however, an interlocutory appeal is not an appeal against a judgment after a trial or a hearing of a cause or matter on the merits. such a judgment must be one in which the issues for determination in the cause of action have been considered and finally determined on their merits, and no decision on an interlocutory matter meets this criterion: see electra private equity partners (a limited partnership) and others v kpmg peat marwick (a firm) and others [2001] 1 bclc 589 (“electra”) at 620g per auld lj (with whom chadwick lj agreed). the result, according to auld lj in electra, is that whether fresh evidence should be admitted on an interlocutory appeal lies in the unfettered discretion of the court, and the strict principles of ladd v marshall are inapplicable (at 620h). this proposition was endorsed by this court in jurong town corp v wishing star ltd [2004] 2 slr(r) 427 (“jurong town corp”) at [27] per chao hick tin ja, although we note in passing that it was in fact expressed obiter in electra: see electra at 637g per clarke lj. 55 also relevant is auld lj’s observation that even where ladd v marshall has been applied in interlocutory appeals, the courts recognise the need for some relaxation of the reasonable diligence condition given that interlocutory matters are contested at an early stage of the litigation where it may be “unjust to expect a party to have all his tackle in order” (at 621a–b). but auld lj qualified that the court should also guard against attempts by a disappointed party seeking to “retrieve lost ground in interlocutory appeals” by relying on evidence which he could or should have put before the court below (at 620h). this proposition was also cited with approval in jurong town corp at [27].  56 in our judgment, auld lj’s view is correct as a matter of principle. as an interlocutory appeal is not one that proceeds from a judgment that finally determines the merits of a cause of action, it is not a proceeding in which fresh evidence may be introduced only if “special grounds” within the meaning of o 57 r 13(2) are present. nonetheless, we consider that the ladd v marshall conditions, tempered by the qualifications made by auld lj in electra, remain a useful analytical tool for assessing the justice of allowing fresh evidence in an interlocutory appeal. as this court observed in the similar context of adducing fresh evidence in a registrar’s appeal to a judge in chambers, “the judge [is] entitled, though not obliged, to employ the conditions of ladd v marshall to help her decide whether or not to exercise her discretion to admit or reject the further evidence” [emphasis in original]: wbg network (s) pte ltd v sunny daisy ltd [2007] 1 slr(r) 1133 at [14] per choo han teck j. 57 these principles led us ultimately to reject group lease singapore’s and mr konoshita’s request to adduce fresh evidence. in our view, this is not a case where, on account of the expedited nature of interlocutory matters, the plaintiff might be forgiven for failing to place all the relevant material before the court below to support their application to discharge the mareva injunction. mr pan said unequivocally at the hearing of the appeal that group lease singapore and mr konoshita had decided from the outset not to disclose the true identity of the ultimate owners and controllers of the singapore and cyprus borrowers in order to preserve commercial secrecy. however, it became plain at that hearing from our questions to mr pan that they could not maintain that position and at the same time reasonably expect to cast legitimate doubt on jtrust’s prima facie evidence that the loans were a sham. it was with the benefit of hindsight that they sought after the hearing of the appeal to adduce this information. in our view, this was clearly an attempt to “retrieve lost ground” by relying on evidence which they should have put before the court below and before us. the issue was always live and the respondents made a deliberate judgment call not to adduce the information in spite of its obvious relevance, and they must therefore bear the consequences of the decision they took.58 for the reasons above, we conclude that jtrust has established a good arguable case on the conspiracy action. in the terms of the four elements of the tort of conspiracy, there is, first, a good arguable case that there was an agreement between mr konoshita, group lease singapore and cougar for group lease singapore to extend sham loans to the singapore and cyprus borrowers, that group lease singapore be repaid the interest on those loans with the loan principals, and that such interest be declared as group lease thailand’s income to inflate its operating results.59 second, there is a good arguable case that mr konoshita, group lease singapore and cougar intended to cause damage to jtrust. they would have known, and it may be inferred that they intended, that by artificially inflating group lease thailand’s income through interest round-tripped from the sham loans, their principal investor, jtrust, would be led to invest further in their company, and that jtrust might never get its money back because the company’s profits are built on a sham.60 third, there is a good arguable case that mr konoshita, group lease singapore, and cougar committed unlawful acts in furtherance of their conspiracy. thus, mr konoshita would have had to approve the artificially inflated financial statements, as well as arrange for the sham loans to be made, which could have involved misappropriating group lease thailand’s assets: see, in this regard, the findings of the commission, reproduced at [68] below.
+
+                   67
+
+
+
+
+foot note 67
+
+×
+
+
+
+  appellant’s case at para 23; appellant’s core bundle vol ii (part a) at p 39.
+
+
+
+61 fourth and finally, there is a good arguable case that jtrust has suffered actionable damage. damage in the tort of conspiracy is proved if a plaintiff is able to show that some pecuniary loss has been suffered by him; he need not prove precisely that loss, because damages are at large. as prof andrew burrows has noted in this context, “proof of general loss of business is sufficient and the plaintiff is not required to prove the loss of any particular customer or contract”: andrew burrows, remedies for torts and breach of contract (oxford university press, 3rd ed, 2004) at p 62, cited with approval in li siu lun v looi kok poh and another [2015] 4 slr 667 (“li siu lun”) at [43] per belinda ang j.62 in this case, jtrust converted its first investment into shares in what has turned out to be a far less valuable company. as jtrust submits, if the commission news release is true, group lease thailand would have suffered a loss of thb 136m (approximately us$4.3m) in 2015 instead of achieving a reported net profit of thb 583m (approximately us$18.5m).
+
+                   68
+
+
+
+
+foot note 68
+
+×
+
+
+
+  appellant’s case at para 43 and 60(d).
+
+
+
+ there is therefore also a risk that jtrust may not be able to recover fully its investment under the second and third investment agreements. accordingly, applying li siu lun, we consider that there is a good arguable case that jtrust has suffered some pecuniary loss which constitutes actionable damage.issue 2: real risk of dissipation63 we turn now to consider the question whether, if mareva injunctions are not granted, there is a real risk that the respondents will dissipate their assets to frustrate the enforcement of an anticipated judgment in the conspiracy action. jtrust relies on three main factors to establish such a risk: (a) mr konoshita’s dishonesty; 
+
+                   69
+
+
+
+
+foot note 69
+
+×
+
+
+
+  appellant’s case at paras 71–78.
+
+
+
+ (b) the nature of the respondents’ assets;
+
+                   70
+
+
+
+
+foot note 70
+
+×
+
+
+
+  appellant’s case at paras 65–66.
+
+
+
+ and (c) mr konoshita’s domicile.
+
+                   71
+
+
+
+
+foot note 71
+
+×
+
+
+
+  appellant’s case at paras 67–70.
+
+
+
+ for the reasons below, we are satisfied that a real risk of dissipation has been sufficiently established.64 the overarching test is whether there is objectively a real risk that a judgment may not be satisfied because of a risk of unjustified dealings with assets: commercial injunctions at para 12-028. the plaintiff must produce “solid evidence” to demonstrate this risk, and not just bare assertions of fact: bouvier ([38] supra) at [36], citing guan chong cocoa manufacturer sdn bhd v pratiwi shipping sa [2003] 1 slr(r) 157 at [18] per chao hick tin ja. 65 there are a number of factors which the court generally considers relevant in assessing whether there is a real risk of dissipation. these include the nature of the assets which are to be the subject of the proposed injunction, and the ease with which they could be disposed of or dissipated; the nature and financial standing of the defendant’s business; the length of time the defendant has been in business; the domicile or residence of the defendant; if the defendant is a foreign entity, the country in which it is registered and the availability of reciprocal enforcement of local judgments or awards in that country; the defendant’s past or existing credit record; any intention expressed by the defendant about future dealings with his local or overseas assets; connections between a defendant and other companies which have defaulted on awards or judgments; the defendant’s behaviour in respect of the claims, including that in response to the claimant’s claims; and good grounds for alleging that the defendant has been dishonest: commercial injunctions at para 12-033. but the ultimate question is whether the defendant has any characteristics which suggest that he can and will frustrate judgment.mr konoshita’s dishonesty66 the key principle in assessing whether a defendant’s dishonesty is a basis for inferring a real risk of dissipation is that “the alleged dishonesty must be of such a nature that it has a real and material bearing on the risk of dissipation”: bouvier at [93]. the court must “examine the precise nature of the dishonesty that is alleged and the strength of the evidence relied on in support of the allegation, keeping fully in mind that the proceedings are only at an interlocutory stage and assessing, in that light, whether there is sufficient basis to find a real risk of dissipation”: bouvier at [94]. if the alleged dishonesty has nothing to do with the dissipation of assets, then it will be of little relevance.67 the term “lack of probity” is sometimes used together with or in place of “dishonesty”. its use in the context of mareva injunctions appears to originate from mustill j’s decision in the niedersachsen ([38] supra). in that decision, one of the types of evidence which he says might support an assertion that assets will be dissipated is “direct evidence that the defendant has previously acted in a way which shows that his probity is not to be relied on” (at 406h). this was cited with approval in solvadis commodity chemicals gmbh v affert resources pte ltd [2014] 1 slr 174 at [16] per andrew ang j. in its literal sense, the term “lack of probity” connotes a lack of decency or honesty in perhaps a broader sense than “dishonesty” does. but it is not a term of art. the central question remains whether the alleged lack of probity has a bearing on the risk that the defendant might dissipate his assets to frustrate an anticipated judgment: see dukkar sa v thailand integrated services pte ltd [2015] sghc 234 at [22] per steven chong j (as he then was).68 in the present case, jtrust’s allegations of dishonesty or lack of probity are directed principally against mr konoshita. jtrust relies on three pieces of evidence to illustrate mr konoshita’s dishonesty. first, jtrust relies on the commission’s news release of 16 october 2017, which states that the commission had evidence that mr konoshita orchestrated a round-tripping scheme to exaggerate group lease thailand’s operating results, and that:
+
+                   72
+
+
+
+
+foot note 72
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a), tab 7 at p 39.
+
+
+
+mr. konoshita’s misconduct [as described] is deemed an execution of concealed transactions, asset misappropriation, permission of false accounting transactions and preparation of incorrect accounting records. in addition, he informed and disseminated false statements, which caused an impact on [group lease thailand’s] securities price and investors’ investment decisions. such information also contradicted the information [group lease thailand] had disclosed through [the exchange] on 13 march 2017 and his statement at the press conference the following day when he reassured that the foreign borrowers were unrelated to him. [emphasis added] 69 for the reasons given at [41] above, we consider that there is no reason at this stage not to take at face value the commission’s claim that it has evidence for these allegations. moreover, as jtrust points out,
+
+                   73
+
+
+
+
+foot note 73
+
+×
+
+
+
+  appellant’s case at para 73.
+
+
+
+ the commission also stated that it had “received the assistance from cyprus securities and exchange commission in investigating and gathering important facts and evidence for the prosecution of the case”.
+
+                   74
+
+
+
+
+foot note 74
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a), tab 8 at p 40.
+
+
+
+ the allegations against mr konoshita in the news release are serious, and they pertain directly to his dishonesty in the mismanagement of large sums of money and in concealing that mismanagement. these allegations cannot be dismissed as spurious and must be given weight for the purposes of an application for mareva relief.70 second, jtrust relies on the fact that the financial services agency of japan (“the agency”) in april 2017 imposed an administrative monetary penalty of over ¥4bn (which is approximately s$49m) on mr konoshita for market manipulation.
+
+                   75
+
+
+
+
+foot note 75
+
+×
+
+
+
+  appellant’s case at paras 74–76.
+
+
+
+ jtrust has adduced a set of detailed grounds of decision prepared by the agency explaining why that penalty was levied on mr konoshita.
+
+                   76
+
+
+
+
+foot note 76
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) at tab 13.
+
+
+
+ those grounds explain that the agency had found mr konoshita to have misled market investors by inflating the value of wedge holdings, and that he did so by directing the making of false announcements and disclosures concerning the company’s performance and earnings as well as circulating funds within the company group. the agency concluded that “[g]iven the above facts, it is found that [the] accused [ie, mr konoshita] has affected the prices of the securities with the intention to cause a fluctuation of quotations by use of fraudulent means described in the fact of violation”.
+
+                   77
+
+
+
+
+foot note 77
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a), tab 13 at p 97.
+
+
+
+ 71 the respondents’ submission in response is unpersuasive. the respondents take issue with the fact that jtrust had before kan sj described it as a “fine” and not an “administrative monetary penalty”.
+
+                   78
+
+
+
+
+foot note 78
+
+×
+
+
+
+  1st and 2nd respondents’ case at para 51. 
+
+
+
+ in our view, this is splitting hairs. the words “fine” and “penalty” are largely synonymous in common usage. moreover, to characterise as “criminal” the conduct which the agency found mr konoshita guilty of cannot reasonably be said to be a distortion or lie. the agency’s grounds of decisions were delivered by three judges,
+
+                   79
+
+
+
+
+foot note 79
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a), tab 13 at p 62.
+
+
+
+ and the grounds repeatedly refer to him as “accused” and to his misconduct as “violations” which constituted “fraudulent means”. in any event, mr konoshita cannot escape, nor does he attempt to deny, the fact that the agency gave cogent reasons for imposing the penalty which, on their face, seriously impugn his business integrity. 72 the respondents also dispute that the penalty indicates that mr konoshita has demonstrated a “pattern” of market manipulation. they argue that this was simply an isolated incident.
+
+                   80
+
+
+
+
+foot note 80
+
+×
+
+
+
+  1st and 2nd respondents’ case at para 166.
+
+
+
+ again, we are not persuaded. even if it does not show that he has engaged in such conduct before that incident, it at least shows that he is capable of doing so, and that is entirely relevant to the analysis here. it is evidence that he is capable of dealing fraudulently with money and concealing those dealings with falsehoods. in pearce and another v waterhouse [1986] vr 603 (“pearce”), the victoria supreme court considered that the defendant’s prior conviction for attempting to remove a large sum of money from australia contrary to exchange controls was indicative of a real risk of dissipation (at 607 lines 20–25). although the agency’s decision did not result in a criminal conviction for mr konoshita, the reasoning in pearce applies in so far as it confirms that mr konoshita’s record of financial dishonesty may be regarded as contributing to the risk that he will dissipate his assets. 73 third, jtrust relies on the fact that the cyprus and singapore borrowers appear to be organised in a complex and opaque corporate structure. the potter report shows that shareholders and directors of the cyprus borrowers are merely nominees,
+
+                   81
+
+
+
+
+foot note 81
+
+×
+
+
+
+  appellant’s case at para 77.
+
+
+
+ and the commission’s news release of 16 october 2017 names mr konoshita as the “ultimate controller and benefactor” of those companies. jtrust suggests therefore that it is suspicious that mr konoshita has chosen to conceal the fact that he controls the cyprus borrowers. we accept this suggestion, and note that the respondents squandered every fair opportunity in this proceeding to rebut it by presenting its version of who the ultimate owners and controllers of the borrowers are: see [57] above.74 we therefore agree with jtrust that the commission’s news release, the agency’s penalty, the uncertainty over the true ownership of the cyprus borrowers and their possible connection with mr konoshita constitute solid evidence at this interlocutory stage that mr konoshita has demonstrated dishonest conduct which suggests a real risk that he will dissipate his assets to frustrate any judgment which may eventually be obtained against him. as he is a director of group lease singapore, the same conclusion applies to that company as well. although he is not a director of cougar, cougar has failed to rebut the commission’s specific assertion in its news release that mr konoshita is cougar’s ultimate controller. hence, we regard both group lease singapore and cougar as tainted by mr konoshita’s dishonesty.nature of the respondents’ assets75 the next factor jtrust relies on to establish a real risk of dissipation is the nature of the respondents’ assets. in this regard, the law’s focus is on the ease or difficulty with which such assets can be disposed of or dissipated: commercial injunctions at para 12-033. thus, it has been held that assets in offshore entities, trusts or by nominees which could easily be disposed of are, or may be, an indication of a real risk of dissipation: see eg, ah baldwin and sons ltd v sheikh saud bin mohammed bin ali al-thani [2012] ewhc 3156 (qb) at [49] per haddon-cave j.76 both group lease singapore and mr konoshita have assets in singapore. group lease singapore has disclosed that the company has cash in excess of us$3m in four singapore bank accounts, us$1.8m worth of shares in a singapore company and about us$21,000 in rental deposits.
+
+                   82
+
+
+
+
+foot note 82
+
+×
+
+
+
+  appellant’s core bundle vol ii (part b), tab 20 at pp 9–10.
+
+
+
+ mr konoshita has also disclosed that he himself has about s$300,000 and us$130,000 in nine singapore bank accounts.
+
+                   83
+
+
+
+
+foot note 83
+
+×
+
+
+
+  appellant’s core bundle vol ii (part b), tab 20 at pp 11–12.
+
+
+
+ he also has about s$2.9m and us$1m in investments,
+
+                   84
+
+
+
+
+foot note 84
+
+×
+
+
+
+  appellant’s core bundle vol ii (part b), tab 21 at p 12.
+
+
+
+ about us$700,000 worth of shares in a company, and two maserati cars worth about s$1m collectively. 77 cougar, on the other hand, claims to have no assets in singapore.
+
+                   85
+
+
+
+
+foot note 85
+
+×
+
+
+
+  appellant’s core bundle vol ii (part b), tab 21 at pp 14–15.
+
+
+
+ but jtrust submits that it is noteworthy that cougar has failed to disclose any of its receivables and failed to explain the sudden disappearance of us$44m worth of its current assets on the face of the financial statements appended in cougar’s business profile which jtrust has adduced.
+
+                   86
+
+
+
+
+foot note 86
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a), tab 4 at para 12.
+
+
+
+ we add here that cougar’s counsel, mr pradeep pillai, conceded during the hearing of the appeal that cougar cannot possibly have no assets, otherwise it cannot possibly service its substantial outstanding loans. indeed, the fact that cougar, a singapore company, could claim not to have any assets in singapore despite having taken those loans suggests a lack of probity on the part of cougar.78 in our view, while the respondents’ assets are not held in offshore entities, a substantial portion of them are held in bank accounts, which means that they are capable of being easily dissipated. mr konoshita’s somewhat substantial investments are put in what appear to be investment funds,
+
+                   87
+
+
+
+
+foot note 87
+
+×
+
+
+
+  see appellant’s core bundle vol ii (part b) tab 21, pp 12–13 at paras 7 and 9.
+
+
+
+ and it would be reasonable to presume that those investments can be liquidated without significant difficulty and then dissipated. accordingly, the nature of the respondents’ assets, in our view, is a factor that further supports the existence of a real risk of dissipation.mr konoshita’s domicile79 the last factor to be considered is mr konoshita’s domicile. it is observed in commercial injunctions at para 12.033 that a court will be less ready to infer that a defendant who is based in that court’s jurisdiction, and has a home or established business there, will remove or dissipate his assets. on the other hand, if the defendant is, for example, a local company, but is controlled by an offshore company which has the “ability to create complex mechanisms which are not transparent”, the inference that there is a real risk that a judgment or award may go unsatisfied may be more readily drawn: chorus group v berner (bvi) ltd [2007] ewhc 3622 (tcc) (“chorus group”) at [24] per ramsey j.80 jtrust highlights that while mr konoshita has two registered addresses – one in thailand and one in singapore – jtrust’s investigation efforts have led it to find that he does not appear to reside in either.
+
+                   88
+
+
+
+
+foot note 88
+
+×
+
+
+
+  appellant’s case at para 67.
+
+
+
+ jtrust claims also to have good reason to believe that mr konoshita has been evasive because he stopped replying to jtrust’s emails since late november 2017.
+
+                   89
+
+
+
+
+foot note 89
+
+×
+
+
+
+  appellant’s case at para 68.
+
+
+
+ furthermore, the address which he now uses in his affidavits is the “sofitel phnom penh phokeethra”, which is clearly not his permanent home address.
+
+                   90
+
+
+
+
+foot note 90
+
+×
+
+
+
+  appellant’s case at para 69.
+
+
+
+ taking these allegations at face value, given that they are supported by jtrust’s own private investigator reports
+
+                   91
+
+
+
+
+foot note 91
+
+×
+
+
+
+  see, for example, appellant’s core bundle vol ii (part a), tab 11 at pp 56–57.
+
+
+
+ and are not contradicted by the respondents, it may be inferred at the very least that mr konoshita is currently not based in singapore. that is a factor that supports the existence of a real risk of dissipation.81 jtrust does not make any specific submission in relation to the fact that group lease singapore and cougar are both singapore companies. however, we observe that group lease singapore is a wholly owned subsidiary of a thai company, ie, group lease thailand, and that cougar is a wholly owned subsidiary of a luxembourgian company, ie, pacific: see [5] and [7] above. applying chorus group, the fact that group lease singapore and cougar are controlled by foreign entities must be recognised as a further factor that supports the existence of a real risk of dissipation. to the extent that there is some evidence for the suspicion that group lease singapore and cougar are part of a complex structure of companies controlled ultimately by mr konoshita, the risk of dissipation is increased.82 for the reasons above, we conclude that jtrust has presented “solid evidence” that if a mareva injunction is not granted, there is a real risk that mr konoshita, group lease singapore and cougar will dissipate their assets and so frustrate a judgment against them in the conspiracy action.83 for completeness, we address here the point made by the judge at [14] of the judgment that jtrust’s investment in group lease thailand was not at risk of being dissipated: see [34] above. with respect, that is the wrong inquiry. the relevant question is not whether there is any risk of dissipation of the assets of group lease thailand by virtue of its transfer of jtrust’s investments to group lease singapore and thereafter to its subsidiaries but rather whether there is a risk that the respondents will dissipate their own assets which will have to be applied towards the satisfaction of judgment against them. also, it is not strictly correct for the judge to have observed that the respondents are in the business of investment at least in relation to cougar, given that both the warren and potter reports state that cougar do not appear to have any discernible commercial activity. issue 3: clean hands84 as a mareva injunction is a form of equitable relief, any plaintiff seeking such relief is expected to come to court with clean hands. in this case, two aspects of the doctrine of clean hands are relevant: (a) whether jtrust is seeking equitable protection of a right which it obtained unconscionably; and (b) whether jtrust has failed to disclose fully and frankly all material information in its application. seeking protection for a right obtained unconscionably85 it is well established that a refusal of equitable relief, including interlocutory injunctive relief, may be appropriate “where the right relied on, and which the court of equity is asked to protect or assist, is itself to some extent brought into existence or induced by some illegal or unconscionable conduct of the plaintiff, so that protection for what he claims involves protection for his own wrong”, for “[n]o court of equity will aid a man to derive advantage from his own wrong”: meyers v casey (1913) 17 clr 90 at 124 per isaacs j; cited in beckkett pte ltd v deutsche bank ag and another [2011] 1 slr 524 at [38] per prakash j (as she then was). in this regard, it has been emphasised that it is not sufficient for the defendant merely to show that the plaintiff has been guilty of inequitable, or indeed, even of dishonest conduct, but it must be shown further, as was said by scrutton lj in moody v cox [1917] 2 ch 71 at 87–88, that “the depravity, the dirt in question at hand, has an immediate and necessary relation to the equity sued for” [emphasis added].86 cougar argues that jtrust applied for the mareva injunction with unclean hands. it submits that jtrust’s “claim for [the] us$180 million” which it had invested in group lease thailand “pre-suppose[s] that [jtrust] is the rightful owner of the said sum”, but that this presupposition is false because “the issue of the ownership of these funds is in dispute with legal proceedings being commenced in mauritius”,
+
+                   92
+
+
+
+
+foot note 92
+
+×
+
+
+
+  3rd respondent’s case at paras 78–79.
+
+
+
+ ie, the proceedings commenced by the weston entities in 2015 in which they obtained a mareva injunction against jtrust japan and jtrust indonesia: see [23] above.87 we are not persuaded by this argument. the question whether jtrust was the rightful owner of the funds that it invested in group lease thailand is disputed. cougar does not draw our attention to a number of facts in this regard.
+
+                   93
+
+
+
+
+foot note 93
+
+×
+
+
+
+  see appellant’s core bundle vol ii (part b) tab 26, p 77 at para 109.
+
+
+
+ first, the judgment and injunction in the mauritian proceedings were obtained against only jtrust japan and jtrust indonesia as defendants, with only notice of the injunction having been given to jtrust as a third party. second, the judgment and injunction were obtained in default of jtrust japan’s and jtrust indonesia’s appearance in those proceedings.
+
+                   94
+
+
+
+
+foot note 94
+
+×
+
+
+
+  1st and 2nd respondent’s supplementary core bundle, tab 1 at pp 17–19.
+
+
+
+ third and most significantly, jtrust japan, in october 2016, obtained a judgment from the tokyo district court which declared that jtrust japan did not owe the weston entities the obligations they had claimed to be owed in the mauritian proceedings.88 in this regard, we note that where the relief that is sought is interlocutory, there is often uncertainty as to the matters that are said to give rise to the lack of clean hands. such uncertainty ought to be taken into account in determining the balance of justice in granting or withholding relief: i c f spry, the principles of equitable remedies (sweet & maxwell, 8th ed, 2010) (“equitable remedies”) at pp 494–495. here, it is far from clear whether the weston entities can establish that it is the rightful owner of the funds that jtrust invested in group lease thailand. we note that the weston entities have not sought any tracing remedy in respect of those funds in the mauritian courts.
+
+                   95
+
+
+
+
+foot note 95
+
+×
+
+
+
+  1st and 2nd respondent’s supplementary core bundle, tab 1 at p 19.
+
+
+
+ further, the mauritian injunction does not give rise to any proprietary right over those funds. accordingly, it is not possible to say that jtrust is seeking to protect a right it has obtained unconscionably.full and frank disclosure89 the judge did not set aside the mareva injunction on the basis that jtrust had failed to provide full and frank disclosure of material information to kan sj at the ex parte application. therefore, the respondents’ submission before us on this issue may be understood in at least two ways: first, as an additional reason for upholding the decision below; and second, that notwithstanding that full disclosure has now been made, and the court on the evidence before it still finds that there is a good arguable case and a real risk of dissipation, the court should nevertheless refuse to grant mareva relief in order to penalise jtrust for breaching its duty of disclosure before kan sj. 90 on an ex parte application, the plaintiff must disclose to the court all matters within his knowledge which might be material even if they are prejudicial to the plaintiff’s claim: the “vasiliy golovnin” [2008] 4 slr(r) 994 at [83] per v k rajah ja. in the context of mareva relief, the applicable principles have been summarised by ralph gibson lj in brink’s mat ltd v elcombe [1988] 1 wlr 1350 at 1356f–1357g. our adaptation of those principles is as follows:(a) the duty of the plaintiff is to make a full and fair disclosure of all the material facts. the material facts are those which it is material for the judge to know in dealing with the application as made. materiality is to be decided by the court and not by the assessment of the plaintiff or his legal advisors.(b) the plaintiff must make proper inquiries before making the application. the extent of inquiries which will be held to be proper, and therefore necessary, must depend on all the circumstances of the case including (i) the nature of the case which the plaintiff is making when he makes the application; (ii) the order for which the application is made; and (iii) the probable effect of the order on the defendant.(c) if material non-disclosure is established, the court will be astute to ensure that a plaintiff who obtains an ex parte injunction without full disclosure is deprived of any advantage he may have derived by the breach of duty. in particular, the court will be inclined towards discharging the injunction for abuse of process, unless there are extenuating circumstances for which the plaintiff might be excused.(d) whether the fact not disclosed is of sufficient materiality to justify or require the immediate discharge of the order without examination of the merits depends on the importance of the fact to the issues which were to be decided by the judge on the application. the answer to the question whether the non-disclosure was innocent, in the sense that the fact was not known to the plaintiff or that its relevance was not perceived, is an important consideration but not decisive by reason of the duty on the plaintiff to make all proper inquiries and to give careful consideration to the case being presented.(e) it is not for every omission that the injunction will be automatically discharged. a locus poenitentiae may sometimes be afforded. the court has a discretion, notwithstanding proof of material non-disclosure which justifies or requires the immediate discharge of the ex parte order, nevertheless to continue the order, or to make the order on new terms. where the court finds it appropriate to continue an injunction despite material non-disclosure, the court may in its discretion hold that the plaintiff is sufficiently penalised by an appropriate order as to costs. 91 the respondents argue that jtrust misrepresented to kan sj that “very soon” after the commission’s news release on 16 october 2017, mr konoshita was understood to have “fled thailand and is uncontactable”.
+
+                   96
+
+
+
+
+foot note 96
+
+×
+
+
+
+  appellant’s core bundle vol ii (part a) tab 17, p 190 at para 89.
+
+
+
+ in fact, the respondents say, mr konoshita and mr fujisawa were in correspondence and continued to meet until end november 2017. however, it cannot be concluded from these facts that jtrust had lied to the court. we accept as reasonable the evidence of mr asano, who explained that starting in late december 2017 he believed that mr konoshita had fled thailand and was uncontactable due to mr konoshita’s cessation of email communication with mr fujisawa since 28 november 2017, and jtrust’s unsuccessful efforts to locate mr konoshita in thailand and singapore thereafter.
+
+                   97
+
+
+
+
+foot note 97
+
+×
+
+
+
+  appellant’s core bundle vol ii (part b) tab 26, pp 74–75 at paras 97–102.
+
+
+
+92 the respondents also submit that jtrust deliberately concealed mr fujisawa’s close relationship with mr konoshita.
+
+                   98
+
+
+
+
+foot note 98
+
+×
+
+
+
+  1st and 2nd respondents’ case at para 63.
+
+
+
+ that relationship is material, say the respondents, because it supports their case that mr konoshita had from the outset informed mr fujisawa about the loans to the borrowers. we are prepared to accept that jtrust should have disclosed to kan sj that after the news release, mr fujisawa and mr konoshita were in talks to merge their respective groups of companies. we accept that this is material because it is relevant to the respondents’ case that jtrust’s allegations of fraud are insincere. however, we do not think that this is an instance of non-disclosure which warrants discharge or denial of mareva relief. jtrust has acknowledged that those merger talks did take place, and its case is that after those talks broke down, it carried out its own investigations about the nature of the loans (which led to the warren and potter reports) and in reliance on that evidence decided to pursue legal action against mr konoshita and the other defendants. we find it difficult to accept that its failure to disclose its earlier talks with mr konoshita should disqualify it from obtaining mareva relief. for these reasons, we consider that none of the alleged misstatements or failures to disclose are sufficiently material to justify the discharge or the refusal of the injunctions. issue 4: abuse of process93 we come finally to the respondents’ submission that jtrust is abusing the court’s process because it is seeking only to cripple the respondents financially and because it has already obtained worldwide mareva injunctions against them in other jurisdictions. this submission raises two distinct issues of principle. first, is the mere fact that a plaintiff is seeking mareva relief for a collateral purpose sufficient to deny him such relief, even if he has established a good arguable case and a real risk of dissipation? second, under what circumstances might a plaintiff be granted mareva relief when he has already obtained a worldwide mareva injunction against the same defendant in another jurisdiction? we turn now to consider these issues. denying mareva relief on account of the plaintiff’s collateral purpose94 the basic requirement for issuing an interlocutory injunction is that it must “appear[] to the court to be just or convenient that such order should be made”: s 4(10) of the civil law act (cap 43, 1999 rev ed). the expression “just or convenient” first appeared in s 25(8) of the supreme court of judicature act 1873 (36 & 37 vict c 66) (uk), which was enacted to confirm the jurisdiction of the high court to grant an injunction to protect a pre-existing right in law or equity following the procedural fusion of those two bodies of law. in modern cases, the analysis involved is understood to consist in the broad question whether the ends pursued by the plaintiff are thought to justify the judicial means of injunctive relief: see david bean, isabel parry and andrew burns, injunctions (sweet & maxwell, 11th ed, 2012) at para 1-13. the essential criterion is injustice, but “[t]he exercise of the jurisdiction must be principled”: mercedes benz ag v leiduck [1996] 1 ac 284 (“mercedes benz”) at 308f per lord nicholls of birkenhead.95 the injustice that mareva relief protects against is the injustice perpetrated by a defendant who dissipates his assets in such a way as to frustrate execution under proceedings brought or to be brought by the plaintiff. the two principal requirements for the grant of mareva relief, namely, the existence of a good arguable case and a real risk of dissipation, have therefore been fashioned to enable the court precisely to assess the possibility of such injustice. naturally, when that possibility is shown to be more apparent than real, no relief will be granted. but even in the converse scenario, where the two requirements have been established, there remains scope for the refusal of relief.96 this appeal raises the question what principles govern that scope for refusing relief. the obvious and immediate answer is that the court’s discretion to grant injunctions should not be “fettered by rules” (kirklees metropolitan borough council v wickes building supplies ltd [1993] ac 227 at 271b at per lord goff of chieveley), and therefore the possibility must be left open for circumstances in which mareva relief is refused even though the two requirements are met. however, it is equally true that the jurisdiction spoken of “has been circumscribed by judicial authority dating back many years” (south carolina insurance co v assurantie maatschappij “de zeven provincien” nv [1987] ac 24 at 40b per lord brandon of oakbrook) and, as we have noted above, must be exercised in a “principled” manner (mercedes benz at 308f). given that the rationale for mareva relief itself is well established, it is possible and indeed necessary, in our view, also to rationalise the scope for refusing mareva relief in a case where both a good arguable case and a real risk of dissipation have been established. accepting that in theory the boundaries of that scope cannot be fully defined, we consider nevertheless that two scenarios which may fall within it are worthy of analysis in the light of the arguments that have been pursued in this case.97 the first scenario may be explained as follows. it may be observed that as a general matter, the avoidance of injustice by a coercive interlocutory remedy obtained by the plaintiff usually comes at the cost of imposing a burden on the defendant or a third party. if that burden is too great as to be undue or unjust, then that might well be a reason not to grant the relief sought. this consideration applies to the grant of mareva relief as much as it does to the grant of interlocutory injunctions generally. thus, for example, if a defendant produces cogent evidence that a mareva injunction would interfere unjustifiably with its business or that of a third party, then the court may regard that as a strong reason for refusing mareva relief: see allied marine services ltd v lmj international ltd [2006] 1 slr(r) 261 at [5] per tan lee meng j. this analysis is simply part of the court’s assessment of the justice and convenience of the overall outcome that obtains upon the granting of a mareva injunction, an assessment of this nature being necessary for any application for interlocutory relief. thus it is said in commercial injunctions at para 12-042:… in the context of mareva relief, the court has to bear in mind that there is a discretion to be exercised in all the circumstances of the case.those circumstances may themselves make it inappropriate to grant mareva relief even though the claimant shows a good arguable case and a risk that, without the injunction, judgment may go unsatisfied. an example is where, if an injunction were granted, it would interfere in an unacceptable way with third parties … another is where an injunction might itself destroy the defendant’s business. a bank depends on business confidence to continue in business. mareva relief may destroy that confidence at a stroke, leaving the defendant deprived of its business, but with the prospect of uncertain and expensive litigation on the cross-undertaking, with losses which of their nature are difficult to quantify and prove. the cross-undertaking in damages provides, in such a case, no adequate safeguard against the possibility that the injunction was wrongly granted. …the court should be satisfied before granting the relief that the likely effect of the injunction will be to promote the doing of justice overall, and not to work unfairly or oppressively. this means taking into account the interests of both parties and the likely effects of an injunction on the defendant. …  98 the second scenario is related to the first, but is conceptually distinct. a defendant may argue that the plaintiff is seeking a mareva injunction for a collateral purpose. that purpose might well be, as it is often alleged to be, to oppress the defendant by imposing on him through the injunction an undue financial burden. but the point of this argument is not to demonstrate that such a burden would be undue or would likely be imposed as a matter of fact. instead, it is that there is some impropriety in the plaintiff’s motive which, on its own, justifies a denial of the relief he seeks. this is precisely the effect of the respondents’ argument in this case: they have submitted, without having produced cogent evidence of the likely harm to their business that a mareva injunction would cause, that jtrust’s true goal in these proceedings is to cripple them financially. it is on the basis of this alleged improper motivation alone that the respondents impugn jtrust’s application as an abuse of the court’s process. the question is whether such an argument is, in principle, a valid one.99 in our judgment, it is a valid argument in principle. the reason for this lies not in the law on mareva or interlocutory relief, but in the general concept of abuse of process, which pervades the whole law of civil (and criminal) procedure. as lord sumption observed in virgin atlantic airways ltd v zodiac seats uk ltd (formerly contour aerospace ltd) [2014] ac 160 at [25], “abuse of process is a concept which informs the exercise of the court’s procedural powers”. in particular, it is a concept by which the court ascertains whether the proceedings in question constitute an “improper use of its machinery” (gabriel peter & partners (suing as a firm) v wee chong jin and others [1997] 3 slr(r) 649 at [22] per yong pung how cj), and if they do, then the court in the exercise of its inherent jurisdiction will disallow their continuance without hesitation. while the categories of abuse of process are not closed, its instances are well known. one of them is duplicative litigation: see the royal bank of scotland nv (formerly known as abn amro bank nv) and others) v tt international ltd (ntan corporate advisory pte ltd and others, other parties) and another appeal [2015] 5 slr 1104 at [98] per sundaresh menon cj, in the context of res judicata and the rule in henderson v henderson (1843) 3 hare 100. another is the commencement of proceedings for a collateral or ulterior purpose: see jeffrey pinsler sc, principles of civil procedure (academy publishing, 2013) at para 09.009, in the context of striking out applications. it is in this latter variety of abuse of process that the respondents’ argument in this case finds some traction in principle and authority.100 the leading case on the commencement of proceedings for a collateral or ulterior purpose as an abuse of process is the english court of appeal’s decision in lonrho plc and others v fayed and others (no 5) [1993] 1 wlr 1489. the first instance judge struck out the plaintiffs’ action for being an abuse of process, finding that the plaintiffs wanted only to use the court as a platform from which to broadcast their vilification of the defendants and so pursue a longstanding vendetta between the parties (at 1499d and 1500a–e). on appeal, the court of appeal found insufficient evidence of such a purpose, and therefore reinstated the action. but it affirmed the view that in principle, commencing proceedings for a collateral or ulterior purpose may amount to an abuse of process. stuart-smith lj put it this way (at 1502d–e):if an action is not brought bona fide for the purpose of obtaining relief but for some ulterior or collateral purpose, it may be struck out as an abuse of process of the court. the time of the court should not be wasted on such matters, and other litigants should not have to wait till they are disposed of. it may be that the trial judge will conclude that this is the case here; in which case he can dismiss the action then. but for the court to strike it out on this basis at this stage it must be clear that this is the case. i cannot agree with the judge that the point is so plain as to be unarguable.101 in our judgment, this analysis is valid especially for applications for mareva relief given the potentially draconian effects such relief may have on defendants. if a plaintiff seeks mareva relief for the predominant purpose of oppressing the defendant’s financial interests, then he is misusing the court’s mareva jurisdiction to achieve that which was intended only to prevent the defendant from frustrating the execution of an existing or anticipated judgment. such a motive would constitute a collateral or ulterior purpose which may on its own justify a refusal of his application. as kaye j put it in deputy commissioner of taxation v tom karas & ors [2012] vsc 68 at [18], it is “necessary that the court, in determining [such] an application … ensure that the freezing order does not constitute an instrument of unfair oppression to the party in respect of whose assets the freezing order has been made”. 102 accordingly, the position may be stated as follows. the court must consider whether the plaintiff applying for mareva relief truly has no genuine interest in obtaining a legal remedy through the underlying action, and decide whether, in all the circumstances, his predominant purpose behind the application is properly to be regarded as collateral or ulterior, and thereby renders the application an abuse of the court’s process. the court must analyse any allegation of collateral or ulterior purpose with care and rigour, for such allegations can easily be made. in particular, the court must assess the cogency of the evidence adduced to support the allegation and the substance of the purpose that is said to be collateral or ulterior. often, it will be said that the plaintiff’s purpose is to oppress the defendant financially. in this regard, it must be remembered that just because the injunction will have an inevitable financial impact on the defendant does not mean that the plaintiff has a predominant collateral purpose to cause that impact. instead, close attention to the circumstantial evidence will often be necessary in order to decide whether it can be inferred that the plaintiff has such a purpose, for it will in most cases hardly be made explicit, especially when a good arguable case and a real risk of dissipation have been established and in that process would have clothed the plaintiff’s action with a reasonable semblance of legitimacy.103 this approach, and the reasoning behind it which we have articulated, is supported by the principle behind an established line of cases on the consequences of a plaintiff’s delay in prosecuting the action under which it has obtained mareva relief: see lloyd’s bowmaker ltd v britannia arrow holdings plc [1988] 1 wlr 1337 (“lloyd’s bowmaker”); town and country building society v daisystar ltd and another, the times (16 october 1989, court of appeal) (england and wales); comdel commodities ltd v siporex trade sa [1997] 1 lloyd’s rep 424. it has been consistently held in these cases that once a plaintiff has obtained a mareva injunction, he has a duty to prosecute the action to trial, and not simply to “rest content with the injunction” (lloyd’s bowmaker 1349h–1350a per dillon lj), and that if he does unjustifiably delay, then the court will discharge the injunction, although all the circumstances will be taken into account (a/s d/s svendborg and others v awada and others [1999] 2 lloyd’s rep 244 at 245 cols 1–2 per steel j). it follows that if a defendant resisting a mareva application is able to show that the plaintiff’s purpose in making the application is precisely to “rest content with the injunction”, then the court will have good reason not to grant a mareva injunction. 104 this line of cases also suggests that until time has allowed the plaintiff to manifest its true intentions, it will ordinarily be difficult to prove that a plaintiff has a collateral or ulterior purpose of harming the defendant’s business. hence, from an evidential perspective, it is probably fair to say that at the early stage of litigation, if a plaintiff has established a good arguable case and a real risk of dissipation, it will be difficult though not impossible for the defendant to persuade the court to dismiss the application on the basis that the plaintiff’s quest for the mareva injunction was in truth driven by a collateral or ulterior purpose to harm the defendant’s business. thus in bouvier, even though this court found that the plaintiff had intended the mareva injunction as a tool of oppression, and that this was an independent basis for setting aside the injunction granted, this court also found that a real risk of dissipation had not been made out. 105 in the present case, we consider that there is insufficient evidence for the respondents’ view that the conspiracy action was brought for the sole purpose of crippling the group lease group of companies in order to force a merger between jtrust’s parent company and group lease thailand’s parent company, and that jtrust by the present proceedings is therefore abusing the court’s process. 106 on the one hand is the respondents’ narrative, which seems to support this view of jtrust’s motive behind the conspiracy action. the essential point is that jtrust does not seriously believe in the allegations of fraud that it is making because mr fujisawa did not seem to bat an eyelid when the commission’s news release was published in october 2017, and instead made repeated overtures to mr konoshita to consider a merger between jtrust japan and wedge holdings. the respondents also claim that mr fujisawa must have known the nature of the loans which were being extended to the borrowers because his text messages with mr konoshita in the wake of the commission’s news release reveals that he (mr fujisawa) knew the identity of the director of one of the cyprus borrowers, a man by the name of savvas pogiatzis.
+
+                   99
+
+
+
+
+foot note 99
+
+×
+
+
+
+  1st and 2nd respondents’ case at paras 91–96.
+
+
+
+107 on the other hand, we do not think that mr fujisawa’s attempt to negotiate a merger, and the fact that he knew about mr pogiatzis, entails that he had full knowledge of the details of the loans which had been extended by group lease singapore. indeed, the respondents themselves have claimed only that mr fujisawa knew about the existence of these loans, not that he knew their details. the facts that the respondents rely on in their narrative is equally consistent with the idea that jtrust genuinely decided to conduct its own investigation into the truth of the commission’s complaint after failing to negotiate a merger and thereafter to use the information obtained from that investigation to mount a legal claim against the group lease group of companies to recover its investment. the idea that jtrust decided to do that in order to bully the group lease group of companies into agreeing to a merger therefore cannot, in our view, be safely concluded from the available evidence.108 it follows that the respondents’ argument on abuse of process must fail. this is clearly not a case in which the court should deny the plaintiff mareva relief even though it has established a good arguable case and demonstrated a real risk of dissipation. granting a second or subsequent mareva injunction against the same defendant109 where a plaintiff has already obtained against the defendant a worldwide mareva injunction from the court of another jurisdiction, in what circumstances may a local court grant a second or subsequent mareva injunction against the same defendant, and when, if ever, should such an injunction be given worldwide effect? this is a question that tends to arise when the first injunction is for some reason thought to be difficult to enforce. it is also the question presented by jtrust’s application for a worldwide mareva injunction against mr konoshita, against whom it has already obtained such an injunction in the bvi. to address the question properly, it seems to us necessary to examine (a) the nature of the obligation that is imposed by a mareva injunction; (b) how that is different in relation to a worldwide mareva injunction; and (c) the means by which a worldwide mareva injunction ought to be enforced. 110 it was at one time suggested that a mareva injunction is a method of attaching the assets in question and operates in rem: z ltd v a-z and aa-ll [1982] 2 wlr 288 at 295d–e per lord denning mr. however, the better view is that it operates in personam, in accordance with general equitable principles, and therefore confers on the successful plaintiff no proprietary interest in the subject assets which gives it priority over a defendant’s creditors: see equitable remedies at p 528; commercial injunctions at para 12-037. this view is not controversial: see eg, the “nagasaki spirit” [1993] 3 slr(r) 878 at [15] per g p selvam jc (as he then was). in so far as a third party such as a bank is concerned, it is bound automatically if it is joined as a defendant, but if it is not, then it is bound when it receives notice of the injunction. in the latter case, if for example the bank aids or abets the defendant’s contravention of the injunction by allowing him to withdraw money in breach of the injunction, then that constitutes contempt of court, and the bank is liable to be punished: equitable remedies at p 528.111 the position of a third party outside the jurisdiction in which a worldwide mareva injunction was granted is different. it is not bound by the foreign-obtained injunction unless and until a court in its jurisdiction has declared that the injunction is enforceable against the defendant and the relevant third party: babanaft international co sa v bassatne and another [1990] 1 ch 13 at 44b–e per nicholls lj. the reason for this is the general principle that a state should refrain from demanding a foreigner’s obedience outside of that state’s jurisdiction: see mackinnon v donaldson, lufkin and jenrette securities corporation and others [1986] 2 wlr 453 at 459e–f per hoffmann j. derby & co ltd v weldon (nos. 3 and 4) [1990] 1 ch 65 (“derby (nos. 3 and 4)”) later qualified that a person who is subject to the jurisdiction of the court granting the injunction and who has notice of the order is required to prevent breaches of its terms if he is able to do so (at 84d–f per lord donaldson of lymington mr). but this proposition received its own qualification in baltic shipping co v translink shipping ltd and translink pacific shipping ltd [1995] 1 lloyd’s rep 673, which held that nothing in a worldwide mareva order should, in respect of assets outside the jurisdiction, prevent a third party from complying with what it reasonably believes to be its obligations under the law of the jurisdiction where those assets are situated or under the proper law of any bank account in question (at 675 col 2 per clarke j).112 it is now standard practice to state expressly the effect of these propositions by inserting provisos corresponding to each of them, which are today known as the babanaft, derby v weldon and baltic provisos respectively, in any mareva order intended to have worldwide effect. thus, these provisos are found in the english standard form for a worldwide mareva order, as well as its singapore counterpart: see the supreme court practice directions (“the practice directions”) appendix a, form 7 at para 9. they are also found in the bvi order, which jtrust obtained against mr konoshita in december 2017.113 the effect of these provisos in the bvi order is that jtrust’s primary method of recourse in the present case, as far as mr konoshita is concerned, should be an application to the high court for a declaration that the worldwide mareva injunction it had obtained in the bvi action is enforceable in singapore against him and the relevant third parties. we note in this connection that an affected party’s protection against such an application is the usual undertaking by the plaintiff that it will not without the court’s leave enforce the injunction or seek an order of a similar nature in another jurisdiction: see the practice directions at appendix a, form 7 at para 14 and bouvier at [131], citing dadourian group international inc v simms [2006] 1 wlr 2499 at [2] and [24] per arden lj. jtrust does not appear to have given such an undertaking in obtaining the worldwide mareva injunction in the bvi. however, by para 9 of the bvi order, the bvi court has expressly empowered jtrust to seek enforcement or recognition of the order, and to do so in singapore, japan and thailand, among other jurisdictions:
+
+                   100
+
+
+
+
+foot note 100
+
+×
+
+
+
+  1st and 2nd respondents’ supplementary core bundle tab 10, p 90 at para 9.
+
+
+
+9. the claimant shall have the right to notify third parties outside the jurisdiction of the high court of the existence of this order, and to seek enforcement and/or recognition of the same in, including but not limited to, the courts of singapore, japan and thailand.114 it will be appreciated that jtrust has not in fact sought recognition of the bvi order against mr konoshita here. it seeks instead another worldwide mareva injunction against him. in our judgment, this procedural choice presents no obstacle to that application, and we find it appropriate for jtrust to be granted a mareva injunction against him, but one with domestic and not worldwide effect.115 an application for a foreign worldwide mareva injunction to be declared enforceable in singapore against a defendant is in substance no different from an application for a fresh domestic injunction against that defendant, assuming that the underlying claims in the foreign proceeding and the domestic proceeding are substantively the same, as they are in this case: see [30] above. indeed, the latter application may present greater difficulty because the court is not being asked merely to recognise a foreign order, but also to consider the merits of making an order to similar or identical effect, as the case may be. hence, the fact that jtrust is not seeking enforcement of the bvi order in singapore is, on its own, no bar to jtrust’s obtaining a fresh mareva injunction against mr konoshita here in singapore. 116 therefore, in so far as the principal requirements for a mareva injunction have been made out in relation to mr konoshita, we see no reason for us not to reinstate the domestic mareva injunction against him that kan sj previously granted. as we have observed at [76] above, mr konoshita does have substantial assets in singapore, some of which are held by third party financial institutions. a domestic mareva injunction, which will ensure that these entities do not facilitate any attempt by mr konoshita to dissipate his assets, would therefore be appropriate. we also note that granting a plaintiff a domestic mareva injunction against the defendant when it already has a worldwide mareva injunction against the same defendant is by no means unprecedented: see eg, pertamina energy trading ltd v karaha bodas co llc and others [2007] 2 slr(r) 518. we are, however, unable to find any reason in principle or authority for granting jtrust another worldwide mareva injunction against mr konoshita. at the hearing, jtrust could not provide any reason why such an injunction was necessary. in the circumstances, we decline to grant it.117 the respondents submit that jtrust is abusing the process of the court by seeking worldwide mareva injunctions against all of them. they rely on the point made by this court in bouvier that a defendant should not, by being made subject to a mareva injunction, be made to face “the risk of oppression which may arise from a multiplicity of suits” (at [131]). the respondents’ view is that such a multiplicity of suits has indeed arisen.
+
+                   101
+
+
+
+
+foot note 101
+
+×
+
+
+
+  1st and 2nd respondents’ case at paras 143–148.
+
+
+
+ in addition to the bvi order, the respondents highlight that jtrust has obtained a worldwide mareva injunction against the cyprus borrowers from the cyprus courts. jtrust has also brought a civil complaint, a rehabilitation petition and a criminal complaint against group lease thailand in thailand.118 we fail to see how this submission applies to group lease singapore and cougar. apart from the bvi action where mr konoshita is a defendant (and we accept the point in relation to him), none of the proceedings mentioned above have been brought against the other respondents in this case. by contrast, the point made by this court in bouvier is that injunctive relief should not be abused to subject “a defendant” [emphasis added] to oppression arising from a multiplicity of suits (at [131]). the respondents have provided no factual reason to treat them and the entities who have been sued by jtrust in the other proceedings as a single entity which needs protection from international litigation; in fact, it will be recalled that it is the respondents’ (unsubstantiated) position that the cyprus borrowers are not connected to mr konoshita. relief to be granted119 we have explained why the domestic mareva injunction that kan sj granted against mr konoshita should be reinstated: see [115]–[116] above. in relation to group lease singapore and cougar, neither has been made the subject of any mareva injunction elsewhere in the world, and the principal requirements for mareva relief have been established in relation to both. it is therefore appropriate for us also to reinstate the domestic mareva injunctions that kan sj granted against them and to decide whether the injunctions against group lease singapore and cougar ought to be given worldwide effect.120 in derby (nos. 3 and 4) ([111] supra) at 79g–h, lord donaldson mr held that “[t]he existence of sufficient assets within the jurisdiction is an excellent reason for confining the jurisdiction [to grant a mareva injunction] to such assets, but, other considerations apart, the fewer the assets within the jurisdiction the greater the necessity for taking protective measures in relation to those outside it” [emphasis in original]. this proposition applies squarely to group lease singapore. the value of its declared assets in singapore is approximately us$5m: see [76] above. that is clearly insufficient to satisfy jtrust’s potential claim for us$180m. it also applies to cougar, who claims to have no assets in singapore, but has conceded that it must have some assets, either here or elsewhere, to service the loans extended to it by group lease singapore: see [77] above. accordingly, we are of the view that the injunctions against group lease singapore and cougar ought to have worldwide effect.121 finally, we deal with jtrust’s prohibitory application, ie, its application to insert a specific term in the injunctions to the effect that “the 1st, 2nd and 3rd defendants will not dispose of or deal with or diminish the value of their assets by way of asset sales, investments and/or loans, whether or not such asset sales, investments and loans are said to be made in the ordinary and proper course of business.” this application was prompted by group lease singapore’s public announcement on 14 january 2018 of its intention to undertake “asset sales, investments and/or loans” in the face of the injunction that kan sj had granted. in our view, such a provision is not necessary. as mr chan accepted at the hearing of the appeal, the usual wording adopted in a mareva injunction will be sufficient to restrain group lease singapore from dealing inappropriately with its assets, and if jtrust has reasons to believe that group lease singapore is in breach, jtrust can take the appropriate enforcement action.conclusion122 for the reasons above, we allow the appeal. we reinstate the domestic mareva injunctions that kan sj granted against all three respondents, and expand the injunctions against group lease singapore and cougar on a worldwide basis, in the terms proposed by jtrust in its worldwide application. parties are to file submissions of no more than five pages addressing us on costs within two weeks of the date of this judgment. steven chong     quentin loh   judge of appeal      judge  chan leng sun sc, sheik umar, michelle lee and nicolette oon (wong & leow llc) for the appellant;edric pan, melissa thng, chia huai yuan and zheng huaice (dentons rodyk & davidson llp) for the first and second respondent; andpradeep pillai and simren kaur sandhu (prp law llc).______________________________
