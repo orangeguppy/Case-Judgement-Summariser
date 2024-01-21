@@ -3,6 +3,8 @@ For specifying model architecture. Can add any other helper functions
 """
 from transformers import T5ForConditionalGeneration, T5Tokenizer
 import torch
+from random import shuffle
+import os
 
 class SummarizationModel:
     def __init__(self, model_name="t5-small"):
@@ -10,6 +12,18 @@ class SummarizationModel:
         self.model = T5ForConditionalGeneration.from_pretrained(model_name)
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.model.to(self.device)
+
+    def split_data_train_test(folder_name, test_ratio, random_seed=None):
+        files = os.listdir(os.path.abspath(folder_name))
+        if random_seed != None:
+            shuffle(files, random_seed=random_seed)
+        else:
+            shuffle(files)
+        split_index = round(len(files) * test_ratio)
+        training = [os.path.join(folder_name, file) for file in files[:split_index]]
+        testing = [os.path.join(folder_name, file) for file in files[split_index:]]
+        # Returns list of full file paths for training and test set respectively
+        return training, testing
 
     def train_epoch(self, train_loader, optimizer):
         self.model.train()
