@@ -20,10 +20,14 @@ https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html for training 
 """
 import model
 import utils
+import mlflow
 
 # This line is to set the model to use the GPU if available, else the CPU
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print(device)
+
+# Setup logger
+logger = utils.setup_logging()
 
 # Generate Dataset
 dataset = utils.generate_dataset() # Maybe can create a separate method for any additional preprocessing/tokenisation?
