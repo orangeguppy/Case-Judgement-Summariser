@@ -4,12 +4,7 @@ This is the pipeline for model training.
 2) Split dataset into train, validation, and test sets
 3) Set hyperparameters (refer to Google Doc). We can explore RandomSearch, GridSearch etc (these are methods for exploring the possible combinations of hyperparameters we can use)
 4) Instantiate model
-5) Call the train() method to train the model. 
-    We will need to test model performance at the end of each epoch on the Validation set as well during the training process.
-    The Validation set is supposed to be like a proxy for the Testing dataset, and is used to select the best version of the model for 
-    evaluating at the end with the Testing dataset.
-    The number of epochs is the number of times the entire dataset is passed through the model.
-6) Call the test() method to evaluate model performance
+5) Training
 
 Add method parameters as needed, this is just a template/pseudocode. 
 Don't need to follow the steps in this specific order either, it's just a list of things we need to do
