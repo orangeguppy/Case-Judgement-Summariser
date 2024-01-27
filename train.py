@@ -16,6 +16,7 @@ print(device)
 
 # Declare and instantiate model
 model1 = SummarizationModel(device, model_name="t5-small")
+print("Model created")
 
 # Declare country
 country = "India"
@@ -33,6 +34,7 @@ batch_size = 3
 logger = utils.setup_logging()
 
 # Split filepaths into training and testing
+print("Creating datasets")
 train_X, test_X, train_y, test_y = dataset_utils.split_data_train_test1(judgement_folder, summary_folder, 0.2)
 
 # Read contents and tokenize. 
@@ -69,8 +71,9 @@ train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
 test_loader = DataLoader(test_dataset, batch_size=batch_size, shuffle=True)
 
 # Train the model
+print("Model Training")
 for epoch in range(num_epochs):
-    average_loss = model1.train_epoch1(train_loader, optimizer)
+    average_loss = train_test_utils.train_epoch1(device, model1, train_loader, optimizer)
     print(f"Epoch {epoch+1}, Average Loss: {average_loss}") # Print t console
     logger.info(f"Epoch {epoch+1}, Average Loss: {average_loss}") # Save to log file
 
