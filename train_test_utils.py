@@ -74,9 +74,21 @@ def evaluate_meteor(device, model, val_loader):
             attention_mask = batch[1].to(device)  # Assuming attention_mask is the second element in the batch
             labels = batch[2].to(device)  # Assuming labels is the third element in the batch
 
-            generated_summary = model.summarize1(input_ids)
-            meteor_score_value = meteor_score.single_meteor_score(labels, generated_summary)
-            meteor_scores.append(meteor_score_value)
+            # Generate summaries
+            generated_summaries = []
+            for ids in input_ids:
+                summary = model.summarize1(ids.unsqueeze(0))
+                generated_summaries.append(summary)
+
+            # Tokenize reference summaries
+            tokenized_labels = [model.tokenizer.encode(label, return_tensors='pt').squeeze(0) for label in labels]
+
+            # Calculate METEOR score for each generated summary
+            for generated_summary, label_summary in zip(generated_summaries, tokenized_labels):
+                generated_summary = model.tokenizer.decode(generated_summary, skip_special_tokens=True)
+                label_summary = model.tokenizer.decode(label_summary, skip_special_tokens=True)
+                meteor_score_value = meteor_score.single_meteor_score(generated_summary, label_summary)
+                meteor_scores.append(meteor_score_value)
 
     average_meteor_score = sum(meteor_scores) / len(meteor_scores)
     return average_meteor_score
