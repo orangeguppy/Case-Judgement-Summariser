@@ -74,7 +74,7 @@ def evaluate_meteor(device, model, val_loader):
             attention_mask = batch[1].to(device)  # Assuming attention_mask is the second element in the batch
             labels = batch[2].to(device)  # Assuming labels is the third element in the batch
 
-            generated_summary = model.summarize(labels)
+            generated_summary = model.summarize1(input_ids)
             meteor_score_value = meteor_score.single_meteor_score(labels, generated_summary)
             meteor_scores.append(meteor_score_value)
 

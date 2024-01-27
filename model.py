@@ -19,6 +19,12 @@ class SummarizationModel:
         self.model.save_pretrained(model_weights_path)
         self.tokenizer.save_pretrained(tokenizer_weights_path)
 
+    def summarize1(self, input_ids, max_length=150, min_length=40):
+        self.model.eval()
+        # input_ids = self.tokenizer.encode(text, return_tensors='pt').to(self.device)
+        summary_ids = self.model.generate(input_ids, max_length=max_length, min_length=min_length, length_penalty=2.0, num_beams=4, early_stopping=True)
+        return self.tokenizer.decode(summary_ids[0], skip_special_tokens=True)
+
     def summarize(self, text, max_length=150, min_length=40):
         self.model.eval()
         input_ids = self.tokenizer.encode(text, return_tensors='pt').to(self.device)
