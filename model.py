@@ -2,7 +2,6 @@
 For specifying model architecture. Can add any other helper functions
 """
 from transformers import T5ForConditionalGeneration, T5Tokenizer
-from nltk.translate import meteor_score
 import torch
 from random import shuffle, seed
 import os

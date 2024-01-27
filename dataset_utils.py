@@ -1,7 +1,8 @@
 """
 Utility functions for dataset processing and loading
 """
-import logging
+import os
+from random import shuffle, seed
 
 def tokenize_data(texts, summaries, tokenizer):
     tokenized_data = tokenizer(
@@ -23,7 +24,7 @@ def tokenize_data(texts, summaries, tokenizer):
     return tokenized_data
 
 # function to split Judgement and Summary to train and test sets. 
-def split_data_train_test1(self, full_text_folder, summary_folder, test_ratio, random_seed=None):
+def split_data_train_test1(full_text_folder, summary_folder, test_ratio, random_seed=None):
     # Get list of files from both folders
     full_text_files = os.listdir(os.path.abspath(full_text_folder))
     summary_files = os.listdir(os.path.abspath(summary_folder))
@@ -52,25 +53,6 @@ def split_data_train_test1(self, full_text_folder, summary_folder, test_ratio, r
 
     # Returns lists of full file paths for training and test sets for both full text and summary
     return training_full_text, testing_full_text, training_summary, testing_summary
-
-def setup_logging():
-    # Create a logger
-    logger = logging.getLogger('train_test_logger')
-
-    # Create a file handler
-    file_handler = logging.FileHandler('output.log')
-
-    # Define the log message format
-    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-    file_handler.setFormatter(formatter)  # Set the formatter for the file handler
-
-    # Add the file handler to the logger
-    logger.addHandler(file_handler)
-
-    # Set logging level
-    logger.setLevel(logging.INFO)
-
-    return logger
 
 # Phase out?
 # def split_data_train_test(folder_name, test_ratio, random_seed=None):
