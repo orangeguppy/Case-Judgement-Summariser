@@ -3,7 +3,6 @@ Script for model training.
 """
 from model import SummarizationModel
 import os
-from random import shuffle, seed
 from transformers import T5ForConditionalGeneration, T5Tokenizer
 import torch
 from torch.utils.data import DataLoader, TensorDataset
@@ -79,6 +78,6 @@ for epoch in range(num_epochs):
 
 
 # Save the trained model
-model1.save("best_validation_weights")
+model1.save("best_validation_weights.pt")
 
 # Evaluate model performance

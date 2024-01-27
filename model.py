@@ -14,8 +14,10 @@ class SummarizationModel:
         self.model.to(device)
 
     def save(self, path):
-        self.model.save_pretrained(path)
-        self.tokenizer.save_pretrained(path)
+        model_weights_path = "model_weights_" + path
+        tokenizer_weights_path = "tokenizer_weights_" + path
+        self.model.save_pretrained(model_weights_path)
+        self.tokenizer.save_pretrained(tokenizer_weights_path)
 
     def summarize(self, text, max_length=150, min_length=40):
         self.model.eval()
