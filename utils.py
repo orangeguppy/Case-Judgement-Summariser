@@ -1,21 +1,4 @@
-"""
-Utility functions for dataset/dataloader, training/testing/validation functions, and any other miscellaneous helper functions.
-Add as needed!!
-"""
 import logging
-
-def generate_dataset():
-    pass
-
-# This method should be called to train the model on the Training set. 
-# Need to include code for saving the model weights when performance on the Validation set is best
-def train(model, device):
-    pass
-
-# This method should be called for testing on both Validation and Test sets
-# Make sure to include code to load the correct model weights
-def test(model, device): 
-    pass
 
 def setup_logging():
     # Create a logger
