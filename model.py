@@ -8,36 +8,11 @@ from random import shuffle, seed
 import os
 
 class SummarizationModel:
-    def __init__(self, model_name="t5-small"):
+    def __init__(self, device, model_name="t5-small"):
         self.tokenizer = T5Tokenizer.from_pretrained(model_name)
         self.model = T5ForConditionalGeneration.from_pretrained(model_name)
-        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        self.model.to(self.device)
-
-    def train_epoch1(self, train_loader, optimizer):
-        self.model.train()
-        total_loss = 0
-
-        for batch in train_loader:
-            input_ids = batch[0].to(self.device)  # Assuming input_ids is the first element in the batch
-            attention_mask = batch[1].to(self.device)  # Assuming attention_mask is the second element in the batch
-            labels = batch[2].to(self.device)  # Assuming labels is the third element in the batch
-
-            optimizer.zero_grad()
-
-            outputs = self.model(
-                input_ids=input_ids,
-                attention_mask=attention_mask,
-                labels=labels
-            )
-
-            loss = outputs.loss
-            loss.backward()
-            optimizer.step()
-
-            total_loss += loss.item()
-
-        return total_loss / len(train_loader)
+        self.device = device
+        self.model.to(device)
 
     def save(self, path):
         self.model.save_pretrained(path)

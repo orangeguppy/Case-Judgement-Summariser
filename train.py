@@ -9,8 +9,12 @@ import torch
 from torch.utils.data import DataLoader, TensorDataset
 import datasetutils
 
+# Set the model to use the GPU if available, else the CPU
+device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+print(device)
+
 # Declare and instantiate model
-model1 = SummarizationModel()
+model1 = SummarizationModel(device, model_name="t5-small")
 
 # Declare country
 country = "India"
@@ -27,10 +31,10 @@ batch_size = 3
 # Create logger
 logger = utils.setup_logging()
 
-# split filepaths into training and testing
+# Split filepaths into training and testing
 train_X, test_X, train_y, test_y = dataset_utils.split_data_train_test1(judgement_folder, summary_folder, 0.2)
 
-# read contents and tokenize. 
+# Read contents and tokenize. 
 train_data = dataset_utils.tokenize_data(
     [open(file, 'r').read() for file in train_X],
     [open(file, 'r').read() for file in train_y],
@@ -69,7 +73,10 @@ for epoch in range(num_epochs):
     print(f"Epoch {epoch+1}, Average Loss: {average_loss}") # Print t console
     logger.info(f"Epoch {epoch+1}, Average Loss: {average_loss}") # Save to log file
 
+    # If the model performed best on a validation dataset, save the weights
+
+
 # Save the trained model
-model1.save("a filepath")
+model1.save("best_validation_weights")
 
 # Evaluate model performance
