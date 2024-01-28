@@ -5,6 +5,8 @@ import utils
 logger = utils.setup_logging()
 
 def train_epoch1(device, model, train_loader, val_loader, optimizer):
+    # Log the current batch / max batches, and print the epoch
+    # Save the model more frequently, probably every few hundred batches. Can be a bit safer at the start
     model.model.train()
     total_loss = 0
     i = 0
@@ -33,17 +35,17 @@ def train_epoch1(device, model, train_loader, val_loader, optimizer):
         total_loss_30_batches += loss.item()
 
         if (i + 1) % 30 == 0:
-            avg_loss = total_loss / batch_count
+            avg_loss = total_loss_30_batches / batch_count
             print(f"Batch {i + 1}, Average Loss: {avg_loss:.4f}")
             logger.info(f"Batch {i + 1}, Average Loss: {avg_loss:.4f}")
             total_loss_30_batches = 0
             batch_count = 0
 
-            # Evaluate on the validation set
-            meteor_score = evaluate_meteor(device, model, val_loader)
-            if (meteor_score > best_validation_performance):
-                model.save("best_validation")
-                logger.info("Best validation performance. Model weights saved.")
+            # # Evaluate on the validation set
+            # meteor_score = evaluate_meteor(device, model, val_loader)
+            # if (meteor_score > best_validation_performance):
+            #     model.save("best_validation")
+            #     logger.info("Best validation performance. Model weights saved.")
         i += 1
         batch_count += 1
 

@@ -30,6 +30,8 @@ num_epochs = 3
 lr = 1e-5
 batch_size = 3
 
+# Make sure it can fit into current hardware
+
 # Create logger
 logger = utils.setup_logging()
 
