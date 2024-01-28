@@ -41,6 +41,8 @@ def train_epoch1(device, model, train_loader, val_loader, optimizer):
             total_loss_30_batches = 0
             batch_count = 0
 
+            model1.save("checkpoint.pt")
+
             # # Evaluate on the validation set
             # meteor_score = evaluate_meteor(device, model, val_loader)
             # if (meteor_score > best_validation_performance):
@@ -94,3 +96,5 @@ def evaluate_meteor(device, model, val_loader):
 
     average_meteor_score = sum(meteor_scores) / len(meteor_scores)
     return average_meteor_score
+
+# Different classes/methods for each metric
