@@ -43,22 +43,23 @@ def train_epoch1(device, model, epoch, train_loader, val_loader, optimizer):
 
         if (i + 1) % 30 == 29:
             avg_loss = total_loss_30_batches / batch_count
-            print(f"{epoch + 1}, {i + 1}, Average Loss: {avg_loss:.4f}")
-            logger.info(f"{epoch + 1}, {i + 1}, Average Loss: {avg_loss:.4f}")
+            # Evaluate on the validation set
+            meteor_score = evaluate_meteor(device, model, val_loader)
+            print(f"{epoch + 1}, {i + 1}, Average Loss: {avg_loss:.4f}, METEOR: {meteor_score}")
+            logger.info(f"{epoch + 1}, {i + 1}, Average Loss: {avg_loss:.4f}, METEOR: {meteor_score}")
             total_loss_30_batches = 0
             batch_count = 0
 
             model.save("checkpoint")
 
-            # Evaluate on the validation set
-            meteor_score = evaluate_meteor(device, model, val_loader)
             if (meteor_score > best_validation_performance):
                 model.save("best_validation")
                 logger.info("Best validation performance. Model weights saved.")
         i += 1
         batch_count += 1
 
-    return total_loss / len(train_loader)
+    meteor_score = evaluate_meteor(device, model, val_loader)
+    return total_loss / len(train_loader), meteor_score
 
 def evaluate(device, model, val_loader):
     model.model.eval()
@@ -116,9 +117,9 @@ def evaluate_meteor(device, model, val_loader):
 
     average_meteor_score = sum(meteor_scores) / len(meteor_scores)
     average_bert_score = sum(bert_scores) / len(bert_scores)
-    logger.info("Average METEOR Score: ", average_meteor_score)
+    logger.info(f"Average METEOR Score: {average_meteor_score}")
     print("Average METEOR Score: ", average_meteor_score)
 
-    logger.info("Average BERT Score: ", average_bert_score)
+    logger.info(f"Average BERT Score: {average_bert_score}")
     print("Average BERT Score: ", average_bert_score)
     return average_meteor_score

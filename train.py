@@ -75,9 +75,9 @@ test_loader = DataLoader(test_dataset, batch_size=batch_size, shuffle=True)
 # Train the model
 print("Model Training")
 for epoch in range(num_epochs):
-    average_loss = train_test_utils.train_epoch1(device, model1, epoch, train_loader, test_loader, optimizer)
-    print(f"Epoch {epoch+1}, Average Loss: {average_loss}") # Print to console
-    logger.info(f"Epoch {epoch+1}, Average Loss: {average_loss}") # Save to log file
+    average_loss, meteor_score = train_test_utils.train_epoch1(device, model1, epoch, train_loader, test_loader, optimizer)
+    print(f"Epoch {epoch+1}, Average Loss: {average_loss}, METEOR: {str(meteor_score)}") # Print to console
+    logger.info(f"Epoch {epoch+1}, Average Loss: {average_loss}, METEOR: {str(meteor_score)}") # Save to log file
 
 # Save the trained model
 model1.save("checkpoint")
