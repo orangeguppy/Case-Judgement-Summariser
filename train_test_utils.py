@@ -5,6 +5,8 @@ nltk.download('punkt')
 nltk.download('wordnet')
 import torch
 import utils
+from bert_score import BERTScorer
+from transformers import BertTokenizer, BertModel
 
 logger = utils.setup_logging()
 
@@ -76,6 +78,7 @@ def evaluate(device, model, val_loader):
 def evaluate_meteor(device, model, val_loader):
     model.model.eval()
     meteor_scores = []
+    bert_scores = []
     with torch.no_grad():
         for batch in val_loader:
             input_ids = batch[0].to(device)  # Assuming input_ids is the first element in the batch
@@ -90,13 +93,29 @@ def evaluate_meteor(device, model, val_loader):
 
             # Calculate METEOR score for each generated summary
             for generated_summary, label_summary in zip(generated_summaries, labels):
-                generated_summary = word_tokenize(generated_summary)
-                label_summary = model.tokenizer.decode(label_summary) # FIrst decode to plaintext
-                label_summary = word_tokenize(label_summary)
-                meteor_score_value = meteor_score.single_meteor_score(label_summary, generated_summary)
+                tokenised_generated_summary = word_tokenize(generated_summary)
+                decoded_label_summary = model.tokenizer.decode(label_summary) # FIrst decode to plaintext
+                label_summary = word_tokenize(decoded_label_summary)
+                meteor_score_value = meteor_score.single_meteor_score(label_summary, tokenised_generated_summary)
                 meteor_scores.append(meteor_score_value)
 
+                # Scoring ith BERTScore
+                tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
+                bert_model = BertModel.from_pretrained("bert-base-uncased")
+                inputs1 = tokenizer(decoded_label_summary, return_tensors="pt", padding=True, truncation=True)
+                inputs2 = tokenizer(generated_summary, return_tensors="pt", padding=True, truncation=True)
+                outputs1 = bert_model(**inputs1)
+                outputs2 = bert_model(**inputs2)
+                embeddings1 = outputs1.last_hidden_state.mean(dim=1).detach().numpy()
+                embeddings2 = outputs2.last_hidden_state.mean(dim=1).detach().numpy()
+
+                similarity = np.dot(embeddings1, embeddings2.T) / (np.linalg.norm(embeddings1) * np.linalg.norm(embeddings2))[0][0]
+
     average_meteor_score = sum(meteor_scores) / len(meteor_scores)
+    average_bert_score = sum(bert_scores) / len(bert_scores)
     logger.info("Average METEOR Score: ", average_meteor_score)
     print("Average METEOR Score: ", average_meteor_score)
+
+    logger.info("Average BERT Score: ", average_bert_score)
+    print("Average BERT Score: ", average_bert_score)
     return average_meteor_score
