@@ -7,6 +7,7 @@ import torch
 import utils
 from bert_score import BERTScorer
 from transformers import BertTokenizer, BertModel
+import numpy as np
 
 logger = utils.setup_logging()
 
