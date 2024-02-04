@@ -132,7 +132,7 @@ def evaluate_meteor(device, model, val_loader):
 
     average_meteor_score = sum(meteor_scores) / len(meteor_scores)
     average_bert_score = sum(bert_scores) / len(bert_scores)
-    average_rouge_score = sum(rouge_scores) / len(rouge_scores)
+    # average_rouge_score = sum(rouge_scores) / len(rouge_scores)
     average_bleu_score = sum(bleu_scores) / len(bleu_scores)
 
     logger.info(f"Average METEOR Score: {average_meteor_score}")
@@ -141,8 +141,8 @@ def evaluate_meteor(device, model, val_loader):
     logger.info(f"Average BERT Score: {average_bert_score}")
     print("Average BERT Score: ", average_bert_score)
 
-    logger.info(f"Average ROUGE-1 f1 Score: {average_rouge_score}")
-    print("Average Rouge-1 f1 Score: ", average_rouge_score)
+    # logger.info(f"Average ROUGE-1 f1 Score: {average_rouge_score}")
+    # print("Average Rouge-1 f1 Score: ", average_rouge_score)
 
     logger.info(f"Average BLEU Score: {average_bleu_score}")
     print("Average BLEU Score: ", average_bleu_score)
