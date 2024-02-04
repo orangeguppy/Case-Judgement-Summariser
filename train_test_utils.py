@@ -6,6 +6,7 @@ nltk.download('wordnet')
 import torch
 import utils
 from bert_score import BERTScorer
+from rouge import Rouge
 from transformers import BertTokenizer, BertModel
 import numpy as np
 
@@ -82,6 +83,7 @@ def evaluate_meteor(device, model, val_loader):
     model.model.eval()
     meteor_scores = []
     bert_scores = []
+    rouge_scores = []
     with torch.no_grad():
         for batch in val_loader:
             input_ids = batch[0].to(device)  # Assuming input_ids is the first element in the batch
@@ -94,8 +96,9 @@ def evaluate_meteor(device, model, val_loader):
                 summary = model.summarize1(ids.unsqueeze(0))
                 generated_summaries.append(summary)
 
-            # Calculate METEOR score for each generated summary
             for generated_summary, label_summary in zip(generated_summaries, labels):
+
+                # Calculate METEOR score for each generated summary
                 tokenised_generated_summary = word_tokenize(generated_summary)
                 decoded_label_summary = model.tokenizer.decode(label_summary) # FIrst decode to plaintext
                 label_summary = word_tokenize(decoded_label_summary)
@@ -112,15 +115,26 @@ def evaluate_meteor(device, model, val_loader):
                 embeddings1 = outputs1.last_hidden_state.mean(dim=1).detach().numpy()
                 embeddings2 = outputs2.last_hidden_state.mean(dim=1).detach().numpy()
 
+                # Calculate ROUGE score 
+                rouge = Rouge()
+                rouge_score_value = rouge.get_scores(generated_summary, label_summary)
+                rouge_scores.append(rouge_score_value)
+                
                 similarity = np.dot(embeddings1, embeddings2.T) / (np.linalg.norm(embeddings1) * np.linalg.norm(embeddings2))
                 similarity = similarity[0][0]
                 bert_scores.append(similarity)
 
     average_meteor_score = sum(meteor_scores) / len(meteor_scores)
     average_bert_score = sum(bert_scores) / len(bert_scores)
+    average_rouge_score = sum(rouge_scores) / len(rouge_scores)
+
     logger.info(f"Average METEOR Score: {average_meteor_score}")
     print("Average METEOR Score: ", average_meteor_score)
 
     logger.info(f"Average BERT Score: {average_bert_score}")
     print("Average BERT Score: ", average_bert_score)
+
+    logger.info(f"Average ROUGE Score: {average_rouge_score}")
+    print("Average Rouge Score: ", average_rouge_score)
+
     return average_meteor_score
