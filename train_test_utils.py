@@ -110,7 +110,7 @@ def evaluate_meteor(device, model, val_loader):
                 embeddings1 = outputs1.last_hidden_state.mean(dim=1).detach().numpy()
                 embeddings2 = outputs2.last_hidden_state.mean(dim=1).detach().numpy()
 
-                similarity = np.dot(embeddings1, embeddings2.T) / (np.linalg.norm(embeddings1) * np.linalg.norm(embeddings2))[0][0]
+                similarity = np.dot(embeddings1, embeddings2.T) / (np.linalg.norm(embeddings1) * np.linalg.norm(embeddings2))
 
     average_meteor_score = sum(meteor_scores) / len(meteor_scores)
     average_bert_score = sum(bert_scores) / len(bert_scores)
