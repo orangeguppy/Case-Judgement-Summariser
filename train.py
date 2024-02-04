@@ -19,7 +19,7 @@ model1 = SummarizationModel(device, model_name="t5-small")
 print("Model created")
 
 # Declare country
-country = "toy"
+country = "India"
 
 # Declare filepaths for x and y (attrbutes and labels)
 judgement_folder = f"dataset/{country}/judgement"

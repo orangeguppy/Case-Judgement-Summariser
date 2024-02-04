@@ -43,6 +43,7 @@ def train_epoch1(device, model, epoch, train_loader, val_loader, optimizer):
         total_loss_30_batches += loss.item()
 
         if (i + 1) % 30 == 29:
+            print(i)
             avg_loss = total_loss_30_batches / batch_count
             # Evaluate on the validation set
             meteor_score = evaluate_meteor(device, model, val_loader)
