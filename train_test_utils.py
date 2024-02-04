@@ -41,7 +41,7 @@ def train_epoch1(device, model, epoch, train_loader, val_loader, optimizer):
         total_loss += loss.item()
         total_loss_30_batches += loss.item()
 
-        if (i + 1) % 100 == 99:
+        if (i + 1) % 30 == 29:
             avg_loss = total_loss_30_batches / batch_count
             print(f"{epoch + 1}, {i + 1}, Average Loss: {avg_loss:.4f}")
             logger.info(f"{epoch + 1}, {i + 1}, Average Loss: {avg_loss:.4f}")
