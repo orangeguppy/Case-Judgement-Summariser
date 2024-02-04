@@ -117,10 +117,10 @@ def evaluate_meteor(device, model, val_loader):
                 embeddings1 = outputs1.last_hidden_state.mean(dim=1).detach().numpy()
                 embeddings2 = outputs2.last_hidden_state.mean(dim=1).detach().numpy()
 
-                # Calculate ROUGE-1 using f1 score
-                rouge = Rouge()
-                rouge_score_value = rouge.get_scores(generated_summary, label_summary)
-                rouge_scores.append(rouge_score_value[0]["rouge-1"]["f"])
+                # # Calculate ROUGE-1 using f1 score
+                # rouge = Rouge()
+                # rouge_score_value = rouge.get_scores(generated_summary, label_summary)
+                # rouge_scores.append(rouge_score_value[0]["rouge-1"]["f"])
                 
                 # Calculate BLEU score
                 bleu_score_value = sentence_bleu(generated_summary, label_summary)
