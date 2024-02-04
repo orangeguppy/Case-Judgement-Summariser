@@ -104,7 +104,7 @@ def evaluate_meteor(device, model, val_loader):
                 decoded_label_summary = model.tokenizer.decode(label_summary) # FIrst decode to plaintext
                 label_summary = word_tokenize(decoded_label_summary)
 
-                # Calculate METEOR score for each generated summary
+                # Calculate METEOR score 
                 meteor_score_value = meteor_score.single_meteor_score(label_summary, tokenised_generated_summary)
                 meteor_scores.append(meteor_score_value)
 
@@ -117,18 +117,10 @@ def evaluate_meteor(device, model, val_loader):
                 outputs2 = bert_model(**inputs2)
                 embeddings1 = outputs1.last_hidden_state.mean(dim=1).detach().numpy()
                 embeddings2 = outputs2.last_hidden_state.mean(dim=1).detach().numpy()
-
-<<<<<<< Updated upstream
-                # # Calculate ROUGE-1 using f1 score
-                # rouge = Rouge()
-                # rouge_score_value = rouge.get_scores(generated_summary, label_summary)
-                # rouge_scores.append(rouge_score_value[0]["rouge-1"]["f"])
                 
                 # Calculate BLEU score
                 bleu_score_value = sentence_bleu(generated_summary, label_summary)
                 bleu_scores.append(bleu_score_value)
-=======
->>>>>>> Stashed changes
 
                 similarity = np.dot(embeddings1, embeddings2.T) / (np.linalg.norm(embeddings1) * np.linalg.norm(embeddings2))
                 similarity = similarity[0][0]
@@ -146,7 +138,7 @@ def evaluate_meteor(device, model, val_loader):
     average_meteor_score = sum(meteor_scores) / len(meteor_scores)
     average_bert_score = sum(bert_scores) / len(bert_scores)
     # average_rouge_score = sum(rouge_scores) / len(rouge_scores)
-    average_bleu_score = sum(bleu_scores) / len(bleu_scores)
+    # average_bleu_score = sum(bleu_scores) / len(bleu_scores)
 
     logger.info(f"Average METEOR Score: {average_meteor_score}")
     print("Average METEOR Score: ", average_meteor_score)
