@@ -73,7 +73,7 @@ def evaluate(device, model, val_loader):
 
             total_loss += loss.item()
 
-    return total_loss / len(eval_loader)
+    return total_loss / len(val_loader)
 
 def evaluate_meteor(device, model, val_loader):
     model.model.eval()
