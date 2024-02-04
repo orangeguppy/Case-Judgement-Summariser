@@ -26,9 +26,9 @@ judgement_folder = f"dataset/{country}/judgement"
 summary_folder = f"dataset/{country}/summary"
 
 # Declare hyperparameters
-num_epochs = 3
+num_epochs = 10
 lr = 1e-5
-batch_size = 3
+batch_size = 16
 
 # Make sure it can fit into current hardware
 
@@ -75,9 +75,9 @@ test_loader = DataLoader(test_dataset, batch_size=batch_size, shuffle=True)
 # Train the model
 print("Model Training")
 for epoch in range(num_epochs):
-    average_loss = train_test_utils.train_epoch1(device, model1, train_loader, test_loader, optimizer)
-    print(f"Epoch {epoch+1}, Average Loss: {average_loss}") # Print t console
+    average_loss = train_test_utils.train_epoch1(device, model1, epoch, train_loader, test_loader, optimizer)
+    print(f"Epoch {epoch+1}, Average Loss: {average_loss}") # Print to console
     logger.info(f"Epoch {epoch+1}, Average Loss: {average_loss}") # Save to log file
 
 # Save the trained model
-model1.save("best_validation_weights.pt")
+model1.save("checkpoint")

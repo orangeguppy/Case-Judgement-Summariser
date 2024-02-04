@@ -1,10 +1,14 @@
 from nltk.translate import meteor_score
+from nltk import word_tokenize
+import nltk
+nltk.download('punkt')
+nltk.download('wordnet')
 import torch
 import utils
 
 logger = utils.setup_logging()
 
-def train_epoch1(device, model, train_loader, val_loader, optimizer):
+def train_epoch1(device, model, epoch, train_loader, val_loader, optimizer):
     # Log the current batch / max batches, and print the epoch
     # Save the model more frequently, probably every few hundred batches. Can be a bit safer at the start
     model.model.train()
@@ -34,20 +38,20 @@ def train_epoch1(device, model, train_loader, val_loader, optimizer):
         total_loss += loss.item()
         total_loss_30_batches += loss.item()
 
-        if (i + 1) % 30 == 0:
+        if (i + 1) % 100 == 99:
             avg_loss = total_loss_30_batches / batch_count
-            print(f"Batch {i + 1}, Average Loss: {avg_loss:.4f}")
-            logger.info(f"Batch {i + 1}, Average Loss: {avg_loss:.4f}")
+            print(f"{epoch + 1}, {i + 1}, Average Loss: {avg_loss:.4f}")
+            logger.info(f"{epoch + 1}, {i + 1}, Average Loss: {avg_loss:.4f}")
             total_loss_30_batches = 0
             batch_count = 0
 
-            model1.save("checkpoint.pt")
+            model.save("checkpoint")
 
-            # # Evaluate on the validation set
-            # meteor_score = evaluate_meteor(device, model, val_loader)
-            # if (meteor_score > best_validation_performance):
-            #     model.save("best_validation")
-            #     logger.info("Best validation performance. Model weights saved.")
+            # Evaluate on the validation set
+            meteor_score = evaluate_meteor(device, model, val_loader)
+            if (meteor_score > best_validation_performance):
+                model.save("best_validation")
+                logger.info("Best validation performance. Model weights saved.")
         i += 1
         batch_count += 1
 
@@ -84,17 +88,15 @@ def evaluate_meteor(device, model, val_loader):
                 summary = model.summarize1(ids.unsqueeze(0))
                 generated_summaries.append(summary)
 
-            # Tokenize reference summaries
-            tokenized_labels = [model.tokenizer.encode(label, return_tensors='pt').squeeze(0) for label in labels]
-
             # Calculate METEOR score for each generated summary
-            for generated_summary, label_summary in zip(generated_summaries, tokenized_labels):
-                generated_summary = model.tokenizer.decode(generated_summary, skip_special_tokens=True)
-                label_summary = model.tokenizer.decode(label_summary, skip_special_tokens=True)
-                meteor_score_value = meteor_score.single_meteor_score(generated_summary, label_summary)
+            for generated_summary, label_summary in zip(generated_summaries, labels):
+                generated_summary = word_tokenize(generated_summary)
+                label_summary = model.tokenizer.decode(label_summary) # FIrst decode to plaintext
+                label_summary = word_tokenize(label_summary)
+                meteor_score_value = meteor_score.single_meteor_score(label_summary, generated_summary)
                 meteor_scores.append(meteor_score_value)
 
     average_meteor_score = sum(meteor_scores) / len(meteor_scores)
+    logger.info("Average METEOR Score: ", average_meteor_score)
+    print("Average METEOR Score: ", average_meteor_score)
     return average_meteor_score
-
-# Different classes/methods for each metric
