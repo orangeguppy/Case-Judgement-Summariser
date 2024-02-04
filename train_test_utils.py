@@ -20,6 +20,7 @@ def train_epoch1(device, model, epoch, train_loader, val_loader, optimizer):
     best_validation_performance = 0
     batch_count = 0
     total_loss_30_batches = 0
+    total_num_batches = len(train_loader)
 
     for batch in train_loader:
         input_ids = batch[0].to(device)  # Assuming input_ids is the first element in the batch
@@ -45,8 +46,8 @@ def train_epoch1(device, model, epoch, train_loader, val_loader, optimizer):
             avg_loss = total_loss_30_batches / batch_count
             # Evaluate on the validation set
             meteor_score = evaluate_meteor(device, model, val_loader)
-            print(f"{epoch + 1}, {i + 1}, Average Loss: {avg_loss:.4f}, METEOR: {meteor_score}")
-            logger.info(f"{epoch + 1}, {i + 1}, Average Loss: {avg_loss:.4f}, METEOR: {meteor_score}")
+            print(f"{epoch + 1}, {i + 1}/{total_num_batches}, Average Loss: {avg_loss:.4f}, METEOR: {meteor_score}")
+            logger.info(f"{epoch + 1}, {i + 1}/{total_num_batches}, Average Loss: {avg_loss:.4f}, METEOR: {meteor_score}")
             total_loss_30_batches = 0
             batch_count = 0
 
