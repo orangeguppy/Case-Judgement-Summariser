@@ -6,10 +6,17 @@ import torch
 from random import shuffle, seed
 import os
 
-class SummarizationModel:
-    def __init__(self, device, model_name="t5-small"):
-        self.tokenizer = T5Tokenizer.from_pretrained(model_name)
-        self.model = T5ForConditionalGeneration.from_pretrained(model_name)
+class SummarizationModel:  #added option to continue training with trained weights
+    def __init__(self, device, model_name="t5-small", model_weights_path=None, tokenizer_weights_path=None):
+        if model_weights_path is not None:
+            self.model = T5ForConditionalGeneration.from_pretrained(model_weights_path)
+        else:
+            self.model = T5ForConditionalGeneration.from_pretrained(model_name)
+        
+        if tokenizer_weights_path is not None:
+            self.tokenizer = T5Tokenizer.from_pretrained(tokenizer_weights_path)
+        else:
+            self.tokenizer = T5Tokenizer.from_pretrained(model_name)
         self.device = device
         self.model.to(device)
 

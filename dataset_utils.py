@@ -41,6 +41,8 @@ def split_data_train_test1(full_text_folder, summary_folder, test_ratio, random_
     # Calculate split index based on test ratio
     split_index = round(len(combined_files) * test_ratio)
 
+    print("split index is: " + str(split_index))
+
     # Separate the combined files back into full text and summary files
     shuffled_full_text_files, shuffled_summary_files = zip(*combined_files)
 
@@ -64,5 +66,6 @@ def split_data_train_test1(full_text_folder, summary_folder, test_ratio, random_
 #     split_index = round(len(files) * test_ratio)
 #     training = [os.path.join(folder_name, file) for file in files[:split_index]]
 #     testing = [os.path.join(folder_name, file) for file in files[split_index:]]
-#     # Returns list of full file paths for training and test set respectively
+#     # Returns list of full file paths for
+#   training and test set respectively
 #     return training, testing
