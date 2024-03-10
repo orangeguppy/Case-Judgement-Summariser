@@ -38,6 +38,18 @@ class SummarizationModel:  #added option to continue training with trained weigh
         summary_ids = self.model.generate(input_ids, max_length=max_length, min_length=min_length, length_penalty=2.0, num_beams=4, early_stopping=True)
         return self.tokenizer.decode(summary_ids[0], skip_special_tokens=True)
 
+model = SummarizationModel(device="cpu", model_name="t5-small")
+model.model = T5ForConditionalGeneration.from_pretrained('weights/T5_india/model_weights_best_validation/')
+# model.load_state_dict(torch.load('weights/T5_india/model_weights_best_validation/model.safetensors'))
+country = "India"
+judgement_folder = f"dataset/{country}/judgement"
+for file_name in os.listdir(judgement_folder):
+    file_path = os.path.join(judgement_folder, file_name)
+    with open(file_path, 'r') as file:
+        text = file.read()
+    summary = model.summarize(text)
+    print(file_name, " summary: ", summary)
+
 # Phase out?
     # def train_epoch(self, train_loader, optimizer):
     #     self.model.train()

@@ -8,7 +8,7 @@ import utils
 from bert_score import BERTScorer
 from transformers import BertTokenizer, BertModel
 from rouge import Rouge
-from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
+from nltk.translate.bleu_score import sentence_bleu
 import numpy as np
 logger = utils.setup_logging()
 
@@ -145,6 +145,10 @@ def evaluate_meteor(device, model, val_loader): #added rouge and bleu
                 outputs2 = bert_model(**inputs2)
                 embeddings1 = outputs1.last_hidden_state.mean(dim=1).detach().numpy()
                 embeddings2 = outputs2.last_hidden_state.mean(dim=1).detach().numpy()
+                
+                # Calculate BLEU score
+                bleu_score_value = sentence_bleu(generated_summary, label_summary)
+                bleu_scores.append(bleu_score_value)
 
                 similarity = np.dot(embeddings1, embeddings2.T) / (np.linalg.norm(embeddings1) * np.linalg.norm(embeddings2))
                 similarity = similarity[0][0]
@@ -186,77 +190,3 @@ def evaluate_meteor(device, model, val_loader): #added rouge and bleu
     print("Average BLEU Score: ", average_bleu_score)
     
     return average_meteor_score
-
-# def evaluate_meteor(device, model, val_loader):
-#     model.model.eval()
-#     meteor_scores = []
-#     bert_scores = []
-#     rouge_scores = []
-#     bleu_scores = []
-#     with torch.no_grad():
-#         for batch in val_loader:
-#             input_ids = batch[0].to(device)  # Assuming input_ids is the first element in the batch
-#             attention_mask = batch[1].to(device)  # Assuming attention_mask is the second element in the batch
-#             labels = batch[2].to(device)  # Assuming labels is the third element in the batch
-
-#             # Generate summaries
-#             generated_summaries = []
-#             for ids in input_ids:
-#                 summary = model.summarize1(ids.unsqueeze(0))
-#                 generated_summaries.append(summary)
-
-#             for generated_summary, label_summary in zip(generated_summaries, labels):
-
-#                 tokenised_generated_summary = word_tokenize(generated_summary)
-#                 decoded_label_summary = model.tokenizer.decode(label_summary) # FIrst decode to plaintext
-#                 label_summary = word_tokenize(decoded_label_summary)
-
-#                 # Calculate METEOR score 
-#                 meteor_score_value = meteor_score.single_meteor_score(label_summary, tokenised_generated_summary)
-#                 meteor_scores.append(meteor_score_value)
-
-#                 # Scoring ith BERTScore
-#                 tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
-#                 bert_model = BertModel.from_pretrained("bert-base-uncased")
-#                 inputs1 = tokenizer(decoded_label_summary, return_tensors="pt", padding=True, truncation=True)
-#                 inputs2 = tokenizer(generated_summary, return_tensors="pt", padding=True, truncation=True)
-#                 outputs1 = bert_model(**inputs1)
-#                 outputs2 = bert_model(**inputs2)
-#                 embeddings1 = outputs1.last_hidden_state.mean(dim=1).detach().numpy()
-#                 embeddings2 = outputs2.last_hidden_state.mean(dim=1).detach().numpy()
-                
-#                 # Calculate BLEU score
-#                 bleu_score_value = sentence_bleu(generated_summary, label_summary)
-#                 bleu_scores.append(bleu_score_value)
-
-#                 similarity = np.dot(embeddings1, embeddings2.T) / (np.linalg.norm(embeddings1) * np.linalg.norm(embeddings2))
-#                 similarity = similarity[0][0]
-#                 bert_scores.append(similarity)
-
-#                 # # Calculate ROUGE-1 using f1 score
-#                 # rouge = Rouge()
-#                 # rouge_score_value = rouge.get_scores(tokenised_generated_summary, label_summary)
-#                 # rouge_scores.append(rouge_score_value[0]["rouge-1"]["f"])
-                
-#                 # # Calculate BLEU score
-#                 # bleu_score_value = sentence_bleu(tokenised_generated_summary, label_summary)
-#                 # bleu_scores.append(bleu_score_value)
-                
-#     average_meteor_score = sum(meteor_scores) / len(meteor_scores)
-#     average_bert_score = sum(bert_scores) / len(bert_scores)
-#     # average_rouge_score = sum(rouge_scores) / len(rouge_scores)
-#     # average_bleu_score = sum(bleu_scores) / len(bleu_scores)
-
-#     logger.info(f"Average METEOR Score: {average_meteor_score}")
-#     print("Average METEOR Score: ", average_meteor_score)
-
-#     logger.info(f"Average BERT Score: {average_bert_score}")
-#     print("Average BERT Score: ", average_bert_score)
-
-#     # logger.info(f"Average ROUGE-1 f1 Score: {average_rouge_score}")
-#     # print("Average Rouge-1 f1 Score: ", average_rouge_score)
-
-#     # logger.info(f"Average BLEU Score: {average_bleu_score}")
-#     # print("Average BLEU Score: ", average_bleu_score)
-
-#     return average_meteor_score
