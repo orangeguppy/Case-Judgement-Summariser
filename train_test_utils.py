@@ -96,8 +96,8 @@ def evaluate_meteor(device, model, val_loader): #added rouge and bleu
     model.model.eval()
     meteor_scores = []
     bert_scores = []
-    rouge_scores = []
-    bleu_scores = []
+    #rouge_scores = []
+    #bleu_scores = []
     batch_count = 0
 
     # Initialize tokenizer and BERT model once
@@ -105,9 +105,9 @@ def evaluate_meteor(device, model, val_loader): #added rouge and bleu
     bert_model = BertModel.from_pretrained("bert-base-uncased")
     
     #Initialize rouge
-    rouge = Rouge()
+    #rouge = Rouge()
 
-    smooth_func = SmoothingFunction().method1
+    #smooth_func = SmoothingFunction().method1
     with torch.no_grad():
         for batch in val_loader:
 
@@ -145,14 +145,13 @@ def evaluate_meteor(device, model, val_loader): #added rouge and bleu
                 outputs2 = bert_model(**inputs2)
                 embeddings1 = outputs1.last_hidden_state.mean(dim=1).detach().numpy()
                 embeddings2 = outputs2.last_hidden_state.mean(dim=1).detach().numpy()
-                
-                # Calculate BLEU score
-                bleu_score_value = sentence_bleu(generated_summary, label_summary)
-                bleu_scores.append(bleu_score_value)
-
                 similarity = np.dot(embeddings1, embeddings2.T) / (np.linalg.norm(embeddings1) * np.linalg.norm(embeddings2))
                 similarity = similarity[0][0]
                 bert_scores.append(similarity)
+                
+                # Calculate BLEU score
+                '''bleu_score_value = sentence_bleu(generated_summary, label_summary)
+                bleu_scores.append(bleu_score_value)
                 
                 #rouge
                 rouge_score_value = rouge.get_scores(generated_summary, ' '.join(tokenised_label_summary))
@@ -161,21 +160,19 @@ def evaluate_meteor(device, model, val_loader): #added rouge and bleu
                 #BLEU score
                 smooth_func = SmoothingFunction().method1
                 bleu_score_value = sentence_bleu([tokenised_label_summary], generated_summary, smoothing_function=smooth_func)
-                bleu_scores.append(bleu_score_value)
+                bleu_scores.append(bleu_score_value)'''
 
                 print("batch: " + str(batch_count) + "\n" + 
                       " meteor: " + str(meteor_score_value) + "\n" + 
-                      " bert: " + str(similarity) + "\n" + 
-                      "rouge: " + str(rouge_score_value[0]["rouge-1"]["f"]) + "\n" + 
-                      "bleu: " + str(bleu_score_value))
+                      " bert: " + str(similarity)) 
 
             batch_count += 1
 
     # Calculate and log average scores
     average_meteor_score = sum(meteor_scores) / len(meteor_scores)
     average_bert_score = sum(bert_scores) / len(bert_scores)
-    average_rouge_score = sum(rouge_scores) / len(rouge_scores)
-    average_bleu_score = sum(bleu_scores) / len(bleu_scores)
+    #average_rouge_score = sum(rouge_scores) / len(rouge_scores)
+    #average_bleu_score = sum(bleu_scores) / len(bleu_scores)
 
     logger.info(f"Average METEOR Score: {average_meteor_score}")
     print("Average METEOR Score: ", average_meteor_score)
@@ -183,10 +180,10 @@ def evaluate_meteor(device, model, val_loader): #added rouge and bleu
     logger.info(f"Average BERT Score: {average_bert_score}")
     print("Average BERT Score: ", average_bert_score)
 
-    logger.info(f"Average ROUGE-1 f1 Score: {average_rouge_score}")
+    '''logger.info(f"Average ROUGE-1 f1 Score: {average_rouge_score}")
     print("Average Rouge-1 f1 Score: ", average_rouge_score)
 
     logger.info(f"Average BLEU Score: {average_bleu_score}")
-    print("Average BLEU Score: ", average_bleu_score)
+    print("Average BLEU Score: ", average_bleu_score)'''
     
     return average_meteor_score
