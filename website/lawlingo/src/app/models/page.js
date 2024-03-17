@@ -19,16 +19,16 @@ export default function Models() {
                             <Link className="underline" href={model.link}>{model.name}</Link>
                             <br /> <br />
                             <div className="items-center">
-                                <button type="button" class="text-white bg-gray-800 hover:bg-gray-900 focus:outline-none focus:ring-4 focus:ring-gray-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700">
-                                    Try {model.name}
-                                </button>
+                                <Link href={`${model.name}`}>
+                                    <button type="button" class="text-white bg-gray-800 hover:bg-gray-900 focus:outline-none focus:ring-4 focus:ring-gray-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700">
+                                        Try {model.name}
+                                    </button>
+                                </Link>
                             </div>
                         </div>
                     )
                 }
             </div>
-
-
         </main>
     );
 }
