@@ -2,3 +2,4 @@ nltk==3.8.1
 sentencepiece==0.1.99
 torch==2.1.2
 transformers==4.36.2
+flask==3.0.0
