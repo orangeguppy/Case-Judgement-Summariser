@@ -1,6 +1,3 @@
-from flask import Flask, jsonify
-
-app = Flask(__name__)
 # pip install requests
 # pip install beautifulsoup4
 
@@ -28,11 +25,3 @@ for row in rows:
     td = row.find_all("td")
     glossary_dict[td[0].get_text().lower()] = td[1].get_text(strip=True)
 print(glossary_dict)
-
-@app.route("/api/glossary")
-def get_glossary():
-    return jsonify(glossary_dict)
-
-if __name__ == "__main__":
-    app.run(debug=True)
-

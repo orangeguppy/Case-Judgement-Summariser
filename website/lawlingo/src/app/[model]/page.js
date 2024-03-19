@@ -1,15 +1,13 @@
 'use client';
+import axios from 'axios';
 import { useEffect, useState } from "react"
-import { useParams } from 'react-router-dom';
+import { useParams } from 'next/navigation'
+
 
 export default function Model() {
     const [inputText, setInputText] = useState("");
     const [summary, setSummary] = useState("");
-    const { params } = useParams();
-
-    useEffect(() => {
-        setSummary("He is a Witness");
-    }, [])
+    const params = useParams()["model"];
 
     const glosarry = {
         "accused": "A person who is charged with breaking the law. Also known as a defendant.",
@@ -103,15 +101,26 @@ export default function Model() {
         "witness": "A person who gives evidence at a trial. A witness has to formally give an oath or affirmation to tell the truth before being allowed to give evidence."
     }
 
-    const Summarise = () => {
-
+    const Summarise = async () => {
+        try {
+            console.log("summarise in progress");
+            const response = await axios.post(`http://localhost:5000/${params}`, { text: inputText.toLowerCase() }, {
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Access-Control-Allow-Origin': '*' // Enable CORS for all origins
+                }
+            });
+            setSummary(response.data.summary);
+        } catch (error) {
+            console.error('Error summarizing text:', error);
+        }
     }
 
     return (
         <main className="flex min-h-screen flex-col items-center justify-between p-24">
             <div>
                 <p className="text-bold text-xl">
-                    {params}
+                    {/* {params} */}
                 </p>
             </div>
             <form className="w-full">
@@ -123,7 +132,7 @@ export default function Model() {
                             className="w-full px-0 text-sm text-gray-900 bg-white border-0 dark:bg-gray-800 focus:ring-0 dark:text-white dark:placeholder-gray-400"
                             placeholder="Enter legal text..."
                             value={inputText}
-                            onChange={() => setInputText(e.target.value)}
+                            onChange={(e) => setInputText(e.target.value)}
                             required
                         />
                     </div>
@@ -157,9 +166,7 @@ export default function Model() {
                                     {
                                         summary.split(" ").map((word, index) => {
                                             const keyword = word.toLowerCase();
-                                            console.log(keyword);
                                             if (glosarry.hasOwnProperty(keyword)) {
-                                                console.log("hi");
                                                 return <li key={index}>{word}: {glosarry[keyword]}</li>
                                             } else {
                                                 return null;
