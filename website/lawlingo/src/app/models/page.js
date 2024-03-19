@@ -3,7 +3,7 @@ export default function Models() {
     const models = [
         { name: "T5", link: "https://huggingface.co/docs/transformers/en/model_doc/t5" },
         { name: "Pegasus", link: "https://huggingface.co/docs/transformers/en/model_doc/pegasus" },
-        { name: "GPT", link: "https://huggingface.co/docs/transformers/en/model_doc/gpt2" }
+        { name: "Bart", link: "https://huggingface.co/docs/transformers/en/model_doc/bart" }
     ]
     return (
         <main className="flex min-h-screen flex-col items-center justify-between p-24">
