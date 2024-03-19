@@ -63,7 +63,7 @@ def get_summary():
     else:
         return jsonify({"error": "Request data must be in JSON format"}), 400
     
-@app.route("/bart", methods=["POST"])
+@app.route("/Bart", methods=["POST"])
 @cross_origin()
 def get_bart_summary():
     if request.is_json:
