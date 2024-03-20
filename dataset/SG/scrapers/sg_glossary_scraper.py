@@ -23,5 +23,5 @@ rows = soup.find_all("tr")
 glossary_dict = {}
 for row in rows:
     td = row.find_all("td")
-    glossary_dict[td[0].get_text()] = td[1].get_text(strip=True)
+    glossary_dict[td[0].get_text().lower()] = td[1].get_text(strip=True)
 print(glossary_dict)
