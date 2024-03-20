@@ -103,7 +103,8 @@ def get_summary():
         data = request.json
         if "text" in data:
             input_text = data["text"]
-            model = SummarizationModel(device="cpu", model_name="t5-small")
+            device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+            model = SummarizationModel(device, model_name="t5-small")
             model.model = T5ForConditionalGeneration.from_pretrained('weights/T5_india/model_weights_best_validation/')
             model.tokenizer = T5Tokenizer.from_pretrained('weights/T5_india/tokenizer_weights_best_validation/')
             # model.load_state_dict(torch.load('weights/T5_india/model_weights_best_validation/model.safetensors'))
@@ -122,7 +123,8 @@ def get_bart_summary():
         data = request.json
         if "text" in data:
             input_text = data["text"]
-            model = SummarizationModel(device="cpu", model_name="t5-small")
+            device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+            model = SummarizationModel(device, model_name="t5-small")
             model.model = BartForConditionalGeneration.from_pretrained("facebook/bart-large", forced_bos_token_id=0)
             model.tokenizer = BartTokenizer.from_pretrained("facebook/bart-large")
             output_summary = model.summarize(input_text)
@@ -140,7 +142,8 @@ def get_pegasus_summary():
         data = request.json
         if "text" in data:
             input_text = data["text"]
-            model = SummarizationModel_Pegasus(device="cpu", model_name="google/pegasus-large", model_weights_path="weights/model_weights_best_validation/", tokenizer_weights_path="weights/tokenizer_weights_best_validation/")
+            device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+            model = SummarizationModel_Pegasus(device, model_name="google/pegasus-large", model_weights_path="weights/Pegasus/model_weights_best_validation/", tokenizer_weights_path="weights/Pegasus/tokenizer_weights_best_validation/")
             output_summary = model.summarize(input_text)
             
             return jsonify({"summary": output_summary}), 200
